@@ -167,6 +167,7 @@ def collect(cfg):
                 continue
             it["source"] = feed["source"]
             it["sport"] = feed["sport"]
+            it["weight"] = feed.get("weight", 1.0)
             by_team.setdefault(feed["team"], []).append(it)
             fresh += 1
         report.append((feed["team"], feed["url"], "ok", f"{fresh} recent items"))
@@ -181,8 +182,12 @@ def collect(cfg):
                 # same story in multiple sport feeds = department-wide news;
                 # a specific sport label would be wrong, so drop it
                 seen[key]["sport"] = "all"
-        cap = cfg["max_items_conference"] if team == "conference" else cfg["max_items_per_team"]
-        by_team[team] = merge_cross_source(unique)[:cap]
+        merged = merge_cross_source(unique)
+        if team == "conference":
+            by_team[team] = merged[:cfg["max_items_conference"]]
+        else:
+            by_team[team] = select_for_page(
+                merged, cfg["max_items_per_team"], cfg["top_stories_per_team"], now)
     return by_team, report
 
 
@@ -210,6 +215,49 @@ def merge_cross_source(items):
         if not merged:
             kept.append(it)
     return kept
+
+
+def story_score(it, now):
+    """Fan-importance heuristic (roadmap: recency + source weight + coverage).
+    Coverage decays on a slower clock than recency so a story several outlets
+    covered stays on top for a day or two, not a week."""
+    if it["date"] is not None:
+        age_h = (now - it["date"]).total_seconds() / 3600
+    else:
+        age_h = 1080  # undated: rank as the oldest the 45-day window allows
+    extra_sources = min(len(it.get("also", [])), 2)
+    return (it.get("weight", 1.0) * 2 ** (-age_h / 36)
+            + 0.6 * extra_sources * 2 ** (-age_h / 72))
+
+
+def split_top(items, now, top_n):
+    """Return (top stories by score, the rest newest-first).
+    The leading top_n are always score-ordered — even when nothing folds —
+    so the visible order doesn't reshuffle the day an extra item arrives.
+    A one-item tail stays inline rather than folding into a stub."""
+    if top_n <= 0 or len(items) <= 1:
+        return items, []
+    ranked = sorted(items, key=lambda i: story_score(i, now), reverse=True)
+    top_ids = {id(i) for i in ranked[:top_n]}
+    rest = [i for i in items if id(i) not in top_ids]
+    if len(rest) < 2:
+        return ranked[:top_n] + rest, []
+    return ranked[:top_n], rest
+
+
+def select_for_page(items, cap, top_n, now):
+    """Cap a team's page items without letting the cap drop a top-ranked
+    story: the pinned top_n survive, the rest of the budget goes to the
+    newest. Input and output are newest-first."""
+    if len(items) <= cap:
+        return items
+    if top_n <= 0:
+        return items[:cap]
+    ranked = sorted(items, key=lambda i: story_score(i, now), reverse=True)
+    pinned = {id(i) for i in ranked[:top_n]}
+    rest = [i for i in items if id(i) not in pinned][:max(cap - len(pinned), 0)]
+    keep = pinned | {id(i) for i in rest}
+    return [i for i in items if id(i) in keep]
 
 
 def render_item(it, cfg, now, in_team_section):
@@ -250,7 +298,12 @@ def render_section(title, color, items, cfg, now, anchor, team=None):
         if links:
             follow = f'<p class="follow">Follow: {" · ".join(links)}</p>'
     if items:
-        body = "\n".join(render_item(it, cfg, now, team is not None) for it in items)
+        top, rest = (items, []) if team is None else split_top(items, now, cfg["top_stories_per_team"])
+        body = "\n".join(render_item(it, cfg, now, team is not None) for it in top)
+        if rest:
+            more = "\n".join(render_item(it, cfg, now, team is not None) for it in rest)
+            body += (f'\n<details class="more"><summary>More {html.escape(title)} stories ({len(rest)})</summary>'
+                     f"\n{more}\n</details>")
     else:
         body = '<p class="empty">No recent news — check back soon.</p>'
     return (
@@ -369,6 +422,10 @@ h2 {{ font-size: 20px; display: flex; align-items: center; gap: 8px;
   border-radius: 999px; padding: 4px 10px; margin: 6px 6px 0 0; }}
 .filter-all {{ background: none; border: none; color: var(--accent); cursor: pointer;
   font-size: 13px; padding: 4px 0 0 2px; }}
+details.more {{ margin-top: 10px; }}
+details.more summary {{ cursor: pointer; color: var(--muted); font-size: 13.5px;
+  padding: 4px 2px; }}
+details.more summary:hover {{ color: var(--accent); }}
 .empty {{ color: var(--muted); font-style: italic; padding: 10px 2px; }}
 footer {{ max-width: 720px; margin: 0 auto; padding: 0 16px 48px; color: var(--muted); font-size: 12.5px; }}
 footer p {{ margin-top: 6px; }}

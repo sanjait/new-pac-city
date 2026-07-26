@@ -6,6 +6,7 @@
   "max_items_conference": 10,
   "max_item_age_days": 45,
   "snippet_max_chars": 200,
+  "top_stories_per_team": 3,
   "teams": [
     {
       "name": "Boise State",
@@ -139,7 +140,8 @@
       "team": "Gonzaga",
       "sport": "all",
       "source": "The Spokesman-Review",
-      "url": "https://www.spokesman.com/feeds/stories/gonzaga-basketball/"
+      "url": "https://www.spokesman.com/feeds/stories/gonzaga-basketball/",
+      "weight": 1.15
     },
     {
       "team": "Oregon State",
@@ -163,7 +165,8 @@
       "team": "Oregon State",
       "sport": "all",
       "source": "The Oregonian",
-      "url": "https://www.oregonlive.com/arc/outboundfeeds/rss/category/beavers/?outputType=xml"
+      "url": "https://www.oregonlive.com/arc/outboundfeeds/rss/category/beavers/?outputType=xml",
+      "weight": 1.15
     },
     {
       "team": "San Diego State",
@@ -241,19 +244,22 @@
       "team": "Washington State",
       "sport": "football",
       "source": "The Spokesman-Review",
-      "url": "https://www.spokesman.com/feeds/stories/wsu-football/"
+      "url": "https://www.spokesman.com/feeds/stories/wsu-football/",
+      "weight": 1.15
     },
     {
       "team": "Washington State",
       "sport": "all",
       "source": "The Spokesman-Review",
-      "url": "https://www.spokesman.com/feeds/stories/wsu-basketball/"
+      "url": "https://www.spokesman.com/feeds/stories/wsu-basketball/",
+      "weight": 1.15
     },
     {
       "team": "Gonzaga",
       "sport": "wbb",
       "source": "The Spokesman-Review",
-      "url": "https://www.spokesman.com/feeds/stories/gonzaga-womens-basketball/"
+      "url": "https://www.spokesman.com/feeds/stories/gonzaga-womens-basketball/",
+      "weight": 1.15
     }
   ],
   "output_dir": "docs",
