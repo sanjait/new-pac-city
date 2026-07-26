@@ -9,39 +9,57 @@
   "teams": [
     {
       "name": "Boise State",
-      "color": "#0033A0"
+      "color": "#0033A0",
+      "x": "BroncoSports",
+      "ig": "boisestatebroncos"
     },
     {
       "name": "Colorado State",
-      "color": "#1E4D2B"
+      "color": "#1E4D2B",
+      "x": "CSURams",
+      "ig": "csuathletics"
     },
     {
       "name": "Fresno State",
-      "color": "#DB0032"
+      "color": "#DB0032",
+      "x": "FSAthletics",
+      "ig": "fresnostateathletics"
     },
     {
       "name": "Gonzaga",
-      "color": "#041E42"
+      "color": "#041E42",
+      "x": "GonzagaBulldogs",
+      "ig": "gubulldogs"
     },
     {
       "name": "Oregon State",
-      "color": "#DC4405"
+      "color": "#DC4405",
+      "x": "beaverathletics",
+      "ig": "beaverathletics"
     },
     {
       "name": "San Diego State",
-      "color": "#A6192E"
+      "color": "#A6192E",
+      "x": "GoAztecs",
+      "ig": "goaztecs"
     },
     {
       "name": "Texas State",
-      "color": "#501214"
+      "color": "#501214",
+      "x": "txstatebobcats",
+      "ig": "txstatebobcats"
     },
     {
       "name": "Utah State",
-      "color": "#0F2439"
+      "color": "#0F2439",
+      "x": "USUAthletics",
+      "ig": "usuathletics"
     },
     {
       "name": "Washington State",
-      "color": "#981E32"
+      "color": "#981E32",
+      "x": "WSUCougars",
+      "ig": "wsucougarathletics"
     }
   ],
   "feeds": [
@@ -224,7 +242,20 @@
       "sport": "football",
       "source": "The Spokesman-Review",
       "url": "https://www.spokesman.com/feeds/stories/wsu-football/"
+    },
+    {
+      "team": "Washington State",
+      "sport": "all",
+      "source": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/feeds/stories/wsu-basketball/"
+    },
+    {
+      "team": "Gonzaga",
+      "sport": "wbb",
+      "source": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/feeds/stories/gonzaga-womens-basketball/"
     }
   ],
-  "output_dir": "docs"
+  "output_dir": "docs",
+  "site_url": "https://sanjait.github.io/new-pac-city/"
 }

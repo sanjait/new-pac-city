@@ -31,6 +31,16 @@ HERE = Path(__file__).parent
 USER_AGENT = "NewPACCityBot/0.1 (news aggregator; links and attribution only)"
 FETCH_TIMEOUT_S = 20
 SPORT_LABELS = {"football": "Football", "mbb": "Men's Basketball", "wbb": "Women's Basketball"}
+SPORT_EMOJI = {"football": "\U0001F3C8", "mbb": "\U0001F3C0", "wbb": "\U0001F3C0", "all": "\U0001F4E3"}
+
+STOPWORDS = frozenset(
+    "the a an and or of for to in on at with from as is are was were be been its it's this that "
+    "his her their new says said after before over under vs against".split())
+
+FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E"
+           "%3Crect width='64' height='64' rx='12' fill='%230a4d68'/%3E"
+           "%3Ctext x='32' y='45' font-family='Arial' font-size='28' font-weight='bold'"
+           " fill='white' text-anchor='middle'%3ENP%3C/text%3E%3C/svg%3E")
 
 ATOM = "{http://www.w3.org/2005/Atom}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
@@ -172,33 +182,80 @@ def collect(cfg):
                 # a specific sport label would be wrong, so drop it
                 seen[key]["sport"] = "all"
         cap = cfg["max_items_conference"] if team == "conference" else cfg["max_items_per_team"]
-        by_team[team] = unique[:cap]
+        by_team[team] = merge_cross_source(unique)[:cap]
     return by_team, report
 
 
-def render_item(it, cfg, now):
-    sport = SPORT_LABELS.get(it["sport"])
-    sport_tag = f'<span class="tag">{html.escape(sport)}</span>' if sport else ""
+def title_tokens(title):
+    return {w for w in re.findall(r"[a-z0-9']+", title.lower()) if len(w) > 2 and w not in STOPWORDS}
+
+
+def merge_cross_source(items):
+    """Same story from two different sources = a big story: keep the newest,
+    credit the other source on it, badge it."""
+    kept = []
+    for it in items:  # items arrive newest-first
+        toks = title_tokens(it["title"])
+        merged = False
+        for k in kept:
+            if k["source"] == it["source"] or not toks:
+                continue
+            ktoks = title_tokens(k["title"])
+            shared = toks & ktoks
+            if len(shared) >= 4 and len(shared) / len(toks | ktoks) >= 0.5:
+                if it["source"] not in k.get("also", []):
+                    k.setdefault("also", []).append(it["source"])
+                merged = True
+                break
+        if not merged:
+            kept.append(it)
+    return kept
+
+
+def render_item(it, cfg, now, in_team_section):
+    sport = it["sport"]
+    if sport in SPORT_LABELS:
+        label = f"{SPORT_EMOJI[sport]} {SPORT_LABELS[sport]}"
+        sport_tag = f'<span class="tag tag-{sport}">{html.escape(label)}</span>'
+    elif in_team_section:
+        sport_tag = f'<span class="tag">{SPORT_EMOJI["all"]} All sports</span>'
+    else:
+        sport_tag = ""
+    big_tag, source = "", html.escape(it["source"])
+    if it.get("also"):
+        big_tag = '<span class="tag tag-big">⭐ Big story</span>'
+        source += " · also " + html.escape(", ".join(it["also"]))
     snip = snippet_of(it["summary"], cfg["snippet_max_chars"])
     snip_html = f'<p class="snip">{html.escape(snip)}</p>' if snip else ""
     return (
         f'<article class="item">'
         f'<a class="headline" href="{html.escape(it["link"], quote=True)}" rel="noopener">{html.escape(it["title"])}</a>'
         f'{snip_html}'
-        f'<p class="attrib">{sport_tag}{html.escape(it["source"])} · {rel_time(it["date"], now)}</p>'
+        f'<p class="attrib">{big_tag}{sport_tag}{source} · {rel_time(it["date"], now)}</p>'
         f"</article>"
     )
 
 
-def render_section(title, color, items, cfg, now, anchor):
+def render_section(title, color, items, cfg, now, anchor, team=None):
     dot = f'<span class="dot" style="background:{html.escape(color, quote=True)}"></span>' if color else ""
+    follow = ""
+    if team:
+        links = []
+        if team.get("x"):
+            links.append(f'<a href="https://x.com/{html.escape(team["x"], quote=True)}" rel="noopener">'
+                         f'X @{html.escape(team["x"])}</a>')
+        if team.get("ig"):
+            links.append(f'<a href="https://www.instagram.com/{html.escape(team["ig"], quote=True)}/" rel="noopener">'
+                         f'Instagram @{html.escape(team["ig"])}</a>')
+        if links:
+            follow = f'<p class="follow">Follow: {" · ".join(links)}</p>'
     if items:
-        body = "\n".join(render_item(it, cfg, now) for it in items)
+        body = "\n".join(render_item(it, cfg, now, team is not None) for it in items)
     else:
         body = '<p class="empty">No recent news — check back soon.</p>'
     return (
-        f'<section id="{anchor}">'
-        f"<h2>{dot}{html.escape(title)}</h2>\n{body}\n</section>"
+        f'<section id="{anchor}" data-team="{anchor}">'
+        f"<h2>{dot}{html.escape(title)}</h2>\n{follow}{body}\n</section>"
     )
 
 
@@ -213,10 +270,48 @@ def render_page(cfg, by_team, now):
     )
     sections = [render_section("Around the Conference", None, by_team.get("conference", []), cfg, now, "conference")]
     sections += [
-        render_section(t["name"], t["color"], by_team.get(t["name"], []), cfg, now, slugify(t["name"]))
+        render_section(t["name"], t["color"], by_team.get(t["name"], []), cfg, now, slugify(t["name"]), team=t)
         for t in teams
     ]
     stamp = now.strftime("%b %d, %Y · %H:%M UTC")
+    filter_boxes = "".join(
+        f'<label><input type="checkbox" data-team="{slugify(t["name"])}" checked> {html.escape(t["name"])}</label>'
+        for t in teams
+    )
+    filter_script = """<script>
+(function () {
+  var KEY = "npc-hidden";
+  var hidden = [];
+  try { hidden = JSON.parse(localStorage.getItem(KEY)) || []; } catch (e) {}
+  function apply() {
+    document.querySelectorAll("section[data-team]").forEach(function (sec) {
+      var t = sec.getAttribute("data-team");
+      if (t !== "conference") sec.style.display = hidden.indexOf(t) >= 0 ? "none" : "";
+    });
+    document.querySelectorAll("nav a").forEach(function (a) {
+      var t = a.getAttribute("href").slice(1);
+      a.style.display = hidden.indexOf(t) >= 0 ? "none" : "";
+    });
+  }
+  document.querySelectorAll(".filter input").forEach(function (box) {
+    box.checked = hidden.indexOf(box.getAttribute("data-team")) < 0;
+    box.addEventListener("change", function () {
+      var t = box.getAttribute("data-team");
+      hidden = hidden.filter(function (x) { return x !== t; });
+      if (!box.checked) hidden.push(t);
+      try { localStorage.setItem(KEY, JSON.stringify(hidden)); } catch (e) {}
+      apply();
+    });
+  });
+  document.querySelector(".filter-all").addEventListener("click", function () {
+    hidden = [];
+    try { localStorage.setItem(KEY, "[]"); } catch (e) {}
+    document.querySelectorAll(".filter input").forEach(function (b) { b.checked = true; });
+    apply();
+  });
+  apply();
+})();
+</script>"""
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -224,6 +319,12 @@ def render_page(cfg, by_team, now):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(cfg["site_name"])} — {html.escape(cfg["tagline"])}</title>
 <meta name="description" content="Latest {html.escape(cfg['site_name'])} headlines: news for every new PAC-12 team, updated automatically, always linking to the original source.">
+<link rel="icon" href="{FAVICON}">
+<meta property="og:title" content="{html.escape(cfg["site_name"])} — {html.escape(cfg["tagline"])}">
+<meta property="og:description" content="The latest football, men's basketball, and women's basketball news for all nine new Pac-12 schools — refreshed automatically, always linking to the original source.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{html.escape(cfg.get("site_url", ""), quote=True)}">
+<meta name="twitter:card" content="summary">
 <style>
 :root {{
   --bg: #f5f4f0; --card: #ffffff; --ink: #1a1a1a; --muted: #6b6b6b;
@@ -258,6 +359,16 @@ h2 {{ font-size: 20px; display: flex; align-items: center; gap: 8px;
 .attrib {{ color: var(--muted); font-size: 12.5px; margin-top: 8px; }}
 .tag {{ background: var(--tag-bg); color: var(--accent); border-radius: 4px;
   padding: 1px 6px; margin-right: 8px; font-size: 11.5px; font-weight: 600; }}
+.tag-big {{ background: #f4e8c8; color: #7a5c00; }}
+@media (prefers-color-scheme: dark) {{ .tag-big {{ background: #3d3420; color: #e8c96a; }} }}
+.follow {{ font-size: 13px; color: var(--muted); margin: 8px 2px 0; }}
+.follow a {{ color: var(--accent); text-decoration: none; }}
+.filter {{ max-width: 720px; margin: 10px auto 0; padding: 0 16px; font-size: 13.5px; }}
+.filter summary {{ cursor: pointer; color: var(--muted); }}
+.filter label {{ display: inline-block; background: var(--card); border: 1px solid var(--line);
+  border-radius: 999px; padding: 4px 10px; margin: 6px 6px 0 0; }}
+.filter-all {{ background: none; border: none; color: var(--accent); cursor: pointer;
+  font-size: 13px; padding: 4px 0 0 2px; }}
 .empty {{ color: var(--muted); font-style: italic; padding: 10px 2px; }}
 footer {{ max-width: 720px; margin: 0 auto; padding: 0 16px 48px; color: var(--muted); font-size: 12.5px; }}
 footer p {{ margin-top: 6px; }}
@@ -271,6 +382,11 @@ a:focus-visible, .headline:focus-visible {{ outline: 2px solid var(--accent); ou
   <p class="updated">Updated {stamp} · refreshes about every {cfg["refresh_hours"]} hours</p>
 </header>
 <nav aria-label="Jump to team">{nav}</nav>
+<details class="filter">
+  <summary>Choose your teams</summary>
+  {filter_boxes}
+  <br><button type="button" class="filter-all">Show all teams</button>
+</details>
 <main>
 {chr(10).join(sections)}
 </main>
@@ -278,6 +394,7 @@ a:focus-visible, .headline:focus-visible {{ outline: 2px solid var(--accent); ou
   <p>Every headline links to its original publisher; snippets are brief excerpts shown with attribution. Full stories belong to their sources.</p>
   <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12 Conference or any university.</p>
 </footer>
+{filter_script}
 </body>
 </html>
 """
