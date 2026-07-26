@@ -1,0 +1,230 @@
+{
+  "site_name": "New PAC City",
+  "tagline": "The new PAC-12, all in one place.",
+  "refresh_hours": 6,
+  "max_items_per_team": 8,
+  "max_items_conference": 10,
+  "max_item_age_days": 45,
+  "snippet_max_chars": 200,
+  "teams": [
+    {
+      "name": "Boise State",
+      "color": "#0033A0"
+    },
+    {
+      "name": "Colorado State",
+      "color": "#1E4D2B"
+    },
+    {
+      "name": "Fresno State",
+      "color": "#DB0032"
+    },
+    {
+      "name": "Gonzaga",
+      "color": "#041E42"
+    },
+    {
+      "name": "Oregon State",
+      "color": "#DC4405"
+    },
+    {
+      "name": "San Diego State",
+      "color": "#A6192E"
+    },
+    {
+      "name": "Texas State",
+      "color": "#501214"
+    },
+    {
+      "name": "Utah State",
+      "color": "#0F2439"
+    },
+    {
+      "name": "Washington State",
+      "color": "#981E32"
+    }
+  ],
+  "feeds": [
+    {
+      "team": "conference",
+      "sport": "all",
+      "source": "Pac-12 Conference",
+      "url": "https://pac-12.com/rss.aspx"
+    },
+    {
+      "team": "Boise State",
+      "sport": "football",
+      "source": "Boise State Athletics",
+      "url": "https://broncosports.com/rss?path=football"
+    },
+    {
+      "team": "Boise State",
+      "sport": "mbb",
+      "source": "Boise State Athletics",
+      "url": "https://broncosports.com/rss?path=mbball"
+    },
+    {
+      "team": "Boise State",
+      "sport": "wbb",
+      "source": "Boise State Athletics",
+      "url": "https://broncosports.com/rss?path=wbball"
+    },
+    {
+      "team": "Colorado State",
+      "sport": "football",
+      "source": "Colorado State Athletics",
+      "url": "https://csurams.com/rss?path=football"
+    },
+    {
+      "team": "Colorado State",
+      "sport": "mbb",
+      "source": "Colorado State Athletics",
+      "url": "https://csurams.com/rss?path=mbball"
+    },
+    {
+      "team": "Colorado State",
+      "sport": "wbb",
+      "source": "Colorado State Athletics",
+      "url": "https://csurams.com/rss?path=wbball"
+    },
+    {
+      "team": "Fresno State",
+      "sport": "football",
+      "source": "Fresno State Athletics",
+      "url": "https://gobulldogs.com/rss?path=football"
+    },
+    {
+      "team": "Fresno State",
+      "sport": "mbb",
+      "source": "Fresno State Athletics",
+      "url": "https://gobulldogs.com/rss?path=mbball"
+    },
+    {
+      "team": "Fresno State",
+      "sport": "wbb",
+      "source": "Fresno State Athletics",
+      "url": "https://gobulldogs.com/rss?path=wbball"
+    },
+    {
+      "team": "Gonzaga",
+      "sport": "mbb",
+      "source": "Gonzaga Athletics",
+      "url": "https://gozags.com/rss?path=mbball"
+    },
+    {
+      "team": "Gonzaga",
+      "sport": "wbb",
+      "source": "Gonzaga Athletics",
+      "url": "https://gozags.com/rss?path=wbball"
+    },
+    {
+      "team": "Gonzaga",
+      "sport": "all",
+      "source": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/feeds/stories/gonzaga-basketball/"
+    },
+    {
+      "team": "Oregon State",
+      "sport": "football",
+      "source": "Oregon State Athletics",
+      "url": "https://osubeavers.com/rss?path=football"
+    },
+    {
+      "team": "Oregon State",
+      "sport": "mbb",
+      "source": "Oregon State Athletics",
+      "url": "https://osubeavers.com/rss?path=mbball"
+    },
+    {
+      "team": "Oregon State",
+      "sport": "wbb",
+      "source": "Oregon State Athletics",
+      "url": "https://osubeavers.com/rss?path=wbball"
+    },
+    {
+      "team": "Oregon State",
+      "sport": "all",
+      "source": "The Oregonian",
+      "url": "https://www.oregonlive.com/arc/outboundfeeds/rss/category/beavers/?outputType=xml"
+    },
+    {
+      "team": "San Diego State",
+      "sport": "football",
+      "source": "San Diego State Athletics",
+      "url": "https://goaztecs.com/sports/football/rss"
+    },
+    {
+      "team": "San Diego State",
+      "sport": "mbb",
+      "source": "San Diego State Athletics",
+      "url": "https://goaztecs.com/sports/mens-basketball/rss"
+    },
+    {
+      "team": "San Diego State",
+      "sport": "wbb",
+      "source": "San Diego State Athletics",
+      "url": "https://goaztecs.com/sports/womens-basketball/rss"
+    },
+    {
+      "team": "Texas State",
+      "sport": "football",
+      "source": "Texas State Athletics",
+      "url": "https://txst.com/rss.aspx?path=football"
+    },
+    {
+      "team": "Texas State",
+      "sport": "mbb",
+      "source": "Texas State Athletics",
+      "url": "https://txst.com/rss.aspx?path=mbball"
+    },
+    {
+      "team": "Texas State",
+      "sport": "wbb",
+      "source": "Texas State Athletics",
+      "url": "https://txst.com/rss.aspx?path=wbball"
+    },
+    {
+      "team": "Utah State",
+      "sport": "football",
+      "source": "Utah State Athletics",
+      "url": "https://utahstateaggies.com/rss.aspx?path=football"
+    },
+    {
+      "team": "Utah State",
+      "sport": "mbb",
+      "source": "Utah State Athletics",
+      "url": "https://utahstateaggies.com/rss.aspx?path=mbball"
+    },
+    {
+      "team": "Utah State",
+      "sport": "wbb",
+      "source": "Utah State Athletics",
+      "url": "https://utahstateaggies.com/rss.aspx?path=wbball"
+    },
+    {
+      "team": "Washington State",
+      "sport": "football",
+      "source": "Washington State Athletics",
+      "url": "https://wsucougars.com/sports/football/rss"
+    },
+    {
+      "team": "Washington State",
+      "sport": "mbb",
+      "source": "Washington State Athletics",
+      "url": "https://wsucougars.com/sports/mens-basketball/rss"
+    },
+    {
+      "team": "Washington State",
+      "sport": "wbb",
+      "source": "Washington State Athletics",
+      "url": "https://wsucougars.com/sports/womens-basketball/rss"
+    },
+    {
+      "team": "Washington State",
+      "sport": "football",
+      "source": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/feeds/stories/wsu-football/"
+    }
+  ],
+  "output_dir": "docs"
+}
