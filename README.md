@@ -1,18 +1,22 @@
 # New PAC City
 
-**The new PAC-12, all in one place.** One fast page of the latest news for every team in the new Pac-12 Conference — football, men's basketball, and women's basketball — refreshed automatically every 6 hours.
+**The new PAC-12, all in one place.** A homepage plus a page per team for every school in the new Pac-12 Conference — football, men's basketball, and women's basketball — refreshed automatically every 6 hours.
 
 🌐 Live site: coming to [newpac.city](https://newpac.city)
 
 ## How it works
 
-`build.py` (Python, standard library only — no dependencies) fetches ~30 verified RSS feeds listed in `feeds.json`, groups the headlines by team, and writes a single static page to `docs/index.html`. A scheduled GitHub Action reruns it every 6 hours and publishes the result via GitHub Pages. No server, no database, no tracking, no accounts.
+`build.py` (Python, standard library only — no dependencies) fetches ~30 verified RSS feeds listed in `feeds.json`, groups the headlines by team, and writes a static site to `docs/`: a homepage (`docs/index.html`) with a lead story and a tile per team, plus one page per team at its own slug — `docs/broncos/`, `docs/rams/`, `docs/fsudogs/`, `docs/zags/`, `docs/beavs/`, `docs/aztecs/`, `docs/bobcats/`, `docs/aggies/`, `docs/cougs/`. A scheduled GitHub Action reruns it every 6 hours and publishes the result via GitHub Pages. No server, no database, no tracking, no accounts.
 
 Rebuild locally:
 
 ```bash
 python3 build.py
 ```
+
+### Team config (`feeds.json`)
+
+Each team entry carries its identity and official school colors: `slug` (the URL segment, e.g. `beavs`), `nickname`, `primary`/`secondary` (light-mode colors) and `primary_dark`/`secondary_dark` (dark-mode variants), plus an optional `primary_text` override for when the official primary doesn't pass WCAG AA contrast as text on light backgrounds. `primary`/`secondary` paint decoration (stripes, wash tints, cap bars); the text-safe variant is used wherever a team color renders as foreground text or a link.
 
 ## Aggregation policy
 

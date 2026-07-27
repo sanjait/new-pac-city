@@ -23,20 +23,8 @@
 * { box-sizing: border-box; margin: 0; }
 body { background: var(--bg); color: var(--ink);
   font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-header { padding: 28px 16px 12px; max-width: 720px; margin: 0 auto; }
-h1 { font-size: 30px; letter-spacing: -0.5px; }
-h1 .pac { color: var(--accent); }
-.tagline { color: var(--muted); margin-top: 2px; }
-.updated { color: var(--muted); font-size: 13px; margin-top: 8px; }
-nav { max-width: 720px; margin: 8px auto 0; padding: 0 16px 4px; display: flex;
-  gap: 8px; overflow-x: auto; -webkit-overflow-scrolling: touch; }
-nav a { flex: 0 0 auto; font-size: 13px; color: var(--ink); text-decoration: none;
-  background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; }
 main { max-width: 720px; margin: 0 auto; padding: 8px 16px 40px; }
-section { margin-top: 26px; scroll-margin-top: 12px; }
-h2 { font-size: 20px; display: flex; align-items: center; gap: 8px;
-  border-bottom: 1px solid var(--line); padding-bottom: 6px; }
-.dot { width: 12px; height: 12px; border-radius: 50%; flex: 0 0 auto; }
+h2 { font-size: 20px; border-bottom: 1px solid var(--line); padding-bottom: 6px; margin-top: 26px; }
 .item { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
   padding: 12px 14px; margin-top: 10px; }
 .headline { color: var(--ink); font-weight: 600; text-decoration: none; display: block; }
@@ -48,183 +36,94 @@ h2 { font-size: 20px; display: flex; align-items: center; gap: 8px;
 .tag-big { background: #f4e8c8; color: #7a5c00; }
 @media (prefers-color-scheme: dark) { .tag-big { background: #3d3420; color: #e8c96a; } }
 .follow { font-size: 13px; color: var(--muted); margin: 8px 2px 0; }
-.follow a { color: var(--accent); text-decoration: none; }
-.filter { max-width: 720px; margin: 10px auto 0; padding: 0 16px; font-size: 13.5px; }
-.filter summary { cursor: pointer; color: var(--muted); }
-.filter label { display: inline-block; background: var(--card); border: 1px solid var(--line);
-  border-radius: 999px; padding: 4px 10px; margin: 6px 6px 0 0; }
-.filter-all { background: none; border: none; color: var(--accent); cursor: pointer;
-  font-size: 13px; padding: 4px 0 0 2px; }
-details.more { margin-top: 10px; }
-details.more summary { cursor: pointer; color: var(--muted); font-size: 13.5px;
-  padding: 4px 2px; }
-details.more summary:hover { color: var(--accent); }
 .empty { color: var(--muted); font-style: italic; padding: 10px 2px; }
+details.more { margin-top: 10px; }
+details.more summary { cursor: pointer; color: var(--muted); font-size: 13.5px; padding: 4px 2px; }
+details.more summary:hover { color: var(--accent); }
 footer { max-width: 720px; margin: 0 auto; padding: 0 16px 48px; color: var(--muted); font-size: 12.5px; }
 footer p { margin-top: 6px; }
+footer a { color: var(--accent); }
 a:focus-visible, .headline:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+header { padding: 28px 16px 12px; max-width: 720px; margin: 0 auto; }
+h1 { font-size: 30px; letter-spacing: -0.5px; }
+h1 .pac { color: var(--accent); }
+.tagline { color: var(--muted); margin-top: 2px; }
+.updated { color: var(--muted); font-size: 13px; margin-top: 8px; }
+.lead { border-width: 2px; padding: 18px 18px; margin-top: 18px; }
+.lead .headline { font-size: 22px; line-height: 1.3; }
+.teamline { font-size: 12.5px; color: var(--muted); margin-bottom: 4px; }
+.teamline a { color: var(--ink); font-weight: 600; text-decoration: none; }
+.dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 26px; }
+@media (max-width: 540px) { .grid { grid-template-columns: 1fr; } }
+.tile { background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.bar { display: flex; height: 5px; }
+.bar b { flex: 7; background: var(--p); }
+.bar i { flex: 3; background: var(--s); }
+.tbody { padding: 11px 13px; }
+.tname { display: flex; justify-content: space-between; align-items: baseline; }
+.tname a { font-size: 15.5px; font-weight: 700; text-decoration: none; }
+.tile .slug { color: var(--accent); font-size: 12px; font-weight: 600; }
+.hl { margin-top: 7px; font-size: 13.5px; font-weight: 600; line-height: 1.35; }
+.hl a { color: var(--ink); text-decoration: none; }
+.hl a:hover { text-decoration: underline; }
+.src { color: var(--muted); font-size: 11.5px; margin-top: 3px; }
+.tile .more { display: inline-block; font-size: 12px; margin-top: 7px; text-decoration: none; }
+.wash .tbody { background: color-mix(in srgb, var(--p) 7%, var(--card)); }
+.wash .tname a { color: var(--pt); }
+.wash .more { color: var(--pt); }
+.empty-tile { color: var(--muted); font-style: italic; font-size: 13px; margin-top: 7px; }
+.team-broncos { --p: #0033A0; --s: #D64309; --pt: #0033A0; }
+.team-rams { --p: #1E4D2B; --s: #C8C372; --pt: #1E4D2B; }
+.team-fsudogs { --p: #C41230; --s: #13284C; --pt: #C41230; }
+.team-zags { --p: #041E42; --s: #C8102E; --pt: #041E42; }
+.team-beavs { --p: #D73F09; --s: #000000; --pt: #C83B08; }
+.team-aztecs { --p: #A6192E; --s: #000000; --pt: #A6192E; }
+.team-bobcats { --p: #501214; --s: #AC9155; --pt: #501214; }
+.team-aggies { --p: #00263A; --s: #8A8D8F; --pt: #00263A; }
+.team-cougs { --p: #A60F2D; --s: #4D4D4D; --pt: #A60F2D; }
+@media (prefers-color-scheme: dark) {
+  .team-broncos { --p: #6491E4; --s: #F0632B; --pt: #6491E4; }
+  .team-rams { --p: #47A369; --s: #C8C372; --pt: #47A369; }
+  .team-fsudogs { --p: #EB6074; --s: #6E93C8; --pt: #EB6074; }
+  .team-zags { --p: #6C93CB; --s: #E04A5F; --pt: #6C93CB; }
+  .team-beavs { --p: #FF6A2B; --s: #B4B2A9; --pt: #FF6A2B; }
+  .team-aztecs { --p: #DE6F7F; --s: #B4B2A9; --pt: #DE6F7F; }
+  .team-bobcats { --p: #C38185; --s: #C4AC72; --pt: #C38185; }
+  .team-aggies { --p: #6397BA; --s: #8A8D8F; --pt: #6397BA; }
+  .team-cougs { --p: #DC7082; --s: #9A9A94; --pt: #DC7082; }
+}
 </style>
 </head>
 <body>
 <header>
   <h1>New <span class="pac">PAC</span> City</h1>
   <p class="tagline">The new PAC-12, all in one place.</p>
-  <p class="updated">Updated Jul 27, 2026 · 15:15 UTC · refreshes about every 6 hours</p>
+  <p class="updated">Updated Jul 27, 2026 · 18:57 UTC · refreshes about every 6 hours</p>
 </header>
-<nav aria-label="Jump to team"><a href="#boise-state">Boise State</a><a href="#colorado-state">Colorado State</a><a href="#fresno-state">Fresno State</a><a href="#gonzaga">Gonzaga</a><a href="#oregon-state">Oregon State</a><a href="#san-diego-state">San Diego State</a><a href="#texas-state">Texas State</a><a href="#utah-state">Utah State</a><a href="#washington-state">Washington State</a></nav>
-<details class="filter">
-  <summary>Choose your teams</summary>
-  <label><input type="checkbox" data-team="boise-state" checked> Boise State</label><label><input type="checkbox" data-team="colorado-state" checked> Colorado State</label><label><input type="checkbox" data-team="fresno-state" checked> Fresno State</label><label><input type="checkbox" data-team="gonzaga" checked> Gonzaga</label><label><input type="checkbox" data-team="oregon-state" checked> Oregon State</label><label><input type="checkbox" data-team="san-diego-state" checked> San Diego State</label><label><input type="checkbox" data-team="texas-state" checked> Texas State</label><label><input type="checkbox" data-team="utah-state" checked> Utah State</label><label><input type="checkbox" data-team="washington-state" checked> Washington State</label>
-  <br><button type="button" class="filter-all">Show all teams</button>
-</details>
 <main>
-<section id="conference" data-team="conference"><h2>Around the Conference</h2>
-<article class="item"><a class="headline" href="http://pac-12.com/news/2026/7/24/general-drew-speraw-named-pac-12-vice-president-of-mens-basketball.aspx" rel="noopener">Drew Speraw named Pac-12 Vice President of Men’s Basketball</a><p class="snip">Pac-12 Commissioner Teresa Gould today announced the appointment of Drew Speraw as the league’s Vice President of Men’s Basketball, adding an experienced leader to the conference’s leadership team…</p><p class="attrib">Pac-12 Conference · 3d ago</p></article>
+<article class="item lead"><p class="teamline">Around the Conference</p><a class="headline" href="http://pac-12.com/news/2026/7/24/general-drew-speraw-named-pac-12-vice-president-of-mens-basketball.aspx" rel="noopener">Drew Speraw named Pac-12 Vice President of Men’s Basketball</a><p class="snip">Pac-12 Commissioner Teresa Gould today announced the appointment of Drew Speraw as the league’s Vice President of Men’s Basketball, adding an experienced leader to the conference’s leadership team…</p><p class="attrib">Pac-12 Conference · 3d ago</p></article>
+<div class="grid">
+<div class="tile wash team-broncos" id="boise-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="broncos/">Boise State</a><span class="slug">/broncos</span></div><p class="hl"><a href="https://broncosports.com/news/2026/7/27/football-seven-broncos-featured-on-east-west-bowl-1000" rel="noopener">Seven Broncos Featured on East-West Bowl 1000</a></p><p class="src">Boise State Athletics · 2h ago</p><a class="more" href="broncos/">7 more Broncos stories →</a></div></div>
+<div class="tile wash team-rams" id="colorado-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="rams/">Colorado State</a><span class="slug">/rams</span></div><p class="hl"><a href="https://csurams.com/news/2026/7/23/football-canvas-stadium-10-year-anniversary-crowd-after-crowd-canvas-draws-well" rel="noopener">Canvas Stadium 10 Year Anniversary: Crowd After Crowd, Canvas Draws Well</a></p><p class="src">Colorado State Athletics · 3d ago</p><a class="more" href="rams/">7 more Rams stories →</a></div></div>
+<div class="tile wash team-fsudogs" id="fresno-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="fsudogs/">Fresno State</a><span class="slug">/fsudogs</span></div><p class="hl"><a href="https://gobulldogs.com/news/2026/7/27/football-fresno-state-lands-four-on-shriners-childrens-1-000-watch-list" rel="noopener">Fresno State lands four on Shriners Children’s 1,000 Watch List</a></p><p class="src">Fresno State Athletics · just now</p><a class="more" href="fsudogs/">7 more Bulldogs stories →</a></div></div>
+<div class="tile wash team-zags" id="gonzaga"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="zags/">Gonzaga</a><span class="slug">/zags</span></div><p class="hl"><a href="http://www.spokesman.com/stories/2026/jul/26/how-gonzaga-women-plan-to-solve-turnover-problem-i/" rel="noopener">How Gonzaga women plan to solve turnover problem in 2026-27</a></p><p class="src">The Spokesman-Review · 1d ago</p><a class="more" href="zags/">7 more Zags stories →</a></div></div>
+<div class="tile wash team-beavs" id="oregon-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="beavs/">Oregon State</a><span class="slug">/beavs</span></div><p class="hl"><a href="https://osubeavers.com/news/2026/7/27/2026-oregon-state-football-tickets-on-sale-now" rel="noopener">2026 Oregon State Football Tickets On Sale Now</a></p><p class="src">Oregon State Athletics · just now</p><a class="more" href="beavs/">7 more Beavs stories →</a></div></div>
+<div class="tile wash team-aztecs" id="san-diego-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="aztecs/">San Diego State</a><span class="slug">/aztecs</span></div><p class="hl"><a href="https://goaztecs.com/news/2026/07/25/sdsu-hosts-football-media-day-at-snapdragon-stadium" rel="noopener">SDSU Hosts Football Media Day at Snapdragon Stadium</a></p><p class="src">San Diego State Athletics · 2d ago</p><a class="more" href="aztecs/">4 more Aztecs stories →</a></div></div>
+<div class="tile wash team-bobcats" id="texas-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="bobcats/">Texas State</a><span class="slug">/bobcats</span></div><p class="hl"><a href="https://txst.com/news/2026/7/23/womens-basketball-kielsmeier-womens-basketball-announce-texas-state-non-conference-slate.aspx" rel="noopener">Kielsmeier, Women’s Basketball Announce Texas State Non-Conference Slate</a></p><p class="src">Texas State Athletics · 3d ago</p><a class="more" href="bobcats/">7 more Bobcats stories →</a></div></div>
+<div class="tile wash team-aggies" id="utah-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="aggies/">Utah State</a><span class="slug">/aggies</span></div><p class="hl"><a href="https://utahstateaggies.com/news/2026/7/21/mens-basketball-aggies-to-compete-at-texas-legends-college-classic.aspx" rel="noopener">Aggies to Compete at Texas Legends College Classic</a></p><p class="src">Utah State Athletics · 6d ago</p><a class="more" href="aggies/">5 more Aggies stories →</a></div></div>
+<div class="tile wash team-cougs" id="washington-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="cougs/">Washington State</a><span class="slug">/cougs</span></div><p class="hl"><a href="http://www.spokesman.com/stories/2026/jul/25/meet-the-washington-state-grad-who-helped-launch-t/" rel="noopener">Meet the Washington State grad who helped launch the NBA&#x27;s &#x27;31st franchise,&#x27; Las Vegas Summer League</a></p><p class="src">The Spokesman-Review · 2d ago</p><a class="more" href="cougs/">7 more Cougs stories →</a></div></div>
+</div>
+<section id="conference"><h2>Around the Conference</h2>
 <article class="item"><a class="headline" href="http://pac-12.com/news/2026/7/20/football-2026-pac-12-preseason-watch-list-central.aspx" rel="noopener">2026 Pac-12 Football Preseason Watch List Central</a><p class="snip">The road to the 2026 college football season is underway, and Pac-12 student-athletes and coaches are earning national attention across preseason accolades. For a recap of the latest national award…</p><p class="attrib">Pac-12 Conference · 7d ago</p></article>
 <article class="item"><a class="headline" href="http://pac-12.com/news/2026/6/30/general-the-new-pac-12-conference-officially-launches-with-the-addition-of-seven-full-time-members.aspx" rel="noopener">The new Pac-12 Conference officially launches with the addition of seven full-time members</a><p class="snip">July 1, 2026 — Today, seven new full-time member institutions officially join the Pac-12 Conference, including Boise State, Colorado State, Fresno State, Gonzaga, San Diego State, Texas State and…</p><p class="attrib">Pac-12 Conference · Jul 1</p></article>
 <article class="item"><a class="headline" href="http://pac-12.com/news/2026/6/15/general-pac-12-board-of-directors-extends-contract-of-commissioner-teresa-gould.aspx" rel="noopener">Pac-12 Board of Directors extends contract of Commissioner Teresa Gould</a><p class="snip">The Pac-12 Conference today announced that its board of directors, composed of university presidents across its nine full-time members, formally extended the contract of Commissioner Teresa Gould to…</p><p class="attrib">Pac-12 Conference · Jun 16</p></article>
-</section>
-<section id="boise-state" data-team="boise-state"><h2><span class="dot" style="background:#0033A0"></span>Boise State</h2>
-<p class="follow">Follow: <a href="https://x.com/BroncoSports" rel="noopener">X @BroncoSports</a> · <a href="https://www.instagram.com/boisestatebroncos/" rel="noopener">Instagram @boisestatebroncos</a></p><article class="item"><a class="headline" href="https://broncosports.com/news/2026/7/20/boise-states-albertsons-stadium-nominated-as-best-college-football-stadium-in-us" rel="noopener">Boise State’s Albertsons Stadium Nominated as Best College Football Stadium in U.S.</a><p class="snip">A call to Bronco Nation to participate in the online vote through August 17</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Boise State Athletics · 6d ago</p></article>
-<article class="item"><a class="headline" href="https://broncosports.com/news/2026/7/20/football-madsen-nominated-for-allstate-afca-good-hands-team" rel="noopener">Madsen Nominated for Allstate AFCA Good Hands Team</a><p class="snip">Award recognizes college football players who lead through community service, academics and athletics</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Boise State Athletics · 6d ago</p></article>
-<article class="item"><a class="headline" href="https://broncosports.com/news/2026/7/16/football-former-head-coach-lyle-setencich-passes-away" rel="noopener">Former Head Coach Lyle Setencich Passes Away</a><p class="snip">Setencich amassed a 24-20 record in his four years as the Broncos&#x27; head coach, including a 16-12 mark in Big Sky play. He served as the head coach of the program during Boise State&#x27;s first game on…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Boise State Athletics · 10d ago</p></article>
-<details class="more"><summary>More Boise State stories (5)</summary>
-<article class="item"><a class="headline" href="https://broncosports.com/news/2026/7/9/football-danielson-named-to-dodd-trophy-preseason-watch-list" rel="noopener">Danielson Named to Dodd Trophy Preseason Watch List</a><p class="snip">Danielson is the only Pac-12 coach named to the list.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Boise State Athletics · Jul 9</p></article>
-<article class="item"><a class="headline" href="https://broncosports.com/news/2026/7/1/football-virgin-morgan-named-athlon-sports-preseason-all-america-20-broncos-land-on-preseason-all-pac-12-teams" rel="noopener">Virgin-Morgan Named Athlon Sports Preseason All-America, 20 Broncos Land on Preseason All-Pac-12 Teams</a><p class="snip">Broncos lead league in first team and overall selections</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Boise State Athletics · Jul 1</p></article>
-<article class="item"><a class="headline" href="https://broncosports.com/news/2026/7/1/football-boise-state-announces-north-end-zone-suites-sold-out" rel="noopener">Boise State Announces North End Zone Suites Sold Out</a><p class="snip">Limited club seats remain in the newest premium game day destination</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Boise State Athletics · Jul 1</p></article>
-<article class="item"><a class="headline" href="https://broncosports.com/news/2026/6/30/general-boise-state-athletics-announces-bronze-statue-honoring-bronco-legend-kellen-moore" rel="noopener">Boise State Athletics Announces Bronze Statue Honoring Bronco Legend Kellen Moore</a><p class="snip">The 11-foot statue will showcase the left-handed, winningest college football quarterback for the thousands of visitors to Albertsons Stadium</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Boise State Athletics · Jul 1</p></article>
-<article class="item"><a class="headline" href="https://broncosports.com/news/2026/6/29/mens-basketball-broncos-announce-addition-of-will-voigt-to-coaching-staff" rel="noopener">Broncos Announce Addition of Will Voigt to Coaching Staff</a><p class="snip">Boise State Men&#x27;s Basketball head coach Leon Rice on Monday announced the addition of Will Voigt as an associate head coach.</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Boise State Athletics · Jun 29</p></article>
-</details>
-</section>
-<section id="colorado-state" data-team="colorado-state"><h2><span class="dot" style="background:#1E4D2B"></span>Colorado State</h2>
-<p class="follow">Follow: <a href="https://x.com/CSURams" rel="noopener">X @CSURams</a> · <a href="https://www.instagram.com/csuathletics/" rel="noopener">Instagram @csuathletics</a></p><article class="item"><a class="headline" href="https://csurams.com/news/2026/7/23/football-canvas-stadium-10-year-anniversary-crowd-after-crowd-canvas-draws-well" rel="noopener">Canvas Stadium 10 Year Anniversary: Crowd After Crowd, Canvas Draws Well</a><p class="snip">Facility has drawn 35,000-plus on 10 occasions</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Colorado State Athletics · 3d ago</p></article>
-<article class="item"><a class="headline" href="https://csurams.com/news/2026/7/23/mens-basketball-making-the-transition-look-easy" rel="noopener">Making the Transition Look Easy</a><p class="snip">Rams have found success with players making the jump</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Colorado State Athletics · 3d ago</p></article>
-<article class="item"><a class="headline" href="https://csurams.com/news/2026/7/21/general-canvas-stadium-10-year-anniversary-a-prayer-answered-almost-no-one-saw-coming" rel="noopener">Canvas Stadium 10 Year Anniversary: A Prayer Answered Almost No One Saw Coming</a><p class="snip">Holker&#x27;s Hail Mary grab closes remarkable comeback</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Colorado State Athletics · 5d ago</p></article>
-<details class="more"><summary>More Colorado State stories (5)</summary>
-<article class="item"><a class="headline" href="https://csurams.com/news/2026/7/21/mens-basketball-mens-hoops-to-compete-in-inaugural-texas-legends-classic" rel="noopener">Men’s Hoops to Compete in Inaugural Texas Legends Classic</a><p class="snip">CSU to face Nevada and Florida Atlantic in Frisco</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Colorado State Athletics · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://csurams.com/news/2026/7/20/football-pair-of-rams-named-to-east-west-bowl-1-000" rel="noopener">Pair of Rams Named to East-West Bowl 1,000</a><p class="snip">Brown and Vereen named players to watch</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Colorado State Athletics · 6d ago</p></article>
-<article class="item"><a class="headline" href="https://csurams.com/news/2026/7/17/in-memoriam-rams-football-coach-leon-fuller" rel="noopener">In Memoriam: Rams Football Coach Leon Fuller</a><p class="snip">Former head coach passed away in his home in Austin, Texas on July 11, 2026.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Colorado State Athletics · 9d ago</p></article>
-<article class="item"><a class="headline" href="https://csurams.com/news/2026/7/16/general-canvas-stadium-10-year-anniversary-against-the-wall-rams-rally-past-backs" rel="noopener">Canvas Stadium 10 Year Anniversary: Against the Wall, Rams Rally Past ‘Backs</a><p class="snip">A 10-part series celebrating and revisiting the 10-year anniversary of the state of the art on-campus facility, Canvas Stadium.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Colorado State Athletics · 10d ago</p></article>
-<article class="item"><a class="headline" href="https://csurams.com/news/2026/7/16/womens-basketball-developing-into-your-own-role" rel="noopener">Developing Into Your Own Role</a><p class="snip">Transfers may enter, but young returners aren&#x27;t forgotten</p><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>Colorado State Athletics · 10d ago</p></article>
-</details>
-</section>
-<section id="fresno-state" data-team="fresno-state"><h2><span class="dot" style="background:#DB0032"></span>Fresno State</h2>
-<p class="follow">Follow: <a href="https://x.com/FSAthletics" rel="noopener">X @FSAthletics</a> · <a href="https://www.instagram.com/fresnostateathletics/" rel="noopener">Instagram @fresnostateathletics</a></p><article class="item"><a class="headline" href="https://gobulldogs.com/news/2026/7/25/mens-basketball-bulldogs-are-bahamas-bound-for-summer-of-thunder" rel="noopener">Bulldogs are Bahamas Bound for Summer of Thunder</a><p class="snip">FRESNO, Calif. – The Fresno State men&#x27;s basketball team is set to embark on a week-long international tour from July 26 to Aug. 2, traveling to Nassau, Bahamas, to prepare for the 2026-27 season.</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Fresno State Athletics · 1d ago</p></article>
-<article class="item"><a class="headline" href="https://gobulldogs.com/news/2026/7/22/football-xepera-nominated-for-allstate-afca-good-works-team" rel="noopener">Xepera nominated for Allstate AFCA Good Works Team</a><p class="snip">Fresno State senior defensive lineman Merhauti Xepera was named a nominee for the Allstate AFCA Good Works Team, announced by Allstate and the AFCA earlier this week.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Fresno State Athletics · 4d ago</p></article>
-<article class="item"><a class="headline" href="https://gobulldogs.com/news/2026/7/21/mens-basketball-vu-kovi-added-to-the-2026-27-roster" rel="noopener">Vuckovic added to the 2026-27 roster</a><p class="snip">FRESNO, Calif. – Fresno State men&#x27;s basketball head coach Vance Walberg has announced the signing of Serbian forward Marko Vuckovic to join the Bulldogs for the 2026-27 season.</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Fresno State Athletics · 5d ago</p></article>
-<details class="more"><summary>More Fresno State stories (5)</summary>
-<article class="item"><a class="headline" href="https://gobulldogs.com/news/2026/7/20/mankins-to-be-inducted-into-fresno-state-football-ring-of-honor" rel="noopener">Mankins to be inducted into Fresno State Football Ring of Honor</a><p class="snip">FRESNO, Calif. - Fresno State Athletics announced on Monday that former Bulldog offensive lineman Logan Mankins will be inducted into the Ring of Honor this coming season. Mankins, one of Fresno…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Fresno State Athletics · 6d ago</p></article>
-<article class="item"><a class="headline" href="https://gobulldogs.com/news/2026/7/20/womens-basketball-former-dog-morelia-chavez-qualifies-to-2027-fiba-americup" rel="noopener">Former &#x27;Dog Morelia Chavez qualifies to 2027 FIBA AmeriCup</a><p class="snip">FRESNO, Calif. - Former Fresno State women&#x27;s basketball player Morelia Chavez completed her run in the 2026 FIBA Women&#x27;s AmeriCup Centrobasket Qualifiers representing the Mexico Women&#x27;s National Team.</p><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>Fresno State Athletics · 6d ago</p></article>
-<article class="item"><a class="headline" href="https://gobulldogs.com/news/2026/7/19/fresno-state-football-to-launch-new-pac-12-era-with-local-media-day-presented-by-table-mountain" rel="noopener">Fresno State Football to launch new Pac-12 era with local media day, presented by Table Mountain</a><p class="snip">FRESNO, Calif. - As the Fresno State football team prepares to embark on its highly anticipated first season as a member of the Pac-12, Fresno State will host its own Local Media Day presented by…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Fresno State Athletics · 7d ago</p></article>
-<article class="item"><a class="headline" href="https://gobulldogs.com/news/2026/7/15/mens-basketball-dogs-earn-nabc-academic-honors" rel="noopener">&#x27;Dogs earn NABC Academic Honors</a><p class="snip">KANSAS CITY, Mo. – The NABC has announced the recipients of the 2025-26 NABC Team Academic Excellence Awards and NABC Honors Court, representing achievement in the classroom by men&#x27;s college…</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Fresno State Athletics · 11d ago</p></article>
-<article class="item"><a class="headline" href="https://gobulldogs.com/news/2026/7/14/football-athlon-sports-recognizes-bulldogs-with-preseason-all-pac-12-honors" rel="noopener">Athlon Sports recognizes Bulldogs with Preseason All-Pac-12 honors</a><p class="snip">FRESNO, Calif. - The Fresno State Football team had 15 players named to a preseason All-Pac-12 team in 16 spots by Athlon Sports as preseason honors ramp up ahead of the 2026 season.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Fresno State Athletics · 12d ago</p></article>
-</details>
-</section>
-<section id="gonzaga" data-team="gonzaga"><h2><span class="dot" style="background:#041E42"></span>Gonzaga</h2>
-<p class="follow">Follow: <a href="https://x.com/GonzagaBulldogs" rel="noopener">X @GonzagaBulldogs</a> · <a href="https://www.instagram.com/gubulldogs/" rel="noopener">Instagram @gubulldogs</a></p><article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/26/how-gonzaga-women-plan-to-solve-turnover-problem-i/" rel="noopener">How Gonzaga women plan to solve turnover problem in 2026-27</a><p class="snip">Editor’s note: This is the third story in a multi-part series examining the offseason for the Gonzaga women’s basketball program. Lisa Fortier expects her Gonzaga women’s basketball team to turn over…</p><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>The Spokesman-Review · 1d ago</p></article>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/24/former-gonzaga-walk-on-joe-few-joining-randy-benne/" rel="noopener">Former Gonzaga walk-on Joe Few joining Randy Bennett, Arizona State as graduate assistant</a><p class="snip">Joe Few is stepping into the coaching world, and with one of the Division I programs you might least expect. The former Gonzaga walk-on who played for his father from 2021-25 is joining former Saint…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 3d ago</p></article>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/23/how-gonzagas-graham-ike-became-the-heartbeat-of-go/" rel="noopener">How Gonzaga&#x27;s Graham Ike became the &#x27;heartbeat&#x27; of Golden State&#x27;s NBA Summer League championship team</a><p class="snip">LAS VEGAS – Khalid Robinson wasn’t on a scouting assignment for the Golden State Warriors when the NBA assistant drove across the San Francisco Bay Bridge last year to catch a local college…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 4d ago</p></article>
-<details class="more"><summary>More Gonzaga stories (5)</summary>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/23/longtime-gonzaga-staff-member-jorge-sanz-announces/" rel="noopener">Report: Longtime staff member Jorge Sanz leaving Gonzaga for North Carolina</a><p class="snip">The list of priorities for Gonzaga before the 2026-27 season now includes replacing a key staff member who played a big role in the team’s nonconference scheduling and international recruiting…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 4d ago</p></article>
-<article class="item"><a class="headline" href="https://gozags.com/news/2026/7/22/mens-basketball-gonzaga-and-ucla-to-meet-in-west-coast-hoops-showdown" rel="noopener">Gonzaga and UCLA to Meet in West Coast Hoops Showdown</a><p class="snip">ANAHEIM, Calif. – Intersport today announced the West Coast Hoops Showdown, a premier college basketball showcase set for December 5 featuring national powers UCLA and Gonzaga at Honda Center in…</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Gonzaga Athletics · 4d ago</p></article>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/22/gonzaga-ucla-to-renew-rivalry-with-dec-5-nonconfer/" rel="noopener">Gonzaga, UCLA to renew rivalry with Dec. 5 nonconference game in Anaheim</a><p class="snip">Gonzaga’s coaching staff will get a good look at UCLA on the opening night of the college basketball season when the Bruins square off against Arizona at T-Mobile Arena in Las Vegas, a matter of…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 5d ago</p></article>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/20/how-star-gonzaga-forward-lauren-whittaker-is-worki/" rel="noopener">How star Gonzaga forward Lauren Whittaker is working to build on breakout season</a><p class="snip">Editor’s note: This is the second story in a multipart series examining the offseason for the Gonzaga women’s basketball program. No Gonzaga women’s basketball player had a more significant freshman…</p><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>The Spokesman-Review · 7d ago</p></article>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/19/graham-ike-warriors-hold-off-cedric-coward-grizzli/" rel="noopener">Graham Ike, Warriors hold off Cedric Coward, Grizzlies for NBA Summer League championship</a><p class="snip">Graham Ike’s professional basketball career is all of four weeks old but the former Gonzaga standout already has a championship ring to show for it. Ike was one of Golden State’s top producers…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 8d ago</p></article>
-</details>
-</section>
-<section id="oregon-state" data-team="oregon-state"><h2><span class="dot" style="background:#DC4405"></span>Oregon State</h2>
-<p class="follow">Follow: <a href="https://x.com/beaverathletics" rel="noopener">X @beaverathletics</a> · <a href="https://www.instagram.com/beaverathletics/" rel="noopener">Instagram @beaverathletics</a></p><article class="item"><a class="headline" href="https://osubeavers.com/news/2026/7/24/mens-basketball-beavers-headed-to-canada-for-summer-tour" rel="noopener">Beavers Headed to Canada for Summer Tour</a><p class="snip">CORVALLIS – The Oregon State men&#x27;s basketball team will head to Canada for a summer preseason tour, the team announced Friday.</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Oregon State Athletics · 2d ago</p></article>
-<article class="item"><a class="headline" href="https://www.oregonlive.com/beavers/2026/07/the-oregon-state-baseball-brotherhood-spans-the-major-leagues-and-shows-no-signs-of-slowing-down.html" rel="noopener">The Oregon State baseball brotherhood spans the Major Leagues and shows no signs of slowing down</a><p class="snip">The Beavers have nine players on Major League rosters, including three All-Stars and two former No. 1 draft picks who maintain close bonds from their college days.</p><p class="attrib"><span class="tag">📣 All sports</span>The Oregonian · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://osubeavers.com/news/2026/7/22/football-karson-boschma-selected-as-a-good-works-team-nominee" rel="noopener">Karson Boschma Selected As a Good Works Team Nominee</a><p class="snip">CORVALLIS, Ore. – Oregon State senior wide receiver Karson Boschma has been nominated for the American Football Coaches Association&#x27;s (AFCA) Good Works Team.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Oregon State Athletics · 4d ago</p></article>
-<details class="more"><summary>More Oregon State stories (5)</summary>
-<article class="item"><a class="headline" href="https://osubeavers.com/news/2026/7/9/football-watch-jamarcus-shephard-featured-on-the-pac-12s-the-dawn" rel="noopener">Watch: JaMarcus Shephard Featured On The Pac-12&#x27;s &#x27;The Dawn&#x27;</a><p class="attrib"><span class="tag tag-football">🏈 Football</span>Oregon State Athletics · Jul 10</p></article>
-<article class="item"><a class="headline" href="https://osubeavers.com/news/2026/7/2/football-13-beavers-named-preseason-all-pac-12-per-athlon" rel="noopener">13 Beavers Named Preseason All-Pac-12 Per Athlon</a><p class="snip">A total of 13 Beavers have been selected to Athlon Sports&#x27; preseason All-Pac-12 Team.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Oregon State Athletics · Jul 2</p></article>
-<article class="item"><a class="headline" href="https://osubeavers.com/news/2026/6/29/2026-football-mini-plans-on-sale-now" rel="noopener">2026 Football Mini-Plans On Sale Now</a><p class="attrib"><span class="tag tag-football">🏈 Football</span>Oregon State Athletics · Jun 29</p></article>
-<article class="item"><a class="headline" href="https://osubeavers.com/news/2026/6/22/mens-basketball-joyner-adds-peavler-to-staff" rel="noopener">Joyner Adds Peavler to Staff</a><p class="snip">CORVALLIS – The Oregon State men&#x27;s basketball program has added Alex Peavler to its staff in the role of assistant coach, head coach Justin Joyner announced Monday.</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Oregon State Athletics · Jun 22</p></article>
-<article class="item"><a class="headline" href="https://osubeavers.com/news/2026/6/20/mens-basketball-johnson-signs-with-beavers" rel="noopener">Johnson Signs With Beavers</a><p class="snip">CORVALLIS – Guard Chris Johnson has signed with the Oregon State men&#x27;s basketball team, head coach Justin Joyner announced Saturday.</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Oregon State Athletics · Jun 20</p></article>
-</details>
-</section>
-<section id="san-diego-state" data-team="san-diego-state"><h2><span class="dot" style="background:#A6192E"></span>San Diego State</h2>
-<p class="follow">Follow: <a href="https://x.com/GoAztecs" rel="noopener">X @GoAztecs</a> · <a href="https://www.instagram.com/goaztecs/" rel="noopener">Instagram @goaztecs</a></p><article class="item"><a class="headline" href="https://goaztecs.com/news/2026/07/25/sdsu-hosts-football-media-day-at-snapdragon-stadium" rel="noopener">SDSU Hosts Football Media Day at Snapdragon Stadium</a><p class="snip">The event featured 16 members of the San Diego State football team, along with director of athletics John David Wicker.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>San Diego State Athletics · 2d ago</p></article>
-<article class="item"><a class="headline" href="https://goaztecs.com/news/2026/07/21/single-game-tickets-for-sdsus-first-pac-12-season-go-on-sale-on-wednesday" rel="noopener">Single-Game Tickets for SDSU&#x27;s First Pac-12 Season Go on Sale on Wednesday</a><p class="snip">Single-game tickets are on sale beginning at 10 a.m. PT Wednesday. Season tickets are also still on sale. The Aztecs play six home games at Snapdragon Stadium this season, their first in the Pac-12…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>San Diego State Athletics · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://goaztecs.com/news/2026/07/20/mens-hoops-finalizes-deal-to-play-brigham-young-at-acrisure-series" rel="noopener">Men’s Hoops Finalizes Deal to Play Brigham Young at Acrisure Series</a><p class="snip">The teams will play on December 19 at Acrisure Arena in Palm Desert.</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>San Diego State Athletics · 6d ago</p></article>
-<details class="more"><summary>More San Diego State stories (2)</summary>
-<article class="item"><a class="headline" href="https://goaztecs.com/news/2026/07/1/san-diego-states-pac-12-era-is-officially-underway" rel="noopener">San Diego State’s Pac-12 Era is Officially Underway</a><p class="snip">The transformative era for the century-old conference began on Wednesday (July 1) as SDSU joined league stalwarts Oregon State and Washington State, along with Boise State, Colorado State, Gonzaga…</p><p class="attrib"><span class="tag">📣 All sports</span>San Diego State Athletics · Jul 1</p></article>
-<article class="item"><a class="headline" href="https://goaztecs.com/news/2026/06/30/aztecs-earn-107-academic-all-mw-honors" rel="noopener">Aztecs Earn 107 Academic All-MW Honors</a><p class="snip">San Diego State had 107 student-athletes earn academic All-Mountain West designation for the spring semester, the Mountain West Conference announced on Tuesday.</p><p class="attrib"><span class="tag">📣 All sports</span>San Diego State Athletics · Jun 30</p></article>
-</details>
-</section>
-<section id="texas-state" data-team="texas-state"><h2><span class="dot" style="background:#501214"></span>Texas State</h2>
-<p class="follow">Follow: <a href="https://x.com/txstatebobcats" rel="noopener">X @txstatebobcats</a> · <a href="https://www.instagram.com/txstatebobcats/" rel="noopener">Instagram @txstatebobcats</a></p><article class="item"><a class="headline" href="https://txst.com/news/2026/7/23/womens-basketball-kielsmeier-womens-basketball-announce-texas-state-non-conference-slate.aspx" rel="noopener">Kielsmeier, Women’s Basketball Announce Texas State Non-Conference Slate</a><p class="snip">SAN MARCOS, Texas – Texas State head women&#x27;s basketball coach Chris Kielsmeier unveiled his first non-conference schedule at the Bobcat helm, announcing a slate that will usher TXST into the Pac-12…</p><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>Texas State Athletics · 3d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/7/22/football-watch-hc-gj-kinne-tscha-availability.aspx" rel="noopener">WATCH | HC GJ Kinne TSCHA Availability</a><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 4d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/7/19/football-jackson-named-allstate-afca-good-works-team-nominee.aspx" rel="noopener">Jackson Named Allstate AFCA Good Works Team Nominee</a><p class="snip">SAN MARCOS, Texas – Texas State quarterback Brad Jackson has been named the Bobcats&#x27; nominee for the 2026 Allstate AFCA Good Works Team, recognizing one of college football&#x27;s premier leaders in…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 7d ago</p></article>
-<details class="more"><summary>More Texas State stories (5)</summary>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/7/16/the-dawn-ep-5-high-energy-exciting-football-coming-to-pac-12-with-gj-kinne-texas-state.aspx" rel="noopener">The Dawn, Ep. 5 | High Energy, EXCITING Football Coming to Pac-12 with GJ Kinne &amp; Texas State</a><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 10d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/7/7/shoemaker-named-to-dave-campbells-texas-football-40-under-40-list.aspx" rel="noopener">Shoemaker Named to Dave Campbell&#x27;s Texas Football 40 Under 40 List</a><p class="snip">SAN MARCOS, Texas – Texas State co-offensive coordinator and offensive line coach Jordan Shoemaker has been recognized as one of the state&#x27;s rising stars in the profession after being named to Dave…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · Jul 8</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/7/1/football-texas-state-lands-15-on-athlon-sports-preseason-all-pac-12-teams.aspx" rel="noopener">Texas State Lands 15 on Athlon Sports Preseason All-Pac-12 Teams</a><p class="snip">SAN MARCOS, Texas – Texas State placed 15 student-athletes on the Athlon Sports 2026 Preseason All-Pac-12 Teams, highlighted by three first-team offensive selections and a first-team specialist.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · Jul 1</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/7/1/athletics-elevate-everything-texas-state-day-one-in-pac-12.aspx" rel="noopener">Elevate Everything: Texas State in the Pac-12</a><p class="attrib"><span class="tag">📣 All sports</span>Texas State Athletics · Jul 1</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/6/24/nolan-sparks-named-dave-campbells-texas-football-preseason-all-texas-selections.aspx" rel="noopener">Nolan, Sparks Named Dave Campbell&#x27;s Texas Football Preseason All-Texas Selections</a><p class="snip">SAN MARCOS, Texas — Texas State football&#x27;s Ryan Nolan and Beau Sparks have been recognized among the state&#x27;s top returning players after earning selections to Dave Campbell&#x27;s Texas Football Preseason…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · Jun 24</p></article>
-</details>
-</section>
-<section id="utah-state" data-team="utah-state"><h2><span class="dot" style="background:#0F2439"></span>Utah State</h2>
-<p class="follow">Follow: <a href="https://x.com/USUAthletics" rel="noopener">X @USUAthletics</a> · <a href="https://www.instagram.com/usuathletics/" rel="noopener">Instagram @usuathletics</a></p><article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/7/21/mens-basketball-aggies-to-compete-at-texas-legends-college-classic.aspx" rel="noopener">Aggies to Compete at Texas Legends College Classic</a><p class="snip">The Texas Legends, NBA G League affiliate of the Dallas Mavericks, announced today the inaugural Texas Legends College Classic presented by Kia, a four-day college basketball showcase set to take…</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Utah State Athletics · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/7/20/football-utah-states-bronco-mendenhall-and-javen-jacobs-nominated-for-allstate-afca-good-works-team.aspx" rel="noopener">Utah State’s Bronco Mendenhall and Javen Jacobs Nominated for Allstate AFCA Good Works Team</a><p class="snip">LOGAN, Utah – Utah State head coach Bronco Mendenhall and senior running back Javen Jacobs are nominees for the Allstate AFCA Good Works Team, it was announced Monday.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · 6d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/7/13/football-2026-utah-state-athletics-hall-of-fame-induction-ceremony-tickets-on-sale-now.aspx" rel="noopener">2026 Utah State Athletics Hall of Fame Induction Ceremony Tickets on Sale Now</a><p class="snip">LOGAN, Utah – Tickets to the 2026 Utah State University Athletics Hall of Fame Induction Ceremony are on sale now.</p><p class="attrib"><span class="tag">📣 All sports</span>Utah State Athletics · 13d ago</p></article>
-<details class="more"><summary>More Utah State stories (3)</summary>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/7/9/utah-state-football-mini-plans-now-available.aspx" rel="noopener">Utah State Football Mini Plans Now Available</a><p class="snip">LOGAN, Utah – Utah State football mini plans are now available for the upcoming 2026 season. This year&#x27;s mini plans differ from previous seasons by allowing fans to choose the games they want rather…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · Jul 9</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/6/25/mens-basketball-drake-allen-signs-exhibit-10-deal-with-detroit-pistons.aspx" rel="noopener">Drake Allen Signs Exhibit 10 Deal with Detroit Pistons</a><p class="snip">Former Utah State men&#x27;s basketball guard Drake Allen agreed to an Exhibit 10 deal with the NBA&#x27;s Detroit Pistons, it was announced on Thursday. Allen will join the Pistons for the upcoming NBA Summer…</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Utah State Athletics · Jun 25</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/6/23/mens-basketball-utah-state-basketball-welcomes-thomas-kithier-to-staff.aspx" rel="noopener">Utah State Basketball Welcomes Thomas Kithier to Staff</a><p class="snip">Utah State head men&#x27;s basketball coach Ben Jacobson announced the addition of Thomas Kithier to the team&#x27;s staff as an assistant coach and video coordinator on Tuesday.</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Utah State Athletics · Jun 23</p></article>
-</details>
-</section>
-<section id="washington-state" data-team="washington-state"><h2><span class="dot" style="background:#981E32"></span>Washington State</h2>
-<p class="follow">Follow: <a href="https://x.com/WSUCougars" rel="noopener">X @WSUCougars</a> · <a href="https://www.instagram.com/wsucougarathletics/" rel="noopener">Instagram @wsucougarathletics</a></p><article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/25/meet-the-washington-state-grad-who-helped-launch-t/" rel="noopener">Meet the Washington State grad who helped launch the NBA&#x27;s &#x27;31st franchise,&#x27; Las Vegas Summer League</a><p class="snip">LAS VEGAS – Albert Hall’s daily schedule at NBA Summer League is busy enough, and that’s before you factor in the different fires he’s extinguishing from the time he wakes up until he finally shuts…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 2d ago</p></article>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/24/wsu-notebook-cougars-wont-play-uw-this-basketball-/" rel="noopener">WSU-UW basketball rivalry won&#x27;t be played this season for first time since 1917 | Notebook</a><p class="snip">PULLMAN – One of the country’s longest college basketball series will not continue this upcoming season. Washington State and rival Washington are not expected to play a regular-season game this…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 3d ago</p></article>
-<article class="item"><a class="headline" href="https://wsucougars.com/news/2026/07/23/washington-state-university-and-the-realest-partner-to-create-upcycled-memorabilia-from-turf-at-gesa-field" rel="noopener">Washington State University and The Realest Partner to Create Upcycled Memorabilia from Turf at Gesa Field</a><p class="attrib"><span class="tag tag-football">🏈 Football</span>Washington State Athletics · 3d ago</p></article>
-<details class="more"><summary>More Washington State stories (5)</summary>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/22/wsu-football-to-swap-sidelines-putting-visitors-in/" rel="noopener">WSU football to swap sidelines, putting visitors in front of Cougars&#x27; student section</a><p class="snip">PULLMAN – When Washington State fans file into Gesa Field for their team’s home opener in September, they might notice the Cougars setting up shop in a different place. WSU is flipping its sideline…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>The Spokesman-Review · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://wsucougars.com/news/2026/07/20/womens-basketball-announces-2026-27-coaching-staff" rel="noopener">Women’s Basketball Announces 2026-27 Coaching Staff</a><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>Washington State Athletics · 6d ago</p></article>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/20/wsu-lands-commitment-from-3-star-guard-jaylen-mcla/" rel="noopener">WSU lands commitment from 3-star guard Jaylen McLaughlin out of Bothell</a><p class="snip">PULLMAN – Washington State is on the board in the class of 2027. The Cougars have landed a commitment from three-star guard Jaylen McLaughlin, who announced his decision on Monday afternoon, becoming…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 7d ago</p></article>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/18/how-self-published-book-helped-noah-riley-former-w/" rel="noopener">How former Whitworth QB Noah Riley, brother of WSU basketball coach, turned self-published book into unlikely NFL career</a><p class="snip">PULLMAN – In the middle of a Zoom chat, Noah Riley almost fell out of the seat of his car. He was chatting with Daniel Stern, then the director of football strategy for the Baltimore Ravens, who were…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 9d ago</p></article>
-<article class="item"><a class="headline" href="http://www.spokesman.com/stories/2026/jul/15/how-former-washington-state-forward-isaac-jones-is/" rel="noopener">How former Washington State forward Isaac Jones is bringing his engine to the Motor City: &#x27;I fit the mold&#x27;</a><p class="snip">LAS VEGAS – A charter plane carrying the Sacramento Kings was cruising at 30,000 feet, somewhere between Colorado and California on the night of Nov. 3, when Isaac Jones got a tap on the shoulder…</p><p class="attrib"><span class="tag">📣 All sports</span>The Spokesman-Review · 12d ago</p></article>
-</details>
 </section>
 </main>
 <footer>
   <p>Every headline links to its original publisher; snippets are brief excerpts shown with attribution. Full stories belong to their sources.</p>
   <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12 Conference or any university.</p>
 </footer>
-<script>
-(function () {
-  var KEY = "npc-hidden";
-  var hidden = [];
-  try { hidden = JSON.parse(localStorage.getItem(KEY)) || []; } catch (e) {}
-  function apply() {
-    document.querySelectorAll("section[data-team]").forEach(function (sec) {
-      var t = sec.getAttribute("data-team");
-      if (t !== "conference") sec.style.display = hidden.indexOf(t) >= 0 ? "none" : "";
-    });
-    document.querySelectorAll("nav a").forEach(function (a) {
-      var t = a.getAttribute("href").slice(1);
-      a.style.display = hidden.indexOf(t) >= 0 ? "none" : "";
-    });
-  }
-  document.querySelectorAll(".filter input").forEach(function (box) {
-    box.checked = hidden.indexOf(box.getAttribute("data-team")) < 0;
-    box.addEventListener("change", function () {
-      var t = box.getAttribute("data-team");
-      hidden = hidden.filter(function (x) { return x !== t; });
-      if (!box.checked) hidden.push(t);
-      try { localStorage.setItem(KEY, JSON.stringify(hidden)); } catch (e) {}
-      apply();
-    });
-  });
-  document.querySelector(".filter-all").addEventListener("click", function () {
-    hidden = [];
-    try { localStorage.setItem(KEY, "[]"); } catch (e) {}
-    document.querySelectorAll(".filter input").forEach(function (b) { b.checked = true; });
-    apply();
-  });
-  apply();
-})();
-</script>
 </body>
 </html>
