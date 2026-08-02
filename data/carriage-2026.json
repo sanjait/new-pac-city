@@ -890,20 +890,20 @@
      "source_rank": 1,
      "fact_type": "carriage",
      "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
-     "method": "browser",
-     "checked": "2026-07-31",
+     "method": "browser-visual",
+     "checked": "2026-08-01",
      "provenance_granularity": "cell-observed",
      "plans": {
       "Sling Essentials": true,
       "Sling Select": null,
       "Essentials & Select": true,
       "Sling Orange": true,
-      "Sling Blue": true,
+      "Sling Blue": false,
       "Orange & Blue": true
      },
      "tier_resolved": true,
-     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
-     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only."
+     "tier_basis": "observed-from-provider-per-plan-channel-graphic, read visually (2026-08-01)",
+     "tier_note": "Sling Blue corrected true->false on 2026-08-01. The 2026-07-31 pass read the Blue page's channel-grid ALT TEXT, which lists ESPN, AMC, IFC and BBC America; the graphic that alt text describes shows 40 tiles and contains none of those four. All four are Orange channels, so Blue's alt text is contaminated with Orange's lineup. Read the image, not its alt text. Orange's graphic shows ESPN, ESPN2 and ESPN4K and its alt text matches it exactly, which is the positive control. Essentials/Select unknown: those tiers publish partial lists only."
     },
     "TNT": {
      "carried": true,
@@ -1379,7 +1379,18 @@
    "finding": "Sling's own 'Channels included in Sling Blue' lineup lists ESPN. ESPN2 and ESPN4K are Orange-only, so the tier split is real but narrower than recorded.",
    "grade": "Rank 1 (provider's own plan page) over rank 2 (secondary report).",
    "why_it_matters": "Sling Blue at $45.99 carries USA, ESPN, FS1 and TNT — four of our nine channels — which makes it the cheapest partial-season option in the file and materially better than the 'Orange for sports' framing implied.",
-   "confidence_note": "Read from provider-page image alt text, the same method that produced the original Sling record. Worth one independent confirmation before it appears in a published recommendation."
+   "confidence_note": "Read from provider-page image alt text, the same method that produced the original Sling record. Worth one independent confirmation before it appears in a published recommendation.",
+   "superseded_by": "2026-08-01",
+   "status": "WITHDRAWN - this correction was itself wrong. See the 2026-08-01 entry."
+  },
+  {
+   "date": "2026-08-01",
+   "claim": "The 2026-07-31 correction (entry above): 'Sling Blue carries ESPN' (recorded verified, rank 1).",
+   "finding": "It does not. Sling Blue's channel graphic shows 40 tiles and ESPN is not among them; the original 2026-07-29 research pass was right that ESPN is Orange-side. The 2026-07-31 pass read the Blue page's ALT TEXT, which lists 44 channels including ESPN, AMC, IFC and BBC America - none of which appear in the graphic it describes, and all four of which are Orange channels. Blue's alt text is contaminated with Orange's lineup.",
+   "grade": "Rank 1 read visually (the graphic itself) over rank 1 read from that graphic's alt text. Same page, same publisher, different reliability - and the file now distinguishes them as method 'browser-visual' vs 'browser'.",
+   "positive_control": "The same visual method was run against Sling Orange, whose graphic does show ESPN, ESPN2 and ESPN4K, and whose alt text matches its graphic exactly. The method can see ESPN when ESPN is there.",
+   "why_it_matters": "Sling Blue at $45.99 carries USA, FS1 and TNT - three of our nine channels, not four. Sling Blue was a pre-selected column on all eight published watch pages, and this cell rendered a checkmark on the 2026-09-05 season opener for Oregon State and Texas State: the two ESPN games in the entire 101-game file are both on kickoff day. A fan buying Sling Blue for opening weekend on our say-so would have got nothing that day.",
+   "the_lesson": "Image alt text is a caption a publisher wrote about an asset, not the asset. It goes stale independently of what it describes, and it had already produced one wrong Sling record before it produced this one - twice, out of two attempts. Carriage facts read off a graphic must be read off the graphic."
   }
  ]
 }
