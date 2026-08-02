@@ -20,6 +20,8 @@ import re
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
+
+import watch_data
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -553,7 +555,7 @@ h1 .pac {{ color: var(--accent); }}
 """
 
 
-def render_team_page(team, items, cfg, now):
+def render_team_page(team, items, cfg, now, watch=None):
     top, rest = split_top(items, now, cfg["top_stories_per_team"])
     football = [it for it in rest if it["sport"] == "football"]
     hoops = [it for it in rest if it["sport"] in ("mbb", "wbb")]
@@ -578,8 +580,24 @@ def render_team_page(team, items, cfg, now):
         sections.append('<p class="empty">No recent news — check back soon.</p>')
 
     body = "\n".join(sections)
-    reserved = ('<article class="item future">Reserved for later slices: schedule &amp; next game · '
-                "scores · social feed</article>")
+    # The watch card sits above the news feed. The "reserved for later slices"
+    # placeholder does not get promoted with it — a team without a watch page
+    # would otherwise lead with a note about work that doesn't exist yet.
+    top_block, bottom_block = "", ""
+    if watch:
+        cheapest = min((c for c in watch["lead"] if c["price"]), key=lambda c: c["price"], default=None)
+        price_line = (f' Plans from ${cheapest["price"]:.2f}'.replace(".00", "") + "/mo,"
+                      if cheapest else "")
+        top_block = (
+            '<article class="item watchcard">'
+            f'<a class="headline" href="watch/">📺 How to watch the {html.escape(team["nickname"])} '
+            f'this season</a>'
+            f'<p class="snip">All {watch["games_total"]} games, the channel each one is on, and '
+            f'what each way of watching costs.{price_line} plus what you can get free '
+            f'over the air.</p></article>')
+    else:
+        bottom_block = ('<article class="item future">Reserved for later slices: schedule &amp; '
+                        "next game · scores · social feed</article>")
     follow = follow_links(team)
     follow_html = f'<p class="follow">Follow the team: {follow}</p>' if follow else ""
     stamp = now.strftime("%b %d, %Y · %H:%M UTC")
@@ -605,6 +623,9 @@ h1 .nick {{ color: var(--s); }}
 .updated {{ color: var(--muted); font-size: 13px; margin-top: 8px; }}
 .follow a {{ color: var(--pt); text-decoration: none; font-weight: 600; }}
 .future {{ border-style: dashed; color: var(--muted); font-size: 14px; text-align: center; padding: 16px 14px; }}
+.watchcard {{ border-left: 4px solid var(--p); border-radius: 0 10px 10px 0; margin-top: 16px; }}
+.watchcard .headline {{ color: var(--pt); }}
+.watchcard + h2 {{ margin-top: 30px; }}
 """
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -631,13 +652,270 @@ h1 .nick {{ color: var(--s); }}
   {follow_html}
 </header>
 <main>
+{top_block}
 {body}
-{reserved}
+{bottom_block}
 </main>
 <footer>
   <p>Every headline links to its original publisher; snippets are brief excerpts shown with attribution. Full stories belong to their sources.</p>
   <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12 Conference or any university.</p>
   <p><a href="../">← Back to the New PAC City homepage</a></p>
+</footer>
+</body>
+</html>
+"""
+
+
+WATCH_STYLE = """
+.wrap { overflow-x: auto; margin-top: 14px; border: 1px solid var(--line);
+  border-radius: 10px; background: var(--card); }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--line); }
+thead th { vertical-align: bottom; }
+tbody tr:last-child td { border-bottom: none; }
+.game { min-width: 210px; }
+.gd { font-weight: 600; }
+.gm { color: var(--muted); font-size: 12.5px; }
+.ch { color: var(--muted); font-size: 12.5px; }
+.chan { display: inline-block; background: var(--tag-bg); color: var(--accent);
+  border-radius: 4px; padding: 1px 6px; font-size: 11.5px; font-weight: 600; }
+.colh { min-width: 108px; text-align: center; }
+.colh .pv { font-size: 11.5px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.4px; }
+.colh .pl { font-weight: 600; font-size: 13.5px; line-height: 1.25; margin-top: 2px; }
+.colh .pr { font-size: 17px; font-weight: 700; margin-top: 6px; }
+.colh .mo { font-size: 11.5px; color: var(--muted); }
+.cell { text-align: center; font-weight: 700; }
+.yes { background: var(--yes-bg); color: var(--yes-ink); }
+.no  { background: var(--no-bg);  color: var(--no-ink); }
+.un  { background: var(--un-bg);  color: var(--un-ink); }
+.na  { background: var(--no-bg);  color: var(--no-ink); font-weight: 400; font-size: 12px; }
+tfoot td { font-size: 12.5px; color: var(--muted); border-top: 2px solid var(--line); }
+tfoot .cell { font-weight: 600; color: var(--ink); font-size: 13px; }
+.legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 12.5px; color: var(--muted); margin-top: 10px; }
+.legend b { display: inline-block; width: 18px; height: 18px; border-radius: 4px; text-align: center;
+  line-height: 18px; font-size: 12px; margin-right: 5px; vertical-align: -4px; }
+.callout { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--p);
+  border-radius: 0 10px 10px 0; padding: 11px 14px; margin-top: 14px; font-size: 14px; }
+.fn { color: var(--muted); font-size: 12.5px; margin-top: 8px; }
+.fn b { color: var(--ink); font-weight: 600; }
+tr.cond .gd { font-weight: 500; }
+.ifq { color: var(--un-ink); font-weight: 600; }
+@media (max-width: 520px) {
+  .game { min-width: 0; }
+  .colh { min-width: 74px; }
+  th, td { padding: 8px 6px; }
+  .colh .pl { font-size: 12px; } .colh .pr { font-size: 15px; } .colh .mo { font-size: 10.5px; }
+  .gd { font-size: 13px; } .gm, .ch { font-size: 11.5px; }
+}
+"""
+
+WATCH_COLORS = """
+:root { --yes-bg: #e4f0e2; --yes-ink: #2f6b2a; --no-bg: #f2f0ec; --no-ink: #9a9891;
+        --un-bg: #fbf0d8; --un-ink: #8a6410; }
+@media (prefers-color-scheme: dark) {
+  :root { --yes-bg: #1f3a1d; --yes-ink: #8ed086; --no-bg: #22252b; --no-ink: #6e6d68;
+          --un-bg: #3a3115; --un-ink: #e0b95a; }
+}
+"""
+
+CELL_MARK = {"yes": "✓", "no": "✗", "unsure": "?", "n/a": "—"}
+CELL_CLASS = {"yes": "yes", "no": "no", "unsure": "un", "n/a": "na"}
+
+
+def watch_plan_name(col):
+    """Sling's plans are already called "Sling Blue"; printing the provider
+    above them yields "Sling / Sling Blue"."""
+    plan, provider = col["plan"], col["provider_label"]
+    return plan[len(provider):].strip() if plan.startswith(provider) else plan
+
+
+def watch_price(col):
+    if col["price"] == 0:
+        return "Free"
+    if col["price"] is None:
+        return "—"
+    return f'${col["price"]:.2f}'.replace(".00", "")
+
+
+def watch_subprice(col):
+    """The unit price and the months needed are shown as two facts and never
+    multiplied — a season total would assume the fan cancels on time."""
+    if col["price"] == 0:
+        return "antenna, one-time"
+    if col["price"] is None:
+        return "price not found"
+    months = col["coverage"]["months"]
+    return f'per month · {months} month{"s" if months != 1 else ""}' if months else "per month"
+
+
+def render_watch_table(data, carriage):
+    columns = data["lead"]
+    head = "".join(
+        f'<th class="colh"><div class="pv">{html.escape(c["provider_label"])}</div>'
+        f'<div class="pl">{html.escape(watch_plan_name(c))}</div>'
+        f'<div class="pr">{watch_price(c)}</div>'
+        f'<div class="mo">{watch_subprice(c)}'
+        f'{" · reception varies" if c["synthetic"] else ""}</div></th>' for c in columns)
+    body = []
+    for r in data["rows"]:
+        vs = "at" if r["home_away"] == "away" else "vs"
+        if r["channel"]:
+            chan = f'<span class="chan">{html.escape(r["channel_label"])}</span>'
+        else:
+            chan = '<span class="ch">no network announced yet</span>'
+        cells = []
+        for c in columns:
+            if not r["channel"]:
+                cells.append('<td class="cell na">—</td>')
+                continue
+            state, _ = watch_data.cell_state(carriage, c, r["channel"])
+            cells.append(f'<td class="cell {CELL_CLASS[state]}">{CELL_MARK[state]}</td>')
+        cond = ' <span class="ifq">only if they qualify</span>' if r["conditional"] else ""
+        body.append(
+            f'<tr{" class=cond" if r["conditional"] else ""}>'
+            f'<td class="game"><div class="gd">{r["date"][5:].replace("-", "/")} · '
+            f'{html.escape(r["opponent"])}</div>'
+            f'<div class="gm">{vs} · {html.escape(r["time"])}{cond}</div>'
+            f'<div class="ch">{chan}</div></td>{"".join(cells)}</tr>')
+    tbd = data["games_tbd"]
+    tail = f', plus {tbd} to be determined' if tbd else ""
+    foot = "".join(
+        f'<td class="cell">{c["coverage"]["yes"]} of {data["games_known"]}{tail}</td>'
+        for c in columns)
+    return (f'<div class="wrap"><table><thead><tr><th class="game">Game</th>{head}</tr></thead>'
+            f'<tbody>{"".join(body)}</tbody>'
+            f'<tfoot><tr><td>Games this gets you</td>{foot}</tr></tfoot></table></div>')
+
+
+def render_omitted(data):
+    """Plans kept out of the table, named in a line of text instead. Two
+    reasons, deliberately not merged: 'carries none of your games' is a
+    finding about the provider, 'we could not establish it' is a gap in our
+    own work, and calling the second one the first would be a false negative
+    against a named company."""
+    none_ = [c for c in data["columns"] if c["omit"] == "no-games"]
+    unk = [c for c in data["columns"] if c["omit"] == "unestablished"]
+    out = []
+    if none_:
+        names = ", ".join(f'{c["provider_label"]} {watch_plan_name(c)}'.strip() for c in none_)
+        out.append(f'<p class="fn"><b>Carries none of your games.</b> {html.escape(names)}. '
+                   f'Left out of the table because every cell would be empty — not because '
+                   f'they are bad services, but because they carry none of the channels your '
+                   f'season is on.</p>')
+    if unk:
+        names = ", ".join(f'{c["provider_label"]} {watch_plan_name(c)}'.strip() for c in unk)
+        out.append(f'<p class="fn"><b>We could not establish these.</b> {html.escape(names)}. '
+                   f'These publish partial channel lists or put the full line-up behind a '
+                   f'sign-in, so we could not confirm a single one of your games on them. '
+                   f'That records what our checking found, not a claim about the provider.</p>')
+    return "\n".join(out)
+
+
+def render_watch_page(team, data, carriage, cfg, now):
+    school, nickname, slug = html.escape(team["name"]), html.escape(team["nickname"]), team["slug"]
+    total, known, tbd = data["games_total"], data["games_known"], data["games_tbd"]
+    lead = data["lead"]
+    best = max(c["coverage"]["yes"] for c in lead)
+    conditional_note = (", plus the conference championship if they get there"
+                        if data["conditional"] else "")
+
+    gaps = []
+    if tbd:
+        gaps.append(f'{tbd} game{"s" if tbd != 1 else ""} ha{"ve" if tbd != 1 else "s"} '
+                    f'no announced network yet')
+    if best < known:
+        gaps.append(f'the best of these three still misses {known - best} '
+                    f'of the {known} that do')
+    callout = ""
+    if gaps:
+        callout = (f'<div class="callout"><b>No single option covers all {total} games.</b> '
+                   f'{html.escape(" — and ".join(gaps))}.</div>')
+
+    market, verdict, note = watch_data.ANTENNA_MARKETS[data["team"]]
+    fn_antenna = (
+        f'<p class="fn"><b>&ldquo;Free over the air&rdquo; means the game is broadcast free '
+        f'— not that you can necessarily receive it.</b> A ✓ in the antenna column means the '
+        f'network is carrying that game over the air nationally. Whether it reaches you depends '
+        f'on your address, your antenna and what is between you and the transmitter, and we '
+        f'cannot check that from here. <b>Most fans do not live in their team\'s college town</b>, '
+        f'so we do not grade these cells by what one town receives.</p>'
+        f'<p class="fn"><b>The one signal measurement we have is {html.escape(market)}.</b> '
+        f'{html.escape(note)} That is a modelled prediction for a single ZIP code, so real '
+        f'reception can be worse even there. Treat it as an example, not as your answer — every '
+        f'network publishes a coverage checker for your own address.</p>')
+    if verdict in ("weak", "fails"):
+        fn_antenna += (
+            '<p class="fn">If you are near campus, note that this is one of the weaker markets '
+            'we measured — the free column will be more optimistic for you than for most.</p>')
+
+    legend = ('<div class="legend">'
+              '<span><b class="yes">✓</b>carries it</span>'
+              '<span><b class="no">✗</b>does not carry it</span>'
+              '<span><b class="un">?</b>we could not establish it</span>'
+              '<span><b class="na">—</b>no network announced yet</span></div>')
+
+    stamp = now.strftime("%b %d, %Y")
+    style = BASE_STYLE + WATCH_COLORS + team_root_vars(team) + WATCH_STYLE + """
+.teambar { height: 6px; background: var(--p); }
+.crumb { max-width: 720px; margin: 0 auto; padding: 14px 16px 0; font-size: 13px; color: var(--muted); }
+.crumb a { color: var(--accent); text-decoration: none; }
+header { padding: 8px 16px 12px; max-width: 720px; margin: 0 auto; }
+h1 { font-size: 30px; letter-spacing: -0.5px; margin-top: 6px; }
+h1 .nick { color: var(--s); }
+.lede { color: var(--muted); margin-top: 8px; font-size: 15px; }
+.updated { color: var(--muted); font-size: 13px; margin-top: 10px; }
+"""
+    title = f"How to watch {school} {nickname} football — {html.escape(cfg['site_name'])}"
+    description = (f"Every {school} {nickname} football game in 2026, the channel it is on, "
+                   f"and what each way of watching costs. No recommendations, no commission.")
+    og_url = html.escape(cfg.get("site_url", "") + slug + "/watch/", quote=True)
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title}</title>
+<meta name="description" content="{description}">
+<link rel="icon" href="{FAVICON}">
+<meta property="og:title" content="{title}">
+<meta property="og:description" content="{description}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{og_url}">
+<meta name="twitter:card" content="summary">
+<style>{style}</style>
+</head>
+<body>
+<div class="teambar"></div>
+<p class="crumb"><a href="../">← {school} {nickname}</a> · New PAC City</p>
+<header>
+  <h1>How to watch the <span class="nick">{nickname}</span></h1>
+  <p class="lede">All {total} games this season{conditional_note}, and what each way of watching
+     actually gets you. We don't recommend one — we show what each costs and what it misses.</p>
+  <p class="updated">Channel line-ups checked {html.escape(data["carriage_checked"])} ·
+     schedule checked {html.escape(data["schedule_checked"])}</p>
+</header>
+<main>
+<h2>The season, three ways</h2>
+{render_watch_table(data, carriage)}
+{legend}
+{callout}
+<h2>The rest of the field</h2>
+{render_omitted(data)}
+<h2>Footnotes</h2>
+{fn_antenna}
+<p class="fn"><b>Months.</b> We show the monthly price and how many calendar months your games
+   span. We don't multiply them together — that would assume you cancel on time.</p>
+<p class="fn"><b>Kickoff times</b> are as published by each school, in that school's own
+   local time zone.</p>
+</main>
+<footer>
+  <p>Prices and channel line-ups change without notice — check the provider before you buy.
+     A carriage dispute can also remove a channel mid-season: in November 2025 a Disney/YouTube TV
+     dispute pulled ESPN and ABC for two weeks across peak college-football Saturdays.</p>
+  <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12
+     Conference or any university. We take no commission on anything listed here.</p>
+  <p><a href="../">← Back to {school} {nickname}</a></p>
 </footer>
 </body>
 </html>
@@ -659,12 +937,22 @@ def main():
     out = HERE / cfg.get("output_dir", "site")
     out.mkdir(exist_ok=True)
     (out / "index.html").write_text(render_homepage(cfg, by_team, now))
+    carriage, _ = watch_data.load()
+    watch_pages = 0
     for team in cfg["teams"]:
         team_dir = out / team["slug"]
         team_dir.mkdir(exist_ok=True)
-        (team_dir / "index.html").write_text(render_team_page(team, by_team.get(team["name"], []), cfg, now))
-    print(f"Wrote {out.name}/index.html + {len(cfg['teams'])} team pages — "
-          f"{total_items} items from {len(ok)}/{len(report)} feeds.")
+        watch = watch_data.for_team_name(team["name"])
+        (team_dir / "index.html").write_text(
+            render_team_page(team, by_team.get(team["name"], []), cfg, now, watch))
+        if watch:
+            watch_dir = team_dir / "watch"
+            watch_dir.mkdir(exist_ok=True)
+            (watch_dir / "index.html").write_text(
+                render_watch_page(team, watch, carriage, cfg, now))
+            watch_pages += 1
+    print(f"Wrote {out.name}/index.html + {len(cfg['teams'])} team pages "
+          f"+ {watch_pages} watch pages — {total_items} items from {len(ok)}/{len(report)} feeds.")
 
 
 if __name__ == "__main__":

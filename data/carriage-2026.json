@@ -1,0 +1,1385 @@
+{
+ "schema_version": 2,
+ "collected": "2026-07-30",
+ "about": "Carriage fact base for New PAC City watch-options slice 1. Nine channels x the providers that matter, recorded AT PLAN LEVEL: you cannot buy a provider, you buy a plan, so a channel fact that does not name a plan is not actionable. Provenance attaches to the cell; 'provenance_granularity' says whether it was observed per-cell or inherited from a whole-provider pass. Confidence: verified / reported / uncertain, and every uncertain cell carries a reason. VOCABULARY RULE: we never record that a provider 'does not publish' something -- we record that WE did not find it ('not_found'), which is a statement about our search, not a claim about them. Absence of evidence is not evidence of absence; this file already had one bug of exactly that shape (three DirecTV channels graded 'verified false' from an empty results table), and the schema-2 migration script had another (substring matching flipped 'absent from Sports Plan' into a positive).",
+ "channels": [
+  "CBS",
+  "CBSSN",
+  "CW",
+  "USA",
+  "ESPN",
+  "BTN",
+  "FS1",
+  "TNT",
+  "MWPlus"
+ ],
+ "providers": {
+  "directv-stream": {
+   "provider": "directv-stream",
+   "checked": "2026-07-31",
+   "method": "browser",
+   "source": "https://www.directv.com/stream/channel-lineup/",
+   "plans": {
+    "Entertainment": {
+     "price": 84.99,
+     "promo": "59.99 first month",
+     "price_status": "published"
+    },
+    "Choice": {
+     "price": null,
+     "price_status": "not_found",
+     "price_note": "Not found by us on the provider's own lineup page. This records OUR search, not a claim about the provider."
+    },
+    "Ultimate": {
+     "price": null,
+     "price_status": "not_found",
+     "price_note": "Not found by us on the provider's own lineup page. This records OUR search, not a claim about the provider."
+    },
+    "Premier": {
+     "price": null,
+     "price_status": "not_found",
+     "price_note": "Not found by us on the provider's own lineup page. This records OUR search, not a claim about the provider."
+    }
+   },
+   "reachability_correction": "The 2026-07-29 research pass recorded DirecTV as a NETWORK-EDGE BLOCK and noted robots.txt disallows its ZIP-lookup endpoints. The consumer channel-lineup page RENDERS FULLY in the browser pane, including a working ZIP/county selector (auto-resolved to 97321, Benton County, OR) and four package columns (Entertainment 90+, Choice 125+, Ultimate 160+, Premier 185+). The 'blocked' verdict was about a fetch path, not the site.",
+   "channels": {
+    "CBS": {
+     "carried": true,
+     "packages": [
+      "Entertainment",
+      "Choice",
+      "Ultimate",
+      "Premier"
+     ],
+     "confidence": "verified",
+     "source": "https://www.directv.com/stream/channel-lineup/",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "source_rank": 1,
+     "raw_label": "CBS (ch 13, tagged 'Local' - local channels aren't available everywhere and may vary by location); search box match 'search - cbs'; all 4 package columns showed 'Included in'",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Entertainment": true,
+      "Choice": true,
+      "Ultimate": true,
+      "Premier": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-per-package"
+    },
+    "CBSSN": {
+     "carried": true,
+     "packages": [
+      "Ultimate",
+      "Premier"
+     ],
+     "confidence": "verified",
+     "source": "https://www.directv.com/stream/channel-lineup/",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "source_rank": 1,
+     "raw_label": "CBS Sports Network HD (ch 221) - distinct from the plain 'CBS' row and from 'CBS Sports HQ'. Row appeared in BOTH the 'Included channels' section (2 icons = Ultimate, Premier marked 'Included in') AND the 'Add-on channels' section (4 icons = Entertainment: Add-on, Choice: Add-on, Ultimate: Included in, Premier: Included in). Net effect: included in Ultimate and Premier; must be purchased as a paid add-on in Entertainment and Choice, i.e. NOT included at those two tiers by default.",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Entertainment": false,
+      "Choice": false,
+      "Ultimate": true,
+      "Premier": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-per-package"
+    },
+    "CW": {
+     "carried": null,
+     "packages": [],
+     "confidence": "uncertain",
+     "source": "https://www.directv.com/stream/channel-lineup/",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "source_rank": 1,
+     "raw_label": "Site's own 'Search for Channels' box explicitly returned 'Hmm.. can't find that one. Try another search.' for the queries 'CW', 'The CW', and 'CW Network' at ZIP 97321 (Benton, OR). This is the search feature's own negative response, not an inference from a partial/virtualized view.",
+     "REJECTED_CLAIM": "Recorded carried:false at 'verified'. Downgraded.",
+     "why": "Search returned no suggestion at all, which is a stronger signal than the FS1/TNT case - but The CW is a LOCAL BROADCAST AFFILIATE and this check ran against a single ZIP (97321, Benton County OR). Absence in one rural market is not absence nationally, and per-ZIP affiliate resolution is explicitly slice 2.",
+     "render_as": "unknown",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Entertainment": null,
+      "Choice": null,
+      "Ultimate": null,
+      "Premier": null
+     },
+     "tier_resolved": false,
+     "tier_basis": "unknown-at-provider-level",
+     "unknown_reason": "Search returned no suggestion at all, which is a stronger signal than the FS1/TNT case - but The CW is a LOCAL BROADCAST AFFILIATE and this check ran against a single ZIP (97321, Benton County OR). Absence in one rural market is not absence nationally, and per-ZIP affiliate resolution is explicitly slice 2."
+    },
+    "USA": {
+     "carried": true,
+     "packages": [
+      "Entertainment",
+      "Choice",
+      "Ultimate",
+      "Premier"
+     ],
+     "confidence": "verified",
+     "source": "https://www.directv.com/stream/channel-lineup/",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "source_rank": 1,
+     "raw_label": "USA Network (ch 242); search box match 'search - usa network'; all 4 package columns showed 'Included in'",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Entertainment": true,
+      "Choice": true,
+      "Ultimate": true,
+      "Premier": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-per-package"
+    },
+    "ESPN": {
+     "carried": true,
+     "packages": [
+      "Entertainment",
+      "Choice",
+      "Ultimate",
+      "Premier"
+     ],
+     "confidence": "verified",
+     "source": "https://www.directv.com/stream/channel-lineup/",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "source_rank": 1,
+     "raw_label": "ESPN HD (ch 206); search box match 'search - espn hd' (distinct from ESPN2 HD, ESPNU HD, ESPNews HD, ESPN Deportes HD, ESPN8: The Ocho, and the separate 'ESPN Unlimited' subscription add-on); all 4 package columns showed 'Included in'",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Entertainment": true,
+      "Choice": true,
+      "Ultimate": true,
+      "Premier": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-per-package"
+    },
+    "BTN": {
+     "carried": true,
+     "packages": [
+      "Choice",
+      "Ultimate",
+      "Premier"
+     ],
+     "confidence": "verified",
+     "source": "https://www.directv.com/stream/channel-lineup/",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "source_rank": 1,
+     "raw_label": "Big Ten (ch 610); search box match 'search - big ten'. Row appeared in both 'Included channels' (3 icons = Choice, Ultimate, Premier 'Included in') and 'Add-on channels' (4 icons = Entertainment: Add-on, Choice/Ultimate/Premier: Included in). Not included by default in the Entertainment package; must be added at extra cost there.",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Entertainment": false,
+      "Choice": true,
+      "Ultimate": true,
+      "Premier": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-per-package"
+    },
+    "FS1": {
+     "carried": null,
+     "packages": [],
+     "confidence": "uncertain",
+     "source": "https://www.directv.com/stream/channel-lineup/",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "source_rank": 1,
+     "raw_label": "Searched via suggestion 'search - fox sports 1 hd' (channel tile reads 'FOX Sports 1 HD') twice, independently, each time waiting 2-3s for the virtualized list to settle. Both times the channel chip was selected (confirming the site recognized the channel) but the 'Included channels' region rendered with zero rows and no 'Add-on channels' section appeared at all - i.e. the channel is not listed under any of the 4 signature packages, included or add-on.",
+     "REJECTED_CLAIM": "Collection pass recorded carried:false at confidence 'verified'. REJECTED on review.",
+     "why": "Its own note says DirecTV's autocomplete SUGGESTED the channel ('FOX Sports 1 HD', 'TNT HD' tiles exist) and the results table then rendered empty. A channel appearing in the provider's own suggestion list is positive evidence it IS in the lineup; an empty results table is a render failure, not an absence. Recording 'not carried' for TNT or FS1 on the largest US MVPD would be an extraordinary claim resting on a UI quirk.",
+     "render_as": "unknown",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Entertainment": null,
+      "Choice": null,
+      "Ultimate": null,
+      "Premier": null
+     },
+     "tier_resolved": false,
+     "tier_basis": "unknown-at-provider-level",
+     "unknown_reason": "Its own note says DirecTV's autocomplete SUGGESTED the channel ('FOX Sports 1 HD', 'TNT HD' tiles exist) and the results table then rendered empty. A channel appearing in the provider's own suggestion list is positive evidence it IS in the lineup; an empty results table is a render failure, not an absence. Recording 'not carried' for TNT or FS1 on the largest US MVPD would be an extraordinary claim resting on a UI quirk."
+    },
+    "TNT": {
+     "carried": null,
+     "packages": [],
+     "confidence": "uncertain",
+     "source": "https://www.directv.com/stream/channel-lineup/",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "source_rank": 1,
+     "raw_label": "Searched via suggestion 'search - tnt hd' (channel tile reads 'TNT HD'). Chip selected but 'Included channels' region rendered with zero rows and no 'Add-on channels' section appeared, confirmed after two separate waits (2s, then another 2s) to rule out lazy-render lag.",
+     "REJECTED_CLAIM": "Collection pass recorded carried:false at confidence 'verified'. REJECTED on review.",
+     "why": "Its own note says DirecTV's autocomplete SUGGESTED the channel ('FOX Sports 1 HD', 'TNT HD' tiles exist) and the results table then rendered empty. A channel appearing in the provider's own suggestion list is positive evidence it IS in the lineup; an empty results table is a render failure, not an absence. Recording 'not carried' for TNT or FS1 on the largest US MVPD would be an extraordinary claim resting on a UI quirk.",
+     "render_as": "unknown",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Entertainment": null,
+      "Choice": null,
+      "Ultimate": null,
+      "Premier": null
+     },
+     "tier_resolved": false,
+     "tier_basis": "unknown-at-provider-level",
+     "unknown_reason": "Its own note says DirecTV's autocomplete SUGGESTED the channel ('FOX Sports 1 HD', 'TNT HD' tiles exist) and the results table then rendered empty. A channel appearing in the provider's own suggestion list is positive evidence it IS in the lineup; an empty results table is a render failure, not an absence. Recording 'not carried' for TNT or FS1 on the largest US MVPD would be an extraordinary claim resting on a UI quirk."
+    },
+    "MWPlus": {
+     "carried": false,
+     "packages": [],
+     "confidence": "verified",
+     "source": "https://www.directv.com/stream/channel-lineup/",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "source_rank": 1,
+     "raw_label": "Site's own search box returned 'Hmm.. can't find that one. Try another search.' for 'Mountain West', 'MW', and 'mtn' - no matching channel exists in this lineup's search index.",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Entertainment": false,
+      "Choice": false,
+      "Ultimate": false,
+      "Premier": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "negative-applies-to-all-plans"
+    }
+   },
+   "robots_note": "The ZIP-lookup ENDPOINTS remain robots.txt-disallowed and were not called directly. The page's own selector was used in-browser, which is ordinary page use, not endpoint crawling.",
+   "packages": {
+    "Entertainment": {
+     "price": null
+    },
+    "Choice": {
+     "price": null
+    },
+    "Ultimate": {
+     "price": null
+    },
+    "Premier": {
+     "price": null
+    }
+   },
+   "price_gap": "DirecTV states no package prices on its lineup page - only channel counts. All four recorded null."
+  },
+  "fubo": {
+   "provider": "fubo",
+   "checked": "2026-07-30",
+   "method": "browser",
+   "source": "https://www.fubo.tv/welcome/channels and /welcome/channel/<slug>",
+   "plans": {
+    "Sports + News": {
+     "price": 64.99,
+     "promo": "54.99 first month",
+     "price_status": "published"
+    }
+   },
+   "note": "Fubo RESTRUCTURED since the 2026-07-29 research pass, which recorded 'Pro $73.99/$85' and 'Elite $83.99-94.99'. Neither tier name appears on the site today; the plan shown is 'Sports + News' at $64.99. Those earlier Fubo prices are stale, not merely disputed.",
+   "reachability": "PARTIAL. fubo.tv/channels redirects to a SIGN-IN WALL - a genuine account gate, not a fetch limitation. The public /welcome/channels page carries plan pricing but no full lineup. Per-channel pages exist at /welcome/channel/<slug> and DO render.",
+   "channels": {
+    "CBSSN": {
+     "carried": true,
+     "confidence": "verified",
+     "source": "https://www.fubo.tv/welcome/channel/cbs-sports-network - dedicated page, 'Watch CBS Sports Network live with Fubo'",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:method,checked",
+     "plans": {
+      "Sports + News": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "single-observed-plan; catalogue not enumerated"
+    },
+    "CBS": {
+     "carried": true,
+     "confidence": "verified",
+     "note": "CBS logo on /welcome/channels; local affiliate KVAL observed in the ZIP-97330 listings grid",
+     "caveat": "local affiliate - ZIP-dependent",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.fubo.tv/welcome/channels and /welcome/channel/<slug>",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Sports + News": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "single-observed-plan; catalogue not enumerated"
+    },
+    "ESPN": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.fubo.tv/welcome/channels and /welcome/channel/<slug>",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Sports + News": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "single-observed-plan; catalogue not enumerated"
+    },
+    "USA": {
+     "carried": null,
+     "confidence": "uncertain",
+     "note": "NOT ESTABLISHED. /welcome/channel/usa and /welcome/channel/usa-network both 404. A 404 on a GUESSED slug is not evidence of absence - deliberately not recorded as a negative.",
+     "render_as": "unknown",
+     "fallback_url": "https://www.fubo.tv/welcome/channels",
+     "source_rank": null,
+     "fact_type": "carriage",
+     "source": "https://www.fubo.tv/welcome/channels and /welcome/channel/<slug>",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Sports + News": null
+     },
+     "tier_resolved": false,
+     "tier_basis": "unknown-at-provider-level",
+     "unknown_reason": "Not established; see gaps.md."
+    },
+    "CW": {
+     "carried": null,
+     "confidence": "uncertain",
+     "note": "NOT ESTABLISHED - same reason.",
+     "render_as": "unknown",
+     "fallback_url": "https://www.fubo.tv/welcome/channels",
+     "source_rank": null,
+     "fact_type": "carriage",
+     "source": "https://www.fubo.tv/welcome/channels and /welcome/channel/<slug>",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Sports + News": null
+     },
+     "tier_resolved": false,
+     "tier_basis": "unknown-at-provider-level",
+     "unknown_reason": "Not established; see gaps.md."
+    },
+    "BTN": {
+     "carried": null,
+     "confidence": "uncertain",
+     "render_as": "unknown",
+     "fallback_url": "https://www.fubo.tv/welcome/channels",
+     "source_rank": null,
+     "fact_type": "carriage",
+     "source": "https://www.fubo.tv/welcome/channels and /welcome/channel/<slug>",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Sports + News": null
+     },
+     "tier_resolved": false,
+     "tier_basis": "unknown-at-provider-level",
+     "note": "Uncertain; reason not recorded by the collection pass.",
+     "unknown_reason": "Not established; see gaps.md."
+    },
+    "FS1": {
+     "carried": null,
+     "confidence": "uncertain",
+     "render_as": "unknown",
+     "fallback_url": "https://www.fubo.tv/welcome/channels",
+     "source_rank": null,
+     "fact_type": "carriage",
+     "source": "https://www.fubo.tv/welcome/channels and /welcome/channel/<slug>",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Sports + News": null
+     },
+     "tier_resolved": false,
+     "tier_basis": "unknown-at-provider-level",
+     "note": "Uncertain; reason not recorded by the collection pass.",
+     "unknown_reason": "Not established; see gaps.md."
+    },
+    "TNT": {
+     "carried": null,
+     "confidence": "uncertain",
+     "render_as": "unknown",
+     "fallback_url": "https://www.fubo.tv/welcome/channels",
+     "source_rank": null,
+     "fact_type": "carriage",
+     "source": "https://www.fubo.tv/welcome/channels and /welcome/channel/<slug>",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Sports + News": null
+     },
+     "tier_resolved": false,
+     "tier_basis": "unknown-at-provider-level",
+     "note": "Uncertain; reason not recorded by the collection pass.",
+     "unknown_reason": "Not established; see gaps.md."
+    },
+    "MWPlus": {
+     "carried": null,
+     "confidence": "uncertain",
+     "render_as": "unknown",
+     "fallback_url": "https://www.fubo.tv/welcome/channels",
+     "source_rank": null,
+     "fact_type": "carriage",
+     "source": "https://www.fubo.tv/welcome/channels and /welcome/channel/<slug>",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Sports + News": null
+     },
+     "tier_resolved": false,
+     "tier_basis": "unknown-at-provider-level",
+     "note": "Uncertain; reason not recorded by the collection pass.",
+     "unknown_reason": "Not established; see gaps.md."
+    }
+   },
+   "blocker": "Full lineup requires an account. Creating accounts / accepting terms is out of scope for this collection - not attempted. Recommended resolution: ship Fubo's unknown cells with a link to Fubo's own lineup checker, per the planned fallback.",
+   "incidental": "Browser pane geolocates to ZIP 97330 (Corvallis, OR - Oregon State's market). All local-affiliate observations in this session are Corvallis-specific.",
+   "editorial_decision_20260731": {
+    "decision": "Ship the unestablished cells as UNKNOWN in the UI, with a link to Fubo's own lineup checker.",
+    "rationale": "A linked checker is a legitimate answer here rather than a failure. Creating an account to resolve them is out of scope and not worth it for five cells."
+   },
+   "ui_fallback_url": "https://www.fubo.tv/welcome/channels",
+   "plan_catalogue_note": "Only the 'Sports + News' plan was reachable before the account wall. Fubo restructured since 2026-07-29 and its full plan list was not enumerated, so these answers describe the one observed plan, not the whole catalogue."
+  },
+  "hulu-live-tv": {
+   "provider": "hulu-live-tv",
+   "checked": "2026-07-30",
+   "method": "browser",
+   "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+   "plans": {
+    "With ads": {
+     "price": 89.99,
+     "price_status": "published"
+    },
+    "No ads": {
+     "price": 99.99,
+     "price_status": "published"
+    }
+   },
+   "note": "The 2026-07-29 research pass had CBS Sports Network as UNCERTAIN for Hulu. RESOLVED to carried - the 'CBS SPORTS NETWORK' tile is present in Hulu's own network grid. Price $89.99 unchanged.",
+   "channels": {
+    "CBS": {
+     "carried": true,
+     "confidence": "verified",
+     "caveat": "local affiliate - ZIP-dependent",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "With ads": true,
+      "No ads": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "CBSSN": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "With ads": true,
+      "No ads": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "CW": {
+     "carried": true,
+     "confidence": "verified",
+     "caveat": "local affiliate - ZIP-dependent",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "With ads": true,
+      "No ads": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "USA": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "With ads": true,
+      "No ads": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "ESPN": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "With ads": true,
+      "No ads": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "BTN": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "With ads": true,
+      "No ads": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "FS1": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "With ads": true,
+      "No ads": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "TNT": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "With ads": true,
+      "No ads": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "MWPlus": {
+     "carried": false,
+     "confidence": "verified",
+     "note": "no Mountain West entry in the grid",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.hulu.com/live-tv (176-entry network grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "With ads": false,
+      "No ads": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    }
+   },
+   "price_caveat": "Hulu says 'start at $89.99' - a floor. The page never says 'with ads'; the ad-tier attribution is inference from Disney's Basic/Premium naming, not read off the page.",
+   "plan_split_note": "Ad tier only ('With ads' / 'No ads'). Same channel lineup on both; the split is advertising, not carriage."
+  },
+  "philo": {
+   "provider": "philo",
+   "checked": "2026-07-30",
+   "method": "browser",
+   "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+   "plans": {
+    "Essential": {
+     "price": 25.0,
+     "price_status": "published"
+    },
+    "Bundle+": {
+     "price": 33.0,
+     "price_status": "published"
+    }
+   },
+   "reachability_correction": "The 2026-07-29 research pass recorded Philo's lineup as UNREACHABLE ('JS-rendered SPA returned no channel names to a direct fetch'). FALSE as an access claim - the full 272-channel lineup rendered completely in the browser pane on 2026-07-30. It was a fetch-tool limitation, not a barrier.",
+   "claim_falsified": "The 2026-07-29 research pass stated Philo 'does carry TBS/TNT/truTV per its general-entertainment lineup - marked yes above'. FALSE. TNT, TBS and truTV are all absent from the complete lineup. This is the SECOND of our own carriage claims falsified on inspection (after the Sling/USA one).",
+   "channels": {
+    "CBS": {
+     "carried": false,
+     "confidence": "verified",
+     "note": "'CBS News 24/7' is present - a news streaming channel, NOT the CBS broadcast affiliate. Do not let a substring match create a false positive.",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Essential": false,
+      "Bundle+": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "CBSSN": {
+     "carried": false,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Essential": false,
+      "Bundle+": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "CW": {
+     "carried": false,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Essential": false,
+      "Bundle+": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "USA": {
+     "carried": false,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Essential": false,
+      "Bundle+": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "ESPN": {
+     "carried": false,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Essential": false,
+      "Bundle+": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "BTN": {
+     "carried": false,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Essential": false,
+      "Bundle+": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "FS1": {
+     "carried": false,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Essential": false,
+      "Bundle+": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "TNT": {
+     "carried": false,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Essential": false,
+      "Bundle+": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    },
+    "MWPlus": {
+     "carried": false,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.philo.com/channels (272-entry lineup, alt-text extraction) + philo.com for price",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Essential": false,
+      "Bundle+": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "plan-split-not-channel-relevant"
+    }
+   },
+   "verdict": "Philo carries ZERO of the nine channels. It cannot show a single Pac-12 football game. This is a clean, useful negative for slice 1.",
+   "plan_split_note": "Bundle+ adds HBO Max Basic / AMC+ / discovery+ over Essential. No sports channels on either tier; every cell here is false on both."
+  },
+  "sling": {
+   "provider": "sling",
+   "checked": "2026-07-30",
+   "method": "browser",
+   "source": "https://www.sling.com/channels (full A-Z lineup, alt-text extraction via DOM)",
+   "note": "Sling restructured since 2026-07-29 research: Essentials/Select tiers are NEW and were not in the 2026-07-29 research pass's matrix.",
+   "channels": {
+    "CBS": {
+     "carried": false,
+     "confidence": "verified",
+     "note": "absent from complete A-Z catalog; C-section fully enumerated",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Sling Essentials": null,
+      "Sling Select": null,
+      "Essentials & Select": null,
+      "Sling Orange": false,
+      "Sling Blue": false,
+      "Orange & Blue": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
+     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only."
+    },
+    "CBSSN": {
+     "carried": false,
+     "confidence": "verified",
+     "note": "absent from complete A-Z catalog",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Sling Essentials": null,
+      "Sling Select": null,
+      "Essentials & Select": null,
+      "Sling Orange": false,
+      "Sling Blue": false,
+      "Orange & Blue": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
+     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only."
+    },
+    "CW": {
+     "carried": false,
+     "confidence": "verified",
+     "note": "absent from complete A-Z catalog",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Sling Essentials": null,
+      "Sling Select": null,
+      "Essentials & Select": null,
+      "Sling Orange": false,
+      "Sling Blue": false,
+      "Orange & Blue": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
+     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only."
+    },
+    "USA": {
+     "carried": true,
+     "confidence": "verified",
+     "plan": "Blue ($45.99) - named explicitly in plan card",
+     "note": "CONFIRMS the correction: prior claim 'Sling won't get you a single game' was false",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Sling Essentials": null,
+      "Sling Select": null,
+      "Essentials & Select": null,
+      "Sling Orange": false,
+      "Sling Blue": true,
+      "Orange & Blue": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
+     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only."
+    },
+    "ESPN": {
+     "carried": true,
+     "confidence": "verified",
+     "plan": "Orange ($45.99); also Essentials ($19.99)",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Sling Essentials": true,
+      "Sling Select": null,
+      "Essentials & Select": true,
+      "Sling Orange": true,
+      "Sling Blue": true,
+      "Orange & Blue": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
+     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only."
+    },
+    "TNT": {
+     "carried": true,
+     "confidence": "verified",
+     "plan": "Orange ($45.99)",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Sling Essentials": null,
+      "Sling Select": null,
+      "Essentials & Select": null,
+      "Sling Orange": true,
+      "Sling Blue": true,
+      "Orange & Blue": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
+     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only."
+    },
+    "BTN": {
+     "carried": null,
+     "confidence": "uncertain",
+     "plan": "in catalog; tier not yet pinned (likely Sports Extra add-on)",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Sling Essentials": null,
+      "Sling Select": null,
+      "Essentials & Select": null,
+      "Sling Orange": false,
+      "Sling Blue": false,
+      "Orange & Blue": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
+     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only.",
+     "unknown_reason": "Absent from BOTH published base lineups (Orange and Blue), and the strings 'Big Ten' and 'BTN' appear NOWHERE on sling.com/sports. The earlier pass recorded it 'in catalog, tier not pinned' and the earlier pass REPORTED a Sports Extra add-on requirement; neither is confirmed on Sling's own pages. Recorded as unknown rather than guessed. What IS established: it is on no base plan.",
+     "note": "For the product this is already actionable: a Big Ten road game is not covered by Sling Blue or Orange at any base price."
+    },
+    "FS1": {
+     "carried": true,
+     "confidence": "verified",
+     "plan": "in catalog; tier not yet pinned",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Sling Essentials": null,
+      "Sling Select": null,
+      "Essentials & Select": null,
+      "Sling Orange": false,
+      "Sling Blue": true,
+      "Orange & Blue": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
+     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only."
+    },
+    "MWPlus": {
+     "carried": false,
+     "confidence": "verified",
+     "note": "absent from catalog",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://www.sling.com/service/sling-orange ; https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "checked": "2026-07-31",
+     "provenance_granularity": "cell-observed",
+     "plans": {
+      "Sling Essentials": null,
+      "Sling Select": null,
+      "Essentials & Select": null,
+      "Sling Orange": false,
+      "Sling Blue": false,
+      "Orange & Blue": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "observed-from-provider-per-plan-lineup (2026-07-31)",
+     "tier_note": "Read from Sling's own 'Channels included in <plan>' lineups. Essentials/Select unknown: those tiers publish partial lists only."
+    }
+   },
+   "price_caveat": "Sling's page says 'starting at $45.99' - a FLOOR, not a flat rate.",
+   "plans": {
+    "Sling Essentials": {
+     "price": 19.99,
+     "price_status": "published"
+    },
+    "Sling Select": {
+     "price": 19.99,
+     "price_status": "published"
+    },
+    "Essentials & Select": {
+     "price": 34.99,
+     "price_status": "published"
+    },
+    "Sling Orange": {
+     "price": 45.99,
+     "price_status": "published"
+    },
+    "Sling Blue": {
+     "price": 45.99,
+     "price_status": "published"
+    },
+    "Orange & Blue": {
+     "price": 60.99,
+     "price_status": "published"
+    }
+   },
+   "plan_lineups_read_20260731": {
+    "Sling Orange": {
+     "source": "https://www.sling.com/service/sling-orange",
+     "method": "browser",
+     "evidence": "'Channels included in Sling Orange' section; image 2060713-channels-orange, full lineup in alt text",
+     "channels": [
+      "A&E",
+      "AMC",
+      "AXS TV",
+      "BBC America",
+      "BET",
+      "Bloomberg TV+",
+      "CNN",
+      "Charge!",
+      "Comedy Central",
+      "Comet",
+      "Discovery Turbo",
+      "Disney Channel",
+      "ESPN",
+      "ESPN2",
+      "ESPN4K",
+      "Food Network",
+      "Freeform",
+      "Fuse",
+      "HGTV",
+      "History Channel",
+      "IFC",
+      "Investigation Discovery",
+      "Lifetime",
+      "Local Now",
+      "MeTV",
+      "Nick Jr.",
+      "QVC",
+      "Slingscapes",
+      "TBS",
+      "TNT",
+      "Travel Channel",
+      "Vice"
+     ]
+    },
+    "Sling Blue": {
+     "source": "https://www.sling.com/service/sling-blue",
+     "method": "browser",
+     "evidence": "'Channels included in Sling Blue' section; image 2060713-channels-blue, full lineup in alt text",
+     "channels": [
+      "A&E",
+      "AMC",
+      "AXS TV",
+      "BBC America",
+      "BET",
+      "Bloomberg TV+",
+      "Bravo",
+      "CNN",
+      "Cartoon Network (Adult Swim)",
+      "Charge!",
+      "Comedy Central",
+      "Comet",
+      "Discovery Channel",
+      "E!",
+      "ESPN",
+      "FS1",
+      "FX",
+      "Food Network",
+      "Fox News",
+      "Fuse",
+      "HGTV",
+      "HLN",
+      "History Channel",
+      "IFC",
+      "Investigation Discovery",
+      "Lifetime",
+      "Local Now",
+      "MGM+ Drive-In",
+      "MSNOW",
+      "MeTV",
+      "NFL Network",
+      "National Geographic",
+      "Nick Jr.",
+      "QVC",
+      "SYFY",
+      "Slingscapes",
+      "TBS",
+      "TLC",
+      "TNT",
+      "Travel Channel",
+      "Tru TV",
+      "USA",
+      "Vice"
+     ]
+    },
+    "caveat": "Essentials and Select publish only partial '10+ channels' marketing lists, never a full lineup, so absence from those lists is NOT evidence of absence and those cells stay unknown."
+   }
+  },
+  "youtube-tv": {
+   "provider": "youtube-tv",
+   "checked": "2026-07-30",
+   "method": "browser",
+   "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+   "plans": {
+    "Base": {
+     "price": 82.99,
+     "promo": "67.99 for 3 mo, ends 8/26/2026",
+     "price_status": "published"
+    },
+    "Sports Plan": {
+     "price": 64.99,
+     "promo": "54.99 for 12 mo, ends 8/26/2026",
+     "price_status": "published"
+    }
+   },
+   "note": "The 2026-07-29 research pass had Sports Plan at $64.99 - still correct. Base $82.99 confirmed unchanged. CBS and The CW are local affiliates and remain ZIP-dependent (slice 2).",
+   "channels": {
+    "CBS": {
+     "carried": true,
+     "confidence": "verified",
+     "caveat": "local affiliate - ZIP-dependent",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "plan_attribution": "Base and Sports plans",
+     "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Base": true,
+      "Sports Plan": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "hand-read-from-recorded-attribution"
+    },
+    "CBSSN": {
+     "carried": true,
+     "confidence": "verified",
+     "note": "listed as 'CBS Sports'",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "plan_attribution": "Base and Sports plans",
+     "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Base": true,
+      "Sports Plan": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "hand-read-from-recorded-attribution"
+    },
+    "CW": {
+     "carried": true,
+     "confidence": "verified",
+     "caveat": "local affiliate - ZIP-dependent",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "plan_attribution": "Base and Sports plans",
+     "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Base": true,
+      "Sports Plan": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "hand-read-from-recorded-attribution"
+    },
+    "USA": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "plan_attribution": "Base and Sports plans",
+     "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Base": true,
+      "Sports Plan": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "hand-read-from-recorded-attribution"
+    },
+    "ESPN": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "plan_attribution": "Base and Sports plans",
+     "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Base": true,
+      "Sports Plan": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "hand-read-from-recorded-attribution"
+    },
+    "BTN": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "plan_attribution": "Base plan ONLY - absent from Sports Plan",
+     "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Base": true,
+      "Sports Plan": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "hand-read-from-recorded-attribution"
+    },
+    "FS1": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "plan_attribution": "Base and Sports plans",
+     "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Base": true,
+      "Sports Plan": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "hand-read-from-recorded-attribution"
+    },
+    "TNT": {
+     "carried": true,
+     "confidence": "verified",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "plan_attribution": "Base and Sports plans",
+     "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Base": true,
+      "Sports Plan": true
+     },
+     "tier_resolved": true,
+     "tier_basis": "hand-read-from-recorded-attribution"
+    },
+    "MWPlus": {
+     "carried": false,
+     "confidence": "verified",
+     "note": "no Mountain West entry anywhere in the 252-channel grid",
+     "source_rank": 1,
+     "fact_type": "carriage",
+     "source": "https://tv.youtube.com/welcome/ (252-entry lineup grid, alt-text extraction)",
+     "method": "browser",
+     "checked": "2026-07-30",
+     "provenance_granularity": "inherited-from-provider-pass:source,method,checked",
+     "plans": {
+      "Base": false,
+      "Sports Plan": false
+     },
+     "tier_resolved": true,
+     "tier_basis": "negative-applies-to-all-plans"
+    }
+   },
+   "open": "The 252-entry grid is the union of base plan plus add-on packs (Sports Plus, Spanish Plus, Entertainment Plus). Per-tier split for the Sports Plan not yet pinned - flagged for verify.",
+   "plans_resolved": {
+    "Base": {
+     "price": 82.99,
+     "channels": [
+      "CBS",
+      "CBSSN (tile: 'CBS Sports')",
+      "TheCW",
+      "USA",
+      "ESPN",
+      "BTN (tile: 'BTN')",
+      "FS1",
+      "TNT"
+     ]
+    },
+    "Sports": {
+     "price": 64.99,
+     "channels": [
+      "CBS",
+      "CBSSN (tile: 'CBS Sports')",
+      "TheCW",
+      "USA",
+      "ESPN",
+      "FS1",
+      "TNT"
+     ]
+    }
+   },
+   "plan_attribution_established": true,
+   "KEY_FINDING": "Big Ten Network is on the $82.99 Base plan but NOT the $64.99 Sports Plan. A fan buying the cheaper 'Sports' plan for Big Ten Network would not get it. Every other channel we track sits on both plans."
+  }
+ },
+ "verified": {
+  "date": "2026-07-30",
+  "report": "research/carriage-groundwork/verify-report.md",
+  "method": "Independent agent, given the claim list WITHOUT the collected file (anti-anchoring). 15 load-bearing claims: every CBSSN and USA cell, every claimed negative, 2 prices.",
+  "result": "No disagreements on any of the 15. One CANNOT-ESTABLISH and two naming hazards - both recorded below.",
+  "no_comparison_sites": "Every verdict read on the provider's own domain. Search used only to locate URLs."
+ },
+ "naming_hazards": [
+  {
+   "hazard": "CBS Sports Network != CBS Sports HQ",
+   "detail": "CBS Sports HQ is a different, free channel. Paramount+ carries HQ on both tiers, which is exactly why the Paramount+/CBSSN negative is a TRUE negative and not a miss.",
+   "applies_to": [
+    "paramount-plus"
+   ]
+  },
+  {
+   "hazard": "CBS Sports Network != a tile reading 'CBS Sports'",
+   "detail": "YouTube TV's tile says only 'CBS Sports', never 'Network'. Right answer here, but the label is one character from CBS Sports HQ.",
+   "applies_to": [
+    "youtube-tv"
+   ]
+  },
+  {
+   "hazard": "CBS != CBS News 24/7",
+   "detail": "Philo carries the free CBS News 24/7 stream and no CBS affiliate. Any automated refresh must match on identity, not substring.",
+   "applies_to": [
+    "philo"
+   ]
+  }
+ ],
+ "source_ranks": "data/source-ranks.json",
+ "schema_2_changes": {
+  "date": "2026-07-31",
+  "why": "Fit-for-purpose review before slice 1 builds against this file.",
+  "fixed": [
+   "Channel keys TheCW/MWplus on directv-stream did not match the file's own declared list (CW/MWPlus); a renderer looping the declared channels dropped both cells silently.",
+   "Sling's prices lived in plans_observed (list of strings) while five providers used plans (dict), so the $45.99 that makes Sling interesting was not machine-readable.",
+   "source/method/checked existed per-cell only on directv-stream, while the file's own header claimed cell-level provenance. Pushed down, labelled where inherited."
+  ],
+  "added": [
+   "Plan-level carriage: every cell answers per plan. Where a tier was never observed the answer is null -- which makes the YouTube TV Big Ten Network trap visible everywhere it exists, not only where someone happened to look.",
+   "price_status vocabulary: published / not_found. Never 'not published' - that would be a claim about the provider rather than a record of our search.",
+   "Every uncertain cell carries a reason; every unknown carries unknown_reason."
+  ],
+  "known_limits": [
+   "Tier facts were hand-read from prose the collection pass recorded, not re-observed. Cells marked tier_resolved:false need a browser pass against the provider's plan pages."
+  ]
+ },
+ "corrections": [
+  {
+   "date": "2026-07-31",
+   "claim": "The 2026-07-29 research pass: 'ESPN/ESPN2 are Orange-exclusive' (REPORTED).",
+   "finding": "Sling's own 'Channels included in Sling Blue' lineup lists ESPN. ESPN2 and ESPN4K are Orange-only, so the tier split is real but narrower than recorded.",
+   "grade": "Rank 1 (provider's own plan page) over rank 2 (secondary report).",
+   "why_it_matters": "Sling Blue at $45.99 carries USA, ESPN, FS1 and TNT — four of our nine channels — which makes it the cheapest partial-season option in the file and materially better than the 'Orange for sports' framing implied.",
+   "confidence_note": "Read from provider-page image alt text, the same method that produced the original Sling record. Worth one independent confirmation before it appears in a published recommendation."
+  }
+ ]
+}
