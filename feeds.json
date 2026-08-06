@@ -315,6 +315,79 @@
       "source": "The Spokesman-Review",
       "url": "https://www.spokesman.com/feeds/stories/gonzaga-womens-basketball/",
       "weight": 1.15
+    },
+    {
+      "team": "Boise State",
+      "sport": "all",
+      "source": "First Kick Was Good",
+      "url": "https://firstkickwasgood.com/feed/",
+      "weight": 1.15
+    },
+    {
+      "team": "Boise State",
+      "sport": "all",
+      "source": "The Arbiter",
+      "url": "https://arbiteronline.com/category/sports/feed/",
+      "weight": 1.15
+    },
+    {
+      "team": "Fresno State",
+      "sport": "all",
+      "source": "The Red Wave Report",
+      "url": "https://feed.podbean.com/redwavereport/feed.xml",
+      "weight": 1.15,
+      "medium": "audio"
+    },
+    {
+      "team": "Gonzaga",
+      "sport": "all",
+      "source": "The Slipper Still Fits",
+      "url": "https://www.slipperstillfits.com/rss/index.xml",
+      "weight": 1.15
+    },
+    {
+      "team": "San Diego State",
+      "sport": "all",
+      "source": "The Daily Aztec",
+      "url": "https://thedailyaztec.com/category/sports/feed/",
+      "weight": 1.15
+    },
+    {
+      "team": "San Diego State",
+      "sport": "all",
+      "source": "Sons of Montezuma",
+      "url": "https://sonsofmontezuma.libsyn.com/rss",
+      "weight": 1.15,
+      "medium": "audio"
+    },
+    {
+      "team": "Texas State",
+      "sport": "all",
+      "source": "The University Star",
+      "url": "https://universitystar.com/category/sports/feed/",
+      "weight": 1.15
+    },
+    {
+      "team": "Washington State",
+      "sport": "all",
+      "source": "CougCenter",
+      "url": "https://www.cougcenter.com/rss/index.xml",
+      "weight": 1.15
+    },
+    {
+      "team": "Washington State",
+      "sport": "all",
+      "source": "Palouse Playbook",
+      "url": "https://anchor.fm/s/109676fec/podcast/rss",
+      "weight": 1.15,
+      "medium": "audio"
+    },
+    {
+      "team": "conference",
+      "sport": "all",
+      "source": "Mountain West Connection",
+      "url": "https://www.mwcconnection.com/rss/index.xml",
+      "weight": 1.15
     }
   ],
   "output_dir": "docs",

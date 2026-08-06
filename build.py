@@ -35,6 +35,8 @@ USER_AGENT = "NewPACCityBot/0.1 (news aggregator; links and attribution only)"
 FETCH_TIMEOUT_S = 20
 SPORT_LABELS = {"football": "Football", "mbb": "Men's Basketball", "wbb": "Women's Basketball"}
 SPORT_EMOJI = {"football": "\U0001F3C8", "mbb": "\U0001F3C0", "wbb": "\U0001F3C0", "all": "\U0001F4E3"}
+# Only non-text media get a label; tagging every article "text" would be noise.
+MEDIUM_LABELS = {"audio": "\U0001F3A7 Podcast", "video": "\U0001F4FA Video"}
 
 STOPWORDS = frozenset(
     "the a an and or of for to in on at with from as is are was were be been its it's this that "
@@ -74,7 +76,9 @@ h2 { font-size: 20px; border-bottom: 1px solid var(--line); padding-bottom: 6px;
 .tag { background: var(--tag-bg); color: var(--accent); border-radius: 4px;
   padding: 1px 6px; margin-right: 8px; font-size: 11.5px; font-weight: 600; }
 .tag-big { background: #f4e8c8; color: #7a5c00; }
-@media (prefers-color-scheme: dark) { .tag-big { background: #3d3420; color: #e8c96a; } }
+.tag-medium { background: #e8e3f2; color: #4b3f6b; }
+@media (prefers-color-scheme: dark) { .tag-big { background: #3d3420; color: #e8c96a; }
+                                      .tag-medium { background: #2f2a3d; color: #bfb0e0; } }
 .follow { font-size: 13px; color: var(--muted); margin: 8px 2px 0; }
 .empty { color: var(--muted); font-style: italic; padding: 10px 2px; }
 details.more { margin-top: 10px; }
@@ -208,6 +212,7 @@ def collect(cfg):
                 continue
             it["source"] = feed["source"]
             it["sport"] = feed["sport"]
+            it["medium"] = feed.get("medium", "text")
             it["weight"] = feed.get("weight", 1.0)
             by_team.setdefault(feed["team"], []).append(it)
             fresh += 1
@@ -323,6 +328,14 @@ def slugify(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
+def medium_tag(it):
+    """A headline that opens a 45-minute audio episode makes a different promise
+    than one that opens a 300-word article. Label the ones that aren't text, so
+    the reader knows what the click costs before they spend it."""
+    label = MEDIUM_LABELS.get(it.get("medium", "text"))
+    return f'<span class="tag tag-medium">{html.escape(label)}</span>' if label else ""
+
+
 def render_item(it, cfg, now, in_team_section):
     sport = it["sport"]
     if sport in SPORT_LABELS:
@@ -342,7 +355,7 @@ def render_item(it, cfg, now, in_team_section):
         f'<article class="item">'
         f'<a class="headline" href="{html.escape(it["link"], quote=True)}" rel="noopener">{html.escape(it["title"])}</a>'
         f'{snip_html}'
-        f'<p class="attrib">{big_tag}{sport_tag}{source} · {rel_time(it["date"], now)}</p>'
+        f'<p class="attrib">{big_tag}{medium_tag(it)}{sport_tag}{source} · {rel_time(it["date"], now)}</p>'
         f"</article>"
     )
 
@@ -362,7 +375,7 @@ def render_team_sport_item(it, cfg, now, prefix=None):
         f'<article class="item">'
         f'<a class="headline" href="{html.escape(it["link"], quote=True)}" rel="noopener">{html.escape(it["title"])}</a>'
         f'{snip_html}'
-        f'<p class="attrib">{big_tag}{prefix_html}{source} · {rel_time(it["date"], now)}</p>'
+        f'<p class="attrib">{big_tag}{medium_tag(it)}{prefix_html}{source} · {rel_time(it["date"], now)}</p>'
         f"</article>"
     )
 
@@ -390,7 +403,7 @@ def render_lead_card(item, source, teams_by_name, cfg, now):
         f'<p class="teamline">{teamline}</p>'
         f'<a class="headline" href="{html.escape(item["link"], quote=True)}" rel="noopener">{html.escape(item["title"])}</a>'
         f"{snip_html}"
-        f'<p class="attrib">{html.escape(item["source"])} · {rel_time(item["date"], now)}{also}</p>'
+        f'<p class="attrib">{medium_tag(item)}{html.escape(item["source"])} · {rel_time(item["date"], now)}{also}</p>'
         "</article>"
     )
 
