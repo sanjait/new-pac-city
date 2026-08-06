@@ -7,6 +7,7 @@
   "max_item_age_days": 45,
   "snippet_max_chars": 200,
   "top_stories_per_team": 3,
+  "team_page_visible": 5,
   "teams": [
     {
       "name": "Boise State",
@@ -18,7 +19,12 @@
       "secondary_dark": "#F0632B",
       "site": "https://broncosports.com",
       "x": "BroncoSports",
-      "ig": "boisestatebroncos"
+      "ig": "boisestatebroncos",
+      "aliases": [
+        "boise state",
+        "broncos",
+        "bsu"
+      ]
     },
     {
       "name": "Colorado State",
@@ -30,7 +36,12 @@
       "secondary_dark": "#C8C372",
       "site": "https://csurams.com",
       "x": "CSURams",
-      "ig": "csuathletics"
+      "ig": "csuathletics",
+      "aliases": [
+        "colorado state",
+        "csu rams",
+        "rams"
+      ]
     },
     {
       "name": "Fresno State",
@@ -42,7 +53,12 @@
       "secondary_dark": "#6E93C8",
       "site": "https://gobulldogs.com",
       "x": "FSAthletics",
-      "ig": "fresnostateathletics"
+      "ig": "fresnostateathletics",
+      "aliases": [
+        "fresno state",
+        "gobulldogs",
+        "'dogs"
+      ]
     },
     {
       "name": "Gonzaga",
@@ -54,7 +70,11 @@
       "secondary_dark": "#E04A5F",
       "site": "https://gozags.com",
       "x": "GonzagaBulldogs",
-      "ig": "gubulldogs"
+      "ig": "gubulldogs",
+      "aliases": [
+        "gonzaga",
+        "zags"
+      ]
     },
     {
       "name": "Oregon State",
@@ -67,7 +87,12 @@
       "primary_text": "#C83B08",
       "site": "https://osubeavers.com",
       "x": "beaverathletics",
-      "ig": "beaverathletics"
+      "ig": "beaverathletics",
+      "aliases": [
+        "oregon state",
+        "beavers",
+        "beavs"
+      ]
     },
     {
       "name": "San Diego State",
@@ -79,7 +104,12 @@
       "secondary_dark": "#B4B2A9",
       "site": "https://goaztecs.com",
       "x": "GoAztecs",
-      "ig": "goaztecs"
+      "ig": "goaztecs",
+      "aliases": [
+        "san diego state",
+        "aztecs",
+        "sdsu"
+      ]
     },
     {
       "name": "Texas State",
@@ -91,7 +121,12 @@
       "secondary_dark": "#C4AC72",
       "site": "https://txst.com",
       "x": "txstatebobcats",
-      "ig": "txstatebobcats"
+      "ig": "txstatebobcats",
+      "aliases": [
+        "texas state",
+        "bobcats",
+        "txst"
+      ]
     },
     {
       "name": "Utah State",
@@ -103,7 +138,12 @@
       "secondary_dark": "#8A8D8F",
       "site": "https://utahstateaggies.com",
       "x": "USUAthletics",
-      "ig": "usuathletics"
+      "ig": "usuathletics",
+      "aliases": [
+        "utah state",
+        "usu aggies",
+        "aggies"
+      ]
     },
     {
       "name": "Washington State",
@@ -115,7 +155,12 @@
       "secondary_dark": "#9A9A94",
       "site": "https://wsucougars.com",
       "x": "WSUCougars",
-      "ig": "wsucougarathletics"
+      "ig": "wsucougarathletics",
+      "aliases": [
+        "washington state",
+        "wsu cougars",
+        "cougs"
+      ]
     }
   ],
   "feeds": [
@@ -328,7 +373,8 @@
       "sport": "all",
       "source": "The Arbiter",
       "url": "https://arbiteronline.com/category/sports/feed/",
-      "weight": 1.15
+      "weight": 1.15,
+      "topic_scope": "athletics-wide"
     },
     {
       "team": "Fresno State",
@@ -350,7 +396,8 @@
       "sport": "all",
       "source": "The Daily Aztec",
       "url": "https://thedailyaztec.com/category/sports/feed/",
-      "weight": 1.15
+      "weight": 1.15,
+      "topic_scope": "athletics-wide"
     },
     {
       "team": "San Diego State",
@@ -365,7 +412,8 @@
       "sport": "all",
       "source": "The University Star",
       "url": "https://universitystar.com/category/sports/feed/",
-      "weight": 1.15
+      "weight": 1.15,
+      "topic_scope": "athletics-wide"
     },
     {
       "team": "Washington State",

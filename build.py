@@ -42,6 +42,17 @@ STOPWORDS = frozenset(
     "the a an and or of for to in on at with from as is are was were be been its it's this that "
     "his her their new says said after before over under vs against".split())
 
+# Keyword topic filter (single recency stream job, 2026-08-06): admission gate
+# for feeds whose `topic_scope` is "athletics-wide" (a general campus-sports
+# section, not a single-team athletics-department feed) — everything else is
+# admitted unfiltered, per H-A1/H-A2 in classification.md. Deliberately
+# name/alias matching only, no model in the loop (D-040).
+SPORT_KEYWORDS = {
+    "football": ["football"],
+    "wbb": ["women's basketball", "womens basketball"],
+    "mbb": ["men's basketball", "mens basketball"],
+}
+
 FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E"
            "%3Crect width='64' height='64' rx='12' fill='%230a4d68'/%3E"
            "%3Ctext x='32' y='45' font-family='Arial' font-size='28' font-weight='bold'"
@@ -187,11 +198,33 @@ def rel_time(dt, now):
     return dt.strftime("%b %-d")
 
 
+def on_topic(it, aliases):
+    """Admission check for an athletics-wide feed: does this item actually
+    mention the team it's filed under? Deterministic name/alias matching —
+    the failure mode is over-inclusion (D-040), which is the safe side to
+    fail on for a fan site."""
+    text = f'{it["title"]} {it["summary"]}'.lower()
+    return any(alias in text for alias in aliases)
+
+
+def detect_sport(title):
+    """Per-item sport, for items whose feed didn't declare one (a general
+    team feed covering all sports). Unambiguous keyword phrases only — 'if
+    and when applicable' means no tag beats a wrong tag (item-types item,
+    2026-08-06 CEO note)."""
+    low = title.lower()
+    for sport, phrases in SPORT_KEYWORDS.items():
+        if any(p in low for p in phrases):
+            return sport
+    return None
+
+
 def collect(cfg):
     """Fetch all feeds; return (items_by_team, fetch_report)."""
     now = datetime.now(timezone.utc)
     oldest = now - timedelta(days=cfg["max_item_age_days"])
     by_team, report = {}, []
+    team_aliases = {t["name"]: t.get("aliases", []) for t in cfg["teams"]}
 
     def job(feed):
         return feed, parse_feed(fetch(feed["url"]))
@@ -204,19 +237,28 @@ def collect(cfg):
             except Exception as exc:  # a dead source must never kill the page
                 report.append((feed["team"], feed["url"], "FAILED", str(exc)[:120]))
     for feed, parsed in results:
-        fresh = 0
+        fresh, rejected = 0, 0
+        athletics_wide = feed.get("topic_scope") == "athletics-wide"
+        aliases = team_aliases.get(feed["team"], [])
         for it in parsed:
             if it["date"] is None:
                 it["date"] = date_from_url(it["link"])
             if it["date"] is not None and it["date"] < oldest:
                 continue
             it["source"] = feed["source"]
-            it["sport"] = feed["sport"]
+            declared = feed["sport"]
+            it["sport"] = (detect_sport(it["title"]) or "all") if declared == "all" else declared
             it["medium"] = feed.get("medium", "text")
             it["weight"] = feed.get("weight", 1.0)
+            if athletics_wide and not on_topic(it, aliases):
+                rejected += 1
+                continue
             by_team.setdefault(feed["team"], []).append(it)
             fresh += 1
-        report.append((feed["team"], feed["url"], "ok", f"{fresh} recent items"))
+        note = f"{fresh} recent items"
+        if rejected:
+            note += f" ({rejected} rejected by topic filter)"
+        report.append((feed["team"], feed["url"], "ok", note))
     for team, items in by_team.items():
         seen, unique = {}, []
         for it in sorted(items, key=lambda i: i["date"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True):
@@ -229,11 +271,14 @@ def collect(cfg):
                 # a specific sport label would be wrong, so drop it
                 seen[key]["sport"] = "all"
         merged = merge_cross_source(unique)
+        # Ranking is on ice (single-recency-stream, 2026-08-06): every item
+        # within the age window ships, newest first, no cap and no pin.
+        # story_score/split_top/select_for_page stay defined, unused, so
+        # restoring ranking later is a call-site change, not a rebuild.
         if team == "conference":
             by_team[team] = merged[:cfg["max_items_conference"]]
         else:
-            by_team[team] = select_for_page(
-                merged, cfg["max_items_per_team"], cfg["top_stories_per_team"], now)
+            by_team[team] = merged
     return by_team, report
 
 
@@ -416,7 +461,7 @@ def render_tile(team, items, now):
         body = ('<p class="empty-tile">No recent news — check back soon.</p>'
                 f'<a class="more" href="{slug}/">Team page →</a>')
     else:
-        top = max(items, key=lambda it: story_score(it, now))
+        top = items[0]  # newest-first; no ranking (single-recency-stream, 2026-08-06)
         remaining = len(items) - 1
         if remaining > 0:
             more_text = f"{remaining} more {html.escape(team['nickname'])} stories →"
@@ -482,15 +527,11 @@ def follow_links(team):
 
 
 def render_homepage(cfg, by_team, now):
+    # No ranked lead card (single-recency-stream, 2026-08-06): nothing here
+    # claims to be "the" story. pick_lead/render_lead_card stay defined,
+    # unused, so restoring one is a call-site change, not a rebuild.
     teams = sorted(cfg["teams"], key=lambda t: t["name"])
-    teams_by_name = {t["name"]: t for t in cfg["teams"]}
-    lead, source = pick_lead(by_team, now)
-
     conf_rest = by_team.get("conference", [])
-    if source == "conference" and lead is not None:
-        conf_rest = [it for it in conf_rest if it is not lead]
-
-    lead_html = render_lead_card(lead, source, teams_by_name, cfg, now) if lead else ""
     tiles_html = "\n".join(render_tile(t, by_team.get(t["name"], []), now) for t in teams)
 
     conf_section = ""
@@ -553,7 +594,6 @@ h1 .pac {{ color: var(--accent); }}
   <p class="updated">Updated {stamp} · refreshes about every {cfg["refresh_hours"]} hours</p>
 </header>
 <main>
-{lead_html}
 <div class="grid">
 {tiles_html}
 </div>
@@ -569,30 +609,25 @@ h1 .pac {{ color: var(--accent); }}
 
 
 def render_team_page(team, items, cfg, now, watch=None):
-    top, rest = split_top(items, now, cfg["top_stories_per_team"])
-    football = [it for it in rest if it["sport"] == "football"]
-    hoops = [it for it in rest if it["sport"] in ("mbb", "wbb")]
-    other = [it for it in rest if it["sport"] not in ("football", "mbb", "wbb")]
-
-    sections = []
-    if top:
-        top_html = "\n".join(render_item(it, cfg, now, True) for it in top)
-        sections.append(f'<h2>Top {html.escape(team["nickname"])} stories</h2>\n{top_html}')
-    if football:
-        football_html = "\n".join(render_team_sport_item(it, cfg, now) for it in football)
-        sections.append(f"<h2>\U0001F3C8 Football</h2>\n{football_html}")
-    if hoops:
-        hoops_html = "\n".join(
-            render_team_sport_item(it, cfg, now, prefix=("Men's" if it["sport"] == "mbb" else "Women's"))
-            for it in hoops)
-        sections.append(f"<h2>\U0001F3C0 Basketball</h2>\n{hoops_html}")
-    if other:
-        other_html = "\n".join(render_team_sport_item(it, cfg, now) for it in other)
-        sections.append(f'<h2>\U0001F4E3 More {html.escape(team["name"])} news</h2>\n{other_html}')
+    """One stream, newest first (single-recency-stream, 2026-08-06): no
+    ranked pin, no per-sport sections — sport is a tag on each item
+    (render_item's in_team_section branch) instead of a heading. The first
+    `team_page_visible` items render open; the rest sit behind a native
+    <details> toggle, so the whole 45-day window ships in the page (cheap —
+    it's text) without dumping it all on the reader at once. No JS.
+    split_top/render_team_sport_item stay defined, unused, for restoring
+    the ranked/sectioned layout later."""
     if not items:
-        sections.append('<p class="empty">No recent news — check back soon.</p>')
-
-    body = "\n".join(sections)
+        body = '<p class="empty">No recent news — check back soon.</p>'
+    else:
+        visible_n = cfg.get("team_page_visible", 5)
+        visible, rest = items[:visible_n], items[visible_n:]
+        body = "\n".join(render_item(it, cfg, now, True) for it in visible)
+        if rest:
+            noun = "story" if len(rest) == 1 else "stories"
+            rest_html = "\n".join(render_item(it, cfg, now, True) for it in rest)
+            body += (f'\n<details class="more"><summary>Show {len(rest)} more '
+                     f'{html.escape(team["nickname"])} {noun}</summary>\n{rest_html}\n</details>')
     # The watch card sits above the news feed. The "reserved for later slices"
     # placeholder does not get promoted with it — a team without a watch page
     # would otherwise lead with a note about work that doesn't exist yet.
