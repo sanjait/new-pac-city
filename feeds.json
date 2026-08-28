@@ -436,6 +436,99 @@
       "source": "Mountain West Connection",
       "url": "https://www.mwcconnection.com/rss/index.xml",
       "weight": 1.15
+    },
+    {
+      "team": "Utah State",
+      "sport": "all",
+      "source": "Cache Valley Daily",
+      "url": "https://www.cachevalleydaily.com/search/?f=rss&t=article&c=sports&l=25&s=start_time&sd=desc",
+      "weight": 1.15,
+      "topic_scope": "athletics-wide"
+    },
+    {
+      "team": "Utah State",
+      "sport": "all",
+      "source": "The Utah Statesman",
+      "url": "https://usustatesman.com/category/sports/feed/",
+      "weight": 1.15,
+      "topic_scope": "athletics-wide"
+    },
+    {
+      "team": "Utah State",
+      "sport": "all",
+      "source": "The Scotsman Show",
+      "url": "https://anchor.fm/s/e344b1d0/podcast/rss",
+      "weight": 1.15,
+      "medium": "audio"
+    },
+    {
+      "team": "Colorado State",
+      "sport": "all",
+      "source": "RamNation Radio",
+      "url": "https://feeds.simplecast.com/Bfmsmpq_",
+      "weight": 1.15,
+      "medium": "audio"
+    },
+    {
+      "team": "Fresno State",
+      "sport": "all",
+      "source": "YourCentralValley",
+      "url": "https://www.yourcentralvalley.com/bulldog-sports/feed/",
+      "weight": 1.15
+    },
+    {
+      "team": "Fresno State",
+      "sport": "all",
+      "source": "The Collegian",
+      "url": "https://fscollegian.com/category/sports/feed/",
+      "weight": 1.15,
+      "topic_scope": "athletics-wide"
+    },
+    {
+      "team": "Fresno State",
+      "sport": "all",
+      "source": "Beware of Bulldogs",
+      "url": "https://anchor.fm/s/c17d534/podcast/rss",
+      "weight": 1.15,
+      "medium": "audio"
+    },
+    {
+      "team": "Washington State",
+      "sport": "football",
+      "source": "The Seattle Times",
+      "url": "https://www.seattletimes.com/sports/wsu-cougar-football/feed/",
+      "weight": 1.15
+    },
+    {
+      "team": "Washington State",
+      "sport": "all",
+      "source": "The Daily Evergreen",
+      "url": "https://dailyevergreen.com/category/sports/feed/",
+      "weight": 1.15,
+      "topic_scope": "athletics-wide"
+    },
+    {
+      "team": "Washington State",
+      "sport": "all",
+      "source": "Podcast Vs. Everyone",
+      "url": "https://feed.podbean.com/podcastvseveryone/feed.xml",
+      "weight": 1.15,
+      "medium": "audio"
+    },
+    {
+      "team": "Gonzaga",
+      "sport": "all",
+      "source": "House of Krause",
+      "url": "https://houseofkrause.substack.com/feed",
+      "weight": 1.15
+    },
+    {
+      "team": "Gonzaga",
+      "sport": "all",
+      "source": "House of Krause",
+      "url": "https://anchor.fm/s/7b659ca0/podcast/rss",
+      "weight": 1.15,
+      "medium": "audio"
     }
   ],
   "output_dir": "docs",
