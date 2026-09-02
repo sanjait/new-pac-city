@@ -398,7 +398,7 @@ def render_item(it, cfg, now, in_team_section):
     snip_html = f'<p class="snip">{html.escape(snip)}</p>' if snip else ""
     return (
         f'<article class="item">'
-        f'<a class="headline" href="{html.escape(it["link"], quote=True)}" rel="noopener">{html.escape(it["title"])}</a>'
+        f'<a class="headline" href="{html.escape(it["link"], quote=True)}" target="_blank" rel="noopener">{html.escape(it["title"])}</a>'
         f'{snip_html}'
         f'<p class="attrib">{big_tag}{medium_tag(it)}{sport_tag}{source} · {rel_time(it["date"], now)}</p>'
         f"</article>"
@@ -418,7 +418,7 @@ def render_team_sport_item(it, cfg, now, prefix=None):
     snip_html = f'<p class="snip">{html.escape(snip)}</p>' if snip else ""
     return (
         f'<article class="item">'
-        f'<a class="headline" href="{html.escape(it["link"], quote=True)}" rel="noopener">{html.escape(it["title"])}</a>'
+        f'<a class="headline" href="{html.escape(it["link"], quote=True)}" target="_blank" rel="noopener">{html.escape(it["title"])}</a>'
         f'{snip_html}'
         f'<p class="attrib">{big_tag}{medium_tag(it)}{prefix_html}{source} · {rel_time(it["date"], now)}</p>'
         f"</article>"
@@ -446,7 +446,7 @@ def render_lead_card(item, source, teams_by_name, cfg, now):
     return (
         '<article class="item lead">'
         f'<p class="teamline">{teamline}</p>'
-        f'<a class="headline" href="{html.escape(item["link"], quote=True)}" rel="noopener">{html.escape(item["title"])}</a>'
+        f'<a class="headline" href="{html.escape(item["link"], quote=True)}" target="_blank" rel="noopener">{html.escape(item["title"])}</a>'
         f"{snip_html}"
         f'<p class="attrib">{medium_tag(item)}{html.escape(item["source"])} · {rel_time(item["date"], now)}{also}</p>'
         "</article>"
@@ -468,7 +468,7 @@ def render_tile(team, items, now):
         else:
             more_text = "Team page →"
         body = (
-            f'<p class="hl"><a href="{html.escape(top["link"], quote=True)}" rel="noopener">{html.escape(top["title"])}</a></p>'
+            f'<p class="hl"><a href="{html.escape(top["link"], quote=True)}" target="_blank" rel="noopener">{html.escape(top["title"])}</a></p>'
             f'<p class="src">{html.escape(top["source"])} · {rel_time(top["date"], now)}</p>'
             f'<a class="more" href="{slug}/">{more_text}</a>'
         )
@@ -517,12 +517,12 @@ def follow_links(team):
     """Short-label follow links for a team page's masthead."""
     links = []
     if team.get("x"):
-        links.append(f'<a href="https://x.com/{html.escape(team["x"], quote=True)}" rel="noopener">X</a>')
+        links.append(f'<a href="https://x.com/{html.escape(team["x"], quote=True)}" target="_blank" rel="noopener">X</a>')
     if team.get("ig"):
         links.append(
-            f'<a href="https://www.instagram.com/{html.escape(team["ig"], quote=True)}/" rel="noopener">Instagram</a>')
+            f'<a href="https://www.instagram.com/{html.escape(team["ig"], quote=True)}/" target="_blank" rel="noopener">Instagram</a>')
     if team.get("site"):
-        links.append(f'<a href="{html.escape(team["site"], quote=True)}" rel="noopener">Official site</a>')
+        links.append(f'<a href="{html.escape(team["site"], quote=True)}" target="_blank" rel="noopener">Official site</a>')
     return " · ".join(links)
 
 
