@@ -3,114 +3,112 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Utah State Aggies — New PAC City</title>
-<meta name="description" content="Latest Utah State Aggies news — football and basketball headlines, updated automatically.">
+<title>Utah State — New PAC City</title>
+<meta name="description" content="An independent fan site about the new and improved Pac-12.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230a4d68'/%3E%3Ctext x='32' y='45' font-family='Arial' font-size='28' font-weight='bold' fill='white' text-anchor='middle'%3ENP%3C/text%3E%3C/svg%3E">
-<meta property="og:title" content="Utah State Aggies — New PAC City">
-<meta property="og:description" content="Latest Utah State Aggies news — football and basketball headlines, updated automatically.">
+<meta property="og:title" content="Utah State — New PAC City">
+<meta property="og:description" content="An independent fan site about the new and improved Pac-12.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://newpac.city/aggies/">
-<meta name="twitter:card" content="summary">
 <style>
 :root {
-  --bg: #f5f4f0; --card: #ffffff; --ink: #1a1a1a; --muted: #6b6b6b;
-  --accent: #0a4d68; --line: #e3e1da; --tag-bg: #eef2f5;
+  --paper: #FBFBFA; --ink: #101112; --mid: #3F4245; --soft: #5F6265;
+  --rule: #D6D6D4; --hair: #E6E6E4; --house: #075E66;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --bg: #14161a; --card: #1e2126; --ink: #eceae6; --muted: #9a9a94;
-          --accent: #7fc3dd; --line: #2c3038; --tag-bg: #262b33; }
+  :root { --paper: #121416; --ink: #ECEDEE; --mid: #C2C6C8; --soft: #9BA1A3;
+          --rule: #2E3235; --hair: #212528; --house: #5FD3DC; }
 }
 * { box-sizing: border-box; margin: 0; }
-body { background: var(--bg); color: var(--ink);
-  font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-main { max-width: 720px; margin: 0 auto; padding: 8px 16px 40px; }
-h2 { font-size: 20px; border-bottom: 1px solid var(--line); padding-bottom: 6px; margin-top: 26px; }
-.item { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
-  padding: 12px 14px; margin-top: 10px; }
-.headline { color: var(--ink); font-weight: 600; text-decoration: none; display: block; }
-.headline:hover { color: var(--accent); }
-.snip { color: var(--muted); font-size: 14px; margin-top: 4px; }
-.attrib { color: var(--muted); font-size: 12.5px; margin-top: 8px; }
-.tag { background: var(--tag-bg); color: var(--accent); border-radius: 4px;
-  padding: 1px 6px; margin-right: 8px; font-size: 11.5px; font-weight: 600; }
-.tag-big { background: #f4e8c8; color: #7a5c00; }
-.tag-medium { background: #e8e3f2; color: #4b3f6b; }
-@media (prefers-color-scheme: dark) { .tag-big { background: #3d3420; color: #e8c96a; }
-                                      .tag-medium { background: #2f2a3d; color: #bfb0e0; } }
-.follow { font-size: 13px; color: var(--muted); margin: 8px 2px 0; }
-.empty { color: var(--muted); font-style: italic; padding: 10px 2px; }
-details.more { margin-top: 10px; }
-details.more summary { cursor: pointer; color: var(--muted); font-size: 13.5px; padding: 4px 2px; }
-details.more summary:hover { color: var(--accent); }
-footer { max-width: 720px; margin: 0 auto; padding: 0 16px 48px; color: var(--muted); font-size: 12.5px; }
-footer p { margin-top: 6px; }
-footer a { color: var(--accent); }
-a:focus-visible, .headline:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+html { -webkit-text-size-adjust: 100%; }
+body { background: var(--paper); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+       font-size: 1rem; line-height: 1.5; }
+a { color: var(--house); }
+a:focus-visible, :focus-visible { outline: 2px solid var(--house); outline-offset: 2px; }
 
-:root { --p: #00263A; --s: #8A8D8F; --pt: #00263A; }
-@media (prefers-color-scheme: dark) {
-  :root { --p: #6397BA; --s: #8A8D8F; --pt: #6397BA; }
-}
-.teambar { height: 6px; background: var(--p); }
-.crumb { max-width: 720px; margin: 0 auto; padding: 14px 16px 0; font-size: 13px; color: var(--muted); }
-.crumb a { color: var(--accent); text-decoration: none; }
-header { padding: 8px 16px 12px; max-width: 720px; margin: 0 auto; }
-h1 { font-size: 32px; letter-spacing: -0.5px; margin-top: 6px; }
-h1 .nick { color: var(--s); }
-.slugpill { display: inline-block; margin-top: 8px; font-size: 13px; font-weight: 600;
-  color: var(--pt); background: var(--card); border: 1px solid var(--line);
-  border-radius: 999px; padding: 3px 12px; }
-.updated { color: var(--muted); font-size: 13px; margin-top: 8px; }
-.follow a { color: var(--pt); text-decoration: none; font-weight: 600; }
-.future { border-style: dashed; color: var(--muted); font-size: 14px; text-align: center; padding: 16px 14px; }
-.watchcard { border-left: 4px solid var(--p); border-radius: 0 10px 10px 0; margin-top: 16px; }
-.watchcard .headline { color: var(--pt); }
-.watchcard + h2 { margin-top: 30px; }
+.mast { max-width: 46rem; margin: 0 auto; padding: 1.1rem 1rem 0.7rem;
+        border-bottom: 3px double var(--ink); }
+.word { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 1.5rem;
+        letter-spacing: 0.02em; text-transform: uppercase; line-height: 1.1; }
+.word a { color: var(--ink); text-decoration: none; }
+.sub { font-size: 0.95rem; line-height: 1.45; color: var(--mid); margin-top: 0.3rem; }
+.ed { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.75rem; color: var(--soft);
+      margin-top: 0.45rem; letter-spacing: 0.02em; }
+
+.scope { max-width: 46rem; margin: 0 auto; padding: 0.6rem 1rem;
+         border-bottom: 1px solid var(--rule);
+         display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.scope a, .scope span { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.82rem;
+  text-transform: uppercase; letter-spacing: 0.04em; border: 1px solid var(--rule);
+  color: var(--mid); text-decoration: none; padding: 0.55rem 0.6rem; line-height: 1;
+  min-height: 2.75rem; display: inline-flex; align-items: center; }
+.scope a:hover { border-color: var(--house); color: var(--house); }
+.scope [aria-current="page"] { background: var(--ink); color: var(--paper);
+  border-color: var(--ink); font-weight: 700; }
+
+main { max-width: 46rem; margin: 0 auto; padding: 0 1rem 2.5rem; }
+.phead { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.78rem; letter-spacing: 0.04em;
+  color: var(--soft); padding: 0.75rem 0 0.6rem;
+  border-bottom: 1px solid var(--rule); }
+.watchlink { display: block; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.75rem;
+  text-transform: uppercase; letter-spacing: 0.06em; padding: 0.7rem 0;
+  border-bottom: 1px solid var(--rule); text-decoration: none; }
+.watchlink:hover { text-decoration: underline; }
+
+.mark { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.82rem; letter-spacing: 0.06em;
+  color: var(--house); font-weight: 700;
+  padding: 1rem 0 0.45rem; border-bottom: 1px solid var(--ink);
+  display: flex; justify-content: space-between; gap: 1rem; }
+
+.row { padding: 0.7rem 0; border-bottom: 1px solid var(--hair); }
+.row h3 { font-size: 1.02rem; font-weight: 600; line-height: 1.35;
+  letter-spacing: -0.004em; }
+.hl { color: var(--ink); text-decoration: none; }
+.hl:hover { color: var(--house); text-decoration: underline; }
+.maker { font-size: 0.82rem; color: var(--mid); margin-top: 0.3rem; line-height: 1.5; }
+.maker .sch { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; text-transform: uppercase;
+  font-size: 0.78rem; letter-spacing: 0.05em; color: var(--ink); text-decoration: none;
+  border-bottom: 1px solid var(--rule); }
+.maker .sch:hover { color: var(--house); border-bottom-color: var(--house); }
+.maker .d { color: var(--rule); padding: 0 0.3rem; }
+.maker .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.72rem; color: var(--soft); }
+.nature { margin-top: 0.4rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.nature i { font-style: normal; font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.78rem;
+  border: 1px solid var(--rule); color: var(--mid); padding: 0.1rem 0.4rem;
+  letter-spacing: 0.02em; }
+.snip { font-family: Georgia, "Times New Roman", serif; font-size: 0.94rem; line-height: 1.55;
+  color: var(--mid); margin-top: 0.4rem; }
+.when { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.72rem; color: var(--soft); margin-top: 0.35rem; }
+.empty { color: var(--mid); padding: 1.6rem 0; font-size: 0.95rem; }
+
+.pager { border-top: 3px double var(--ink); margin-top: 0.4rem; padding: 0.8rem 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.78rem; color: var(--soft);
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+.pager a { text-decoration: none; padding: 0.5rem 0; }
+.pager a:hover { text-decoration: underline; }
+
+footer { max-width: 46rem; margin: 0 auto; padding: 0 1rem 3rem;
+  color: var(--soft); font-size: 0.8rem; line-height: 1.6; }
+footer p { margin-top: 0.5rem; }
 </style>
 </head>
 <body>
-<div class="teambar"></div>
-<p class="crumb"><a href="../">← New PAC City</a> · all nine teams</p>
-<header>
-  <h1>Utah State <span class="nick">Aggies</span></h1>
-  <span class="slugpill">/aggies</span>
-  <p class="updated">Updated Sep 02, 2026 · 16:35 UTC · refreshes about every 6 hours</p>
-  <p class="follow">Follow the team: <a href="https://x.com/USUAthletics" target="_blank" rel="noopener">X</a> · <a href="https://www.instagram.com/usuathletics/" target="_blank" rel="noopener">Instagram</a> · <a href="https://utahstateaggies.com" target="_blank" rel="noopener">Official site</a></p>
+<header class="mast">
+  <p class="word"><a href="/">New PAC City</a></p>
+  
+  <p class="ed">Latest story Monday 31 August, 2:05 p.m. · refreshed about every 6 hours</p>
 </header>
+<nav class="scope" aria-label="Sections"><a href="/">All</a><a href="/broncos/">Broncos</a><a href="/rams/">Rams</a><a href="/fsudogs/">Bulldogs</a><a href="/zags/">Zags</a><a href="/beavs/">Beavs</a><a href="/aztecs/">Aztecs</a><a href="/bobcats/">Bobcats</a><span aria-current="page">Aggies</span><a href="/cougs/">Cougs</a><a href="/pac12/">Pac-12</a></nav>
 <main>
-<article class="item watchcard"><a class="headline" href="watch/">📺 How to watch the Aggies this season</a><p class="snip">All 12 games, the channel each one is on, and what each way of watching costs. Plans from $45.99/mo, plus what you can get free over the air.</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/31/football-new-era-utah-state-announces-jim-laub-family-stadium.aspx" target="_blank" rel="noopener">New Era: Utah State Announces Jim Laub Family Stadium</a><p class="snip">LOGAN, Utah – A new era is coming to Utah State University, as the home of Aggie football will become Jim Laub Family Stadium on Jan. 1, 2027, honoring Jim and Carol Laub and their decades of…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · 1d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/31/football-utah-state-opens-2026-season-at-home-against-idaho-state.aspx" target="_blank" rel="noopener">Utah State Opens 2026 Season at Home Against Idaho State</a><p class="snip">LOGAN, Utah – Utah State (0-0, 0-0 Pac-12) begins its 129th season of football as it hosts Idaho State (1-0, 0-0 Big Sky) on Saturday, Sept. 5, at 5 p.m. The game will be televised on CBS Sports…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · 1d ago</p></article>
-<article class="item"><a class="headline" href="https://usustatesman.com/new-faces-same-focus-for-utah-state-volleyball/" target="_blank" rel="noopener">New faces, same focus for Utah State Volleyball</a><p class="snip">Utah State Volleyball’s 2025 campaign was historic. The team posted a 24-8 overall record and a 21-0 conference record on… The post New faces, same focus for Utah State Volleyball appeared first on…</p><p class="attrib"><span class="tag">📣 All sports</span>The Utah Statesman · 2d ago</p></article>
-<article class="item"><a class="headline" href="https://usustatesman.com/mountain-west-pac-12-conferences-reach-lawsuit-settlement-after-early-departure/" target="_blank" rel="noopener">Mountain West, Pac-12 conferences reach lawsuit settlement after early departure</a><p class="snip">Following nearly two years of legal battles, the Mountain West Conference and Pac-12 Conference agreed to a settlement in early… The post Mountain West, Pac-12 conferences reach lawsuit settlement…</p><p class="attrib"><span class="tag">📣 All sports</span>The Utah Statesman · 2d ago</p></article>
-<article class="item"><a class="headline" href="https://usustatesman.com/utah-state-football-enters-2026-with-plenty-to-prove/" target="_blank" rel="noopener">Utah State Football enters 2026 with plenty to prove</a><p class="snip">With the 2026 college football season on the horizon, the Aggies are prepping for a season with many changes. To… The post Utah State Football enters 2026 with plenty to prove appeared first on The…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>The Utah Statesman · 2d ago</p></article>
-<details class="more"><summary>Show 19 more Aggies stories</summary>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/27/womens-basketball-ls-brings-elite-womens-college-basketball-matchups-to-fort-worths-dickies-arena-in-2026.aspx" target="_blank" rel="noopener">LS² Brings Elite Women&#x27;s College Basketball Matchups to Fort Worth&#x27;s Dickies Arena in 2026</a><p class="snip">Wild Horse Sports Management today announced the launch of LS² | Lone Star Series (pronounced &quot;LS Squared&quot;), a new women&#x27;s college basketball platform featuring three games across two Sundays at…</p><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>Utah State Athletics · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/25/mens-basketball-utah-state-mens-basketball-announces-the-signing-of-dallin-hall.aspx" target="_blank" rel="noopener">Utah State Men’s Basketball Announces the Signing of Dallin Hall</a><p class="snip">Utah State head men&#x27;s basketball coach Ben Jacobson announced the signing of transfer guard Dallin Hall on Tuesday. Hall will join the Aggies in 2026-27 as a graduate transfer, after playing three…</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Utah State Athletics · 7d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/25/2026-football-media-guide-now-available-online.aspx" target="_blank" rel="noopener">2026 Football Media Guide Now Available Online</a><p class="snip">LOGAN, Utah - The 2026 Utah State football media guide is now available online. Inside, fans and members of the media will find information about the 2026 football team, along with USU football…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · 7d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/25/womens-basketball-womens-basketball-adds-tori-williams-as-chief-of-staff.aspx" target="_blank" rel="noopener">Women’s Basketball Adds Tori Williams as Chief of Staff</a><p class="snip">LOGAN, Utah – Utah State head women&#x27;s basketball coach Wesley Brooks announced the addition of Tori Williams as the team&#x27;s chief of staff.</p><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>Utah State Athletics · 7d ago</p></article>
-<article class="item"><a class="headline" href="https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/Reviewing-Ice-Cream-Flavor-Finalists-at-USU-Family-Fun-Day-e3nrrhg" target="_blank" rel="noopener">Reviewing Ice Cream Flavor Finalists at USU Family Fun Day</a><p class="snip">1. We started by reacting to the news of Dallin Hall transferring Utah State. 2. We then reviewed the finalist Aggie ice cream flavors which were Spectrum Magic, Big Blue-Berry, and Aggies After…</p><p class="attrib"><span class="tag tag-medium">🎧 Podcast</span><span class="tag">📣 All sports</span>The Scotsman Show · 8d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/24/womens-basketball-womens-basketball-announces-2026-nonconference-schedule.aspx" target="_blank" rel="noopener">Women’s Basketball Announces 2026 Nonconference Schedule</a><p class="snip">LOGAN, Utah – Utah State head women&#x27;s basketball coach Wesley Brooks announced the team&#x27;s 2026 nonconference schedule on Monday. The Aggies will play a total of 15 games in preparation for their…</p><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>Utah State Athletics · 8d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/24/former-utah-state-football-great-dave-kragthorpe-passes-away.aspx" target="_blank" rel="noopener">Former Utah State Football Great Dave Kragthorpe Passes Away</a><p class="snip">LOGAN, Utah – Former Utah State football great Dave Kragthorpe passed away on Sunday, Aug. 23. He was 93 years old.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · 8d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/21/football-utah-states-brevin-hamblin-named-to-chuck-bednarik-award-preseason-watch-list.aspx" target="_blank" rel="noopener">Utah State’s Brevin Hamblin Named to Chuck Bednarik Award Preseason Watch List</a><p class="snip">LOGAN, Utah – Utah State football senior Brevin Hamblin has been named to the 2026 Chuck Bednarik Award Preseason Watch List, it was announced on Friday. Hamblin was one of 91 players named to the…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · 11d ago</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/20/four-aggies-named-to-2026-polynesian-college-football-player-of-the-year-award-watch-list.aspx" target="_blank" rel="noopener">Four Aggies Named to 2026 Polynesian College Football Player of the Year Award Watch List</a><p class="snip">LOGAN, Utah – Utah State football had four players named to the 2026 Polynesian College Football Player of the Year Award Watch List, it was announced on Thursday. Seniors Tavo Motu&#x27;apuaka and…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · 12d ago</p></article>
-<article class="item"><a class="headline" href="https://usustatesman.com/aggies-draw-michigan-2-2-in-heart-pounding-home-opener/" target="_blank" rel="noopener">Aggies draw Michigan 2-2 in heart-pounding home opener</a><p class="snip">Despite a dominant first half, Utah State Soccer’s return to Chuck &amp; Gloria Bell Soccer Field ended in a disappointing… The post Aggies draw Michigan 2-2 in heart-pounding home opener appeared first…</p><p class="attrib"><span class="tag">📣 All sports</span>The Utah Statesman · Aug 18</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/15/football-fall-camp-practice-no-1.aspx" target="_blank" rel="noopener">Fall Camp: Practice No. 10</a><p class="snip">LOGAN, Utah - Utah State graduate RB Javen Jacobs talks about the progress the team is making during fall camp following USU&#x27;s 10th practice Saturday afternoon.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · Aug 16</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/12/utah-state-announces-changes-to-2027-football-schedule.aspx" target="_blank" rel="noopener">Utah State Announces Changes to 2027 Football Schedule</a><p class="snip">LOGAN, Utah – Utah State Vice President and Director of Athletics Cameron Walker announced Tuesday date changes for previously scheduled contests against Oklahoma and Mercyhurst.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · Aug 12</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/12/football-utah-states-brevin-hamblin-named-to-paycom-jim-thorpe-award-preseason-watch-list.aspx" target="_blank" rel="noopener">Utah State’s Brevin Hamblin Named to Paycom Jim Thorpe Award Preseason Watch List</a><p class="snip">LOGAN, Utah – Utah State football senior Brevin Hamblin has been named to the 2026 Paycom Jim Thorpe Award Preseason Watch List, it was announced on Wednesday. Hamblin was one of 35 players named to…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · Aug 12</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/11/football-javen-jacobs-named-to-allstate-wuerffel-trophy-watch-list.aspx" target="_blank" rel="noopener">Javen Jacobs Named to Allstate Wuerffel Trophy Watch List</a><p class="snip">LOGAN, Utah – Utah State graduate running back Javen Jacobs has been named to the Allstate Wuerffel Trophy Watch List, it was announced Tuesday. The award honors Football Bowl Subdivision (FBS)…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Utah State Athletics · Aug 11</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/6/mens-basketball-2026-acrisure-series-college-basketball-thanksgiving-event-returns-to-acrisure-arena-november-21-26.aspx" target="_blank" rel="noopener">2026 Acrisure Series College Basketball Thanksgiving Event Returns to Acrisure Arena November 21-26</a><p class="snip">The 2026 Acrisure Series, the nation&#x27;s premier Thanksgiving college basketball event, returns to the Coachella Valley this November bringing together 26 Division I programs for 26 games over six days…</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Utah State Athletics · Aug 6</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/8/3/mens-basketball-utah-state-mens-basketball-announces-2026-27-nonconference-schedule.aspx" target="_blank" rel="noopener">Utah State Men’s Basketball Announces 2026-27 Nonconference Schedule</a><p class="snip">Utah State men&#x27;s basketball announced the nonconference portion of its 2026-27 schedule on Monday, a slate which includes 16 regular season games plus three preseason exhibitions.</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Utah State Athletics · Aug 3</p></article>
-<article class="item"><a class="headline" href="https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/Top-7-Spectrum-Magic-Moments-e3mpe1g" target="_blank" rel="noopener">Top 7 Spectrum Magic Moments</a><p class="snip">1. Free episode where we rank the top 7 Spectrum Magic moments. 2. Who is the golden trio (Big 3) in Aggie basketball history that played together at the same time? 3. Who is the new chosen one for…</p><p class="attrib"><span class="tag tag-medium">🎧 Podcast</span><span class="tag">📣 All sports</span>The Scotsman Show · Jul 31</p></article>
-<article class="item"><a class="headline" href="https://usustatesman.com/new-utah-state-softball-head-coach-kristen-zaleski-adds-to-her-coaching-staff/" target="_blank" rel="noopener">New Utah State Softball head coach Kristen Zaleski adds to her coaching staff</a><p class="snip">Utah State University’s softball team looks to begin a new era in Logan with the hiring of new head coach… The post New Utah State Softball head coach Kristen Zaleski adds to her coaching staff…</p><p class="attrib"><span class="tag">📣 All sports</span>The Utah Statesman · Jul 27</p></article>
-<article class="item"><a class="headline" href="https://utahstateaggies.com/news/2026/7/21/mens-basketball-aggies-to-compete-at-texas-legends-college-classic.aspx" target="_blank" rel="noopener">Aggies to Compete at Texas Legends College Classic</a><p class="snip">The Texas Legends, NBA G League affiliate of the Dallas Mavericks, announced today the inaugural Texas Legends College Classic presented by Kia, a four-day college basketball showcase set to take…</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Utah State Athletics · Jul 21</p></article>
-</details>
-
+  <p class="phead">Utah State · 20 items</p>
+  <a class="watchlink" href="/aggies/watch/">📺 How to watch this season →</a>
+  <div class="list"><div class="mark"><span>Monday 31 August, morning</span><span>Mon 31 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/31/football-new-era-utah-state-announces-jim-laub-family-stadium.aspx" target="_blank" rel="noopener">New Era: Utah State Announces Jim Laub Family Stadium</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – A new era is coming to Utah State University, as the home of Aggie football will become Jim Laub Family Stadium on Jan. 1, 2027, honoring Jim and Carol Laub and their decades of…</p><p class="when">31 Aug, 2:05 p.m.</p></article><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/31/football-utah-state-opens-2026-season-at-home-against-idaho-state.aspx" target="_blank" rel="noopener">Utah State Opens 2026 Season at Home Against Idaho State</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – Utah State (0-0, 0-0 Pac-12) begins its 129th season of football as it hosts Idaho State (1-0, 0-0 Big Sky) on Saturday, Sept. 5, at 5 p.m. The game will be televised on CBS Sports…</p><p class="when">31 Aug, 11:18 a.m.</p></article><div class="mark"><span>Sunday 30 August, evening</span><span>Sun 30 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="https://usustatesman.com/new-faces-same-focus-for-utah-state-volleyball/" target="_blank" rel="noopener">New faces, same focus for Utah State Volleyball</a></h3><p class="maker"><span>The Utah Statesman</span><span class="d">·</span><span class="by">Mark Greenwood</span></p><p class="nature"><i>Article</i></p><p class="snip">Utah State Volleyball’s 2025 campaign was historic. The team posted a 24-8 overall record and a 21-0 conference record on… The post New faces, same focus for Utah State Volleyball appeared first on…</p><p class="when">31 Aug, 5:51 a.m.</p></article><article class="row"><h3><a class="hl" href="https://usustatesman.com/mountain-west-pac-12-conferences-reach-lawsuit-settlement-after-early-departure/" target="_blank" rel="noopener">Mountain West, Pac-12 conferences reach lawsuit settlement after early departure</a></h3><p class="maker"><span>The Utah Statesman</span><span class="d">·</span><span class="by">Mark Greenwood</span></p><p class="nature"><i>Article</i></p><p class="snip">Following nearly two years of legal battles, the Mountain West Conference and Pac-12 Conference agreed to a settlement in early… The post Mountain West, Pac-12 conferences reach lawsuit settlement…</p><p class="when">31 Aug, 5:13 a.m.</p></article><article class="row"><h3><a class="hl" href="https://usustatesman.com/utah-state-football-enters-2026-with-plenty-to-prove/" target="_blank" rel="noopener">Utah State Football enters 2026 with plenty to prove</a></h3><p class="maker"><span>The Utah Statesman</span><span class="d">·</span><span class="by">Rory McNeill</span></p><p class="nature"><i>Article</i></p><p class="snip">With the 2026 college football season on the horizon, the Aggies are prepping for a season with many changes. To… The post Utah State Football enters 2026 with plenty to prove appeared first on The…</p><p class="when">31 Aug, 5:02 a.m.</p></article><div class="mark"><span>Thursday 27 August, morning</span><span>Thu 27 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/27/womens-basketball-ls-brings-elite-womens-college-basketball-matchups-to-fort-worths-dickies-arena-in-2026.aspx" target="_blank" rel="noopener">LS² Brings Elite Women&#x27;s College Basketball Matchups to Fort Worth&#x27;s Dickies Arena in 2026</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">Wild Horse Sports Management today announced the launch of LS² | Lone Star Series (pronounced &quot;LS Squared&quot;), a new women&#x27;s college basketball platform featuring three games across two Sundays at…</p><p class="when">27 Aug, 10:45 a.m.</p></article><div class="mark"><span>Tuesday 25 August, morning</span><span>Tue 25 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/25/mens-basketball-utah-state-mens-basketball-announces-the-signing-of-dallin-hall.aspx" target="_blank" rel="noopener">Utah State Men’s Basketball Announces the Signing of Dallin Hall</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">Utah State head men&#x27;s basketball coach Ben Jacobson announced the signing of transfer guard Dallin Hall on Tuesday. Hall will join the Aggies in 2026-27 as a graduate transfer, after playing three…</p><p class="when">25 Aug, 2:35 p.m.</p></article><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/25/2026-football-media-guide-now-available-online.aspx" target="_blank" rel="noopener">2026 Football Media Guide Now Available Online</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah - The 2026 Utah State football media guide is now available online. Inside, fans and members of the media will find information about the 2026 football team, along with USU football…</p><p class="when">25 Aug, 1:29 p.m.</p></article><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/25/womens-basketball-womens-basketball-adds-tori-williams-as-chief-of-staff.aspx" target="_blank" rel="noopener">Women’s Basketball Adds Tori Williams as Chief of Staff</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – Utah State head women&#x27;s basketball coach Wesley Brooks announced the addition of Tori Williams as the team&#x27;s chief of staff.</p><p class="when">25 Aug, 12:33 p.m.</p></article><div class="mark"><span>Monday 24 August, evening</span><span>Mon 24 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/Reviewing-Ice-Cream-Flavor-Finalists-at-USU-Family-Fun-Day-e3nrrhg" target="_blank" rel="noopener">Reviewing Ice Cream Flavor Finalists at USU Family Fun Day</a></h3><p class="maker"><span>The Scotsman Show</span><span class="d">·</span><span class="by">The Scotsman Show</span></p><p class="nature"><i>🎧 Podcast</i></p><p class="snip">1. We started by reacting to the news of Dallin Hall transferring Utah State. 2. We then reviewed the finalist Aggie ice cream flavors which were Spectrum Magic, Big Blue-Berry, and Aggies After…</p><p class="when">24 Aug, 11:00 p.m.</p></article><div class="mark"><span>Monday 24 August, morning</span><span>Mon 24 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/24/womens-basketball-womens-basketball-announces-2026-nonconference-schedule.aspx" target="_blank" rel="noopener">Women’s Basketball Announces 2026 Nonconference Schedule</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – Utah State head women&#x27;s basketball coach Wesley Brooks announced the team&#x27;s 2026 nonconference schedule on Monday. The Aggies will play a total of 15 games in preparation for their…</p><p class="when">24 Aug, 2:51 p.m.</p></article><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/24/former-utah-state-football-great-dave-kragthorpe-passes-away.aspx" target="_blank" rel="noopener">Former Utah State Football Great Dave Kragthorpe Passes Away</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – Former Utah State football great Dave Kragthorpe passed away on Sunday, Aug. 23. He was 93 years old.</p><p class="when">24 Aug, 12:26 p.m.</p></article><div class="mark"><span>Friday 21 August, morning</span><span>Fri 21 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/21/football-utah-states-brevin-hamblin-named-to-chuck-bednarik-award-preseason-watch-list.aspx" target="_blank" rel="noopener">Utah State’s Brevin Hamblin Named to Chuck Bednarik Award Preseason Watch List</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – Utah State football senior Brevin Hamblin has been named to the 2026 Chuck Bednarik Award Preseason Watch List, it was announced on Friday. Hamblin was one of 91 players named to the…</p><p class="when">21 Aug, 10:00 a.m.</p></article><div class="mark"><span>Thursday 20 August, morning</span><span>Thu 20 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/20/four-aggies-named-to-2026-polynesian-college-football-player-of-the-year-award-watch-list.aspx" target="_blank" rel="noopener">Four Aggies Named to 2026 Polynesian College Football Player of the Year Award Watch List</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – Utah State football had four players named to the 2026 Polynesian College Football Player of the Year Award Watch List, it was announced on Thursday. Seniors Tavo Motu&#x27;apuaka and…</p><p class="when">20 Aug, 10:29 a.m.</p></article><div class="mark"><span>Monday 17 August, evening</span><span>Mon 17 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="https://usustatesman.com/aggies-draw-michigan-2-2-in-heart-pounding-home-opener/" target="_blank" rel="noopener">Aggies draw Michigan 2-2 in heart-pounding home opener</a></h3><p class="maker"><span>The Utah Statesman</span><span class="d">·</span><span class="by">Quinton Papa</span></p><p class="nature"><i>Article</i></p><p class="snip">Despite a dominant first half, Utah State Soccer’s return to Chuck &amp; Gloria Bell Soccer Field ended in a disappointing… The post Aggies draw Michigan 2-2 in heart-pounding home opener appeared first…</p><p class="when">17 Aug, 8:17 p.m.</p></article><div class="mark"><span>Saturday 15 August, morning</span><span>Sat 15 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/15/football-fall-camp-practice-no-1.aspx" target="_blank" rel="noopener">Fall Camp: Practice No. 10</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah - Utah State graduate RB Javen Jacobs talks about the progress the team is making during fall camp following USU&#x27;s 10th practice Saturday afternoon.</p><p class="when">15 Aug, 5:25 p.m.</p></article><div class="mark"><span>Wednesday 12 August, morning</span><span>Wed 12 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/12/utah-state-announces-changes-to-2027-football-schedule.aspx" target="_blank" rel="noopener">Utah State Announces Changes to 2027 Football Schedule</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – Utah State Vice President and Director of Athletics Cameron Walker announced Tuesday date changes for previously scheduled contests against Oklahoma and Mercyhurst.</p><p class="when">12 Aug, 12:49 p.m.</p></article><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/12/football-utah-states-brevin-hamblin-named-to-paycom-jim-thorpe-award-preseason-watch-list.aspx" target="_blank" rel="noopener">Utah State’s Brevin Hamblin Named to Paycom Jim Thorpe Award Preseason Watch List</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – Utah State football senior Brevin Hamblin has been named to the 2026 Paycom Jim Thorpe Award Preseason Watch List, it was announced on Wednesday. Hamblin was one of 35 players named to…</p><p class="when">12 Aug, 10:00 a.m.</p></article><div class="mark"><span>Tuesday 11 August, morning</span><span>Tue 11 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/11/football-javen-jacobs-named-to-allstate-wuerffel-trophy-watch-list.aspx" target="_blank" rel="noopener">Javen Jacobs Named to Allstate Wuerffel Trophy Watch List</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">LOGAN, Utah – Utah State graduate running back Javen Jacobs has been named to the Allstate Wuerffel Trophy Watch List, it was announced Tuesday. The award honors Football Bowl Subdivision (FBS)…</p><p class="when">11 Aug, 11:23 a.m.</p></article><div class="mark"><span>Thursday 6 August, morning</span><span>Thu 6 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/6/mens-basketball-2026-acrisure-series-college-basketball-thanksgiving-event-returns-to-acrisure-arena-november-21-26.aspx" target="_blank" rel="noopener">2026 Acrisure Series College Basketball Thanksgiving Event Returns to Acrisure Arena November 21-26</a></h3><p class="maker"><span>Utah State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">The 2026 Acrisure Series, the nation&#x27;s premier Thanksgiving college basketball event, returns to the Coachella Valley this November bringing together 26 Division I programs for 26 games over six days…</p><p class="when">6 Aug, 11:00 a.m.</p></article></div>
+  <nav class="pager"><span></span><span>Page 1 of 2</span><a href="/aggies/page/2/">Older →</a></nav>
 </main>
 <footer>
-  <p>Every headline links to its original publisher; snippets are brief excerpts shown with attribution. Full stories belong to their sources.</p>
-  <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12 Conference or any university.</p>
-  <p><a href="../">← Back to the New PAC City homepage</a></p>
+  <p>Every headline links to its original publisher; snippets are brief excerpts shown with
+  attribution. Full stories belong to their sources.</p>
+  <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12
+  Conference or any university. Gathering 52 sources. <a href="/about/">About this site</a>.</p>
 </footer>
 </body>
 </html>

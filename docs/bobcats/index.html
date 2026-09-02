@@ -3,114 +3,112 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Texas State Bobcats — New PAC City</title>
-<meta name="description" content="Latest Texas State Bobcats news — football and basketball headlines, updated automatically.">
+<title>Texas State — New PAC City</title>
+<meta name="description" content="An independent fan site about the new and improved Pac-12.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230a4d68'/%3E%3Ctext x='32' y='45' font-family='Arial' font-size='28' font-weight='bold' fill='white' text-anchor='middle'%3ENP%3C/text%3E%3C/svg%3E">
-<meta property="og:title" content="Texas State Bobcats — New PAC City">
-<meta property="og:description" content="Latest Texas State Bobcats news — football and basketball headlines, updated automatically.">
+<meta property="og:title" content="Texas State — New PAC City">
+<meta property="og:description" content="An independent fan site about the new and improved Pac-12.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://newpac.city/bobcats/">
-<meta name="twitter:card" content="summary">
 <style>
 :root {
-  --bg: #f5f4f0; --card: #ffffff; --ink: #1a1a1a; --muted: #6b6b6b;
-  --accent: #0a4d68; --line: #e3e1da; --tag-bg: #eef2f5;
+  --paper: #FBFBFA; --ink: #101112; --mid: #3F4245; --soft: #5F6265;
+  --rule: #D6D6D4; --hair: #E6E6E4; --house: #075E66;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --bg: #14161a; --card: #1e2126; --ink: #eceae6; --muted: #9a9a94;
-          --accent: #7fc3dd; --line: #2c3038; --tag-bg: #262b33; }
+  :root { --paper: #121416; --ink: #ECEDEE; --mid: #C2C6C8; --soft: #9BA1A3;
+          --rule: #2E3235; --hair: #212528; --house: #5FD3DC; }
 }
 * { box-sizing: border-box; margin: 0; }
-body { background: var(--bg); color: var(--ink);
-  font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-main { max-width: 720px; margin: 0 auto; padding: 8px 16px 40px; }
-h2 { font-size: 20px; border-bottom: 1px solid var(--line); padding-bottom: 6px; margin-top: 26px; }
-.item { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
-  padding: 12px 14px; margin-top: 10px; }
-.headline { color: var(--ink); font-weight: 600; text-decoration: none; display: block; }
-.headline:hover { color: var(--accent); }
-.snip { color: var(--muted); font-size: 14px; margin-top: 4px; }
-.attrib { color: var(--muted); font-size: 12.5px; margin-top: 8px; }
-.tag { background: var(--tag-bg); color: var(--accent); border-radius: 4px;
-  padding: 1px 6px; margin-right: 8px; font-size: 11.5px; font-weight: 600; }
-.tag-big { background: #f4e8c8; color: #7a5c00; }
-.tag-medium { background: #e8e3f2; color: #4b3f6b; }
-@media (prefers-color-scheme: dark) { .tag-big { background: #3d3420; color: #e8c96a; }
-                                      .tag-medium { background: #2f2a3d; color: #bfb0e0; } }
-.follow { font-size: 13px; color: var(--muted); margin: 8px 2px 0; }
-.empty { color: var(--muted); font-style: italic; padding: 10px 2px; }
-details.more { margin-top: 10px; }
-details.more summary { cursor: pointer; color: var(--muted); font-size: 13.5px; padding: 4px 2px; }
-details.more summary:hover { color: var(--accent); }
-footer { max-width: 720px; margin: 0 auto; padding: 0 16px 48px; color: var(--muted); font-size: 12.5px; }
-footer p { margin-top: 6px; }
-footer a { color: var(--accent); }
-a:focus-visible, .headline:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+html { -webkit-text-size-adjust: 100%; }
+body { background: var(--paper); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+       font-size: 1rem; line-height: 1.5; }
+a { color: var(--house); }
+a:focus-visible, :focus-visible { outline: 2px solid var(--house); outline-offset: 2px; }
 
-:root { --p: #501214; --s: #AC9155; --pt: #501214; }
-@media (prefers-color-scheme: dark) {
-  :root { --p: #C38185; --s: #C4AC72; --pt: #C38185; }
-}
-.teambar { height: 6px; background: var(--p); }
-.crumb { max-width: 720px; margin: 0 auto; padding: 14px 16px 0; font-size: 13px; color: var(--muted); }
-.crumb a { color: var(--accent); text-decoration: none; }
-header { padding: 8px 16px 12px; max-width: 720px; margin: 0 auto; }
-h1 { font-size: 32px; letter-spacing: -0.5px; margin-top: 6px; }
-h1 .nick { color: var(--s); }
-.slugpill { display: inline-block; margin-top: 8px; font-size: 13px; font-weight: 600;
-  color: var(--pt); background: var(--card); border: 1px solid var(--line);
-  border-radius: 999px; padding: 3px 12px; }
-.updated { color: var(--muted); font-size: 13px; margin-top: 8px; }
-.follow a { color: var(--pt); text-decoration: none; font-weight: 600; }
-.future { border-style: dashed; color: var(--muted); font-size: 14px; text-align: center; padding: 16px 14px; }
-.watchcard { border-left: 4px solid var(--p); border-radius: 0 10px 10px 0; margin-top: 16px; }
-.watchcard .headline { color: var(--pt); }
-.watchcard + h2 { margin-top: 30px; }
+.mast { max-width: 46rem; margin: 0 auto; padding: 1.1rem 1rem 0.7rem;
+        border-bottom: 3px double var(--ink); }
+.word { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 1.5rem;
+        letter-spacing: 0.02em; text-transform: uppercase; line-height: 1.1; }
+.word a { color: var(--ink); text-decoration: none; }
+.sub { font-size: 0.95rem; line-height: 1.45; color: var(--mid); margin-top: 0.3rem; }
+.ed { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.75rem; color: var(--soft);
+      margin-top: 0.45rem; letter-spacing: 0.02em; }
+
+.scope { max-width: 46rem; margin: 0 auto; padding: 0.6rem 1rem;
+         border-bottom: 1px solid var(--rule);
+         display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.scope a, .scope span { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.82rem;
+  text-transform: uppercase; letter-spacing: 0.04em; border: 1px solid var(--rule);
+  color: var(--mid); text-decoration: none; padding: 0.55rem 0.6rem; line-height: 1;
+  min-height: 2.75rem; display: inline-flex; align-items: center; }
+.scope a:hover { border-color: var(--house); color: var(--house); }
+.scope [aria-current="page"] { background: var(--ink); color: var(--paper);
+  border-color: var(--ink); font-weight: 700; }
+
+main { max-width: 46rem; margin: 0 auto; padding: 0 1rem 2.5rem; }
+.phead { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.78rem; letter-spacing: 0.04em;
+  color: var(--soft); padding: 0.75rem 0 0.6rem;
+  border-bottom: 1px solid var(--rule); }
+.watchlink { display: block; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.75rem;
+  text-transform: uppercase; letter-spacing: 0.06em; padding: 0.7rem 0;
+  border-bottom: 1px solid var(--rule); text-decoration: none; }
+.watchlink:hover { text-decoration: underline; }
+
+.mark { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.82rem; letter-spacing: 0.06em;
+  color: var(--house); font-weight: 700;
+  padding: 1rem 0 0.45rem; border-bottom: 1px solid var(--ink);
+  display: flex; justify-content: space-between; gap: 1rem; }
+
+.row { padding: 0.7rem 0; border-bottom: 1px solid var(--hair); }
+.row h3 { font-size: 1.02rem; font-weight: 600; line-height: 1.35;
+  letter-spacing: -0.004em; }
+.hl { color: var(--ink); text-decoration: none; }
+.hl:hover { color: var(--house); text-decoration: underline; }
+.maker { font-size: 0.82rem; color: var(--mid); margin-top: 0.3rem; line-height: 1.5; }
+.maker .sch { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; text-transform: uppercase;
+  font-size: 0.78rem; letter-spacing: 0.05em; color: var(--ink); text-decoration: none;
+  border-bottom: 1px solid var(--rule); }
+.maker .sch:hover { color: var(--house); border-bottom-color: var(--house); }
+.maker .d { color: var(--rule); padding: 0 0.3rem; }
+.maker .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.72rem; color: var(--soft); }
+.nature { margin-top: 0.4rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.nature i { font-style: normal; font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.78rem;
+  border: 1px solid var(--rule); color: var(--mid); padding: 0.1rem 0.4rem;
+  letter-spacing: 0.02em; }
+.snip { font-family: Georgia, "Times New Roman", serif; font-size: 0.94rem; line-height: 1.55;
+  color: var(--mid); margin-top: 0.4rem; }
+.when { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.72rem; color: var(--soft); margin-top: 0.35rem; }
+.empty { color: var(--mid); padding: 1.6rem 0; font-size: 0.95rem; }
+
+.pager { border-top: 3px double var(--ink); margin-top: 0.4rem; padding: 0.8rem 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.78rem; color: var(--soft);
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+.pager a { text-decoration: none; padding: 0.5rem 0; }
+.pager a:hover { text-decoration: underline; }
+
+footer { max-width: 46rem; margin: 0 auto; padding: 0 1rem 3rem;
+  color: var(--soft); font-size: 0.8rem; line-height: 1.6; }
+footer p { margin-top: 0.5rem; }
 </style>
 </head>
 <body>
-<div class="teambar"></div>
-<p class="crumb"><a href="../">← New PAC City</a> · all nine teams</p>
-<header>
-  <h1>Texas State <span class="nick">Bobcats</span></h1>
-  <span class="slugpill">/bobcats</span>
-  <p class="updated">Updated Sep 02, 2026 · 16:35 UTC · refreshes about every 6 hours</p>
-  <p class="follow">Follow the team: <a href="https://x.com/txstatebobcats" target="_blank" rel="noopener">X</a> · <a href="https://www.instagram.com/txstatebobcats/" target="_blank" rel="noopener">Instagram</a> · <a href="https://txst.com" target="_blank" rel="noopener">Official site</a></p>
+<header class="mast">
+  <p class="word"><a href="/">New PAC City</a></p>
+  
+  <p class="ed">Latest story Tuesday 1 September, 11:33 a.m. · refreshed about every 6 hours</p>
 </header>
+<nav class="scope" aria-label="Sections"><a href="/">All</a><a href="/broncos/">Broncos</a><a href="/rams/">Rams</a><a href="/fsudogs/">Bulldogs</a><a href="/zags/">Zags</a><a href="/beavs/">Beavs</a><a href="/aztecs/">Aztecs</a><span aria-current="page">Bobcats</span><a href="/aggies/">Aggies</a><a href="/cougs/">Cougs</a><a href="/pac12/">Pac-12</a></nav>
 <main>
-<article class="item watchcard"><a class="headline" href="watch/">📺 How to watch the Bobcats this season</a><p class="snip">All 12 games, the channel each one is on, and what each way of watching costs. Plans from $45.99/mo, plus what you can get free over the air.</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/9/1/watch-txst-football-media-availability-vs-texas-090126.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability vs Texas (090126)</a><p class="snip">HC GJ Kinne Media Availability</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 22h ago</p></article>
-<article class="item"><a class="headline" href="https://universitystar.com/36139/sports/from-student-assistant-to-hitting-director-austin-huml-earns-his-shot/" target="_blank" rel="noopener">From student assistant to hitting director, Austin Huml earns his shot</a><p class="snip">When Texas State senior outfielder Jaquae Stewart learned that Austin Huml, a student assistant coach this past season, was promoted to Director of Hitting Development, he immediately shared the news…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 23h ago</p></article>
-<article class="item"><a class="headline" href="https://universitystar.com/36142/sports/the-eyes-of-texas-are-upon-the-cats-txst-opens-at-no-5-texas/" target="_blank" rel="noopener">All Eyes on TXST: ‘Cats to take on No. 5 Texas</a><p class="snip">For the first time in nearly a century, Texas State football will travel to Austin, opening its inaugural Pac-12 season against one of the best teams in the nation: the No. 5 Texas Longhorns. Despite…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 1d ago</p></article>
-<article class="item"><a class="headline" href="https://universitystar.com/36116/sports/cats-remains-undefeated-with-blowout-victory-vs-tsu/" target="_blank" rel="noopener">‘Cats remains undefeated with blowout victory vs TSU</a><p class="snip">Victoria Meza scored two goals within the first 20 minutes to help lead the No. 21 Texas State Bobcats to a 5-0 victory against Texas Southern Sunday evening at the Bobcat Soccer Complex. Meza…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 2d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/31/mens-basketball-texas-state-to-face-north-texas-in-uslbm-coast-to-coast-challenge.aspx" target="_blank" rel="noopener">Texas State to Face North Texas in USLBM Coast to Coast Challenge</a><p class="snip">FORT WORTH, Texas - Texas State men&#x27;s basketball will face North Texas in the USLBM Coast to Coast Challenge presented by Visit Fort Worth on Sunday, Dec. 13 at Dickies Arena, announced by Total…</p><p class="attrib"><span class="tag tag-mbb">🏀 Men&#x27;s Basketball</span>Texas State Athletics · 2d ago</p></article>
-<details class="more"><summary>Show 19 more Bobcats stories</summary>
-<article class="item"><a class="headline" href="https://universitystar.com/36114/sports/txst-volleyball-bounces-back-against-former-sun-belt-rival-louisiana/" target="_blank" rel="noopener">TXST Volleyball bounces back against former Sun Belt rival Louisiana</a><p class="snip">After getting swept in their season opener against Oklahoma, the Texas State Bobcats bounced back with a sweep of their own against the Louisiana Ragin’ Cajuns (27-25, 25-16, 25-20) Sunday afternoon…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 2d ago</p></article>
-<article class="item"><a class="headline" href="https://universitystar.com/36113/football/brad-jackson-earns-spot-on-manning-award-watch-list/" target="_blank" rel="noopener">Brad Jackson earns spot on Manning Award watch list</a><p class="snip">Texas State sophomore quarterback Brad Jackson added another national honor to his growing resume, earning a spot on the Manning Award preseason watch list ahead of the 2026 season. The Manning Award…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 3d ago</p></article>
-<article class="item"><a class="headline" href="https://universitystar.com/36110/volleyball/bobcats-fall-to-oklahoma-in-home-opening-sweep/" target="_blank" rel="noopener">Bobcats fall to Oklahoma in home-opener sweep</a><p class="snip">The Oklahoma Sooner’s size at the net and pressure from the service line were too much for Texas State to handle in a dominating straight-set sweep (25-19, 25-12, 25-12), spoiling the Bobcats’ season…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 4d ago</p></article>
-<article class="item"><a class="headline" href="https://universitystar.com/36108/sports/no-21-texas-state-continues-winning-ways-against-east-texas-am/" target="_blank" rel="noopener">No. 21 Texas State continues winning ways against East Texas A&amp;M</a><p class="snip">The good times kept rolling for the No. 21 Texas State Bobcats as they came away with a gritty 2-0 victory over the East Texas A&amp;M Lions Thursday evening at the Bobcat Soccer Complex. An affair that…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/27/watch-quarterbacking-txst-football-in-the-pac-12-era-brad-jackson-the-current-ep-43.aspx" target="_blank" rel="noopener">WATCH: Quarterbacking TXST Football in the Pac-12 Era | Brad Jackson | The Current Ep. 43</a><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://universitystar.com/36107/soccer/meza-named-to-mac-herman-trophy-watch-list/" target="_blank" rel="noopener">Meza named to Mac Herman Trophy Watch List</a><p class="snip">Following a week full of major victories by No. 21 Texas State Soccer, senior midfielder Victoria Meza found her own way to the spotlight as she was named to the 2026 MAC Hermann Trophy Watch List…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/27/football-the-eat-em-up-radio-show-back-and-we-re-moving-to-wednesday.aspx" target="_blank" rel="noopener">The Eat ’Em Up Radio Show is Back and We’re Moving to WEDNESDAY!</a><p class="snip">SAN MARCOS, Texas – The Eat &#x27;Em Up Radio show featuring Texas State head football coach GJ Kinne is back for another season starting Wednesday, September 2 at Chimy&#x27;s Cerveceria.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 5d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/25/football-jackson-adds-manning-award-watch-list-recognition-to-preseason-accolades.aspx" target="_blank" rel="noopener">Jackson Adds Manning Award Watch List Recognition to Preseason Accolades</a><p class="snip">NEW ORLEANS – Texas State quarterback Brad Jackson was today named to the Manning Award Preseason Watch List, sponsored by the Allstate Sugar Bowl. Created by the Allstate Sugar Bowl, the Manning…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 7d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/25/football-bobcat-trio-named-to-earl-campbell-tyler-rose-award-watch-list.aspx" target="_blank" rel="noopener">Bobcat Trio Named to Earl Campbell Tyler Rose Award Watch List</a><p class="snip">TYLER, Texas – Three Bobcats were recognized on the fourteenth annual Earl Campbell Tyler Rose Award Watch List announced today by the Tyler Area Chamber of Commerce and SPORTyler.</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 7d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/25/watch-txst-football-media-availability-8-25-26.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability - 8.25.26</a><p class="snip">HC GJ Kinne, QB Brad Jackson</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 7d ago</p></article>
-<article class="item"><a class="headline" href="https://universitystar.com/36087/sports/txst-soccer-ranked-in-top-25-for-first-time-in-program-history/" target="_blank" rel="noopener">TXST Soccer ranked in Top 25 for first time in program history</a><p class="snip">For the first time in program history, the Texas State Bobcats were featured in the Top 25 of Division I Women’s Soccer at No. 21 when the Intercollegiate Women’s Soccer Organization and United…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 7d ago</p></article>
-<article class="item"><a class="headline" href="https://universitystar.com/36045/sports/txst-volleyball-looks-ahead-to-a-new-era/" target="_blank" rel="noopener">TXST Volleyball looks ahead to a new era</a><p class="snip">Texas State volleyball enters the 2026 campaign with a roster overhaul coinciding with a move to the Pac-12 Conference under seven-year head coach Sean Huiet. The Bobcats previously played in two…</p><p class="attrib"><span class="tag">📣 All sports</span>The University Star · 7d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/22/watch-txst-football-media-availability-8-22-26.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability - 8.22.26</a><p class="snip">HC GJ Kinne</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 10d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/20/football-jackson-named-to-davey-o-brien-national-quarterback-award-preseason-watch-list.aspx" target="_blank" rel="noopener">Jackson Named to Davey O’Brien National Quarterback Award Preseason Watch List</a><p class="snip">FORT WORTH, Texas – Texas State&#x27;s Brad Jackson has been named to the 2026 Davey O&#x27;Brien National Quarterback Award Preseason Watch List, the Davey O&#x27;Brien Foundation announced Thursday. The honor…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 12d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/19/watch-txst-football-media-availability-8-19-26.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability - 8.19.26</a><p class="snip">HC GJ Kinne, OC Landon Keopple, DB Ryan Nolan</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Texas State Athletics · 13d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/19/athletics-christus-health-and-texas-state-expand-scholarship-support-for-student-athletes.aspx" target="_blank" rel="noopener">CHRISTUS Health and Texas State expand scholarship support for student-athletes</a><p class="snip">SAN MARCOS, Texas -- Texas State University and CHRISTUS Health are expanding their longstanding partnership through a new commitment to support student-athlete scholarships and success.</p><p class="attrib"><span class="tag">📣 All sports</span>Texas State Athletics · 13d ago</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/8/2/athletics-reimagining-game-day-the-vision-powering-txsts-impactful-future.aspx" target="_blank" rel="noopener">Reimagining Game Day: The Vision Powering TXST&#x27;s IMPACTFUL Future</a><p class="snip">SAN MARCOS, Texas – As TXST prepares for its inaugural season in the Pac-12 Conference, the university is entering a new era with a bold vision for the future of the game day experience. Fans will…</p><p class="attrib"><span class="tag">📣 All sports</span>Texas State Athletics · Aug 2</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/7/29/athletics-every-bobcat-makes-an-impact-be-impactful.aspx" target="_blank" rel="noopener">Every Bobcat Makes an Impact. Be IMPACTFUL</a><p class="snip">SAN MARCOS, Texas – As Texas State University prepares to embark on a new era in the Pac-12 Conference, Texas State Athletics is challenging every Bobcat to be IMPACTFUL.</p><p class="attrib"><span class="tag">📣 All sports</span>Texas State Athletics · Jul 29</p></article>
-<article class="item"><a class="headline" href="https://txst.com/news/2026/7/23/womens-basketball-kielsmeier-womens-basketball-announce-texas-state-non-conference-slate.aspx" target="_blank" rel="noopener">Kielsmeier, Women’s Basketball Announce Texas State Non-Conference Slate</a><p class="snip">SAN MARCOS, Texas – Texas State head women&#x27;s basketball coach Chris Kielsmeier unveiled his first non-conference schedule at the Bobcat helm, announcing a slate that will usher TXST into the Pac-12…</p><p class="attrib"><span class="tag tag-wbb">🏀 Women&#x27;s Basketball</span>Texas State Athletics · Jul 23</p></article>
-</details>
-
+  <p class="phead">Texas State · 20 items</p>
+  <a class="watchlink" href="/bobcats/watch/">📺 How to watch this season →</a>
+  <div class="list"><div class="mark"><span>Yesterday morning</span><span>Tue 1 Sep · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/9/1/watch-txst-football-media-availability-vs-texas-090126.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability vs Texas (090126)</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">HC GJ Kinne Media Availability</p><p class="when">1 Sep, 11:33 a.m.</p></article><article class="row"><h3><a class="hl" href="https://universitystar.com/36139/sports/from-student-assistant-to-hitting-director-austin-huml-earns-his-shot/" target="_blank" rel="noopener">From student assistant to hitting director, Austin Huml earns his shot</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Jackson Grettler, Sports Reporter</span></p><p class="nature"><i>Article</i></p><p class="snip">When Texas State senior outfielder Jaquae Stewart learned that Austin Huml, a student assistant coach this past season, was promoted to Director of Hitting Development, he immediately shared the news…</p><p class="when">1 Sep, 10:00 a.m.</p></article><div class="mark"><span>Monday 31 August, evening</span><span>Mon 31 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="https://universitystar.com/36142/sports/the-eyes-of-texas-are-upon-the-cats-txst-opens-at-no-5-texas/" target="_blank" rel="noopener">All Eyes on TXST: ‘Cats to take on No. 5 Texas</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Ayden Oredson, Sports Editor</span></p><p class="nature"><i>Article</i></p><p class="snip">For the first time in nearly a century, Texas State football will travel to Austin, opening its inaugural Pac-12 season against one of the best teams in the nation: the No. 5 Texas Longhorns. Despite…</p><p class="when">31 Aug, 7:00 p.m.</p></article><div class="mark"><span>Monday 31 August, morning</span><span>Mon 31 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://universitystar.com/36116/sports/cats-remains-undefeated-with-blowout-victory-vs-tsu/" target="_blank" rel="noopener">‘Cats remains undefeated with blowout victory vs TSU</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Jackson Grettler, Sports Reporter</span></p><p class="nature"><i>Article</i></p><p class="snip">Victoria Meza scored two goals within the first 20 minutes to help lead the No. 21 Texas State Bobcats to a 5-0 victory against Texas Southern Sunday evening at the Bobcat Soccer Complex. Meza…</p><p class="when">31 Aug, 9:30 a.m.</p></article><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/8/31/mens-basketball-texas-state-to-face-north-texas-in-uslbm-coast-to-coast-challenge.aspx" target="_blank" rel="noopener">Texas State to Face North Texas in USLBM Coast to Coast Challenge</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">FORT WORTH, Texas - Texas State men&#x27;s basketball will face North Texas in the USLBM Coast to Coast Challenge presented by Visit Fort Worth on Sunday, Dec. 13 at Dickies Arena, announced by Total…</p><p class="when">31 Aug, 9:00 a.m.</p></article><div class="mark"><span>Sunday 30 August, evening</span><span>Sun 30 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="https://universitystar.com/36114/sports/txst-volleyball-bounces-back-against-former-sun-belt-rival-louisiana/" target="_blank" rel="noopener">TXST Volleyball bounces back against former Sun Belt rival Louisiana</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Cody Dotson, Sports Contributor</span></p><p class="nature"><i>Article</i></p><p class="snip">After getting swept in their season opener against Oklahoma, the Texas State Bobcats bounced back with a sweep of their own against the Louisiana Ragin’ Cajuns (27-25, 25-16, 25-20) Sunday afternoon…</p><p class="when">30 Aug, 9:32 p.m.</p></article><div class="mark"><span>Sunday 30 August, morning</span><span>Sun 30 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://universitystar.com/36113/football/brad-jackson-earns-spot-on-manning-award-watch-list/" target="_blank" rel="noopener">Brad Jackson earns spot on Manning Award watch list</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Jackson Grettler, Sports Reporter</span></p><p class="nature"><i>Article</i></p><p class="snip">Texas State sophomore quarterback Brad Jackson added another national honor to his growing resume, earning a spot on the Manning Award preseason watch list ahead of the 2026 season. The Manning Award…</p><p class="when">30 Aug, 9:30 a.m.</p></article><div class="mark"><span>Friday 28 August, evening</span><span>Fri 28 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="https://universitystar.com/36110/volleyball/bobcats-fall-to-oklahoma-in-home-opening-sweep/" target="_blank" rel="noopener">Bobcats fall to Oklahoma in home-opener sweep</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Crystal Creek, Sports Reporter</span></p><p class="nature"><i>Article</i></p><p class="snip">The Oklahoma Sooner’s size at the net and pressure from the service line were too much for Texas State to handle in a dominating straight-set sweep (25-19, 25-12, 25-12), spoiling the Bobcats’ season…</p><p class="when">28 Aug, 7:57 p.m.</p></article><div class="mark"><span>Friday 28 August, morning</span><span>Fri 28 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://universitystar.com/36108/sports/no-21-texas-state-continues-winning-ways-against-east-texas-am/" target="_blank" rel="noopener">No. 21 Texas State continues winning ways against East Texas A&amp;M</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Juan Pereira Casanoba, Sports Reporter</span></p><p class="nature"><i>Article</i></p><p class="snip">The good times kept rolling for the No. 21 Texas State Bobcats as they came away with a gritty 2-0 victory over the East Texas A&amp;M Lions Thursday evening at the Bobcat Soccer Complex. An affair that…</p><p class="when">28 Aug, 9:30 a.m.</p></article><div class="mark"><span>Thursday 27 August, morning</span><span>Thu 27 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/8/27/watch-quarterbacking-txst-football-in-the-pac-12-era-brad-jackson-the-current-ep-43.aspx" target="_blank" rel="noopener">WATCH: Quarterbacking TXST Football in the Pac-12 Era | Brad Jackson | The Current Ep. 43</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="when">27 Aug, 2:10 p.m.</p></article><article class="row"><h3><a class="hl" href="https://universitystar.com/36107/soccer/meza-named-to-mac-herman-trophy-watch-list/" target="_blank" rel="noopener">Meza named to Mac Herman Trophy Watch List</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Julia Veilleux, Sports Reporter</span></p><p class="nature"><i>Article</i></p><p class="snip">Following a week full of major victories by No. 21 Texas State Soccer, senior midfielder Victoria Meza found her own way to the spotlight as she was named to the 2026 MAC Hermann Trophy Watch List…</p><p class="when">27 Aug, 10:40 a.m.</p></article><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/8/27/football-the-eat-em-up-radio-show-back-and-we-re-moving-to-wednesday.aspx" target="_blank" rel="noopener">The Eat ’Em Up Radio Show is Back and We’re Moving to WEDNESDAY!</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">SAN MARCOS, Texas – The Eat &#x27;Em Up Radio show featuring Texas State head football coach GJ Kinne is back for another season starting Wednesday, September 2 at Chimy&#x27;s Cerveceria.</p><p class="when">27 Aug, 9:54 a.m.</p></article><div class="mark"><span>Tuesday 25 August, evening</span><span>Tue 25 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/8/25/football-jackson-adds-manning-award-watch-list-recognition-to-preseason-accolades.aspx" target="_blank" rel="noopener">Jackson Adds Manning Award Watch List Recognition to Preseason Accolades</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">NEW ORLEANS – Texas State quarterback Brad Jackson was today named to the Manning Award Preseason Watch List, sponsored by the Allstate Sugar Bowl. Created by the Allstate Sugar Bowl, the Manning…</p><p class="when">25 Aug, 6:51 p.m.</p></article><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/8/25/football-bobcat-trio-named-to-earl-campbell-tyler-rose-award-watch-list.aspx" target="_blank" rel="noopener">Bobcat Trio Named to Earl Campbell Tyler Rose Award Watch List</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">TYLER, Texas – Three Bobcats were recognized on the fourteenth annual Earl Campbell Tyler Rose Award Watch List announced today by the Tyler Area Chamber of Commerce and SPORTyler.</p><p class="when">25 Aug, 6:04 p.m.</p></article><div class="mark"><span>Tuesday 25 August, morning</span><span>Tue 25 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/8/25/watch-txst-football-media-availability-8-25-26.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability - 8.25.26</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">HC GJ Kinne, QB Brad Jackson</p><p class="when">25 Aug, 5:39 p.m.</p></article><article class="row"><h3><a class="hl" href="https://universitystar.com/36087/sports/txst-soccer-ranked-in-top-25-for-first-time-in-program-history/" target="_blank" rel="noopener">TXST Soccer ranked in Top 25 for first time in program history</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Juan Pereira Casanoba, Sports Reporter</span></p><p class="nature"><i>Article</i></p><p class="snip">For the first time in program history, the Texas State Bobcats were featured in the Top 25 of Division I Women’s Soccer at No. 21 when the Intercollegiate Women’s Soccer Organization and United…</p><p class="when">25 Aug, 1:58 p.m.</p></article><article class="row"><h3><a class="hl" href="https://universitystar.com/36045/sports/txst-volleyball-looks-ahead-to-a-new-era/" target="_blank" rel="noopener">TXST Volleyball looks ahead to a new era</a></h3><p class="maker"><span>The University Star</span><span class="d">·</span><span class="by">Crystal Creek, Sports Reporter</span></p><p class="nature"><i>Article</i></p><p class="snip">Texas State volleyball enters the 2026 campaign with a roster overhaul coinciding with a move to the Pac-12 Conference under seven-year head coach Sean Huiet. The Bobcats previously played in two…</p><p class="when">25 Aug, 10:00 a.m.</p></article><div class="mark"><span>Saturday 22 August, morning</span><span>Sat 22 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/8/22/watch-txst-football-media-availability-8-22-26.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability - 8.22.26</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">HC GJ Kinne</p><p class="when">22 Aug, 12:14 p.m.</p></article><div class="mark"><span>Thursday 20 August, morning</span><span>Thu 20 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/8/20/football-jackson-named-to-davey-o-brien-national-quarterback-award-preseason-watch-list.aspx" target="_blank" rel="noopener">Jackson Named to Davey O’Brien National Quarterback Award Preseason Watch List</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">FORT WORTH, Texas – Texas State&#x27;s Brad Jackson has been named to the 2026 Davey O&#x27;Brien National Quarterback Award Preseason Watch List, the Davey O&#x27;Brien Foundation announced Thursday. The honor…</p><p class="when">20 Aug, 10:58 a.m.</p></article><div class="mark"><span>Wednesday 19 August, morning</span><span>Wed 19 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/8/19/watch-txst-football-media-availability-8-19-26.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability - 8.19.26</a></h3><p class="maker"><span>Texas State Athletics</span></p><p class="nature"><i>Article</i></p><p class="snip">HC GJ Kinne, OC Landon Keopple, DB Ryan Nolan</p><p class="when">19 Aug, 1:35 p.m.</p></article></div>
+  <nav class="pager"><span></span><span>Page 1 of 2</span><a href="/bobcats/page/2/">Older →</a></nav>
 </main>
 <footer>
-  <p>Every headline links to its original publisher; snippets are brief excerpts shown with attribution. Full stories belong to their sources.</p>
-  <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12 Conference or any university.</p>
-  <p><a href="../">← Back to the New PAC City homepage</a></p>
+  <p>Every headline links to its original publisher; snippets are brief excerpts shown with
+  attribution. Full stories belong to their sources.</p>
+  <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12
+  Conference or any university. Gathering 52 sources. <a href="/about/">About this site</a>.</p>
 </footer>
 </body>
 </html>

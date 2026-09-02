@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Conference — New PAC City</title>
+<meta name="description" content="An independent fan site about the new and improved Pac-12.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230a4d68'/%3E%3Ctext x='32' y='45' font-family='Arial' font-size='28' font-weight='bold' fill='white' text-anchor='middle'%3ENP%3C/text%3E%3C/svg%3E">
+<meta property="og:title" content="The Conference — New PAC City">
+<meta property="og:description" content="An independent fan site about the new and improved Pac-12.">
+<meta property="og:type" content="website">
+<style>
+:root {
+  --paper: #FBFBFA; --ink: #101112; --mid: #3F4245; --soft: #5F6265;
+  --rule: #D6D6D4; --hair: #E6E6E4; --house: #075E66;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --paper: #121416; --ink: #ECEDEE; --mid: #C2C6C8; --soft: #9BA1A3;
+          --rule: #2E3235; --hair: #212528; --house: #5FD3DC; }
+}
+* { box-sizing: border-box; margin: 0; }
+html { -webkit-text-size-adjust: 100%; }
+body { background: var(--paper); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+       font-size: 1rem; line-height: 1.5; }
+a { color: var(--house); }
+a:focus-visible, :focus-visible { outline: 2px solid var(--house); outline-offset: 2px; }
+
+.mast { max-width: 46rem; margin: 0 auto; padding: 1.1rem 1rem 0.7rem;
+        border-bottom: 3px double var(--ink); }
+.word { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 1.5rem;
+        letter-spacing: 0.02em; text-transform: uppercase; line-height: 1.1; }
+.word a { color: var(--ink); text-decoration: none; }
+.sub { font-size: 0.95rem; line-height: 1.45; color: var(--mid); margin-top: 0.3rem; }
+.ed { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.75rem; color: var(--soft);
+      margin-top: 0.45rem; letter-spacing: 0.02em; }
+
+.scope { max-width: 46rem; margin: 0 auto; padding: 0.6rem 1rem;
+         border-bottom: 1px solid var(--rule);
+         display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.scope a, .scope span { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.82rem;
+  text-transform: uppercase; letter-spacing: 0.04em; border: 1px solid var(--rule);
+  color: var(--mid); text-decoration: none; padding: 0.55rem 0.6rem; line-height: 1;
+  min-height: 2.75rem; display: inline-flex; align-items: center; }
+.scope a:hover { border-color: var(--house); color: var(--house); }
+.scope [aria-current="page"] { background: var(--ink); color: var(--paper);
+  border-color: var(--ink); font-weight: 700; }
+
+main { max-width: 46rem; margin: 0 auto; padding: 0 1rem 2.5rem; }
+.phead { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.78rem; letter-spacing: 0.04em;
+  color: var(--soft); padding: 0.75rem 0 0.6rem;
+  border-bottom: 1px solid var(--rule); }
+.watchlink { display: block; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.75rem;
+  text-transform: uppercase; letter-spacing: 0.06em; padding: 0.7rem 0;
+  border-bottom: 1px solid var(--rule); text-decoration: none; }
+.watchlink:hover { text-decoration: underline; }
+
+.mark { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.82rem; letter-spacing: 0.06em;
+  color: var(--house); font-weight: 700;
+  padding: 1rem 0 0.45rem; border-bottom: 1px solid var(--ink);
+  display: flex; justify-content: space-between; gap: 1rem; }
+
+.row { padding: 0.7rem 0; border-bottom: 1px solid var(--hair); }
+.row h3 { font-size: 1.02rem; font-weight: 600; line-height: 1.35;
+  letter-spacing: -0.004em; }
+.hl { color: var(--ink); text-decoration: none; }
+.hl:hover { color: var(--house); text-decoration: underline; }
+.maker { font-size: 0.82rem; color: var(--mid); margin-top: 0.3rem; line-height: 1.5; }
+.maker .sch { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; text-transform: uppercase;
+  font-size: 0.78rem; letter-spacing: 0.05em; color: var(--ink); text-decoration: none;
+  border-bottom: 1px solid var(--rule); }
+.maker .sch:hover { color: var(--house); border-bottom-color: var(--house); }
+.maker .d { color: var(--rule); padding: 0 0.3rem; }
+.maker .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.72rem; color: var(--soft); }
+.nature { margin-top: 0.4rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.nature i { font-style: normal; font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.78rem;
+  border: 1px solid var(--rule); color: var(--mid); padding: 0.1rem 0.4rem;
+  letter-spacing: 0.02em; }
+.snip { font-family: Georgia, "Times New Roman", serif; font-size: 0.94rem; line-height: 1.55;
+  color: var(--mid); margin-top: 0.4rem; }
+.when { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.72rem; color: var(--soft); margin-top: 0.35rem; }
+.empty { color: var(--mid); padding: 1.6rem 0; font-size: 0.95rem; }
+
+.pager { border-top: 3px double var(--ink); margin-top: 0.4rem; padding: 0.8rem 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.78rem; color: var(--soft);
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+.pager a { text-decoration: none; padding: 0.5rem 0; }
+.pager a:hover { text-decoration: underline; }
+
+footer { max-width: 46rem; margin: 0 auto; padding: 0 1rem 3rem;
+  color: var(--soft); font-size: 0.8rem; line-height: 1.6; }
+footer p { margin-top: 0.5rem; }
+</style>
+</head>
+<body>
+<header class="mast">
+  <p class="word"><a href="/">New PAC City</a></p>
+  
+  <p class="ed">Latest story Wednesday 2 September, 12:00 p.m. · refreshed about every 6 hours</p>
+</header>
+<nav class="scope" aria-label="Sections"><a href="/">All</a><a href="/broncos/">Broncos</a><a href="/rams/">Rams</a><a href="/fsudogs/">Bulldogs</a><a href="/zags/">Zags</a><a href="/beavs/">Beavs</a><a href="/aztecs/">Aztecs</a><a href="/bobcats/">Bobcats</a><a href="/aggies/">Aggies</a><a href="/cougs/">Cougs</a><span aria-current="page">Pac-12</span></nav>
+<main>
+  <p class="phead">The Conference · 18 items</p>
+  
+  <div class="list"><div class="mark"><span>This morning</span><span>Wed 2 Sep · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/san-diego-state-football/91505/aztecs-wrap-up-preparations-for-game-against-portland-state" target="_blank" rel="noopener">AZTECS PREPARE FOR SEASON OPENER AGAINST PORTLAND STATE VIKINGS</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Jeffrey Carter</span><span class="d">·</span><span class="t">12:00 p.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/podcast/91565/mountain-west-pac-12-podcast-week-0-recap-week-1-preview-north-dakota-state-unlv-hawaii-boise-new-mexico-texas-state" target="_blank" rel="noopener">MW/PAC-12 Week 0 Recap + Week 1 Preview! NDSU rolls to 1st win, UNLV &amp; Hawaii stumble! Top storyline to watch for EVERY team’s season opener! HP Ep. #168 OUT NOW!</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Jack Thompson</span><span class="d">·</span><span class="t">11:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/san-jose-state-spartans-football/91576/high-medium-low-what-a-teams-non-conference-tiers-actually-measure" target="_blank" rel="noopener">High medium low: what a team’s non-conference tiers actually measure opening a season</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Vic Aquino</span><span class="d">·</span><span class="t">10:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/pac-12-discussion/91125/pac-12-conference-football-championship-season-preview" target="_blank" rel="noopener">The Pac-12 spent years rebuilding; now the hard work begins.</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Mike Wittmann</span><span class="d">·</span><span class="t">9:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/bowl-predictions/91235/mountain-west-pac-12-bowl-projections-week-1-new-mexico-lobos" target="_blank" rel="noopener">Mountain West &amp; Pac-12 Bowl Projections Week 0: New Mexico winning the MW?</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Mike Wittmann</span><span class="d">·</span><span class="t">8:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/air-force-falcons-football/91548/air-force-football-season-simulation-with-ea-sports-college-football-27" target="_blank" rel="noopener">Air Force Football: Season Simulation with EA Sports College Football 27</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Sean OToole</span><span class="d">·</span><span class="t">7:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/boise-state-broncos-football/91594/mountaintop-view-9-2-26-nevada-athletics-utah-state-unis-utep-throwbacks" target="_blank" rel="noopener">Mountaintop View 9-2-26: Nevada athletics, Utah State unis, UTEP throwbacks</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Adam Evarts</span><span class="d">·</span><span class="t">6:00 a.m.</span></p></article><div class="mark"><span>Yesterday morning</span><span>Tue 1 Sep · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/north-dakota-state-football/91508/week-zero-ndsu-mw-bowl-bound-fbs-debut" target="_blank" rel="noopener">After Week Zero Success, Does NDSU Have Recipe For Bowl-bound FBS Debut?</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Dan Allison</span><span class="d">·</span><span class="t">10:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/new-mexico-lobos-football/91342/no-jack-layne-no-surrender-the-lobos-still-have-the-quarterbacks-to-win" target="_blank" rel="noopener">No Jack Layne, No Surrender: The Lobos Still Have the Quarterbacks to Win!</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Roger A Holien</span><span class="d">·</span><span class="t">9:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/the-good-the-bad-the-ugly/91418/week-zero-college-football-ndsu-san-jose-state-hawaii-unlv" target="_blank" rel="noopener">The Good, the Bad, the Ugly: Week Zero</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Zach Ballard</span><span class="d">·</span><span class="t">8:00 a.m.</span></p></article><div class="mark"><span>Monday 31 August, evening</span><span>Mon 31 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="http://pac-12.com/news/2026/9/1/womens-soccer-pac-12-players-of-the-week-sept-1-2026.aspx" target="_blank" rel="noopener">Pac-12 Players of the Week - Sept. 1, 2026</a></h3><p class="maker"><span>Pac-12 Conference</span><span class="d">·</span><span class="t">4:00 a.m.</span></p></article><div class="mark"><span>Monday 24 August, evening</span><span>Mon 24 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="http://pac-12.com/news/2026/8/25/womens-soccer-pac-12-players-of-the-week-aug-25-2026.aspx" target="_blank" rel="noopener">Pac-12 Players of the Week - Aug. 25, 2026</a></h3><p class="maker"><span>Pac-12 Conference</span><span class="d">·</span><span class="t">4:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="http://pac-12.com/news/2026/8/25/womens-volleyball-pac-12-unveils-2026-volleyball-preseason-poll-impact-list.aspx" target="_blank" rel="noopener">Pac-12 Unveils 2026 Volleyball Preseason Poll, Impact List</a></h3><p class="maker"><span>Pac-12 Conference</span><span class="d">·</span><span class="t">2:00 a.m.</span></p></article><div class="mark"><span>Monday 17 August, evening</span><span>Mon 17 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="http://pac-12.com/news/2026/8/18/trio-shines-in-first-week-of-womens-soccer-competition.aspx" target="_blank" rel="noopener">Trio Shines in First Week of Women’s Soccer Competition</a></h3><p class="maker"><span>Pac-12 Conference</span><span class="d">·</span><span class="t">4:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="http://pac-12.com/news/2026/8/17/pac-12-unveils-2026-mens-soccer-preseason-poll-impact-list.aspx" target="_blank" rel="noopener">Pac-12 Unveils 2026 Men’s Soccer Preseason Poll, Impact List</a></h3><p class="maker"><span>Pac-12 Conference</span><span class="d">·</span><span class="t">3:00 a.m.</span></p></article><div class="mark"><span>Monday 10 August, evening</span><span>Mon 10 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="http://pac-12.com/news/2026/8/11/pac-12-unveils-2026-womens-soccer-preseason-poll-impact-list.aspx" target="_blank" rel="noopener">Pac-12 Unveils 2026 Women’s Soccer Preseason Poll, Impact List</a></h3><p class="maker"><span>Pac-12 Conference</span><span class="d">·</span><span class="t">2:00 a.m.</span></p></article><div class="mark"><span>Sunday 9 August, evening</span><span>Sun 9 Aug · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="http://pac-12.com/news/2026/8/10/general-Pac-12-Fall-Olympic-Sport-Broadcasts-to-be-Available-for-Free-on-YouTube.aspx" target="_blank" rel="noopener">Fall Olympic Sport Broadcasts Available Free on YouTube</a></h3><p class="maker"><span>Pac-12 Conference</span><span class="d">·</span><span class="t">3:00 a.m.</span></p></article><div class="mark"><span>Monday 20 July, morning</span><span>Mon 20 Jul · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="http://pac-12.com/news/2026/7/20/football-2026-pac-12-preseason-watch-list-central.aspx" target="_blank" rel="noopener">2026 Pac-12 Football Preseason Watch List Central</a></h3><p class="maker"><span>Pac-12 Conference</span><span class="d">·</span><span class="t">6:14 a.m.</span></p></article></div>
+  
+</main>
+<footer>
+  <p>Every headline links to its original publisher; snippets are brief excerpts shown with
+  attribution. Full stories belong to their sources.</p>
+  <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12
+  Conference or any university. Gathering 52 sources. <a href="/about/">About this site</a>.</p>
+</footer>
+</body>
+</html>

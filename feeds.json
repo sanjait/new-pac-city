@@ -2,8 +2,6 @@
   "site_name": "New PAC City",
   "tagline": "The home for news on the New PAC",
   "refresh_hours": 6,
-  "max_items_per_team": 8,
-  "max_items_conference": 10,
   "max_item_age_days": 45,
   "snippet_max_chars": 200,
   "top_stories_per_team": 3,
@@ -518,5 +516,7 @@
     }
   ],
   "output_dir": "docs",
-  "site_url": "https://newpac.city/"
+  "site_url": "https://newpac.city/",
+  "subhead": "An independent fan site about the new and improved Pac-12.",
+  "items_per_page": 20
 }

@@ -3,135 +3,112 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>New PAC City — The home for news on the New PAC</title>
-<meta name="description" content="Latest New PAC City headlines: news for every new PAC-12 team, updated automatically, always linking to the original source.">
+<title>New PAC City</title>
+<meta name="description" content="An independent fan site about the new and improved Pac-12.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230a4d68'/%3E%3Ctext x='32' y='45' font-family='Arial' font-size='28' font-weight='bold' fill='white' text-anchor='middle'%3ENP%3C/text%3E%3C/svg%3E">
-<meta property="og:title" content="New PAC City — The home for news on the New PAC">
-<meta property="og:description" content="The latest football, men's basketball, and women's basketball news for all nine new Pac-12 schools — refreshed automatically, always linking to the original source.">
+<meta property="og:title" content="New PAC City">
+<meta property="og:description" content="An independent fan site about the new and improved Pac-12.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://newpac.city/">
-<meta name="twitter:card" content="summary">
 <style>
 :root {
-  --bg: #f5f4f0; --card: #ffffff; --ink: #1a1a1a; --muted: #6b6b6b;
-  --accent: #0a4d68; --line: #e3e1da; --tag-bg: #eef2f5;
+  --paper: #FBFBFA; --ink: #101112; --mid: #3F4245; --soft: #5F6265;
+  --rule: #D6D6D4; --hair: #E6E6E4; --house: #075E66;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --bg: #14161a; --card: #1e2126; --ink: #eceae6; --muted: #9a9a94;
-          --accent: #7fc3dd; --line: #2c3038; --tag-bg: #262b33; }
+  :root { --paper: #121416; --ink: #ECEDEE; --mid: #C2C6C8; --soft: #9BA1A3;
+          --rule: #2E3235; --hair: #212528; --house: #5FD3DC; }
 }
 * { box-sizing: border-box; margin: 0; }
-body { background: var(--bg); color: var(--ink);
-  font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-main { max-width: 720px; margin: 0 auto; padding: 8px 16px 40px; }
-h2 { font-size: 20px; border-bottom: 1px solid var(--line); padding-bottom: 6px; margin-top: 26px; }
-.item { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
-  padding: 12px 14px; margin-top: 10px; }
-.headline { color: var(--ink); font-weight: 600; text-decoration: none; display: block; }
-.headline:hover { color: var(--accent); }
-.snip { color: var(--muted); font-size: 14px; margin-top: 4px; }
-.attrib { color: var(--muted); font-size: 12.5px; margin-top: 8px; }
-.tag { background: var(--tag-bg); color: var(--accent); border-radius: 4px;
-  padding: 1px 6px; margin-right: 8px; font-size: 11.5px; font-weight: 600; }
-.tag-big { background: #f4e8c8; color: #7a5c00; }
-.tag-medium { background: #e8e3f2; color: #4b3f6b; }
-@media (prefers-color-scheme: dark) { .tag-big { background: #3d3420; color: #e8c96a; }
-                                      .tag-medium { background: #2f2a3d; color: #bfb0e0; } }
-.follow { font-size: 13px; color: var(--muted); margin: 8px 2px 0; }
-.empty { color: var(--muted); font-style: italic; padding: 10px 2px; }
-details.more { margin-top: 10px; }
-details.more summary { cursor: pointer; color: var(--muted); font-size: 13.5px; padding: 4px 2px; }
-details.more summary:hover { color: var(--accent); }
-footer { max-width: 720px; margin: 0 auto; padding: 0 16px 48px; color: var(--muted); font-size: 12.5px; }
-footer p { margin-top: 6px; }
-footer a { color: var(--accent); }
-a:focus-visible, .headline:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+html { -webkit-text-size-adjust: 100%; }
+body { background: var(--paper); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+       font-size: 1rem; line-height: 1.5; }
+a { color: var(--house); }
+a:focus-visible, :focus-visible { outline: 2px solid var(--house); outline-offset: 2px; }
 
-header { padding: 28px 16px 12px; max-width: 720px; margin: 0 auto; }
-h1 { font-size: 30px; letter-spacing: -0.5px; }
-h1 .pac { color: var(--accent); }
-.tagline { color: var(--muted); margin-top: 2px; }
-.updated { color: var(--muted); font-size: 13px; margin-top: 8px; }
-.lead { border-width: 2px; padding: 18px 18px; margin-top: 18px; }
-.lead .headline { font-size: 22px; line-height: 1.3; }
-.teamline { font-size: 12.5px; color: var(--muted); margin-bottom: 4px; }
-.teamline a { color: var(--ink); font-weight: 600; text-decoration: none; }
-.dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; }
-.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 26px; }
-@media (max-width: 540px) { .grid { grid-template-columns: 1fr; } }
-.tile { background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
-.bar { display: flex; height: 5px; }
-.bar b { flex: 7; background: var(--p); }
-.bar i { flex: 3; background: var(--s); }
-.tbody { padding: 11px 13px; }
-.tname { display: flex; justify-content: space-between; align-items: baseline; }
-.tname a { font-size: 15.5px; font-weight: 700; text-decoration: none; }
-.tile .slug { color: var(--accent); font-size: 12px; font-weight: 600; }
-.hl { margin-top: 7px; font-size: 13.5px; font-weight: 600; line-height: 1.35; }
-.hl a { color: var(--ink); text-decoration: none; }
-.hl a:hover { text-decoration: underline; }
-.src { color: var(--muted); font-size: 11.5px; margin-top: 3px; }
-.tile .more { display: inline-block; font-size: 12px; margin-top: 7px; text-decoration: none; }
-.wash .tbody { background: color-mix(in srgb, var(--p) 7%, var(--card)); }
-.wash .tname a { color: var(--pt); }
-.wash .more { color: var(--pt); }
-.empty-tile { color: var(--muted); font-style: italic; font-size: 13px; margin-top: 7px; }
-.team-broncos { --p: #0033A0; --s: #D64309; --pt: #0033A0; }
-.team-rams { --p: #1E4D2B; --s: #C8C372; --pt: #1E4D2B; }
-.team-fsudogs { --p: #C41230; --s: #13284C; --pt: #C41230; }
-.team-zags { --p: #041E42; --s: #C8102E; --pt: #041E42; }
-.team-beavs { --p: #D73F09; --s: #000000; --pt: #C83B08; }
-.team-aztecs { --p: #A6192E; --s: #000000; --pt: #A6192E; }
-.team-bobcats { --p: #501214; --s: #AC9155; --pt: #501214; }
-.team-aggies { --p: #00263A; --s: #8A8D8F; --pt: #00263A; }
-.team-cougs { --p: #A60F2D; --s: #4D4D4D; --pt: #A60F2D; }
-@media (prefers-color-scheme: dark) {
-  .team-broncos { --p: #6491E4; --s: #F0632B; --pt: #6491E4; }
-  .team-rams { --p: #47A369; --s: #C8C372; --pt: #47A369; }
-  .team-fsudogs { --p: #EB6074; --s: #6E93C8; --pt: #EB6074; }
-  .team-zags { --p: #6C93CB; --s: #E04A5F; --pt: #6C93CB; }
-  .team-beavs { --p: #FF6A2B; --s: #B4B2A9; --pt: #FF6A2B; }
-  .team-aztecs { --p: #DE6F7F; --s: #B4B2A9; --pt: #DE6F7F; }
-  .team-bobcats { --p: #C38185; --s: #C4AC72; --pt: #C38185; }
-  .team-aggies { --p: #6397BA; --s: #8A8D8F; --pt: #6397BA; }
-  .team-cougs { --p: #DC7082; --s: #9A9A94; --pt: #DC7082; }
-}
+.mast { max-width: 46rem; margin: 0 auto; padding: 1.1rem 1rem 0.7rem;
+        border-bottom: 3px double var(--ink); }
+.word { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 1.5rem;
+        letter-spacing: 0.02em; text-transform: uppercase; line-height: 1.1; }
+.word a { color: var(--ink); text-decoration: none; }
+.sub { font-size: 0.95rem; line-height: 1.45; color: var(--mid); margin-top: 0.3rem; }
+.ed { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.75rem; color: var(--soft);
+      margin-top: 0.45rem; letter-spacing: 0.02em; }
+
+.scope { max-width: 46rem; margin: 0 auto; padding: 0.6rem 1rem;
+         border-bottom: 1px solid var(--rule);
+         display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.scope a, .scope span { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.82rem;
+  text-transform: uppercase; letter-spacing: 0.04em; border: 1px solid var(--rule);
+  color: var(--mid); text-decoration: none; padding: 0.55rem 0.6rem; line-height: 1;
+  min-height: 2.75rem; display: inline-flex; align-items: center; }
+.scope a:hover { border-color: var(--house); color: var(--house); }
+.scope [aria-current="page"] { background: var(--ink); color: var(--paper);
+  border-color: var(--ink); font-weight: 700; }
+
+main { max-width: 46rem; margin: 0 auto; padding: 0 1rem 2.5rem; }
+.phead { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.78rem; letter-spacing: 0.04em;
+  color: var(--soft); padding: 0.75rem 0 0.6rem;
+  border-bottom: 1px solid var(--rule); }
+.watchlink { display: block; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.75rem;
+  text-transform: uppercase; letter-spacing: 0.06em; padding: 0.7rem 0;
+  border-bottom: 1px solid var(--rule); text-decoration: none; }
+.watchlink:hover { text-decoration: underline; }
+
+.mark { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.82rem; letter-spacing: 0.06em;
+  color: var(--house); font-weight: 700;
+  padding: 1rem 0 0.45rem; border-bottom: 1px solid var(--ink);
+  display: flex; justify-content: space-between; gap: 1rem; }
+
+.row { padding: 0.7rem 0; border-bottom: 1px solid var(--hair); }
+.row h3 { font-size: 1.02rem; font-weight: 600; line-height: 1.35;
+  letter-spacing: -0.004em; }
+.hl { color: var(--ink); text-decoration: none; }
+.hl:hover { color: var(--house); text-decoration: underline; }
+.maker { font-size: 0.82rem; color: var(--mid); margin-top: 0.3rem; line-height: 1.5; }
+.maker .sch { font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; text-transform: uppercase;
+  font-size: 0.78rem; letter-spacing: 0.05em; color: var(--ink); text-decoration: none;
+  border-bottom: 1px solid var(--rule); }
+.maker .sch:hover { color: var(--house); border-bottom-color: var(--house); }
+.maker .d { color: var(--rule); padding: 0 0.3rem; }
+.maker .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.72rem; color: var(--soft); }
+.nature { margin-top: 0.4rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.nature i { font-style: normal; font-family: "Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 0.78rem;
+  border: 1px solid var(--rule); color: var(--mid); padding: 0.1rem 0.4rem;
+  letter-spacing: 0.02em; }
+.snip { font-family: Georgia, "Times New Roman", serif; font-size: 0.94rem; line-height: 1.55;
+  color: var(--mid); margin-top: 0.4rem; }
+.when { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.72rem; color: var(--soft); margin-top: 0.35rem; }
+.empty { color: var(--mid); padding: 1.6rem 0; font-size: 0.95rem; }
+
+.pager { border-top: 3px double var(--ink); margin-top: 0.4rem; padding: 0.8rem 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.78rem; color: var(--soft);
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+.pager a { text-decoration: none; padding: 0.5rem 0; }
+.pager a:hover { text-decoration: underline; }
+
+footer { max-width: 46rem; margin: 0 auto; padding: 0 1rem 3rem;
+  color: var(--soft); font-size: 0.8rem; line-height: 1.6; }
+footer p { margin-top: 0.5rem; }
 </style>
 </head>
 <body>
-<header>
-  <h1>New <span class="pac">PAC</span> City</h1>
-  <p class="tagline">The home for news on the New PAC</p>
-  <p class="updated">Updated Sep 02, 2026 · 16:35 UTC · refreshes about every 6 hours</p>
+<header class="mast">
+  <p class="word"><a href="/">New PAC City</a></p>
+  <p class="sub">An independent fan site about the new and improved Pac-12.</p>
+  <p class="ed">Latest story Wednesday 2 September, 2:00 p.m. · refreshed about every 6 hours</p>
 </header>
+<nav class="scope" aria-label="Sections"><span aria-current="page">All</span><a href="/broncos/">Broncos</a><a href="/rams/">Rams</a><a href="/fsudogs/">Bulldogs</a><a href="/zags/">Zags</a><a href="/beavs/">Beavs</a><a href="/aztecs/">Aztecs</a><a href="/bobcats/">Bobcats</a><a href="/aggies/">Aggies</a><a href="/cougs/">Cougs</a><a href="/pac12/">Pac-12</a></nav>
 <main>
-<div class="grid">
-<div class="tile wash team-broncos" id="boise-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="broncos/">Boise State</a><span class="slug">/broncos</span></div><p class="hl"><a href="https://broncosports.com/news/2026/9/2/football-boise-state-reveals-north-end-zone-branded-murals" target="_blank" rel="noopener">Boise State Reveals North End Zone Branded Murals</a></p><p class="src">Boise State Athletics · 2h ago</p><a class="more" href="broncos/">32 more Broncos stories →</a></div></div>
-<div class="tile wash team-rams" id="colorado-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="rams/">Colorado State</a><span class="slug">/rams</span></div><p class="hl"><a href="https://csurams.com/news/2026/9/2/mens-basketball-colorado-state-wyoming-extend-rivalry-across-four-sports" target="_blank" rel="noopener">Colorado State, Wyoming Extend Rivalry Across Four Sports</a></p><p class="src">Colorado State Athletics · just now</p><a class="more" href="rams/">21 more Rams stories →</a></div></div>
-<div class="tile wash team-fsudogs" id="fresno-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="fsudogs/">Fresno State</a><span class="slug">/fsudogs</span></div><p class="hl"><a href="https://redwavereport.podbean.com/e/fresno-state-takes-on-usc/" target="_blank" rel="noopener">Fresno State Takes On USC</a></p><p class="src">The Red Wave Report · 2h ago</p><a class="more" href="fsudogs/">42 more Bulldogs stories →</a></div></div>
-<div class="tile wash team-zags" id="gonzaga"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="zags/">Gonzaga</a><span class="slug">/zags</span></div><p class="hl"><a href="http://www.spokesman.com/stories/2026/sep/01/gonzaga-returning-to-climate-pledge-arena-for-nonl/" target="_blank" rel="noopener">Gonzaga returning to Climate Pledge Arena for nonleague games in 2026-27 and 2027-28</a></p><p class="src">The Spokesman-Review · 1d ago</p><a class="more" href="zags/">39 more Zags stories →</a></div></div>
-<div class="tile wash team-beavs" id="oregon-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="beavs/">Oregon State</a><span class="slug">/beavs</span></div><p class="hl"><a href="https://www.oregonlive.com/beavers/2026/09/how-backup-qb-maalik-murphy-became-godsend-to-oregon-states-braden-atkinson.html" target="_blank" rel="noopener">Maalik Murphy loses QB competition but wins respect at Oregon State</a></p><p class="src">The Oregonian · 1h ago</p><a class="more" href="beavs/">48 more Beavs stories →</a></div></div>
-<div class="tile wash team-aztecs" id="san-diego-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="aztecs/">San Diego State</a><span class="slug">/aztecs</span></div><p class="hl"><a href="https://sonsofmontezuma.libsyn.com/347-is-sdsu-favored-too-much-san-diego-state-vs-portland-state-week-1-preview" target="_blank" rel="noopener">#347: Is SDSU Favored Too Much? San Diego State vs Portland State Week-1 Preview</a></p><p class="src">Sons of Montezuma · 1d ago</p><a class="more" href="aztecs/">44 more Aztecs stories →</a></div></div>
-<div class="tile wash team-bobcats" id="texas-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="bobcats/">Texas State</a><span class="slug">/bobcats</span></div><p class="hl"><a href="https://txst.com/news/2026/9/1/watch-txst-football-media-availability-vs-texas-090126.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability vs Texas (090126)</a></p><p class="src">Texas State Athletics · 22h ago</p><a class="more" href="bobcats/">23 more Bobcats stories →</a></div></div>
-<div class="tile wash team-aggies" id="utah-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="aggies/">Utah State</a><span class="slug">/aggies</span></div><p class="hl"><a href="https://utahstateaggies.com/news/2026/8/31/football-new-era-utah-state-announces-jim-laub-family-stadium.aspx" target="_blank" rel="noopener">New Era: Utah State Announces Jim Laub Family Stadium</a></p><p class="src">Utah State Athletics · 1d ago</p><a class="more" href="aggies/">23 more Aggies stories →</a></div></div>
-<div class="tile wash team-cougs" id="washington-state"><div class="bar"><b></b><i></i></div><div class="tbody"><div class="tname"><a href="cougs/">Washington State</a><span class="slug">/cougs</span></div><p class="hl"><a href="https://wsucougars.com/news/2026/09/1/cougar-football-hour-returns-to-zeppoz-moves-to-wednesday-nights" target="_blank" rel="noopener">Cougar Football Hour Returns to Zeppoz, Moves to Wednesday Nights</a></p><p class="src">Washington State Athletics · 19h ago</p><a class="more" href="cougs/">99 more Cougs stories →</a></div></div>
-</div>
-<section id="conference"><h2>Around the Conference</h2>
-<article class="item"><a class="headline" href="https://www.mwcconnection.com/bowl-predictions/91235/mountain-west-pac-12-bowl-projections-week-1-new-mexico-lobos" target="_blank" rel="noopener">Mountain West &amp; Pac-12 Bowl Projections Week 0: New Mexico winning the MW?</a><p class="snip">The time has come. The 2026 season is upon us. We are past the time of watch lists and preseason awards and have entered the time of bowl projections. Our team at Mountain West Connection will be…</p><p class="attrib">Mountain West Connection · 1h ago</p></article>
-<article class="item"><a class="headline" href="https://www.mwcconnection.com/air-force-falcons-football/91548/air-force-football-season-simulation-with-ea-sports-college-football-27" target="_blank" rel="noopener">Air Force Football: Season Simulation with EA Sports College Football 27</a><p class="snip">The wait is over! College Football has officially kicked off, with nearly half of the Mountain West Conference loggings games in Week Zero. Unfortunately for three of the four teams to play got an…</p><p class="attrib"><span class="tag tag-football">🏈 Football</span>Mountain West Connection · 2h ago</p></article>
-<article class="item"><a class="headline" href="https://www.mwcconnection.com/boise-state-broncos-football/91594/mountaintop-view-9-2-26-nevada-athletics-utah-state-unis-utep-throwbacks" target="_blank" rel="noopener">Mountaintop View 9-2-26: Nevada athletics, Utah State unis, UTEP throwbacks</a><p class="snip">Here’s how much each Nevada Wolf Pack head coach will make during 2026-27 season Nevada publicized this year’s payroll for its coaches. Boise State officials confirm stance on new 5-for-5 battle For…</p><p class="attrib">Mountain West Connection · 3h ago</p></article>
-<article class="item"><a class="headline" href="https://www.mwcconnection.com/north-dakota-state-football/91508/week-zero-ndsu-mw-bowl-bound-fbs-debut" target="_blank" rel="noopener">After Week Zero Success, Does NDSU Have Recipe For Bowl-bound FBS Debut?</a><p class="snip">Saturday, Aug. 29, was a historic day in the city of Fargo: FBS football has finally arrived in the state of North Dakota. A picturesque afternoon turned into a picturesque evening thanks to a 33-7…</p><p class="attrib">Mountain West Connection · 23h ago</p></article>
-<article class="item"><a class="headline" href="https://www.mwcconnection.com/new-mexico-lobos-football/91342/no-jack-layne-no-surrender-the-lobos-still-have-the-quarterbacks-to-win" target="_blank" rel="noopener">No Jack Layne, No Surrender: The Lobos Still Have the Quarterbacks to Win!</a><p class="snip">Losing their record-setting starter hurts, but Luke Moga, Toa Fa’avae, James Laubstein and Gabriel Motschenbacher give New Mexico the talent and versatility to remain a serious contender in the new…</p><p class="attrib">Mountain West Connection · 1d ago</p></article>
-<article class="item"><a class="headline" href="https://www.mwcconnection.com/the-good-the-bad-the-ugly/91418/week-zero-college-football-ndsu-san-jose-state-hawaii-unlv" target="_blank" rel="noopener">The Good, the Bad, the Ugly: Week Zero</a><p class="snip">While Week Zero may not have had the marquee game that draws in the casual fan, most of the games were entertaining to watch, and we learned quite a bit about the Mountain West teams that competed…</p><p class="attrib">Mountain West Connection · 1d ago</p></article>
-<article class="item"><a class="headline" href="https://www.mwcconnection.com/general/90918/get-the-best-of-mountain-west-connection-on-the-new-sb-nation-app" target="_blank" rel="noopener">Get the best of Mountain West Connection on the new SB Nation app</a><p class="snip">It’s a big day for Mountain West Connection. Today, the SB Nation app is live, and it’s the best way to follow the Mountain West. You can download it by searching SB Nation for iOS or Android. A year…</p><p class="attrib">Mountain West Connection · 1d ago</p></article>
-<article class="item"><a class="headline" href="https://www.mwcconnection.com/mountain-west-news/91462/mountain-west-pac-12-football-basketball-fresno-air-force-wyoming" target="_blank" rel="noopener">Mountaintop View 9-1-26</a><p class="snip">Fresno State Bulldogs to start Jayden Mandal at QB in season-opener at USC The local product from Clovis will be QB1 for the Bulldogs against USC this weekend. Mandal missed all of last season with…</p><p class="attrib">Mountain West Connection · 1d ago</p></article>
-<article class="item"><a class="headline" href="http://pac-12.com/news/2026/9/1/womens-soccer-pac-12-players-of-the-week-sept-1-2026.aspx" target="_blank" rel="noopener">Pac-12 Players of the Week - Sept. 1, 2026</a><p class="snip">The Pac-12 today announced its Players of the Week for Women&#x27;s Soccer, Men&#x27;s Soccer and Volleyball.</p><p class="attrib">Pac-12 Conference · 1d ago</p></article>
-<article class="item"><a class="headline" href="https://www.mwcconnection.com/pac-12-discussion/91443/pac-12-football-champions-2025-season-boise-state" target="_blank" rel="noopener">MWC Reacts Survey: Who will win the Pac-12?</a><p class="snip">Welcome to SB Nation Reacts, a survey of fans across the NCAA. Throughout the year we ask questions of the most plugged-in Mountain West fans and fans across the country. Sign up here to participate…</p><p class="attrib">Mountain West Connection · 1d ago</p></article>
-</section>
+  <p class="phead">All nine schools · 20 items</p>
+  
+  <div class="list"><div class="mark"><span>This morning</span><span>Wed 2 Sep · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://csurams.com/news/2026/9/2/ramwire-enshrined-gallup-excited-about-what-comes-next" target="_blank" rel="noopener">Enshrined: Gallup Excited About What Comes Next</a></h3><p class="maker"><a class="sch" href="/rams/">Colorado State</a><span class="d">·</span><span>Colorado State Athletics</span><span class="d">·</span><span class="t">2:00 p.m.</span></p></article><article class="row"><h3><a class="hl" href="https://osubeavers.com/news/2026/9/2/oregon-state-football-defense-meets-the-media-september-2-2026" target="_blank" rel="noopener">Oregon State Football: Defense Meets The Media (September 2, 2026)</a></h3><p class="maker"><a class="sch" href="/beavs/">Oregon State</a><span class="d">·</span><span>Oregon State Athletics</span><span class="d">·</span><span class="t">1:05 p.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/san-diego-state-football/91505/aztecs-wrap-up-preparations-for-game-against-portland-state" target="_blank" rel="noopener">AZTECS PREPARE FOR SEASON OPENER AGAINST PORTLAND STATE VIKINGS</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Jeffrey Carter</span><span class="d">·</span><span class="t">12:00 p.m.</span></p></article><article class="row"><h3><a class="hl" href="https://broncosports.com/news/2026/9/2/boise-state-womens-basketball-season-tickets-on-sale" target="_blank" rel="noopener">Boise State Women&#x27;s Basketball Season Tickets on Sale</a></h3><p class="maker"><a class="sch" href="/broncos/">Boise State</a><span class="d">·</span><span>Boise State Athletics</span><span class="d">·</span><span class="t">12:00 p.m.</span></p></article><article class="row"><h3><a class="hl" href="https://csurams.com/news/2026/9/2/football-feeling-ready-for-whats-to-come" target="_blank" rel="noopener">Feeling Ready For What’s to Come</a></h3><p class="maker"><a class="sch" href="/rams/">Colorado State</a><span class="d">·</span><span>Colorado State Athletics</span><span class="d">·</span><span class="t">12:00 p.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/podcast/91565/mountain-west-pac-12-podcast-week-0-recap-week-1-preview-north-dakota-state-unlv-hawaii-boise-new-mexico-texas-state" target="_blank" rel="noopener">MW/PAC-12 Week 0 Recap + Week 1 Preview! NDSU rolls to 1st win, UNLV &amp; Hawaii stumble! Top storyline to watch for EVERY team’s season opener! HP Ep. #168 OUT NOW!</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Jack Thompson</span><span class="d">·</span><span class="t">11:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.oregonlive.com/beavers/2026/09/oregon-state-preparing-to-see-ghost-against-no-23-houston.html" target="_blank" rel="noopener">Oregon State&#x27;s opener just got harder — Houston added a safety nicknamed &#x27;Ghost&#x27;</a></h3><p class="maker"><a class="sch" href="/beavs/">Oregon State</a><span class="d">·</span><span>The Oregonian</span><span class="d">·</span><span class="by">James Crepea</span><span class="d">·</span><span class="t">11:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://thedailyaztec.com/128547/sports/aztec-football-looks-to-start-strong-in-week-one-matchup-with-portland-state/" target="_blank" rel="noopener">Aztec football looks to start strong in week one matchup with Portland State</a></h3><p class="maker"><a class="sch" href="/aztecs/">San Diego State</a><span class="d">·</span><span>The Daily Aztec</span><span class="d">·</span><span class="by">Iain Henderson, Senior Staff Reporter</span><span class="d">·</span><span class="t">10:30 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/san-jose-state-spartans-football/91576/high-medium-low-what-a-teams-non-conference-tiers-actually-measure" target="_blank" rel="noopener">High medium low: what a team’s non-conference tiers actually measure opening a season</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Vic Aquino</span><span class="d">·</span><span class="t">10:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://csurams.com/news/2026/9/2/mens-basketball-colorado-state-wyoming-extend-rivalry-across-four-sports" target="_blank" rel="noopener">Colorado State, Wyoming Extend Rivalry Across Four Sports</a></h3><p class="maker"><a class="sch" href="/rams/">Colorado State</a><span class="d">·</span><span>Colorado State Athletics</span><span class="d">·</span><span class="t">10:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.mwcconnection.com/pac-12-discussion/91125/pac-12-conference-football-championship-season-preview" target="_blank" rel="noopener">The Pac-12 spent years rebuilding; now the hard work begins.</a></h3><p class="maker"><span>Mountain West Connection</span><span class="d">·</span><span class="by">Mike Wittmann</span><span class="d">·</span><span class="t">9:00 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.oregonlive.com/beavers/2026/09/how-backup-qb-maalik-murphy-became-godsend-to-oregon-states-braden-atkinson.html" target="_blank" rel="noopener">Maalik Murphy loses QB competition but wins respect at Oregon State</a></h3><p class="maker"><a class="sch" href="/beavs/">Oregon State</a><span class="d">·</span><span>The Oregonian</span><span class="d">·</span><span class="by">James Crepea</span><span class="d">·</span><span class="t">7:46 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://broncosports.com/news/2026/9/2/football-boise-state-reveals-north-end-zone-branded-murals" target="_blank" rel="noopener">Boise State Reveals North End Zone Branded Murals</a></h3><p class="maker"><a class="sch" href="/broncos/">Boise State</a><span class="d">·</span><span>Boise State Athletics</span><span class="d">·</span><span class="t">7:30 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://redwavereport.podbean.com/e/fresno-state-takes-on-usc/" target="_blank" rel="noopener">Fresno State Takes On USC</a></h3><p class="maker"><a class="sch" href="/fsudogs/">Fresno State</a><span class="d">·</span><span>The Red Wave Report</span><span class="d">·</span><span>🎧 Podcast</span><span class="d">·</span><span class="t">7:06 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://www.oregonlive.com/sports/2026/09/trent-walker-becoming-an-oregon-state-opponent-is-a-beavers-success-story-bill-oram.html" target="_blank" rel="noopener">Trent Walker becoming an Oregon State opponent is a Beavers success story | Bill Oram</a></h3><p class="maker"><a class="sch" href="/beavs/">Oregon State</a><span class="d">·</span><span>The Oregonian</span><span class="d">·</span><span class="by">Bill Oram</span><span class="d">·</span><span class="t">6:00 a.m.</span></p></article><div class="mark"><span>Last night</span><span>Tue 1 Sep · 6 p.m.</span></div><article class="row"><h3><a class="hl" href="https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/What-We-Learned-From-WSUs-Leaders-Before-the-Apple-Cup--Kirby-Moore-Speaks-e3o7h26" target="_blank" rel="noopener">What We Learned From WSU&#x27;s Leaders Before the Apple Cup | Kirby Moore Speaks</a></h3><p class="maker"><a class="sch" href="/cougs/">Washington State</a><span class="d">·</span><span>Palouse Playbook</span><span class="d">·</span><span class="by">Up West Sports</span><span class="d">·</span><span>🎧 Podcast</span><span class="d">·</span><span class="t">12:01 a.m.</span></p></article><article class="row"><h3><a class="hl" href="https://firstkickwasgood.com/2026/09/01/boise-state-roster-countdown-2026-day-4-maddux-madsen/" target="_blank" rel="noopener">Boise State Roster Countdown 2026: Day 4, Maddux Madsen</a></h3><p class="maker"><a class="sch" href="/broncos/">Boise State</a><span class="d">·</span><span>First Kick Was Good</span><span class="d">·</span><span class="by">MichaelFKWG</span><span class="d">·</span><span class="t">7:01 p.m.</span></p></article><div class="mark"><span>Yesterday morning</span><span>Tue 1 Sep · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="https://txst.com/news/2026/9/1/watch-txst-football-media-availability-vs-texas-090126.aspx" target="_blank" rel="noopener">WATCH: TXST Football Media Availability vs Texas (090126)</a></h3><p class="maker"><a class="sch" href="/bobcats/">Texas State</a><span class="d">·</span><span>Texas State Athletics</span><span class="d">·</span><span class="t">11:33 a.m.</span></p></article><div class="mark"><span>Monday 31 August, morning</span><span>Mon 31 Aug · 6 a.m.</span></div><article class="row"><h3><a class="hl" href="http://www.spokesman.com/stories/2026/sep/01/gonzaga-returning-to-climate-pledge-arena-for-nonl/" target="_blank" rel="noopener">Gonzaga returning to Climate Pledge Arena for nonleague games in 2026-27 and 2027-28</a></h3><p class="maker"><a class="sch" href="/zags/">Gonzaga</a><span class="d">·</span><span>The Spokesman-Review</span><span class="d">·</span><span class="t">5:00 p.m.</span></p></article><article class="row"><h3><a class="hl" href="https://utahstateaggies.com/news/2026/8/31/football-new-era-utah-state-announces-jim-laub-family-stadium.aspx" target="_blank" rel="noopener">New Era: Utah State Announces Jim Laub Family Stadium</a></h3><p class="maker"><a class="sch" href="/aggies/">Utah State</a><span class="d">·</span><span>Utah State Athletics</span><span class="d">·</span><span class="t">2:05 p.m.</span></p></article></div>
+  <nav class="pager"><span></span><span>Page 1 of 23</span><a href="/page/2/">Older →</a></nav>
 </main>
 <footer>
-  <p>Every headline links to its original publisher; snippets are brief excerpts shown with attribution. Full stories belong to their sources.</p>
-  <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12 Conference or any university.</p>
+  <p>Every headline links to its original publisher; snippets are brief excerpts shown with
+  attribution. Full stories belong to their sources.</p>
+  <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12
+  Conference or any university. Gathering 52 sources. <a href="/about/">About this site</a>.</p>
 </footer>
 </body>
 </html>

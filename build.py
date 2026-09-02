@@ -60,6 +60,16 @@ FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox
 
 ATOM = "{http://www.w3.org/2005/Atom}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
+DC = "{http://purl.org/dc/elements/1.1/}"
+
+EPOCH = datetime.min.replace(tzinfo=timezone.utc)
+
+# Three values, and an unknown renders NOTHING — never "free", never
+# "subscribers" (CEO, 2026-09-02; spec 4.3). Both defaults are failures.
+LOCK_LABELS = {"free": "Free", "metered": "Metered", "paywall": "\U0001F512 Subscribers"}
+
+# Filled by main() from the config: the school name a row prints -> its route.
+TEAM_SLUGS = {}
 
 # Shared CSS: color tokens + the element styles used on every page (homepage
 # and team pages alike). Page-specific rules (lead card, tiles, masthead,
@@ -168,11 +178,13 @@ def parse_feed(raw):
                 if l.get("rel") in (None, "alternate"):
                     link = l.get("href", "")
                     break
+            author = e.find(f"{ATOM}author")
             items.append({
                 "title": strip_html(text_of(e.find(f"{ATOM}title"))),
                 "link": link,
                 "date": parse_date(text_of(e.find(f"{ATOM}published")) or text_of(e.find(f"{ATOM}updated"))),
                 "summary": text_of(e.find(f"{ATOM}summary")) or text_of(e.find(f"{ATOM}content")),
+                "author": clean_author(text_of(author.find(f"{ATOM}name")) if author is not None else ""),
             })
     else:  # RSS 2.0
         for e in root.iter("item"):
@@ -181,8 +193,22 @@ def parse_feed(raw):
                 "link": text_of(e.find("link")),
                 "date": parse_date(text_of(e.find("pubDate"))),
                 "summary": text_of(e.find("description")),
+                "author": clean_author(text_of(e.find(f"{DC}creator")) or text_of(e.find("author"))),
             })
     return [i for i in items if i["title"] and i["link"]]
+
+
+def clean_author(raw):
+    """Parsed only, never populated: an invented byline is a fabrication with a
+    person's name on it. Absence is itself the institutional/independent signal
+    (byline sweep, 2026-09-01) and must never be filled in."""
+    name = strip_html(raw or "").strip()
+    if not name:
+        return ""
+    name = re.sub(r"^\s*(by|By|BY)[\s:]+", "", name).strip()
+    if "@" in name and " " not in name:          # a bare email is not a byline
+        return ""
+    return name[:80]
 
 
 def rel_time(dt, now):
@@ -195,7 +221,7 @@ def rel_time(dt, now):
         return f"{int(delta.total_seconds() // 3600)}h ago"
     if delta < timedelta(days=14):
         return f"{delta.days}d ago"
-    return dt.strftime("%b %-d")
+    return "%s %d" % (dt.strftime("%b"), dt.day)   # %-d is glibc-only
 
 
 def on_topic(it, aliases):
@@ -271,14 +297,11 @@ def collect(cfg):
                 # a specific sport label would be wrong, so drop it
                 seen[key]["sport"] = "all"
         merged = merge_cross_source(unique)
-        # Ranking is on ice (single-recency-stream, 2026-08-06): every item
-        # within the age window ships, newest first, no cap and no pin.
-        # story_score/split_top/select_for_page stay defined, unused, so
-        # restoring ranking later is a call-site change, not a rebuild.
-        if team == "conference":
-            by_team[team] = merged[:cfg["max_items_conference"]]
-        else:
-            by_team[team] = merged
+        # Generation 1 (2026-09-02): no acquisition-time cap anywhere. The
+        # conference slice at max_items_conference was the site's one real
+        # discard and it is gone; a page is bounded by items_per_page and a
+        # pager instead, which throws nothing away. Ranking stays on ice.
+        by_team[team] = merged
     return by_team, report
 
 
@@ -970,6 +993,559 @@ h1 .nick { color: var(--s); }
 """
 
 
+# ---------------------------------------------------------------------------
+# GENERATION 1 (2026-09-02) — one template, twelve pages, minted from a roster.
+#
+#   Spec:   projects/new-pac-city/work-generation-1-spec.md
+#   Halt 2: decisions/20260902-1154-generation-1s-arrangement-and-f838.md
+#
+# This replaces the nine-tile homepage and the <details> fold. render_homepage,
+# render_team_page and render_tile stay defined and unused — the same way
+# pick_lead and story_score do — so reverting is a call-site change.
+#
+# Two rules govern everything here (spec 1), and both come from the CEO:
+#   R1  no layout may depend on a quantity     — legible at 3 items and 30,000
+#   R2  no layout may depend on a field's VALUE — only on whether it is there
+# ---------------------------------------------------------------------------
+
+HOUSE_LIGHT = "#075E66"   # chosen against the nine schools AND their rivals;
+HOUSE_DARK = "#5FD3DC"    # 7.24:1 on the paper ground, which clears AAA
+
+ARRANGEMENT_COMPACT = "compact"
+ARRANGEMENT_DETAILED = "detailed"
+
+# No webfont: the site makes zero third-party requests today and generation 1
+# does not spend that. The narrow face is furniture only (spec 3.5) because
+# condensed letterforms are the first thing to go for a reader with tired eyes.
+STACK = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif'
+STACK_NARROW = ('"Helvetica Neue Condensed", "Arial Narrow", "Roboto Condensed", ' + STACK)
+STACK_MONO = 'ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace'
+STACK_SERIF = 'Georgia, "Times New Roman", serif'
+
+GEN1_STYLE = """
+:root {
+  --paper: #FBFBFA; --ink: #101112; --mid: #3F4245; --soft: #5F6265;
+  --rule: #D6D6D4; --hair: #E6E6E4; --house: %(house_light)s;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --paper: #121416; --ink: #ECEDEE; --mid: #C2C6C8; --soft: #9BA1A3;
+          --rule: #2E3235; --hair: #212528; --house: %(house_dark)s; }
+}
+* { box-sizing: border-box; margin: 0; }
+html { -webkit-text-size-adjust: 100%%; }
+body { background: var(--paper); color: var(--ink); font-family: %(stack)s;
+       font-size: 1rem; line-height: 1.5; }
+a { color: var(--house); }
+a:focus-visible, :focus-visible { outline: 2px solid var(--house); outline-offset: 2px; }
+
+.mast { max-width: 46rem; margin: 0 auto; padding: 1.1rem 1rem 0.7rem;
+        border-bottom: 3px double var(--ink); }
+.word { font-family: %(narrow)s; font-weight: 700; font-size: 1.5rem;
+        letter-spacing: 0.02em; text-transform: uppercase; line-height: 1.1; }
+.word a { color: var(--ink); text-decoration: none; }
+.sub { font-size: 0.95rem; line-height: 1.45; color: var(--mid); margin-top: 0.3rem; }
+.ed { font-family: %(mono)s; font-size: 0.75rem; color: var(--soft);
+      margin-top: 0.45rem; letter-spacing: 0.02em; }
+
+.scope { max-width: 46rem; margin: 0 auto; padding: 0.6rem 1rem;
+         border-bottom: 1px solid var(--rule);
+         display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.scope a, .scope span { font-family: %(narrow)s; font-size: 0.82rem;
+  text-transform: uppercase; letter-spacing: 0.04em; border: 1px solid var(--rule);
+  color: var(--mid); text-decoration: none; padding: 0.55rem 0.6rem; line-height: 1;
+  min-height: 2.75rem; display: inline-flex; align-items: center; }
+.scope a:hover { border-color: var(--house); color: var(--house); }
+.scope [aria-current="page"] { background: var(--ink); color: var(--paper);
+  border-color: var(--ink); font-weight: 700; }
+
+main { max-width: 46rem; margin: 0 auto; padding: 0 1rem 2.5rem; }
+.phead { font-family: %(mono)s; font-size: 0.78rem; letter-spacing: 0.04em;
+  color: var(--soft); padding: 0.75rem 0 0.6rem;
+  border-bottom: 1px solid var(--rule); }
+.watchlink { display: block; font-family: %(mono)s; font-size: 0.75rem;
+  text-transform: uppercase; letter-spacing: 0.06em; padding: 0.7rem 0;
+  border-bottom: 1px solid var(--rule); text-decoration: none; }
+.watchlink:hover { text-decoration: underline; }
+
+.mark { font-family: %(narrow)s; font-size: 0.82rem; letter-spacing: 0.06em;
+  color: var(--house); font-weight: 700;
+  padding: 1rem 0 0.45rem; border-bottom: 1px solid var(--ink);
+  display: flex; justify-content: space-between; gap: 1rem; }
+
+.row { padding: 0.7rem 0; border-bottom: 1px solid var(--hair); }
+.row h3 { font-size: 1.02rem; font-weight: 600; line-height: 1.35;
+  letter-spacing: -0.004em; }
+.hl { color: var(--ink); text-decoration: none; }
+.hl:hover { color: var(--house); text-decoration: underline; }
+.maker { font-size: 0.82rem; color: var(--mid); margin-top: 0.3rem; line-height: 1.5; }
+.maker .sch { font-family: %(narrow)s; font-weight: 700; text-transform: uppercase;
+  font-size: 0.78rem; letter-spacing: 0.05em; color: var(--ink); text-decoration: none;
+  border-bottom: 1px solid var(--rule); }
+.maker .sch:hover { color: var(--house); border-bottom-color: var(--house); }
+.maker .d { color: var(--rule); padding: 0 0.3rem; }
+.maker .t { font-family: %(mono)s; font-size: 0.72rem; color: var(--soft); }
+.nature { margin-top: 0.4rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.nature i { font-style: normal; font-family: %(narrow)s; font-size: 0.78rem;
+  border: 1px solid var(--rule); color: var(--mid); padding: 0.1rem 0.4rem;
+  letter-spacing: 0.02em; }
+.snip { font-family: %(serif)s; font-size: 0.94rem; line-height: 1.55;
+  color: var(--mid); margin-top: 0.4rem; }
+.when { font-family: %(mono)s; font-size: 0.72rem; color: var(--soft); margin-top: 0.35rem; }
+.empty { color: var(--mid); padding: 1.6rem 0; font-size: 0.95rem; }
+
+.pager { border-top: 3px double var(--ink); margin-top: 0.4rem; padding: 0.8rem 0;
+  font-family: %(mono)s; font-size: 0.78rem; color: var(--soft);
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+.pager a { text-decoration: none; padding: 0.5rem 0; }
+.pager a:hover { text-decoration: underline; }
+
+footer { max-width: 46rem; margin: 0 auto; padding: 0 1rem 3rem;
+  color: var(--soft); font-size: 0.8rem; line-height: 1.6; }
+footer p { margin-top: 0.5rem; }
+""" % {"house_light": HOUSE_LIGHT, "house_dark": HOUSE_DARK, "stack": STACK,
+       "narrow": STACK_NARROW, "mono": STACK_MONO, "serif": STACK_SERIF}
+
+
+def build_roster(cfg):
+    """The twelve keys. A key is a filter, a display name, an arrangement and a
+    page size — nothing else. A thirteenth page type is an entry in this list.
+
+    Arrangement and per_page are set explicitly on every entry, with no default
+    anywhere: a new page type must answer rather than inherit a choice nobody
+    made (CEO, 2026-09-02)."""
+    per_page = cfg["items_per_page"]
+    roster = [{
+        "key": "all", "route": "", "name": "All nine schools",
+        "arrangement": ARRANGEMENT_COMPACT, "per_page": per_page,
+        "sub": cfg.get("subhead", ""),
+    }]
+    for t in cfg["teams"]:
+        roster.append({
+            "key": t["name"], "route": t["slug"], "name": t["name"], "team": t,
+            "arrangement": ARRANGEMENT_DETAILED, "per_page": per_page,
+        })
+    roster.append({
+        "key": "conference", "route": "pac12", "name": "The Conference",
+        "arrangement": ARRANGEMENT_COMPACT, "per_page": per_page,
+    })
+    return roster
+
+
+def items_for(entry, by_team):
+    """A key names a filter over the item pool. `all` is every school plus the
+    conference, mixed and newest first — the surface no team-siloed page can
+    produce. Every other key is one bucket."""
+    if entry["key"] != "all":
+        return [dict(it, _team=entry["key"]) for it in by_team.get(entry["key"], [])]
+    pool = []
+    for team, items in by_team.items():
+        pool.extend(dict(it, _team=team) for it in items)
+    pool.sort(key=lambda i: i["date"] or EPOCH, reverse=True)
+    return pool
+
+
+def apply_floor(pool, by_team, n):
+    """Brand attribute 3 — partisan for the nine, neutral among them.
+
+    Every key with anything in the window is guaranteed a row on page 1. A pure
+    recency sort lets the best-supplied school crowd out the thinnest one, and
+    supply arrives school by school rather than evenly, so neutrality has to be
+    an algorithm rather than a promise.
+
+    Obeys R1 and R2: depends on no quantity (nine reserved rows out of whatever
+    per_page is) and on no field's value — only on whether a key has anything.
+    A key with nothing reserves nothing."""
+    if len(pool) <= n:
+        return pool
+    head, tail = pool[:n], pool[n:]
+    for team in [t for t, items in by_team.items() if items]:
+        if any(it.get("_team") == team for it in head):
+            continue
+        newest = next((it for it in tail if it.get("_team") == team), None)
+        if newest is None:
+            continue
+        counts = {}
+        for it in head:
+            counts[it["_team"]] = counts.get(it["_team"], 0) + 1
+        worst = max(counts, key=lambda k: counts[k])
+        for i in range(len(head) - 1, -1, -1):      # displace its oldest row
+            if head[i]["_team"] == worst:
+                tail.insert(0, head.pop(i))
+                break
+        tail.remove(newest)
+        head.append(newest)
+    head.sort(key=lambda i: i["date"] or EPOCH, reverse=True)
+    tail.sort(key=lambda i: i["date"] or EPOCH, reverse=True)
+    return head + tail
+
+
+# --- editions ---------------------------------------------------------------
+# The transport job will hand us a story list carrying its own date. Until it
+# does, edition boundaries are derived from each item's own timestamp at 6 a.m.
+# and 6 p.m. Pacific. Approximate by exactly the amount that job will make
+# exact — and never, in either case, derived from the render time.
+
+def _pacific(dt):
+    """US Pacific, without a tzdata dependency: second Sunday in March to first
+    Sunday in November is UTC-7, otherwise UTC-8. A fixed -7 would have gone an
+    hour wrong on 1 November 2026 and nothing would have said so."""
+    y = dt.year
+    mar = datetime(y, 3, 8, 10, tzinfo=timezone.utc)          # 2 a.m. local
+    dst_start = mar + timedelta(days=(6 - mar.weekday()) % 7)
+    nov = datetime(y, 11, 1, 9, tzinfo=timezone.utc)
+    dst_end = nov + timedelta(days=(6 - nov.weekday()) % 7)
+    offset = 7 if dst_start <= dt < dst_end else 8
+    return dt - timedelta(hours=offset)
+
+
+def _day_label(d):
+    return "%s %d %s" % (d.strftime("%A"), d.day, d.strftime("%B"))
+
+
+def _short_day(d):
+    return "%s %d %s" % (d.strftime("%a"), d.day, d.strftime("%b"))
+
+
+def edition_of(dt, now):
+    """(sort key, 'title\\x00when') for the edition an item belongs to."""
+    if dt is None:
+        return ((datetime.min.date(), ""), "Undated\x00no timestamp")
+    local, today = _pacific(dt), _pacific(now).date()
+    if local.hour >= 18:
+        day, half = local.date(), "evening"
+    elif local.hour >= 6:
+        day, half = local.date(), "morning"
+    else:
+        day, half = local.date() - timedelta(days=1), "evening"
+    if day == today:
+        title = "This morning" if half == "morning" else "This evening"
+    elif day == today - timedelta(days=1):
+        title = "Yesterday morning" if half == "morning" else "Last night"
+    else:
+        title = "%s, %s" % (_day_label(day), half)
+    when = "%s · %s" % (_short_day(day), "6 p.m." if half == "evening" else "6 a.m.")
+    return ((day, half), title + "\x00" + when)
+
+
+def group_editions(items, now):
+    groups, order = {}, []
+    for it in items:
+        gid, label = edition_of(it["date"], now)
+        if gid not in groups:
+            groups[gid] = (label, [])
+            order.append(gid)
+        groups[gid][1].append(it)
+    return [groups[g] for g in order]
+
+
+def fmt_stamp(dt, time_only=False):
+    """Absolute, never relative. Twice-daily publishing makes a render-time
+    '3h ago' wrong by up to twelve hours, which is the site lying about the one
+    field that is always present (3 of 4 site-map lanes, independently)."""
+    if dt is None:
+        return ""
+    local = _pacific(dt)
+    hour = local.hour % 12 or 12
+    clock = "%d:%02d %s" % (hour, local.minute, "p.m." if local.hour >= 12 else "a.m.")
+    return clock if time_only else "%d %s, %s" % (local.day, local.strftime("%b"), clock)
+
+
+# --- the row ----------------------------------------------------------------
+
+def nature_of(it):
+    """What kind of thing is behind this link, and what will happen when I click
+    it — brand attribute 4. Every element is present-or-absent.
+
+    The medium renders only when it is KNOWN. An absent medium is unknown, not
+    text: defaulting it to "Article" printed a zero-information tag on nearly
+    every row and — worse — made a stripped row render as one line in the
+    compact arrangement and two in the detailed one, breaking the spec's own
+    invariant that a bare row is identical in both. Found by the independent
+    check of the build, 2026-09-02."""
+    parts = []
+    medium = it.get("medium")
+    if medium in MEDIUM_LABELS:
+        parts.append(MEDIUM_LABELS[medium])
+    elif medium == "text":
+        parts.append("Article")          # explicit, never by omission
+    if it.get("extent"):
+        parts.append(it["extent"])
+    if it.get("lock") in LOCK_LABELS:
+        parts.append(LOCK_LABELS[it["lock"]])
+    if it.get("also"):
+        parts.append("%d outlets" % (len(it["also"]) + 1))
+    return parts
+
+
+def render_row(it, entry, cfg, now):
+    """One row, three lines and an optional snippet, in a fixed order.
+
+    A line renders only if at least one of its elements has content; a line with
+    no content is not rendered at all. The extreme case — a headline, a link and
+    nothing else — is a valid row and must look deliberate, because under the
+    coming curation mechanism it may well be common."""
+    esc = html.escape
+    detailed = entry["arrangement"] == ARRANGEMENT_DETAILED
+
+    maker = []
+    # The school is a link on the mixed feed and suppressed on a team page,
+    # where the masthead, the scope bar and the page head have each said it.
+    if entry["key"] == "all" and it.get("_team") in TEAM_SLUGS:
+        maker.append('<a class="sch" href="/%s/">%s</a>'
+                     % (esc(TEAM_SLUGS[it["_team"]], quote=True), esc(it["_team"])))
+    if it.get("source"):
+        maker.append("<span>%s</span>" % esc(it["source"]))
+    if it.get("author"):
+        maker.append('<span class="by">%s</span>' % esc(it["author"]))
+
+    out = ['<article class="row"><h3>'
+           '<a class="hl" href="%s" target="_blank" rel="noopener">%s</a></h3>'
+           % (esc(it["link"], quote=True), esc(it["title"]))]
+
+    if detailed:
+        if maker:
+            out.append('<p class="maker">%s</p>' % '<span class="d">·</span>'.join(maker))
+        nature = nature_of(it)
+        if nature:
+            out.append('<p class="nature">%s</p>'
+                       % "".join("<i>%s</i>" % esc(n) for n in nature))
+        snip = snippet_of(it.get("summary", ""), cfg["snippet_max_chars"])
+        if snip:
+            out.append('<p class="snip">%s</p>' % esc(snip))
+        stamp = fmt_stamp(it["date"])
+        if stamp:
+            out.append('<p class="when">%s</p>' % esc(stamp))
+    else:
+        line = list(maker)
+        # Compact drops the "Article" marker (a text item on a text-heavy page
+        # needs no label) and keeps everything that changes what a click costs.
+        for n in nature_of(it):
+            if n != "Article":
+                line.append("<span>%s</span>" % esc(n))
+        stamp = fmt_stamp(it["date"], time_only=True)
+        if stamp:
+            line.append('<span class="t">%s</span>' % esc(stamp))
+        if line:
+            out.append('<p class="maker">%s</p>' % '<span class="d">·</span>'.join(line))
+
+    out.append("</article>")
+    return "".join(out)
+
+
+# --- the page ---------------------------------------------------------------
+
+def render_scope_bar(roster, current):
+    """The site's entire navigation and its entire filtering mechanism: the
+    twelve pages ARE the filters.
+
+    It wraps and never scrolls sideways (amended 2026-09-02 at the CEO's report
+    that the links did not fit) — a nav you have to discover by swiping is worse
+    than one costing a story's height. `All` is anchored first and `Pac-12`
+    last, so the two ends do not move as the rows reflow."""
+    out = []
+    for e in roster:
+        if e["key"] == "all":
+            label = "All"
+        elif e["key"] == "conference":
+            label = "Pac-12"
+        else:
+            label = e["team"]["nickname"]
+        if e["key"] == current:
+            out.append('<span aria-current="page">%s</span>' % html.escape(label))
+        else:
+            href = "/" if e["route"] == "" else "/%s/" % e["route"]
+            out.append('<a href="%s">%s</a>'
+                       % (html.escape(href, quote=True), html.escape(label)))
+    return '<nav class="scope" aria-label="Sections">%s</nav>' % "".join(out)
+
+
+def render_pager(entry, page, total):
+    """Bounds a page without discarding an item. The caps this replaces did the
+    opposite on the conference key and nothing at all on the nine."""
+    if total <= 1:
+        return ""
+    base = "/" if entry["route"] == "" else "/%s/" % entry["route"]
+    url = lambda n: base if n == 1 else "%spage/%d/" % (base, n)
+    newer = '<a href="%s">← Newer</a>' % url(page - 1) if page > 1 else "<span></span>"
+    older = '<a href="%s">Older →</a>' % url(page + 1) if page < total else "<span></span>"
+    return '<nav class="pager">%s<span>Page %d of %d</span>%s</nav>' % (newer, page, total, older)
+
+
+def edition_line(items, cfg, now):
+    """What the site actually knows about its own freshness, and nothing more.
+
+    The spec asks for the STORY LIST's own date rather than the render's, so a
+    frozen site says so. The transport job that produces a dated story list has
+    not landed, so until it does this is derived from the newest item the build
+    is rendering — which is a real fact about the content — and the cadence
+    printed is the cadence the site actually runs at. The first draft hardcoded
+    "updated 6:00 a.m. · next update 6:00 p.m.", which was the exact dishonesty
+    this element exists to prevent. Found by the independent check, 2026-09-02."""
+    newest = max((i["date"] for i in items if i.get("date")), default=None)
+    if newest is None:
+        return "Refreshed about every %d hours" % cfg["refresh_hours"]
+    local = _pacific(newest)
+    hour = local.hour % 12 or 12
+    clock = "%d:%02d %s" % (hour, local.minute, "p.m." if local.hour >= 12 else "a.m.")
+    return "Latest story %s, %s · refreshed about every %d hours" % (
+        _day_label(local.date()), clock, cfg["refresh_hours"])
+
+
+def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=None):
+    esc = html.escape
+    stamp = edition_line(page_items, cfg, now)
+    sub = ('<p class="sub">%s</p>' % esc(entry["sub"])
+           if entry.get("sub") and page == 1 else "")
+
+    if page_items:
+        body = []
+        for label, items in group_editions(page_items, now):
+            title, when = label.split("\x00")
+            body.append('<div class="mark"><span>%s</span><span>%s</span></div>'
+                        % (esc(title), esc(when)))
+            body.extend(render_row(it, entry, cfg, now) for it in items)
+        body_html = "".join(body)
+    else:
+        # One shared empty state. The page still exists and is still linked:
+        # a missing page is a broken promise, an empty one is a true statement.
+        body_html = ('<p class="empty">No items in the last %d days. '
+                     'The next update is at 6:00 p.m. Pacific.</p>'
+                     % cfg["max_item_age_days"])
+
+    watch_html = ""
+    if watch_slug:
+        # The shipped How to watch feature is reached today by a card rendered
+        # INSIDE the story stream; a story list has no place for a card that is
+        # not a story, so it becomes a line above the list instead of vanishing.
+        watch_html = ('<a class="watchlink" href="/%s/watch/">'
+                      '\U0001F4FA How to watch this season →</a>'
+                      % esc(watch_slug, quote=True))
+
+    title = cfg["site_name"] if entry["key"] == "all" else "%s — %s" % (entry["name"], cfg["site_name"])
+    if page > 1:
+        title = "%s (page %d)" % (title, page)
+    count = len(page_items)
+
+    return """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>%(title)s</title>
+<meta name="description" content="%(sub_text)s">
+<link rel="icon" href="%(favicon)s">
+<meta property="og:title" content="%(title)s">
+<meta property="og:description" content="%(sub_text)s">
+<meta property="og:type" content="website">
+<style>%(style)s</style>
+</head>
+<body>
+<header class="mast">
+  <p class="word"><a href="/">New PAC City</a></p>
+  %(sub)s
+  <p class="ed">%(stamp)s</p>
+</header>
+%(scope)s
+<main>
+  <p class="phead">%(name)s · %(count)d item%(plural)s</p>
+  %(watch)s
+  <div class="list">%(body)s</div>
+  %(pager)s
+</main>
+%(footer)s
+</body>
+</html>
+""" % {
+        "title": esc(title),
+        "sub_text": esc(cfg.get("subhead", "")),
+        "favicon": FAVICON,
+        "style": GEN1_STYLE,
+        "sub": sub,
+        "stamp": esc(stamp),
+        "scope": render_scope_bar(roster, entry["key"]),
+        "name": esc(entry["name"]),
+        "count": count,
+        "plural": "" if count == 1 else "s",
+        "watch": watch_html,
+        "body": body_html,
+        "pager": render_pager(entry, page, total),
+        "footer": render_footer(cfg),
+    }
+
+
+def render_footer(cfg):
+    """One sentence on what the site is, a link to /about/, and the source
+    count (spec 3.6). No coverage census, no per-school statistics — three of
+    four site-map lanes proposed exactly that page and it was rejected."""
+    return ("""<footer>
+  <p>Every headline links to its original publisher; snippets are brief excerpts shown with
+  attribution. Full stories belong to their sources.</p>
+  <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12
+  Conference or any university. Gathering %d sources. <a href="/about/">About this site</a>.</p>
+</footer>""" % len(cfg["feeds"]))
+
+
+def render_about(roster, cfg, now):
+    """The twelfth page, and the only one that is not a story list.
+
+    Brand attribute 5 — visibly made by a person — lives here. It deliberately
+    does NOT claim that everything was read by a person before it published:
+    the reviewer that would make that true is a later phase and is not built,
+    and the claim is earned when it runs."""
+    esc = html.escape
+    body = """
+  <p class="about">New PAC City gathers what is being written, recorded and filmed about the nine
+  schools of the new Pac-12, puts it in one place, and sends you to whoever made it. Every headline
+  on this site is a link out. We do not host anyone else's reporting and we never will.</p>
+  <p class="about">It is an independent fan site. It is not the conference, it is not a school, and
+  it is not affiliated with either. It takes no money from anyone it links to.</p>
+  <p class="about">The site reads %(n)d feeds and shows everything from the last %(days)d days,
+  newest first. It is partisan for the nine and neutral among them: every school with anything to
+  show reaches the front page. Where a school's coverage is thin, its page is short — we would rather
+  show you less than pad it out.</p>
+  <p class="about">Alongside each headline we try to tell you what is behind it before you click:
+  who made it, what kind of thing it is, how long it is, and whether it is paywalled. Where we do not
+  know, we say nothing rather than guess.</p>
+""" % {"n": len(cfg["feeds"]), "days": cfg["max_item_age_days"]}
+
+    return """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — %(site)s</title>
+<meta name="description" content="%(sub)s">
+<link rel="icon" href="%(favicon)s">
+<style>%(style)s
+.about { font-family: %(serif)s; font-size: 1.02rem; line-height: 1.6; color: var(--mid);
+         margin-top: 1rem; max-width: 40rem; }
+</style>
+</head>
+<body>
+<header class="mast">
+  <p class="word"><a href="/">New PAC City</a></p>
+  <p class="sub">%(sub)s</p>
+</header>
+%(scope)s
+<main>
+  <p class="phead">About</p>
+  %(body)s
+</main>
+%(footer)s
+</body>
+</html>
+""" % {
+        "site": esc(cfg["site_name"]),
+        "sub": esc(cfg.get("subhead", "")),
+        "favicon": FAVICON,
+        "style": GEN1_STYLE,
+        "serif": STACK_SERIF,
+        "scope": render_scope_bar(roster, None),
+        "body": body,
+        "footer": render_footer(cfg),
+    }
+
+
 def main():
     cfg_path = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / "feeds.json"
     cfg = json.loads(cfg_path.read_text())
@@ -984,22 +1560,45 @@ def main():
         sys.exit(1)
     out = HERE / cfg.get("output_dir", "site")
     out.mkdir(exist_ok=True)
-    (out / "index.html").write_text(render_homepage(cfg, by_team, now))
+    TEAM_SLUGS.update({t["name"]: t["slug"] for t in cfg["teams"]})
+
     carriage, _ = watch_data.load()
-    watch_pages = 0
-    for team in cfg["teams"]:
-        team_dir = out / team["slug"]
-        team_dir.mkdir(exist_ok=True)
-        watch = watch_data.for_team_name(team["name"])
-        (team_dir / "index.html").write_text(
-            render_team_page(team, by_team.get(team["name"], []), cfg, now, watch))
+    roster = build_roster(cfg)
+    pages_written, watch_pages = 0, 0
+
+    for entry in roster:
+        items = items_for(entry, by_team)
+        if entry["key"] == "all":
+            items = apply_floor(items, by_team, entry["per_page"])
+        per = entry["per_page"]
+        total = max(1, (len(items) + per - 1) // per)
+        base = out if entry["route"] == "" else out / entry["route"]
+        base.mkdir(parents=True, exist_ok=True)
+
+        watch = watch_data.for_team_name(entry["name"]) if "team" in entry else None
+        watch_slug = entry["route"] if watch else None
+
+        for page in range(1, total + 1):
+            chunk = items[(page - 1) * per: page * per]
+            target = base if page == 1 else base / "page" / str(page)
+            target.mkdir(parents=True, exist_ok=True)
+            (target / "index.html").write_text(
+                render_index(entry, chunk, roster, cfg, now, page, total, watch_slug),
+                encoding="utf-8")
+            pages_written += 1
+
         if watch:
-            watch_dir = team_dir / "watch"
+            watch_dir = base / "watch"
             watch_dir.mkdir(exist_ok=True)
             (watch_dir / "index.html").write_text(
-                render_watch_page(team, watch, carriage, cfg, now))
+                render_watch_page(entry["team"], watch, carriage, cfg, now), encoding="utf-8")
             watch_pages += 1
-    print(f"Wrote {out.name}/index.html + {len(cfg['teams'])} team pages "
+
+    about_dir = out / "about"
+    about_dir.mkdir(exist_ok=True)
+    (about_dir / "index.html").write_text(render_about(roster, cfg, now), encoding="utf-8")
+
+    print(f"Wrote {pages_written} index pages across {len(roster)} keys + about "
           f"+ {watch_pages} watch pages — {total_items} items from {len(ok)}/{len(report)} feeds.")
 
 
