@@ -385,13 +385,6 @@
       "medium": "audio"
     },
     {
-      "team": "Gonzaga",
-      "sport": "all",
-      "source": "The Slipper Still Fits",
-      "url": "https://www.slipperstillfits.com/rss/index.xml",
-      "weight": 1.15
-    },
-    {
       "team": "San Diego State",
       "sport": "all",
       "source": "The Daily Aztec",
@@ -414,13 +407,6 @@
       "url": "https://universitystar.com/category/sports/feed/",
       "weight": 1.15,
       "topic_scope": "athletics-wide"
-    },
-    {
-      "team": "Washington State",
-      "sport": "all",
-      "source": "CougCenter",
-      "url": "https://www.cougcenter.com/rss/index.xml",
-      "weight": 1.15
     },
     {
       "team": "Washington State",
