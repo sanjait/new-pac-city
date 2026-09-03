@@ -1,11 +1,11 @@
 {
-  "started_at": null,
-  "finished_at": null,
-  "outcome": "never-run",
-  "detail": "Seeded when publish.py shipped, so the file is tracked before the first run overwrites it. The first real run is attended (transport plan, Amendment D). Until then this file honestly says nothing has run — the third of the three states Amendment C asked to be distinguishable.",
-  "feeds_ok": null,
-  "feeds_total": null,
-  "items": null,
-  "content": null,
+  "started_at": "2026-09-03T06:42:10.341411+00:00",
+  "finished_at": "2026-09-03T06:42:17.914138+00:00",
+  "outcome": "published",
+  "detail": null,
+  "feeds_ok": 55,
+  "feeds_total": 56,
+  "items": 461,
+  "content": "9c72cc6df7f6c8ae",
   "previous_content": null
 }
