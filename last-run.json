@@ -1,0 +1,11 @@
+{
+  "started_at": null,
+  "finished_at": null,
+  "outcome": "never-run",
+  "detail": "Seeded when publish.py shipped, so the file is tracked before the first run overwrites it. The first real run is attended (transport plan, Amendment D). Until then this file honestly says nothing has run — the third of the three states Amendment C asked to be distinguishable.",
+  "feeds_ok": null,
+  "feeds_total": null,
+  "items": null,
+  "content": null,
+  "previous_content": null
+}

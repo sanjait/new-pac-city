@@ -1,7 +1,7 @@
 {
   "site_name": "New PAC City",
   "tagline": "The home for news on the New PAC",
-  "refresh_hours": 6,
+  "refresh_schedule_pacific": ["06:00", "18:00"],
   "max_item_age_days": 45,
   "snippet_max_chars": 200,
   "top_stories_per_team": 3,

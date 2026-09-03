@@ -1,6 +1,6 @@
 # New PAC City
 
-**The new PAC-12, all in one place.** A homepage plus a page per team for every school in the new Pac-12 Conference — football, men's basketball, and women's basketball — refreshed automatically every 6 hours.
+**The new PAC-12, all in one place.** A homepage plus a page per team for every school in the new Pac-12 Conference — football, men's basketball, and women's basketball — refreshed automatically twice a day, at 6 a.m. and 6 p.m. Pacific.
 
 🌐 Live site: coming to [newpac.city](https://newpac.city)
 

@@ -1,0 +1,46 @@
+name: Publish the site
+
+# Push-triggered, not scheduled. The Hearth fetches the news at 6 a.m. and
+# 6 p.m. Pacific and pushes story-list.json; that push is what publishes.
+# Nothing here touches the network beyond checking the repo out, so the pages
+# can only ever say what the story list says — which is the seam the vetting
+# agent will read in phase 2.
+#
+# The 6-hourly `cron: "17 */6 * * *"` this replaces is deleted, not disabled.
+# It was the site's only publisher and it fetched from GitHub's runners, where
+# three of our feeds are blocked.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - story-list.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render the pages from the story list
+        run: python3 render.py
+
+      - name: Publish if anything changed
+        run: |
+          git config user.name "newpac-city-publish"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "Story list changed but the pages did not."
+          else
+            git commit -m "Publish $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

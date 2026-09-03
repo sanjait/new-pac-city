@@ -695,7 +695,7 @@ h1 .pac {{ color: var(--accent); }}
 <header>
   <h1>New <span class="pac">PAC</span> City</h1>
   <p class="tagline">{html.escape(cfg["tagline"])}</p>
-  <p class="updated">Updated {stamp} · refreshes about every {cfg["refresh_hours"]} hours</p>
+  <p class="updated">Updated {stamp} · refreshes {cadence_phrase(cfg)}</p>
 </header>
 <main>
 <div class="grid">
@@ -800,7 +800,7 @@ h1 .nick {{ color: var(--s); }}
 <header>
   <h1>{school} <span class="nick">{nickname}</span></h1>
   <span class="slugpill">/{slug}</span>
-  <p class="updated">Updated {stamp} · refreshes about every {cfg["refresh_hours"]} hours</p>
+  <p class="updated">Updated {stamp} · refreshes {cadence_phrase(cfg)}</p>
   {follow_html}
 </header>
 <main>
@@ -1461,29 +1461,64 @@ def render_pager(entry, page, total):
     return '<nav class="pager">%s<span>Page %d of %d</span>%s</nav>' % (newer, page, total, older)
 
 
-def edition_line(items, cfg, now):
-    """What the site actually knows about its own freshness, and nothing more.
-
-    The spec asks for the STORY LIST's own date rather than the render's, so a
-    frozen site says so. The transport job that produces a dated story list has
-    not landed, so until it does this is derived from the newest item the build
-    is rendering — which is a real fact about the content — and the cadence
-    printed is the cadence the site actually runs at. The first draft hardcoded
-    "updated 6:00 a.m. · next update 6:00 p.m.", which was the exact dishonesty
-    this element exists to prevent. Found by the independent check, 2026-09-02."""
-    newest = max((i["date"] for i in items if i.get("date")), default=None)
-    if newest is None:
-        return "Refreshed about every %d hours" % cfg["refresh_hours"]
-    local = _pacific(newest)
-    hour = local.hour % 12 or 12
-    clock = "%d:%02d %s" % (hour, local.minute, "p.m." if local.hour >= 12 else "a.m.")
-    return "Latest story %s, %s · refreshed about every %d hours" % (
-        _day_label(local.date()), clock, cfg["refresh_hours"])
+REFRESH_SCHEDULE_DEFAULT = ["06:00", "18:00"]
 
 
-def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=None):
+def _schedule(cfg):
+    """The fetch schedule in Pacific wall-clock, as sorted (hour, minute) pairs.
+
+    One easy-to-change setting, as spec 5 asks. It is the single source for
+    every cadence claim the site makes, so no page can print a schedule the
+    site does not run on — the honesty failure the 2026-09-02 check caught."""
+    raw = cfg.get("refresh_schedule_pacific") or REFRESH_SCHEDULE_DEFAULT
+    return sorted(tuple(int(p) for p in t.split(":")) for t in raw)
+
+
+def _clock(hour, minute):
+    return "%d:%02d %s" % (hour % 12 or 12, minute, "p.m." if hour >= 12 else "a.m.")
+
+
+def cadence_phrase(cfg):
+    n = len(_schedule(cfg))
+    return {1: "once a day", 2: "twice a day"}.get(n, "%d times a day" % n)
+
+
+def next_update(local, cfg):
+    """The next scheduled fetch strictly after `local`, a Pacific datetime."""
+    for h, m in _schedule(cfg):
+        if (local.hour, local.minute) < (h, m):
+            return _clock(h, m)
+    h, m = _schedule(cfg)[0]
+    return _clock(h, m)
+
+
+def edition_line(cfg, generated_at):
+    """The masthead's edition line -- the STORY LIST's own date, never the
+    render's (generation‑1 spec 3.1; transport plan lens "Observability").
+
+    A render that runs hours after its fetch must say when the news is FROM,
+    and a run that never happened must leave the page frozen and saying so.
+    Both are now real: the fetch half writes `generated_at` into the story
+    list and the render half reads it back as its only clock.
+
+    Degrades exactly as the spec requires: with no date at all this renders
+    NOTHING rather than falling back to the render time, because that is the
+    specific lie this element exists to replace. The first draft hardcoded
+    "updated 6:00 a.m. next update 6:00 p.m." against a site that ran every
+    six hours; the times are honest here only because step 5 of the transport
+    job made the schedule real, and they are read from the config either way."""
+    if generated_at is None:
+        return ""
+    local = _pacific(generated_at)
+    return "%s, %d %s · updated %s · next update %s Pacific" % (
+        local.strftime("%A"), local.day, local.strftime("%B"),
+        _clock(local.hour, local.minute), next_update(local, cfg))
+
+
+def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=None,
+                 list_date=None):
     esc = html.escape
-    stamp = edition_line(page_items, cfg, now)
+    stamp = edition_line(cfg, list_date)
     sub = ('<p class="sub">%s</p>' % esc(entry["sub"])
            if entry.get("sub") and page == 1 else "")
 
@@ -1499,8 +1534,8 @@ def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=No
         # One shared empty state. The page still exists and is still linked:
         # a missing page is a broken promise, an empty one is a true statement.
         body_html = ('<p class="empty">No items in the last %d days. '
-                     'The next update is at 6:00 p.m. Pacific.</p>'
-                     % cfg["max_item_age_days"])
+                     'The next update is at %s Pacific.</p>'
+                     % (cfg["max_item_age_days"], next_update(_pacific(now), cfg)))
 
     watch_html = ""
     if watch_slug:
@@ -1533,7 +1568,7 @@ def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=No
 <header class="mast">
   <p class="word"><a href="/">New PAC City</a></p>
   %(sub)s
-  <p class="ed">%(stamp)s</p>
+  %(ed)s
 </header>
 %(scope)s
 <main>
@@ -1551,7 +1586,7 @@ def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=No
         "favicon": FAVICON,
         "style": GEN1_STYLE,
         "sub": sub,
-        "stamp": esc(stamp),
+        "ed": ('<p class="ed">%s</p>' % esc(stamp)) if stamp else "",
         "scope": render_scope_bar(roster, entry["key"]),
         "name": esc(entry["name"]),
         "count": count,
@@ -1640,9 +1675,10 @@ def render_about(roster, cfg, now):
 # The fetch/render split (item-review transport, step 3). collect()'s output,
 # serialized: what fetch.py writes and render.py reads, so the render half can
 # run on its own, hours later, on a machine with no reason to touch the
-# network. `main()` below still runs both halves in one process — nothing
-# about how the existing six-hourly workflow invokes this file changes — but
-# it does so by writing the list and reading it back, never by handing
+# network, which is now where it actually runs: the Hearth fetches and
+# pushes the list, CI renders it. `main()` below still runs both halves in
+# one process for local work, but it does so by writing the list and reading
+# it back, never by handing
 # `by_team` to the renderer directly, so the split is real rather than
 # notional. The story list also carries the fetch's own timestamp, which the
 # render half uses as "now" instead of asking the clock again — the
@@ -1666,7 +1702,8 @@ def deserialize_story_list(data):
         out["date"] = datetime.fromisoformat(it["date"]) if it["date"] else None
         return out
     by_team = {team: [deser_item(it) for it in items] for team, items in data["teams"].items()}
-    return by_team, datetime.fromisoformat(data["generated_at"])
+    at = data.get("generated_at")
+    return by_team, (datetime.fromisoformat(at) if at else None)
 
 
 def write_story_list(by_team, generated_at, path):
@@ -1686,6 +1723,16 @@ def render(cfg, list_path):
     if total_items == 0:
         print("ERROR: story list has no items; keeping the previous page.", file=sys.stderr)
         sys.exit(1)
+    # The story list's own date is what the masthead prints, and it stays
+    # distinct from the reference point editions are grouped against. A list
+    # with no date of its own prints NOTHING (spec 3.1) rather than falling
+    # back to the render clock, but the page still needs something to group
+    # by, so grouping borrows the newest item's date. Never datetime.now():
+    # the render half has no business asking the clock at all.
+    list_date = now
+    if now is None:
+        now = max((i["date"] for v in by_team.values() for i in v if i.get("date")),
+                  default=EPOCH)
     out = HERE / cfg.get("output_dir", "site")
     out.mkdir(exist_ok=True)
     TEAM_SLUGS.update({t["name"]: t["slug"] for t in cfg["teams"]})
@@ -1711,7 +1758,8 @@ def render(cfg, list_path):
             target = base if page == 1 else base / "page" / str(page)
             target.mkdir(parents=True, exist_ok=True)
             (target / "index.html").write_text(
-                render_index(entry, chunk, roster, cfg, now, page, total, watch_slug),
+                render_index(entry, chunk, roster, cfg, now, page, total, watch_slug,
+                             list_date=list_date),
                 encoding="utf-8")
             pages_written += 1
 
@@ -1731,9 +1779,12 @@ def render(cfg, list_path):
 
 
 def main():
-    """Fetch, then render — one command, so the workflow that already calls
-    `python3 build.py` sees no change from outside. Splits internally into
-    the same two steps fetch.py and render.py run separately."""
+    """Fetch, then render — one command, for local work only.
+
+    Nothing scheduled calls this any more. Publishing is publish.py on the
+    Hearth (fetch, commit, push) and render.py in CI (pages), which is what
+    keeps a single path onto the site and puts a readable story list on it.
+    Splits internally into the same two steps those two run separately."""
     cfg_path = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / "feeds.json"
     cfg = json.loads(cfg_path.read_text())
     list_path = HERE / "story-list.json"
