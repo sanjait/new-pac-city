@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T06:58:26.320175+00:00",
+  "generated_at": "2026-09-03T13:05:34.740388+00:00",
   "teams": {
     "conference": [
       {
@@ -4925,6 +4925,37 @@
     ],
     "Washington State": [
       {
+        "title": "It's Apple Cup week!! (Episode 253)",
+        "link": "https://podcastvseveryone.podbean.com/e/its-apple-cup-week-episode-253/",
+        "link_kind": "item",
+        "date": "2026-09-03T12:50:48+00:00",
+        "summary": "<p>Don't forget to subscribe to the newsletter! Episodes direct to your inbox, plus other written musings from Jeff. <a href='http://podcastvseveryone.com/'>podcastvseveryone.com</a></p>\n<p>Football season is finally upon us, as the Apple Cup gets us going in WSU's first season in the new-look Pac-12. That means it's time to assess the season's prospects, as well as preview the Apple Cup itself. Plus (of course) beer and a quick look at volleyball and soccer.</p>\n<p>New feature this week: We live-streamed the recording for our premium subscribers and included some of their thoughts and observations from the chat in the show. If you want to get in on some of that action, head to <a href='http://podcastvseveryone.com/upgrade'>podcastvseveryone.com/upgrade</a> and join us!</p>\nNotes\n<p>Podcast music by Randy England. <a href='https://www.instagram.com/randyenglandmusic/'>You can find more of his work on Instagram</a>.</p>\n<p>You can also subscribe to the show on your favorite podcast services:</p>\n<ul>\n<li>\n<p><a href='https://podcasts.apple.com/us/podcast/podcast-vs-everyone/id1449847880?mt=2'>Apple Podcasts</a>  </p>\n</li>\n<li>\n<p><a href='https://open.spotify.com/show/5mN2nUMA3KH095WAYYiOaf'>Spotify</a> </p>\n</li>\n<li>\n<p><a href='https://www.youtube.com/@PodVsEveryone'>YouTube</a></p>\n</li>\n<li>\n<p>Or, manually add this feed to your podcast app of choice: <a href='https://feed.podbean.com/podcastvseveryone/feed.xml'>https://feed.podbean.com/podcastvseveryone/feed.xml</a></p>\n</li>\n</ul>",
+        "author": "",
+        "duration": 4888,
+        "channel_url": "",
+        "source": "Podcast Vs. Everyone",
+        "id": "cfb32d268e9ed362",
+        "extent": "1h 21m",
+        "sport": "all",
+        "medium": "audio",
+        "weight": 1.15
+      },
+      {
+        "title": "Cougar soccer heads to Hawaii for two games",
+        "link": "https://dailyevergreen.com/198498/sports/soccer/cougar-soccer-heads-to-hawaii-for-two-games/",
+        "link_kind": "item",
+        "date": "2026-09-03T07:00:46+00:00",
+        "summary": "The Cougs (2-2-1) are back on the road to face the Utah Valley Wolverines and University of Hawaii at Manoa, both matchups taking place in Hawaii.  Last time on the pitch  The Cougars faced the UC Irvine Anteaters in their last game finding two late goals in a 2-0 win.  “Feeling good again, I mean...",
+        "author": "BEN WALKER, Evergreen reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "1bcd608661dc80fb",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
         "title": "Cougar Football Hour 9-2-26 (Kirby Moore, Tony Freeman & Derek Sage)",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/b76b41dd-bf47-4a6e-b4a6-a50f483031ee.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -5245,21 +5276,6 @@
         "source": "The Spokesman-Review",
         "id": "9656aa8b967dca64",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Volleyball starts the season with a sweep",
-        "link": "https://dailyevergreen.com/198223/sports/volleyball/volleyball-starts-the-season-with-a-sweep/",
-        "link_kind": "item",
-        "date": "2026-08-29T16:03:51+00:00",
-        "summary": "On the first day of the Cougar Invitational, WSU drew the University of Omaha and took care of them soundly, winning 3-0 at Bohler Gym. The Cougs kept Omaha at arms length in each set, winning by four points in the first, five in the second and three in the third. The name that jumped...",
-        "author": "SMITH SLYE, Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "587366c020ec8f6b",
-        "sport": "all",
         "medium": "text",
         "weight": 1.15
       },
