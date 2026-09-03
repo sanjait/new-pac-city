@@ -1287,25 +1287,68 @@ def _short_day(d):
     return "%s %d %s" % (d.strftime("%a"), d.day, d.strftime("%b"))
 
 
+def _edition_key(local):
+    """(date, hour) of the edition that CARRIES something published at `local`.
+
+    Editions go out at 6 a.m. and 6 p.m. Pacific and each one carries
+    everything published since the one before it. So a story's edition is the
+    next boundary at or after its timestamp, never the one before it: a
+    5:50 a.m. story rides the 6 a.m. edition, a 5 p.m. story rides 6 p.m.
+    """
+    if local.hour < 6:
+        return local.date(), 6
+    if local.hour < 18:
+        return local.date(), 18
+    return local.date() + timedelta(days=1), 6
+
+
+def _published_edition(ref):
+    """(date, hour) of the most recent edition that has actually gone out."""
+    if ref.hour < 6:
+        return ref.date() - timedelta(days=1), 18
+    if ref.hour < 18:
+        return ref.date(), 6
+    return ref.date(), 18
+
+
+def _half_of(hour):
+    return "morning" if hour == 6 else "evening"
+
+
+def _at(hour):
+    return "6 a.m." if hour == 6 else "6 p.m."
+
+
 def edition_of(dt, now):
-    """(sort key, 'title\\x00when') for the edition an item belongs to."""
+    """(sort key, 'title\x00when') for the edition that carried an item.
+
+    Groups by the edition a story went out IN, not by the window it was
+    published in. Those differ by one window, and grouping by the latter is
+    what made a freshly-built 6 a.m. site head its newest section "Last
+    night": the 6 a.m. run can only see stories published before 6 a.m., and
+    every one of those falls in the previous evening's window, so the morning
+    bucket had a five-minute window to fill and always filled it with nothing.
+    """
     if dt is None:
-        return ((datetime.min.date(), ""), "Undated\x00no timestamp")
-    local, today = _pacific(dt), _pacific(now).date()
-    if local.hour >= 18:
-        day, half = local.date(), "evening"
-    elif local.hour >= 6:
-        day, half = local.date(), "morning"
-    else:
-        day, half = local.date() - timedelta(days=1), "evening"
+        return ((datetime.min.date(), 0), "Undated\x00no timestamp")
+    local, ref = _pacific(dt), _pacific(now)
+    key = _edition_key(local)
+    day, hour = key
+    live = _published_edition(ref)
+    if key > live:
+        # Its moment has not arrived. These are on the page only because a run
+        # was triggered between editions -- the attended-publish path -- and
+        # dating them "this evening" would date them into the future.
+        return (key, "Just in\x00since %s · %s" % (_short_day(live[0]), _at(live[1])))
+    half, today = _half_of(hour), ref.date()
     if day == today:
         title = "This morning" if half == "morning" else "This evening"
     elif day == today - timedelta(days=1):
         title = "Yesterday morning" if half == "morning" else "Last night"
     else:
         title = "%s, %s" % (_day_label(day), half)
-    when = "%s · %s" % (_short_day(day), "6 p.m." if half == "evening" else "6 a.m.")
-    return ((day, half), title + "\x00" + when)
+    when = "%s · %s" % (_short_day(day), _at(hour))
+    return (key, title + "\x00" + when)
 
 
 def group_editions(items, now):
