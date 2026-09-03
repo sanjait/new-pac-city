@@ -14,6 +14,7 @@ the "last updated" stamp is honest.
 
 import email.utils
 import gzip
+import hashlib
 import html
 import json
 import re
@@ -61,6 +62,7 @@ FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox
 ATOM = "{http://www.w3.org/2005/Atom}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
 DC = "{http://purl.org/dc/elements/1.1/}"
+ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
 
 EPOCH = datetime.min.replace(tzinfo=timezone.utc)
 
@@ -167,35 +169,86 @@ def parse_date(s):
     return dt.astimezone(timezone.utc)
 
 
+def duration_seconds(raw):
+    """<itunes:duration> as whole seconds. Accepts 'SS', 'MM:SS' and 'HH:MM:SS'."""
+    raw = (raw or "").strip()
+    if not raw:
+        return None
+    try:
+        parts = [int(p) for p in raw.split(":")]
+    except ValueError:
+        return None
+    secs = 0
+    for p in parts:
+        secs = secs * 60 + p
+    return secs or None
+
+
+def format_duration(seconds):
+    """Whole seconds as a compact label — '37 min', '1h 12m' — for the `extent`
+    field (nature_of()). Free on every item that carries <itunes:duration>."""
+    minutes = round(seconds / 60)
+    if minutes < 60:
+        return f"{minutes} min"
+    h, m = divmod(minutes, 60)
+    return f"{h}h {m}m" if m else f"{h}h"
+
+
 def parse_feed(raw):
-    """Return a list of {title, link, date, summary} from RSS 2.0 or Atom bytes."""
+    """Return a list of {title, link, link_kind, date, summary, author, duration, guid}.
+
+    `link` is the item's own web page where the feed gives one, and otherwise the
+    audio enclosure. Podcast hosting platforms with no public front end (Megaphone,
+    Amperwave, art19) routinely omit <link> entirely because there is no per-episode
+    page to point at, and requiring it discarded ~990 items across feeds we are
+    permitted to fetch — including every independent voice covering Oregon State.
+    The enclosure is unique per episode, so de-duplication (which keys on the link)
+    stays correct. Falling back further, to a shared channel URL, is NOT done here:
+    collect() does that, from the feed's own `channel_url`, since it would give many
+    items one href and needs the stable id scheme (keyed on guid) to stay safe.
+
+    `guid` is the feed's own per-item identifier (Atom's mandatory <id>, RSS's
+    optional <guid>) — kept separate from `link` because it is what the stable
+    story id gets built from (collect()), never the link itself.
+    """
     root = ET.fromstring(raw)
     items = []
     if root.tag == f"{ATOM}feed":
         for e in root.findall(f"{ATOM}entry"):
-            link = ""
+            link, enclosure = "", ""
             for l in e.findall(f"{ATOM}link"):
-                if l.get("rel") in (None, "alternate"):
+                rel = l.get("rel")
+                if rel in (None, "alternate") and not link:
                     link = l.get("href", "")
-                    break
+                elif rel == "enclosure" and not enclosure:
+                    enclosure = l.get("href", "")
             author = e.find(f"{ATOM}author")
             items.append({
                 "title": strip_html(text_of(e.find(f"{ATOM}title"))),
-                "link": link,
+                "link": link or enclosure,
+                "link_kind": "item" if link else ("enclosure" if enclosure else ""),
                 "date": parse_date(text_of(e.find(f"{ATOM}published")) or text_of(e.find(f"{ATOM}updated"))),
                 "summary": text_of(e.find(f"{ATOM}summary")) or text_of(e.find(f"{ATOM}content")),
                 "author": clean_author(text_of(author.find(f"{ATOM}name")) if author is not None else ""),
+                "duration": duration_seconds(text_of(e.find(f"{ITUNES}duration"))),
+                "guid": text_of(e.find(f"{ATOM}id")),
             })
     else:  # RSS 2.0
         for e in root.iter("item"):
+            link = text_of(e.find("link"))
+            enc = e.find("enclosure")
+            enclosure = (enc.get("url") or "").strip() if enc is not None else ""
             items.append({
                 "title": strip_html(text_of(e.find("title"))),
-                "link": text_of(e.find("link")),
+                "link": link or enclosure,
+                "link_kind": "item" if link else ("enclosure" if enclosure else ""),
                 "date": parse_date(text_of(e.find("pubDate"))),
                 "summary": text_of(e.find("description")),
                 "author": clean_author(text_of(e.find(f"{DC}creator")) or text_of(e.find("author"))),
+                "duration": duration_seconds(text_of(e.find(f"{ITUNES}duration"))),
+                "guid": text_of(e.find("guid")),
             })
-    return [i for i in items if i["title"] and i["link"]]
+    return [i for i in items if i["title"]]
 
 
 def clean_author(raw):
@@ -209,6 +262,19 @@ def clean_author(raw):
     if "@" in name and " " not in name:          # a bare email is not a byline
         return ""
     return name[:80]
+
+
+def item_id(source, guid, title):
+    """A story's identity, independent of whatever href ends up on its row.
+
+    Keyed on the feed's own guid/atom id when it has one — the field RSS and
+    Atom define for exactly this purpose — scoped by source so two feeds'
+    unscoped sequential guids can't collide. Falls back to the title when a
+    feed omits one. Never the link: a channel-page fallback (D 2026-09-02)
+    can put the same href on many rows, and hashing that would collapse their
+    identities the way the old link-keyed de-dup collapsed Locked On Zags."""
+    basis = guid or title
+    return hashlib.sha1(f"{source}\x1f{basis}".encode("utf-8")).hexdigest()[:16]
 
 
 def rel_time(dt, now):
@@ -271,7 +337,22 @@ def collect(cfg):
                 it["date"] = date_from_url(it["link"])
             if it["date"] is not None and it["date"] < oldest:
                 continue
+            channel_url = feed.get("channel_url", "")
+            if not it["link"]:
+                # No item link, no enclosure either (parse_feed already tried
+                # both). The channel is a source attribute, never an item one
+                # (D 2026-09-02): falling back to it here, rather than baking
+                # it into "link" at parse time, is what keeps it out of the
+                # id scheme and off every item that doesn't need it.
+                if not channel_url:
+                    continue  # nothing to send a reader to
+                it["link"] = channel_url
+                it["link_kind"] = "channel"
+            it["channel_url"] = channel_url
             it["source"] = feed["source"]
+            it["id"] = item_id(it["source"], it.pop("guid", ""), it["title"])
+            if it.get("duration"):
+                it["extent"] = format_duration(it["duration"])
             declared = feed["sport"]
             it["sport"] = (detect_sport(it["title"]) or "all") if declared == "all" else declared
             it["medium"] = feed.get("medium", "text")
@@ -1294,7 +1375,16 @@ def render_row(it, entry, cfg, now):
         maker.append('<a class="sch" href="/%s/">%s</a>'
                      % (esc(TEAM_SLUGS[it["_team"]], quote=True), esc(it["_team"])))
     if it.get("source"):
-        maker.append("<span>%s</span>" % esc(it["source"]))
+        # Two links, not one (D 2026-09-02), detailed rows only: the outlet
+        # name goes to its channel page when the source has one — suppressed
+        # when the headline already fell back to that same URL, since two
+        # links to one destination in a row is noise.
+        channel_url = it.get("channel_url")
+        if detailed and channel_url and channel_url != it["link"]:
+            maker.append('<a href="%s" target="_blank" rel="noopener">%s</a>'
+                         % (esc(channel_url, quote=True), esc(it["source"])))
+        else:
+            maker.append("<span>%s</span>" % esc(it["source"]))
     if it.get("author"):
         maker.append('<span class="by">%s</span>' % esc(it["author"]))
 
@@ -1546,17 +1636,55 @@ def render_about(roster, cfg, now):
     }
 
 
-def main():
-    cfg_path = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / "feeds.json"
-    cfg = json.loads(cfg_path.read_text())
-    now = datetime.now(timezone.utc)
-    by_team, report = collect(cfg)
-    ok = [r for r in report if r[2] == "ok"]
-    for team, url, status, detail in report:
-        print(f"[{status}] {team}: {url} — {detail}")
+# --- the story list ---------------------------------------------------------
+# The fetch/render split (item-review transport, step 3). collect()'s output,
+# serialized: what fetch.py writes and render.py reads, so the render half can
+# run on its own, hours later, on a machine with no reason to touch the
+# network. `main()` below still runs both halves in one process — nothing
+# about how the existing six-hourly workflow invokes this file changes — but
+# it does so by writing the list and reading it back, never by handing
+# `by_team` to the renderer directly, so the split is real rather than
+# notional. The story list also carries the fetch's own timestamp, which the
+# render half uses as "now" instead of asking the clock again — the
+# Observability lens (transport plan §1): a render run hours after its fetch
+# must say when the news is FROM, not when the page happened to be built.
+
+def serialize_story_list(by_team, generated_at):
+    def ser_item(it):
+        out = dict(it)
+        out["date"] = it["date"].isoformat() if it["date"] else None
+        return out
+    return {
+        "generated_at": generated_at.isoformat(),
+        "teams": {team: [ser_item(it) for it in items] for team, items in by_team.items()},
+    }
+
+
+def deserialize_story_list(data):
+    def deser_item(it):
+        out = dict(it)
+        out["date"] = datetime.fromisoformat(it["date"]) if it["date"] else None
+        return out
+    by_team = {team: [deser_item(it) for it in items] for team, items in data["teams"].items()}
+    return by_team, datetime.fromisoformat(data["generated_at"])
+
+
+def write_story_list(by_team, generated_at, path):
+    path.write_text(
+        json.dumps(serialize_story_list(by_team, generated_at), indent=2, ensure_ascii=False),
+        encoding="utf-8")
+
+
+def read_story_list(path):
+    return deserialize_story_list(json.loads(path.read_text(encoding="utf-8")))
+
+
+def render(cfg, list_path):
+    """The render half: reads a story list and never touches the network."""
+    by_team, now = read_story_list(list_path)
     total_items = sum(len(v) for v in by_team.values())
-    if not ok or total_items == 0:
-        print("ERROR: no feed produced any items; keeping the previous page.", file=sys.stderr)
+    if total_items == 0:
+        print("ERROR: story list has no items; keeping the previous page.", file=sys.stderr)
         sys.exit(1)
     out = HERE / cfg.get("output_dir", "site")
     out.mkdir(exist_ok=True)
@@ -1599,7 +1727,28 @@ def main():
     (about_dir / "index.html").write_text(render_about(roster, cfg, now), encoding="utf-8")
 
     print(f"Wrote {pages_written} index pages across {len(roster)} keys + about "
-          f"+ {watch_pages} watch pages — {total_items} items from {len(ok)}/{len(report)} feeds.")
+          f"+ {watch_pages} watch pages — {total_items} items.")
+
+
+def main():
+    """Fetch, then render — one command, so the workflow that already calls
+    `python3 build.py` sees no change from outside. Splits internally into
+    the same two steps fetch.py and render.py run separately."""
+    cfg_path = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / "feeds.json"
+    cfg = json.loads(cfg_path.read_text())
+    list_path = HERE / "story-list.json"
+    now = datetime.now(timezone.utc)
+    by_team, report = collect(cfg)
+    ok = [r for r in report if r[2] == "ok"]
+    for team, url, status, detail in report:
+        print(f"[{status}] {team}: {url} — {detail}")
+    total_items = sum(len(v) for v in by_team.values())
+    if not ok or total_items == 0:
+        print("ERROR: no feed produced any items; keeping the previous page.", file=sys.stderr)
+        sys.exit(1)
+    write_story_list(by_team, now, list_path)
+    print(f"Wrote story-list.json — {total_items} items from {len(ok)}/{len(report)} feeds.")
+    render(cfg, list_path)
 
 
 if __name__ == "__main__":

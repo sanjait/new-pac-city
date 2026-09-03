@@ -513,6 +513,42 @@
       "url": "https://anchor.fm/s/7b659ca0/podcast/rss",
       "weight": 1.15,
       "medium": "audio"
+    },
+    {
+      "team": "Oregon State",
+      "sport": "all",
+      "source": "State of the Beavs",
+      "url": "https://feeds.megaphone.fm/TDSPT5511450634",
+      "weight": 1.15,
+      "medium": "audio",
+      "channel_url": "https://cms.megaphone.fm/channel/TDSPT5511450634"
+    },
+    {
+      "team": "Oregon State",
+      "sport": "all",
+      "source": "Dam Podcast",
+      "url": "https://rss.amperwave.net/v2/feed/audacynetwork/20f52ba94086c14292592cb2eca6bf26",
+      "weight": 1.15,
+      "medium": "audio",
+      "channel_url": "https://cms.megaphone.fm/channel/CAD1283298451"
+    },
+    {
+      "team": "Washington State",
+      "sport": "all",
+      "source": "Washington State Cougars Podcast",
+      "url": "https://rss.art19.com/wsu-coors-light-cougar-podcast",
+      "weight": 1.15,
+      "medium": "audio",
+      "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast"
+    },
+    {
+      "team": "Boise State",
+      "sport": "all",
+      "source": "The Bronco Sports Podcast Network",
+      "url": "https://rss.art19.com/the-bronco-sports-podcast-network",
+      "weight": 1.15,
+      "medium": "audio",
+      "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network"
     }
   ],
   "output_dir": "docs",
