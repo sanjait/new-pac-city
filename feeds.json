@@ -549,6 +549,42 @@
       "weight": 1.15,
       "medium": "audio",
       "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network"
+    },
+    {
+      "team": "Oregon State",
+      "sport": "all",
+      "source": "The Daily Barometer",
+      "url": "https://dailybaro.orangemedianetwork.com/feed",
+      "topic_scope": "athletics-wide"
+    },
+    {
+      "team": "Colorado State",
+      "sport": "all",
+      "source": "The Colorado State Insider",
+      "url": "https://rss.art19.com/the-colorado-state-insider",
+      "weight": 1.15,
+      "medium": "audio",
+      "channel_url": "https://art19.com/shows/the-colorado-state-insider"
+    },
+    {
+      "team": "Washington State",
+      "sport": "all",
+      "source": "Jim Moore's Substack",
+      "url": "https://jimmoorethego2guy.substack.com/feed",
+      "topic_scope": "athletics-wide"
+    },
+    {
+      "team": "conference",
+      "sport": "all",
+      "source": "Press Break",
+      "url": "https://pressbreak.substack.com/feed"
+    },
+    {
+      "team": "Boise State",
+      "sport": "gymnastics",
+      "source": "College Gym News",
+      "url": "https://collegegymnews.com/feed/",
+      "topic_scope": "athletics-wide"
     }
   ],
   "output_dir": "docs",
