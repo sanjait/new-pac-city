@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:05:32.489754+00:00",
+  "generated_at": "2026-09-04T03:11:04.442205+00:00",
   "teams": {
     "conference": [
       {
@@ -198,6 +198,21 @@
         "weight": 1.0
       },
       {
+        "title": "Press Break FCS Top 25 Ballot Week 1",
+        "link": "https://pressbreak.substack.com/p/press-break-fcs-top-25-ballot-week",
+        "link_kind": "item",
+        "date": "2026-08-31T23:10:52+00:00",
+        "summary": "Furious and historic comebacks, outstanding individual performances and early-season shake-ups set the tone for the season to come.",
+        "author": "Kyle Kensing",
+        "duration": null,
+        "channel_url": "",
+        "source": "Press Break",
+        "id": "a146a3c0c4ea618e",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
         "title": "Pac-12 Players of the Week - Aug. 25, 2026",
         "link": "http://pac-12.com/news/2026/8/25/womens-soccer-pac-12-players-of-the-week-aug-25-2026.aspx",
         "link_kind": "item",
@@ -271,23 +286,56 @@
         "sport": "all",
         "medium": "text",
         "weight": 1.0
+      },
+      {
+        "title": "What-If Wednesday: Restructuring College Football in 1992 with the 24-Team Playoff",
+        "link": "https://pressbreak.substack.com/p/what-if-wednesday-restructuring-college",
+        "link_kind": "item",
+        "date": "2026-07-29T22:53:45+00:00",
+        "summary": "A pivotal year in sending college football down the path to the unrecognizable mess it is today offers possible solutions for both Playoff proponents and traditionalists.",
+        "author": "Kyle Kensing",
+        "duration": null,
+        "channel_url": "",
+        "source": "Press Break",
+        "id": "6c0fca77cb287065",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.0
       }
     ],
     "Boise State": [
       {
-        "title": "Broncos Open 2026 Campaign at No. 2/2 Oregon",
-        "link": "https://broncosports.com/news/2026/9/3/football-broncos-open-2026-campaign-at-no-2-2-oregon",
+        "title": "Broncos travel to Oregon to open 2026 season",
+        "link": "https://www.arbiteronline.com/2026/09/03/broncos-travel-to-oregon-to-open-2026-season/",
         "link_kind": "item",
-        "date": "2026-09-03T22:00:00+00:00",
-        "summary": "<img alt=\"Oregon Week 1 Preview\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/FB26-Game-Preview-WK1-OREGON.jpg\" /><br /><br />Boise State will kick off its 2026 season on the road against No. 2/2 Oregon on Saturday, Sept. 5 at 1:30 p.m. MT.",
-        "author": "",
+        "date": "2026-09-04T01:25:03+00:00",
+        "summary": "<p>The 2026 season will waste no time testing Boise State, as the Broncos hit the road to face the No. 2 Oregon Ducks at the ever-so-imposing Autzen Stadium for their season-opener on Sept. 5.&#160; The two programs meet for the first time since Oregon’s 37-34 win in week two of the 2024 season. A game [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/09/03/broncos-travel-to-oregon-to-open-2026-season/\">Broncos travel to Oregon to open 2026 season</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "author": "Jake Zamora",
         "duration": null,
         "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "f28443778c890579",
-        "sport": "football",
+        "source": "The Arbiter",
+        "id": "f4fac42227b8f729",
+        "sport": "all",
         "medium": "text",
-        "weight": 1.0
+        "weight": 1.15,
+        "also": [
+          "Boise State Athletics"
+        ]
+      },
+      {
+        "title": "Boise State Roster Countdown 2026: Day 2, Madden Soliai",
+        "link": "https://firstkickwasgood.com/2026/09/03/boise-state-roster-countdown-2026-day-2-madden-soliai/",
+        "link_kind": "item",
+        "date": "2026-09-04T01:06:01+00:00",
+        "summary": "Folks, we&#8217;re nearing the finish line now. After you read this, check out the preview for Saturday&#8217;s game! But for today, let&#8217;s talk about Madden Soliai: #10, Madden Soliai, Freshman, DB Stats Height: 5&#8217;9 Weight: 191 High school: Kahuku HS (Laie, HI) How’d he get to The Blue™? Soliai was the #1 CB in the [&#8230;]",
+        "author": "HunterFKWG",
+        "duration": null,
+        "channel_url": "",
+        "source": "First Kick Was Good",
+        "id": "9a7392561bde38c1",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
       },
       {
         "title": "Mana Tuioti Embraces his Role in the Bronco Brotherhood",
@@ -712,21 +760,6 @@
         "weight": 1.15
       },
       {
-        "title": "Boise State Roster Countdown 2026: Day 10, Cash Herrera",
-        "link": "https://firstkickwasgood.com/2026/08/26/boise-state-roster-countdown-2026-day-10-cash-herrera/",
-        "link_kind": "item",
-        "date": "2026-08-27T05:17:46+00:00",
-        "summary": "*TEN DAYS TO GO*. Got a &#8216;lil preview of pregame anxiety just thinking about it. For now, presenting Mr. #10, Cash Herrera: #10, Cash Herrera, Freshman, QB Stats Height: 6&#8217;2 Weight: 204 High school: The Bishop&#8217;s School (La Jolla, CA) How’d he get to The Blue™? Cash made a few stops on his way to [&#8230;]",
-        "author": "HunterFKWG",
-        "duration": null,
-        "channel_url": "",
-        "source": "First Kick Was Good",
-        "id": "9981dcfe6f4f01ec",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
         "title": "Boise State Set for Daytona Beach Classic",
         "link": "https://broncosports.com/news/2026/8/26/womens-basketball-boise-state-set-for-daytona-beach-classic",
         "link_kind": "item",
@@ -1003,6 +1036,38 @@
         "weight": 1.0
       },
       {
+        "title": "CSU Insider | Football Season Opener Preview | September 2, 2026",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/84655d3d-7c67-4794-bcb9-1266798b1267.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-09-02T06:00:00+00:00",
+        "summary": "<p>(S10, E4) This week on the Colorado State Insider Podcast, game week is finally here as Colorado State gets ready to kick off the 2026 football season on Saturday. Brian welcomes new Rams Radio color analyst Marty Lenz to the broadcast team and the two preview the season ahead for CSU.</p><p>Then, Keith Kelley, the Voice of the Wyoming Cowboys, joins the podcast for an inside look at Saturday’s opponent and what the Rams can expect in the season opener. Plus, we recap the opening weekend for CSU volleyball after the Rams’ first three matches of the season.</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3441,
+        "channel_url": "https://art19.com/shows/the-colorado-state-insider",
+        "source": "The Colorado State Insider",
+        "id": "3edb328f19606b36",
+        "extent": "57 min",
+        "sport": "football",
+        "medium": "audio",
+        "weight": 1.15
+      },
+      {
+        "title": "The Jim Mora Football Show 09-02-26",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/489a4e0b-b315-406f-8f6f-f27d2f9442f3.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-09-02T05:00:00+00:00",
+        "summary": "<p>The Jim Mora Football Show 09-02-26</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3192,
+        "channel_url": "https://art19.com/shows/the-colorado-state-insider",
+        "source": "The Colorado State Insider",
+        "id": "9d899e06ea0feca1",
+        "extent": "53 min",
+        "sport": "football",
+        "medium": "audio",
+        "weight": 1.15
+      },
+      {
         "title": "Game Week: The Border War",
         "link": "https://csurams.com/news/2026/8/31/football-game-week-the-border-war",
         "link_kind": "item",
@@ -1125,6 +1190,22 @@
         "weight": 1.0
       },
       {
+        "title": "CSU Insider | Football & Volleyball Season Preview | August 26, 2026",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/c6c220d4-d57e-4877-b5a5-3b67ed33f39f.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-08-26T06:00:00+00:00",
+        "summary": "<p>(S10, E3) This week on the Colorado State Insider Podcast, we preview the 2026 CSU volleyball season with fourth-year head coach Emily Kohan as the Rams prepare to open the year this weekend against UC Davis and No. 11 SMU.</p><p>Then, we continue our Colorado State football coverage with linebacker Oumar Diomande, who joins the podcast as the Rams move closer to the season opener. Plus, Mike Brohard of CSURams.com joins Brian to break down the latest from fall camp and take a closer look at the Rams heading into the final week before kickoff.</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3265,
+        "channel_url": "https://art19.com/shows/the-colorado-state-insider",
+        "source": "The Colorado State Insider",
+        "id": "5945b93420388d14",
+        "extent": "54 min",
+        "sport": "football",
+        "medium": "audio",
+        "weight": 1.15
+      },
+      {
         "title": "Sean Moran: The play that changed CSU football, the Sonny Lubick era, and why Jim Mora can bring it back",
         "link": "https://bleav.com/shows/ramnation-radio/episodes/sean-moran-the-play-that-changed-csu-football-the-sonny-lubick-era-and-why-jim-mora-can-bring-it-back/",
         "link_kind": "item",
@@ -1136,6 +1217,22 @@
         "source": "RamNation Radio",
         "id": "8f495974451f9aa6",
         "extent": "58 min",
+        "sport": "football",
+        "medium": "audio",
+        "weight": 1.15
+      },
+      {
+        "title": "CSU Insider | 2026 CSU Football Defense Preview | August 19, 2026",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/97c508e6-ee3e-4333-89a4-f72290338ef5.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-08-19T06:00:00+00:00",
+        "summary": "<p>(S10, E2) This week on the Colorado State Insider podcast, we continue our month-long preview of the 2026 CSU football season with a look at the Rams defense. Defensive back C.J. Blocker, defensive linemen Mukendi Wa-Kalonji and Kenyon Agurs join the podcast, along with associate head coach Kenny McClendon. We break down the personnel, position battles and storylines on the defensive side of the ball as the Rams move closer to the season opener.</p><p>Plus, we check in on CSU soccer after a 1-1 start to the season, including Sunday’s win over Denver.</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3087,
+        "channel_url": "https://art19.com/shows/the-colorado-state-insider",
+        "source": "The Colorado State Insider",
+        "id": "f8bec0c063ecb4c1",
+        "extent": "51 min",
         "sport": "football",
         "medium": "audio",
         "weight": 1.15
@@ -1168,6 +1265,22 @@
         "id": "783558b374a7a13f",
         "extent": "38 min",
         "sport": "all",
+        "medium": "audio",
+        "weight": 1.15
+      },
+      {
+        "title": "CSU Insider | Jim Mora & 2026 Football Preview | August 12, 2026",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/3928d2df-3e8c-477c-88d8-e50fd21c3082.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-08-12T06:00:00+00:00",
+        "summary": "<p>(S10, E1) This week on the Colorado State Insider Podcast, Season 10 begins with the start of our month-long preview of the 2026 CSU football season. Brian sits down one-on-one with head coach Jim Mora to talk about his first fall camp in Fort Collins, building the Rams and what he’s seeing from his team.</p><p>Then, we turn our attention to the CSU offense. Quarterbacks K’saan Farrar and Hauss Hejny join the podcast as the competition continues under center, along with offensive lineman Phillip Ocon and newcomer running back Durell Robinson. Plus, a look at the key offensive position battles and storylines emerging from fall camp.</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 4067,
+        "channel_url": "https://art19.com/shows/the-colorado-state-insider",
+        "source": "The Colorado State Insider",
+        "id": "c7b7bb45d61682cb",
+        "extent": "1h 8m",
+        "sport": "football",
         "medium": "audio",
         "weight": 1.15
       },
@@ -1249,6 +1362,24 @@
       }
     ],
     "Fresno State": [
+      {
+        "title": "Game Preview: Fresno State at USC",
+        "link": "https://www.yourcentralvalley.com/bulldog-sports/game-preview-fresno-state-at-usc/",
+        "link_kind": "item",
+        "date": "2026-09-04T01:47:22+00:00",
+        "summary": "(KSEE/KGPE)- Fresno State football opens the 2026 season on Friday night at No. 14 USC. The Bulldogs are on the hunt for their first victory over the Trojans since 1992. Sports Central's Dylan Morgan reports from the LA Memorial Coliseum.",
+        "author": "Angelique Martinez",
+        "duration": null,
+        "channel_url": "",
+        "source": "YourCentralValley",
+        "id": "e09625a4ad601378",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15,
+        "also": [
+          "Beware of Bulldogs"
+        ]
+      },
       {
         "title": "Fresno State football has its leaders",
         "link": "https://fscollegian.com/2026/09/fresno-state-football-has-its-leaders/",
@@ -1354,22 +1485,6 @@
         "sport": "football",
         "medium": "text",
         "weight": 1.0
-      },
-      {
-        "title": "Fresno State NEW QB + USC Preview",
-        "link": "https://podcasters.spotify.com/pod/show/beware-of-bulldogspodcast/episodes/Fresno-State-NEW-QB--USC-Preview-e3o6kso",
-        "link_kind": "item",
-        "date": "2026-09-01T16:42:41+00:00",
-        "summary": "<p>Wild day! Fresno State has named its starting QB along with the 2-Deep for this Friday vs USC. We are also previewing the USC game! Fresno State Football is here. Tell your friends to tune in!</p>",
-        "author": "Beware of Bulldogs Podcast",
-        "duration": 5290,
-        "channel_url": "",
-        "source": "Beware of Bulldogs",
-        "id": "21c053b5401b40d1",
-        "extent": "1h 28m",
-        "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
       },
       {
         "title": "Bulldogs open 2026 season at No. 14 USC",
@@ -2952,6 +3067,21 @@
         "weight": 1.15
       },
       {
+        "title": "OSU and Washington’s women’s soccer game breaks three-game tie streak",
+        "link": "https://dailybaro.orangemedianetwork.com/32854/daily-barometer-sports/osu-and-washingtons-womens-soccer-game-breaks-three-game-tie-streak/",
+        "link_kind": "item",
+        "date": "2026-08-31T16:48:09+00:00",
+        "summary": "Beaver and Husky fans gathered at the Paul Lorenz Field on Sunday evening to watch the Oregon State University and No. 11 University of Washington women&#8217;s soccer teams go head-to-head. Both teams have faced off many times before, but in the past three games they played against each other, the scores were tied: 1-1 in...",
+        "author": "Shayna Boettner, Sports Writer",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "7d1dd3edd4477ffe",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
         "title": "Oregon State's new era begins with one of its toughest possible road tests",
         "link": "https://www.oregonlive.com/beavers/2026/08/oregon-state-begins-jamarcus-shephard-era-at-no-23-houston-sneak-peek.html",
         "link_kind": "item",
@@ -3117,36 +3247,6 @@
         "weight": 1.15
       },
       {
-        "title": "2 linemen no longer with Oregon State football team",
-        "link": "https://www.oregonlive.com/beavers/2026/08/2-linemen-no-longer-with-oregon-state-football-team.html",
-        "link_kind": "item",
-        "date": "2026-08-28T01:27:51+00:00",
-        "summary": "It’s not immediately clear why Hill and Shull are no longer with the program and neither were at practice Thursday morning.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "58f4726c9a1edc7f",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Oregon State hasn't decided if 2 players facing felony charges can play — and the season is 9 days away",
-        "link": "https://www.oregonlive.com/beavers/2026/08/oregon-state-awaits-decision-on-ayers-and-sullivan-amid-pending-felony-charges.html",
-        "link_kind": "item",
-        "date": "2026-08-28T01:17:39+00:00",
-        "summary": "Oregon State has yet to decide if cornerback Exodus Ayers and linebacker Aiden Sullivan, both facing felony charges, will play this season.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "f8121134b135ba0d",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
         "title": "Beaver Football: The Defense Meets The Media (August 27, 2026)",
         "link": "https://osubeavers.com/news/2026/8/27/beaver-football-the-defense-meets-the-media-august-27-2026",
         "link_kind": "item",
@@ -3193,6 +3293,21 @@
         "weight": 1.0
       },
       {
+        "title": "Shephard discusses Atkinson pick",
+        "link": "https://dailybaro.orangemedianetwork.com/32843/daily-barometer-sports/shephard-discusses-atkinson-pick/",
+        "link_kind": "item",
+        "date": "2026-08-25T21:48:11+00:00",
+        "summary": "The Oregon State University football team announced Mercer transfer Braden Atkinson as the selection for the first-string quarterback position on Monday. This announcement came after weeks of speculation on the pick.  Atkinson was chosen as the starter over returning starting quarterback Maalik Murphy and Western Michigan transfer Brady Jones. Head Coach JaMarcus Shephard held a...",
+        "author": "Colton Freeman, Sports Writer",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "b5f4127b97c3d2dc",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
         "title": "Beaver Football: JaMarcus Shephard Meets The Media (August 25, 2026)",
         "link": "https://osubeavers.com/news/2026/8/25/beaver-football-jamarcus-shephard-meets-the-media-august-25-2026",
         "link_kind": "item",
@@ -3204,6 +3319,21 @@
         "source": "Oregon State Athletics",
         "id": "4754250627d037ff",
         "sport": "football",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
+        "title": "OSU remains a school",
+        "link": "https://dailybaro.orangemedianetwork.com/32829/daily-barometer-news/osu-remains-a-school/",
+        "link_kind": "item",
+        "date": "2026-08-25T20:17:59+00:00",
+        "summary": "This summer, the Northwest Commission on Colleges and Universities reaffirmed Oregon State University’s accreditation. This renews OSU’s six-year accreditation cycle. “(OSU is) very proud of the results of the accreditation review. Having our accreditation status reaffirmed was the baseline goal even though we had no concerns about meeting this goal,”  Rebecca Mathern, the associate vice...",
+        "author": "Lucy Gilchrist, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "9ad502ccae0b182d",
+        "sport": "all",
         "medium": "text",
         "weight": 1.0
       },
@@ -3268,6 +3398,21 @@
         "weight": 1.0
       },
       {
+        "title": "Guest column: Turning environmental awareness into community action",
+        "link": "https://dailybaro.orangemedianetwork.com/32789/opinion/guest-column-turning-environmental-awareness-into-community-action/",
+        "link_kind": "item",
+        "date": "2026-08-19T19:14:37+00:00",
+        "summary": "Editor’s Note: This is a guest column and does not reflect the views or opinions of The Daily Barometer.  To the Editor, I am writing to explain exactly why the article about Oregon State University pausing the Eco-Representative program for the 2026-2027 academic year left me so frustrated that I reached out. This was not...",
+        "author": "Matthew Rowen, Guest Columnist",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "ba29c5eaa655fdf2",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
         "title": "Beavers Open Canadian Tour with Win",
         "link": "https://osubeavers.com/news/2026/8/18/mens-basketball-beavers-open-canadian-tour-with-win",
         "link_kind": "item",
@@ -3294,6 +3439,36 @@
         "source": "Oregon State Athletics",
         "id": "9f7e5809b31e8344",
         "sport": "wbb",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
+        "title": "Meet the five Beavers recognized preseason",
+        "link": "https://dailybaro.orangemedianetwork.com/32782/daily-barometer-sports/meet-the-five-beavers-recognized-preseason/",
+        "link_kind": "item",
+        "date": "2026-08-17T23:52:51+00:00",
+        "summary": "Editor’s note: This is a column and does not reflect the views or opinions of The Daily Barometer.  With the 2026 Pac-12 football season approaching, the conference has named five Oregon State University players to keep an eye on. The conference announced its 2026 Preseason Impact List earlier this month, highlighting five players from each...",
+        "author": "Leo Diamond, Sports Writer",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "330f34a780c05ca5",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
+        "title": "ASOSU to hand out 5,000 t-shirts this fall",
+        "link": "https://dailybaro.orangemedianetwork.com/32780/daily-barometer-news/asosu-to-hand-out-5000-t-shirts-this-fall/",
+        "link_kind": "item",
+        "date": "2026-08-17T17:00:35+00:00",
+        "summary": "During Connect Week, which is a month away, the Associated Students of Oregon State University will be handing out t-shirts to OSU students. This is an attempt to bring more visibility to ASOSU, which only saw 10.5% of the student body vote in the most recent election, according to ASOSU Senator Amelka Wojtkowska. “That’s far...",
+        "author": "Lucy Gilchrist, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "292d2248ae32c771",
+        "sport": "all",
         "medium": "text",
         "weight": 1.0
       },
@@ -4153,6 +4328,21 @@
     ],
     "Texas State": [
       {
+        "title": "UTEP outlasts the ‘Cats in five set comeback",
+        "link": "https://universitystar.com/36168/volleyball/utep-outlasts-the-cats-in-five-set-comeback/",
+        "link_kind": "item",
+        "date": "2026-09-04T02:29:30+00:00",
+        "summary": "Ema Uskokovic led the way for the UT-El Paso Miners as they completed a reverse sweep (26-24, 25-19, 25-22, 25-12, 15-10) of the Texas State Bobcats at the Southwest Showdown at the Dugan Wellness Center in Corpus Christi, Texas. Uskokovic totaled 14 kills and contributed 12 digs on the defensive end. Lauren Perry and Mackenzi...",
+        "author": "Luke Landa, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "1e226b9c90b8995f",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
         "title": "Game Preview: TXST at No. 5/4 Texas",
         "link": "https://txst.com/news/2026/9/3/football-game-preview-txst-at-no-5-4-texas.aspx",
         "link_kind": "item",
@@ -4433,21 +4623,6 @@
         "channel_url": "",
         "source": "The University Star",
         "id": "c5ecfca1bef5b73e",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "TXST Volleyball looks ahead to a new era",
-        "link": "https://universitystar.com/36045/sports/txst-volleyball-looks-ahead-to-a-new-era/",
-        "link_kind": "item",
-        "date": "2026-08-25T17:00:03+00:00",
-        "summary": "Texas State volleyball enters the 2026 campaign with a roster overhaul coinciding with a move to the Pac-12 Conference under seven-year head coach Sean Huiet. The Bobcats previously played in two exhibition games earlier this month at Strahan Arena, splitting the results with a loss to Tarleton State and a win that played out to...",
-        "author": "Crystal Creek, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "5bdfa67e2b657acc",
         "sport": "all",
         "medium": "text",
         "weight": 1.15
@@ -4977,21 +5152,6 @@
         "weight": 1.15
       },
       {
-        "title": "Cougar soccer heads to Hawaii for two games",
-        "link": "https://dailyevergreen.com/198498/sports/soccer/cougar-soccer-heads-to-hawaii-for-two-games/",
-        "link_kind": "item",
-        "date": "2026-09-03T07:00:46+00:00",
-        "summary": "The Cougs (2-2-1) are back on the road to face the Utah Valley Wolverines and University of Hawaii at Manoa, both matchups taking place in Hawaii.  Last time on the pitch  The Cougars faced the UC Irvine Anteaters in their last game finding two late goals in a 2-0 win.  “Feeling good again, I mean...",
-        "author": "BEN WALKER, Evergreen reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "1bcd608661dc80fb",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
         "title": "Cougar Football Hour 9-2-26 (Kirby Moore, Tony Freeman & Derek Sage)",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/b76b41dd-bf47-4a6e-b4a6-a50f483031ee.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -5012,7 +5172,7 @@
         "link": "http://www.spokesman.com/stories/2026/sep/03/i-wouldnt-change-a-thing-to-earn-wsus-starting-cen/",
         "link_kind": "item",
         "date": "2026-09-03T00:00:00+00:00",
-        "summary": "<p>PULLMAN – At first glance, you notice a lot about Noah Dunham, Washington State’s next starting center.</p><p>First, he’s massive, checking in at 6-foot-5 and a few pounds shy of 300. He’s also got two thigh tattoos, one with a black 1971 inscription and the other with 1975 lettering, the years that parents Andrea and Mike were born. You also notice that he smiles easily, much closer to a giant teddy bear than an intimidating Division-I football player.</p><p>What you don’t understand until you get to know him, though, is what has helped him finally earn a starting role after waiting three long years for the opportunity: He has no problem asking for help. Before a couple days of the Cougars’ fall camp, he says, he arrived at the Cougar Football Complex feeling a bit off, a bit sluggish. In those instances, he gave his teammates on the offensive line a heads up. “I’ve got no shame,” he says. “I’ll tell them, like, hey, I need y’all a little more today.”</p><p>In his fourth season at WSU, Dunham has transitioned from guard to center, making what would normally be a turbulent change seem seamless. He earned first-team reps across spring ball and fall camp, indicating that when WSU’s offense takes the field Sunday afternoon at No. 17 Washington in both teams’ season-openers, Dunham will be the one snapping the ball to Cougar quarterback Caden Pinnick.</p><p>To earn such an opportunity, Dunham had to show the patience of a monk. He redshirted and didn’t play as a true freshman in 2023. He played in just three games in 2024. Last season, he played in nine games, including two as a starter, but those appearances came because of injuries to WSU’s starters. Heading into this fall, Dunham has played fewer than 250 snaps of offense at the college level.</p><p>Somewhere near the heart of the operation has been Dunham’s combination of patience and willingness to ask for help, two qualities that some people spend their entire lives developing. At age 21, Dunham has gotten them down, which has paved the way to the biggest opportunity of his life: A starting role in coach Kirby Moore’s offense, a key gig on a Washington State team that figures to compete for the top half of the retooled Pac-12.</p><p>“I think it’s a little mix of both, of me being open and them just knowing me so well,” Dunham said. “They can tell when something’s off. So besides them knowing, they can tell I’m a little flat, I don’t know. It really is like brothers. It just feels like I’m talking to my family.”</p><p>“He just trusts his teammates, the guys next to him,” said Mike, Noah’s father. “He takes his responsibilities so seriously so seriously that it would hurt him to let them down, and if he knew that he was stepping into a battle and that he couldn’t perform to the level that the expectation is, he would be like, ‘I need someone to step in because I cannot do this.’ It would really bother him to let his teammates down. It’s a very humbling thing for him to do, but he would rather not let the team down than hurt himself.”</p><p>It’s a tricky thing: Dunham’s family, the teammates he calls brothers, have sometimes been the same men he’s competing against for jobs. How does he walk that fine line? If you aren’t sure, well, you might not know Noah Dunham.</p><!--[photo id=862574]--><p>Dunham knew he was close last year. During last season’s fall camp, he was locked in a position battle with transfer AJ Vaipulu for the starting right guard spot, which was the position Dunham played as a freshman. He’s always fashioned himself an interior offensive lineman – he briefly moved to center as a sophomore – and now with more experience in the program, he figured his time was coming soon.</p><p>After a weekslong competition, coaches awarded the starting spot to Vaipulu, making Dunham the backup. Dunham went on to play a shade over 200 snaps of offense that season – he made starts against Toledo and Oregon State when injuries befell the Cougs’ offensive line – but all told, it added up to another year of waiting for the Yuba City, California native.</p><p>If Dunham felt any frustration, he didn’t show it. Instead, what he showed was quite the opposite: an inclination to learn, a sense of urgency to pick up things from Vaipulu’s game that would help him with his own. In practice, when Dunham would notice Vaipulu working on things that weren’t coming from coaches, he would go up to Vaipulu.</p><p>“And I’d go ask him about that,” Dunham said. “That was what I thought was really cool: we both knew it. We were fighting for that spot, but he had no problem helping me out. Whenever we talk ball, it wasn’t like he was to give me shortcuts so I mess up or anything. He’s telling me exactly what he does, to get me better, even though he knows that I’m on his heels.”</p><p>“As the mom, I was like, ‘I’m so mad about that. This is so unfair. This is so unfair,’” Andrea said. “And then the 20-year-old turns around, and he’s more mature than I am. He says, ‘no, mom, it’s OK. He won the battle fair and square, and it’s OK. It wasn’t in God’s plan for it to happen right now, and I’m just gonna watch him, and I’m gonna learn, and I’m gonna grow and develop from watching him and get better.’ And I’m like, ‘oh OK, fine then. Way to have that mindset.’”</p><p>Turns out, so much of Dunham’s patience and endurance comes from the way he thinks about things logically, the way he likes to examine how things are really playing out. When he was growing up, his parents said, his travel baseball coach would ask him series of questions like this: You’ve got a runner on third and first. There’s two outs. Guy hits the ball here. What are you gonna do as a defender? Where is the ball gonna go?”</p><p>Now playing center, Dunham has to think similarly when he breaks the huddle and heads to the line of scrimmage. In those moments, his eyes scan the opposing defense and go through a series of checks: He has to know where the tight end is, that way he knows which way the play is going. He looks to see whether the opposing safety is backed up or closer to the line of scrimmage, which gives him a clue as to what the linebackers might be doing, which in turn alerts him to more about what kind of look the defense will unveil.</p><p>He admits some of it felt overwhelming, especially in the first days of fall camp, when the Cougs were five or six new plays per day. But that’s when he likes to rely on more help, from coaches like offensive line coach Jack Abercrombie or tight ends coach Durham Cato. “They do a great job explaining to me,” Dunham said, “‘OK, if you see this, you see the numbers to this side, you know that it’s just defense.’ There’s only so much defense.”</p><p>“I told him the other night, he’s done a really good job with his physicality and his mentality, and that bleeds into the rest of the group,” Abercrombie said. “When he’s right with that, I know a lot of guys follow suit. Very similar to Ashton Tripp, which we talked about last week. He’s a steady Eddie, does the right thing, says the right things. Noah, naturally, playing the center position, you’re gonna be asked to do things, make the call, make sure everybody’s on the right page with the verbal combat in the pre-snap. Yeah, it’s critical. He has to talk. That comes with the job.”</p><p>That’s the other thing about Dunham: Naturally, he exudes a quiet brand of confidence, not the loud type. He doesn’t strike you as immediately talkative, and those who know him best say there’s some truth behind that. Andrea likes to joke that when Noah was a toddler, when the family would all be hanging out together in their living room, it would suddenly hit her: <em>Crap, where’s Noah?</em></p><p>“And I’d just find him in the toy room, sitting with 100 books in front of him, sitting and reading quietly,” Andrea laughed.</p><p>Throughout Noah’s adolescence, he became a low-maintenance kid, the type who his parents never really worried about. He’s one of four siblings. He would never need a nap, Andrea said, and she knew her son would always fall asleep when he needed to at night. “Just the easiest, most quiet-natured kid,” Andrea said. “That’s kinda how he’s been all along.”</p><p>Liam, Noah’s older brother, is quite the opposite. He finds it easy to be vocal. Seeing that, Mike would sometimes tell Noah: “Noah, come on, speak up. You gotta lead with your voice.” Andrea would respond: “No, Mike, that’s just not how he leads.” Even at WSU, Noah has mentioned in previous years that he prefers to lead by example.</p><p>“But I do think that last season,” Andrea said, “towards the end of the season, when I mentioned that he started getting that fire in his belly a little bit, he shared with me that when his teammates weren’t doing what they were supposed to be doing, he was gonna start vocally holding them accountable.”</p><p>For Noah, that has been the other learning curve that has defined his journey, the new skill he’s had to polish just like his pass-blocking acumen. During fall camp, he said he had to work to “find his voice,” to feel comfortable speaking up and vocally pointing teammates in the right direction. It doesn’t occur to him naturally.</p><p>So how did Dunham unlock that level of comfortability? The answer is what ties his ascent together, the same reason he chose to stay at Washington State through the turbulence that has rocked the university at large: The Pac-12’s collapse and rebirth, two head coaching changes, hundreds of different teammates.</p><p>“The bottom line is just the connection part, getting to know people,” Dunham said. “I think that when you know someone on a level like that, they’re able to take your leadership role, or whatever you want to call it, more seriously. They’re not gonna look at me and be like, oh, he’s just talking. I truly do care about how you are on and off the field. It does get hard, and that’s what matters to me – how are you?”</p><p>“He’s resilient, hard worker,” said former WSU center Brock Dieu, who was teammates with Dunham from 2023-25. “He hasn’t always had it easy. He always showed up to practice and workouts with a smile, and man, he would work so hard. He would never take credit for the good things he did. So you can’t say enough. He’s a true offensive lineman.”</p><!--[photo id=894457]--><p>It’s quiet in the tight ends meeting room on the fourth floor of the Cougar Football Complex, which is where Dunham finds himself on a Thursday afternoon in late August, angling toward the end of his fourth fall camp at Washington State.</p><p>Just outside the room, the Gray W is bustling with athletes from an array of programs, soccer players and volleyball players and basketball players all lining up for mid-day grub. It’s a scorcher outside, so Dunham and the other Cougar athletes are grateful to have this facility, a five-floor complex that serves so many different purposes.</p><p>Dunham has been here before, at this stage of fall camp before. He’s gone through the hot practices, the slogs, the dog days when he felt like this opportunity was far away. Now it’s here. When he looks back, Dunham says, he appreciates the journey for exactly what it was: The long walk, the struggle, the route that forced him to confront his own insecurities and turn them into strengths, forging them into the kinds of assets that helped him transform from the long-haired freshman into the cleaner-cut junior at the center of the Cougars’ operations.</p><p>“If I was able to go back,” Dunham said, “I wouldn’t change a thing.”</p>",
+        "summary": "<p>PULLMAN – At first glance, you notice a lot about Noah Dunham, Washington State’s next starting center.</p><p>First, he’s massive, checking in at 6-foot-5 and a few pounds shy of 300. He’s also got two thigh tattoos, one with a black 1971 inscription and the other with 1975 lettering, the years that parents Andrea and Mike were born. You also notice that he smiles easily, much closer to a giant teddy bear than an intimidating Division-I football player.</p><p>What you don’t understand until you get to know him, though, is what has helped him finally earn a starting role after waiting three long years for the opportunity: He has no problem asking for help. Before a couple days of the Cougars’ fall camp, he says, he arrived at the Cougar Football Complex feeling a bit off, a bit sluggish. In those instances, he gave his teammates on the offensive line a heads up. “I’ve got no shame,” he says. “I’ll tell them, like, hey, I need y’all a little more today.”</p><p>In his fourth season at WSU, Dunham has transitioned from guard to center, making what would normally be a turbulent change seem seamless. He earned first-team reps across spring ball and fall camp, indicating that when WSU’s offense takes the field Sunday afternoon at No. 17 Washington in both teams’ season-openers, Dunham will be the one snapping the ball to Cougar quarterback Caden Pinnick.</p><p>To earn such an opportunity, Dunham had to show the patience of a monk. He redshirted and didn’t play as a true freshman in 2023. He played in just three games in 2024. Last season, he played in nine games, including two as a starter, but those appearances came because of injuries to WSU’s starters. Heading into this fall, Dunham has played fewer than 250 snaps of offense at the college level.</p><p>Somewhere near the heart of the operation has been Dunham’s combination of patience and willingness to ask for help, two qualities that some people spend their entire lives developing. At age 21, Dunham has gotten them down, which has paved the way to the biggest opportunity of his life: A starting role in coach Kirby Moore’s offense, a key gig on a Washington State team that figures to compete for the top half of the retooled Pac-12.</p><p>“I think it’s a little mix of both, of me being open and them just knowing me so well,” Dunham said. “They can tell when something’s off. So besides them knowing, they can tell I’m a little flat, I don’t know. It really is like brothers. It just feels like I’m talking to my family.”</p><p>“He just trusts his teammates, the guys next to him,” said Mike, Noah’s father. “He takes his responsibilities so seriously that it would hurt him to let them down, and if he knew that he was stepping into a battle and that he couldn’t perform to the level that the expectation is, he would be like, ‘I need someone to step in because I cannot do this.’ It would really bother him to let his teammates down. It’s a very humbling thing for him to do, but he would rather not let the team down than hurt himself.”</p><p>It’s a tricky thing: Dunham’s family, the teammates he calls brothers, have sometimes been the same men he’s competing against for jobs. How does he walk that fine line? If you aren’t sure, well, you might not know Noah Dunham.</p><!--[photo id=862574]--><p>Dunham knew he was close last year. During last season’s fall camp, he was locked in a position battle with transfer AJ Vaipulu for the starting right guard spot, which was the position Dunham played as a freshman. He’s always fashioned himself an interior offensive lineman – he briefly moved to center as a sophomore – and now with more experience in the program, he figured his time was coming soon.</p><p>After a weekslong competition, coaches awarded the starting spot to Vaipulu, making Dunham the backup. Dunham went on to play a shade over 200 snaps of offense that season – he made starts against Toledo and Oregon State when injuries befell the Cougs’ offensive line – but all told, it added up to another year of waiting for the Yuba City, California, native.</p><p>If Dunham felt any frustration, he didn’t show it. Instead, what he showed was quite the opposite: an inclination to learn, a sense of urgency to pick up things from Vaipulu’s game that would help him with his own. In practice, when Dunham would notice Vaipulu working on things that weren’t coming from coaches, he would go up to Vaipulu.</p><p>“And I’d go ask him about that,” Dunham said. “That was what I thought was really cool: we both knew it. We were fighting for that spot, but he had no problem helping me out. Whenever we talk ball, it wasn’t like he was to give me shortcuts so I mess up or anything. He’s telling me exactly what he does, to get me better, even though he knows that I’m on his heels.”</p><p>“As the mom, I was like, ‘I’m so mad about that. This is so unfair. This is so unfair,’” Andrea said. “And then the 20-year-old turns around, and he’s more mature than I am. He says, ‘no, mom, it’s OK. He won the battle fair and square, and it’s OK. It wasn’t in God’s plan for it to happen right now, and I’m just gonna watch him, and I’m gonna learn, and I’m gonna grow and develop from watching him and get better.’ And I’m like, ‘oh OK, fine then. Way to have that mindset.’”</p><p>Turns out, so much of Dunham’s patience and endurance comes from the way he thinks about things logically, the way he likes to examine how things are really playing out. When he was growing up, his parents said, his travel baseball coach would ask him series of questions like this: You’ve got a runner on third and first. There’s two outs. Guy hits the ball here. What are you gonna do as a defender? Where is the ball gonna go?”</p><p>Now playing center, Dunham has to think similarly when he breaks the huddle and heads to the line of scrimmage. In those moments, his eyes scan the opposing defense and go through a series of checks: He has to know where the tight end is, that way he knows which way the play is going. He looks to see whether the opposing safety is backed up or closer to the line of scrimmage, which gives him a clue as to what the linebackers might be doing, which in turn alerts him to more about what kind of look the defense will unveil.</p><p>He admits some of it felt overwhelming, especially in the first days of fall camp, when the Cougs were five or six new plays per day. But that’s when he likes to rely on more help, from coaches like offensive line coach Jack Abercrombie or tight ends coach Durham Cato. “They do a great job explaining to me,” Dunham said, “‘OK, if you see this, you see the numbers to this side, you know that it’s just defense.’ There’s only so much defense.”</p><p>“I told him the other night, he’s done a really good job with his physicality and his mentality, and that bleeds into the rest of the group,” Abercrombie said. “When he’s right with that, I know a lot of guys follow suit. Very similar to Ashton Tripp, which we talked about last week. He’s a steady Eddie, does the right thing, says the right things. Noah, naturally, playing the center position, you’re gonna be asked to do things, make the call, make sure everybody’s on the right page with the verbal combat in the pre-snap. Yeah, it’s critical. He has to talk. That comes with the job.”</p><p>That’s the other thing about Dunham: Naturally, he exudes a quiet brand of confidence, not the loud type. He doesn’t strike you as immediately talkative, and those who know him best say there’s some truth behind that. Andrea likes to joke that when Noah was a toddler, when the family would all be hanging out together in their living room, it would suddenly hit her: <em>Crap, where’s Noah?</em></p><p>“And I’d just find him in the toy room, sitting with 100 books in front of him, sitting and reading quietly,” Andrea laughed.</p><p>Throughout Noah’s adolescence, he became a low-maintenance kid, the type who his parents never really worried about. He’s one of four siblings. He would never need a nap, Andrea said, and she knew her son would always fall asleep when he needed to at night. “Just the easiest, most quiet-natured kid,” Andrea said. “That’s kinda how he’s been all along.”</p><p>Liam, Noah’s older brother, is quite the opposite. He finds it easy to be vocal. Seeing that, Mike would sometimes tell Noah: “Noah, come on, speak up. You gotta lead with your voice.” Andrea would respond: “No, Mike, that’s just not how he leads.” Even at WSU, Noah has mentioned in previous years that he prefers to lead by example.</p><p>“But I do think that last season,” Andrea said, “towards the end of the season, when I mentioned that he started getting that fire in his belly a little bit, he shared with me that when his teammates weren’t doing what they were supposed to be doing, he was gonna start vocally holding them accountable.”</p><p>For Noah, that has been the other learning curve that has defined his journey, the new skill he’s had to polish just like his pass-blocking acumen. During fall camp, he said he had to work to “find his voice,” to feel comfortable speaking up and vocally pointing teammates in the right direction. It doesn’t occur to him naturally.</p><p>So how did Dunham unlock that level of comfortability? The answer is what ties his ascent together, the same reason he chose to stay at Washington State through the turbulence that has rocked the university at large: The Pac-12’s collapse and rebirth, two head coaching changes, hundreds of different teammates.</p><p>“The bottom line is just the connection part, getting to know people,” Dunham said. “I think that when you know someone on a level like that, they’re able to take your leadership role, or whatever you want to call it, more seriously. They’re not gonna look at me and be like, oh, he’s just talking. I truly do care about how you are on and off the field. It does get hard, and that’s what matters to me – how are you?”</p><p>“He’s resilient, hard worker,” said former WSU center Brock Dieu, who was teammates with Dunham from 2023-25. “He hasn’t always had it easy. He always showed up to practice and workouts with a smile, and man, he would work so hard. He would never take credit for the good things he did. So you can’t say enough. He’s a true offensive lineman.”</p><!--[photo id=894457]--><p>It’s quiet in the tight ends meeting room on the fourth floor of the Cougar Football Complex, which is where Dunham finds himself on a Thursday afternoon in late August, angling toward the end of his fourth fall camp at Washington State.</p><p>Just outside the room, the Gray W is bustling with athletes from an array of programs, soccer players and volleyball players and basketball players all lining up for mid-day grub. It’s a scorcher outside, so Dunham and the other Cougar athletes are grateful to have this facility, a five-floor complex that serves so many different purposes.</p><p>Dunham has been here before, at this stage of fall camp before. He’s gone through the hot practices, the slogs, the dog days when he felt like this opportunity was far away. Now it’s here. <span class=\"print_trim\">When he looks back, Dunham says, he appreciates the journey for exactly what it was: The long walk, the struggle, the route that forced him to confront his own insecurities and turn them into strengths, forging them into the kinds of assets that helped him transform from the long-haired freshman into the cleaner-cut junior at the center of the Cougars’ operations.</span></p><p>“If I was able to go back,” Dunham said, “I wouldn’t change a thing.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -5023,19 +5183,19 @@
         "weight": 1.15
       },
       {
-        "title": "Picking Apples: The Evergreen predicts the Apple Cup",
-        "link": "https://dailyevergreen.com/198485/sports/football/picking-apples-the-evergreen-predicts-the-apple-cup/",
+        "title": "WSU Football: The Cougar Football Hour with Kirby Moore | Boeing Apple Cup Washington Week | 9/2/26",
+        "link": "https://wsucougars.com/news/2026/09/2/wsu-football-the-cougar-football-hour-with-kirby-moore-boeing-apple-cup-washington-week-9226",
         "link_kind": "item",
-        "date": "2026-09-02T22:00:00+00:00",
-        "summary": "258 days separate the Famous Idaho Potato Bowl and the first game of the 2026 campaign for the Cougs. Washington State heads into the Emerald City to face off against their archrivals in the 118th Apple Cup.  Much has changed for WSU in those 258 days.  In the offseason, the Cougs acquired 28 players from...",
-        "author": "GRANT CHISHOLM, Evergreen reporter",
+        "date": "2026-09-02T23:00:00+00:00",
+        "summary": "",
+        "author": "",
         "duration": null,
         "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "f47d1d92e76ae42b",
-        "sport": "all",
+        "source": "Washington State Athletics",
+        "id": "a68cc8e257172742",
+        "sport": "football",
         "medium": "text",
-        "weight": 1.15
+        "weight": 1.0
       },
       {
         "title": "Cougars Open 2026 With Boeing Apple Cup in Seattle",
@@ -5133,19 +5293,19 @@
         "weight": 1.15
       },
       {
-        "title": "Cougar football bench battle: Who may the Cougs roll out in the Apple Cup?",
-        "link": "https://dailyevergreen.com/198339/sports/football/cougar-football-bench-battle-who-may-the-cougs-roll-out-in-the-apple-cup/",
+        "title": "Is it crazy to think we have a shot in the Apple Cup?",
+        "link": "https://jimmoorethego2guy.substack.com/p/is-it-crazy-to-think-we-have-a-shot",
         "link_kind": "item",
-        "date": "2026-09-01T16:00:40+00:00",
-        "summary": "With the season less than a week away, Cougar football is slowly narrowing in on their starters. Head coach Kirby Moore said the depth chart could look different every week. So, with a mix of returning players, transfers and young talent, here is a breakdown of who is projected to start and where heading into...",
-        "author": "Ibrahim Daniel, Evergreen reporter",
+        "date": "2026-09-01T15:33:29+00:00",
+        "summary": "Cougs are 23 1/2-point underdogs, but the football gods have to like our chances, don&#8217;t they? Karma&#8217;s a bitch, right?",
+        "author": "Jim Moore",
         "duration": null,
         "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "069f8762831f1e2b",
-        "sport": "football",
+        "source": "Jim Moore's Substack",
+        "id": "5442a9d7900e7dcf",
+        "sport": "all",
         "medium": "text",
-        "weight": 1.15
+        "weight": 1.0
       },
       {
         "title": "WSU Legend Jack Thompson FIRES UP Cougar Nation Ahead of Apple Cup!",
@@ -5195,21 +5355,6 @@
         "weight": 1.15
       },
       {
-        "title": "WSU wraps up Cougar Invitational with straight-sets victory over Central Michigan",
-        "link": "https://dailyevergreen.com/198276/sports/wsu-wraps-up-cougar-invitational-with-straight-sets-victory-over-central-michigan/",
-        "link_kind": "item",
-        "date": "2026-08-31T04:25:58+00:00",
-        "summary": "WSU’s defense held Central Michigan to a negative .063 hitting percentage Sunday morning en route to a straight-sets win. Despite winning each set by at least seven points, the match was not always as one-sided as the box score may imply. The Chippewas were within two points of the Cougs at 13-11 midway through the...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "4cfc5117e2d135c3",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
         "title": "THE PALOUSE REPORT: First Week of College Football! WE ARE BACK!",
         "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/THE-PALOUSE-REPORT-First-Week-of-College-Football--WE-ARE-BACK-e3o43do",
         "link_kind": "item",
@@ -5256,21 +5401,6 @@
         "weight": 1.15
       },
       {
-        "title": "Volleyball starts the season hot at home",
-        "link": "https://dailyevergreen.com/198490/sports/volleyball-starts-the-season-hot-at-home/",
-        "link_kind": "item",
-        "date": "2026-08-30T19:51:45+00:00",
-        "summary": "To start their year, Cougar volleyball stayed close to home hosting the Cougar Invitational. For three days they welcomed the University of Omaha, Central Michigan University and the University of Montana for five games of non-conference showdowns. The Cougs started the weekend playing Omaha, and they immediately set the tone. WSU kept the Mavericks at...",
-        "author": "SMITH SLYE, Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "43c2fb1ca40e5298",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
         "title": "Will the Apple Cup survive? It’s complicated for Washington, WSU",
         "link": "https://www.seattletimes.com/sports/washington-huskies-football/will-the-apple-cup-survive-its-complicated-for-washington-wsu/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -5282,21 +5412,6 @@
         "source": "The Seattle Times",
         "id": "82d2306a93b1a6ae",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Ti’a logs career-best 20 kills, leads Cougs to 3-1 win over Montana",
-        "link": "https://dailyevergreen.com/198266/sports/tia-logs-career-best-20-kills-leads-cougs-to-3-1-win-over-montana/",
-        "link_kind": "item",
-        "date": "2026-08-30T05:07:57+00:00",
-        "summary": "Outside hitter Eliana Ti’a recorded a career-high 20 kills and hit .300 to lead the Cougars to a 3-1 win over Montana Saturday night. The true sophomore logged three blocks and 12 digs defensively. “It was a great performance,” head coach Korey Schroeder said about Ti’a. “The incredible thing is there’s probably at least five...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "b35d72e870fbfe28",
-        "sport": "all",
         "medium": "text",
         "weight": 1.15
       },
