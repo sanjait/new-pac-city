@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-09-06T01:04:57.711001+00:00",
+  "generated_at": "2026-09-06T13:05:03.992591+00:00",
   "teams": {
     "conference": [
-      {
-        "title": "Analyzing the adventure of adversity & ascension with San Jose State’s big road win",
-        "link": "https://www.mwcconnection.com/san-jose-state-spartans-football/91800/analyzing-the-adventure-of-adversity-and-ascension-with-the-san-jose-states-big-road-win",
-        "link_kind": "item",
-        "date": "2026-09-05T14:00:00+00:00",
-        "summary": "Besides watching a game, every game also leaves behind a blueprint disguised as a full box score; like an infrared version. Most never bother studying it once the final whistle blows. Looking at what San Jose State did in Ypsilanti and the 27-21 win over Eastern Michigan; it’s worth studying because of how the Spartans [&#8230;]",
-        "author": "Vic Aquino",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "fa308c377ea2632c",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "MWCConnection Reacts Results: Who will win the Pac-12 in 2026?",
-        "link": "https://www.mwcconnection.com/boise-state-broncos-football/91787/pac-12-football-championship-boise-state-broncos",
-        "link_kind": "item",
-        "date": "2026-09-05T13:00:00+00:00",
-        "summary": "This post is brought to you by FanDuel, a proud partner of SBNation. Broncos are Pac-12 favorites This week, the vast majority of voters think the Boise State Broncos will finish the season atop the new Pac-12 conference. They carry 60% of the vote in this poll. San Diego State also got a respectable amount, with [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "d80e68f8eca1224b",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
       {
         "title": "2026 Pac-12 Week 1: Game Time, TV Schedule, Odds, Predictions",
         "link": "https://www.mwcconnection.com/pac-12-discussion/88525/pac-12-football-games-week-1-fanduel-odds-games-predictions",
@@ -148,6 +118,36 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "37525cb8b082996b",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
+        "title": "Lobos Name Four Proven Leaders as Captains for Season Opener against the “Chipps”",
+        "link": "https://www.mwcconnection.com/new-mexico-lobos-football/91709/new-mexico-lobos-football-captains-jaxton-eck-austin-brawley-malik-aliane-brian-booker",
+        "link_kind": "item",
+        "date": "2026-09-03T20:00:00+00:00",
+        "summary": "Malik Aliane, Jaxton Eck, Brian Booker and Austin Brawley will take New Mexico onto the field to play against Central Michigan. For Saturday night&#8217;s season opener against Central Michigan, the New Mexico Lobos have named offensive lineman Malik Aliane, linebacker Jaxton Eck, defensive tackle Brian Booker and safety Austin Brawley as captains. Head coach Jason [&#8230;]",
+        "author": "Roger A Holien",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "71ad50bc370fb133",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
+        "title": "MW/PAC-12 Depth Chart Tracker App",
+        "link": "https://www.mwcconnection.com/college-football-rankings/91656/mountain-west-pac-12-depth-chart-tracker-app-stats-new-mexico-boise-state-north-dakota-unlv-colorado-texas-utep-niu-sjsu-san-diego-fresno",
+        "link_kind": "item",
+        "date": "2026-09-03T18:00:00+00:00",
+        "summary": "Welcome to our Mountain West/PAC-12 Depth Chart Tracker App! Here you can find projected and confirmed depth charts for all 18 teams and 2,000+ players across both conferences. Complete with hometowns, measurables, high school ranking, and stats from previous years, this is the top resource for fans out there looking for a full rundown on [&#8230;]",
+        "author": "Jack Thompson",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "69bd32e484f8dafd",
         "sport": "all",
         "medium": "text",
         "weight": 1.15
@@ -304,6 +304,21 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "(Video) Post Oregon Press Conference With QB Madsen, Coach Danielson, and Boen Phelps",
+        "link": "https://firstkickwasgood.com/2026/09/05/video-post-oregon-press-conference-with-qb-madsen-coach-danielson-and-boen-phelps/",
+        "link_kind": "item",
+        "date": "2026-09-06T01:06:22+00:00",
+        "summary": "(Video) Post Oregon Press Conference With QB Madsen, Coach Danielson, and Boen Phelps Following a heartbreaking loss to #2 Oregon, Boise State quarterback, Maddux Madsen, head coach, Spencer Danielson, and linebacker, Boen Phelps, all spoke with the media. There was obviously a lot of disappointment from all of them, but it also seemed like all [&#8230;]",
+        "author": "MichaelFKWG",
+        "duration": null,
+        "channel_url": "",
+        "source": "First Kick Was Good",
+        "id": "e2cc0f78e060d8be",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
       {
         "title": "Broncos Narrowly Fall to No. 2/2 Oregon",
         "link": "https://broncosports.com/news/2026/9/5/football-broncos-narrowly-fall-to-no-2-2-oregon",
@@ -670,21 +685,6 @@
         "weight": 1.15
       },
       {
-        "title": "(Video) Pre Oregon Press Conference With Coaches Danielson, Potter, and Chinander",
-        "link": "https://firstkickwasgood.com/2026/08/31/video-pre-oregon-press-conference-with-coaches-danielson-potter-and-chinander/",
-        "link_kind": "item",
-        "date": "2026-08-31T22:23:04+00:00",
-        "summary": "<p>Today&#8217;s pre Oregon press conference featured the usual lineup: Head football coach, Spencer Danielson, offensive coordinator, Nate Potter, and defensive coordinator, Erik Chinander. In it, Coach Danielson discuss some details of the depth chart but emphasized that even though it&#8217;s the depth chart today, it isn&#8217;t static and competition will continue at several positions; particularly [&#8230;]</p>",
-        "author": "MichaelFKWG",
-        "duration": null,
-        "channel_url": "",
-        "source": "First Kick Was Good",
-        "id": "390c189080bc6945",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
         "title": "Boise State Represented on Eight Active Rosters to Begin NFL Season",
         "link": "https://broncosports.com/news/2026/8/31/football-boise-state-represented-on-eight-active-nfl-rosters-to-begin-2026-season",
         "link_kind": "item",
@@ -946,6 +946,21 @@
     ],
     "Colorado State": [
       {
+        "title": "Rams Regain Ownership of Bronze Boot",
+        "link": "https://csurams.com/news/2026/9/5/football-rams-regain-ownership-of-bronze-boot",
+        "link_kind": "item",
+        "date": "2026-09-06T04:34:00+00:00",
+        "summary": "<img alt=\"Boot 2026\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/5/Boot_win.jpg\" /><br /><br />Hejny throws five TDs as Mora era begins with rivalry victory",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "0040c370d74ae3f3",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
         "title": "Border War vs. Wyoming",
         "link": "https://csurams.com/news/2026/9/5/football-border-war-vs-wyoming",
         "link_kind": "item",
@@ -1169,21 +1184,6 @@
         "channel_url": "",
         "source": "Colorado State Athletics",
         "id": "763b76c96dde7115",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.0
-      },
-      {
-        "title": "Watch Coach Mora's Weekly Press Conference",
-        "link": "https://csurams.com/news/2026/8/31/football-watch-coach-moras-weekly-press-conference",
-        "link_kind": "item",
-        "date": "2026-08-31T19:18:00+00:00",
-        "summary": "<img alt=\"Jim Mora Press Conference\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/1/FB26_-_Press_Conference_16x9.jpg\" /><br /><br />Head Coach Jim Mora visits with the local media ahead of the season opening Border War.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "2ded86513c64564e",
         "sport": "football",
         "medium": "text",
         "weight": 1.0
@@ -3442,21 +3442,6 @@
         "weight": 1.15
       },
       {
-        "title": "It’s time for Oregon State to move past realignment trauma | Bill Oram",
-        "link": "https://www.oregonlive.com/beavers/2026/08/oregon-states-new-ad-wants-beavers-to-move-past-realignment-trauma-bill-oram.html",
-        "link_kind": "item",
-        "date": "2026-08-30T13:00:00+00:00",
-        "summary": "Oregon State's new AD says Beavers need to use realignment trauma as a reckoning, not a crutch.",
-        "author": "Bill Oram",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "dd846a8860f20c99",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
         "title": "Beaver Football: The Defense Meets The Media (August 27, 2026)",
         "link": "https://osubeavers.com/news/2026/8/27/beaver-football-the-defense-meets-the-media-august-27-2026",
         "link_kind": "item",
@@ -3793,6 +3778,36 @@
       }
     ],
     "San Diego State": [
+      {
+        "title": "Opportunistic Aztecs Surge Past Portland State in Season Opener, 53-20",
+        "link": "https://goaztecs.com/news/2026/09/6/opportunistic-aztecs-surge-past-portland-state-in-season-opener-53-20",
+        "link_kind": "item",
+        "date": "2026-09-06T06:58:00+00:00",
+        "summary": "San Diego State ushered in a new era of Aztec football as Pac-12 members with a convincing 53-20 victory over Portland State on a warm Saturday evening at Snapdragon Stadium.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "7650f25add2d29ab",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
+        "title": "San Diego State Set for Portland State on Saturday Night",
+        "link": "https://goaztecs.com/news/2026/09/5/san-diego-state-begins-inaugural-pac-12-season-with-non-conference-game-vs-portland-state-1",
+        "link_kind": "item",
+        "date": "2026-09-05T21:20:00+00:00",
+        "summary": "SDSU welcomes Portland State at 6:30 p.m. PT Saturday at Snapdragon Stadium.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "a2ecdcec0b4d53b1",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.0
+      },
       {
         "title": "SDSU Football to Air on Spanish Radio for 2026 Season",
         "link": "https://goaztecs.com/news/2026/09/4/sdsu-football-to-air-on-spanish-radio-for-2026-season",
@@ -4461,6 +4476,21 @@
     ],
     "Texas State": [
       {
+        "title": "Game Recap: Texas State Falls at No. 5/4 Texas",
+        "link": "https://txst.com/news/2026/9/5/football-game-recap-texas-state-falls-at-no-5-4-texas.aspx",
+        "link_kind": "item",
+        "date": "2026-09-06T03:16:00+00:00",
+        "summary": "<img alt=\"Texas State quarterback Brad Jackson throws a pass against University of Texas on Sept. 5, 2026\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/5/MRR-08469.JPG\" /><br /><br />AUSTIN – Texas State football opened the 2026 season falling, 59-7, on the road to No. 5/4 Texas in Austin.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "91bd50a398356682",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
         "title": "TXST struggle in Pac-12 era opener against No. 5 Texas",
         "link": "https://universitystar.com/36197/sports/txst-struggle-in-pac-12-era-opener-against-no-5-texas/",
         "link_kind": "item",
@@ -4746,21 +4776,6 @@
         "weight": 1.0
       },
       {
-        "title": "Bobcat Trio Named to Earl Campbell Tyler Rose Award Watch List",
-        "link": "https://txst.com/news/2026/8/25/football-bobcat-trio-named-to-earl-campbell-tyler-rose-award-watch-list.aspx",
-        "link_kind": "item",
-        "date": "2026-08-26T01:04:00+00:00",
-        "summary": "<img alt=\"FB vs Troy | Homecoming\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/12/251011_FBHOMECOMING_KH_DAWNJRACTION.jpg\" /><br /><br />TYLER, Texas – Three Bobcats were recognized on the fourteenth annual Earl Campbell Tyler Rose Award Watch List announced today by the Tyler Area Chamber of Commerce and SPORTyler.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "d1480f6616ae23ea",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.0
-      },
-      {
         "title": "CHRISTUS Health and Texas State expand scholarship support for student-athletes",
         "link": "https://txst.com/news/2026/8/19/athletics-christus-health-and-texas-state-expand-scholarship-support-for-student-athletes.aspx",
         "link_kind": "item",
@@ -4823,6 +4838,54 @@
     ],
     "Utah State": [
       {
+        "title": "Turnovers doom Aggies in loss to Idaho State",
+        "link": "https://usustatesman.com/turnovers-doom-aggies-in-loss-to-idaho-state/",
+        "link_kind": "item",
+        "date": "2026-09-06T05:20:54+00:00",
+        "summary": "<p>Utah State Football fell short to Idaho State 29 to 17 in their season opener for the 2026 season. This&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/turnovers-doom-aggies-in-loss-to-idaho-state/\">Turnovers doom Aggies in loss to Idaho State</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
+        "author": "Rory McNeill",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Utah Statesman",
+        "id": "6fd3339f467cf059",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
+        "title": "Utah State Football Drops Season Opener to Idaho State 29-17",
+        "link": "https://utahstateaggies.com/news/2026/9/5/utah-state-football-drops-season-opener-to-idaho-state-29-17.aspx",
+        "link_kind": "item",
+        "date": "2026-09-06T05:03:00+00:00",
+        "summary": "<img alt=\"Utah State QB McCae Hillstead gets tries to evade a tackler during USU's game against Idaho State\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/5/PAN09288.jpg\" /><br /><br />LOGAN, Utah – Utah State football fell in its season opener to Idaho State 29-17 on Saturday night at Maverik Stadium.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "006393989e01a5a9",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.0,
+        "also": [
+          "Cache Valley Daily"
+        ]
+      },
+      {
+        "title": "Utah State football vs Idaho State preview: Predictions, Injury Reports, How to Watch",
+        "link": "https://www.cachevalleydaily.com/sports/utah-state-football-vs-idaho-state-preview-predictions-injury-reports-how-to-watch/article_f7aa357d-441e-4c1a-bd30-31a8a6ff60f6.html",
+        "link_kind": "item",
+        "date": "2026-09-04T18:00:00+00:00",
+        "summary": "Tomorrow marks the start of the college football season in Logan as Utah State is set to take on the Idaho State Bengals. Head coach Bronco Mendenhall enters his second year leading the Aggies, hoping to break the chain of…",
+        "author": "Jason Walker",
+        "duration": null,
+        "channel_url": "",
+        "source": "Cache Valley Daily",
+        "id": "8af48ac8316312d3",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
         "title": "Utah State Soccer takes down Utah Tech in blowout victory",
         "link": "https://usustatesman.com/utah-state-soccer-takes-down-utah-tech-in-blowout-victory/",
         "link_kind": "item",
@@ -4833,6 +4896,51 @@
         "channel_url": "",
         "source": "The Utah Statesman",
         "id": "9f2ffe65a29d5589",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
+        "title": "The biggest questions to be answered for Utah State in Week 1",
+        "link": "https://www.cachevalleydaily.com/sports/the-biggest-questions-to-be-answered-for-utah-state-in-week-1/article_f44408a5-c912-4ea7-a305-5c0eaa61aa96.html",
+        "link_kind": "item",
+        "date": "2026-09-04T05:45:00+00:00",
+        "summary": "College football arrives in Cache Valley this Saturday as Utah State hosts Idaho State on Merlin Olsen Field in the soon-to-be-renamed Jim Laub Family Stadium. It ends a _-day span since the last time the Aggies officially played a gridiron…",
+        "author": "Jason Walker",
+        "duration": null,
+        "channel_url": "",
+        "source": "Cache Valley Daily",
+        "id": "0da0dd352d4de6c4",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
+        "title": "Final Preseason Record Prediction for Utah State football",
+        "link": "https://www.cachevalleydaily.com/sports/final-preseason-record-prediction-for-utah-state-football/article_4af1e1e0-6754-4ef5-a6c7-4278d46b5b2c.html",
+        "link_kind": "item",
+        "date": "2026-09-04T02:05:00+00:00",
+        "summary": "Utah State's college football season begins this week with its home opener against Idaho State on Merlin Olsen Field. With months of anticipation, analysis, and waiting soon to be in the rearview mirror, there's only a little time left to…",
+        "author": "Jason Walker Eric Frandsen",
+        "duration": null,
+        "channel_url": "",
+        "source": "Cache Valley Daily",
+        "id": "896011fb9b17d227",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
+        "title": "Top 25 Aggies of 2026 — No. 5-1",
+        "link": "https://www.cachevalleydaily.com/sports/top-25-aggies-of-2026-no-5-1/article_397ccc65-e52f-4e15-97ed-6a17c0bf6fb4.html",
+        "link_kind": "item",
+        "date": "2026-09-02T19:30:00+00:00",
+        "summary": "Here is the final release of the Top 25 Aggies of 2026, as revealed on the Full Court Press last week. These are the players ranked 5th through first, the projected best of the best for the 2026 Utah State…",
+        "author": "Jason Walker",
+        "duration": null,
+        "channel_url": "",
+        "source": "Cache Valley Daily",
+        "id": "832c7745c33405ae",
         "sport": "all",
         "medium": "text",
         "weight": 1.15
@@ -4849,6 +4957,21 @@
         "source": "The Utah Statesman",
         "id": "6c1c1fba5222f4b9",
         "sport": "football",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
+        "title": "USU to rename Maverik Stadium for Jim Laub family beginning in 2027",
+        "link": "https://www.cachevalleydaily.com/sports/usu-to-rename-maverik-stadium-for-jim-laub-family-beginning-in-2027/article_ba5e3bc5-6a19-45ac-9b07-5298bb1c0263.html",
+        "link_kind": "item",
+        "date": "2026-09-01T01:31:00+00:00",
+        "summary": "LOGAN — Utah State University’s football stadium will have a new name beginning next year, honoring a family whose ties to the university and Cache Valley stretch across generations.",
+        "author": "Eric Frandsen",
+        "duration": null,
+        "channel_url": "",
+        "source": "Cache Valley Daily",
+        "id": "d984dbfb34c42791",
+        "sport": "all",
         "medium": "text",
         "weight": 1.15
       },
@@ -4928,6 +5051,21 @@
         "weight": 1.15
       },
       {
+        "title": "Utah State 2026 Opponent Preview — Troy Trojans",
+        "link": "https://www.cachevalleydaily.com/sports/utah-state-2026-opponent-preview-troy-trojans/article_06a89807-22ff-48ff-b824-33c63b167c1c.html",
+        "link_kind": "item",
+        "date": "2026-08-28T19:00:00+00:00",
+        "summary": "Utah State's Week 3 meeting with the Troy Trojans could be a welcome relief after facing two consecutive ranked Power Four opponents. It could also be a trap game in which the Aggies underestimate a non-P4 opponent and fall into…",
+        "author": "Jason Walker",
+        "duration": null,
+        "channel_url": "",
+        "source": "Cache Valley Daily",
+        "id": "a52ff0ea3b56e45d",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
         "title": "LS² Brings Elite Women's College Basketball Matchups to Fort Worth's Dickies Arena in 2026",
         "link": "https://utahstateaggies.com/news/2026/8/27/womens-basketball-ls-brings-elite-womens-college-basketball-matchups-to-fort-worths-dickies-arena-in-2026.aspx",
         "link_kind": "item",
@@ -4941,6 +5079,21 @@
         "sport": "wbb",
         "medium": "text",
         "weight": 1.0
+      },
+      {
+        "title": "Breakdown of Utah State's basketball roster, projected depth chart after adding Dallin Hall",
+        "link": "https://www.cachevalleydaily.com/sports/breakdown-of-utah-states-basketball-roster-projected-depth-chart-after-adding-dallin-hall/article_a3f6f4fd-9019-4756-b3ec-c5a61fba1a96.html",
+        "link_kind": "item",
+        "date": "2026-08-26T00:00:00+00:00",
+        "summary": "Utah State men's basketball completed its roster over the weekend by receiving a commitment from former BYU and Virginia point guard Dallin Hall. That puts the Aggies at 15 players for the 2026-27 roster, which is the cap for Division…",
+        "author": "Jason Walker",
+        "duration": null,
+        "channel_url": "",
+        "source": "Cache Valley Daily",
+        "id": "8f77f73a1ee58d20",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
       },
       {
         "title": "Utah State Men’s Basketball Announces the Signing of Dallin Hall",
@@ -5124,21 +5277,6 @@
         "weight": 1.0
       },
       {
-        "title": "Javen Jacobs Named to Allstate Wuerffel Trophy Watch List",
-        "link": "https://utahstateaggies.com/news/2026/8/11/football-javen-jacobs-named-to-allstate-wuerffel-trophy-watch-list.aspx",
-        "link_kind": "item",
-        "date": "2026-08-11T18:23:00+00:00",
-        "summary": "<img alt=\"Javen Jacobs\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/11/Jacobs__Javen_5.jpg\" /><br /><br />LOGAN, Utah – Utah State graduate running back Javen Jacobs has been named to the Allstate Wuerffel Trophy Watch List, it was announced Tuesday. The award honors Football Bowl Subdivision (FBS) players who lead through community service while excelling in the classroom and on the field.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "268dcd8c2656369e",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.0
-      },
-      {
         "title": "2026 Acrisure Series College Basketball Thanksgiving Event Returns to Acrisure Arena November 21-26",
         "link": "https://utahstateaggies.com/news/2026/8/6/mens-basketball-2026-acrisure-series-college-basketball-thanksgiving-event-returns-to-acrisure-arena-november-21-26.aspx",
         "link_kind": "item",
@@ -5202,6 +5340,36 @@
     ],
     "Washington State": [
       {
+        "title": "Cougars drown Sharks in straight sets",
+        "link": "https://dailyevergreen.com/198590/sports/cougars-drown-sharks-in-straight-sets/",
+        "link_kind": "item",
+        "date": "2026-09-06T03:09:55+00:00",
+        "summary": "WSU’s defense held its opponent to a negative hitting percentage for the second consecutive match, as the Cougs (4-0) swept Long Island (0-4). Middle blocker Naomi White led the way with six total blocks and came alive in the first set. Knotted up at seven apiece, White was part of three straight stuffs to help...",
+        "author": "Conner Orr, Deputy Campus Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "b622021fd65f1ee4",
+        "sport": "all",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
+        "title": "WSU Football: College Gameday Ol' Crimson Flag inducted into ESPN Hall of Fan! 9/4/26",
+        "link": "https://wsucougars.com/news/2026/09/5/wsu-football-college-gameday-ol-crimson-flag-inducted-into-espn-hall-of-fan-9426",
+        "link_kind": "item",
+        "date": "2026-09-05T22:14:11+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "5c81bad33b3a29d8",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.0
+      },
+      {
         "title": "Washington State tight end Peyton Read to miss Apple Cup",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/washington-state-tight-end-peyton-read-to-miss-apple-cup/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -5212,6 +5380,21 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "d60cc46adf66c009",
+        "sport": "football",
+        "medium": "text",
+        "weight": 1.15
+      },
+      {
+        "title": "WSU's Ol' Crimson the first inductee into College GameDay's Hall of Fan",
+        "link": "http://www.spokesman.com/stories/2026/sep/05/wsus-ol-crimson-the-first-inductee-into-college-ga/",
+        "link_kind": "item",
+        "date": "2026-09-05T00:00:00+00:00",
+        "summary": "<p>Ol’ Crimson has been made a permanent fixture on ESPN’s “College GameDay” – even more than it already was.</p><p>Washington State’s flag, which has flown in the background of 338 consecutive episodes of the pregame show, was the inaugural inductee into Gameday’s “Hall of Fan” Saturday, celebrating the show’s 500th episode.</p><p>Ol’ Crimson’s streak began in 2003 in Austin, Texas, and has made stops all around the country – including the show’s first visit to Pullman for a game against No. 12 Oregon in 2018.</p><p>“And our inaugural inductee, somebody who has been with us for 23 years. They had a 15-year crusade to get this show to their campus, in the Palouse at Washington State. The inaugural inductee into the College Gameday Hall of Fan &#8230; Ol’ Crimson, the Washington State flag,” ESPN’s Reece Davis said.</p><p>The streak is kept alive by the Ol’ Crimson Booster Club, originally organized by Tom Pounds of Albuquerque, New Mexico, and expanded to fans across the country.</p><p>Will Johnson was this weekend’s flag waver in Baton Rouge, Louisiana. He received a gold helmet and commemorative football from the GameDay crew during the broadcast.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "ef752ae61592b39d",
         "sport": "football",
         "medium": "text",
         "weight": 1.15
@@ -5266,7 +5449,7 @@
         "link": "http://www.spokesman.com/stories/2026/sep/05/wsu-first-year-coach-kirby-moore-ready-to-try-and-/",
         "link_kind": "item",
         "date": "2026-09-05T00:00:00+00:00",
-        "summary": "<p>PULLMAN – When Kaden Beatty thinks back to last season’s Apple Cup, when he ponders the way Washington used a blowout fourth quarter to bury Washington State and walk out of Gesa Field with the trophy in hand, he feels the sting come back like it happened yesterday.</p><p>In that game, Beatty played 24 snaps, still in a backup role at defensive tackle. Since then, though, much has changed: Beatty is now a starter. The Cougars are playing for a new head coach. The Pac-12 has been rebuilt.</p><p>And now WSU gets another crack at UW.</p><p>“I’ve lived with that now for an entire 365 days and some,” Beatty said. “So now we can go out and show who we really are and show that last year that wasn’t what we’re about.”</p><p>To knock off No. 17 Washington and win Apple Cup No. 118, set for 1 p.m. Sunday at Husky Field in Seattle, Beatty and the Cougars’ defense will have to follow through on that promise. WSU’s defense, the story of the team’s three-week fall camp back in August, gets the challenge of containing dual-threat UW quarterback Demond Williams Jr., who piled up five total touchdowns in last year’s game, showing off the arm talent and athleticism that makes him so dangerous.</p><p>Nine months after a wild saga – in which Williams signed a new revenue-sharing deal to return to Washington, change his mind and decide to hit the transfer portal, only to reverse course again and return to the Huskies – Williams is back to pilot a new-look UW offense. Gone are several playmakers who keyed Washington’s operation last season, including running back Jonah Coleman and wide receiver Denzel Boston (five total touchdowns in last year’s Apple Cup) and even running back Adam Mohammed, who made a surprise transfer to Cal over the offseason.</p><p>This year, WSU defensive coordinator Trent Bray’s unit will have to wrangle Williams and his new cadre of skill position players, including receivers Christian Moss, Rashid Williams and returner Dezmen Roebuck. The Huskies’ starting running back will be Quaid Carr, a superstar high school back who has yet to make a splash at the college level headed into his second season.</p><!--[embed id=12140]--><p>Still, before the Cougars can try to slow those players they’ll have to get to Williams, which is far easier said than done. That’s because he’s protected by what figures to be one of the Big Ten’s best offensive lines, which includes five-star freshman tackle Kodi Greene, returning freshman All-American John Mills and fifth-year senior tackle Drew Azzopardi, a staunch unit.</p><p>Can WSU defensive ends Matyus McLain and Linus Zunk, two of the brightest stars of the Cougars’ fall camp, generate enough pressure to bother Williams? That will be one of the top developments to watch as Sunday’s game unfolds.</p><p>“I just think we gotta do a good job of keeping him in the pocket,” WSU veteran linebacker Keith Brown said. “Don’t let him run free as much as he wants. He’s a good player, so I think as long as we can keep him in the pocket and make him throw the ball and throw the ball downfield, we’ll be in a good spot.”</p><p>“It’s a lot easier said than done,” WSU coach Kirby Moore added. “You look at containing the quarterback and making sure we’re sticky in coverage, and it really takes all 11 on defense. And then when you get in those positions, you gotta get him on the ground, and if it’s not the first guy, the second guy’s gotta be really close.”</p><p>On the other side, WSU quarterback Caden Pinnick gets his first start in the Cougar crimson and gray. It won’t be his first start at Husky Stadium, where he completed just 8 of 16 passes for 50 yards, one touchdown and one interception playing for UC Davis last fall. Can he improve on those numbers? Will he get enough protection from his offensive line, from tackles Ashton Tripp and Jonny Lester against the UW pass rush?</p><p>Washington’s starting edge rushers are set to be true freshman Ramzak Fruean and veteran Jacob Lane. If they can produce consistent pressure on Pinnick, it could force him into bad decisions, which surfaced several times during WSU’s fall camp. If not, he’ll have time to connect with receivers Tony Freeman, Daniel Blood and Darrius Clemons, the Cougars’ starting trio.</p><p>“Really starts with command and operation,” Moore said of Pinnick, “the pre-snap, doing a really good job of communication with his teammates from play to play. The other team’s got really good players. They’re gonna make plays, making sure we’re picking guys up when that happens. We gotta be accurate. We gotta make great decisions. And then when scramble drill opportunities come up, he’s gotta do an excellent job of finding guys downfield or using his legs.”</p><p>No matter how this one plays out, this much is clear: WSU values this rivalry like it’s still a traditional Pac-12 game. The teams may be separated by conferences – Sunday’s Apple Cup will be the third nonconference installment – but the Cougars are treating it with the reverence it has commanded for more than a century.</p><p>Earlier this week, Moore said the rivalry “still means a ton for both sides and for this state.” In 2015-16, Moore worked as a graduate assistant for the Huskies, who back then were coached by Chris Petersen, who Moore considers one of his closest mentors. That’s one of a bevy of ties between these Cougars and the Huskies.</p><p>The one that has stuck in Beatty’s mind, however, is more about a bad taste. He’s let the memory of last season’s game drive him to make this year’s different.</p><p>“Winning the Apple Cup would mean absolutely everything,” Beatty said. “That is what makes this place go around here. If you’re wearing crimson and gray, this is why you watch on Saturdays – well now Sunday. Now we’re gonna see it on Sunday. It’s something that I’ve worked for all off season, something that I’ve definitely pinned on my calendar to look at and something that I’m excited for. So I’m just thrilled to be a part of it and to make history.”</p><!--[embed id=12141]-->",
+        "summary": "<p>PULLMAN – When Kaden Beatty thinks back to last season’s Apple Cup, when he ponders the way Washington used a blowout fourth quarter to bury Washington State and walk out of Gesa Field with the trophy in hand, he feels the sting come back like it happened yesterday.</p><p>In that game, Beatty played 24 snaps, still in a backup role at defensive tackle. Since then, though, much has changed: Beatty is now a starter. The Cougars are playing for a new head coach. The Pac-12 has been rebuilt.</p><p>And now WSU gets another crack at UW.</p><p>“I’ve lived with that now for an entire 365 days and some,” Beatty said. “So now we can go out and show who we really are and show that last year that wasn’t what we’re about.”</p><p>To knock off No. 17 Washington and win Apple Cup No. 118, set for 1 p.m. Sunday at Husky Stadium in Seattle, Beatty and the Cougars’ defense will have to follow through on that promise. WSU’s defense, the story of the team’s three-week fall camp back in August, gets the challenge of containing dual-threat UW quarterback Demond Williams Jr., who piled up five total touchdowns in last year’s game, showing off the arm talent and athleticism that makes him so dangerous.</p><p>Nine months after a wild saga – in which Williams signed a new revenue-sharing deal to return to Washington, change his mind and decide to hit the transfer portal, only to reverse course again and return to the Huskies – Williams is back to pilot a new-look UW offense. Gone are several playmakers who keyed Washington’s operation last season, including running back Jonah Coleman and wide receiver Denzel Boston (five total touchdowns in last year’s Apple Cup) and even running back Adam Mohammed, who made a surprise transfer to Cal over the offseason.</p><p>This year, WSU defensive coordinator Trent Bray’s unit will have to wrangle Williams and his new cadre of skill position players, including receivers Christian Moss, Rashid Williams and returner Dezmen Roebuck. The Huskies’ starting running back will be Quaid Carr, a superstar high school back who has yet to make a splash at the college level headed into his second season.</p><!--[embed id=12140]--><p>Still, before the Cougars can try to slow those players they’ll have to get to Williams, which is far easier said than done. That’s because he’s protected by what figures to be one of the Big Ten’s best offensive lines, which includes five-star freshman tackle Kodi Greene, returning freshman All-American John Mills and fifth-year senior tackle Drew Azzopardi, a staunch unit.</p><p>Can WSU defensive ends Matyus McLain and Linus Zunk, two of the brightest stars of the Cougars’ fall camp, generate enough pressure to bother Williams? That will be one of the top developments to watch as Sunday’s game unfolds.</p><p>“I just think we gotta do a good job of keeping him in the pocket,” WSU veteran linebacker Keith Brown said. “Don’t let him run free as much as he wants. He’s a good player, so I think as long as we can keep him in the pocket and make him throw the ball and throw the ball downfield, we’ll be in a good spot.”</p><p>“It’s a lot easier said than done,” WSU coach Kirby Moore added. “You look at containing the quarterback and making sure we’re sticky in coverage, and it really takes all 11 on defense. And then when you get in those positions, you gotta get him on the ground, and if it’s not the first guy, the second guy’s gotta be really close.”</p><p>On the other side, WSU quarterback Caden Pinnick gets his first start in the Cougar crimson and gray. It won’t be his first start at Husky Stadium, where he completed just 8 of 16 passes for 50 yards, one touchdown and one interception playing for UC Davis last fall. Can he improve on those numbers? Will he get enough protection from his offensive line, from tackles Ashton Tripp and Jonny Lester against the UW pass rush?</p><p>Washington’s starting edge rushers are set to be true freshman Ramzak Fruean and veteran Jacob Lane. If they can produce consistent pressure on Pinnick, it could force him into bad decisions, which surfaced several times during WSU’s fall camp. If not, he’ll have time to connect with receivers Tony Freeman, Daniel Blood and Darrius Clemons, the Cougars’ starting trio.</p><p>“Really starts with command and operation,” Moore said of Pinnick, “the pre-snap, doing a really good job of communication with his teammates from play to play. The other team’s got really good players. They’re gonna make plays, making sure we’re picking guys up when that happens. We gotta be accurate. We gotta make great decisions. And then when scramble drill opportunities come up, he’s gotta do an excellent job of finding guys downfield or using his legs.”</p><p>No matter how this one plays out, this much is clear: WSU values this rivalry like it’s still a traditional Pac-12 game. The teams may be separated by conferences – Sunday’s Apple Cup will be the third nonconference installment – but the Cougars are treating it with the reverence it has commanded for more than a century.</p><p>Earlier this week, Moore said the rivalry “still means a ton for both sides and for this state.” In 2015-16, Moore worked as a graduate assistant for the Huskies, who back then were coached by Chris Petersen, who Moore considers one of his closest mentors. That’s one of a bevy of ties between these Cougars and the Huskies.</p><p>The one that has stuck in Beatty’s mind, however, is more about a bad taste. He’s let the memory of last season’s game drive him to make this year’s different.</p><p>“Winning the Apple Cup would mean absolutely everything,” Beatty said. “That is what makes this place go around here. If you’re wearing crimson and gray, this is why you watch on Saturdays – well now Sunday. Now we’re gonna see it on Sunday. It’s something that I’ve worked for all off season, something that I’ve definitely pinned on my calendar to look at and something that I’m excited for. So I’m just thrilled to be a part of it and to make history.”</p><!--[embed id=12141]-->",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -5792,21 +5975,6 @@
         "weight": 1.15
       },
       {
-        "title": "Volleyball starts the season hot at home",
-        "link": "https://dailyevergreen.com/198490/sports/volleyball-starts-the-season-hot-at-home/",
-        "link_kind": "item",
-        "date": "2026-08-30T19:51:45+00:00",
-        "summary": "To start their year, Cougar volleyball stayed close to home hosting the Cougar Invitational. For three days they welcomed the University of Omaha, Central Michigan University and the University of Montana for five games of non-conference showdowns. The Cougs started the weekend playing Omaha, and they immediately set the tone. WSU kept the Mavericks at...",
-        "author": "SMITH SLYE, Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "43c2fb1ca40e5298",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
         "title": "Will the Apple Cup survive? It’s complicated for Washington, WSU",
         "link": "https://www.seattletimes.com/sports/washington-huskies-football/will-the-apple-cup-survive-its-complicated-for-washington-wsu/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -6074,10 +6242,7 @@
         "id": "21bd86929edaaae9",
         "sport": "football",
         "medium": "text",
-        "weight": 1.15,
-        "also": [
-          "The Spokesman-Review"
-        ]
+        "weight": 1.15
       },
       {
         "title": "WSU Football: Kirby Moore | Caden Pinnick | Nylan Brown | Post Practice Press Conference | 8/25/26",
@@ -7304,21 +7469,6 @@
         "sport": "all",
         "medium": "text",
         "weight": 1.15
-      },
-      {
-        "title": "Washington State University and The Realest Partner to Create Upcycled Memorabilia from Turf at Gesa Field",
-        "link": "https://wsucougars.com/news/2026/07/23/washington-state-university-and-the-realest-partner-to-create-upcycled-memorabilia-from-turf-at-gesa-field",
-        "link_kind": "item",
-        "date": "2026-07-23T16:00:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "762947b952a4c19f",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.0
       },
       {
         "title": "Mailbag: Thoughts on sideline switch, expectations for football, and more (Episode 252)",
