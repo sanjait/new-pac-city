@@ -1759,9 +1759,83 @@ def read_story_list(path):
     return deserialize_story_list(json.loads(path.read_text(encoding="utf-8")))
 
 
-def render(cfg, list_path):
+# ---------------------------------------------------------------- verdicts
+#
+# Phase 2 of item-level editorial review puts a reviewing agent beside the
+# pipeline, not inside it: it reads the story list, writes verdicts.json, and
+# touches nothing else. This is the consumption end of that seam, and for now
+# it is deliberately inert -- it attaches what the reviewer said to the items
+# it said it about, and no renderer reads the result yet.
+#
+# Two rules govern it, and both are load-bearing rather than defensive:
+#
+#   * An absent, unreadable or malformed verdicts file is NOT an error. The
+#     site published for six weeks without one and must keep publishing if
+#     the reviewer never runs, is mid-write, or emits garbage. A render that
+#     can be killed by the reviewer's output is a render the reviewer can
+#     take the site down with.
+#
+#   * A verdict NEVER removes an item. Until every source class has been
+#     reviewed, an item with no verdict is an item nobody has looked at yet --
+#     not one that was rejected. Treating absence as rejection would delete
+#     most of the site on the first run, since the first slice is one class of
+#     source out of three. Exclusion is a later, deliberate act.
+#
+# Verdicts are keyed by the story list's own item id, which is stable across
+# runs (it is derived from the feed's guid, never the link), so a verdict
+# written this morning still lands on the same story this evening.
+
+VERDICTS_FILE = "verdicts.json"
+
+
+def read_verdicts(path):
+    """The verdict map, or {} for any reason at all.
+
+    Every failure mode collapses to the same answer on purpose: no file, an
+    unreadable file, invalid JSON, or a shape we don't recognise all mean
+    "nobody has judged anything", which is exactly the state the site shipped
+    in. The reason is reported to stderr for the run log and then dropped."""
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        verdicts = data.get("verdicts", data)
+        if not isinstance(verdicts, dict):
+            raise ValueError("verdicts is %s, not an object" % type(verdicts).__name__)
+        return {k: v for k, v in verdicts.items() if isinstance(v, dict)}
+    except Exception as exc:  # never fatal -- see the note above
+        print("WARNING: ignoring %s (%s)" % (path.name, exc), file=sys.stderr)
+        return {}
+
+
+def merge_verdicts(by_team, verdicts):
+    """Attach each verdict to its item. Returns (matched, unmatched).
+
+    `unmatched` is the count of verdicts naming ids the story list does not
+    contain -- the honest measure of a stale verdicts file, and the number
+    worth watching once the reviewer runs on a schedule. It is reported, not
+    acted on: a stale verdict is not a reason to refuse to publish."""
+    if not verdicts:
+        return 0, 0
+    seen = set()
+    for items in by_team.values():
+        for it in items:
+            v = verdicts.get(it.get("id"))
+            if v is not None:
+                it["verdict"] = v
+                seen.add(it["id"])
+    return len(seen), len(verdicts) - len(seen)
+
+
+def render(cfg, list_path, verdicts_path=None):
     """The render half: reads a story list and never touches the network."""
     by_team, now = read_story_list(list_path)
+    if verdicts_path is None:
+        verdicts_path = HERE / VERDICTS_FILE
+    matched, unmatched = merge_verdicts(by_team, read_verdicts(verdicts_path))
+    if matched or unmatched:
+        print("Verdicts: %d matched, %d naming items this list does not carry."
+              % (matched, unmatched))
     total_items = sum(len(v) for v in by_team.values())
     if total_items == 0:
         print("ERROR: story list has no items; keeping the previous page.", file=sys.stderr)

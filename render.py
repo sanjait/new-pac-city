@@ -5,7 +5,11 @@ Turns an existing story-list.json into the site's pages. Never fetches; run
 fetch.py first (or `python3 build.py`, which still runs fetch and render
 together in one command).
 
-    python3 render.py
+    python3 render.py [feeds.json [story-list.json [verdicts.json]]]
+
+If verdicts.json exists it is merged onto the story list before rendering.
+It is optional in the strongest sense: absent, stale or malformed, the pages
+come out exactly as they did before it existed. See build.merge_verdicts.
 """
 import json
 import sys
@@ -20,7 +24,8 @@ def main():
     cfg_path = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / "feeds.json"
     cfg = json.loads(cfg_path.read_text())
     list_path = Path(sys.argv[2]) if len(sys.argv) > 2 else HERE / "story-list.json"
-    build.render(cfg, list_path)
+    verdicts_path = Path(sys.argv[3]) if len(sys.argv) > 3 else HERE / build.VERDICTS_FILE
+    build.render(cfg, list_path, verdicts_path)
 
 
 if __name__ == "__main__":
