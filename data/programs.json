@@ -1,7 +1,7 @@
 {
   "generated": "2026-09-06",
   "what_this_is": "The varsity programs each school sponsors. The item reviewer names an item's subject from these keys rather than inventing a label, so that the same program is never recorded two ways. Keys are <school>/<program>; a bare <school> key means the athletics department as a whole, and 'conference' means the Pac-12 itself. Those three depths are one key space.",
-  "how_it_was_built": "Seven schools scraped from their own sport navigation on 2026-09-06, one request each. Washington State's nav is JavaScript-rendered and its list was supplied by the CEO from the site's teams page. Texas State's is JavaScript-rendered too and is still owed. Program slugs and labels are each school's own, not normalised — schools differ (one lists 'cross-country', another 'womens-cross-country'), and inventing a common vocabulary is a separate job that nothing needs yet.",
+  "how_it_was_built": "Seven schools scraped from their own sport navigation on 2026-09-06, one request each. Washington State's and Texas State's navs are JavaScript-rendered and return nothing to a plain fetch; the CEO supplied both lists from those sites' teams pages. Program slugs and labels are each school's own, not normalised — schools differ (one lists 'cross-country', another 'womens-cross-country'), and inventing a common vocabulary is a separate job that nothing needs yet.",
   "when_a_team_is_missing": "The reviewer records the raw string in 'unrecognized' rather than dropping it, so a gap in this file surfaces as a queue rather than as silent loss. Adding a program is a one-line edit here; items already judged keep the key they were given, because the verdict log is forward-only.",
   "schools": {
     "boise-state": {
@@ -501,8 +501,84 @@
       "school": "Texas State",
       "site_slug": "bobcats",
       "site": "https://txst.com",
-      "source": "https://txst.com",
-      "programs": []
+      "source": "CEO, from the site's teams page",
+      "programs": [
+        {
+          "key": "texas-state/baseball",
+          "slug": "baseball",
+          "label": "Baseball"
+        },
+        {
+          "key": "texas-state/football",
+          "slug": "football",
+          "label": "Football"
+        },
+        {
+          "key": "texas-state/mens-basketball",
+          "slug": "mens-basketball",
+          "label": "Men's Basketball"
+        },
+        {
+          "key": "texas-state/mens-cross-country",
+          "slug": "mens-cross-country",
+          "label": "Men's Cross Country"
+        },
+        {
+          "key": "texas-state/mens-golf",
+          "slug": "mens-golf",
+          "label": "Men's Golf"
+        },
+        {
+          "key": "texas-state/mens-track-and-field",
+          "slug": "mens-track-and-field",
+          "label": "Men's Track & Field"
+        },
+        {
+          "key": "texas-state/softball",
+          "slug": "softball",
+          "label": "Softball"
+        },
+        {
+          "key": "texas-state/womens-basketball",
+          "slug": "womens-basketball",
+          "label": "Women's Basketball"
+        },
+        {
+          "key": "texas-state/womens-cross-country",
+          "slug": "womens-cross-country",
+          "label": "Women's Cross Country"
+        },
+        {
+          "key": "texas-state/womens-golf",
+          "slug": "womens-golf",
+          "label": "Women's Golf"
+        },
+        {
+          "key": "texas-state/womens-gymnastics",
+          "slug": "womens-gymnastics",
+          "label": "Women's Gymnastics"
+        },
+        {
+          "key": "texas-state/womens-soccer",
+          "slug": "womens-soccer",
+          "label": "Women's Soccer"
+        },
+        {
+          "key": "texas-state/womens-tennis",
+          "slug": "womens-tennis",
+          "label": "Women's Tennis"
+        },
+        {
+          "key": "texas-state/womens-track-and-field",
+          "slug": "womens-track-and-field",
+          "label": "Women's Track & Field"
+        },
+        {
+          "key": "texas-state/womens-volleyball",
+          "slug": "womens-volleyball",
+          "label": "Women's Volleyball"
+        }
+      ]
     },
     "utah-state": {
       "school": "Utah State",
@@ -693,7 +769,5 @@
       "why": "a San Diego State honours page"
     }
   ],
-  "owed": [
-    "Texas State"
-  ]
+  "owed": []
 }
