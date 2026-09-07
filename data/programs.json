@@ -1,0 +1,699 @@
+{
+  "generated": "2026-09-06",
+  "what_this_is": "The varsity programs each school sponsors. The item reviewer names an item's subject from these keys rather than inventing a label, so that the same program is never recorded two ways. Keys are <school>/<program>; a bare <school> key means the athletics department as a whole, and 'conference' means the Pac-12 itself. Those three depths are one key space.",
+  "how_it_was_built": "Seven schools scraped from their own sport navigation on 2026-09-06, one request each. Washington State's nav is JavaScript-rendered and its list was supplied by the CEO from the site's teams page. Texas State's is JavaScript-rendered too and is still owed. Program slugs and labels are each school's own, not normalised — schools differ (one lists 'cross-country', another 'womens-cross-country'), and inventing a common vocabulary is a separate job that nothing needs yet.",
+  "when_a_team_is_missing": "The reviewer records the raw string in 'unrecognized' rather than dropping it, so a gap in this file surfaces as a queue rather than as silent loss. Adding a program is a one-line edit here; items already judged keep the key they were given, because the verdict log is forward-only.",
+  "schools": {
+    "boise-state": {
+      "school": "Boise State",
+      "site_slug": "broncos",
+      "site": "https://broncosports.com",
+      "source": "https://broncosports.com",
+      "programs": [
+        {
+          "key": "boise-state/cross-country",
+          "slug": "cross-country",
+          "label": "Cross Country"
+        },
+        {
+          "key": "boise-state/esports",
+          "slug": "esports",
+          "label": "Esports"
+        },
+        {
+          "key": "boise-state/football",
+          "slug": "football",
+          "label": "Football"
+        },
+        {
+          "key": "boise-state/mens-basketball",
+          "slug": "mens-basketball",
+          "label": "Men's Basketball"
+        },
+        {
+          "key": "boise-state/mens-golf",
+          "slug": "mens-golf",
+          "label": "Men's Golf"
+        },
+        {
+          "key": "boise-state/mens-tennis",
+          "slug": "mens-tennis",
+          "label": "Men's Tennis"
+        },
+        {
+          "key": "boise-state/softball",
+          "slug": "softball",
+          "label": "Softball"
+        },
+        {
+          "key": "boise-state/track-and-field",
+          "slug": "track-and-field",
+          "label": "Track And Field"
+        },
+        {
+          "key": "boise-state/womens-basketball",
+          "slug": "womens-basketball",
+          "label": "Women's Basketball"
+        },
+        {
+          "key": "boise-state/womens-beach-volleyball",
+          "slug": "womens-beach-volleyball",
+          "label": "Women's Beach Volleyball"
+        },
+        {
+          "key": "boise-state/womens-golf",
+          "slug": "womens-golf",
+          "label": "Women's Golf"
+        },
+        {
+          "key": "boise-state/womens-gymnastics",
+          "slug": "womens-gymnastics",
+          "label": "Women's Gymnastics"
+        },
+        {
+          "key": "boise-state/womens-soccer",
+          "slug": "womens-soccer",
+          "label": "Women's Soccer"
+        },
+        {
+          "key": "boise-state/womens-tennis",
+          "slug": "womens-tennis",
+          "label": "Women's Tennis"
+        },
+        {
+          "key": "boise-state/womens-volleyball",
+          "slug": "womens-volleyball",
+          "label": "Women's Volleyball"
+        }
+      ]
+    },
+    "colorado-state": {
+      "school": "Colorado State",
+      "site_slug": "rams",
+      "site": "https://csurams.com",
+      "source": "https://csurams.com",
+      "programs": [
+        {
+          "key": "colorado-state/cross-country",
+          "slug": "cross-country",
+          "label": "Cross Country"
+        },
+        {
+          "key": "colorado-state/football",
+          "slug": "football",
+          "label": "Football"
+        },
+        {
+          "key": "colorado-state/mens-basketball",
+          "slug": "mens-basketball",
+          "label": "Men's Basketball"
+        },
+        {
+          "key": "colorado-state/mens-golf",
+          "slug": "mens-golf",
+          "label": "Men's Golf"
+        },
+        {
+          "key": "colorado-state/softball",
+          "slug": "softball",
+          "label": "Softball"
+        },
+        {
+          "key": "colorado-state/track-and-field",
+          "slug": "track-and-field",
+          "label": "Track And Field"
+        },
+        {
+          "key": "colorado-state/womens-basketball",
+          "slug": "womens-basketball",
+          "label": "Women's Basketball"
+        },
+        {
+          "key": "colorado-state/womens-golf",
+          "slug": "womens-golf",
+          "label": "Women's Golf"
+        },
+        {
+          "key": "colorado-state/womens-soccer",
+          "slug": "womens-soccer",
+          "label": "Women's Soccer"
+        },
+        {
+          "key": "colorado-state/womens-swimming-and-diving",
+          "slug": "womens-swimming-and-diving",
+          "label": "Women's Swimming And Diving"
+        },
+        {
+          "key": "colorado-state/womens-tennis",
+          "slug": "womens-tennis",
+          "label": "Women's Tennis"
+        },
+        {
+          "key": "colorado-state/womens-volleyball",
+          "slug": "womens-volleyball",
+          "label": "Women's Volleyball"
+        }
+      ]
+    },
+    "fresno-state": {
+      "school": "Fresno State",
+      "site_slug": "fsudogs",
+      "site": "https://gobulldogs.com",
+      "source": "https://gobulldogs.com",
+      "programs": [
+        {
+          "key": "fresno-state/baseball",
+          "slug": "baseball",
+          "label": "Baseball"
+        },
+        {
+          "key": "fresno-state/cross-country",
+          "slug": "cross-country",
+          "label": "Cross Country"
+        },
+        {
+          "key": "fresno-state/equestrian",
+          "slug": "equestrian",
+          "label": "Equestrian"
+        },
+        {
+          "key": "fresno-state/football",
+          "slug": "football",
+          "label": "Football"
+        },
+        {
+          "key": "fresno-state/mens-basketball",
+          "slug": "mens-basketball",
+          "label": "Men's Basketball"
+        },
+        {
+          "key": "fresno-state/mens-golf",
+          "slug": "mens-golf",
+          "label": "Men's Golf"
+        },
+        {
+          "key": "fresno-state/softball",
+          "slug": "softball",
+          "label": "Softball"
+        },
+        {
+          "key": "fresno-state/track-and-field",
+          "slug": "track-and-field",
+          "label": "Track And Field"
+        },
+        {
+          "key": "fresno-state/womens-basketball",
+          "slug": "womens-basketball",
+          "label": "Women's Basketball"
+        },
+        {
+          "key": "fresno-state/womens-golf",
+          "slug": "womens-golf",
+          "label": "Women's Golf"
+        },
+        {
+          "key": "fresno-state/womens-soccer",
+          "slug": "womens-soccer",
+          "label": "Women's Soccer"
+        },
+        {
+          "key": "fresno-state/womens-swimming-and-diving",
+          "slug": "womens-swimming-and-diving",
+          "label": "Women's Swimming And Diving"
+        },
+        {
+          "key": "fresno-state/womens-tennis",
+          "slug": "womens-tennis",
+          "label": "Women's Tennis"
+        },
+        {
+          "key": "fresno-state/womens-volleyball",
+          "slug": "womens-volleyball",
+          "label": "Women's Volleyball"
+        },
+        {
+          "key": "fresno-state/womens-water-polo",
+          "slug": "womens-water-polo",
+          "label": "Women's Water Polo"
+        }
+      ]
+    },
+    "gonzaga": {
+      "school": "Gonzaga",
+      "site_slug": "zags",
+      "site": "https://gozags.com",
+      "source": "https://gozags.com",
+      "programs": [
+        {
+          "key": "gonzaga/baseball",
+          "slug": "baseball",
+          "label": "Baseball"
+        },
+        {
+          "key": "gonzaga/cross-country",
+          "slug": "cross-country",
+          "label": "Cross Country"
+        },
+        {
+          "key": "gonzaga/mens-basketball",
+          "slug": "mens-basketball",
+          "label": "Men's Basketball"
+        },
+        {
+          "key": "gonzaga/mens-golf",
+          "slug": "mens-golf",
+          "label": "Men's Golf"
+        },
+        {
+          "key": "gonzaga/mens-rowing",
+          "slug": "mens-rowing",
+          "label": "Men's Rowing"
+        },
+        {
+          "key": "gonzaga/mens-soccer",
+          "slug": "mens-soccer",
+          "label": "Men's Soccer"
+        },
+        {
+          "key": "gonzaga/mens-tennis",
+          "slug": "mens-tennis",
+          "label": "Men's Tennis"
+        },
+        {
+          "key": "gonzaga/track-and-field",
+          "slug": "track-and-field",
+          "label": "Track And Field"
+        },
+        {
+          "key": "gonzaga/womens-basketball",
+          "slug": "womens-basketball",
+          "label": "Women's Basketball"
+        },
+        {
+          "key": "gonzaga/womens-golf",
+          "slug": "womens-golf",
+          "label": "Women's Golf"
+        },
+        {
+          "key": "gonzaga/womens-rowing",
+          "slug": "womens-rowing",
+          "label": "Women's Rowing"
+        },
+        {
+          "key": "gonzaga/womens-soccer",
+          "slug": "womens-soccer",
+          "label": "Women's Soccer"
+        },
+        {
+          "key": "gonzaga/womens-tennis",
+          "slug": "womens-tennis",
+          "label": "Women's Tennis"
+        },
+        {
+          "key": "gonzaga/womens-volleyball",
+          "slug": "womens-volleyball",
+          "label": "Women's Volleyball"
+        }
+      ]
+    },
+    "oregon-state": {
+      "school": "Oregon State",
+      "site_slug": "beavs",
+      "site": "https://osubeavers.com",
+      "source": "https://osubeavers.com",
+      "programs": [
+        {
+          "key": "oregon-state/baseball",
+          "slug": "baseball",
+          "label": "Baseball"
+        },
+        {
+          "key": "oregon-state/football",
+          "slug": "football",
+          "label": "Football"
+        },
+        {
+          "key": "oregon-state/mens-basketball",
+          "slug": "mens-basketball",
+          "label": "Men's Basketball"
+        },
+        {
+          "key": "oregon-state/mens-golf",
+          "slug": "mens-golf",
+          "label": "Men's Golf"
+        },
+        {
+          "key": "oregon-state/mens-rowing",
+          "slug": "mens-rowing",
+          "label": "Men's Rowing"
+        },
+        {
+          "key": "oregon-state/mens-soccer",
+          "slug": "mens-soccer",
+          "label": "Men's Soccer"
+        },
+        {
+          "key": "oregon-state/softball",
+          "slug": "softball",
+          "label": "Softball"
+        },
+        {
+          "key": "oregon-state/track-and-field",
+          "slug": "track-and-field",
+          "label": "Track And Field"
+        },
+        {
+          "key": "oregon-state/womens-basketball",
+          "slug": "womens-basketball",
+          "label": "Women's Basketball"
+        },
+        {
+          "key": "oregon-state/womens-cross-country",
+          "slug": "womens-cross-country",
+          "label": "Women's Cross Country"
+        },
+        {
+          "key": "oregon-state/womens-golf",
+          "slug": "womens-golf",
+          "label": "Women's Golf"
+        },
+        {
+          "key": "oregon-state/womens-gymnastics",
+          "slug": "womens-gymnastics",
+          "label": "Women's Gymnastics"
+        },
+        {
+          "key": "oregon-state/womens-rowing",
+          "slug": "womens-rowing",
+          "label": "Women's Rowing"
+        },
+        {
+          "key": "oregon-state/womens-soccer",
+          "slug": "womens-soccer",
+          "label": "Women's Soccer"
+        },
+        {
+          "key": "oregon-state/womens-volleyball",
+          "slug": "womens-volleyball",
+          "label": "Women's Volleyball"
+        },
+        {
+          "key": "oregon-state/wrestling",
+          "slug": "wrestling",
+          "label": "Wrestling"
+        }
+      ]
+    },
+    "san-diego-state": {
+      "school": "San Diego State",
+      "site_slug": "aztecs",
+      "site": "https://goaztecs.com",
+      "source": "https://goaztecs.com",
+      "programs": [
+        {
+          "key": "san-diego-state/baseball",
+          "slug": "baseball",
+          "label": "Baseball"
+        },
+        {
+          "key": "san-diego-state/football",
+          "slug": "football",
+          "label": "Football"
+        },
+        {
+          "key": "san-diego-state/mens-basketball",
+          "slug": "mens-basketball",
+          "label": "Men's Basketball"
+        },
+        {
+          "key": "san-diego-state/mens-golf",
+          "slug": "mens-golf",
+          "label": "Men's Golf"
+        },
+        {
+          "key": "san-diego-state/mens-soccer",
+          "slug": "mens-soccer",
+          "label": "Men's Soccer"
+        },
+        {
+          "key": "san-diego-state/mens-tennis",
+          "slug": "mens-tennis",
+          "label": "Men's Tennis"
+        },
+        {
+          "key": "san-diego-state/softball",
+          "slug": "softball",
+          "label": "Softball"
+        },
+        {
+          "key": "san-diego-state/swimming-and-diving",
+          "slug": "swimming-and-diving",
+          "label": "Swimming And Diving"
+        },
+        {
+          "key": "san-diego-state/track-and-field",
+          "slug": "track-and-field",
+          "label": "Track And Field"
+        },
+        {
+          "key": "san-diego-state/volleyball",
+          "slug": "volleyball",
+          "label": "Volleyball"
+        },
+        {
+          "key": "san-diego-state/water-polo",
+          "slug": "water-polo",
+          "label": "Water Polo"
+        },
+        {
+          "key": "san-diego-state/womens-basketball",
+          "slug": "womens-basketball",
+          "label": "Women's Basketball"
+        },
+        {
+          "key": "san-diego-state/womens-cross-country",
+          "slug": "womens-cross-country",
+          "label": "Women's Cross Country"
+        },
+        {
+          "key": "san-diego-state/womens-golf",
+          "slug": "womens-golf",
+          "label": "Women's Golf"
+        },
+        {
+          "key": "san-diego-state/womens-lacrosse",
+          "slug": "womens-lacrosse",
+          "label": "Women's Lacrosse"
+        },
+        {
+          "key": "san-diego-state/womens-soccer",
+          "slug": "womens-soccer",
+          "label": "Women's Soccer"
+        },
+        {
+          "key": "san-diego-state/womens-tennis",
+          "slug": "womens-tennis",
+          "label": "Women's Tennis"
+        }
+      ]
+    },
+    "texas-state": {
+      "school": "Texas State",
+      "site_slug": "bobcats",
+      "site": "https://txst.com",
+      "source": "https://txst.com",
+      "programs": []
+    },
+    "utah-state": {
+      "school": "Utah State",
+      "site_slug": "aggies",
+      "site": "https://utahstateaggies.com",
+      "source": "https://utahstateaggies.com",
+      "programs": [
+        {
+          "key": "utah-state/cross-country",
+          "slug": "cross-country",
+          "label": "Cross Country"
+        },
+        {
+          "key": "utah-state/football",
+          "slug": "football",
+          "label": "Football"
+        },
+        {
+          "key": "utah-state/mens-basketball",
+          "slug": "mens-basketball",
+          "label": "Men's Basketball"
+        },
+        {
+          "key": "utah-state/mens-golf",
+          "slug": "mens-golf",
+          "label": "Men's Golf"
+        },
+        {
+          "key": "utah-state/mens-tennis",
+          "slug": "mens-tennis",
+          "label": "Men's Tennis"
+        },
+        {
+          "key": "utah-state/softball",
+          "slug": "softball",
+          "label": "Softball"
+        },
+        {
+          "key": "utah-state/track-and-field",
+          "slug": "track-and-field",
+          "label": "Track And Field"
+        },
+        {
+          "key": "utah-state/womens-basketball",
+          "slug": "womens-basketball",
+          "label": "Women's Basketball"
+        },
+        {
+          "key": "utah-state/womens-gymnastics",
+          "slug": "womens-gymnastics",
+          "label": "Women's Gymnastics"
+        },
+        {
+          "key": "utah-state/womens-soccer",
+          "slug": "womens-soccer",
+          "label": "Women's Soccer"
+        },
+        {
+          "key": "utah-state/womens-tennis",
+          "slug": "womens-tennis",
+          "label": "Women's Tennis"
+        },
+        {
+          "key": "utah-state/womens-volleyball",
+          "slug": "womens-volleyball",
+          "label": "Women's Volleyball"
+        }
+      ]
+    },
+    "washington-state": {
+      "school": "Washington State",
+      "site_slug": "cougs",
+      "site": "https://wsucougars.com",
+      "source": "CEO, from the site's teams page",
+      "programs": [
+        {
+          "key": "washington-state/baseball",
+          "slug": "baseball",
+          "label": "Baseball"
+        },
+        {
+          "key": "washington-state/football",
+          "slug": "football",
+          "label": "Football"
+        },
+        {
+          "key": "washington-state/mens-basketball",
+          "slug": "mens-basketball",
+          "label": "Men's Basketball"
+        },
+        {
+          "key": "washington-state/mens-cross-country",
+          "slug": "mens-cross-country",
+          "label": "Men's Cross Country"
+        },
+        {
+          "key": "washington-state/mens-golf",
+          "slug": "mens-golf",
+          "label": "Men's Golf"
+        },
+        {
+          "key": "washington-state/mens-track-and-field",
+          "slug": "mens-track-and-field",
+          "label": "Men's Track"
+        },
+        {
+          "key": "washington-state/womens-basketball",
+          "slug": "womens-basketball",
+          "label": "Women's Basketball"
+        },
+        {
+          "key": "washington-state/womens-cross-country",
+          "slug": "womens-cross-country",
+          "label": "Women's Cross Country"
+        },
+        {
+          "key": "washington-state/womens-golf",
+          "slug": "womens-golf",
+          "label": "Women's Golf"
+        },
+        {
+          "key": "washington-state/womens-rowing",
+          "slug": "womens-rowing",
+          "label": "Women's Rowing"
+        },
+        {
+          "key": "washington-state/womens-soccer",
+          "slug": "womens-soccer",
+          "label": "Women's Soccer"
+        },
+        {
+          "key": "washington-state/womens-swimming",
+          "slug": "womens-swimming",
+          "label": "Women's Swimming"
+        },
+        {
+          "key": "washington-state/womens-tennis",
+          "slug": "womens-tennis",
+          "label": "Women's Tennis"
+        },
+        {
+          "key": "washington-state/womens-track-and-field",
+          "slug": "womens-track-and-field",
+          "label": "Women's Track"
+        },
+        {
+          "key": "washington-state/womens-volleyball",
+          "slug": "womens-volleyball",
+          "label": "Women's Volleyball"
+        }
+      ]
+    }
+  },
+  "excluded_as_not_a_program": [
+    {
+      "school": "Boise State",
+      "slug": "spirit-squad",
+      "why": "cheer and dance, not a varsity sport"
+    },
+    {
+      "school": "Colorado State",
+      "slug": "ramwire",
+      "why": "Colorado State's own news outlet"
+    },
+    {
+      "school": "Fresno State",
+      "slug": "built",
+      "why": "a Fresno State marketing section"
+    },
+    {
+      "school": "Fresno State",
+      "slug": "sas",
+      "why": "Fresno State student-athlete services"
+    },
+    {
+      "school": "Fresno State",
+      "slug": "spirit-program",
+      "why": "cheer and dance, not a varsity sport"
+    },
+    {
+      "school": "Fresno State",
+      "slug": "trademark-licensing",
+      "why": "a Fresno State business page"
+    },
+    {
+      "school": "San Diego State",
+      "slug": "hall-of-fame",
+      "why": "a San Diego State honours page"
+    }
+  ],
+  "owed": [
+    "Texas State"
+  ]
+}
