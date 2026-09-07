@@ -16,7 +16,7 @@ and reviewed in advance. Nothing improvises unattended.
 What it does, in order:
 
   1. Makes the working tree match origin/main exactly, refusing to run if a
-     human left uncommitted work here.
+     human left uncommitted or unpushed work here.
   2. Fetches every feed and writes story-list.json.
   3. Writes last-run.json — the liveness record (Amendment C).
   4. Commits and pushes both.
@@ -49,14 +49,19 @@ BRANCH = "main"
 OURS = ("story-list.json", "last-run.json")
 
 
-def git(*args, check=True):
-    """One git command per call. Never chained — see the module docstring."""
+def git(*args, check=True, raw=False):
+    """One git command per call. Never chained — see the module docstring.
+
+    `raw` returns stdout unstripped. Porcelain status needs it: the leading
+    space of an unstaged line is significant, and stripping it shifts the
+    first line's filename by one character.
+    """
     p = subprocess.run(("git", "-C", str(HERE)) + args,
                        capture_output=True, text=True)
     if check and p.returncode != 0:
         raise RuntimeError("git %s failed (%d): %s"
                            % (" ".join(args), p.returncode, p.stderr.strip()))
-    return p.stdout.strip()
+    return p.stdout if raw else p.stdout.strip()
 
 
 def content_hash(by_team):
@@ -80,12 +85,24 @@ def preflight():
     # Our own two artifacts never count as dirty, whether they are tracked,
     # modified or not there at all — a fresh clone has no story list yet, and
     # a run that refused to start over its own output would never start.
-    dirty = [ln[3:] for ln in git("status", "--porcelain").splitlines()
+    dirty = [ln[3:] for ln in git("status", "--porcelain", raw=True).splitlines()
              if ln[3:].strip('"') not in OURS]
     if dirty:
         raise RuntimeError("uncommitted work in the repo, refusing to reset: "
                            + ", ".join(dirty))
     git("fetch", "origin")
+    # A local commit leaves a clean working tree, so the dirty check above
+    # cannot see it. That blind spot let the 2026-09-07 13:05 run reset four
+    # of the CEO's commits out of every branch; they survived in the reflog
+    # alone. Ahead commits touching nothing but OURS are this script's own
+    # unpushed output and are safe to discard — refusing those would wedge the
+    # job permanently after a single failed push.
+    unpushed = [n for n in git("diff", "--name-only",
+                               "origin/%s...HEAD" % BRANCH).splitlines()
+                if n.strip('"') not in OURS]
+    if unpushed:
+        raise RuntimeError("unpushed commits in the repo, refusing to reset: "
+                           + ", ".join(unpushed))
     git("reset", "--hard", "origin/" + BRANCH)
 
 
