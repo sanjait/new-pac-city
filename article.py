@@ -92,6 +92,10 @@ PAYWALL_STATUS_RE = re.compile(
     r'["\']?paywall_status["\']?\s*[:=]\s*["\']([a-zA-Z_-]+)["\']', re.I)
 PAYWALL_STATUS_VALUES = {"premium", "metered", "paywall", "subscriber", "locked"}
 
+# Below this, an <article> element is assumed not to be the story — see the
+# fallback in extract_body().
+MIN_ARTICLE_WORDS = 60
+
 _last_request_ts = [0.0]
 _robots_cache = {}
 
@@ -285,6 +289,31 @@ def extract_body(html_text):
         if len(text) > best_len:
             best_text, best_len = text, len(text)
 
+    # An <article> element that holds almost no paragraph text is not the
+    # story — some sites wrap each teaser card in one and put the body outside
+    # them all. Measured 2026-09-06: The Arbiter returned 15 words this way
+    # while the page carried a ~790-word article. Falling back to the whole
+    # document (nav, header, footer and aside already stripped) recovers it.
+    # The threshold is deliberately low: it rescues a page that returned
+    # nothing useful, and never overrides an <article> that actually worked.
+    if len(best_text.split()) < MIN_ARTICLE_WORDS and articles:
+        chunks = []
+
+        def visit_root(n):
+            for child in n.children:
+                if isinstance(child, str) or child.tag in STRIP_TAGS:
+                    continue
+                if child.tag == "p":
+                    t = _collapse(_text_of(child))
+                    if t:
+                        chunks.append(t)
+                visit_root(child)
+
+        visit_root(root)
+        fallback = "\n\n".join(chunks)
+        if len(fallback.split()) > len(best_text.split()):
+            best_text = fallback
+
     return best_text, len(best_text.split())
 
 
@@ -324,6 +353,25 @@ def _clean_name(raw):
         return ""
     parts = _JOB_TITLE_SPLIT.split(raw.strip())
     return parts[0].strip()
+
+
+_CONJOINED = re.compile(r"\s+(?:and|&)\s+", re.I)
+
+
+def _split_conjoined(raw):
+    """Two writers in one string -> two names. Deliberately timid.
+
+    Measured 2026-09-06: a University Star piece credits "Juan Pereira Casanoba
+    and Luke Landa" in one feed field, and the page's JSON-LD names only the
+    first — so without this, a real co-author is silently dropped.
+
+    It splits ONLY into exactly two parts that each read like a full name (two
+    or more words). That guard is the whole safety of it: "Track and Field"
+    would otherwise become a writer called "Track"."""
+    parts = _CONJOINED.split(raw.strip())
+    if len(parts) == 2 and all(len(_clean_name(p).split()) >= 2 for p in parts):
+        return [p.strip() for p in parts]
+    return [raw]
 
 
 def _site_names(html_text, ld_objects):
@@ -397,17 +445,45 @@ def _valid_names(raw_names, site_names):
     boilerplate, strip a job-title clause, then reject the outlet's own name
     and any newsroom credit. A rejected candidate yields nothing — never a
     placeholder, and never the string that was rejected."""
-    out = []
+    out, seen = [], set()
+    expanded = []
     for raw in raw_names:
-        name = _clean_name(BYLINE_BOILERPLATE.sub("", raw or ""))
+        expanded.extend(_split_conjoined(BYLINE_BOILERPLATE.sub("", raw or "")))
+    for raw in expanded:
+        name = _clean_name(raw)
         if not name:
             continue
         if name.lower() in site_names:
             continue
         if NEWSROOM_CREDIT.search(name):
             continue
+        # A page commonly names its author more than once — JSON-LD and a
+        # rel="author" link, or two blocks carrying the same entry. Order is
+        # kept; the duplicate is dropped.
+        if name.lower() in seen:
+            continue
+        seen.add(name.lower())
         out.append(name)
     return out
+
+
+def merge_bylines(page_names, feed_author):
+    """The byline for an item, given what its page said and what its feed said.
+
+    Both are the publisher's own attribution, so neither outranks the other —
+    but they can disagree in count, and that disagreement is not symmetrical.
+    Measured 2026-09-06: a University Star piece whose feed `author` reads
+    "Juan Pereira Casanoba and Luke Landa" exposes only the first of the two in
+    its JSON-LD, so preferring the page silently dropped a real co-author.
+
+    So: take whichever source names MORE people, and let the page win a tie
+    because its structured data needs no normalising. Deliberately NOT a union
+    — merging two spellings of one person ("J. Smith" and "Jane Smith") would
+    invent a second author, which is the failure this whole field exists to
+    avoid."""
+    page = list(page_names or [])
+    feed = _valid_names([feed_author], set()) if (feed_author or "").strip() else []
+    return feed if len(feed) > len(page) else page
 
 
 def extract_byline(html_text, root=None):
