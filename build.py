@@ -22,6 +22,7 @@ import sys
 import urllib.request
 import xml.etree.ElementTree as ET
 
+import furniture
 import watch_data
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
@@ -1118,6 +1119,10 @@ body { background: var(--paper); color: var(--ink); font-family: %(stack)s;
        font-size: 1rem; line-height: 1.5; }
 a { color: var(--house); }
 a:focus-visible, :focus-visible { outline: 2px solid var(--house); outline-offset: 2px; }
+.skip { position: absolute; left: -9999px; }
+.skip:focus { left: 0.5rem; top: 0.5rem; z-index: 10; background: var(--paper);
+  color: var(--ink); border: 2px solid var(--house); padding: 0.6rem 0.9rem;
+  font-size: 0.9rem; text-decoration: none; }
 
 .mast { max-width: 46rem; margin: 0 auto; padding: 1.1rem 1rem 0.7rem;
         border-bottom: 3px double var(--ink); }
@@ -1431,9 +1436,14 @@ def render_row(it, entry, cfg, now):
     if it.get("author"):
         maker.append('<span class="by">%s</span>' % esc(it["author"]))
 
+    # The counter's one custom event. On a site whose entire purpose is
+    # sending people elsewhere, which publisher earns the click is the only
+    # engagement number that means anything -- and we render every one of
+    # these links ourselves, so tagging them costs one attribute.
+    click = ' data-goatcounter-click="out-%s"' % esc(slugify(it["source"]), quote=True)         if it.get("source") else ""
     out = ['<article class="row"><h3>'
-           '<a class="hl" href="%s" target="_blank" rel="noopener">%s</a></h3>'
-           % (esc(it["link"], quote=True), esc(it["title"]))]
+           '<a class="hl"%s href="%s" target="_blank" rel="noopener">%s</a></h3>'
+           % (click, esc(it["link"], quote=True), esc(it["title"]))]
 
     if detailed:
         if maker:
@@ -1558,6 +1568,86 @@ def edition_line(cfg, generated_at):
         _clock(local.hour, local.minute), next_update(local, cfg))
 
 
+def page_path(entry, page):
+    """A page's own URL path, which is also its canonical URL and its sitemap
+    entry. Mirrors exactly where render() writes the file; if one moves the
+    other must, which is why they are next to each other in review."""
+    base = "/" if entry["route"] == "" else "/%s/" % entry["route"]
+    return base if page == 1 else "%spage/%d/" % (base, page)
+
+
+def head_extra(cfg, path):
+    """The two tags every page carries beyond its own metadata: where it really
+    lives, and the counter. Three hostnames reach this site (the apex, www, and
+    the old github.io path, the last two by redirect), so the canonical tag
+    removes any question about which one is the page."""
+    base = cfg.get("site_url", "").rstrip("/")
+    tags = []
+    if base and path:
+        tags.append('<link rel="canonical" href="%s%s">' % (base, path))
+    tags.append(furniture.ANALYTICS)
+    return "\n".join(tags)
+
+
+def render_static_page(title_text, heading, body, roster, cfg, canonical):
+    """A page that is prose rather than a story list: the policies, and the 404.
+
+    Same shell as /about/ deliberately -- masthead, scope bar, footer -- so a
+    reader who lands on the privacy page from a search result is obviously
+    still on New PAC City and can get to the news in one click."""
+    esc = html.escape
+    return """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>%(t)s — %(site)s</title>
+<meta name="description" content="%(sub)s">
+<link rel="icon" href="%(favicon)s">
+<meta name="robots" content="%(robots)s">
+%(headx)s
+<style>%(style)s
+.about { font-family: %(serif)s; font-size: 1.02rem; line-height: 1.6; color: var(--mid);
+         margin-top: 1rem; max-width: 40rem; }
+.about h2 { font-family: %(serif)s; font-size: 1.05rem; color: var(--ink);
+            margin-top: 1.6rem; }
+.about p, .about ul { margin-top: 0.8rem; }
+.about ul { padding-left: 1.2rem; }
+.about li { margin-top: 0.5rem; }
+.about code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+              font-size: 0.9em; }
+</style>
+</head>
+<body>
+<a class="skip" href="#stories">Skip to the stories</a>
+<header class="mast">
+  <p class="word"><a href="/">New PAC City</a></p>
+  <p class="sub">%(sub)s</p>
+</header>
+%(scope)s
+<main id="stories">
+  <p class="phead">%(h)s</p>
+  <div class="about">%(body)s</div>
+</main>
+%(footer)s
+</body>
+</html>
+""" % {
+        "t": esc(title_text),
+        "h": esc(heading),
+        "site": esc(cfg["site_name"]),
+        "sub": esc(cfg.get("subhead", "")),
+        "favicon": FAVICON,
+        "robots": "index, follow" if canonical else "noindex, follow",
+        "headx": head_extra(cfg, canonical),
+        "style": GEN1_STYLE,
+        "serif": STACK_SERIF,
+        "scope": render_scope_bar(roster, None),
+        "body": body,
+        "footer": render_footer(cfg),
+    }
+
+
 def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=None,
                  list_date=None):
     esc = html.escape
@@ -1605,16 +1695,18 @@ def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=No
 <meta property="og:title" content="%(title)s">
 <meta property="og:description" content="%(sub_text)s">
 <meta property="og:type" content="website">
+%(headx)s
 <style>%(style)s</style>
 </head>
 <body>
+<a class="skip" href="#stories">Skip to the stories</a>
 <header class="mast">
   <p class="word"><a href="/">New PAC City</a></p>
   %(sub)s
   %(ed)s
 </header>
 %(scope)s
-<main>
+<main id="stories">
   <p class="phead">%(name)s · %(count)d item%(plural)s</p>
   %(watch)s
   <div class="list">%(body)s</div>
@@ -1626,6 +1718,7 @@ def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=No
 """ % {
         "title": esc(title),
         "sub_text": esc(cfg.get("subhead", "")),
+        "headx": head_extra(cfg, page_path(entry, page)),
         "favicon": FAVICON,
         "style": GEN1_STYLE,
         "sub": sub,
@@ -1649,8 +1742,11 @@ def render_footer(cfg):
   <p>Every headline links to its original publisher; snippets are brief excerpts shown with
   attribution. Full stories belong to their sources.</p>
   <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12
-  Conference or any university. Gathering %d sources. <a href="/about/">About this site</a>.</p>
-</footer>""" % len(cfg["feeds"]))
+  Conference or any university. Gathering %d sources.</p>
+  <p>%s</p>
+</footer>""" % (len(cfg["feeds"]),
+                " · ".join('<a href="/%s/">%s</a>' % (slug, label)
+                           for slug, label, _t, _b in furniture.PAGES)))
 
 
 def render_about(roster, cfg, now):
@@ -1684,18 +1780,20 @@ def render_about(roster, cfg, now):
 <title>About — %(site)s</title>
 <meta name="description" content="%(sub)s">
 <link rel="icon" href="%(favicon)s">
+%(headx)s
 <style>%(style)s
 .about { font-family: %(serif)s; font-size: 1.02rem; line-height: 1.6; color: var(--mid);
          margin-top: 1rem; max-width: 40rem; }
 </style>
 </head>
 <body>
+<a class="skip" href="#stories">Skip to the stories</a>
 <header class="mast">
   <p class="word"><a href="/">New PAC City</a></p>
   <p class="sub">%(sub)s</p>
 </header>
 %(scope)s
-<main>
+<main id="stories">
   <p class="phead">About</p>
   %(body)s
 </main>
@@ -1705,6 +1803,7 @@ def render_about(roster, cfg, now):
 """ % {
         "site": esc(cfg["site_name"]),
         "sub": esc(cfg.get("subhead", "")),
+        "headx": head_extra(cfg, "/about/"),
         "favicon": FAVICON,
         "style": GEN1_STYLE,
         "serif": STACK_SERIF,
@@ -1857,6 +1956,7 @@ def render(cfg, list_path, verdicts_path=None):
     carriage, _ = watch_data.load()
     roster = build_roster(cfg)
     pages_written, watch_pages = 0, 0
+    sitemap_paths = []
 
     for entry in roster:
         items = items_for(entry, by_team)
@@ -1878,6 +1978,7 @@ def render(cfg, list_path, verdicts_path=None):
                 render_index(entry, chunk, roster, cfg, now, page, total, watch_slug,
                              list_date=list_date),
                 encoding="utf-8")
+            sitemap_paths.append(page_path(entry, page))
             pages_written += 1
 
         if watch:
@@ -1885,14 +1986,39 @@ def render(cfg, list_path, verdicts_path=None):
             watch_dir.mkdir(exist_ok=True)
             (watch_dir / "index.html").write_text(
                 render_watch_page(entry["team"], watch, carriage, cfg, now), encoding="utf-8")
+            sitemap_paths.append("/%s/watch/" % entry["route"])
             watch_pages += 1
 
     about_dir = out / "about"
     about_dir.mkdir(exist_ok=True)
     (about_dir / "index.html").write_text(render_about(roster, cfg, now), encoding="utf-8")
+    sitemap_paths.append("/about/")
+
+    # The policy pages, in the same shell as /about/ so a reader who lands on
+    # one from a search result is obviously still on New PAC City.
+    for slug, _label, title_text, body in furniture.POLICY_PAGES:
+        page_dir = out / slug
+        page_dir.mkdir(exist_ok=True)
+        path = "/%s/" % slug
+        (page_dir / "index.html").write_text(
+            render_static_page(title_text, title_text, body, roster, cfg, path),
+            encoding="utf-8")
+        sitemap_paths.append(path)
+
+    # GitHub Pages serves this for any URL it cannot find. Deliberately absent
+    # from the sitemap and marked noindex: an indexed 404 is a defect.
+    (out / "404.html").write_text(
+        render_static_page("Page not found", "That page isn't here",
+                           furniture.NOT_FOUND, roster, cfg, None),
+        encoding="utf-8")
+
+    (out / "robots.txt").write_text(furniture.robots_txt(cfg), encoding="utf-8")
+    (out / "sitemap.xml").write_text(
+        furniture.sitemap_xml(cfg, sitemap_paths, list_date), encoding="utf-8")
 
     print(f"Wrote {pages_written} index pages across {len(roster)} keys + about "
-          f"+ {watch_pages} watch pages — {total_items} items.")
+          f"+ {len(furniture.POLICY_PAGES)} policy pages + {watch_pages} watch pages "
+          f"+ 404, robots.txt and a {len(sitemap_paths)}-URL sitemap — {total_items} items.")
 
 
 def main():
