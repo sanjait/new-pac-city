@@ -1,0 +1,56 @@
+# New PAC City — an independent fan site about the new Pac-12.
+# Every headline here is a link out to the publisher who wrote it.
+# Removal requests and questions: removals@newpac.city
+#
+# The rule we keep, and the rule we ask for:
+# We read feeds that publishers offer for syndication. Our fetcher states truthfully
+# what it is, obeys robots.txt, takes headlines rather than articles, and sends every
+# reader back to the source with attribution. We never disguise ourselves to get past
+# a block, even when that costs us a source.
+# So: crawl us to send people somewhere. Do not crawl us to train a model.
+
+Sitemap: https://newpac.city/sitemap.xml
+
+# ---------------------------------------------------------------------------
+# Everyone not named below: welcome.
+# ---------------------------------------------------------------------------
+User-agent: *
+Allow: /
+
+# ---------------------------------------------------------------------------
+# Retrieval and answering bots: welcome, explicitly. You fetch a page to answer
+# someone's question and you cite the source with a link. That is what this
+# whole site does.
+# ---------------------------------------------------------------------------
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+
+# ---------------------------------------------------------------------------
+# Model training crawlers: no. You take the work and return nothing to the
+# publishers whose reporting this site points at. We are not willing to be the
+# doorway through which that happens to them.
+# ---------------------------------------------------------------------------
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+User-agent: CCBot
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: cohere-ai
+User-agent: Diffbot
+User-agent: ImagesiftBot
+User-agent: Omgilibot
+User-agent: AI2Bot
+User-agent: Timpibot
+User-agent: PanguBot
+User-agent: YouBot
+User-agent: Scrapy
+Disallow: /

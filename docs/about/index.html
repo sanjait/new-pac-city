@@ -6,6 +6,8 @@
 <title>About — New PAC City</title>
 <meta name="description" content="An independent fan site about the new and improved Pac-12.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230a4d68'/%3E%3Ctext x='32' y='45' font-family='Arial' font-size='28' font-weight='bold' fill='white' text-anchor='middle'%3ENP%3C/text%3E%3C/svg%3E">
+<link rel="canonical" href="https://newpac.city/about/">
+<script data-goatcounter="https://newpaccity.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <style>
 :root {
   --paper: #FBFBFA; --ink: #101112; --mid: #3F4245; --soft: #5F6265;
@@ -21,6 +23,10 @@ body { background: var(--paper); color: var(--ink); font-family: -apple-system, 
        font-size: 1rem; line-height: 1.5; }
 a { color: var(--house); }
 a:focus-visible, :focus-visible { outline: 2px solid var(--house); outline-offset: 2px; }
+.skip { position: absolute; left: -9999px; }
+.skip:focus { left: 0.5rem; top: 0.5rem; z-index: 10; background: var(--paper);
+  color: var(--ink); border: 2px solid var(--house); padding: 0.6rem 0.9rem;
+  font-size: 0.9rem; text-decoration: none; }
 
 .mast { max-width: 46rem; margin: 0 auto; padding: 1.1rem 1rem 0.7rem;
         border-bottom: 3px double var(--ink); }
@@ -92,12 +98,13 @@ footer p { margin-top: 0.5rem; }
 </style>
 </head>
 <body>
+<a class="skip" href="#stories">Skip to the stories</a>
 <header class="mast">
   <p class="word"><a href="/">New PAC City</a></p>
   <p class="sub">An independent fan site about the new and improved Pac-12.</p>
 </header>
 <nav class="scope" aria-label="Sections"><a href="/">All</a><a href="/broncos/">Broncos</a><a href="/rams/">Rams</a><a href="/fsudogs/">Bulldogs</a><a href="/zags/">Zags</a><a href="/beavs/">Beavs</a><a href="/aztecs/">Aztecs</a><a href="/bobcats/">Bobcats</a><a href="/aggies/">Aggies</a><a href="/cougs/">Cougs</a><a href="/pac12/">Pac-12</a></nav>
-<main>
+<main id="stories">
   <p class="phead">About</p>
   
   <p class="about">New PAC City gathers what is being written, recorded and filmed about the nine
@@ -118,7 +125,8 @@ footer p { margin-top: 0.5rem; }
   <p>Every headline links to its original publisher; snippets are brief excerpts shown with
   attribution. Full stories belong to their sources.</p>
   <p>New PAC City is an independent fan site, not affiliated with or endorsed by the Pac-12
-  Conference or any university. Gathering 61 sources. <a href="/about/">About this site</a>.</p>
+  Conference or any university. Gathering 61 sources.</p>
+  <p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a> · <a href="/contact/">Contact</a> · <a href="/accessibility/">Accessibility</a></p>
 </footer>
 </body>
 </html>
