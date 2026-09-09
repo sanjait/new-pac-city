@@ -4,8 +4,9 @@
 #
 # The rule we keep, and the rule we ask for:
 # We read feeds that publishers offer for syndication. Our fetcher states truthfully
-# what it is, obeys robots.txt, takes headlines rather than articles, and sends every
-# reader back to the source with attribution. We never disguise ourselves to get past
+# what it is, consults robots.txt before fetching any page beyond the feed, takes
+# headlines rather than articles, and sends every reader back to the source with
+# attribution. We never disguise ourselves to get past
 # a block, even when that costs us a source.
 # So: crawl us to send people somewhere. Do not crawl us to train a model.
 
