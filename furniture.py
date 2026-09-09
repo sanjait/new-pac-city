@@ -22,6 +22,12 @@ GC_CODE = "newpaccity"
 ANALYTICS = ('<script data-goatcounter="https://%s.goatcounter.com/count"'
              ' async src="//gc.zgo.at/count.js"></script>' % GC_CODE)
 
+# The date the policy TEXT last changed -- never the build date. The privacy
+# page promises "the date below will change" if what we collect changes, and a
+# stamp that moved every twelve hours would make that promise meaningless.
+# Change this by hand, in the same commit that changes a page.
+LAST_UPDATED = "9 September 2026"
+
 CONTACT_GENERAL = "hello@newpac.city"
 CONTACT_REMOVALS = "removals@newpac.city"
 
@@ -123,7 +129,8 @@ yes.</p>
 automatically.</b></p>
 
 <p>This site exists by reading feeds that other people publish for exactly that purpose. When we
-do it, our fetcher says truthfully what it is, obeys the site's <code>robots.txt</code>, takes
+do it, our fetcher says truthfully what it is, reads only feeds a publisher offers for
+syndication, consults <code>robots.txt</code> before fetching any page beyond them, takes
 headlines rather than articles, and sends every reader back to the publisher with their name on
 it. <b>We never disguise ourselves to get past a block, even when honesty costs us a source</b>
 &mdash; and it has. Where a publisher's rules permit indexing but forbid scraping, we comply
@@ -177,8 +184,10 @@ and we won't argue.</b> You do not need to send a formal legal notice, cite a st
 explain yourself. We host none of your content &mdash; every headline here is a link back to you
 &mdash; but it's your work and it's your call.</p>
 
-<p>If you'd rather block us at the source instead, our fetcher identifies itself honestly in its
-user-agent string and obeys <code>robots.txt</code>. We never disguise what we are.</p>
+<p>If you'd rather block us at the source instead, our fetcher identifies itself honestly in
+its user-agent string, and consults <code>robots.txt</code> before fetching any page beyond the
+feed you publish. We never disguise what we are. Pulling your feed out of our list is also
+something we will simply do &mdash; see above.</p>
 
 <h2>If something is broken</h2>
 
@@ -196,8 +205,8 @@ ACCESSIBILITY = """
 navigation, magnification, or a phone in bright sunlight.</p>
 
 <p><b>What we've done.</b> The site is plain HTML. Headings are real headings and links are real
-links. Every page declares its language, and starts with a &ldquo;skip to the stories&rdquo;
-link so you do not have to walk through the navigation every time. Navigation works from the
+links. Every page declares its language, and starts with a &ldquo;skip to the main
+content&rdquo; link so you do not have to walk through the navigation every time. Navigation works from the
 keyboard, and the focused element is always visibly outlined. Tap targets are sized for fingers.
 The site follows your device's light or dark setting rather than forcing one on you, and the
 text resizes with your browser's settings without the layout breaking. The only script on the
@@ -268,8 +277,9 @@ def robots_txt(cfg):
 #
 # The rule we keep, and the rule we ask for:
 # We read feeds that publishers offer for syndication. Our fetcher states truthfully
-# what it is, obeys robots.txt, takes headlines rather than articles, and sends every
-# reader back to the source with attribution. We never disguise ourselves to get past
+# what it is, consults robots.txt before fetching any page beyond the feed, takes
+# headlines rather than articles, and sends every reader back to the source with
+# attribution. We never disguise ourselves to get past
 # a block, even when that costs us a source.
 # So: crawl us to send people somewhere. Do not crawl us to train a model.
 

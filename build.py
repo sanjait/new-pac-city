@@ -112,6 +112,9 @@ footer { max-width: 720px; margin: 0 auto; padding: 0 16px 48px; color: var(--mu
 footer p { margin-top: 6px; }
 footer a { color: var(--accent); }
 a:focus-visible, .headline:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.skip { position: absolute; left: -9999px; }
+.skip:focus { left: 0.5rem; top: 0.5rem; z-index: 10; background: #fff; color: #111;
+  border: 2px solid var(--accent); padding: 0.6rem 0.9rem; text-decoration: none; }
 """
 
 
@@ -1036,9 +1039,11 @@ h1 .nick { color: var(--s); }
 <meta property="og:type" content="website">
 <meta property="og:url" content="{og_url}">
 <meta name="twitter:card" content="summary">
+{head_extra(cfg, "/%s/watch/" % team["slug"])}
 <style>{style}</style>
 </head>
 <body>
+<a class="skip" href="#stories">Skip to the main content</a>
 <div class="teambar"></div>
 <p class="crumb"><a href="../">← {school} {nickname}</a> · New PAC City</p>
 <header>
@@ -1048,7 +1053,7 @@ h1 .nick { color: var(--s); }
   <p class="updated">Channel line-ups checked {html.escape(data["carriage_checked"])} ·
      schedule checked {html.escape(data["schedule_checked"])}</p>
 </header>
-<main>
+<main id="stories">
 <h2>The season, three ways</h2>
 {render_watch_table(data, carriage)}
 {legend}
@@ -1619,7 +1624,7 @@ def render_static_page(title_text, heading, body, roster, cfg, canonical):
 </style>
 </head>
 <body>
-<a class="skip" href="#stories">Skip to the stories</a>
+<a class="skip" href="#stories">Skip to the main content</a>
 <header class="mast">
   <p class="word"><a href="/">New PAC City</a></p>
   <p class="sub">%(sub)s</p>
@@ -1628,6 +1633,7 @@ def render_static_page(title_text, heading, body, roster, cfg, canonical):
 <main id="stories">
   <p class="phead">%(h)s</p>
   <div class="about">%(body)s</div>
+  %(updated)s
 </main>
 %(footer)s
 </body>
@@ -1644,6 +1650,8 @@ def render_static_page(title_text, heading, body, roster, cfg, canonical):
         "serif": STACK_SERIF,
         "scope": render_scope_bar(roster, None),
         "body": body,
+        "updated": ('<p class="when">Last updated: %s</p>' % esc(furniture.LAST_UPDATED)
+                    if canonical else ""),
         "footer": render_footer(cfg),
     }
 
@@ -1699,7 +1707,7 @@ def render_index(entry, page_items, roster, cfg, now, page, total, watch_slug=No
 <style>%(style)s</style>
 </head>
 <body>
-<a class="skip" href="#stories">Skip to the stories</a>
+<a class="skip" href="#stories">Skip to the main content</a>
 <header class="mast">
   <p class="word"><a href="/">New PAC City</a></p>
   %(sub)s
@@ -1787,7 +1795,7 @@ def render_about(roster, cfg, now):
 </style>
 </head>
 <body>
-<a class="skip" href="#stories">Skip to the stories</a>
+<a class="skip" href="#stories">Skip to the main content</a>
 <header class="mast">
   <p class="word"><a href="/">New PAC City</a></p>
   <p class="sub">%(sub)s</p>
