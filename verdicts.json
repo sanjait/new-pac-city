@@ -1,0 +1,3375 @@
+{
+  "verdicts": {
+    "3bdb1dc04d6ea647": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A link-roundup blurb previews this week's Fresno State-Sacramento State game and Fresno's offensive struggles.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "0143fd54cc212f34": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "boise-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "utah-state/football": "involves",
+        "oregon-state/football": "involves",
+        "washington-state/football": "involves",
+        "texas-state/football": "involves",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A first-person column previews SDSU at UCLA and surveys Week 1 results and Week 2 matchups for nearly every other conference member.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "4427b0934f4cdcb6": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A weekly transfer-portal recap that names several of the nine schools only in stat-table-style player entries, not as the subject of any passage.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "16deb6c0f637a74b": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "A history column on fans rushing the field that uses Oregon State's Week 1 game only as the opening anecdote, never discussing the game itself.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "5 min read",
+      "lock": "free",
+      "run": "run_2026-09-11-2219"
+    },
+    "4eaef1064e1049ec": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "A Mountain West betting-picks column covering only Nevada, Air Force, North Dakota State and UNLV, none of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "179c815071e69cbd": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A Week 1 roundup credits Boise State's near-upset of Oregon and covers rough season openers for Fresno State, Texas State and Utah State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "1b2c7d5186eb8ac2": {
+      "subjects": {
+        "boise-state/football": "about",
+        "washington-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "fresno-state/football": "involves",
+        "colorado-state/football": "involves",
+        "oregon-state/football": "involves",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Weekly bowl projections repeatedly slot seven of the nine schools into specific bowls, with extended analysis of Boise State as a possible playoff team.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f509167ef3097d66": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The lead item questions Washington State's decision to let QB Caden Pinnick lead the team in rushing against Washington.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "16bcaaac210a5ac3": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A fan survey about a hypothetical Group of Six playoff with no coverage of any of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "3be2440e9ff78a54": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Analyzes Utah State's Week 1 loss to Idaho State and the quarterback injury situation ahead of facing Washington.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "623a12002e3cfc4f": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "A column entirely about New Mexico's season-opening win over Central Michigan; none of the nine schools appear.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "1a1813d8071b3b1b": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "An FCS Top 25 ballot in which Boise State appears only once, as an aside about South Dakota's upcoming road schedule.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "11 min read",
+      "lock": "free",
+      "run": "run_2026-09-11-2219"
+    },
+    "a146a3c0c4ea618e": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "An FCS Top 25 ballot in which Boise State appears only in a historical aside about Idaho State's coach's father from 25 years ago.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "10 min read",
+      "lock": "free",
+      "run": "run_2026-09-11-2219"
+    },
+    "6c0fca77cb287065": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "A speculative alternate-history piece on 1992 conference realignment listing Oregon State and Washington State only as members of an old conference roster.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "15 min read",
+      "lock": "free",
+      "run": "run_2026-09-11-2219"
+    },
+    "ac3bd3c4ace3a528": {
+      "subjects": {
+        "boise-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State volleyball's championship run at the Boise State Classic, including Sydney Dreves' MVP performance.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "06d0af012531e0dd": {
+      "subjects": {
+        "boise-state/mens-golf": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State men's golf's season-opening finish at the Island Resort Classic.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "57b16e93268657e4": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Awards post-game \"game balls\" to Boise State football players for their performance in the loss to Oregon.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "23f7b7be9dffc021": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State football's narrow 34-27 loss to No. 2 Oregon at Autzen Stadium.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "e2cc0f78e060d8be": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Boise State's quarterback, head coach and a linebacker discuss the team's performance in the post-Oregon press conference.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f768d1c32f6cf557": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State football's 34-27 loss to Oregon, including Madsen's passing line and the fourth-quarter comeback bid.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "09b884a94bc61377": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A live gamethread with fan commentary during Boise State football's game at Oregon.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "e3807b43f01bfe4d": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A player-profile feature on Boise State football running back Dylan Riley ahead of the season opener.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "568e61b111982112": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A player-profile feature on Boise State football linebacker Boen Phelps ahead of the season opener.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "bfc671784ab18715": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A fan guide to watching Boise State football games at local Boise venues during the 2026 season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vivian Navarro Cortes"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f4fac42227b8f729": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Boise State football's season-opening matchup at Oregon, breaking down both rosters.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "9a7392561bde38c1": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A roster-countdown profile of Boise State football freshman defensive back Madden Soliai ahead of the season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "e70769c9dfb6f46b": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full game preview of Boise State football's season opener at Oregon, covering depth-chart battles and matchup analysis.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "1df560bbe66c388a": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A roster-countdown profile of Boise State football edge rusher Sterling Lane II.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "7a8ef1fb2d762f5a": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A roster-countdown profile of Boise State's starting quarterback Maddux Madsen ahead of his final season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "65b5d1c35055a042": {
+      "subjects": {
+        "boise-state/womens-volleyball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on Boise State women's volleyball's move to a new home arena and its roster of newcomers ahead of the Pac-12 season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "65c58bc774ef9148": {
+      "subjects": {
+        "boise-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap of Boise State women's soccer's 3-1 win over Idaho State, with player and coach quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sports Team"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "692bb63f57de31d6": {
+      "subjects": {
+        "boise-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on Boise State athletics' new North End Zone stadium facility and what it offers fans, students and athletes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "ed4c83e06ec1f686": {
+      "subjects": {
+        "boise-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A report on Boise State athletics' budget deficit and the Mountain West exit-fee settlement affecting department finances.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "635142dd10a82df4": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A season preview built around Boise State football's fall camp ahead of its Pac-12 opener at Oregon.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f60c2c70055ccd7f": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A recurring column, explicitly labeled one, grading individual Fresno State football players' performance after the USC loss.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "c3f48d650e780ab2": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on former Fresno State football players' NFL preseason performance and roster outcomes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "561937dc48816f01": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A report on Fresno State football injuries from the USC game and their effect on the depth chart heading into the home opener.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "7441cb3add99c38c": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A labeled column arguing Fresno State football was completely outmatched in its lopsided loss at USC.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "a3fe1cd8ac46ff9c": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Coach Matt Entz discusses the Fresno State quarterback situation and preparation for the Sacramento State game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "0fa636fe2dc65017": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A retrospective segment revisiting Fresno State football's 2001 win at Colorado during the Pat Hill era.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "3c7474682d21945e": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A weekly roundup segment naming standout Fresno State football players and other program honorees.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "d87188b4ea3452c1": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "An extended-highlights and stats segment reviewing Fresno State football's 39-0 loss at USC.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "fe12813fa01ecf20": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An interview segment with a former Fresno State player discussing the team's game at USC.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "0deae67ba90179de": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A reaction and discussion segment on Fresno State football's blowout loss to USC in the season opener.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "8a3cefd68f0cd5d9": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap of Fresno State football's 39-0 season-opening loss to USC, with coach quotes on what went wrong.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Cebreiros Jr."
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "31a7a4446e5ab531": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap segment on Fresno State football's rough season-opening loss at USC with postgame reaction.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "ccc052faa2e06726": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A live-updates recap detailing the game action of Fresno State football's 39-0 loss to USC.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "15460be54c6d8ea0": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A simulated-season feature projecting Fresno State football's 2026 campaign in a video game, detailing matchups against several conference rivals.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Cebreiros Jr."
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "e09625a4ad601378": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A preview of Fresno State football's season-opening road game at USC.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "a2132bf9142d48cc": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A depth-chart breakdown of Fresno State football's starters ahead of the season opener at USC.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f85572af1aba27db": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Reports Fresno State volleyball's 0-3 start and lays out the upcoming Bulldog and Ridge Invitational schedules.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "74980176a834d91c": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An interview with Fresno State's offensive coordinator about the new starting quarterback's development.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "f8656ef4d5aad895": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports the head coach naming Jayden Mandal the starting quarterback ahead of the season opener.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "f25ed6779aa30173": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A retrospective on the Fresno State-USC football rivalry ahead of this week's matchup.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "2d8dc50ef756b7be": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A weekly segment highlighting three former Fresno State football players.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "3023c5e883a7ace5": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An interview segment with Fresno State's head football coach ahead of the season.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "db56e33141b8651c": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Continuation of the head football coach interview covering team captains and the season-opening game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "48a695892851fc78": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A historical retrospective on a 2004 Fresno State football road win.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "36e1cfdee00cff7e": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "fresno-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers the Fresno State quarterback competition and the athletic director's reported contract extension.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "d8b5fb4af7840cd8": {
+      "subjects": {
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A Bulldog-branded segment on former Fresno State receiver Davante Adams' 13th NFL season.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "7288bcd3fd116ec4": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A historical look back at a Fresno State player's single-season interception record.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "b292a4195f380e13": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A former Fresno State safety discusses expectations for this year's Bulldog defense.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "f57774be08de2a24": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on a Fresno State defensive back's path from walk-on to starter in his final season.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "3d90c14904f88931": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Fall camp updates and quarterback competition coverage for Fresno State football.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "19286adacf55ab50": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports a court stay putting Gonzaga transfer Chauncey Wiggins' eligibility for the coming season in doubt.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "32a1bca9daf6892e": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A season-outlook discussion of Gonzaga's roster ahead of practices starting, including how Xaivian Lee changes the team.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "bffa54d278fbde90": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A scheduling brief naming Gonzaga's fifth known home nonconference basketball game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "e4230341d8b560d0": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A scheduling report on Gonzaga's return to Climate Pledge Arena for nonconference games over two seasons.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "00af302d54b560b9": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Announces the date and format of Gonzaga's annual Kraziness in the Kennel season-preview event.",
+      "evidence_basis": "title+full-text",
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "c83f59a3628004f0": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "An argued take on why transfer Xaivian Lee raises Gonzaga's ceiling more than other point-guard options would have.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "7fd3f6d627e5c783": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports transfer guard Skylar Wicks decommitting from Gonzaga's basketball program.",
+      "evidence_basis": "title+full-text",
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "462468c166d38604": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Xaivian Lee's commitment to Gonzaga's basketball program.",
+      "evidence_basis": "title+full-text",
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "8df1adf185391bc4": {
+      "subjects": {
+        "gonzaga/mens-basketball": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on former Gonzaga standout Corey Kispert's coffee company that dwells extensively on his Zag playing days and coach Mark Few.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "13027202dacdb40d": {
+      "subjects": {
+        "gonzaga/mens-basketball": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An interview with former Gonzaga standout Corey Kispert on his NBA career that credits coach Mark Few's impact on him at length.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "7794d7fbd6b95f13": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Gonzaga point guard commit Nathan De Sousa's planned arrival while his NCAA eligibility waiver is pending.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "e44275cd16729b13": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports a legal setback to Gonzaga point guard commit Javon Bennett's eligibility after an NCAA stay motion in the Wisne case.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "5f29221a88226102": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports former Gonzaga guards Adam Miller and Noah Haaland each signing professional contracts overseas.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "3934cbb5e33c0276": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Gonzaga will host Cornell on Dec. 31, a confirmed addition to the men's basketball nonconference schedule.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "f85427f3ffb25fce": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature detailing Gonzaga's chaotic men's basketball roster-building offseason through quotes from Mark Few and commits Bennett and Wiggins.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "9441b37291955f7e": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Montana State is scheduled to visit Gonzaga on Nov. 17, a confirmed nonconference game addition.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "8e2355d201f792de": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Gonzaga will host NAIA Eastern Oregon on Dec. 2, a confirmed nonconference scheduling addition.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "8f8265080e77768f": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports former Gonzaga guard Malachi Smith signing an NBA contract with the Toronto Raptors.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "59e39cb01882e2e0": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A notebook on Gonzaga legend John Stockton's reaction to coach Mark Few joining him in the Naismith Hall of Fame.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "2058b921568c9207": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers Gonzaga coach Mark Few's Hall of Fame enshrinement speech and career milestones at the ceremony.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f993989093769748": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers Gonzaga coach Mark Few recounting the phone call informing him of his Hall of Fame induction, ahead of enshrinement.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "cb170cf570bce299": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on how Gonzaga recruited and landed Dayton transfer point guard Javon Bennett amid its backcourt need.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "b625f22b3c461bb0": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A podcast discussing the impact and roles of Gonzaga's newly added players Bennett, Wiggins and Wicks for the 2026-27 team.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "faa771da299d406b": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about",
+        "colorado-state/womens-basketball": "involves",
+        "oregon-state/womens-basketball": "involves",
+        "san-diego-state/womens-basketball": "involves",
+        "washington-state/womens-basketball": "involves",
+        "boise-state/womens-basketball": "involves",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A notebook assessing Gonzaga women's basketball as a contender against every other Pac-12 women's basketball program by record and NET ranking.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "e5dd80745c56565a": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on new Gonzaga wing Chauncey Wiggins' path through eligibility litigation to his commitment.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "644c0be0be4ed91c": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Argues that Chauncey Wiggins' shooting and length turn Gonzaga's frontcourt into a mismatch alongside Huff and Diop.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "c25bcc437591de6a": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports the coroner's ruling on the death of former Gonzaga star and NBA player Brandon Clarke, framed through his playing career.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Melody Gutierrez"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "490411dda77f0a12": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about",
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A podcast interview with new Oregon State head coach Justin Joyner, paired per the title with news that Javon Bennett is now a Gonzaga commit.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "e79156646380efd1": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Gonzaga landing Dayton transfer guard Javon Bennett to fill its backcourt need.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "6f1e1ddc058cf631": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Gonzaga's second 5-in-5 eligibility addition with the commitment of Florida State transfer Chauncey Wiggins.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "e2ead0714113b797": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports recruit Jalen Davis naming Gonzaga among his ten college finalists and planning a visit for the home opener.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "880b6ff59bd819c1": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A season preview of Gonzaga women's basketball's returning depth and experience through coach Lisa Fortier's comments.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "b522b0abfed8dd2d": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Dayton's Javon Bennett committing to Gonzaga after an Ohio court ruling secured his fifth year of eligibility.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "479620211eaa1489": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Argues that Izan Almansa's arrival makes Gonzaga's Huff-Diop-Almansa frontcourt one of the best in the country.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "30eefea7397f9181": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A podcast recap of Gonzaga alums' NBA Summer League play and the Zags' roster construction to date.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "2598abc0dbc8b028": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Argues that Donovan Dent, pursuing a fifth year of eligibility, might fit Gonzaga's backcourt need better than Mario Saint-Supery did.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "6c70b7b32d5d8145": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports on two Oregon State football players' continued eligibility status.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "091c1fc5d123dd16": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A recruiting commitment to Oregon State's baseball program.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "4e7695e962c14767": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on the Oregon State quarterback's path to winning the starting job.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "c430f8716a2166f1": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A betting preview and prediction for Oregon State's Week 2 game against Texas Tech.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Drew Norton | Advance Local"
+      ],
+      "extent": "3 min read",
+      "lock": "free",
+      "run": "run_2026-09-11-2219"
+    },
+    "294e42a24fb4aeca": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Discusses Oregon State's offensive coordinator's formation strategy.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "793035682e9d65e8": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Texas Tech's quarterback plan for its game against Oregon State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "0bb3db2fc297c16f": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on Oregon State freshman receiver Jesse Legree's early performance.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "ef6fdaeb17d5912b": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Covers Oregon State's rushing-defense issues ahead of its game against Texas Tech.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "f73429c6ac9eef31": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports on a legacy donation endowing an Oregon State baseball operations role.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "29904738438d1ff3": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Texas Tech's preparation for Oregon State's offense ahead of their matchup.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "d261c6ace27a879f": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Coach comments addressing Oregon State's underperformance in its loss at Houston.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "76b4d7fc86cfc0a5": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A campus social event, a foam dance party, with no athletics content.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kit Kron"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "ec26f7296cea2da4": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports on Oregon State's open roster spots for potential in-season football additions.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "93026782e7b22514": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Oregon State's football injury report ahead of the Texas Tech game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "84d6fda15709debb": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Live coverage of coach Shephard's press conference previewing the Texas Tech game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "ec91847d51104aab": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "An early preview of Oregon State's home opener against Texas Tech.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "6c887206756ca5d5": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Ten takeaways looking back at Oregon State's season-opening loss to Houston.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "322f8f1daf3a3485": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Reports the point spread for Oregon State's upcoming game against Texas Tech.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "6d494525acf63f03": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A labeled column offering opinion on the start of the JaMarcus Shephard era at Oregon State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "e56fcde1c8824c95": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Jesse Legree's breakout debut performance for Oregon State against Houston.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "fa47b823ab6993c8": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Houston's coach's postgame comments after beating Oregon State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "db2edb3216e59b65": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Looks back at Oregon State's missed tackles in its loss to Houston.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "fd5b109731534997": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps quarterback Braden Atkinson's 376-yard performance in the loss to Houston.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "975e465d79ba077b": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Live coverage of coach Shephard's postgame remarks after the loss to Houston.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "4266eee5888fa143": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Oregon State's competitive but ultimately unsuccessful comeback effort against Houston.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "60dfd7057b39cb36": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Full text covers NCAA eligibility litigation directly affecting three Oregon State football players' rosterability.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Noel Hendrickson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "2e5aab02fa67df88": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Summary reports an in-game injury to an Oregon State offensive lineman and the resulting lineup change.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "70156c448a2cd0c7": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Summary recaps Oregon State's 33-20 season-opening loss and the absent starters who shaped it.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "a549f19b92acb079": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Summary is a live-updates recap of Oregon State's season-opening loss to Houston.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "8ec88e088e404755": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Summary is viewing-logistics for Oregon State's season opener against Houston.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "70618c0e67f804d6": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Full text is a tribute to a deceased OSU graduate student with no athletics content at all.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Marina Kandas"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "a2aa236704d4d7af": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Summary previews the season opener and the start of the Shephard coaching era.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "0cf0c0a6a2e9f6f5": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary reports a court injunction affecting a former Beaver's eligibility and Oregon State's decision on signing him.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "076f447ad4ce0d96": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary quotes Shephard on the impact of a returning player on the Oregon State offense.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "f237abf2d5730adf": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [
+        "Houston Cougars"
+      ],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Summary previews the Houston matchup via a scouting Q&A ahead of Oregon State's opener.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-11-2219"
+    },
+    "7d1dd3edd4477ffe": {
+      "subjects": {
+        "oregon-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full text recaps Oregon State women's soccer's 2-1 loss to Washington, play by play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Shayna Boettner"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "b5f4127b97c3d2dc": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Full text is Shephard explaining Oregon State's starting-quarterback selection of Atkinson.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Freeman"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "9ad502ccae0b182d": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Full text is about OSU's academic accreditation renewal, not athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Lucy Gilchrist"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "62339ab9dd75786a": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full text recaps SDSU men's soccer's 2-2 draw against CSU Bakersfield with a late equalizer.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Manny Sanchez"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "a5a89c97ffa8973e": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full text recaps SDSU football's 53-20 win over Portland State in detail.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Connor Larson"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f8a345e065a03fdf": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full text recaps the same SDSU 53-20 season-opening win over Portland State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Will Magni"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "8c0994c6510caf36": {
+      "subjects": {
+        "san-diego-state": "about",
+        "san-diego-state/womens-golf": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Full text ties a new federal visa policy to SDSU's international student-athletes, naming a women's golf player affected.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Teja Tirunelveli"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "40b40497464554b3": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full text previews SDSU football's season-opening matchup with Portland State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Iain Henderson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "1686aec9f7819a4c": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full text recaps SDSU men's soccer's 7-1 win over Life Pacific, goal by goal.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Noah Meyer"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f030e8083dc157b5": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full text looks ahead to SDSU football's defense under a new coordinator entering the Pac-12 season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "a270dde92dc93da7": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Full text is about SDSU football's move into the new Pac-12 and what it means for the program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "5180d792d8dd4f3b": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full text recaps SDSU men's soccer's 2-2 tie with Navy, led by the same rookie players named in other SDSU men's soccer items.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jason Testa"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "b7c9856de30c04ae": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Full text reports Texas State men's basketball's scheduled appearance in the USLBM Coast to Coast Challenge.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jackson Grettler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "4f1d13d82da7f87b": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full text previews Texas State football's I-35 rivalry game against UTSA.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jackson Grettler"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "42ae17901781c3c6": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Full text profiles Texas State soccer goalkeeper Caitlyn Draper's return from injury.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "8173d6446ac70f19": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State volleyball's two matches at the Southwest Showdown, with set-by-set detail.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ayden Oredson",
+        "Tunmishé Aji"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "08d632fe78e0c1f9": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A post-game recap of Texas State football's season-opening loss to Texas, with quotes from coach Kinne.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Pereira Casanoba",
+        "Luke Landa"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "2342bdb4c94293e7": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State women's soccer's comeback win over Rice, goal by goal.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cody Dotson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "1e226b9c90b8995f": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State volleyball's five-set reverse-sweep loss to UTEP at the Southwest Showdown.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Luke Landa"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "761a05fcf1f56fb7": {
+      "subjects": {
+        "texas-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on Texas State baseball assistant Austin Huml's promotion to Director of Hitting Development.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jackson Grettler"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "9dca1e3e319173bb": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Texas State football's season opener against No. 5 Texas, comparing rosters and stakes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "82699c025539424b": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Utah State volleyball's 3-0 home-opener loss to UCLA, with coach Smith's postmatch comments.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "23 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "33628febd1cd094a": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Reports the final score of Utah State football's home-opener loss to Idaho State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dane Johnson"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "9ee11b84a78eac21": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A profile of Utah State quarterback McCae Hillstead's return to the program ahead of the season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "43 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "6fd3339f467cf059": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Utah State football's turnover-plagued loss to Idaho State, with coach and player quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "20 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "9f2ffe65a29d5589": {
+      "subjects": {
+        "utah-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Utah State women's soccer's 8-1 blowout win over Utah Tech, goal by goal.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "21 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "6c1c1fba5222f4b9": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Utah State's renaming of its football stadium to Jim Laub Family Stadium and the end of the Maverik sponsorship.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "40 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "c625118f4f031070": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A season-preview feature on Utah State volleyball's roster turnover under new coach Keith Smith.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "86 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "42992319b741a477": {
+      "subjects": {
+        "conference": "about",
+        "utah-state": "about",
+        "colorado-state": "about",
+        "boise-state": "about",
+        "san-diego-state": "about",
+        "fresno-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports the Mountain West-Pac-12 lawsuit settlement over exit and poaching fees owed by the five departing schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "28 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "5e49681de1e69ad0": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A season-preview feature on Utah State football entering its first Pac-12 season, drawn from the team's Media Day.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "29 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "8096d076449c07ba": {
+      "subjects": {
+        "utah-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Utah State women's soccer's 2-2 home-opener draw with Michigan.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Quinton Papa"
+      ],
+      "extent": "17 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "5682e1ce388c99fd": {
+      "subjects": {},
+      "unrecognized": [
+        "hockey"
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers a WSU hockey team, but hockey is not among Washington State's registered varsity programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "2fc1eb7eda686a7b": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Jon Wilner's weekly Pac-12 power-rankings entry judging WSU's performance after its Apple Cup loss.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "86ea7f6e52a60df4": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Q&A previewing WSU football's upcoming game against Kansas State, via a K-State beat writer's scouting notes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "c31e5942cff97411": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "boise-state/football": "about",
+        "san-diego-state/football": "about",
+        "oregon-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Week 2 picks column with game-by-game predictions covering most of the conference, including WSU, Utah State, Boise State, San Diego State and Oregon State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "3b712c2ab9566632": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A play-by-play recap of how WSU's offense squandered a strong defensive effort in the Apple Cup loss.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "ad03d04150f35165": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Position-by-position grades for WSU football's performance in the Apple Cup loss to Washington.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "01981d37044e61f6": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Analyzes WSU coaches' apparent comfort with quarterback Caden Pinnick leading the team in rushing.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "c247d0bbe9991782": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on WSU linebacker Keith Brown's emotional return to play after a season lost to shoulder injury.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "10 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "b87d8f4ef412ae31": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps WSU volleyball's four-set loss to No. 25 Oregon, set by set.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "2022ac8c7d333ca4": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "WR Tony Freeman's knee injury and its effect on WSU's receiver depth ahead of the Kansas State game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "bb719bdc31d08a58": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Game recap of WSU's Apple Cup loss to Washington, covering the offense's struggles and the defense's goal-line stand.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "6db3b4fcdde333cc": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Post-game breakdown of WSU's third-down failures and playcalling problems in the Apple Cup loss.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "d4c41ba6466d4ee6": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Reports a Sound Transit light rail breakdown after the game; the piece is transit news, not athletics coverage.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Daniel Beekman"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f38823e42f9d28ae": {
+      "subjects": {
+        "washington-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Column on Washington's Apple Cup win flags UW's offensive-line and discipline problems, with WSU as the opponent throughout.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Vorel"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "fff55d61d25e2585": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Statistical rewind arguing WSU's first- and second-down struggles, not third down itself, caused its 0-for-11 day.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "8b9aa0a33b930179": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "First-look preview of WSU's road game at Kansas State, with injury notes and a scouting report on the opponent.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "c4d8d59a2d842930": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Apple Cup matchup preview covering both starting quarterbacks and storylines ahead of kickoff.",
+      "evidence_basis": "title+full-text",
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "c81e75ee1c1bfa1d": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Live-blog account of the Apple Cup game action and final result.",
+      "evidence_basis": "title+full-text",
+      "extent": "22 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "7282bd00827b9c94": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "First-person column in which four former WSU football coaches reflect on their careers and today's sport.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Bud Withers"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "c3138a7e7a4c66bd": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Practical broadcast and ticket guide for watching the Apple Cup.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sofia Schwarzwalder"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "0dfa631aad457eb3": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves",
+        "colorado-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Survey of in-state rivalry scheduling nationally, centered on the Apple Cup's own future and citing the Civil War and Rocky Mountain Showdown scheduling as comparisons.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tim Booth"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "5d8e653c2373daf5": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Opinion column arguing UW's NIL and media-rights advantage threatens the Apple Cup's competitiveness, quoting WSU's former coach on the resource gap.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Vorel"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "b622021fd65f1ee4": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Match recap of WSU volleyball's sweep of Long Island.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "1f99402af3ed50b4": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Feature on WSU linebacker Keith Brown's goal-line stop and the defense's showing in the Apple Cup loss.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "2e9cc91a2f1d4232": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Analysis of WSU's offensive shortcomings in the Apple Cup loss, including the Tony Freeman injury and line play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "415bf644729e8175": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "\"Difference makers\" capsule crediting WSU's Keith Brown alongside UW's quarterback for the Apple Cup outcome.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "eb8a053dfa111a90": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Instant-reaction breakdown of WSU's offensive struggles and defensive promise in the Apple Cup loss.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "450d4d58b61f3569": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A broadcast-and-game critique of the Apple Cup covering Kirby Moore's debut and the Tony Freeman injury.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vince Grippi"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "473e369ed9bfd7df": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Columnist's take on WSU's uneven Apple Cup performance and Kirby Moore's coaching debut.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dave Boling"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "663d4a20741069b4": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full game recap and box score of WSU's Apple Cup loss to Washington.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "9 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "d60cc46adf66c009": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Injury and eligibility report on WSU tight end Peyton Read and defensive tackle Soni Finau ahead of the Apple Cup.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "ef752ae61592b39d": {
+      "subjects": {
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Report on WSU's \"Ol' Crimson\" fan flag being inducted into College GameDay's Hall of Fan.",
+      "evidence_basis": "title+full-text",
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "3c4b84a8e250c38e": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "\"Keys to victory\" matchup preview breaking down WSU's chances against Washington.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "a00ba89c7843bd16": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Prediction column picking Washington to beat WSU in the Apple Cup, with a final-score call.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "cc8cff76c7a89261": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A syndicated opinion column by Dave Boling arguing the season-opening Apple Cup still carries meaning for WSU and UW despite conference realignment.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dave Boling"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "c91131df3a9156cb": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A game preview detailing WSU's defensive game plan, personnel matchups and quotes ahead of Sunday's Apple Cup against Washington.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "bdf2adbda6280556": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A personal Substack column by a self-described Cougs fan handicapping and rooting for WSU in the Apple Cup.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-09-11-2219"
+    },
+    "5eb0ba4084a77165": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A volleyball season preview covering WSU's undefeated start and its weekend matches against Long Island and Oregon.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "5b3d98c842b993d7": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports on WSU's marching band skipping travel to the Apple Cup over stadium seating changes, tying it to broader shifts in college football logistics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sofia Schwarzwalder"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "f2e72f30f88c77bc": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves",
+        "fresno-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Game-by-game best-case/worst-case predictions for WSU's entire 2026 football schedule, with detailed analysis of each conference opponent.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "934b466894f0dad8": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A season preview of WSU football under new coach Kirby Moore, covering the roster, schedule difficulty and depth chart heading into the opener.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "c8f6b85fdeb7ea67": {
+      "subjects": {
+        "washington-state/football": "about",
+        "conference": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A Hotline mailbag answering reader questions specifically about how the Apple Cup's Sunday slot came to be and the new Pac-12's bowl lineup, including WSU and Oregon State's Poinsettia eligibility.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "11 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "4c1733b76c8a2a4f": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A WSU football notebook covering tight end Peyton Read's Apple Cup absence and defensive tackle Soni Finau's unresolved eligibility status.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "b049bab11d898142": {
+      "subjects": {
+        "conference": "about",
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports the rebuilt Pac-12's official announcements on bowl tie-ins, injury reporting, officiating and conference-committee leadership naming several member schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "4ce46d7abc121c57": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on WSU linebacker Keith Brown's history with Washington and how veteran Cougars are conveying the Apple Cup's significance to teammates.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "49109c0ffd01aaff": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A profile of new WSU head coach Kirby Moore's personality and coaching approach as he begins his first season leading the Cougars.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "d9c9131a23e35c79": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature profile of WSU offensive lineman Noah Dunham's path to winning the starting center job after three years of waiting.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "10 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "d410265b2016d9cc": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews how WSU linebackers Kaden Beatty and Nylan Brown, former Kent State teammates, could contribute in Sunday's Apple Cup.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "34017d706520d061": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers a state liquor board's review of WSU's alcohol-sales pilot program at Cougar football games, including new enforcement measures.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mitchell Roland"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "5442a9d7900e7dcf": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A personal Substack opinion column by a longtime WSU fan on the Cougars' underdog chances against Washington in the Apple Cup.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "82d2306a93b1a6ae": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An analysis of the Apple Cup's uncertain future beyond 2028, weighing WSU's scheduling and budget disadvantages against Washington.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "8d08de35794b7b35": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An obituary for former WSU head football coach Bill Doba, focused entirely on his coaching record, Pac-10 honors and legacy with the program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "a74c11be54daa984": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Bowl projections covering the legacy Pac-12 schools plus dedicated forecasts for WSU and Oregon State in the new Pac-12.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "c654e2a59d6943b1": {
+      "subjects": {
+        "conference": "about",
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An analysis of the strategic decisions that led to the original Pac-12's collapse, crediting WSU and Oregon State's role in the conference's rebuild.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "21bd86929edaaae9": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports on how WSU quarterback Caden Pinnick won the starting job, with quotes from Pinnick, coach Kirby Moore and teammates.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "38fbd940001f183f": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summarizes five takeaways from WSU football's fall camp, covering the pass rush, safeties, offense, running backs and kicker.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "55916ebb9d97e744": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports WSU naming Caden Pinnick its starting quarterback, detailing his fall camp performance and path to the program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "51377cdb7395cfd3": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports coach Kirby Moore's update that WSU will announce its starting quarterback by Monday, plus other fall camp roster notes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "5db6a9eed492bf86": {
+      "subjects": {
+        "conference": "about",
+        "washington-state/football": "about",
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "about",
+        "utah-state/football": "about",
+        "oregon-state/football": "about",
+        "colorado-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Preseason projections and analysis for every team in the rebuilt Pac-12 ahead of the conference's inaugural season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "393098510340d99d": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A position-by-position look ahead at WSU's final fall-camp scrimmage, naming the QB race, running back depth, and offensive/defensive line battles.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "306a877cc3eedff4": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A play-by-play account of WSU's Day 12 fall-camp practice already held, crediting the defense's interceptions and sacks.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "a562e8f63b258f0d": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap of Monday's Day 10 fall-camp practice highlighting Solis-Lumar's pass breakups and McLain's simulated sacks.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "e26d543c3b3ff4cf": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A notebook recapping QB Julian Dugger's performance and tight-end injuries from Saturday's already-completed scrimmage.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "e4adb37a45350b89": {
+      "subjects": {
+        "conference": "about",
+        "washington-state/football": "about",
+        "oregon-state/football": "about",
+        "boise-state/football": "about",
+        "colorado-state/football": "about",
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Walks through the projected 2026 bowl-selection process and tie-ins for the new Pac-12's football members, the two legacy holdovers, and the conference itself.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-11-2219"
+    },
+    "9d754c5c84129dca": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports a new nonconference men's basketball game added to WSU's schedule and lists the rest of the slate.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    },
+    "f8df3e9b2bd2973e": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports WSU men's basketball's final roster addition, French center Mohamed Sankhe, with his statistical background.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-11-2219"
+    }
+  },
+  "runs": {
+    "run_2026-09-11-2219": {
+      "schema": "v3",
+      "prompt": "v3",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-11T22:09:30.366839+00:00",
+      "items": 232,
+      "verdict_counts": {
+        "publish": 219,
+        "drop": 13
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 4,
+        "Press Break": 4,
+        "The Daily Barometer": 3,
+        "The Daily Evergreen": 1,
+        "The Seattle Times": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 21
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 30
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "f237abf2d5730adf",
+          "source": "The Oregonian",
+          "phrase": "Houston Cougars"
+        },
+        {
+          "id": "5682e1ce388c99fd",
+          "source": "The Daily Evergreen",
+          "phrase": "hockey"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "wall_clock_prep_s": 377.34324539999943,
+      "tokens": 1430232,
+      "tokens_source": "sum of 10 harness-reported subagent token totals, judging only; includes per-turn context re-billing, so it is an upper bound on real work (plan-schema-v3 §6.2 warning)"
+    }
+  }
+}
