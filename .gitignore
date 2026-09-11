@@ -1,2 +1,7 @@
 __pycache__/
 .DS_Store
+
+# Item-reviewer scratch output (plan-item-review.md step 4/5) — batches and
+# raw judge output are intermediate; only verdicts.json and the run record
+# are meant to be committed once a run completes.
+review-work/
