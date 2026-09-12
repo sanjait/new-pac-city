@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-12T01:05:35.584274+00:00",
+  "generated_at": "2026-09-12T13:05:04.462184+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "“Not Playing for Anything”: What Will Happen to the Group of Six after 24-Team Playoff Expansion?",
+        "link": "https://www.mwcconnection.com/mountain-west-football/92238/group-of-six-24-team-playoff-cfp-ncaa-expansion",
+        "link_kind": "item",
+        "date": "2026-09-11T19:00:00+00:00",
+        "summary": "What would you do for your conference? For the Big Ten, they will buy time to protect their power brands if needed. For the SEC, they don’t care what colors you wear (purple and gold, for instance); they will show anyone that they mean business. Conferences don’t care what they have to do. Even if [&#8230;]",
+        "author": "Dan Allison",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "4cf78c623b84fc14",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Hawai’i Warriors Weekly Countdown: New Mexico State",
+        "link": "https://www.mwcconnection.com/hawaii-warriors-football/91926/hawaii-warriors-weekly-countdown-new-mexico-state",
+        "link_kind": "item",
+        "date": "2026-09-11T18:00:00+00:00",
+        "summary": "College football is forever a “what have you done for me lately?” sport. A season that started with sky-high expectations for the 2026 Hawai’i Warriors has instead begun with a 0-2 record and maybe the ugliest rendition of the run-and-shoot offense we’ve ever seen. What now? Here are a few things to watch for as [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "de3614a1bd0bc412",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Owls in Flight: The Rice-Nebraska Game That Marked Football’s Return from 9/11",
         "link": "https://pressbreak.substack.com/p/owls-in-flight-the-rice-nebraska",
@@ -14,8 +42,63 @@
         "source": "Press Break",
         "id": "ceac909d02811156",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
+      },
+      {
+        "title": "A breakdown of the Jeff Choate-Montana scheduling debacle",
+        "link": "https://www.mwcconnection.com/nevada-wolfpack-football/92230/breakdown-jeff-choate-montana-nevada-scheduling-debacle",
+        "link_kind": "item",
+        "date": "2026-09-11T16:00:00+00:00",
+        "summary": "This is a big week for the Nevada Wolf Pack, especially for head coach Jeff Choate. Not only will this weekend be a big test for them after a 49-14 blowout win over Western Kentucky last weekend, the first time in nearly 1,500 days that the program was over .500 at any point in the [&#8230;]",
+        "author": "Matt Hanifan",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "ff4a765be527cc30",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2026 Pac-12 Week 2 Game Previews: Game Time, TV Schedule, Odds, Predictions",
+        "link": "https://www.mwcconnection.com/pac-12-football/92199/2026-pac-12-week-2-game-previews-game-time-tv-schedule-odds-predictions",
+        "link_kind": "item",
+        "date": "2026-09-11T15:00:00+00:00",
+        "summary": "Washington State (0-1) at Kansas State (1-0) Date &#38; Time: Saturday, September 12, 9:00 a.m. PT Network: TNT Spread: Kansas State -17.5, O/U 48.5 Preview: Washington State is looking to bounce back from a 24-10 Apple Cup defeat, travelling to Manhattan for its first-ever meeting against Kansas State. Quarterback Caden Pinnick showed his dual-threat ability [&#8230;]",
+        "author": "Zane Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "1d2c41d73b2e03cb",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2026 Mountain West Football Week 2 Game Preview & Predictions",
+        "link": "https://www.mwcconnection.com/air-force-falcons-football/92150/2026-mountain-west-football-week-2-game-preview-predictions",
+        "link_kind": "item",
+        "date": "2026-09-11T14:00:00+00:00",
+        "summary": "Week 2 of the 2026 season is upon us, and Mountain West football is kicking into high gear. Week 2 will see the bulk of the Mountain West’s FCS games, two of which see the home team as an underdog against top-five FCS competition. The Mountain West will prove what kind of conference they are [&#8230;]",
+        "author": "Chase Dulude",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "bba358cba11a14f1",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Mountaintop View 9-11-26: New Mexico Quarterbacks, Oregon State Football, Gene Bleymaier Returns to Boise, Jim Mora Jr., Ashton Jeanty, Apple Cup",
+        "link": "https://www.mwcconnection.com/mountain-west-news/92188/mountaintop-view-9-11-26-new-mexico-quarterbacks-oregon-state-football-gene-bleymaier-returns-to-boise-jim-mora-jr-ashton-jeanty-apple-cup",
+        "link_kind": "item",
+        "date": "2026-09-11T13:00:00+00:00",
+        "summary": "New Mexico is finding a quarterback rotations that works Oregon State has found a quarterback worth pulling for A Legend will be returning to Boise this weekend Jim Mora Jr. is enjoying his time in Fort Collins Ashton Jeanty is healthy and ready to go San Diego State is taking the time to remember 9/11 [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "9da5e2cc339c9f48",
+        "sport": "football",
+        "medium": "text"
       },
       {
         "title": "Who is Dominic Kelley? Meet Nevada’s Mountain West Player of the Week",
@@ -29,8 +112,7 @@
         "source": "Mountain West Connection",
         "id": "2afa8492e5960ac3",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Can Maddux Madsen take his performance against Oregon and build on it against Memphis?",
@@ -44,8 +126,7 @@
         "source": "Mountain West Connection",
         "id": "709714cc7a925065",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Mountain West Week 1 Insights",
@@ -59,8 +140,7 @@
         "source": "Mountain West Connection",
         "id": "f93d7d48a2352091",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cooper Hoch, from walk-on to trusted SJSU receiver target",
@@ -74,98 +154,7 @@
         "source": "Mountain West Connection",
         "id": "2d468f5ff6324f0c",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Air Force Football: What We Know So Far",
-        "link": "https://www.mwcconnection.com/air-force-falcons-football/92126/air-force-football-what-we-know-so-far",
-        "link_kind": "item",
-        "date": "2026-09-10T15:59:00+00:00",
-        "summary": "Week one (and zero) are in the books. Which for Air Force means we know slightly more about the team than we did at the start of fall camp. For nearly the entirety of Troy Calhoun’s 20 seasons and counting as head coach, the Falcon’s have kicked off their season against an FCS opponent. Unlike [&#8230;]",
-        "author": "Sean OToole",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "c34893d87465da9e",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Stats Corner: Week One Upsets in the Roster-Churn Era",
-        "link": "https://www.mwcconnection.com/pac-12-football/92143/college-football-week-1-upsets",
-        "link_kind": "item",
-        "date": "2026-09-10T15:00:00+00:00",
-        "summary": "After years of being the little brother, Utah State finally moved from the Big West, toIndependent, to the Sun Belt, to the WAC, to the Mountain West, and is now in the Pac-12. Intheir first game as a &#8220;Power&#8221; conference member, they lost at home to FCS Idaho State, 29–17.This week on Stats Corner, we [&#8230;]",
-        "author": "Toby McMahon",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "ac16940f7f5ecce1",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Pac-Mountain Pulse Ep. 8: Surprises/Uncertainty in the MW/Pac-12 after Week 1, Power Rankings Heading into Week 2",
-        "link": "https://www.mwcconnection.com/podcast/92110/mountain-west-pac-12-podcast-surprises-uncertainties-week-1-power-rankings",
-        "link_kind": "item",
-        "date": "2026-09-10T14:00:00+00:00",
-        "summary": "Hello and welcome back to the Pac-Mountain Pulse, a Mountain West Connection podcast! In this episode, Derek and Dom go over what surprised them and the uncertainties they have about the Mountain West and Pac-12 after week one of the College Football season and their personal power rankings for each conference heading into week two. [&#8230;]",
-        "author": "Derek Raridon",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "ff5cdfbc24984e1a",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Mountaintop View 9-10-26",
-        "link": "https://www.mwcconnection.com/mountain-west-news/92055/mountain-west-pac-12-football-fresno-bison-wyoming",
-        "link_kind": "item",
-        "date": "2026-09-10T13:00:00+00:00",
-        "summary": "Mountain West power rankings: NDSU, New Mexico, UNLV, Nevada score impressive wins Chris Murray of NevadaSportsNet posts his weekly Mountain West power rankings with seemingly new conference darling North Dakota State at the top. On the flip side, it’s not been a good few weeks for Hawaii. Prediction: Can Fresno State remain unbeaten against Sacramento [&#8230;]",
-        "author": "JeremyRodrigues",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "3bdb1dc04d6ea647",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "AZTECS TAKE ON UCLA AFTER STRONG SHOWING AGAINST PORTLAND STATE",
-        "link": "https://www.mwcconnection.com/san-diego-state-football/91996/aztecs-take-on-ucla-after-strong-showing-against-portland-state",
-        "link_kind": "item",
-        "date": "2026-09-09T19:00:00+00:00",
-        "summary": "PAC-12 LOOKING TO REBOUND AFTER LACKLUSTER COMPREHENSIVE START Boise State, San Diego State and Colorado sprint to early positives On vacation in the Orange County area for my eldest daughter&#8217;s wedding next weekend, I’m reminded of the dominance of Power 4 schools. The Coke case I got was co-branded with USC and UCLA. When you’ve [&#8230;]",
-        "author": "Jeffrey Carter",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "0143fd54cc212f34",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "2026 MW/PAC-12 All-Transfer Team: Week One",
-        "link": "https://www.mwcconnection.com/mountain-west-transfer-portal/92003/2026-mountain-west-pac-12-all-transfer-team-week-one",
-        "link_kind": "item",
-        "date": "2026-09-09T18:00:00+00:00",
-        "summary": "Welcome back to the Transfer Portal Team of the Week! Read up on the best performances from incoming transfers across both conferences! Mountain West Quarterback Luke Weaver Class: RS Senior Previous stops: Modesto (JUCO), Hawaii &#124;&#124; New school: San Jose State Stats: 23/39, 316 pass yards (Career High), 3 TDs, INT; 10 rush yards, fumble [&#8230;]",
-        "author": "Jack Thompson",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "4427b0934f4cdcb6",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "A Brief, Incomplete History of Fans Running Onto the Field",
@@ -179,8 +168,7 @@
         "source": "Press Break",
         "id": "16deb6c0f637a74b",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "This Week in Pac-12 Football - Week 2",
@@ -194,8 +182,7 @@
         "source": "Pac-12 Conference",
         "id": "8b6c92ec27719175",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Pac-12 Players of the Week - Sept. 9, 2026",
@@ -209,8 +196,7 @@
         "source": "Pac-12 Conference",
         "id": "0c7ba17dcd610bc0",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Pac-12 Football Players of the Week - Sept. 8, 2026",
@@ -224,8 +210,7 @@
         "source": "Pac-12 Conference",
         "id": "36cee47ac1a91d85",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Press Break FCS Top 25 Ballot Week 2",
@@ -239,8 +224,7 @@
         "source": "Press Break",
         "id": "1a1813d8071b3b1b",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Pac-12 announces commercial and operational updates ahead of its 2026 football season kickoff",
@@ -254,8 +238,7 @@
         "source": "Pac-12 Conference",
         "id": "12752552c3c41ef5",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "This Week in Pac-12 Football - Week 1",
@@ -269,8 +252,7 @@
         "source": "Pac-12 Conference",
         "id": "43d27c5f9e5da911",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Pac-12 Players of the Week - Sept. 1, 2026",
@@ -284,8 +266,7 @@
         "source": "Pac-12 Conference",
         "id": "7e9b1960d4b1933e",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Press Break FCS Top 25 Ballot Week 1",
@@ -299,8 +280,7 @@
         "source": "Press Break",
         "id": "a146a3c0c4ea618e",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Pac-12 Players of the Week - Aug. 25, 2026",
@@ -314,8 +294,7 @@
         "source": "Pac-12 Conference",
         "id": "edbbd92d8897694b",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Pac-12 Unveils 2026 Volleyball Preseason Poll, Impact List",
@@ -329,8 +308,7 @@
         "source": "Pac-12 Conference",
         "id": "fc037dd6c97a5a98",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "What-If Wednesday: Restructuring College Football in 1992 with the 24-Team Playoff",
@@ -344,8 +322,7 @@
         "source": "Press Break",
         "id": "6c0fca77cb287065",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       }
     ],
     "Boise State": [
@@ -361,8 +338,7 @@
         "source": "First Kick Was Good",
         "id": "52acc48552c4cd88",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "‘If you haven’t been to a game with the Stampede, you haven’t been at all’",
@@ -376,8 +352,7 @@
         "source": "The Arbiter",
         "id": "0873ce027701e9f9",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "40 years of The Blue",
@@ -391,8 +366,7 @@
         "source": "The Arbiter",
         "id": "9c938073884accd7",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State VS Memphis Depth Chart and Pronunciation Guide",
@@ -406,8 +380,7 @@
         "source": "First Kick Was Good",
         "id": "ad382aa914db7add",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State punter makes football more than statistics",
@@ -421,8 +394,7 @@
         "source": "The Arbiter",
         "id": "8f00b5558e748402",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gene Bleymaier to Raise Blue Chaos Flag Against Memphis",
@@ -436,8 +408,7 @@
         "source": "Boise State Athletics",
         "id": "6aca2d9a6cee453a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Boise State women’s volleyball earns top spot in home tournament despite loss in final match",
@@ -451,8 +422,7 @@
         "source": "The Arbiter",
         "id": "ac3bd3c4ace3a528",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State men’s golf sees first fall action",
@@ -466,8 +436,7 @@
         "source": "The Arbiter",
         "id": "06d0af012531e0dd",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Broncos Celebrate 40 Years of The Blue in Home Opener",
@@ -481,8 +450,7 @@
         "source": "Boise State Athletics",
         "id": "4f4a00c37adef671",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "The Blue: Inspiring Fields Across The Nation",
@@ -496,8 +464,7 @@
         "source": "Boise State Athletics",
         "id": "c9ef4d41f61ad807",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Celebrate 40 Years of The Blue at Saturday’s Home Opener",
@@ -511,8 +478,7 @@
         "source": "Boise State Athletics",
         "id": "e9ac12d1ca6631b6",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Phelps Named Burlsworth Trophy Walk-On of the Week",
@@ -526,8 +492,7 @@
         "source": "Boise State Athletics",
         "id": "8cf7ce4999785d90",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "From the Spot Podcast: Season 12, Episode 4",
@@ -542,8 +507,7 @@
         "id": "6c5e53e3db575ed9",
         "extent": "21 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Coach Danielson Weekly 09-09-26",
@@ -558,8 +522,7 @@
         "id": "6436c41b93814c16",
         "extent": "59 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "NFL Broncos: Week One",
@@ -573,8 +536,7 @@
         "source": "Boise State Athletics",
         "id": "854ad7053bc46817",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Boise State Game Balls for Oregon",
@@ -588,8 +550,7 @@
         "source": "First Kick Was Good",
         "id": "57b16e93268657e4",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State Athletics Shares Bronco Football Gameday Guide for Bronco Nation",
@@ -603,8 +564,7 @@
         "source": "Boise State Athletics",
         "id": "d0c5ff85c11b652e",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "No. 2 Oregon narrowly survives unranked Broncos",
@@ -618,8 +578,7 @@
         "source": "The Arbiter",
         "id": "23f7b7be9dffc021",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "(Video) Post Oregon Press Conference With QB Madsen, Coach Danielson, and Boen Phelps",
@@ -633,8 +592,7 @@
         "source": "First Kick Was Good",
         "id": "e2cc0f78e060d8be",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Broncos Narrowly Fall to No. 2/2 Oregon",
@@ -648,8 +606,7 @@
         "source": "Boise State Athletics",
         "id": "7ac506162d62c352",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Broncos fall short against Ducks, 27-34",
@@ -663,8 +620,7 @@
         "source": "First Kick Was Good",
         "id": "f768d1c32f6cf557",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State At Oregon Gamethread",
@@ -678,8 +634,7 @@
         "source": "First Kick Was Good",
         "id": "09b884a94bc61377",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State Roster Countdown 2026: Day 0, Dylan Riley",
@@ -693,8 +648,7 @@
         "source": "First Kick Was Good",
         "id": "e3807b43f01bfe4d",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State Roster Countdown 2026: Day 1, Boen Phelps",
@@ -708,8 +662,7 @@
         "source": "First Kick Was Good",
         "id": "568e61b111982112",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Away game? Sold-out stadium? Here are five places to watch the Broncos in Boise",
@@ -723,8 +676,7 @@
         "source": "The Arbiter",
         "id": "bfc671784ab18715",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State and Les Schwab Seeking to Honor Community Heroes",
@@ -738,8 +690,7 @@
         "source": "Boise State Athletics",
         "id": "0916ea5dde477e04",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Broncos travel to Oregon to open 2026 season",
@@ -754,7 +705,6 @@
         "id": "f4fac42227b8f729",
         "sport": "all",
         "medium": "text",
-        "weight": 1.15,
         "also": [
           "Boise State Athletics"
         ]
@@ -771,8 +721,7 @@
         "source": "First Kick Was Good",
         "id": "9a7392561bde38c1",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Three and One: Boise State @ #2 Oregon Game Preview",
@@ -786,8 +735,7 @@
         "source": "First Kick Was Good",
         "id": "e70769c9dfb6f46b",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State Announces Exhibition Games",
@@ -801,8 +749,7 @@
         "source": "Boise State Athletics",
         "id": "1ca1900d56f01b86",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Boise State Women's Basketball Season Tickets on Sale",
@@ -816,8 +763,7 @@
         "source": "Boise State Athletics",
         "id": "7cfe4ad90cc2242c",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Off the Blue - Season 7, Episode 3- Jillian Anderson",
@@ -832,8 +778,7 @@
         "id": "cb3037a8fe30695e",
         "extent": "20 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Coach Danielson Weekly 09-02-26",
@@ -848,8 +793,7 @@
         "id": "9b04088384ed4081",
         "extent": "59 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "New Court, New Conference, New Me: Women’s volleyball showcases new additions",
@@ -863,8 +807,7 @@
         "source": "The Arbiter",
         "id": "65b5d1c35055a042",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Women's Basketball Announces Nonconference Schedule",
@@ -878,8 +821,7 @@
         "source": "Boise State Athletics",
         "id": "c6eddc1f5aa00442",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Boise State Announces Regular Season Nonconference Schedule",
@@ -893,8 +835,7 @@
         "source": "Boise State Athletics",
         "id": "5c6ea15f627ad7ce",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Boise State women’s soccer bounces back with 3-1 win over Idaho State",
@@ -908,8 +849,7 @@
         "source": "The Arbiter",
         "id": "65c58bc774ef9148",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Boise State Set for Daytona Beach Classic",
@@ -923,8 +863,7 @@
         "source": "Boise State Athletics",
         "id": "49001eba9d5da208",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Boise State Men’s Basketball Season Tickets on Sale",
@@ -938,8 +877,7 @@
         "source": "Boise State Athletics",
         "id": "56308925d0665205",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "From the Spot- Season 12, Episode 3- Texas Road Trip Recap, Idaho State Preview",
@@ -954,8 +892,7 @@
         "id": "5c1ce306870eddfb",
         "extent": "19 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Boise State to Participate in 2026 Snake River Collegiate Basketball Invitational",
@@ -969,8 +906,7 @@
         "source": "Boise State Athletics",
         "id": "9f8b61826893b371",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Broncos Sign Lamar Washington",
@@ -984,8 +920,7 @@
         "source": "Boise State Athletics",
         "id": "1e1aec9fdddd1b26",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Off the Blue- Season 7, Episode 2: Max Stege",
@@ -1000,8 +935,7 @@
         "id": "7e9d7af8d13fcb62",
         "extent": "19 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Charles Transitions to Assistant Coach",
@@ -1015,8 +949,7 @@
         "source": "Boise State Athletics",
         "id": "fd22cac1a7ba8cea",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "From the Spot - Season 12, Episode 2 - Weeks 1 and 2 Preview",
@@ -1031,8 +964,7 @@
         "id": "7503166598704f6f",
         "extent": "21 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Off the Blue- Season 7, Episode 1: Dylan Riley",
@@ -1047,8 +979,7 @@
         "id": "945fea87778ff299",
         "extent": "20 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       }
     ],
     "Colorado State": [
@@ -1064,8 +995,7 @@
         "source": "Colorado State Athletics",
         "id": "0e0f0a8e61483050",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Game Program: Colorado State vs. Southern Utah",
@@ -1079,8 +1009,7 @@
         "source": "Colorado State Athletics",
         "id": "cbd7ea1443b22ac4",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Conference Champions Enter a New Era",
@@ -1094,8 +1023,7 @@
         "source": "Colorado State Athletics",
         "id": "dfcd7c990fd0aedf",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Memorable Moments: A Trip Back in Time to 1926",
@@ -1109,8 +1037,7 @@
         "source": "Colorado State Athletics",
         "id": "a46254e4183b50bc",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Colorado State Insider Podcast with Brian Roth -- Season 10, Episode 5",
@@ -1124,8 +1051,7 @@
         "source": "Colorado State Athletics",
         "id": "3945329bd76610eb",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "CSU’s Wide Receiver Room Growing in Unison",
@@ -1139,8 +1065,7 @@
         "source": "Colorado State Athletics",
         "id": "85851f25fa21e952",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "CSU Insider | Border War Win & Southern Utah Preview | September 9, 2026",
@@ -1155,8 +1080,7 @@
         "id": "6eaa28aa6594d578",
         "extent": "1h 20m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "The Coors Light Jim Mora Football Show 09-09-26",
@@ -1171,8 +1095,7 @@
         "id": "09be1177ae5e3e66",
         "extent": "59 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "The Rams are back?! Joel and Mike recap CSU’s 35-13 Border War win as the Jim Mora era begins",
@@ -1187,8 +1110,7 @@
         "id": "b299abd177acdd42",
         "extent": "1h 8m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Rams Earn Honors After Pac-12 Debut",
@@ -1202,8 +1124,7 @@
         "source": "Colorado State Athletics",
         "id": "a0bf6a141c99a2e9",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Game Week: vs. Southern Utah",
@@ -1217,8 +1138,7 @@
         "source": "Colorado State Athletics",
         "id": "98d45f476c84d325",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Monday Presser: Time to Move Forward",
@@ -1232,8 +1152,7 @@
         "source": "Colorado State Athletics",
         "id": "1e9cf8dffb4f44fb",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Watch Coach Mora's Weekly Press Conference",
@@ -1247,8 +1166,7 @@
         "source": "Colorado State Athletics",
         "id": "034106e2a2fe4a1b",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Rams Regain Ownership of Bronze Boot",
@@ -1262,8 +1180,7 @@
         "source": "Colorado State Athletics",
         "id": "0040c370d74ae3f3",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Farokhmanesh Rounds Out Staff",
@@ -1277,8 +1194,7 @@
         "source": "Colorado State Athletics",
         "id": "a10caf683afa4182",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Colorado State, Wyoming Extend Rivalry Across Four Sports",
@@ -1292,8 +1208,7 @@
         "source": "Colorado State Athletics",
         "id": "c23ef1365c900b35",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "CSU Insider | Football Season Opener Preview | September 2, 2026",
@@ -1308,8 +1223,7 @@
         "id": "3edb328f19606b36",
         "extent": "57 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "The Jim Mora Football Show 09-02-26",
@@ -1324,8 +1238,7 @@
         "id": "9d899e06ea0feca1",
         "extent": "53 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "A new era begins: Joel and Mike discuss Jim Mora, the Border War and a different-looking CSU football program",
@@ -1340,8 +1253,7 @@
         "id": "c0b9077df42fc9be",
         "extent": "1h 12m",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Rams Set for Challenging Non-Conference Schedule",
@@ -1355,8 +1267,7 @@
         "source": "Colorado State Athletics",
         "id": "802118a68a579e77",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Jim McElwain returns: Rebuilding CSU, legendary wins and why he believes in Jim Mora",
@@ -1371,8 +1282,7 @@
         "id": "b40c687248622528",
         "extent": "1h 9m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "CSU Insider | Football & Volleyball Season Preview | August 26, 2026",
@@ -1387,8 +1297,7 @@
         "id": "5945b93420388d14",
         "extent": "54 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Sean Moran: The play that changed CSU football, the Sonny Lubick era, and why Jim Mora can bring it back",
@@ -1403,8 +1312,7 @@
         "id": "8f495974451f9aa6",
         "extent": "58 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "CSU Insider | 2026 CSU Football Defense Preview | August 19, 2026",
@@ -1419,8 +1327,7 @@
         "id": "f8bec0c063ecb4c1",
         "extent": "51 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Williams Agrees to Contract Extension",
@@ -1434,8 +1341,7 @@
         "source": "Colorado State Athletics",
         "id": "51cd17d7ad302300",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "John Weber: Why CSU is ready for the Pac-12 and built to be a power program",
@@ -1450,8 +1356,7 @@
         "id": "783558b374a7a13f",
         "extent": "38 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "CSU Insider | Jim Mora & 2026 Football Preview | August 12, 2026",
@@ -1466,8 +1371,7 @@
         "id": "c7b7bb45d61682cb",
         "extent": "1h 8m",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Athletic Department Announces Second Ring of Honor Class",
@@ -1481,8 +1385,7 @@
         "source": "Colorado State Athletics",
         "id": "5a15c9b97b7d9a86",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Kevin Lytle joins to talk opening of football camp and all the latest CSU news",
@@ -1497,8 +1400,7 @@
         "id": "4522adf8c2e3b9bb",
         "extent": "1h 4m",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Rams, Wildcats to Open Maui Invitational",
@@ -1512,8 +1414,7 @@
         "source": "Colorado State Athletics",
         "id": "03a6c106ddc2af42",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       }
     ],
     "Fresno State": [
@@ -1530,7 +1431,6 @@
         "id": "a6a38d76ac9320b5",
         "sport": "all",
         "medium": "text",
-        "weight": 1.15,
         "also": [
           "Fresno State Athletics"
         ]
@@ -1547,8 +1447,7 @@
         "source": "The Collegian",
         "id": "fd142078673c28b3",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "New way to party in the Central Valley",
@@ -1562,8 +1461,7 @@
         "source": "The Collegian",
         "id": "0237518a8066b464",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Fresno State Football Game Day: Know Before You Go",
@@ -1577,8 +1475,7 @@
         "source": "Fresno State Athletics",
         "id": "3c25baec47a50771",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "'Beem & Dean' disagree on Fresno State QB situation",
@@ -1592,8 +1489,7 @@
         "source": "YourCentralValley",
         "id": "7a9dced847cf5b77",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Tune In: Fresno State vs Sacramento State",
@@ -1607,8 +1503,7 @@
         "source": "Fresno State Athletics",
         "id": "956700ff4dc09711",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Bulldog Stock Market: Who’s rising and falling after USC?",
@@ -1622,8 +1517,7 @@
         "source": "The Collegian",
         "id": "f60c2c70055ccd7f",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Fresno State NFL rookies make their mark",
@@ -1637,8 +1531,7 @@
         "source": "The Collegian",
         "id": "c3f48d650e780ab2",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Media Availability (9/9/26): DC Nick Benedetto, OC Josh Davis, K'Vion Thunderbird, Rayshon Luke",
@@ -1652,8 +1545,7 @@
         "source": "Fresno State Athletics",
         "id": "1363c39181899253",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Fresno State faces injury questions following USC shutout",
@@ -1667,8 +1559,7 @@
         "source": "The Collegian",
         "id": "561937dc48816f01",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Column: Fresno State gets stuck in L.A.",
@@ -1682,8 +1573,7 @@
         "source": "The Collegian",
         "id": "7441cb3add99c38c",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Fresno State Takes on the Hornets at Home.",
@@ -1698,8 +1588,7 @@
         "id": "a0877876710aa55a",
         "extent": "1h 3m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Fresno State vs USC Recap",
@@ -1714,8 +1603,7 @@
         "id": "77657c98b46dfd80",
         "extent": "1h 16m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "'We feel confident in Mandal' Coach Entz talks upcoming home opener against Sac State",
@@ -1729,8 +1617,7 @@
         "source": "YourCentralValley",
         "id": "a3fe1cd8ac46ff9c",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Great Moments in Bulldog History: 2001 win at Colorado",
@@ -1744,8 +1631,7 @@
         "source": "YourCentralValley",
         "id": "0fa636fe2dc65017",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Bulldog Insider: Who received our 'Dog bones' this week?",
@@ -1759,8 +1645,7 @@
         "source": "YourCentralValley",
         "id": "3c7474682d21945e",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Bulldog Insider: Extended highlights, stats, analysis from Fresno State's 39-0 loss at No. 14 USC",
@@ -1774,8 +1659,7 @@
         "source": "YourCentralValley",
         "id": "d87188b4ea3452c1",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Ultimate Insider: Worrell on USC 'You knew it was going to be tough'",
@@ -1789,8 +1673,7 @@
         "source": "YourCentralValley",
         "id": "fe12813fa01ecf20",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "\"My questions are still unanswered\" Jackson Moore reacts to 'Dogs thumping in opener",
@@ -1804,8 +1687,7 @@
         "source": "YourCentralValley",
         "id": "0deae67ba90179de",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "‘Dogs owned by Trojans in season opener",
@@ -1819,8 +1701,7 @@
         "source": "The Collegian",
         "id": "8a3cefd68f0cd5d9",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Fresno State gets dominated by USC at the Coliseum, 39-0",
@@ -1834,8 +1715,7 @@
         "source": "YourCentralValley",
         "id": "31a7a4446e5ab531",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "'Dogs drop season opener at No. 14 USC",
@@ -1849,8 +1729,7 @@
         "source": "Fresno State Athletics",
         "id": "115e461ce351520b",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Game recap: Trojans shut out ‘Dogs 39-0",
@@ -1864,8 +1743,7 @@
         "source": "The Collegian",
         "id": "ccc052faa2e06726",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "We simulated Fresno State’s season in CFB 27; here’s what happened",
@@ -1879,8 +1757,7 @@
         "source": "The Collegian",
         "id": "15460be54c6d8ea0",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Get to Know USC Football with USCJ ​",
@@ -1895,8 +1772,7 @@
         "id": "0ecb8690f76fcf18",
         "extent": "16 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Game Preview: Fresno State at USC",
@@ -1911,7 +1787,6 @@
         "id": "e09625a4ad601378",
         "sport": "all",
         "medium": "text",
-        "weight": 1.15,
         "also": [
           "Beware of Bulldogs"
         ]
@@ -1928,8 +1803,7 @@
         "source": "Fresno State Athletics",
         "id": "96134dd0ef674183",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Tune In: Fresno State at No. 14 USC",
@@ -1943,8 +1817,7 @@
         "source": "Fresno State Athletics",
         "id": "e6b718bb5dcb130e",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Fresno State Takes On USC",
@@ -1959,8 +1832,7 @@
         "id": "50dfe921e217fdb3",
         "extent": "1h 3m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Fresno State OC Josh Davis talks growth in Mandal's game",
@@ -1974,8 +1846,7 @@
         "source": "YourCentralValley",
         "id": "74980176a834d91c",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Fresno State Athletics unveils new Modelo Block Party Pregame Entertainment Village",
@@ -1989,8 +1860,7 @@
         "source": "Fresno State Athletics",
         "id": "6bf04ab150dc146a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Bulldogs open 2026 season at No. 14 USC",
@@ -2004,8 +1874,7 @@
         "source": "Fresno State Athletics",
         "id": "0f6618367eff32e3",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Jayden Mandal named Fresno State's starting quarterback",
@@ -2019,8 +1888,7 @@
         "source": "YourCentralValley",
         "id": "f8656ef4d5aad895",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Great Moment in Bulldog History: Reliving the Fresno St. & USC rivalry",
@@ -2034,8 +1902,7 @@
         "source": "YourCentralValley",
         "id": "f25ed6779aa30173",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Bulldog Insider: Who received our 'Dog Bones' this week?",
@@ -2049,8 +1916,7 @@
         "source": "YourCentralValley",
         "id": "2d8dc50ef756b7be",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Ultimate Insider: Head football coach Matt Entz (Part 1)",
@@ -2064,8 +1930,7 @@
         "source": "YourCentralValley",
         "id": "3023c5e883a7ace5",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Bulldog Insider: Head football coach Matt Entz (Part 2)",
@@ -2079,8 +1944,7 @@
         "source": "YourCentralValley",
         "id": "db56e33141b8651c",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Honoring Nate Maier’s Life, Passion and Purpose",
@@ -2094,8 +1958,7 @@
         "source": "Fresno State Athletics",
         "id": "9254e60b92ad861b",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Former Bulldogs quarterback returns to campus to pursue doctoral degree",
@@ -2109,8 +1972,7 @@
         "source": "Fresno State Athletics",
         "id": "e42d509dc81a3a99",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Great Moment in Bulldog History: defense shines in Seattle",
@@ -2124,8 +1986,7 @@
         "source": "YourCentralValley",
         "id": "48a695892851fc78",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Ultimate Insider: Moore talks QB battle, Klassy 5-Year deal",
@@ -2139,8 +2000,7 @@
         "source": "YourCentralValley",
         "id": "36e1cfdee00cff7e",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Bulldog Insider: Rams WR Davante Adams gears up for 13th NFL season",
@@ -2154,8 +2014,7 @@
         "source": "YourCentralValley",
         "id": "d8b5fb4af7840cd8",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Former 'Dogs sign professional contracts to play overseas",
@@ -2169,8 +2028,7 @@
         "source": "Fresno State Athletics",
         "id": "19e925d8d56bb0a0",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Top 5 PAC-12 Conference Games + Fresno State Mailbag",
@@ -2185,8 +2043,7 @@
         "id": "56e60636ab5404b8",
         "extent": "1h 1m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Great Moment in Bulldog History: Carl Ray's 14 interceptions",
@@ -2200,8 +2057,7 @@
         "source": "YourCentralValley",
         "id": "7288bcd3fd116ec4",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "'100 percent defense will be better,' says Cam Worrell",
@@ -2215,8 +2071,7 @@
         "source": "YourCentralValley",
         "id": "b292a4195f380e13",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Bulldog Insider: Ryan Wilson's journey at Fresno State",
@@ -2230,8 +2085,7 @@
         "source": "YourCentralValley",
         "id": "f57774be08de2a24",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Ultimate Insider: Jackson Moore talks fall camp updates",
@@ -2245,8 +2099,7 @@
         "source": "YourCentralValley",
         "id": "3d90c14904f88931",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Top 5 Questions for Fresno State Football, Jersey Patch Deal, Derek Carr",
@@ -2261,8 +2114,7 @@
         "id": "0c93b238f2587583",
         "extent": "1h 31m",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Fresno State Football OFFICIAL Record Prediction",
@@ -2277,8 +2129,7 @@
         "id": "c76eb769dc79986a",
         "extent": "1h 22m",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Fresno State Fall Camp Player Position Breakdown",
@@ -2293,8 +2144,7 @@
         "id": "becaf492dc5ee76d",
         "extent": "1h 13m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "'Dogs sweep Summer of Thunder in Bahamas",
@@ -2308,8 +2158,7 @@
         "source": "Fresno State Athletics",
         "id": "2bb09ef98034a4ca",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       }
     ],
     "Gonzaga": [
@@ -2325,8 +2174,7 @@
         "source": "Gonzaga Athletics",
         "id": "caac1c9aff33e923",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Gonzaga transfer Chauncey Wiggins encounters eligibility hurdle after NCAA stay in Georgia case",
@@ -2340,8 +2188,7 @@
         "source": "The Spokesman-Review",
         "id": "19286adacf55ab50",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Zags So Back?",
@@ -2355,8 +2202,7 @@
         "source": "House of Krause",
         "id": "32a1bca9daf6892e",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga scheduled to host Incarnate Word in fifth known home nonconference game",
@@ -2370,8 +2216,7 @@
         "source": "The Spokesman-Review",
         "id": "bffa54d278fbde90",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga returning to Climate Pledge Arena for nonleague games in 2026-27 and 2027-28",
@@ -2385,8 +2230,7 @@
         "source": "The Spokesman-Review",
         "id": "e4230341d8b560d0",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga's annual Kraziness in the Kennel showcase set for Oct. 3",
@@ -2400,8 +2244,7 @@
         "source": "The Spokesman-Review",
         "id": "00af302d54b560b9",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Xaivian Lee vaults Gonzaga’s ceiling higher than any other option could have",
@@ -2415,8 +2258,7 @@
         "source": "House of Krause",
         "id": "c83f59a3628004f0",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Incoming Gonzaga guard Skylar Wicks decommits from program",
@@ -2430,8 +2272,7 @@
         "source": "The Spokesman-Review",
         "id": "7fd3f6d627e5c783",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Report: Florida transfer Xaivian Lee commits to Gonzaga",
@@ -2445,8 +2286,7 @@
         "source": "The Spokesman-Review",
         "id": "462468c166d38604",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Former Gonzaga standout Corey Kispert pours time into coffee company",
@@ -2460,8 +2300,7 @@
         "source": "The Spokesman-Review",
         "id": "8df1adf185391bc4",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "'You're all in wherever you're at': Corey Kispert talks Hawks, Few's Hall call and impact on his career",
@@ -2475,8 +2314,7 @@
         "source": "The Spokesman-Review",
         "id": "13027202dacdb40d",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga point guard commit Nathan De Sousa scheduled to arrive in Spokane next week; still awaiting NCAA eligibility",
@@ -2490,8 +2328,7 @@
         "source": "The Spokesman-Review",
         "id": "7794d7fbd6b95f13",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga point guard commit Javon Bennett encounters eligibility setback after NCAA stay granted in Ohio case",
@@ -2505,8 +2342,7 @@
         "source": "The Spokesman-Review",
         "id": "e44275cd16729b13",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga guard Adam Miller signs professional contract with Belgian club Oostende",
@@ -2520,8 +2356,7 @@
         "source": "The Spokesman-Review",
         "id": "5f29221a88226102",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Ivy League opponent Cornell visiting Gonzaga for New Year's Eve nonconference matchup",
@@ -2535,8 +2370,7 @@
         "source": "The Spokesman-Review",
         "id": "3934cbb5e33c0276",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "How Gonzaga's offseason evolved into a roster-building roller coaster: 'Like nothing we've ever seen'",
@@ -2550,8 +2384,7 @@
         "source": "The Spokesman-Review",
         "id": "f85427f3ffb25fce",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Montana State program coming off strong Big Sky season set to visit Gonzaga on Nov. 17",
@@ -2565,8 +2398,7 @@
         "source": "The Spokesman-Review",
         "id": "9441b37291955f7e",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga scheduled to host familiar NAIA opponent for nonconference game on Dec. 2",
@@ -2580,8 +2412,7 @@
         "source": "The Spokesman-Review",
         "id": "8e2355d201f792de",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Travel Packages on Sale Now for West Coast Hoops Showdown featuring UCLA and Gonzaga",
@@ -2595,8 +2426,7 @@
         "source": "Gonzaga Athletics",
         "id": "b752b01de18dbbe0",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Former Gonzaga guard Malachi Smith inks contract with Toronto Raptors",
@@ -2610,8 +2440,7 @@
         "source": "The Spokesman-Review",
         "id": "8f8265080e77768f",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Few Enshrined into Naismith Basketball Hall of Fame",
@@ -2625,8 +2454,7 @@
         "source": "Gonzaga Athletics",
         "id": "8e97a9ab9b30c86f",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "'What are the chances?' Gonzaga legend John Stockton proud to have company from alma mater in Naismith HOF | Notebook",
@@ -2640,8 +2468,7 @@
         "source": "The Spokesman-Review",
         "id": "59e39cb01882e2e0",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga's Mark Few filled with gratitude during Hall of Fame enshrinement: 'Couldn't even think about dreaming such a thing'",
@@ -2655,8 +2482,7 @@
         "source": "The Spokesman-Review",
         "id": "2058b921568c9207",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "How to Watch Naismith Hall of Fame Enshrinement Weekend",
@@ -2670,8 +2496,7 @@
         "source": "Gonzaga Athletics",
         "id": "691110fbd9384af3",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "'I felt my heart drop to my knees.' Ahead of Naismith enshrinement, Gonzaga's Mark Few flashes back to unique hall call",
@@ -2685,8 +2510,7 @@
         "source": "The Spokesman-Review",
         "id": "f993989093769748",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "With sudden need at point guard, Gonzaga turned to Dayton's Javon Bennett: 'Right off the bat, I wanted to play there'",
@@ -2700,8 +2524,7 @@
         "source": "The Spokesman-Review",
         "id": "cb170cf570bce299",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Yes, And: Looking at the additions of Javon Bennett, Chauncey Wiggins... and Skylar Wicks?",
@@ -2716,8 +2539,7 @@
         "id": "fd1049334b88051c",
         "extent": "1h 1m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Yes, And",
@@ -2731,8 +2553,7 @@
         "source": "House of Krause",
         "id": "b625f22b3c461bb0",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga women remain a contender in deeper Pac-12 Conference | Notebook",
@@ -2746,8 +2567,7 @@
         "source": "The Spokesman-Review",
         "id": "faa771da299d406b",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "'Man, it's going to pass.' New Gonzaga wing Chauncey Wiggins navigated summer of uncertainty before earning fifth year",
@@ -2761,8 +2581,7 @@
         "source": "The Spokesman-Review",
         "id": "e5dd80745c56565a",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "How Chauncey Wiggins Turns Gonzaga's Frontcourt Into a Jumbo Nightmare",
@@ -2776,8 +2595,7 @@
         "source": "House of Krause",
         "id": "644c0be0be4ed91c",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Former Gonzaga star Brandon Clarke's death ruled accidental overdose of cocaine, heroin",
@@ -2791,8 +2609,7 @@
         "source": "The Spokesman-Review",
         "id": "c25bcc437591de6a",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Sit-down with Oregon State Head Coach Justin Joyner and Javonte Bennett is a Zag",
@@ -2807,8 +2624,7 @@
         "id": "8e7e2b7b25d0d0b9",
         "extent": "1h",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Sit-down with Oregon State Head Coach Justin Joyner and Javonte Bennett is a Zag",
@@ -2822,8 +2638,7 @@
         "source": "House of Krause",
         "id": "490411dda77f0a12",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga lands Dayton transfer guard Javon Bennett, addressing critical backcourt need",
@@ -2837,8 +2652,7 @@
         "source": "House of Krause",
         "id": "e79156646380efd1",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga makes second 5-in-5 addition with commitment from Florida State wing Chauncey Wiggins",
@@ -2852,8 +2666,7 @@
         "source": "The Spokesman-Review",
         "id": "6f1e1ddc058cf631",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Bremerton's Jalen Davis names Gonzaga among 10 college finalists",
@@ -2867,8 +2680,7 @@
         "source": "The Spokesman-Review",
         "id": "e2ead0714113b797",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Loaded with depth, experience, Gonzaga women can focus on little things: 'Possibilities ... are vast.'",
@@ -2882,8 +2694,7 @@
         "source": "The Spokesman-Review",
         "id": "880b6ff59bd819c1",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Dayton's Javon Bennett commits to Gonzaga after securing extra year through Ohio ruling",
@@ -2897,8 +2708,7 @@
         "source": "The Spokesman-Review",
         "id": "b522b0abfed8dd2d",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "The Third Piece",
@@ -2912,8 +2722,7 @@
         "source": "House of Krause",
         "id": "479620211eaa1489",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gonzaga's Vegas Residency with Theo Lawson",
@@ -2928,8 +2737,7 @@
         "id": "77470d7d3086bc86",
         "extent": "40 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Zags' Vegas Residency with Theo Lawson",
@@ -2943,11 +2751,38 @@
         "source": "House of Krause",
         "id": "30eefea7397f9181",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       }
     ],
     "Oregon State": [
+      {
+        "title": "What time, TV channel is Oregon State vs. Texas Tech today? Odds, streaming, how to watch",
+        "link": "https://www.oregonlive.com/beavers/2026/09/what-time-tv-channel-is-oregon-state-vs-texas-tech-today-odds-streaming-how-to-watch.html",
+        "link_kind": "item",
+        "date": "2026-09-12T11:00:00+00:00",
+        "summary": "Oregon State hosts No. 13 Texas Tech at Reser Stadium, with the game airing live on CBS.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "78fa49f40f8339d2",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beaver Gameday: OSU Hosts Texas Tech",
+        "link": "https://osubeavers.com/news/2026/9/12/football-beaver-gameday-osu-hosts-texas-tech",
+        "link_kind": "item",
+        "date": "2026-09-12T08:10:00+00:00",
+        "summary": "<img alt=\"Gyriece Goodman\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/11/09052026_FB_Houston_GoodmanGyriece_3201.jpg\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "2931856979abbc53",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Oregon State vs. Texas Tech preview: How big is gap between rebuilding Beavers and CFP contender?",
         "link": "https://www.oregonlive.com/beavers/2026/09/oregon-state-beavers-vs-texas-tech-red-raiders-preview-how-big-is-the-gap-between-rebuilding-osu-and-cfp-contender.html",
@@ -2960,8 +2795,7 @@
         "source": "The Oregonian",
         "id": "64ce9ae6db38b6e2",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Scouting the Red Raiders: 5 questions, prediction with a Texas Tech reporter",
@@ -2975,8 +2809,7 @@
         "source": "The Oregonian",
         "id": "e2b3dc976638ba8d",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Seattle University beats Beavers for cloudy defeat",
@@ -2990,8 +2823,7 @@
         "source": "The Daily Barometer",
         "id": "c9e17a2643c303ab",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Oregon State's Jaheim Patterson, Van Wells can play 2 more games - for now",
@@ -3005,8 +2837,7 @@
         "source": "The Oregonian",
         "id": "6c70b7b32d5d8145",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Oregon State baseball lands commitment from 2028 catcher",
@@ -3020,8 +2851,7 @@
         "source": "The Oregonian",
         "id": "091c1fc5d123dd16",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "The resilient 19-year-old quarterback nobody recruited who won Oregon State's starting job",
@@ -3035,8 +2865,7 @@
         "source": "The Oregonian",
         "id": "4e7695e962c14767",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Experts release new Oregon State vs. Texas Tech predictions, preview, and best bets for Saturday’s Week 2 clash",
@@ -3050,8 +2879,7 @@
         "source": "The Oregonian",
         "id": "c430f8716a2166f1",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Oregon State Football: Defense/Special Teams Meet The Media (Sept. 9, 2026)",
@@ -3065,8 +2893,7 @@
         "source": "Oregon State Athletics",
         "id": "648bcf429f52e67b",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Mitch Dahlen utilizing unbalanced formations to create explosive plays for Oregon State",
@@ -3080,8 +2907,7 @@
         "source": "The Oregonian",
         "id": "294e42a24fb4aeca",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Texas Tech weighs two-quarterback approach with Hammond, Castellanos",
@@ -3095,8 +2921,7 @@
         "source": "The Oregonian",
         "id": "793035682e9d65e8",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Oregon State Beavers vs Texas Tech Red Raiders Preview | Dam Podcast",
@@ -3111,8 +2936,7 @@
         "id": "03db826d19476c65",
         "extent": "29 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Coach JaMarcus Shephard has developed elite freshmen before — and Jesse Legree could be next",
@@ -3126,8 +2950,7 @@
         "source": "The Oregonian",
         "id": "0bb3db2fc297c16f",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Oregon State Football: Offense Meets The Media (September 8, 2026)",
@@ -3141,8 +2964,7 @@
         "source": "Oregon State Athletics",
         "id": "9bec94caa6e00092",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Good, Bad, & Unknown After Oregon State's Loss At Houston",
@@ -3157,8 +2979,7 @@
         "id": "b1220bd8e36a6ed3",
         "extent": "55 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "AJ Winsor Recognized By Ray Guy Award",
@@ -3172,8 +2993,7 @@
         "source": "Oregon State Athletics",
         "id": "678ee049089cd95a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Jesse Legree Named Pac-12 Football Freshman Of The Week",
@@ -3187,8 +3007,7 @@
         "source": "Oregon State Athletics",
         "id": "6b25685bc8cba748",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Oregon State gave up 228 rushing yards to Houston — and a top-15 team is up next",
@@ -3202,8 +3021,7 @@
         "source": "The Oregonian",
         "id": "ef6fdaeb17d5912b",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Oregon State baseball lands a legacy donation — here's what it means for the program",
@@ -3217,8 +3035,7 @@
         "source": "The Oregonian",
         "id": "f73429c6ac9eef31",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Texas Tech braces for Oregon State's chainsaw and aerial attack",
@@ -3232,8 +3049,7 @@
         "source": "The Oregonian",
         "id": "29904738438d1ff3",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "JaMarcus Shephard to Oregon State: 'We're better than that'",
@@ -3247,8 +3063,7 @@
         "source": "The Oregonian",
         "id": "d261c6ace27a879f",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Beaver Bash to celebrate end of summer",
@@ -3262,8 +3077,7 @@
         "source": "The Daily Barometer",
         "id": "76b4d7fc86cfc0a5",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Shephard, Dahlen And MacIntyre Meet The Media, Preview Saturday's Matchup",
@@ -3277,8 +3091,7 @@
         "source": "Oregon State Athletics",
         "id": "0cee968f79aeec43",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Oregon State left spots open on 105-man roster for potential in-season additions",
@@ -3292,8 +3105,7 @@
         "source": "The Oregonian",
         "id": "ec26f7296cea2da4",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "From day-to-day starters to season-ending injuries — Oregon State's full injury report",
@@ -3307,8 +3119,7 @@
         "source": "The Oregonian",
         "id": "93026782e7b22514",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Beavers Make Their 2026 Reser Debut Saturday Versus Texas Tech",
@@ -3322,8 +3133,7 @@
         "source": "Oregon State Athletics",
         "id": "9f64a3be020c3c39",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Live updates: JaMarcus Shephard previews Oregon State vs. No. 12 Texas Tech",
@@ -3337,8 +3147,7 @@
         "source": "The Oregonian",
         "id": "84d6fda15709debb",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Sneak peek: Will Oregon State be able to hang with No. 12 Texas Tech?",
@@ -3352,8 +3161,7 @@
         "source": "The Oregonian",
         "id": "ec91847d51104aab",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "10 takeaways from Oregon State’s loss at No. 23 Houston",
@@ -3367,8 +3175,7 @@
         "source": "The Oregonian",
         "id": "6c887206756ca5d5",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Get Your Seats For Saturday's Football Home Opener",
@@ -3382,8 +3189,7 @@
         "source": "Oregon State Athletics",
         "id": "52e44d3ef5a108f4",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Just how big of an underdog is Oregon State against Texas Tech? The numbers are extreme",
@@ -3397,8 +3203,7 @@
         "source": "The Oregonian",
         "id": "322f8f1daf3a3485",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "It wasn’t a win, but the JaMarcus Shephard era gets off to a promising start vs. Houston",
@@ -3412,8 +3217,7 @@
         "source": "The Daily Barometer",
         "id": "6d494525acf63f03",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Jesse Legree went from spring practice standout to college football's newest breakout star",
@@ -3427,8 +3231,7 @@
         "source": "The Oregonian",
         "id": "e56fcde1c8824c95",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "What Willie Fritz said after No. 23 Houston defeated Oregon State",
@@ -3442,8 +3245,7 @@
         "source": "The Oregonian",
         "id": "fa47b823ab6993c8",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Oregon State's defense couldn't tackle — and Houston made them pay for it in season opener",
@@ -3457,8 +3259,7 @@
         "source": "The Oregonian",
         "id": "db2edb3216e59b65",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Braden Atkinson's 376-yard game gave Oregon State fans something to feel good about",
@@ -3472,8 +3273,7 @@
         "source": "The Oregonian",
         "id": "fd5b109731534997",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Legree, Atkinson Shine In Oregon State Debuts, Beavs Edged In Houston",
@@ -3487,8 +3287,7 @@
         "source": "Oregon State Athletics",
         "id": "2e382e5a30070818",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Live: JaMarcus Shephard postgame press conference after Oregon State loses to Houston",
@@ -3502,8 +3301,7 @@
         "source": "The Oregonian",
         "id": "975e465d79ba077b",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Oregon State rallied to within 6 but Houston had just enough to hold on",
@@ -3517,8 +3315,7 @@
         "source": "The Oregonian",
         "id": "4266eee5888fa143",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "NCAA eligibility rule changes create uncertain future for Patterson, Wells, Hankerson",
@@ -3532,8 +3329,7 @@
         "source": "The Daily Barometer",
         "id": "60dfd7057b39cb36",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Oregon State's offensive line depth tested after injury in Houston",
@@ -3547,8 +3343,7 @@
         "source": "The Oregonian",
         "id": "2e5aab02fa67df88",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Key Oregon State starters sidelined in 33-20 defeat at Houston",
@@ -3562,8 +3357,7 @@
         "source": "The Oregonian",
         "id": "70156c448a2cd0c7",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Beavers show early promise in 33-20 loss to Houston Cougars: Live updates recap",
@@ -3577,23 +3371,7 @@
         "source": "The Oregonian",
         "id": "a549f19b92acb079",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "What time, TV channel is Oregon State vs. Houston today? Odds, streaming, how to watch",
-        "link": "https://www.oregonlive.com/beavers/2026/09/what-time-tv-channel-is-oregon-state-vs-houston-today-odds-streaming-how-to-watch.html",
-        "link_kind": "item",
-        "date": "2026-09-05T13:00:00+00:00",
-        "summary": "How to watch Oregon State's season opener at No. 23 Houston",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "8ec88e088e404755",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Gameday In Houston: OSU Opens The 2026 Season",
@@ -3607,8 +3385,7 @@
         "source": "Oregon State Athletics",
         "id": "1375eeac3fff96b2",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Community mourns the loss of OSU doctoral student",
@@ -3622,8 +3399,7 @@
         "source": "The Daily Barometer",
         "id": "70618c0e67f804d6",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "The 2026 College Football Season Begins",
@@ -3638,23 +3414,7 @@
         "id": "5a605eab06b288e7",
         "extent": "56 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
-      },
-      {
-        "title": "Oregon State Football: Defense Meets The Media (September 2, 2026)",
-        "link": "https://osubeavers.com/news/2026/9/2/oregon-state-football-defense-meets-the-media-september-2-2026",
-        "link_kind": "item",
-        "date": "2026-09-02T20:05:00+00:00",
-        "summary": "<img alt=\"9/2 Cover\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/260902_COVER.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "16fa03b078dc14c6",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "audio"
       },
       {
         "title": "Women’s Basketball Announces Non-Conference Slate",
@@ -3668,8 +3428,7 @@
         "source": "Oregon State Athletics",
         "id": "49c314dac81c1099",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "OSU and Washington’s women’s soccer game breaks three-game tie streak",
@@ -3683,8 +3442,7 @@
         "source": "The Daily Barometer",
         "id": "7d1dd3edd4477ffe",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Oregon State Football Have Their Quarterback. Are they Ready To Begin The Season?",
@@ -3699,8 +3457,7 @@
         "id": "7053a412027b9153",
         "extent": "37 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Shephard discusses Atkinson pick",
@@ -3714,8 +3471,7 @@
         "source": "The Daily Barometer",
         "id": "b5f4127b97c3d2dc",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "OSU remains a school",
@@ -3729,8 +3485,7 @@
         "source": "The Daily Barometer",
         "id": "9ad502ccae0b182d",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Beavers Finish Canada Trip 3-0",
@@ -3744,8 +3499,7 @@
         "source": "Oregon State Athletics",
         "id": "6bcba470b22c5441",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Beavers Take Down Victoria",
@@ -3759,8 +3513,7 @@
         "source": "Oregon State Athletics",
         "id": "65504677cfe921ad",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Beavers Open Canadian Tour with Win",
@@ -3774,8 +3527,7 @@
         "source": "Oregon State Athletics",
         "id": "50fda0d78892c88a",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Beaver WBB to Play Vandy, MTSU in Jacksonville Classic",
@@ -3789,8 +3541,7 @@
         "source": "Oregon State Athletics",
         "id": "9f7e5809b31e8344",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Recapping The First Days of Oregon State's 2026 Fall Camp",
@@ -3805,8 +3556,7 @@
         "id": "56e5d514242c7e4a",
         "extent": "41 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Justin Joyner Meets the Media - Aug. 11",
@@ -3820,8 +3570,7 @@
         "source": "Oregon State Athletics",
         "id": "8f17600f8afbff66",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Oregon State Matchups Set for Acrisure Series",
@@ -3835,8 +3584,7 @@
         "source": "Oregon State Athletics",
         "id": "b4a93a53cec575d8",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Oregon State, Arizona Announce WBB Home & Home Agreement",
@@ -3850,8 +3598,7 @@
         "source": "Oregon State Athletics",
         "id": "0f1690282d6f9518",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Fall Camp Begins For Oregon State Football",
@@ -3866,8 +3613,7 @@
         "id": "e08a00d8ee4bc921",
         "extent": "36 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Watch Power of the Unit - Episode 1",
@@ -3881,8 +3627,7 @@
         "source": "Oregon State Athletics",
         "id": "101de062262b714c",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "An Insider Look at Pac-12 Enterprises After The League's Relaunch",
@@ -3897,8 +3642,7 @@
         "id": "97ae2b37325c9ac8",
         "extent": "46 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       }
     ],
     "San Diego State": [
@@ -3915,8 +3659,7 @@
         "id": "eb0d12fe31863690",
         "extent": "39 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Terry Atkinson makes a lasting investment in Aztec basketball",
@@ -3930,8 +3673,7 @@
         "source": "San Diego State Athletics",
         "id": "238450ba9b07a40b",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Jaylon Hawkins Named Pac-12 Special Teams Player of the Week",
@@ -3945,8 +3687,7 @@
         "source": "San Diego State Athletics",
         "id": "f1ff63e9cdca18c1",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Monday, Sept. 7 Press Conference",
@@ -3960,8 +3701,7 @@
         "source": "San Diego State Athletics",
         "id": "37fe378b7c3b4917",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "San Diego State Set to Take on UCLA at the Rose Bowl",
@@ -3975,8 +3715,7 @@
         "source": "San Diego State Athletics",
         "id": "c3a88eedbba816f8",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "#348: SDSU Wins Big in Season Opener vs Portland State",
@@ -3991,8 +3730,7 @@
         "id": "4e7cb3088444170f",
         "extent": "56 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Last-minute penalty kick secures Aztecs men’s soccer a draw against CSU Bakersfield",
@@ -4006,8 +3744,7 @@
         "source": "The Daily Aztec",
         "id": "62339ab9dd75786a",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Three-phase attack powers Aztecs past Portland State in historic opener",
@@ -4021,8 +3758,7 @@
         "source": "The Daily Aztec",
         "id": "a5a89c97ffa8973e",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Aztecs erupt for 53 points in home opener, tallying their first win",
@@ -4036,8 +3772,7 @@
         "source": "The Daily Aztec",
         "id": "f8a345e065a03fdf",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Opportunistic Aztecs Surge Past Portland State in Season Opener, 53-20",
@@ -4051,8 +3786,7 @@
         "source": "San Diego State Athletics",
         "id": "7650f25add2d29ab",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "SDSU Football to Air on Spanish Radio for 2026 Season",
@@ -4066,8 +3800,7 @@
         "source": "San Diego State Athletics",
         "id": "4bf38f048760ee24",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Promotions Announced for Season Opener vs. Portland State",
@@ -4081,8 +3814,7 @@
         "source": "San Diego State Athletics",
         "id": "bfd59f6c57739ada",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "New Trump admin policy contradicts NCAA international athlete eligibility",
@@ -4096,8 +3828,7 @@
         "source": "The Daily Aztec",
         "id": "8c0994c6510caf36",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Aztec football looks to start strong in week one matchup with Portland State",
@@ -4111,8 +3842,7 @@
         "source": "The Daily Aztec",
         "id": "40b40497464554b3",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "#347: Is SDSU Favored Too Much? San Diego State vs Portland State Week-1 Preview",
@@ -4127,8 +3857,7 @@
         "id": "fd6cb1c53fc01600",
         "extent": "2h 2m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Monday, Aug. 31 Press Conference",
@@ -4142,8 +3871,7 @@
         "source": "San Diego State Athletics",
         "id": "97d0f71f44bf7b74",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "San Diego State Begins Inaugural Pac-12 Season with Non-Conference Game vs. Portland State",
@@ -4157,8 +3885,7 @@
         "source": "San Diego State Athletics",
         "id": "1eb5e5fc271c9e14",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "SDSU Athletics and Palomar Expand Partnership with Jersey Patch for Aztec Football",
@@ -4172,8 +3899,7 @@
         "source": "San Diego State Athletics",
         "id": "ecd5fc13de1ef435",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Men’s soccer kicks off the semester against Life Pacific, tallying its first win of the regular season",
@@ -4187,8 +3913,7 @@
         "source": "The Daily Aztec",
         "id": "1686aec9f7819a4c",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Major defensive changes to come to Aztec football as they prepare for the Pac-12 spotlight",
@@ -4202,8 +3927,7 @@
         "source": "The Daily Aztec",
         "id": "f030e8083dc157b5",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "SDSU football enters the Pac-12 era, bringing a bigger stage and higher standards",
@@ -4217,8 +3941,7 @@
         "source": "The Daily Aztec",
         "id": "a270dde92dc93da7",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "San Diego State Football 10 Days Away from Season Opener",
@@ -4232,8 +3955,7 @@
         "source": "San Diego State Athletics",
         "id": "75fdb5758d0b60ac",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "#346: Lucky Sutton–San Diego State's Next Great Running Back",
@@ -4248,8 +3970,7 @@
         "id": "622d625490239c21",
         "extent": "56 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Aztecs Begin Final Week of Preparation Before Season Opener",
@@ -4263,8 +3984,7 @@
         "source": "San Diego State Athletics",
         "id": "5d2cee9c089f88a7",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Aztecs Add Izzy Navarro",
@@ -4278,8 +3998,7 @@
         "source": "San Diego State Athletics",
         "id": "83cc2952af38c935",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "SDSU Football Names 2026 Team Captains",
@@ -4293,8 +4012,7 @@
         "source": "San Diego State Athletics",
         "id": "12397805712b2314",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Aztecs Continue Fall Camp Practice as 2026 Season Nears",
@@ -4308,8 +4026,7 @@
         "source": "San Diego State Athletics",
         "id": "4abb537d3d59f2c2",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "San Diego State Football Wraps Up Thirteenth Fall Camp Practice",
@@ -4323,8 +4040,7 @@
         "source": "San Diego State Athletics",
         "id": "c42d565bf6d40ef6",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Aztec Football Continues Fall Camp Practices",
@@ -4338,8 +4054,7 @@
         "source": "San Diego State Athletics",
         "id": "a36e852847ebd1b4",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Lucky Sutton Named to Doak Walker Award Watch List",
@@ -4353,8 +4068,7 @@
         "source": "San Diego State Athletics",
         "id": "7a1c788d870ed2cc",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "#345: San Diego State Football's Fall Camp Scrimmage Taught Us A Lot",
@@ -4369,8 +4083,7 @@
         "id": "dc67653599464346",
         "extent": "57 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "SDSU Football Returns to Practice After Successful Scrimmage at Snapdragon Stadium",
@@ -4384,8 +4097,7 @@
         "source": "San Diego State Athletics",
         "id": "3c18a3184ffa4826",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Lucky Sutton Named to Walter Camp Player of the Year Watch List",
@@ -4399,8 +4111,7 @@
         "source": "San Diego State Athletics",
         "id": "a47276b018acefda",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Defense Shines in First Saturday at Snapdragon Stadium Scrimmage",
@@ -4414,8 +4125,7 @@
         "source": "San Diego State Athletics",
         "id": "2ae4e14f145d95da",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Aztec Football Completes Second Week of Fall Camp",
@@ -4429,8 +4139,7 @@
         "source": "San Diego State Athletics",
         "id": "895f777cc3bab747",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "San Diego State Football Gearing Up for First Saturday at Snapdragon Showcase",
@@ -4444,8 +4153,7 @@
         "source": "San Diego State Athletics",
         "id": "ae37f891ff169576",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "SDSU Football Continues Prep for the 2026 Season",
@@ -4459,8 +4167,7 @@
         "source": "San Diego State Athletics",
         "id": "debea4fadf730da3",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "SDSU Football Scrimmages on the Sixth Day of Fall Camp",
@@ -4474,8 +4181,7 @@
         "source": "San Diego State Athletics",
         "id": "48fdf3cf8a77ac9f",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "#344: SDSU Fall Camp Update with Associate GM Sam Popper",
@@ -4490,8 +4196,7 @@
         "id": "b9af02612d6af083",
         "extent": "1h 4m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "108 Aztecs Named Mountain West Scholar-Athletes",
@@ -4505,8 +4210,7 @@
         "source": "San Diego State Athletics",
         "id": "c5237a5f233a520f",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "SDSU Football Wraps Up Third Day of Fall Camp",
@@ -4520,8 +4224,7 @@
         "source": "San Diego State Athletics",
         "id": "57db66db5f134f80",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Aztecs Add Dionne Madjo",
@@ -4535,8 +4238,7 @@
         "source": "San Diego State Athletics",
         "id": "8538fa4848bee9ee",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "San Diego State Football Completes Second Day of Fall Camp",
@@ -4550,8 +4252,7 @@
         "source": "San Diego State Athletics",
         "id": "86e42c18a361139a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Five Aztecs Named to Pac-12 Preseason Impact List",
@@ -4565,8 +4266,7 @@
         "source": "San Diego State Athletics",
         "id": "874072c48ecf4d90",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "SDSU Football Begins 2026 Fall Camp",
@@ -4580,8 +4280,7 @@
         "source": "San Diego State Athletics",
         "id": "582e25f515d8372b",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Family 4-Packs for Aztec Football Games Go on Sale on Wednesday",
@@ -4595,8 +4294,7 @@
         "source": "San Diego State Athletics",
         "id": "edaee4491d4059a8",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "#343: SDSU Fall Camp '26 Preview and NCAA's Basketball Eligibility Chaos",
@@ -4611,8 +4309,7 @@
         "id": "f0fcf632c48228e9",
         "extent": "1h 11m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Lucky Sutton Named to Maxwell Award Watch List",
@@ -4626,8 +4323,7 @@
         "source": "San Diego State Athletics",
         "id": "c9792ef83e3f0a59",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Aztec Football to Host “First Saturday at Snapdragon Stadium” on Aug. 15",
@@ -4641,11 +4337,24 @@
         "source": "San Diego State Athletics",
         "id": "ff0e287ff3afff3a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "‘Cats complete reverse sweep against Mavericks",
+        "link": "https://universitystar.com/36229/sports/cats-complete-reverse-sweep-against-mavericks/",
+        "link_kind": "item",
+        "date": "2026-09-12T02:10:12+00:00",
+        "summary": "Brooke Bentke and Peyton McKee helped lead the Texas State Bobcats in a comeback against the UT Arlington Mavericks (20-25, 23-25, 25-21, 25-14, 15-10) Friday afternoonat Robert H. Shelton Gymnasium in Nacogdoches, Texas. The first set featured back-and-forth action, with the teams trading points early. The score was tied 20-20 before the Mavericks scored five...",
+        "author": "Azul Rios, Sports Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "532de7db0c681ab8",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Texas State dominates Stephen F. Austin in sweep",
         "link": "https://universitystar.com/36226/sports/texas-state-dominates-stephen-f-austin-in-sweep/",
@@ -4658,8 +4367,7 @@
         "source": "The University Star",
         "id": "efe41ed4cc96c241",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Takeaways from Texas State vs No. 5 Texas",
@@ -4673,8 +4381,7 @@
         "source": "The University Star",
         "id": "d597d93551b2cd55",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "No. 15 TXST drops first game of year to Louisiana",
@@ -4688,8 +4395,7 @@
         "source": "The University Star",
         "id": "84a5389f0558381a",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "TXST brings Pac-12 back to USLBM Challenge against North Texas",
@@ -4703,8 +4409,7 @@
         "source": "The University Star",
         "id": "b7c9856de30c04ae",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Game Preview: TXST vs UTSA",
@@ -4718,8 +4423,7 @@
         "source": "Texas State Athletics",
         "id": "866dafccd626ce7e",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WATCH: TXST Football Media Availability vs UTSA (090826)",
@@ -4733,8 +4437,7 @@
         "source": "Texas State Athletics",
         "id": "c3bcc18e75bb0a63",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "‘Cats and Roadrunners set for high stake I-35 showdown",
@@ -4748,8 +4451,7 @@
         "source": "The University Star",
         "id": "4f1d13d82da7f87b",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "A Letter from Director of Athletics Don Coryell",
@@ -4763,8 +4465,7 @@
         "source": "Texas State Athletics",
         "id": "bd1b255223f5e431",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Back in Action: Caitlyn Draper’s return gives her a new chance to lead",
@@ -4778,8 +4479,7 @@
         "source": "The University Star",
         "id": "42ae17901781c3c6",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Texas State Volleyball splits remaining games at Southwest Showdown against UTRGV, TAMU-CC",
@@ -4793,8 +4493,7 @@
         "source": "The University Star",
         "id": "8173d6446ac70f19",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Game Recap: Texas State Falls at No. 5/4 Texas",
@@ -4808,8 +4507,7 @@
         "source": "Texas State Athletics",
         "id": "91bd50a398356682",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "TXST struggle in Pac-12 era opener against No. 5 Texas",
@@ -4823,8 +4521,7 @@
         "source": "The University Star",
         "id": "08d632fe78e0c1f9",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Texas State Athletics Announces New Radio Broadcast Team for 2026 Football and Men’s Basketball",
@@ -4838,23 +4535,7 @@
         "source": "Texas State Athletics",
         "id": "fefbca32dad90547",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
-      },
-      {
-        "title": "Cardiac ‘Cats strike again against Rice, erase two-goal deficit, remain unbeaten",
-        "link": "https://universitystar.com/36170/sports/cardiac-cats-strike-again-against-rice-erase-two-goal-deficit-remain-unbeaten/",
-        "link_kind": "item",
-        "date": "2026-09-04T04:27:57+00:00",
-        "summary": "Trailing 3-1 going into the final 25 minutes of the match, the No. 17 Texas State Bobcats stormed back and prevailed with a 4-3 win against the Rice Owls Thursday evening at the Bobcat Soccer Complex. Senior midfielder Victoria Meza scored the game-winning goal in the final minute for the Bobcats (6-0-1) to take down...",
-        "author": "Cody Dotson, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "2342bdb4c94293e7",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Game Preview: TXST at No. 5/4 Texas",
@@ -4868,8 +4549,7 @@
         "source": "Texas State Athletics",
         "id": "7273d14b2f8d572e",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Pac-12 announces commercial and operational updates ahead of its 2026 football season kickoff",
@@ -4883,8 +4563,7 @@
         "source": "Texas State Athletics",
         "id": "027d79e0771093ff",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "The Dan & Cindee Dipenhorst Champions Club is Officially SOLD OUT",
@@ -4898,8 +4577,7 @@
         "source": "Texas State Athletics",
         "id": "563519a223329e59",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WATCH: TXST Football Media Availability vs Texas (090126)",
@@ -4913,8 +4591,7 @@
         "source": "Texas State Athletics",
         "id": "eae0fd3f137b2504",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Texas State to Face North Texas in USLBM Coast to Coast Challenge",
@@ -4928,8 +4605,7 @@
         "source": "Texas State Athletics",
         "id": "c99a9fc67ee5e585",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "CHRISTUS Health and Texas State expand scholarship support for student-athletes",
@@ -4943,8 +4619,7 @@
         "source": "Texas State Athletics",
         "id": "0dcd46ea76ae9fec",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Reimagining Game Day: The Vision Powering TXST's IMPACTFUL Future",
@@ -4958,8 +4633,7 @@
         "source": "Texas State Athletics",
         "id": "525b03a745028fa4",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Every Bobcat Makes an Impact. Be IMPACTFUL",
@@ -4973,40 +4647,37 @@
         "source": "Texas State Athletics",
         "id": "14c17fbde04c89b2",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       }
     ],
     "Utah State": [
       {
-        "title": "Utah State soccer tramples No. 13 BYU 4-0",
-        "link": "https://www.cachevalleydaily.com/sports/utah-state-soccer-tramples-no-13-byu-4-0/article_f05b5d23-a381-4319-ad4d-b930076c2bfd.html",
+        "title": "Utah State Volleyball falls to Utah in straight sets",
+        "link": "https://usustatesman.com/utah-state-volleyball-falls-to-utah-in-straight-sets/",
         "link_kind": "item",
-        "date": "2026-09-11T20:05:00+00:00",
-        "summary": "At halftime of Utah State soccer's Thursday evening matchup with No. 13 BYU, head coach Manny Martins delivered a fairly simple message.",
-        "author": "Jason Walker",
+        "date": "2026-09-12T04:12:48+00:00",
+        "summary": "<p>Utah State Volleyball fell 3-0 to in-state rival Utah on Friday night in the Dee Glen Smith Spectrum. The game&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/utah-state-volleyball-falls-to-utah-in-straight-sets/\">Utah State Volleyball falls to Utah in straight sets</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
+        "author": "Mark Greenwood",
         "duration": null,
         "channel_url": "",
-        "source": "Cache Valley Daily",
-        "id": "66c1bd3000f8244b",
+        "source": "The Utah Statesman",
+        "id": "14a1c6472da65f4f",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
-        "title": "Utah State football vs No. 19 Washington preview: Predictions, Injury Reports, How to Watch",
-        "link": "https://www.cachevalleydaily.com/sports/utah-state-football-vs-no-19-washington-preview-predictions-injury-reports-how-to-watch/article_e27de211-3787-4ab1-880a-8af0f6afc57b.html",
+        "title": "Women’s Soccer Dominates BYU 4-0",
+        "link": "https://usustatesman.com/womens-soccer-dominates-byu-4-0/",
         "link_kind": "item",
-        "date": "2026-09-11T17:30:00+00:00",
-        "summary": "After a less-than-stellar Week 1 outing, Utah State will look to bounce back against the 19th-ranked Washington Huskies in Week 2. The Aggies' opponent is much tougher this week, and the margins are much thinner than in the season opener.…",
-        "author": "Jason Walker",
+        "date": "2026-09-12T02:18:10+00:00",
+        "summary": "<p>On Sept. 10, the Aggies defeated BYU 4-0 in a decisive victory.</p>\n<p>The post <a href=\"https://usustatesman.com/womens-soccer-dominates-byu-4-0/\">Women&#8217;s Soccer Dominates BYU 4-0</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
+        "author": "Elise Gottling",
         "duration": null,
         "channel_url": "",
-        "source": "Cache Valley Daily",
-        "id": "11cb57668350fa0e",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "source": "The Utah Statesman",
+        "id": "929d786fca36e761",
+        "sport": "all",
+        "medium": "text"
       },
       {
         "title": "Aggies rout No. 13 BYU in home upset",
@@ -5020,8 +4691,7 @@
         "source": "The Utah Statesman",
         "id": "be56c06c8c887238",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Utah State’s Javen Jacobs Named to Jason Witten Collegiate Man of the Year Award Watch List",
@@ -5035,8 +4705,7 @@
         "source": "Utah State Athletics",
         "id": "0da6bf44b4038821",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Utah State Volleyball falls to UCLA in 2026 home opener",
@@ -5050,38 +4719,7 @@
         "source": "The Utah Statesman",
         "id": "82699c025539424b",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Breaking down McCae Hillstead's struggles and future with Utah State this season",
-        "link": "https://www.cachevalleydaily.com/sports/breaking-down-mccae-hillsteads-struggles-and-future-with-utah-state-this-season/article_c3907802-7188-419b-82c1-41a8d213be19.html",
-        "link_kind": "item",
-        "date": "2026-09-09T03:30:00+00:00",
-        "summary": "Almost exactly three years ago, McCae Hillstead was subbed in at quarterback for Utah State during the fourth quarter in what was eventually a 78-28 win for the Aggies over Idaho State. He would take the final snaps in a…",
-        "author": "Jason Walker",
-        "duration": null,
-        "channel_url": "",
-        "source": "Cache Valley Daily",
-        "id": "b38230c8662a7365",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Monday Cooldown — What losing its FCS matchup means for Utah State",
-        "link": "https://www.cachevalleydaily.com/sports/monday-cooldown-what-losing-its-fcs-matchup-means-for-utah-state/article_321075fc-b6ce-4a4b-b2d0-7f5242b389d3.html",
-        "link_kind": "item",
-        "date": "2026-09-08T15:00:00+00:00",
-        "summary": "Yes, the Monday Cooldown has been published on a Tuesday. It was a holiday weekend, and Utah State losing to Idaho State — pretty much the one game you could pencil in as a win during the preseason — made…",
-        "author": "Jason Walker",
-        "duration": null,
-        "channel_url": "",
-        "source": "Cache Valley Daily",
-        "id": "6c3ff93c0b9b5c74",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "USU opens first game as PAC-12 member with stunning loss to Idaho State Bengals",
@@ -5096,8 +4734,7 @@
         "id": "7d801e2769043e6d",
         "extent": "24 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Utah State Football Travels to Husky Stadium to Play No. 17 Washington",
@@ -5111,8 +4748,7 @@
         "source": "Utah State Athletics",
         "id": "0b68257d8d9b683b",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Aggie Football Falls Short in Home Opener Against Idaho State Bengals",
@@ -5126,8 +4762,7 @@
         "source": "The Utah Statesman",
         "id": "33628febd1cd094a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Hillstead returns to Utah State Football",
@@ -5141,8 +4776,7 @@
         "source": "The Utah Statesman",
         "id": "9ee11b84a78eac21",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Turnovers doom Aggies in loss to Idaho State",
@@ -5156,8 +4790,7 @@
         "source": "The Utah Statesman",
         "id": "6fd3339f467cf059",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Utah State Football Drops Season Opener to Idaho State 29-17",
@@ -5171,26 +4804,7 @@
         "source": "Utah State Athletics",
         "id": "006393989e01a5a9",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0,
-        "also": [
-          "Cache Valley Daily"
-        ]
-      },
-      {
-        "title": "Utah State football vs Idaho State preview: Predictions, Injury Reports, How to Watch",
-        "link": "https://www.cachevalleydaily.com/sports/utah-state-football-vs-idaho-state-preview-predictions-injury-reports-how-to-watch/article_f7aa357d-441e-4c1a-bd30-31a8a6ff60f6.html",
-        "link_kind": "item",
-        "date": "2026-09-04T18:00:00+00:00",
-        "summary": "Tomorrow marks the start of the college football season in Logan as Utah State is set to take on the Idaho State Bengals. Head coach Bronco Mendenhall enters his second year leading the Aggies, hoping to break the chain of…",
-        "author": "Jason Walker",
-        "duration": null,
-        "channel_url": "",
-        "source": "Cache Valley Daily",
-        "id": "8af48ac8316312d3",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Utah State Soccer takes down Utah Tech in blowout victory",
@@ -5204,53 +4818,7 @@
         "source": "The Utah Statesman",
         "id": "9f2ffe65a29d5589",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "The biggest questions to be answered for Utah State in Week 1",
-        "link": "https://www.cachevalleydaily.com/sports/the-biggest-questions-to-be-answered-for-utah-state-in-week-1/article_f44408a5-c912-4ea7-a305-5c0eaa61aa96.html",
-        "link_kind": "item",
-        "date": "2026-09-04T05:45:00+00:00",
-        "summary": "College football arrives in Cache Valley this Saturday as Utah State hosts Idaho State on Merlin Olsen Field in the soon-to-be-renamed Jim Laub Family Stadium. It ends a _-day span since the last time the Aggies officially played a gridiron…",
-        "author": "Jason Walker",
-        "duration": null,
-        "channel_url": "",
-        "source": "Cache Valley Daily",
-        "id": "0da0dd352d4de6c4",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Final Preseason Record Prediction for Utah State football",
-        "link": "https://www.cachevalleydaily.com/sports/final-preseason-record-prediction-for-utah-state-football/article_4af1e1e0-6754-4ef5-a6c7-4278d46b5b2c.html",
-        "link_kind": "item",
-        "date": "2026-09-04T02:05:00+00:00",
-        "summary": "Utah State's college football season begins this week with its home opener against Idaho State on Merlin Olsen Field. With months of anticipation, analysis, and waiting soon to be in the rearview mirror, there's only a little time left to…",
-        "author": "Jason Walker Eric Frandsen",
-        "duration": null,
-        "channel_url": "",
-        "source": "Cache Valley Daily",
-        "id": "896011fb9b17d227",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Top 25 Aggies of 2026 — No. 5-1",
-        "link": "https://www.cachevalleydaily.com/sports/top-25-aggies-of-2026-no-5-1/article_397ccc65-e52f-4e15-97ed-6a17c0bf6fb4.html",
-        "link_kind": "item",
-        "date": "2026-09-02T19:30:00+00:00",
-        "summary": "Here is the final release of the Top 25 Aggies of 2026, as revealed on the Full Court Press last week. These are the players ranked 5th through first, the projected best of the best for the 2026 Utah State…",
-        "author": "Jason Walker",
-        "duration": null,
-        "channel_url": "",
-        "source": "Cache Valley Daily",
-        "id": "832c7745c33405ae",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Utah State announces football stadium renaming",
@@ -5264,23 +4832,7 @@
         "source": "The Utah Statesman",
         "id": "6c1c1fba5222f4b9",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "USU to rename Maverik Stadium for Jim Laub family beginning in 2027",
-        "link": "https://www.cachevalleydaily.com/sports/usu-to-rename-maverik-stadium-for-jim-laub-family-beginning-in-2027/article_ba5e3bc5-6a19-45ac-9b07-5298bb1c0263.html",
-        "link_kind": "item",
-        "date": "2026-09-01T01:31:00+00:00",
-        "summary": "LOGAN — Utah State University’s football stadium will have a new name beginning next year, honoring a family whose ties to the university and Cache Valley stretch across generations.",
-        "author": "Eric Frandsen",
-        "duration": null,
-        "channel_url": "",
-        "source": "Cache Valley Daily",
-        "id": "d984dbfb34c42791",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "New Era: Utah State Announces Jim Laub Family Stadium",
@@ -5294,8 +4846,7 @@
         "source": "Utah State Athletics",
         "id": "55b3b7a591ea1020",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Utah State Opens 2026 Season at Home Against Idaho State",
@@ -5309,8 +4860,7 @@
         "source": "Utah State Athletics",
         "id": "920ca7154bad2e41",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "New faces, same focus for Utah State Volleyball",
@@ -5324,38 +4874,7 @@
         "source": "The Utah Statesman",
         "id": "c625118f4f031070",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Mountain West, Pac-12 conferences reach lawsuit settlement after early departure",
-        "link": "https://usustatesman.com/mountain-west-pac-12-conferences-reach-lawsuit-settlement-after-early-departure/",
-        "link_kind": "item",
-        "date": "2026-08-31T12:13:48+00:00",
-        "summary": "<p>Following nearly two years of legal battles, the Mountain West Conference and Pac-12 Conference agreed to a settlement in early&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/mountain-west-pac-12-conferences-reach-lawsuit-settlement-after-early-departure/\">Mountain West, Pac-12 conferences reach lawsuit settlement after early departure</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
-        "author": "Mark Greenwood",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Utah Statesman",
-        "id": "42992319b741a477",
-        "sport": "all",
-        "medium": "text",
-        "weight": 1.15
-      },
-      {
-        "title": "Utah State Football enters 2026 with plenty to prove",
-        "link": "https://usustatesman.com/utah-state-football-enters-2026-with-plenty-to-prove/",
-        "link_kind": "item",
-        "date": "2026-08-31T12:02:53+00:00",
-        "summary": "<p>With the 2026 college football season on the horizon, the Aggies are prepping for a season with many changes. To&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/utah-state-football-enters-2026-with-plenty-to-prove/\">Utah State Football enters 2026 with plenty to prove</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
-        "author": "Rory McNeill",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Utah Statesman",
-        "id": "5e49681de1e69ad0",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "LS² Brings Elite Women's College Basketball Matchups to Fort Worth's Dickies Arena in 2026",
@@ -5369,8 +4888,7 @@
         "source": "Utah State Athletics",
         "id": "f8e8f607b4b101d9",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Utah State Men’s Basketball Announces the Signing of Dallin Hall",
@@ -5384,8 +4902,7 @@
         "source": "Utah State Athletics",
         "id": "3c59d7855663bfaa",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "2026 Football Media Guide Now Available Online",
@@ -5399,8 +4916,7 @@
         "source": "Utah State Athletics",
         "id": "238e64cfa4d846ee",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Women’s Basketball Adds Tori Williams as Chief of Staff",
@@ -5414,8 +4930,7 @@
         "source": "Utah State Athletics",
         "id": "5cf92fb2d1abb6a3",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Reviewing Ice Cream Flavor Finalists at USU Family Fun Day",
@@ -5430,8 +4945,7 @@
         "id": "b9168bed41bef382",
         "extent": "13 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Women’s Basketball Announces 2026 Nonconference Schedule",
@@ -5445,8 +4959,7 @@
         "source": "Utah State Athletics",
         "id": "5ea624f1447858d5",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Former Utah State Football Great Dave Kragthorpe Passes Away",
@@ -5460,8 +4973,7 @@
         "source": "Utah State Athletics",
         "id": "9039057dd39c832f",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Utah State’s Brevin Hamblin Named to Chuck Bednarik Award Preseason Watch List",
@@ -5475,8 +4987,7 @@
         "source": "Utah State Athletics",
         "id": "350b0d0b9fdb65f6",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Four Aggies Named to 2026 Polynesian College Football Player of the Year Award Watch List",
@@ -5490,8 +5001,7 @@
         "source": "Utah State Athletics",
         "id": "1f8b9a3b3f5fd247",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Fall Camp: Practice No. 10",
@@ -5505,8 +5015,7 @@
         "source": "Utah State Athletics",
         "id": "182f0d3d8d960747",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "2026 Acrisure Series College Basketball Thanksgiving Event Returns to Acrisure Arena November 21-26",
@@ -5520,8 +5029,7 @@
         "source": "Utah State Athletics",
         "id": "f02eee30e2f8091f",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Utah State Men’s Basketball Announces 2026-27 Nonconference Schedule",
@@ -5535,8 +5043,7 @@
         "source": "Utah State Athletics",
         "id": "6dc009810ff0e82b",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Top 7 Spectrum Magic Moments",
@@ -5551,8 +5058,7 @@
         "id": "3ba52cfeb68d8ea2",
         "extent": "23 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       }
     ],
     "Washington State": [
@@ -5568,8 +5074,7 @@
         "source": "The Seattle Times",
         "id": "f90fa6b1be639089",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cougar soccer takes on the Titans",
@@ -5583,8 +5088,7 @@
         "source": "The Daily Evergreen",
         "id": "070fd7f17c2d9186",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cougars to play in Apple Cup and against two other opponents this weekend in Seattle",
@@ -5598,8 +5102,7 @@
         "source": "The Daily Evergreen",
         "id": "2c966d1bb4c71bfb",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Where Washington, Washington State stand in Pac-12 legacy bowl projections",
@@ -5613,8 +5116,7 @@
         "source": "The Seattle Times",
         "id": "0bdbbdacda08b3d4",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Getting to know WSU Cougars’ next opponent: Kansas State",
@@ -5628,8 +5130,7 @@
         "source": "The Seattle Times",
         "id": "057bb4a2ca0b605a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Why Kansas State will beat Washington State | The pick",
@@ -5643,8 +5144,7 @@
         "source": "The Spokesman-Review",
         "id": "8528338706d10d32",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Washington State's keys to victory against Kansas State | 2-minute drill",
@@ -5658,8 +5158,7 @@
         "source": "The Spokesman-Review",
         "id": "572165d83623d6c1",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "To pull an upset on Kansas State, WSU's offense will have to improve in a big way",
@@ -5673,8 +5172,7 @@
         "source": "The Spokesman-Review",
         "id": "1d497dfd0da1a423",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU hockey reignites the Battle of the Border in 2026",
@@ -5688,8 +5186,7 @@
         "source": "The Daily Evergreen",
         "id": "5682e1ce388c99fd",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Pac-12 power rankings: Where WSU lands after Apple Cup loss",
@@ -5704,10 +5201,23 @@
         "id": "2fc1eb7eda686a7b",
         "sport": "football",
         "medium": "text",
-        "weight": 1.15,
         "also": [
           "The Spokesman-Review"
         ]
+      },
+      {
+        "title": "WSU Football: The Cougar Football Hour with Kirby Moore | Kansas State Week | 9/9/26",
+        "link": "https://wsucougars.com/news/2026/09/10/wsu-football-the-cougar-football-hour-with-kirby-moore-kansas-state-week-9926",
+        "link_kind": "item",
+        "date": "2026-09-10T14:25:23+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "566e3c1968c9173a",
+        "sport": "football",
+        "medium": "text"
       },
       {
         "title": "Apple Cup thoughts and K-State preview (Episode 255)",
@@ -5722,8 +5232,7 @@
         "id": "5ed76da78fcf07bd",
         "extent": "1h 14m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougar Football Hour 9-9-26 (Kirby Moore, Jack Pedersen & Derham Cato)",
@@ -5738,8 +5247,7 @@
         "id": "0a5bf77ee11317b6",
         "extent": "59 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "I appreciate the chance to cover every WSU game. This Saturday's is a little extra special | Commentary",
@@ -5753,8 +5261,7 @@
         "source": "The Spokesman-Review",
         "id": "ff62affb4f1f9093",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Getting to know WSU's next opponent, Kansas State | Q&A with beat writer Ryan Gilbert",
@@ -5768,8 +5275,7 @@
         "source": "The Spokesman-Review",
         "id": "86ea7f6e52a60df4",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU faces tough test on the road, UW should cruise at home | Picks of the week",
@@ -5783,8 +5289,7 @@
         "source": "The Spokesman-Review",
         "id": "c31e5942cff97411",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "How it happened: WSU football beats itself in the Apple Cup",
@@ -5798,8 +5303,7 @@
         "source": "The Daily Evergreen",
         "id": "3b712c2ab9566632",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cougars Head to Kansas State For Saturday Morning Matchup",
@@ -5813,8 +5317,7 @@
         "source": "Washington State Athletics",
         "id": "87a60e44705cd7f5",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Report cards: How well did the Cougs fare in the Apple Cup",
@@ -5828,8 +5331,7 @@
         "source": "The Daily Evergreen",
         "id": "ad03d04150f35165",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "K-State Insider Reveals the Truth About Kansas State | WSU vs Wildcats Preview",
@@ -5844,8 +5346,7 @@
         "id": "220e2e4d36e4e4fe",
         "extent": "36 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Are WSU coaches OK with QB Caden Pinnick being the team’s leading rusher?",
@@ -5860,7 +5361,6 @@
         "id": "01981d37044e61f6",
         "sport": "football",
         "medium": "text",
-        "weight": 1.15,
         "also": [
           "The Spokesman-Review"
         ]
@@ -5877,8 +5377,7 @@
         "source": "The Spokesman-Review",
         "id": "c247d0bbe9991782",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cougars take No. 25 Oregon the distance in four-set loss",
@@ -5892,8 +5391,7 @@
         "source": "The Daily Evergreen",
         "id": "b87d8f4ef412ae31",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore and Student-Athletes | Kansas State Week Press Conference | 9/7/26",
@@ -5907,8 +5405,7 @@
         "source": "Washington State Athletics",
         "id": "6eb73159aff159bf",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "THE PAC PULSE: Official Week 1 Ends With More Losses Around The Pac 12",
@@ -5923,8 +5420,7 @@
         "id": "2de7ab846a086acc",
         "extent": "9 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "WSU football dealt costly blow with WR Tony Freeman likely out against Kansas State",
@@ -5939,7 +5435,6 @@
         "id": "2022ac8c7d333ca4",
         "sport": "football",
         "medium": "text",
-        "weight": 1.15,
         "also": [
           "The Spokesman-Review"
         ]
@@ -5957,8 +5452,7 @@
         "id": "e5f841a44e5ddd86",
         "extent": "29 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Apple Cup postgame live stream (Episode 254)",
@@ -5973,8 +5467,7 @@
         "id": "1ab815485cd6b45b",
         "extent": "28 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougars drop Apple Cup for the second straight season",
@@ -5988,8 +5481,7 @@
         "source": "The Daily Evergreen",
         "id": "bb719bdc31d08a58",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | Boeing Apple Cup Washington Postgame | 9/6/26",
@@ -6003,8 +5495,7 @@
         "source": "Washington State Athletics",
         "id": "0e0e7829a882e21f",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Caden Pinnick, Keith Brown, Linus Zunk | Boeing Apple Cup Washington Postgame | 9/6/26",
@@ -6018,8 +5509,7 @@
         "source": "Washington State Athletics",
         "id": "422ffec9f500b275",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Apple Cup loss leaves WSU Cougars with real concerns on offense",
@@ -6033,8 +5523,7 @@
         "source": "The Seattle Times",
         "id": "6db3b4fcdde333cc",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Light rail train breaks down near Husky Stadium after Apple Cup",
@@ -6048,8 +5537,7 @@
         "source": "The Seattle Times",
         "id": "d4c41ba6466d4ee6",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Coug Talk (Apple Cup) 9-6-26",
@@ -6064,8 +5552,7 @@
         "id": "2dbec0f7af6e81ae",
         "extent": "1h 36m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougar Football Replay (Apple Cup) 9-6-26",
@@ -6080,8 +5567,7 @@
         "id": "749bbfbed37ee301",
         "extent": "3h 53m",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Washington Huskies won the Apple Cup … and left with causes for concern",
@@ -6095,8 +5581,7 @@
         "source": "The Seattle Times",
         "id": "f38823e42f9d28ae",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cougar Tailgate Show (Apple Cup) 9-6-26",
@@ -6111,8 +5596,7 @@
         "id": "b1905ff4d070127c",
         "extent": "1h 53m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougars Fall to Washington in Apple Cup, 24-10",
@@ -6126,8 +5610,7 @@
         "source": "Washington State Athletics",
         "id": "9b92bc71d95e755c",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "In Apple Cup loss to Washington, Cougars' third-down woes might have more to do with first and second down | WSU rewind",
@@ -6141,8 +5624,7 @@
         "source": "The Spokesman-Review",
         "id": "fff55d61d25e2585",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU heads to the Midwest to take on Kansas State in second-straight Power 4 game to open season | First look",
@@ -6156,8 +5638,7 @@
         "source": "The Spokesman-Review",
         "id": "8b9aa0a33b930179",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Apple Cup 2026: Washington Huskies host WSU Cougars in rivalry game",
@@ -6171,8 +5652,7 @@
         "source": "The Seattle Times",
         "id": "c4d8d59a2d842930",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Apple Cup recap: Washington Huskies escape with win over WSU Cougars",
@@ -6186,8 +5666,7 @@
         "source": "The Seattle Times",
         "id": "c81e75ee1c1bfa1d",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU coaching legends share memories and a collective groan over modern college chaos",
@@ -6201,8 +5680,7 @@
         "source": "The Seattle Times",
         "id": "7282bd00827b9c94",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "How to watch Apple Cup, Washington Huskies vs. Washington State Cougars",
@@ -6216,8 +5694,7 @@
         "source": "The Seattle Times",
         "id": "c3138a7e7a4c66bd",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Apple Cup: What college football’s in-state rivalries reveal about future",
@@ -6231,8 +5708,7 @@
         "source": "The Seattle Times",
         "id": "0dfa631aad457eb3",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Washington Huskies’ NIL advantage may signal end of competitive Apple Cups",
@@ -6246,8 +5722,7 @@
         "source": "The Seattle Times",
         "id": "5d8e653c2373daf5",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "LB Keith Brown leads the way in WSU defense's sterling showing in Apple Cup loss to No. 17 Washington",
@@ -6261,8 +5736,7 @@
         "source": "The Spokesman-Review",
         "id": "1f99402af3ed50b4",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU won’t face a defense like Washington’s again this season. But the Cougars have real concerns on offense | Analysis",
@@ -6276,8 +5750,7 @@
         "source": "The Spokesman-Review",
         "id": "2e9cc91a2f1d4232",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Washington quarterback Demond Williams Jr. makes winning plays late | Difference makers",
@@ -6291,8 +5764,7 @@
         "source": "The Spokesman-Review",
         "id": "415bf644729e8175",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Washington State offense stumbles while defense impresses in Week 1 Apple Cup loss | Instant reactions",
@@ -6306,8 +5778,7 @@
         "source": "The Spokesman-Review",
         "id": "eb8a053dfa111a90",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Start of Kirby Moore era marred by uneven play, missed opportunities | TV take",
@@ -6321,8 +5792,7 @@
         "source": "The Spokesman-Review",
         "id": "450d4d58b61f3569",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Early season Apple Cup makes for beautiful weather but ugly play | Dave Boling",
@@ -6336,8 +5806,7 @@
         "source": "The Spokesman-Review",
         "id": "473e369ed9bfd7df",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "No. 17 Washington grinds out win over Washington State 24-10 in 118th Apple Cup | Recap and highlights",
@@ -6351,8 +5820,7 @@
         "source": "The Spokesman-Review",
         "id": "663d4a20741069b4",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU Football: College Gameday Ol' Crimson Flag inducted into ESPN Hall of Fan! 9/4/26",
@@ -6366,8 +5834,7 @@
         "source": "Washington State Athletics",
         "id": "5c81bad33b3a29d8",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Washington State tight end Peyton Read to miss Apple Cup",
@@ -6381,8 +5848,7 @@
         "source": "The Seattle Times",
         "id": "d60cc46adf66c009",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU's Ol' Crimson the first inductee into College GameDay's Hall of Fan",
@@ -6396,8 +5862,7 @@
         "source": "The Spokesman-Review",
         "id": "ef752ae61592b39d",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Two-minute drill: Washington State's keys to victory against No. 17 Washington in the Apple Cup",
@@ -6411,8 +5876,7 @@
         "source": "The Spokesman-Review",
         "id": "3c4b84a8e250c38e",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Why No. 17 Washington will beat Washington State in Apple Cup No. 118",
@@ -6426,8 +5890,7 @@
         "source": "The Spokesman-Review",
         "id": "a00ba89c7843bd16",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "The Apple Cup may be different, but here's why it still matters for Cougars and Huskies | Dave Boling",
@@ -6441,8 +5904,7 @@
         "source": "The Spokesman-Review",
         "id": "cc8cff76c7a89261",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU, first-year coach Kirby Moore ready to try and pull massive upset on No. 17 Washington in 118th Apple Cup",
@@ -6456,8 +5918,7 @@
         "source": "The Spokesman-Review",
         "id": "c91131df3a9156cb",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | Washington Week Friday Press Conference | 9/4/26",
@@ -6471,8 +5932,7 @@
         "source": "Washington State Athletics",
         "id": "4ee5864ff8ce455e",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Can the Cougs pull off a miracle?",
@@ -6486,8 +5946,7 @@
         "source": "Jim Moore's Substack",
         "id": "bdf2adbda6280556",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU band’s Apple Cup absence is another sign of change in college sports",
@@ -6501,8 +5960,7 @@
         "source": "The Seattle Times",
         "id": "5b3d98c842b993d7",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "How will WSU do in new Pac-12? Game-by-game picks for Cougars",
@@ -6516,8 +5974,7 @@
         "source": "The Seattle Times",
         "id": "f2e72f30f88c77bc",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "How WSU is positioning itself to overcome challenging first year in new Pac-12",
@@ -6531,8 +5988,7 @@
         "source": "The Seattle Times",
         "id": "934b466894f0dad8",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Explaining the Sunday Apple Cup, Fox's role in the Pac-12 implosion and more | Mailbag",
@@ -6546,8 +6002,7 @@
         "source": "The Spokesman-Review",
         "id": "c8f6b85fdeb7ea67",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Rebuilt Pac-12 reveals bowl lineup for new and old schools and more",
@@ -6561,8 +6016,7 @@
         "source": "The Seattle Times",
         "id": "b049bab11d898142",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "At WSU, a litany of ties to rival Washington and the Apple Cup still remain",
@@ -6576,8 +6030,7 @@
         "source": "The Seattle Times",
         "id": "4ce46d7abc121c57",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "How first-year coach Kirby Moore can take WSU to brighter future",
@@ -6591,8 +6044,7 @@
         "source": "The Seattle Times",
         "id": "49109c0ffd01aaff",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "It's Apple Cup week!! (Episode 253)",
@@ -6607,8 +6059,7 @@
         "id": "cfb32d268e9ed362",
         "extent": "1h 21m",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "🔴 COUGS ARE READY FOR THE APPLE CUP! | New WSU Football Insights Have Fans FIRED UP",
@@ -6623,8 +6074,7 @@
         "id": "022cce9984df7cdf",
         "extent": "26 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougar Football Hour 9-2-26 (Kirby Moore, Tony Freeman & Derek Sage)",
@@ -6639,8 +6089,7 @@
         "id": "bbacb7ff80d5c2e7",
         "extent": "57 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "WSU Football: The Cougar Football Hour with Kirby Moore | Boeing Apple Cup Washington Week | 9/2/26",
@@ -6654,8 +6103,7 @@
         "source": "Washington State Athletics",
         "id": "a68cc8e257172742",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougars Open 2026 With Boeing Apple Cup in Seattle",
@@ -6669,8 +6117,7 @@
         "source": "Washington State Athletics",
         "id": "baabba11af9b2bc5",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "How WSU’s Kaden Beatty and Nylan Brown could factor into Apple Cup No. 118",
@@ -6684,8 +6131,7 @@
         "source": "The Seattle Times",
         "id": "d410265b2016d9cc",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "BECU Inside WSU Athletics with Jon Haarlow | S2, E3 | Guests: Korey Schroeder, Alex Brink",
@@ -6700,8 +6146,7 @@
         "id": "c48ea189ed1b84fd",
         "extent": "46 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "What We Learned From WSU's Leaders Before the Apple Cup | Kirby Moore Speaks",
@@ -6716,8 +6161,7 @@
         "id": "f97d366321a79bc6",
         "extent": "29 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougar Football Hour Returns to Zeppoz, Moves to Wednesday Nights",
@@ -6731,8 +6175,7 @@
         "source": "Washington State Athletics",
         "id": "86b9bbe132c2a667",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Board considers extending alcohol pilot program at WSU’s Martin Stadium with stricter enforcement",
@@ -6746,8 +6189,7 @@
         "source": "The Seattle Times",
         "id": "34017d706520d061",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Is it crazy to think we have a shot in the Apple Cup?",
@@ -6761,8 +6203,7 @@
         "source": "Jim Moore's Substack",
         "id": "5442a9d7900e7dcf",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Legend Jack Thompson FIRES UP Cougar Nation Ahead of Apple Cup!",
@@ -6777,8 +6218,7 @@
         "id": "6b4c91b75c2a01e3",
         "extent": "52 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "WSU Football: Kirby Moore and Student-Athletes | Washington Week Press Conference | 8/31/26",
@@ -6792,8 +6232,7 @@
         "source": "Washington State Athletics",
         "id": "b5f644d44ec5ce81",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "🍎 Apple Cup Preview: Who Wins WSU vs Washington? | Palouse Playbook x Locked On Huskies",
@@ -6808,8 +6247,7 @@
         "id": "b800cf42a5628720",
         "extent": "26 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "THE PALOUSE REPORT: First Week of College Football! WE ARE BACK!",
@@ -6824,8 +6262,7 @@
         "id": "1ea49185d3164961",
         "extent": "8 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Will the Apple Cup survive? It’s complicated for Washington, WSU",
@@ -6839,8 +6276,7 @@
         "source": "The Seattle Times",
         "id": "82d2306a93b1a6ae",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Bill Doba, beloved WSU football coach, dies at 85",
@@ -6854,8 +6290,7 @@
         "source": "The Seattle Times",
         "id": "8d08de35794b7b35",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Former Cougar Football Coach Bill Doba Passes Away",
@@ -6869,8 +6304,7 @@
         "source": "Washington State Athletics",
         "id": "be73fecc318d9826",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Where Washington Huskies, WSU Cougars are projected to go bowling",
@@ -6884,8 +6318,7 @@
         "source": "The Seattle Times",
         "id": "a74c11be54daa984",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "4 strategic mistakes that caused the Pac-12 to implode | Analysis",
@@ -6899,8 +6332,7 @@
         "source": "The Seattle Times",
         "id": "c654e2a59d6943b1",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cougar Football Practice – Aug. 26",
@@ -6914,8 +6346,7 @@
         "source": "Washington State Athletics",
         "id": "1fce8dd9fe51e320",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Trent Bray | Matt Miller | Hutson III | Bakken | Post Practice Presser | 8/26/26",
@@ -6929,8 +6360,7 @@
         "source": "Washington State Athletics",
         "id": "dcef872dbc022774",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "How Caden Pinnick won WSU’s starting QB job: ‘a commander of the offense’",
@@ -6944,8 +6374,7 @@
         "source": "The Seattle Times",
         "id": "21bd86929edaaae9",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | Caden Pinnick | Nylan Brown | Post Practice Press Conference | 8/25/26",
@@ -6959,8 +6388,7 @@
         "source": "Washington State Athletics",
         "id": "1bd3c8a539913b4c",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougar Football Practice – Aug. 25",
@@ -6974,8 +6402,7 @@
         "source": "Washington State Athletics",
         "id": "f5c903146026b6e2",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Five things we learned from Washington State football’s fall camp",
@@ -6989,8 +6416,7 @@
         "source": "The Seattle Times",
         "id": "38fbd940001f183f",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU JUST NAMED ITS QB1… 👀 | Washington State Football",
@@ -7005,8 +6431,7 @@
         "id": "06fc67bd67edda38",
         "extent": "17 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "WSU Cougars name Caden Pinnick starting quarterback for 2026 season",
@@ -7020,8 +6445,7 @@
         "source": "The Seattle Times",
         "id": "55916ebb9d97e744",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | B. Ganashamoorthy | Jaylen Thomas | Fall Camp Press Conference | 8/23/26",
@@ -7035,8 +6459,7 @@
         "source": "Washington State Athletics",
         "id": "7aa9301cedcd651b",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Under the Lights",
@@ -7050,8 +6473,7 @@
         "source": "Washington State Athletics",
         "id": "2078969b610f3a27",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU to announce starting QB by Monday, coach Kirby Moore says",
@@ -7065,8 +6487,7 @@
         "source": "The Seattle Times",
         "id": "51377cdb7395cfd3",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Scrimmage 2",
@@ -7080,8 +6501,7 @@
         "source": "Washington State Athletics",
         "id": "6a289bb35f295e6c",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | Trent Bray | Matt Miller | Post Scrimmage Press Conference | 8/21/26",
@@ -7095,8 +6515,7 @@
         "source": "Washington State Athletics",
         "id": "e121973908cb0d24",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Ashton Tripp | Jirah Leaupepetele | Post Scrimmage Press Conference | 8/21/26",
@@ -7110,8 +6529,7 @@
         "source": "Washington State Athletics",
         "id": "ccf9d7efb898e94a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WBB Named to WBCA Honor Roll with Top-10 GPA in Nation",
@@ -7125,8 +6543,7 @@
         "source": "Washington State Athletics",
         "id": "5f11af55fecbeec2",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Where Washington State Cougars stand in Pac-12 football projections",
@@ -7140,8 +6557,7 @@
         "source": "The Seattle Times",
         "id": "5db6a9eed492bf86",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU's Defense Looks ELITE. Now It's Time for the Offense.",
@@ -7156,8 +6572,7 @@
         "id": "2bf513533bbcac70",
         "extent": "24 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Washington State football buttons up before final scrimmage this fall",
@@ -7171,8 +6586,7 @@
         "source": "The Seattle Times",
         "id": "393098510340d99d",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Practice 13",
@@ -7186,8 +6600,7 @@
         "source": "Washington State Athletics",
         "id": "b645870ecb61bda2",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Derek Sage | Stevens | Arenas | Dean | Fall Camp Press Conference | 8/20/26",
@@ -7201,8 +6614,7 @@
         "source": "Washington State Athletics",
         "id": "d24a8a66be4fc56d",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Jirah Leaupepetele Named to Polynesian College Football Player of the Year Watch List",
@@ -7216,8 +6628,7 @@
         "source": "Washington State Athletics",
         "id": "c6ebb20dfa3ed904",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU defense dominates again on Day 12 of fall camp",
@@ -7231,8 +6642,7 @@
         "source": "The Seattle Times",
         "id": "306a877cc3eedff4",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Practice 12",
@@ -7246,8 +6656,7 @@
         "source": "Washington State Athletics",
         "id": "09bc39f92ff977c1",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Jack Abercrombie | Isaiah Hung | Noah Dunham | Fall Camp Press Conference | 8/19/26",
@@ -7261,8 +6670,7 @@
         "source": "Washington State Athletics",
         "id": "20c9593a6f71faf5",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "BECU Inside WSU Athletics with Jon Haarlow | S2, E2 | Guests: Dustin White, Matt Gearheart",
@@ -7277,8 +6685,7 @@
         "id": "007958b7c66fcaf8",
         "extent": "31 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougar Football Preseason Camp – Day 11",
@@ -7292,8 +6699,7 @@
         "source": "Washington State Athletics",
         "id": "ac8456d52da38425",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Burns | Hawkins | Tucker | Bernard | Fall Camp Press Conference | 8/18/26",
@@ -7307,8 +6713,7 @@
         "source": "Washington State Athletics",
         "id": "5ccc0676c959844f",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Day 10",
@@ -7322,8 +6727,7 @@
         "source": "Washington State Athletics",
         "id": "0ed02bc20b0aae06",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | Leo Pulalasi | Ben Beatty | Fall Camp Press Conference | 8/17/26",
@@ -7337,8 +6741,7 @@
         "source": "Washington State Athletics",
         "id": "27e587fc29d486dc",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougar Men to Face Seattle U at Seattle Holiday Classic in December",
@@ -7352,8 +6755,7 @@
         "source": "Washington State Athletics",
         "id": "48502027d9be487d",
         "sport": "mbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU hoops to meet Seattle U at Seattle Holiday Classic in December",
@@ -7367,8 +6769,7 @@
         "source": "The Spokesman-Review",
         "id": "9d754c5c84129dca",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | Trent Bray | Matt Miller | Post Scrimmage Press Conference | 8/15/26",
@@ -7382,8 +6783,7 @@
         "source": "Washington State Athletics",
         "id": "fa03d437856dd1cd",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Scrimmage",
@@ -7397,8 +6797,7 @@
         "source": "Washington State Athletics",
         "id": "568d43891781040a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Zunk | Tripp | Clemons | McLain | Post Scrimmage Press Conference | 8/15/26",
@@ -7412,8 +6811,7 @@
         "source": "Washington State Athletics",
         "id": "653a444d41e08ea7",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Day 8",
@@ -7427,8 +6825,7 @@
         "source": "Washington State Athletics",
         "id": "3709fecd3aecbcb6",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore joins The Jim Rome Show | 8/14/26",
@@ -7442,8 +6839,7 @@
         "source": "Washington State Athletics",
         "id": "9ff0bcb6e59a44e4",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Thompson | Cato | Blood | Warner | Fall Camp Press Conference | 8/14/26",
@@ -7457,8 +6853,7 @@
         "source": "Washington State Athletics",
         "id": "3c35291d28fee23a",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Coach Kirby Moore Is Setting a New Standard at Washington State",
@@ -7473,8 +6868,7 @@
         "id": "887a1714ee3c7353",
         "extent": "26 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougar Football Preseason Camp – Day 7",
@@ -7488,8 +6882,7 @@
         "source": "Washington State Athletics",
         "id": "e55ffa60695a31a7",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Ena | Green | Leaupepetele | Woods | Fall Camp Press Conference | 8/13/26",
@@ -7503,8 +6896,7 @@
         "source": "Washington State Athletics",
         "id": "c724ba1589115231",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Day 6",
@@ -7518,8 +6910,7 @@
         "source": "Washington State Athletics",
         "id": "32dd427bfe63002d",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | Ashton Tripp | Jeremiah Bernard | Fall Camp Press Conference | 8/12/26",
@@ -7533,8 +6924,7 @@
         "source": "Washington State Athletics",
         "id": "24c9f69aaf798dc2",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Inside WSU Athletics Podcast with Jon Haarlow (Guest: Chris Citowicki) 8-12-26",
@@ -7549,8 +6939,7 @@
         "id": "06dd1c3f399ab1f5",
         "extent": "34 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougar Football Preseason Camp – Day 5",
@@ -7564,8 +6953,7 @@
         "source": "Washington State Athletics",
         "id": "3addedcb616ec99c",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Browning | Abercrombie | Ganashamoorthy | Zunk | Fall Camp Press Conference | 8/11/26",
@@ -7579,8 +6967,7 @@
         "source": "Washington State Athletics",
         "id": "54202c9b4fa0b89f",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Day 4",
@@ -7594,8 +6981,7 @@
         "source": "Washington State Athletics",
         "id": "9da9297c8ffa990c",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Derek Sage | Greg Burns | Smith | Pedersen | Fall Camp Press Conference | 8/10/26",
@@ -7609,8 +6995,7 @@
         "source": "Washington State Athletics",
         "id": "fd0d48128ab3c83e",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Is Airing It Out Again? QB Battle Heats Up + Fall Camp Standouts | Washington State Football",
@@ -7625,8 +7010,7 @@
         "id": "aae32849f6643782",
         "extent": "19 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Cougar Football Preseason Camp – Day 3",
@@ -7640,8 +7024,7 @@
         "source": "Washington State Athletics",
         "id": "cb98150ecb51dc97",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | Keith Brown | Kyle Martin | Fall Camp Press Conference | 8/9/26",
@@ -7655,8 +7038,7 @@
         "source": "Washington State Athletics",
         "id": "f4d72b5d063e9942",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "Cougar Football Preseason Camp – Day 2",
@@ -7670,8 +7052,7 @@
         "source": "Washington State Athletics",
         "id": "593889c4fd9514ab",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore | Kirby Vorhees | Jaylen Thomas | Fall Camp Press Conference | 8/7/26",
@@ -7685,8 +7066,7 @@
         "source": "Washington State Athletics",
         "id": "a8628ca93fb64928",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU Football Practice Report: Day 1 Winners, QB Battle & O-Line Changes",
@@ -7701,8 +7081,7 @@
         "id": "06b9cb481cd60476",
         "extent": "25 min",
         "sport": "football",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Five Cougars Named to Pac-12 Preseason Impact List",
@@ -7716,8 +7095,7 @@
         "source": "Washington State Athletics",
         "id": "22838847b74c2a7c",
         "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "WSU'S NEXT STAR? Isaiah Hung Opens Up About His NFL Dreams & Coug Future",
@@ -7732,23 +7110,7 @@
         "id": "e072d48a93331424",
         "extent": "19 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
-      },
-      {
-        "title": "Cougar Football Preseason Camp – Day 1",
-        "link": "https://wsucougars.com/news/2026/08/6/cougar-football-preseason-camp-day-1cougar-football-preseason-camp-day-1",
-        "link_kind": "item",
-        "date": "2026-08-06T22:49:21+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "523c3e0af3486229",
-        "sport": "football",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "audio"
       },
       {
         "title": "WSU lands commitment from French big man Mohamed Sankhe, rounding out next roster",
@@ -7762,8 +7124,7 @@
         "source": "The Spokesman-Review",
         "id": "f8df3e9b2bd2973e",
         "sport": "all",
-        "medium": "text",
-        "weight": 1.15
+        "medium": "text"
       },
       {
         "title": "EXCLUSIVE: Hudson Cederland on WSU's New Era, Tight End Evolution & Fall Camp",
@@ -7778,8 +7139,7 @@
         "id": "13d083a7fa9dd902",
         "extent": "18 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       },
       {
         "title": "Women’s Basketball Unveils 2026-27 Non-Conference Slate",
@@ -7793,8 +7153,7 @@
         "source": "Washington State Athletics",
         "id": "49289d7f7001baee",
         "sport": "wbb",
-        "medium": "text",
-        "weight": 1.0
+        "medium": "text"
       },
       {
         "title": "EXCLUSIVE: Kaden Beatty Sounds OFF on Apple Cup, Coach Bray & WSU's 2026 Defense",
@@ -7809,8 +7168,7 @@
         "id": "8835aca4ae4d50ab",
         "extent": "29 min",
         "sport": "all",
-        "medium": "audio",
-        "weight": 1.15
+        "medium": "audio"
       }
     ]
   }
