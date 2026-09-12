@@ -4,7 +4,6 @@
   "refresh_schedule_pacific": ["06:00", "18:00"],
   "max_item_age_days": 45,
   "snippet_max_chars": 200,
-  "top_stories_per_team": 3,
   "team_page_visible": 5,
   "teams": [
     {
@@ -238,8 +237,8 @@
       "team": "Gonzaga",
       "sport": "all",
       "source": "The Spokesman-Review",
-      "url": "https://www.spokesman.com/feeds/stories/gonzaga-basketball/",
-      "weight": 1.15
+      "url": "https://www.spokesman.com/feeds/stories/gonzaga-basketball/"
+
     },
     {
       "team": "Oregon State",
@@ -263,8 +262,8 @@
       "team": "Oregon State",
       "sport": "all",
       "source": "The Oregonian",
-      "url": "https://www.oregonlive.com/arc/outboundfeeds/rss/category/beavers/?outputType=xml",
-      "weight": 1.15
+      "url": "https://www.oregonlive.com/arc/outboundfeeds/rss/category/beavers/?outputType=xml"
+
     },
     {
       "team": "San Diego State",
@@ -342,36 +341,35 @@
       "team": "Washington State",
       "sport": "football",
       "source": "The Spokesman-Review",
-      "url": "https://www.spokesman.com/feeds/stories/wsu-football/",
-      "weight": 1.15
+      "url": "https://www.spokesman.com/feeds/stories/wsu-football/"
+
     },
     {
       "team": "Washington State",
       "sport": "all",
       "source": "The Spokesman-Review",
-      "url": "https://www.spokesman.com/feeds/stories/wsu-basketball/",
-      "weight": 1.15
+      "url": "https://www.spokesman.com/feeds/stories/wsu-basketball/"
+
     },
     {
       "team": "Gonzaga",
       "sport": "wbb",
       "source": "The Spokesman-Review",
-      "url": "https://www.spokesman.com/feeds/stories/gonzaga-womens-basketball/",
-      "weight": 1.15
+      "url": "https://www.spokesman.com/feeds/stories/gonzaga-womens-basketball/"
+
     },
     {
       "team": "Boise State",
       "sport": "all",
       "source": "First Kick Was Good",
-      "url": "https://firstkickwasgood.com/feed/",
-      "weight": 1.15
+      "url": "https://firstkickwasgood.com/feed/"
+
     },
     {
       "team": "Boise State",
       "sport": "all",
       "source": "The Arbiter",
       "url": "https://arbiteronline.com/category/sports/feed/",
-      "weight": 1.15,
       "topic_scope": "athletics-wide"
     },
     {
@@ -379,7 +377,6 @@
       "sport": "all",
       "source": "The Red Wave Report",
       "url": "https://feed.podbean.com/redwavereport/feed.xml",
-      "weight": 1.15,
       "medium": "audio"
     },
     {
@@ -387,7 +384,6 @@
       "sport": "all",
       "source": "The Daily Aztec",
       "url": "https://thedailyaztec.com/category/sports/feed/",
-      "weight": 1.15,
       "topic_scope": "athletics-wide"
     },
     {
@@ -395,7 +391,6 @@
       "sport": "all",
       "source": "Sons of Montezuma",
       "url": "https://sonsofmontezuma.libsyn.com/rss",
-      "weight": 1.15,
       "medium": "audio"
     },
     {
@@ -403,7 +398,6 @@
       "sport": "all",
       "source": "The University Star",
       "url": "https://universitystar.com/category/sports/feed/",
-      "weight": 1.15,
       "topic_scope": "athletics-wide"
     },
     {
@@ -411,22 +405,20 @@
       "sport": "all",
       "source": "Palouse Playbook",
       "url": "https://anchor.fm/s/109676fec/podcast/rss",
-      "weight": 1.15,
       "medium": "audio"
     },
     {
       "team": "conference",
       "sport": "all",
       "source": "Mountain West Connection",
-      "url": "https://www.mwcconnection.com/rss/index.xml",
-      "weight": 1.15
+      "url": "https://www.mwcconnection.com/rss/index.xml"
+
     },
     {
       "team": "Utah State",
       "sport": "all",
       "source": "Cache Valley Daily",
       "url": "https://www.cachevalleydaily.com/search/?f=rss&t=article&c=sports&l=25&s=start_time&sd=desc",
-      "weight": 1.15,
       "topic_scope": "athletics-wide"
     },
     {
@@ -434,7 +426,6 @@
       "sport": "all",
       "source": "The Utah Statesman",
       "url": "https://usustatesman.com/category/sports/feed/",
-      "weight": 1.15,
       "topic_scope": "athletics-wide"
     },
     {
@@ -442,7 +433,6 @@
       "sport": "all",
       "source": "The Scotsman Show",
       "url": "https://anchor.fm/s/e344b1d0/podcast/rss",
-      "weight": 1.15,
       "medium": "audio"
     },
     {
@@ -450,22 +440,20 @@
       "sport": "all",
       "source": "RamNation Radio",
       "url": "https://feeds.simplecast.com/Bfmsmpq_",
-      "weight": 1.15,
       "medium": "audio"
     },
     {
       "team": "Fresno State",
       "sport": "all",
       "source": "YourCentralValley",
-      "url": "https://www.yourcentralvalley.com/bulldog-sports/feed/",
-      "weight": 1.15
+      "url": "https://www.yourcentralvalley.com/bulldog-sports/feed/"
+
     },
     {
       "team": "Fresno State",
       "sport": "all",
       "source": "The Collegian",
       "url": "https://fscollegian.com/category/sports/feed/",
-      "weight": 1.15,
       "topic_scope": "athletics-wide"
     },
     {
@@ -473,22 +461,20 @@
       "sport": "all",
       "source": "Beware of Bulldogs",
       "url": "https://anchor.fm/s/c17d534/podcast/rss",
-      "weight": 1.15,
       "medium": "audio"
     },
     {
       "team": "Washington State",
       "sport": "football",
       "source": "The Seattle Times",
-      "url": "https://www.seattletimes.com/sports/wsu-cougar-football/feed/",
-      "weight": 1.15
+      "url": "https://www.seattletimes.com/sports/wsu-cougar-football/feed/"
+
     },
     {
       "team": "Washington State",
       "sport": "all",
       "source": "The Daily Evergreen",
       "url": "https://dailyevergreen.com/category/sports/feed/",
-      "weight": 1.15,
       "topic_scope": "athletics-wide"
     },
     {
@@ -496,22 +482,20 @@
       "sport": "all",
       "source": "Podcast Vs. Everyone",
       "url": "https://feed.podbean.com/podcastvseveryone/feed.xml",
-      "weight": 1.15,
       "medium": "audio"
     },
     {
       "team": "Gonzaga",
       "sport": "all",
       "source": "House of Krause",
-      "url": "https://houseofkrause.substack.com/feed",
-      "weight": 1.15
+      "url": "https://houseofkrause.substack.com/feed"
+
     },
     {
       "team": "Gonzaga",
       "sport": "all",
       "source": "House of Krause",
       "url": "https://anchor.fm/s/7b659ca0/podcast/rss",
-      "weight": 1.15,
       "medium": "audio"
     },
     {
@@ -519,7 +503,6 @@
       "sport": "all",
       "source": "State of the Beavs",
       "url": "https://feeds.megaphone.fm/TDSPT5511450634",
-      "weight": 1.15,
       "medium": "audio",
       "channel_url": "https://cms.megaphone.fm/channel/TDSPT5511450634"
     },
@@ -528,7 +511,6 @@
       "sport": "all",
       "source": "Dam Podcast",
       "url": "https://rss.amperwave.net/v2/feed/audacynetwork/20f52ba94086c14292592cb2eca6bf26",
-      "weight": 1.15,
       "medium": "audio",
       "channel_url": "https://cms.megaphone.fm/channel/CAD1283298451"
     },
@@ -537,7 +519,6 @@
       "sport": "all",
       "source": "Washington State Cougars Podcast",
       "url": "https://rss.art19.com/wsu-coors-light-cougar-podcast",
-      "weight": 1.15,
       "medium": "audio",
       "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast"
     },
@@ -546,7 +527,6 @@
       "sport": "all",
       "source": "The Bronco Sports Podcast Network",
       "url": "https://rss.art19.com/the-bronco-sports-podcast-network",
-      "weight": 1.15,
       "medium": "audio",
       "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network"
     },
@@ -562,7 +542,6 @@
       "sport": "all",
       "source": "The Colorado State Insider",
       "url": "https://rss.art19.com/the-colorado-state-insider",
-      "weight": 1.15,
       "medium": "audio",
       "channel_url": "https://art19.com/shows/the-colorado-state-insider"
     },

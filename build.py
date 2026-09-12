@@ -360,7 +360,6 @@ def collect(cfg):
             declared = feed["sport"]
             it["sport"] = (detect_sport(it["title"]) or "all") if declared == "all" else declared
             it["medium"] = feed.get("medium", "text")
-            it["weight"] = feed.get("weight", 1.0)
             if athletics_wide and not on_topic(it, aliases):
                 rejected += 1
                 continue
@@ -416,65 +415,14 @@ def merge_cross_source(items):
     return kept
 
 
-def story_score(it, now):
-    """Fan-importance heuristic (roadmap: recency + source weight + coverage).
-    Coverage decays on a slower clock than recency so a story several outlets
-    covered stays on top for a day or two, not a week."""
-    if it["date"] is not None:
-        age_h = (now - it["date"]).total_seconds() / 3600
-    else:
-        age_h = 1080  # undated: rank as the oldest the 45-day window allows
-    extra_sources = min(len(it.get("also", [])), 2)
-    return (it.get("weight", 1.0) * 2 ** (-age_h / 36)
-            + 0.6 * extra_sources * 2 ** (-age_h / 72))
-
-
-def split_top(items, now, top_n):
-    """Return (top stories by score, the rest newest-first).
-    The leading top_n are always score-ordered — even when nothing folds —
-    so the visible order doesn't reshuffle the day an extra item arrives.
-    A one-item tail stays inline rather than folding into a stub."""
-    if top_n <= 0 or len(items) <= 1:
-        return items, []
-    ranked = sorted(items, key=lambda i: story_score(i, now), reverse=True)
-    top_ids = {id(i) for i in ranked[:top_n]}
-    rest = [i for i in items if id(i) not in top_ids]
-    if len(rest) < 2:
-        return ranked[:top_n] + rest, []
-    return ranked[:top_n], rest
-
-
-def select_for_page(items, cap, top_n, now):
-    """Cap a team's page items without letting the cap drop a top-ranked
-    story: the pinned top_n survive, the rest of the budget goes to the
-    newest. Input and output are newest-first."""
-    if len(items) <= cap:
-        return items
-    if top_n <= 0:
-        return items[:cap]
-    ranked = sorted(items, key=lambda i: story_score(i, now), reverse=True)
-    pinned = {id(i) for i in ranked[:top_n]}
-    rest = [i for i in items if id(i) not in pinned][:max(cap - len(pinned), 0)]
-    keep = pinned | {id(i) for i in rest}
-    return [i for i in items if id(i) in keep]
-
-
-def pick_lead(by_team, now):
-    """Choose the homepage lead story. Prefer a big (cross-source-merged)
-    story out of the conference feed; otherwise the top-scored/newest
-    conference item; if the conference feed produced nothing, fall back to
-    the highest-scored story anywhere. Returns (item, source) where source
-    is "conference" or a team name, or (None, None) if there's nothing."""
-    conf = by_team.get("conference", [])
-    if conf:
-        big = [it for it in conf if it.get("also")]
-        pool = big if big else conf
-        return max(pool, key=lambda it: story_score(it, now)), "conference"
-    candidates = [(team, it) for team, items in by_team.items() for it in items]
-    if not candidates:
-        return None, None
-    team, it = max(candidates, key=lambda pair: story_score(pair[1], now))
-    return it, team
+# Removed 2026-09-11 at the CEO's instruction: story_score, split_top,
+# select_for_page and pick_lead -- the ranking and top-stories machinery.
+# Generation 1 (2026-09-02) stopped calling all four when pagination replaced the
+# capped page, so they had been unreachable for nine days, and the per-source
+# "weight" they read was set on 30 of 61 feeds while affecting nothing.
+# Highlighting top stories may return as a visual idea; it is to be rethought
+# before any redesign, not resumed from here.
+# See projects/new-pac-city/work-curation-reconcile.md in the Studio repo.
 
 
 def slugify(name):
@@ -636,8 +584,9 @@ def follow_links(team):
 
 def render_homepage(cfg, by_team, now):
     # No ranked lead card (single-recency-stream, 2026-08-06): nothing here
-    # claims to be "the" story. pick_lead/render_lead_card stay defined,
-    # unused, so restoring one is a call-site change, not a rebuild.
+    # claims to be "the" story. render_lead_card stays defined and unused;
+    # pick_lead and its scoring were removed 2026-09-11, so restoring a ranked
+    # lead now means rewriting the ranking, not just a call site.
     teams = sorted(cfg["teams"], key=lambda t: t["name"])
     conf_rest = by_team.get("conference", [])
     tiles_html = "\n".join(render_tile(t, by_team.get(t["name"], []), now) for t in teams)
@@ -723,8 +672,9 @@ def render_team_page(team, items, cfg, now, watch=None):
     `team_page_visible` items render open; the rest sit behind a native
     <details> toggle, so the whole 45-day window ships in the page (cheap —
     it's text) without dumping it all on the reader at once. No JS.
-    split_top/render_team_sport_item stay defined, unused, for restoring
-    the ranked/sectioned layout later."""
+    render_team_sport_item stays defined and unused; split_top and its scoring
+    were removed 2026-09-11, so the ranked half of that layout would have to be
+    rewritten rather than re-called."""
     if not items:
         body = '<p class="empty">No recent news — check back soon.</p>'
     else:
@@ -1087,8 +1037,9 @@ h1 .nick { color: var(--s); }
 #   Halt 2: decisions/20260902-1154-generation-1s-arrangement-and-f838.md
 #
 # This replaces the nine-tile homepage and the <details> fold. render_homepage,
-# render_team_page and render_tile stay defined and unused — the same way
-# pick_lead and story_score do — so reverting is a call-site change.
+# render_team_page and render_tile stay defined and unused, so reverting the
+# LAYOUT is a call-site change. The ranking they could once draw on is gone:
+# pick_lead and story_score were removed 2026-09-11 at the CEO's instruction.
 #
 # Two rules govern everything here (spec 1), and both come from the CEO:
 #   R1  no layout may depend on a quantity     — legible at 3 items and 30,000
