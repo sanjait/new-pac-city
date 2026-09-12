@@ -3616,6 +3616,703 @@
       "extent": "3 min read",
       "lock": "paywall",
       "run": "run_2026-09-12-0109"
+    },
+    "0237518a8066b464": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is about a new pregame party launching at Fresno State's football home games this season.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The subject is a gameday entertainment event rather than the team itself, so whether to key it as football-specific or as the athletics department generally was a close call.",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "057bb4a2ca0b605a": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Framed explicitly as a preview of Washington State's next opponent, using a Q&A to prepare WSU fans for the Kansas State matchup.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Nearly all of the Q&A content describes Kansas State's roster rather than Washington State itself; only the framing ties it to WSU's upcoming game.",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "070fd7f17c2d9186": {
+      "subjects": {
+        "washington-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State soccer's upcoming match against Cal State Fullerton, covering recent form and the opponent.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ben Walker"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "0873ce027701e9f9": {
+      "subjects": {
+        "boise-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is about Boise State's student section leadership and its effort to boost attendance across the school's athletic events.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "0bdbbdacda08b3d4": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "fresno-state/football": "involves",
+        "colorado-state/football": "involves",
+        "utah-state/football": "involves",
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves",
+        "conference": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Utah",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "USC",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Washington",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "UCLA",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Arizona State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Arizona",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Cal",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Colorado",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Stanford",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A weekly bowl-projection roundup gives eight of the nine covered football schools each a dedicated comment alongside legacy Pac-12 schools, so the conference is a subject too.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The piece treats covered and non-covered (legacy Pac-12) schools identically, each getting one paragraph; whether that is 'about' or 'involves' for the covered schools, and whether the legacy schools belong in unrecognized at all given the guidance against opponent noise, is a close call.",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "0da0dd352d4de6c4": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Utah State football's Week 1 matchup by laying out the open questions about the offense, defense, and discipline.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jason Walker"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "11cb57668350fa0e": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish this as a preview of Utah State football's Week 2 game against Washington.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Jason Walker"
+      ],
+      "run": "run_2026-09-12-0307"
+    },
+    "1d497dfd0da1a423": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews what Washington State's offense needs to do to upset Kansas State, examining personnel and matchups.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-12-0307"
+    },
+    "2afa8492e5960ac3": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The entire profile is about Nevada running back Dominic Kelley, and Nevada is not one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "2c966d1bb4c71bfb": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State volleyball's weekend trip to face three opponents in Seattle, including the Apple Cup match.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "2d468f5ff6324f0c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The feature is entirely about San Jose State receiver Cooper Hoch, and San Jose State is not one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "52acc48552c4cd88": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Saturday's Boise State-Memphis football game, breaking down matchups and predicting a final score.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "572165d83623d6c1": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A keys-to-the-game preview of Washington State's matchup against Kansas State, covering matchups and injuries.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-12-0307"
+    },
+    "64ce9ae6db38b6e2": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish this as a preview of Oregon State's football game against Texas Tech.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-12-0307"
+    },
+    "66c1bd3000f8244b": {
+      "subjects": {
+        "utah-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a recap of Utah State soccer's 4-0 win over BYU; Utah State fields only a women's soccer program.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Jason Walker"
+      ],
+      "run": "run_2026-09-12-0307"
+    },
+    "6c3ff93c0b9b5c74": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A recurring opinion feature (\"Monday Cooldown\") arguing Mendenhall bears responsibility for Utah State's loss to Idaho State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jason Walker"
+      ],
+      "extent": "15 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "709714cc7a925065": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column is centered on Boise State quarterback Maddux Madsen's performance against Oregon and his outlook heading into the Memphis game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Aiden Petterson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "7a9dced847cf5b77": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The headline and summary establish that the segment is a debate specifically about Fresno State's quarterback play at USC.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-09-12-0307"
+    },
+    "832c7745c33405ae": {
+      "subjects": {
+        "utah-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish this ranks Utah State's own players for the 2026 season, which is athletics coverage even though the specific sport is not named.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Only the headline and one-line summary are available, and neither states which sport the rankings cover, so the department-level key is an inference rather than something stated outright.",
+      "byline": [
+        "Jason Walker"
+      ],
+      "run": "run_2026-09-12-0307"
+    },
+    "84a5389f0558381a": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Texas State women's soccer's 3-2 loss to Louisiana.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "8528338706d10d32": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A labeled prediction column (\"The pick\") arguing Kansas State will beat Washington State and why.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-12-0307"
+    },
+    "896011fb9b17d227": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Game-by-game preseason win/loss predictions for the entire Utah State football schedule.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jason Walker Eric Frandsen"
+      ],
+      "extent": "19 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "8af48ac8316312d3": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A season-opener preview of Utah State football's game against Idaho State, with keys, predictions, and viewing info.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jason Walker"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "8f00b5558e748402": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is about Boise State punter Oscar Doyle's charity pledge tied to his football performance this season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "9c938073884accd7": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece traces the 40-year history of Boise State's blue football turf and the commemorative helmet debuting at the football home opener.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "a6a38d76ac9320b5": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Fresno State's home-opener football game against Sacramento State, including starters and injury notes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "ac16940f7f5ecce1": {
+      "subjects": {
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Utah State's transfer-heavy roster and Week 1 loss to Idaho State anchor a dedicated case-study section within the broader piece on Week One upset trends.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Utah State gets a substantial dedicated passage but the piece's overall subject is nationwide FBS upset trends across many programs, so about vs. involves (and publish vs. drop) was a close call.",
+      "byline": [
+        "Toby McMahon"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "ad382aa914db7add": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The post lays out Boise State's depth chart and player pronunciations ahead of the Memphis football game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "b38230c8662a7365": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece is a sustained analytical argument about why Utah State QB McCae Hillstead struggled, built on film and quotes.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Could also read as a recap of the prior game rather than a column, since it dissects one contest in detail.",
+      "byline": [
+        "Jason Walker"
+      ],
+      "extent": "14 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "be56c06c8c887238": {
+      "subjects": {
+        "utah-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text is a game recap of Utah State soccer's 4-0 win over BYU, with Utah State the subject throughout.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "23 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "c34893d87465da9e": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The analysis is entirely about Air Force football's roster and upcoming game against North Dakota State, and Air Force is not one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sean OToole"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "c9e17a2643c303ab": {
+      "subjects": {
+        "oregon-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Oregon State women's soccer's 4-0 loss to Seattle University.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Shayna Boettner"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "ceac909d02811156": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Rice",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Nebraska",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is a historical retrospective centered on Rice and Nebraska's 2001 game; Boise State and Fresno State appear only in one passing anecdote about a different, later game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "6 min read",
+      "lock": "free",
+      "run": "run_2026-09-12-0307"
+    },
+    "d597d93551b2cd55": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece analyzes takeaways from Texas State football's loss to Texas, covering the quarterback, offense, defense, and kicking game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "d984dbfb34c42791": {
+      "subjects": {
+        "utah-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Utah State renaming its football stadium for the Laub family, an athletics-facility story about the department.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Eric Frandsen"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "e2b3dc976638ba8d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary establishes a Texas Tech reporter's prediction for the upcoming Oregon State football game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-12-0307"
+    },
+    "efe41ed4cc96c241": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story recaps Texas State volleyball's three-set sweep of Stephen F. Austin.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rhianna Aleman"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "f90fa6b1be639089": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State football's road game at Kansas State, assessing what the Cougars must fix to win.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "f93d7d48a2352091": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The roundup surveys New Mexico, Nevada, North Dakota State, UNLV, San Jose State, Air Force, Wyoming, Hawaii, Northern Illinois, and UTEP, none of which are among the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "fd142078673c28b3": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece covers Fresno State women's volleyball's record and upcoming matches at the Ridge Invitational.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "ff5cdfbc24984e1a": {
+      "subjects": {
+        "conference": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The podcast episode covers personal power rankings and surprises for the Pac-12 alongside the Mountain West after Week 1.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The description is very short and gives no team-level specifics, so whether the Pac-12 portion rises to a recordable subject was a close call.",
+      "byline": [
+        "Derek Raridon",
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-12-0307"
+    },
+    "ff62affb4f1f9093": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The commentary is a personal essay about the reporter's own career and hometown, using the WSU-Kansas State assignment only as an occasion; it never substantively covers WSU or Kansas State athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-12-0307"
     }
   },
   "runs": {
@@ -3760,6 +4457,132 @@
       "wall_clock_prep_s": 377.34324539999943,
       "tokens": 509153,
       "tokens_source": "content-volume floor, measured 2026-09-11: bytes actually read (prompt+schema+registry per judge, plus batch views) and written, at 4 chars/token. Comparators: ~371k if one session read the preamble once (independent checker's figure: ~372k); 1,543,384 harness-reported across 10 subagents, which re-bills each context per turn and is ~3x the floor."
+    },
+    "run_2026-09-12-0307": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-12T03:00:57.735294+00:00",
+      "items": 42,
+      "verdict_counts": {
+        "publish": 36,
+        "drop": 6
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 4,
+        "Press Break": 1,
+        "The Spokesman-Review": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        },
+        "Cache Valley Daily": {
+          "429 — HTTP 429": 3
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        },
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "Utah",
+          "kind": "not-ours"
+        },
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "USC",
+          "kind": "not-ours"
+        },
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "Washington",
+          "kind": "not-ours"
+        },
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "UCLA",
+          "kind": "not-ours"
+        },
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "Arizona State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "Arizona",
+          "kind": "not-ours"
+        },
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "Cal",
+          "kind": "not-ours"
+        },
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "Colorado",
+          "kind": "not-ours"
+        },
+        {
+          "id": "0bdbbdacda08b3d4",
+          "source": "The Seattle Times",
+          "phrase": "Stanford",
+          "kind": "not-ours"
+        },
+        {
+          "id": "2afa8492e5960ac3",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "id": "2d468f5ff6324f0c",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c34893d87465da9e",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "ceac909d02811156",
+          "source": "Press Break",
+          "phrase": "Rice",
+          "kind": "not-ours"
+        },
+        {
+          "id": "ceac909d02811156",
+          "source": "Press Break",
+          "phrase": "Nebraska",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 82.87403570000606,
+      "tokens": 275298,
+      "tokens_source": "content floor for this run, measured: 2 judge agents, each reading the v4 prompt (~4,100 tokens) plus its batch view; views 271,362 chars total; verdicts written 12,000 chars; at 4 chars/token. Harness-reported for the two agents: 275,298 combined, which re-bills context per turn."
     }
   }
 }
