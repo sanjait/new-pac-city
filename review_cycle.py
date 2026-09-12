@@ -260,10 +260,40 @@ def prepare_body():
     print("3. Once every out-NN.json above exists, run:  python3 review_cycle.py finish")
 
 
+def archive_prior_run(work_dir):
+    """Move a previous run's batch/view/out files aside before writing new
+    ones, and say where they went.
+
+    **Found in the attended run, 2026-09-11, and it is the sharpest defect
+    that run turned up.** `prepare` wrote fresh batch-01/02 and view-01/02
+    beside TEN stale out-NN.json files from an earlier pass. Two things then
+    went wrong at once: the judge assigned batch 02 found its output path
+    already holding 24 verdicts for somebody else's items (it refused to
+    overwrite them, correctly, and stopped), and `finish` would have fed the
+    eight leftover out-files to the merge — harmless this once, because those
+    rows were already in verdicts.json and the merge appends, but a stale
+    verdict re-merged is exactly the drift this design exists to prevent.
+
+    Archive rather than delete: the files are a run's evidence."""
+    stamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+    stale = sorted(p for pattern in ("batch-*.json", "view-*.txt", "out-*.json")
+                   for p in work_dir.glob(pattern))
+    if not stale:
+        return None
+    dest = work_dir / "prior" / stamp
+    dest.mkdir(parents=True, exist_ok=True)
+    for p in stale:
+        p.rename(dest / p.name)
+    print("Archived %d file(s) from a previous run to %s" % (len(stale), dest))
+    print()
+    return dest
+
+
 def cmd_prepare(args):
     branch = sync_with_origin(review.HERE)
     print("Branch %r level with origin/%s." % (branch, SITE_BRANCH))
     print()
+    archive_prior_run(review.REVIEW_WORK)
     prepare_body()
 
 

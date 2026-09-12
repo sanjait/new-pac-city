@@ -430,6 +430,34 @@ def test_sync_with_origin_refuses_a_diverged_branch_never_forcing():
     print("PASS: test_sync_with_origin_refuses_a_diverged_branch_never_forcing")
 
 
+
+def test_archive_prior_run_moves_stale_batches_views_and_outs():
+    """The attended run's sharpest finding: fresh batches written beside a
+    previous run's out-NN.json files sent one judge to a path already holding
+    24 of someone else's verdicts, and would have fed eight stale out-files to
+    the merge."""
+    with tempfile.TemporaryDirectory() as tmp:
+        work = Path(tmp) / "review-work"
+        work.mkdir()
+        for name in ("batch-01.json", "batch-02.json", "view-01.txt",
+                     "out-01.json", "out-07.json", "out-10.json"):
+            (work / name).write_text("{}", encoding="utf-8")
+        (work / "hidden-if-live.md").write_text("keep me", encoding="utf-8")
+
+        dest = review_cycle.archive_prior_run(work)
+
+        assert dest is not None and dest.exists(), "an archive directory must be created"
+        assert not list(work.glob("out-*.json")), "no stale out file may survive in place"
+        assert not list(work.glob("batch-*.json")), "no stale batch may survive in place"
+        assert not list(work.glob("view-*.txt")), "no stale view may survive in place"
+        assert {p.name for p in dest.iterdir()} == {
+            "batch-01.json", "batch-02.json", "view-01.txt",
+            "out-01.json", "out-07.json", "out-10.json"}, "archive must hold exactly the stale files"
+        assert (work / "hidden-if-live.md").read_text(encoding="utf-8") == "keep me",             "reports are not a previous run's inputs and must not be archived"
+        assert review_cycle.archive_prior_run(work) is None,             "a clean work directory archives nothing"
+    print("PASS: test_archive_prior_run_moves_stale_batches_views_and_outs")
+
+
 def main():
     tests = [
         test_prepare_with_everything_judged_writes_no_batch,
@@ -440,6 +468,7 @@ def main():
         test_finish_twice_in_a_row_is_a_noop_the_second_time,
         test_finish_refuses_to_push_when_unrelated_file_is_dirty,
         test_finish_does_not_refuse_when_only_verdicts_json_is_dirty,
+        test_archive_prior_run_moves_stale_batches_views_and_outs,
         test_sync_with_origin_fast_forwards_a_clean_behind_branch,
         test_sync_with_origin_refuses_a_dirty_tree,
         test_sync_with_origin_refuses_a_diverged_branch_never_forcing,
