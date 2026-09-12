@@ -105,24 +105,34 @@ def _porcelain_paths(repo):
             if ln.strip()]
 
 
+SITE_BRANCH = "main"
+
+
 def sync_with_origin(repo):
-    """Bring `repo`'s current branch level with its own remote tracking
-    branch. Fetches, then fast-forwards ONLY — never `reset --hard`, never
-    `push --force`. A dirty tree or a history that has diverged (this
-    branch carries a commit origin does not, and origin has moved too) is
-    refused rather than resolved by discarding anything; the caller is told
-    exactly what stood in the way. Returns the branch name."""
+    """Bring `repo` level with the branch the SITE publishes from — `main` —
+    whatever the local branch is called. Fetches, then fast-forwards ONLY:
+    never `reset --hard`, never `push --force`. A dirty tree, or a history
+    that has genuinely diverged, is refused rather than resolved by
+    discarding anything, and the caller is told what stood in the way.
+    Returns the local branch name.
+
+    **Why `main` and not the local branch's own remote** (found in the
+    attended run, 2026-09-11): the reviewer's input is the story list the
+    site publishes, which only ever lives on `main`. A local staging branch
+    may have no remote at all — `review-activation` never did, because its
+    work reaches the site as `push HEAD:main` — and syncing against
+    `origin/<local branch>` failed on the first real invocation."""
     dirty = _porcelain_paths(repo)
     if dirty:
         raise RuntimeError("working tree is not clean, refusing to sync: %s" % ", ".join(dirty))
 
     git(repo, "fetch", "origin")
     branch = git(repo, "rev-parse", "--abbrev-ref", "HEAD")
-    remote_ref = "origin/%s" % branch
+    remote_ref = "origin/%s" % SITE_BRANCH
     try:
         git(repo, "rev-parse", "--verify", remote_ref)
     except RuntimeError:
-        raise RuntimeError("no %s to sync against (has it ever been pushed?)" % remote_ref)
+        raise RuntimeError("no %s to sync against — the site's branch is missing" % remote_ref)
 
     try:
         git(repo, "merge", "--ff-only", remote_ref)
@@ -252,7 +262,7 @@ def prepare_body():
 
 def cmd_prepare(args):
     branch = sync_with_origin(review.HERE)
-    print("Branch %r level with origin/%s." % (branch, branch))
+    print("Branch %r level with origin/%s." % (branch, SITE_BRANCH))
     print()
     prepare_body()
 
@@ -418,11 +428,14 @@ def _push_if_ahead(repo, branch):
     nothing new to merge." Without this second case, a failed push would
     never be retried: `finish` would see no new rows, commit nothing, and
     quietly leave an already-committed run stuck local-only forever."""
-    ahead = git(repo, "rev-list", "--count", "origin/%s..HEAD" % branch)
+    ahead = git(repo, "rev-list", "--count", "origin/%s..HEAD" % SITE_BRANCH)
     if ahead != "0":
-        git(repo, "push", "origin", branch)
+        # HEAD:main, not branch:branch — the site publishes from `main` and a
+        # local staging branch may have no remote of its own. Same reason
+        # sync_with_origin() reads origin/main. (Attended run, 2026-09-11.)
+        git(repo, "push", "origin", "HEAD:%s" % SITE_BRANCH)
         print()
-        print("Pushed to origin/%s." % branch)
+        print("Pushed to origin/%s." % SITE_BRANCH)
     else:
         print()
         print("Nothing to push.")
