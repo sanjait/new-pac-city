@@ -58,12 +58,20 @@ def test_apply_hiding_removes_exactly_the_drop_hold_ids():
     by_team, verdicts, matched, unmatched = _load_by_team_with_real_verdicts()
     assert matched > 0, "the real verdicts.json must match items in the real story list"
 
-    expected_hidden_ids = {item_id for item_id, v in verdicts.items()
-                            if v.get("verdict") in ("drop", "hold")}
-    assert expected_hidden_ids, "the real verdicts.json is expected to carry drop/hold rows"
+    excluded_ids = {item_id for item_id, v in verdicts.items()
+                    if v.get("verdict") in ("drop", "hold")}
+    assert excluded_ids, "the real verdicts.json is expected to carry drop/hold rows"
 
     before = _class_counts(by_team)
     ids_before = {it["id"] for items in by_team.values() for it in items}
+
+    # Only excluded items the story list STILL carries can be hidden. The list
+    # is a rolling window and the verdict log is append-only, so verdicts
+    # outlive the items they judged -- on the first fresher list this test met,
+    # 31 of 232 verdicts had aged out and 3 of 13 exclusions with them.
+    # Asserting a hard 13 tested the date, not the code.
+    expected_hidden_ids = excluded_ids & ids_before
+    assert expected_hidden_ids, "no excluded item is still in the window; nothing to test"
 
     hidden = build.apply_hiding(by_team)
 
