@@ -80,11 +80,9 @@ def test_merge_excludes_malformed_rows_without_dropping_good_rows():
                 "reason": "About the rowing program.", "evidence_basis": "title+summary",
             },
             "good-2": {
-                # A category drop on a headline alone -- still flagged by our
-                # conservative title-only proxy (see review.py's note), so
-                # this is deliberately NOT included as a "good" row here;
-                # it exists to prove the proxy fires rather than silently
-                # passing every title-only drop.
+                # v4: a category drop resting on title-only evidence is a
+                # WARNING, not an exclusion -- the row is kept as judged
+                # (work-verdict-schema.md §5, "no lean in either direction").
                 "subjects": {}, "unrecognized": [], "kind": "news",
                 "verdict": "drop", "reason": "Season tickets on sale now.",
                 "evidence_basis": "title-only",
@@ -96,16 +94,20 @@ def test_merge_excludes_malformed_rows_without_dropping_good_rows():
         out_path = Path(tmp) / "out-01.json"
         out_path.write_text(json.dumps(verdicts_payload), encoding="utf-8")
 
-        good, bad = review.merge_outputs([out_path], batches_by_id, registry_keys)
+        good, bad, warnings = review.merge_outputs([out_path], batches_by_id, registry_keys)
 
     assert "good-1" in good, "the one fully valid row must survive"
     assert good["good-1"]["byline"] == ["Jane Smith"], "computed byline must be attached"
     assert good["good-1"]["extent"] == "4 min read", "computed extent must be attached"
 
     bad_ids = {item_id for item_id, _ in bad}
-    assert bad_ids == {"bad-verdict", "bad-reason", "bad-subject", "good-2"}, \
-        "every malformed or mechanically-flagged row must be excluded, and nothing else: %r" % bad_ids
-    assert len(good) == 1, "a bad row must never remove a good one from the merge"
+    assert bad_ids == {"bad-verdict", "bad-reason", "bad-subject"}, \
+        "only a row whose verdict cannot be trusted may be excluded: %r" % bad_ids
+    assert len(good) == 2, "good-2's title-only drop must be KEPT, with a warning, under v4"
+    assert "good-2" in good
+
+    warning_ids = {w["id"] for w in warnings}
+    assert "good-2" in warning_ids, "the title-only drop must produce a warning"
     print("PASS: test_merge_excludes_malformed_rows_without_dropping_good_rows")
 
 
@@ -129,8 +131,9 @@ def test_verdicts_json_read_by_build_and_ids_match():
     with tempfile.TemporaryDirectory() as tmp:
         out_path = Path(tmp) / "out-01.json"
         out_path.write_text(json.dumps(verdicts_payload), encoding="utf-8")
-        good, bad = review.merge_outputs([out_path], batches_by_id, registry_keys)
+        good, bad, warnings = review.merge_outputs([out_path], batches_by_id, registry_keys)
         assert not bad, "this row is well-formed and must not be excluded: %r" % bad
+        assert not warnings, "this row is well-formed and must not carry any warning: %r" % warnings
 
         run_id = "run_2026-09-11-0000"
         good["item-a"]["run"] = run_id
@@ -151,6 +154,172 @@ def test_verdicts_json_read_by_build_and_ids_match():
         assert by_team["conference"][0]["verdict"]["verdict"] == "publish"
         assert "verdict" not in by_team["conference"][1]
     print("PASS: test_verdicts_json_read_by_build_and_ids_match")
+
+
+def test_unrecognized_object_shape_splits_into_two_kinds():
+    registry_keys = {"oregon-state/football"}
+    batches_by_id = {
+        "item-a": _batch_entry("item-a", evidence_basis="title+summary"),
+    }
+    verdicts_payload = {
+        "verdicts": {
+            "item-a": {
+                "subjects": {"oregon-state/football": "about"},
+                "unrecognized": [
+                    {"phrase": "Houston Cougars", "kind": "not-ours"},
+                    {"phrase": "club hockey", "kind": "unlisted-program"},
+                ],
+                "kind": "news", "verdict": "publish",
+                "reason": "Names a rival and an unlisted club team in passing.",
+                "evidence_basis": "title+summary",
+            },
+        }
+    }
+    with tempfile.TemporaryDirectory() as tmp:
+        out_path = Path(tmp) / "out-01.json"
+        out_path.write_text(json.dumps(verdicts_payload), encoding="utf-8")
+        good, bad, warnings = review.merge_outputs([out_path], batches_by_id, registry_keys)
+
+    assert not bad and not warnings, "a well-formed object-shaped unrecognized list must not fault"
+    kinds = {u["phrase"]: u["kind"] for u in good["item-a"]["unrecognized"]}
+    assert kinds == {"Houston Cougars": "not-ours", "club hockey": "unlisted-program"}
+    print("PASS: test_unrecognized_object_shape_splits_into_two_kinds")
+
+
+def test_unrecognized_bare_string_keeps_row_with_warning():
+    registry_keys = {"oregon-state/football"}
+    batches_by_id = {
+        "item-a": _batch_entry("item-a", evidence_basis="title+summary"),
+    }
+    verdicts_payload = {
+        "verdicts": {
+            "item-a": {
+                "subjects": {"oregon-state/football": "about"},
+                "unrecognized": ["Houston Cougars"],  # v3-style bare string
+                "kind": "news", "verdict": "publish",
+                "reason": "Names a rival program in passing.",
+                "evidence_basis": "title+summary",
+            },
+        }
+    }
+    with tempfile.TemporaryDirectory() as tmp:
+        out_path = Path(tmp) / "out-01.json"
+        out_path.write_text(json.dumps(verdicts_payload), encoding="utf-8")
+        good, bad, warnings = review.merge_outputs([out_path], batches_by_id, registry_keys)
+
+    assert not bad, "a bare-string unrecognized entry must never invalidate the row: %r" % bad
+    assert "item-a" in good
+    assert good["item-a"]["unrecognized"] == [{"phrase": "Houston Cougars", "kind": None}], \
+        "the bare string is kept, kind unknown: %r" % good["item-a"]["unrecognized"]
+    assert any(w["id"] == "item-a" for w in warnings), "a warning must be recorded for the bare string"
+    print("PASS: test_unrecognized_bare_string_keeps_row_with_warning")
+
+
+def test_ambiguous_collected_into_sweep_record():
+    registry_keys = {"oregon-state/football"}
+    batches_by_id = {
+        "item-a": _batch_entry("item-a", source="Test Source", title="Close call headline",
+                                evidence_basis="title+summary"),
+        "item-b": _batch_entry("item-b", source="Test Source", title="Plain headline",
+                                evidence_basis="title+summary"),
+    }
+    good = {
+        "item-a": {"verdict": "publish", "ambiguous": "The subject's sport was not stated outright."},
+        "item-b": {"verdict": "publish"},  # no ambiguous field -- must be left untouched
+    }
+    md, data = review.build_sweep(good, batches_by_id, "run_test")
+
+    assert "item-a" in data["ambiguous_by_source"]["Test Source"][0]["id"] or \
+        any(r["id"] == "item-a" for r in data["ambiguous_by_source"]["Test Source"])
+    assert list(data["ambiguous_by_source"].keys()) == ["Test Source"]
+    assert len(data["ambiguous_by_source"]["Test Source"]) == 1, \
+        "a row without ambiguous must not appear in the sweep"
+    assert "Close call headline" in md
+    assert "Plain headline" not in md
+    print("PASS: test_ambiguous_collected_into_sweep_record")
+
+
+def test_drop_on_title_only_kept_with_warning():
+    registry_keys = {"oregon-state/football"}
+    batches_by_id = {
+        "item-a": _batch_entry("item-a", evidence_basis="title-only"),
+    }
+    verdicts_payload = {
+        "verdicts": {
+            "item-a": {
+                "subjects": {}, "unrecognized": [], "kind": "news",
+                "verdict": "drop", "reason": "The headline names a campus obituary, not athletics.",
+                "evidence_basis": "title-only",
+            },
+        }
+    }
+    with tempfile.TemporaryDirectory() as tmp:
+        out_path = Path(tmp) / "out-01.json"
+        out_path.write_text(json.dumps(verdicts_payload), encoding="utf-8")
+        good, bad, warnings = review.merge_outputs([out_path], batches_by_id, registry_keys)
+
+    assert not bad, "a title-only drop must be kept, not excluded, under v4: %r" % bad
+    assert "item-a" in good and good["item-a"]["verdict"] == "drop"
+    assert any(w["id"] == "item-a" for w in warnings)
+    print("PASS: test_drop_on_title_only_kept_with_warning")
+
+
+def test_bad_verdict_or_unknown_subject_still_excluded():
+    registry_keys = {"oregon-state/football"}
+    batches_by_id = {
+        "bad-verdict": _batch_entry("bad-verdict", evidence_basis="title+summary"),
+        "bad-subject": _batch_entry("bad-subject", evidence_basis="title+summary"),
+    }
+    verdicts_payload = {
+        "verdicts": {
+            "bad-verdict": {
+                "subjects": {}, "unrecognized": [], "kind": "news",
+                "verdict": "unsure",  # invalid
+                "reason": "Something.", "evidence_basis": "title+summary",
+            },
+            "bad-subject": {
+                "subjects": {"oregon-state/rowing": "about"},  # not in registry
+                "unrecognized": [], "kind": "news", "verdict": "publish",
+                "reason": "About rowing.", "evidence_basis": "title+summary",
+            },
+        }
+    }
+    with tempfile.TemporaryDirectory() as tmp:
+        out_path = Path(tmp) / "out-01.json"
+        out_path.write_text(json.dumps(verdicts_payload), encoding="utf-8")
+        good, bad, warnings = review.merge_outputs([out_path], batches_by_id, registry_keys)
+
+    bad_ids = {item_id for item_id, _ in bad}
+    assert bad_ids == {"bad-verdict", "bad-subject"}
+    assert not good
+    print("PASS: test_bad_verdict_or_unknown_subject_still_excluded")
+
+
+def test_sweep_renders_both_headings_when_one_part_empty():
+    good = {
+        "item-a": {
+            "verdict": "publish",
+            "unrecognized": [{"phrase": "Houston Cougars", "kind": "not-ours"}],
+        },
+    }
+    batches_by_id = {
+        "item-a": _batch_entry("item-a", source="Test Source", title="A rival mentioned in passing"),
+    }
+    md, data = review.build_sweep(good, batches_by_id, "run_test")
+
+    assert "## Ambiguous items" in md
+    assert "## Unlisted names — worth adding? (`unlisted-program`)" in md
+    assert "## Unlisted names — simply not covered (`not-ours`)" in md
+    # The ambiguous and unlisted-program parts are empty -- each heading must
+    # still appear, with a one-line "None." rather than being omitted.
+    ambiguous_idx = md.index("## Ambiguous items")
+    unlisted_program_idx = md.index("## Unlisted names — worth adding?")
+    between = md[ambiguous_idx:unlisted_program_idx]
+    assert "None." in between
+    assert not data["ambiguous_by_source"]
+    assert not data["unlisted"]["unlisted-program"]
+    assert "Houston Cougars" in data["unlisted"]["not-ours"]
+    print("PASS: test_sweep_renders_both_headings_when_one_part_empty")
 
 
 def test_render_with_no_verdicts_is_byte_identical():
@@ -189,6 +358,12 @@ def main():
     tests = [
         test_merge_excludes_malformed_rows_without_dropping_good_rows,
         test_verdicts_json_read_by_build_and_ids_match,
+        test_unrecognized_object_shape_splits_into_two_kinds,
+        test_unrecognized_bare_string_keeps_row_with_warning,
+        test_ambiguous_collected_into_sweep_record,
+        test_drop_on_title_only_kept_with_warning,
+        test_bad_verdict_or_unknown_subject_still_excluded,
+        test_sweep_renders_both_headings_when_one_part_empty,
         test_render_with_no_verdicts_is_byte_identical,
     ]
     failures = 0
