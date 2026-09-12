@@ -15,6 +15,7 @@ on:
     branches: [main]
     paths:
       - story-list.json
+      - verdicts.json
   workflow_dispatch:
 
 permissions:

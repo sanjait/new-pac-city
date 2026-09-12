@@ -1934,6 +1934,71 @@ def merge_verdicts(by_team, verdicts):
     return len(seen), len(verdicts) - len(seen)
 
 
+# ------------------------------------------------------------- the class rule
+#
+# Reproduced verbatim from review.py's own `classify` (which states its own
+# provenance: plan-item-review.md SS2d and plan-schema-v3.md SS2d, "audio ->
+# `medium`; institutional -> source ends in 'Athletics' or is 'Pac-12
+# Conference'; independent text -> the rest"). Kept as a second, independent
+# copy on purpose rather than an import -- review.py already imports build,
+# so the reverse import would be circular -- but there is exactly one call
+# site for it inside this file (item_is_hidden, below), which is what "one
+# place, not scattered" actually buys: the render layer enforces the class
+# boundary itself rather than trusting what the reviewer file claims.
+
+def classify_for_hiding(item):
+    if item.get("medium") == "audio":
+        return "audio"
+    source = (item.get("source") or "").strip()
+    if source.endswith("Athletics") or source == "Pac-12 Conference":
+        return "institutional"
+    return "independent_text"
+
+
+def item_is_hidden(it):
+    """Should this item be withheld from every page?
+
+    Three rules, and all three matter:
+
+    * Only independent text is subject to hiding at all. An audio or
+      institutional item renders exactly as it does today even if a verdict
+      somehow names it -- the class test is re-applied here rather than
+      trusted from upstream, so the boundary holds even if the reviewer or
+      a hand-edited verdicts.json ever gets it wrong.
+    * A verdict of `drop` or `hold` hides. Anything else -- `publish`, an
+      unrecognised value, or a verdict record missing the field entirely --
+      shows.
+    * No verdict at all always shows. This is the strongest invariant in the
+      plan: a reviewer that never ran, or that failed, or that is mid-write,
+      must never empty the site. merge_verdicts only ever *adds* an
+      `it["verdict"]` key, so its absence here is exactly "nobody has judged
+      this item"."""
+    if classify_for_hiding(it) != "independent_text":
+        return False
+    v = it.get("verdict")
+    if not isinstance(v, dict):
+        return False
+    return v.get("verdict") in ("drop", "hold")
+
+
+def apply_hiding(by_team):
+    """Drop hidden items from every team's pool, in place. Returns the count
+    hidden, so callers can report it without a second pass over the data.
+
+    Runs immediately after merge_verdicts and before anything else touches
+    by_team -- pagination (items_for), the per-page cap, the school floor
+    (apply_floor) and every head/sitemap count downstream all see the
+    already-hidden pool, so none of them can advertise a story this function
+    removed. A hidden item is spliced out of its team's list entirely, so it
+    leaves no gap and no blank row anywhere it would have appeared."""
+    hidden = 0
+    for team, items in by_team.items():
+        kept = [it for it in items if not item_is_hidden(it)]
+        hidden += len(items) - len(kept)
+        by_team[team] = kept
+    return hidden
+
+
 def render(cfg, list_path, verdicts_path=None):
     """The render half: reads a story list and never touches the network."""
     by_team, now = read_story_list(list_path)
@@ -1943,6 +2008,10 @@ def render(cfg, list_path, verdicts_path=None):
     if matched or unmatched:
         print("Verdicts: %d matched, %d naming items this list does not carry."
               % (matched, unmatched))
+    hidden = apply_hiding(by_team)
+    if hidden:
+        print("Hidden: %d independent-text item%s withheld on a drop/hold verdict."
+              % (hidden, "" if hidden == 1 else "s"))
     total_items = sum(len(v) for v in by_team.values())
     if total_items == 0:
         print("ERROR: story list has no items; keeping the previous page.", file=sys.stderr)
