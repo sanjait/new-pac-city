@@ -4313,6 +4313,179 @@
       ],
       "extent": "8 min read",
       "run": "run_2026-09-12-0307"
+    },
+    "14a1c6472da65f4f": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A match report on Utah State's straight-sets loss to Utah, with the coach's remarks and the team's hitting numbers.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "28 min read",
+      "run": "run_2026-09-12-1851"
+    },
+    "1d2c41d73b2e03cb": {
+      "subjects": {
+        "conference": "about",
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "boise-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Eight of the nine schools each get a full week-two football preview with kickoff time, line and prediction.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-09-12-1851"
+    },
+    "4cf78c623b84fc14": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "conference": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Boise State's game against Oregon is worked through as the piece's central example of Group of Six playoff access, and the Pac-12 commissioner is quoted arguing for an access point.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The argument is about the Group of Six as a whole, so the covered programs carry real passages rather than being the frame of the piece.",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-12-1851"
+    },
+    "532de7db0c681ab8": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A set-by-set account of Texas State's five-set comeback win over UT Arlington.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Azul Rios"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-12-1851"
+    },
+    "78fa49f40f8339d2": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary states Oregon State hosts Texas Tech at Reser Stadium and gives the broadcast, which fixes both the program and that it is a football game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-12-1851"
+    },
+    "929d786fca36e761": {
+      "subjects": {
+        "utah-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The item reports the Aggies' 4-0 women's soccer win over BYU on Sept. 10.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Elise Gottling"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-12-1851"
+    },
+    "9da5e2cc339c9f48": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The roundup's own billing names Oregon State football as one of its segments alongside the week's other items.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The fetched page carries only navigation and comment boilerplate, so the call rests on the headline's list of segments rather than on the items themselves.",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-12-1851"
+    },
+    "bba358cba11a14f1": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Every game previewed is a Mountain West matchup between schools outside the nine; Colorado State appears only as last week's opponent in a one-line aside.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "A conference-slate piece that sits right beside the Pac-12 slate we do carry, and it names a covered program in passing without treating it.",
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-09-12-1851"
+    },
+    "de3614a1bd0bc412": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Hawai'i Warriors",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "New Mexico State Aggies",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The whole piece previews Hawaii against New Mexico State, and neither school is one of the nine.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-12-1851"
+    },
+    "ff4a765be527cc30": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Montana State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The scheduling dispute is between Nevada, Montana and Montana State, none of which is one of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-12-1851"
     }
   },
   "runs": {
@@ -4583,6 +4756,58 @@
       "wall_clock_prep_s": 82.87403570000606,
       "tokens": 275298,
       "tokens_source": "content floor for this run, measured: 2 judge agents, each reading the v4 prompt (~4,100 tokens) plus its batch view; views 271,362 chars total; verdicts written 12,000 chars; at 4 chars/token. Harness-reported for the two agents: 275,298 combined, which re-bills context per turn."
+    },
+    "run_2026-09-12-1851": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-12T17:45:11.280531+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 7,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "de3614a1bd0bc412",
+          "source": "Mountain West Connection",
+          "phrase": "Hawai'i Warriors",
+          "kind": "not-ours"
+        },
+        {
+          "id": "de3614a1bd0bc412",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico State Aggies",
+          "kind": "not-ours"
+        },
+        {
+          "id": "ff4a765be527cc30",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        },
+        {
+          "id": "ff4a765be527cc30",
+          "source": "Mountain West Connection",
+          "phrase": "Montana State",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 20.648588300013216,
+      "tokens": null,
+      "tokens_source": null
     }
   }
 }
