@@ -4654,6 +4654,248 @@
       "extent": "4 min read",
       "lock": "paywall",
       "run": "run_2026-09-13-0236"
+    },
+    "02cb008afc7c01ad": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Game report of Texas State football's home-opener loss to UTSA.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jackson Grettler"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-13-2033"
+    },
+    "056765dd27f9f1ac": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Post-game press conference with a running back, a linebacker and Coach Danielson, gathered by Boise sports media after the win over Memphis.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The body is almost all donation boilerplate and never names Boise State outright; the school rests on 'Boise Sports media' and the named coach and players.",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-13-2033"
+    },
+    "12c19b9ace96c2d1": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary describe Oregon State, a 25.5-point underdog, leading Texas Tech in the fourth quarter before losing 35-24, which establishes the program and its football.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-13-2033"
+    },
+    "35ac3df493e87074": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Every game listed is a Mountain West team outside the nine schools (UNLV, Wyoming, New Mexico, Air Force, Nevada and others), so no covered program is about or involved.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-13-2033"
+    },
+    "59959101921166d9": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary name Oregon State head coach JaMarcus Shephard's remarks after a loss to No. 13 Texas Tech, establishing the school and that it is athletics.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The sport is never named in the headline or summary, so the department key is used; whether that satisfies 'which covered program' is a judgment call.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-13-2033"
+    },
+    "5a09ae06dc0f0d87": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A labelled Bill Oram column arguing Oregon State Beavers football has turned the page.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Bill Oram"
+      ],
+      "run": "run_2026-09-13-2033"
+    },
+    "68d0dd79fee89d17": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Live-updates recap of Fresno State's 49-3 football win over Sacramento State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Josiah Poynter"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-13-2033"
+    },
+    "7163b26784a2f0e7": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Drive-by-drive recap of Boise State's football win over Memphis.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-13-2033"
+    },
+    "a2d8c040b8b34983": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary report Fresno State's 49-3 win over Sacramento State with quarterback and running back stats, establishing both the program and its athletics.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-13-2033"
+    },
+    "b2d91d4bdce25a64": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Post-game piece on Oregon State football's 35-24 loss to Texas Tech and the players' rejection of moral victories.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "James Crepea | The Oregonian/OregonLive"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-09-13-2033"
+    },
+    "b5db39f5baa958f3": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The opposing coach's remarks after beating Oregon State, with the game against the Beavers as the occasion; penalties, turnovers and a Week 3 matchup establish football.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The summary is about Texas Tech's own team, so Oregon State could be read as only the opponent's name in passing rather than figuring substantively.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-13-2033"
+    },
+    "bc0f8e74e3a38935": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Game report of Boise State's 38-20 football win over Memphis at Albertsons Stadium.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sports Team"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-13-2033"
+    },
+    "c610ddda139009de": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "hold",
+      "reason": "Headline and summary establish a football performance (240 yards in an FBS game) but never name which school Jesse Legree plays for, so the covered program is missing.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The link slug says 'oregon-states-problem-kid', but that is not headline or summary text under the no-full-text rule.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-13-2033"
+    },
+    "e08b68b2cf6e557f": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Takeaways from Oregon State's 35-24 loss to Texas Tech focused on the quarterback-receiver link in the Oregon State offense.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Bill Oram"
+      ],
+      "run": "run_2026-09-13-2033"
+    },
+    "e628e070ad407592": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Report of Oregon State football's 35-24 home loss to Texas Tech with coach and player quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Freeman"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-13-2033"
+    },
+    "f7af5f9c1ed0412a": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves",
+        "boise-state/football": "involves",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Week 2 slate of games with TV times for all eight Pac-12 football teams.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-13-2033"
     }
   },
   "runs": {
@@ -5001,6 +5243,38 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 23.470665100001497,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-13-2033": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-13T13:39:18.834352+00:00",
+      "items": 16,
+      "verdict_counts": {
+        "publish": 14,
+        "drop": 1,
+        "hold": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1,
+        "The Oregonian": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 6
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 37.4594192999939,
       "tokens": null,
       "tokens_source": null
     }
