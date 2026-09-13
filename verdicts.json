@@ -4486,6 +4486,174 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-09-12-1851"
+    },
+    "41e0778ddbb57109": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A Boise State vs Memphis game thread tracking Broncos touchdowns, quarterback Madsen and the 38-20 win.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-13-0236"
+    },
+    "5ae086404284d584": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Focuses on WSU safety Jaylen Thomas' two interceptions and the Cougar defense in the loss to Kansas State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-13-0236"
+    },
+    "7098815cf89fcd24": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish live coverage of an Oregon State home game against No. 13 Texas Tech.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Only the headline and summary were readable and neither names the sport, so the school's athletics is clear but the specific program cannot be keyed.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-13-0236"
+    },
+    "7cdcf057c348cebd": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Analysis of WSU's offense after it went scoreless against Kansas State, covering Pinnick, Miller's play calls and the offensive line.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-13-0236"
+    },
+    "7ec5b31e4eacf162": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A roster-building game post listing players from Syracuse, Kentucky, Auburn and other outside schools, with no covered program figuring at all.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-13-0236"
+    },
+    "8a81eaa966a75d00": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A column arguing WSU coach Kirby Moore should take back offensive play-calling after two poor offensive games.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jacob Thorpe"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-13-0236"
+    },
+    "996406b3ce36a471": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The fan-poll results discuss a Group of 6 playoff in general terms and name none of the nine schools or their teams.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "A G6 playoff would affect the covered football programs as a class, but the text never names the Pac-12 or any covered school, so conference-level relevance rests only on the source and URL.",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-13-0236"
+    },
+    "b861aea52b7ff37a": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Post-game analysis of Washington State's scoreless offense, play calling and line grades in the 34-7 loss at Kansas State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-13-0236"
+    },
+    "e06945a1feb938a0": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A team-by-team recruiting pipeline review in which Boise State football gets its own roster breakdown and 2026-class analysis.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The body was cut after Air Force and Boise State, so other covered schools among the twelve teams reviewed likely get similar treatment but could not be observed.",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "66 min read",
+      "run": "run_2026-09-13-0236"
+    },
+    "f09f311e448cd9a4": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Game standouts from the Kansas State win over Washington State, with WSU safety Jaylen Thomas given a full section.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-13-0236"
+    },
+    "f0aa9e13d0059bc4": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Instant reactions on Washington State's offense, defense and new staff after the 34-7 loss at Kansas State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-13-0236"
     }
   },
   "runs": {
@@ -4806,6 +4974,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 20.648588300013216,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-13-0236": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-13T01:39:00.191432+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 9,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 23.470665100001497,
       "tokens": null,
       "tokens_source": null
     }
