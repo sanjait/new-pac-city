@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T13:05:18.050636+00:00",
+  "generated_at": "2026-09-14T01:05:57.973668+00:00",
   "teams": {
     "conference": [
       {
@@ -55,20 +55,6 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "7ec5b31e4eacf162",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Recruiting Pipelines in the 2027 Class",
-        "link": "https://www.mwcconnection.com/mountain-west-football-recruiting/91761/recruiting-pipelines-in-the-2027-class",
-        "link_kind": "item",
-        "date": "2026-09-12T02:30:00+00:00",
-        "summary": "We have been reviewing recruiting pipelines for each team since 2020. Here is that original&#160;post&#160;for reference. In the past few years, we have analyzed how teams recruit in relation to their pipelines. Recruiting is the lifeblood of a college program. Successful recruiting can be due to many factors, including winning tradition, top facilities, and player [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "e06945a1feb938a0",
         "sport": "all",
         "medium": "text"
       },
@@ -153,6 +139,20 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "bba358cba11a14f1",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Mountaintop View 9-11-26: New Mexico Quarterbacks, Oregon State Football, Gene Bleymaier Returns to Boise, Jim Mora Jr., Ashton Jeanty, Apple Cup",
+        "link": "https://www.mwcconnection.com/mountain-west-news/92188/mountaintop-view-9-11-26-new-mexico-quarterbacks-oregon-state-football-gene-bleymaier-returns-to-boise-jim-mora-jr-ashton-jeanty-apple-cup",
+        "link_kind": "item",
+        "date": "2026-09-11T13:00:00+00:00",
+        "summary": "New Mexico is finding a quarterback rotations that works Oregon State has found a quarterback worth pulling for A Legend will be returning to Boise this weekend Jim Mora Jr. is enjoying his time in Fort Collins Ashton Jeanty is healthy and ready to go San Diego State is taking the time to remember 9/11 [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "9da5e2cc339c9f48",
         "sport": "football",
         "medium": "text"
       },
@@ -312,6 +312,20 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "With past champions at the helm, women’s golf enters new season with great expectations",
+        "link": "https://www.arbiteronline.com/2026/09/13/with-past-champions-at-the-helm-womens-golf-enters-new-season-with-great-expectations/",
+        "link_kind": "item",
+        "date": "2026-09-13T18:05:49+00:00",
+        "summary": "<p>Last season, the Boise State women’s golf team improved their game and rank, with current fifth-year senior Leia Chung taking home the Mountain West Conference championship. This season, the team strives to keep these standards with new players and a new conference. Head coach Kailin Downs has been with Boise State women’s golf for six [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/09/13/with-past-champions-at-the-helm-womens-golf-enters-new-season-with-great-expectations/\">With past champions at the helm, women’s golf enters new season with great expectations</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "author": "Sofia Davis",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Arbiter",
+        "id": "ec64972517a8c932",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "(Video) Post Memphis Press Conference With RB Riley, LB Brantley, and Coach Danielson",
         "link": "https://firstkickwasgood.com/2026/09/12/video-post-memphis-press-conference-with-rb-riley-lb-brantley-and-coach-danielson/",
@@ -805,20 +819,6 @@
         "extent": "59 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "New Court, New Conference, New Me: Women’s volleyball showcases new additions",
-        "link": "https://www.arbiteronline.com/2026/09/01/new-court-new-conference-new-me-womens-volleyball-showcases-new-additions/",
-        "link_kind": "item",
-        "date": "2026-09-01T21:20:11+00:00",
-        "summary": "<p>A dazzling blue court was flooded with digs, dives and dancing as the Boise State women’s volleyball team hosted its first scrimmage at ExtraMile Arena since 2002.  As Boise State transitions into the Pac-12, women’s volleyball moves to a new, blue home court with a roster featuring nine newcomers. Walking into ExtraMile Arena for a [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/09/01/new-court-new-conference-new-me-womens-volleyball-showcases-new-additions/\">New Court, New Conference, New Me: Women’s volleyball showcases new additions</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
-        "author": "Emilia Rose Nowinski",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Arbiter",
-        "id": "65b5d1c35055a042",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "Women's Basketball Announces Nonconference Schedule",
@@ -1402,6 +1402,20 @@
     ],
     "Fresno State": [
       {
+        "title": "Fresno State dominates Sacramento State in home opener",
+        "link": "https://fscollegian.com/2026/09/fresno-state-dominates-sacramento-state-in-home-opener/",
+        "link_kind": "item",
+        "date": "2026-09-13T22:52:45+00:00",
+        "summary": "Fresno State (1-1) returned to Valley Children&#8217;s Stadium for its Week 2 home opener. The Bulldogs earned their first win of the Pac-12 era with a dominant win over Sacramento State (1-2) with a final score of 49-3. Quarterback Jayden Mandal was everything the Bulldogs needed for the night, finishing 23-of-26 passing for 316 yards...",
+        "author": "Cristian Ceballos, Daily Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "aae3a595d558822c",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Bulldogs roll past Sacramento State in home opener",
         "link": "https://gobulldogs.com/news/2026/9/12/football-bulldogs-roll-past-sacramento-state-in-home-opener",
         "link_kind": "item",
@@ -1420,7 +1434,7 @@
         "link": "https://www.yourcentralvalley.com/bulldog-sports/fresno-state-beats-sacramento-state-49-3/",
         "link_kind": "item",
         "date": "2026-09-13T07:25:25+00:00",
-        "summary": "FRESNO, Calif. (KSEE/KGPE)- Fresno State defeated Sacramento State 49-3 on Saturday at Valley Children's Stadium. The Bulldogs were fueled by a strong performance from junior quarterback Jayden Mandal. The Clovis native went 23/26 for 316 yards and two touchdowns. Running back Bryson Donelson had a hat trick on Saturday night. He had 13 carries for 102 [...]",
+        "summary": "FRESNO, Calif. (KSEE/KGPE)- Fresno State defeated Sacramento State 49-3 on Saturday at Valley Children's Stadium. The Bulldogs were fueled by a strong performance from junior quarterback Jayden Mandal. The Clovis native went 23/26 for 316 yards and two touchdowns. Running back Bryson Donelson had a hat trick on Saturday night. He had 13 carries for 102 [...]",
         "author": "Angelique Martinez",
         "duration": null,
         "channel_url": "",
@@ -1754,20 +1768,6 @@
         "source": "Fresno State Athletics",
         "id": "115e461ce351520b",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Game recap: Trojans shut out ‘Dogs 39-0",
-        "link": "https://fscollegian.com/2026/09/live-updates-fresno-state-takes-on-usc/",
-        "link_kind": "item",
-        "date": "2026-09-05T00:51:02+00:00",
-        "summary": "Fresno State opens its 2026 season against No. 14 USC (1-0) at the Los Angeles Memorial Coliseum. This game marks the seventh meeting between these two programs, with the Trojans leading the Bulldogs in wins 5-1, although one of USC’s wins was vacated. Fresno State’s defense ranked among the best in the country last season,...",
-        "author": "Cristian Ceballos, Daily Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "ccc052faa2e06726",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -2159,6 +2159,20 @@
       }
     ],
     "Gonzaga": [
+      {
+        "title": "How former WSU standout Efe Abogidi has navigated setbacks, obstacles during pro career: 'It's been a journey, man'",
+        "link": "http://www.spokesman.com/stories/2026/sep/13/former-washington-state-standout-efe-abogidi-has-n/",
+        "link_kind": "item",
+        "date": "2026-09-13T00:00:00+00:00",
+        "summary": "<p>LAS VEGAS – Efe Abogidi wasn’t quite pulling all-nighters, but two years ago during a transitional phase in his career it wasn’t uncommon for the former Washington State forward to stay awake until 2 or 3 a.m. in Adelaide, Australia.</p><p>The risk of falling asleep was potentially missing an important phone call or message from his agent who could be relaying a contract offer from the NBA or G League halfway across the globe. So Abogidi would strain to keep his eyes open, usually dozing off around 3 in the morning if nothing materialized.</p><p>“When it’s nighttime in Australia, it’s daytime here,” said Abogidi, who’d just completed a productive 2024-25 season with the Central Districts Lions of Australia’s second-tier NBL1, averaging 17 points and 10.5 rebounds. “I’ll be on my phone late waiting for my agent to give me the news of what team’s going to pick me up in the G League. I knew I could still play at the professional level, especially in the NBA and the G League. I just needed an opportunity to do that.”</p><p>After helping guide Kyle Smith’s Washington State teams to a 36-28 record over two seasons, Abogidi’s basketball career was rocked by an injury when he tore his ACL on Jan. 3, 2023, playing for the now-defunct NBA G League Ignite.</p><p>Roughly two months into his professional career, Abogidi faced a daunting recovery timeline of 18 months. He was able to complete some  rehabilitation work in Spokane, where his girlfriend was living at the time, but as an immigrant with visa restrictions, Abogidi was eventually forced to move home to Australia.</p><p>Once he received a green light to play, Abogidi quickly signed a contract with Central Districts Lions in Adelaide, posting solid numbers while refining his game and extending his shooting range out to the perimeter. Abogidi earned a spot on the NBL Central All-Star Five and posted a 30-point, 20-rebound double-double in his most impressive game of the season against the South Adelaide Panthers.</p><p>“I’m a very resilient person,” Abogidi said. “I’ve been through a lot in basketball, especially with my health. When it comes to injury, I’m very experienced in getting myself back so having confidence wasn’t an issue for me. The main issue was, how long is it going to take for me to get healthy and get back on the floor.</p><p>“So whenever I’m healthy and back to being ready to play basketball again, confidence isn’t a big issue for me.”</p><p>After weeks in limbo, one of those late nights – or early mornings – in Adelaide finally came with some news.</p><p>Abogidi picked up a phone call from his agent, who relayed the following message: “Do you want to hear the good news or the bad news?’’</p><p>“I was like, OK, any news is good news,” Abogidi said. “He said, ‘OK, it’s going to be a standard contract in the G League.’ I was like, that’s not bad news, that’s good news.”</p><p>The Rio Grande Valley Vipers, a Texas-based affiliate of the Houston Rockets, were offering a one-year deal for Abogidi to return to the G League two years after his ACL setback. It was a seamless fit for the forward, who played in 44 games for Rio Grande, averaging 13 points, 6.4 rebounds and one block. He shot 51.1% from the field and continued to knock down 3s at a consistent rate, making 34.8% of his attempts from behind the arc.</p><p>It’s been mostly good news for Abogidi’s pro hoops career ever since.</p><p>“I believe in myself. I’m very talented in basketball so the biggest obstacle for me was just being healthy,” Abogidi said. “So when I felt healthy, I know I’ll come back on this stage again and play basketball again, I’m still going to be on top of my field. So I wasn’t worried. I’m a very resilient person. This isn’t a big deal for me, so here I am now.”</p><p>Post-ACL, Abogidi started to think about career longevity in a way he hadn’t before. An explosive athlete known for his rim-rocking dunks at WSU, he could still elevate for the occasional highlight, as seen in a G League Tip-Off Tournament game when he split two Austin Spurs defenders midair for a two-handed jam. But someone who made just 24 3s over 64 games at WSU worked diligently to add an outside shot to his game, then proceeded to knock down 65 3s over 44 games in the G League.</p><!--[photo id=932118]--><p>“I’m still athletic, I’m still one of the most athletic guys in the gym,” Abogidi said. “Now I can shoot the ball and extend my game. I can’t rely on my athleticism a lot. I’ve still got to think about my longevity. It’s been a journey.”</p><p>Abogidi’s road to an NBA roster spot took another positive turn earlier this year when, after his G League season ended, the forward picked up an NBA Summer League invitation from the Denver Nuggets.</p><p>“I’m hoping for the best. I can’t predict the future now,” Abogidi said during Summer League. “So whatever happens with the Nuggets, I’m just hoping for the best at this point.”</p><p>In three Summer League appearances, Abogidi averaged seven points and two rebounds while connecting on 60% of his shots from the field and 42.9% from the 3-point line. Abogidi’s playing shifts were limited in Las Vegas – he averaged 9.7 minutes over three games – but the time he spent on the court elicited positive feedback from Nuggets Summer League coach J.J. Barea, a former NBA champion point guard with the Dallas Mavericks.</p><p>“I’m giving him confidence, if it’s open let it fly,” Barea said. “He got some good blocks, some good rebounds and then he made some open shots so great job by him.”</p><p>The NBA won’t be the next stop for Abogidi, who resided in Olympia with his girlfriend before Summer League, but the former WSU standout feels his career is trending in a positive direction. After averaging 11.5 ppg over two games for Nigeria’s national team during FIBA World Cup qualifiers against Cameroon and Cape Verde, Abogidi signed a one-year contract with Obradoiro CAB, a club that competes in Spain’s top professional league.</p><p>“Initially, I kind of fell off the radar,” Abogidi said. “I took my time getting my rehab. Got a couple surgeries, getting myself back on track again. That was a really traumatic experience for me.”</p><p>The NBA remains a long shot, but now three years removed from his ACL setback, Abogidi still believes it’s within reach.</p><p>“It’s been a journey, man. It’s been a journey,” he said. “Got injured, had to leave the country, go back to Australia, get healthy, come back here. It’s been a journey for me.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "abeac3c5af73b8ee",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Women's Basketball to host Numerica FanFest on Oct. 10",
         "link": "https://gozags.com/news/2026/9/9/womens-basketball-to-host-numerica-fanfest-on-oct-10",
@@ -2694,20 +2708,6 @@
         "medium": "text"
       },
       {
-        "title": "Dayton's Javon Bennett commits to Gonzaga after securing extra year through Ohio ruling",
-        "link": "http://www.spokesman.com/stories/2026/aug/05/daytons-javon-bennett-commits-to-gonzaga-after-sec/",
-        "link_kind": "item",
-        "date": "2026-08-05T00:00:00+00:00",
-        "summary": "<p>A recent court ruling in Ohio has enabled Gonzaga to fill one of its vacant backcourt spots three months before the start of the college basketball season.</p><p>Javon Bennett, a 5-foot-10 point guard who earned All-Atlantic 10 first-team honors last season at Dayton, committed to the Zags on Wednesday after securing a fifth season of eligibility three weeks ago through a preliminary injunction in Ohio.</p><p>Bennett’s agent, Harrison Gaines, confirmed the player’s commitment to Joe Tipton of On3.com.</p><!--[embed id=12049]--><p>A veteran guard who appeared in 136 college basketball games over four seasons at Merrimack and Dayton, Bennett was one of the 15 student-athletes who filed a lawsuit against the NCAA in Ohio, claiming they should be eligible to return for a fifth season through the governing body’s new age-based eligibility model, also known as the “5-for-5” rule.</p><p>With only eight players signed to financial aid agreements as of Wednesday, Gonzaga is in a position to add multiple players in the coming weeks, and desperately needed to address its depth in the backcourt after combo guard Jack Kayil kept his name in the NBA draft and starting point guard Mario Saint-Supery signed a professional contract with Valencia in early July.</p><p>Pending other roster moves, Bennett could be a candidate to start at point guard after averaging 15.8 points, 2.9 assists and 2.2 rebounds last season for a Dayton team that advanced to the quarterfinals of the National Invitational Tournament (NIT). Bennett’s 3-point shooting numbers have been up and down the last four years, but he made 34.7% of his shots from behind the arc last season while attempting a career-high seven 3s per game.</p><p>As of Wednesday, the Zags had just one other backcourt player with prior D-I experience signed to the 2026-27 roster – Houston transfer Isiah Harwell – but nobody with experience as a primary ball-handler. Gonzaga picked up a commitment from 23-year-old Cholet point guard Nathan De Sousa in June, but the Frenchman is still awaiting NCAA clearance and hasn’t formally been announced by the school.</p><p>A native of Orlando, Bennett played his freshman season at Merrimack, where he was named the Northeast Conference Rookie of the Year in 2022-23 while helping the Warriors capture regular season and conference tournament championships. As a school recently transitioning from the Division II level, Merrimack was unable to participate in the NCAA Tournament and its bid automatically went to Northeast Conference runner-up Fairleigh Dickinson, which went on to upset top-seeded Purdue in the opening round.</p><p>After averaging 9.6 ppg, 3.4 apg and 2.9 spg as a freshman, Bennett transferred to Dayton and started in 28 of 31 games for a Flyers team that won an NCAA Tournament opener against Nevada before losing to former GU assistant Tommy Lloyd and Arizona in the Round of 32. The point guard averaged 8.4 ppg, 3.3 apg and 2.1 rpg while shooting 39.3% from the field and 31.6% from the 3-point line.</p><p>Bennett averaged double figures for the first time in his career as a junior, scoring 11.6 ppg to go with 2.7 rpg and 2.1 apg, starting in 33 of 34 games for Dayton. He shot a career-best 39% from the 3-point line while shooting better than 40% from the field (43.7%) for the first time in his career.</p><p>As a senior, Bennett posted career-best scoring numbers and nearly led the Flyers to another NCAA Tournament berth, ultimately losing in the Atlantic 10 championship to VCU. Bennett had at least 20 points in 11 games last season, recording a season-high 27 against Saint Bonaventure in the A-10 Tournament quarterfinals. His career high of 30 points came the year prior during an NIT opener against Florida Atlantic.</p><p>Bennett becomes Gonzaga’s third addition via the transfer portal this offseason, joining Houston’s Harwell and Arizona State center Massamba Diop, both of whom signed with Mark Few’s program in May.</p><p>Gonzaga’s ability to add to its transfer class and fill remaining scholarship spots could hinge on eligibility rulings in various states. Since the Ohio injunction cleared the way for Bennett and others to secure another year of eligibility, athletes in three other states have prevailed in similar lawsuits.</p><p>The Athletic listed Bennett in the Honorable Mention portion of a list detailing the top 10 players who could return to college basketball in 2026-27. Another ranking compiled by On3.com listed Bennett at No. 5.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "b522b0abfed8dd2d",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "The Third Piece",
         "link": "https://houseofkrause.substack.com/p/the-third-piece",
         "link_kind": "item",
@@ -2753,11 +2753,53 @@
     ],
     "Oregon State": [
       {
+        "title": "Get Your Seats, Get Ready For The Griz",
+        "link": "https://osubeavers.com/news/2026/9/13/football-get-your-seats-get-ready-for-the-griz",
+        "link_kind": "item",
+        "date": "2026-09-13T21:51:00+00:00",
+        "summary": "<img alt=\"Montana Tickets\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/13/montana_buy_tickets.png\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "8439ad6c50311bbb",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Photo gallery: Oregon State vs. Texas Tech",
+        "link": "https://dailybaro.orangemedianetwork.com/32891/daily-barometer-sports/photo-gallery-oregon-state-vs-texas-tech/",
+        "link_kind": "item",
+        "date": "2026-09-13T19:41:18+00:00",
+        "summary": "Oregon State University took on the No. 13 Texas Tech Red Raiders at Reser Stadium on Saturday, losing 35-24.",
+        "author": "Liam Flannery, Photographer",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "190344a1ce9f01e8",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "What they’re saying nationally, after Oregon State lost to No. 13 Texas Tech",
+        "link": "https://www.oregonlive.com/beavers/2026/09/what-theyre-saying-nationally-in-lubbock-after-oregon-state-lost-to-no-13-texas-tech.html",
+        "link_kind": "item",
+        "date": "2026-09-13T15:44:55+00:00",
+        "summary": "See what was written nationally about Oregon State's loss to Texas Tech",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "9319686d2cd33c8e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Beavers play competitive game against Texas Tech",
         "link": "https://dailybaro.orangemedianetwork.com/32883/daily-barometer-sports/beavers-play-competitive-game-against-texas-tech/",
         "link_kind": "item",
         "date": "2026-09-13T06:04:58+00:00",
-        "summary": "Reser Stadium saw the return of Beaver football Saturday, when Oregon State University faced off against the Texas Tech University Red Raiders, losing 35-24. This was the second game of the season for both teams, and the second game where OSU was playing a ranked, out-of-conference opponent. Texas Tech, a member of the Big 12...",
+        "summary": "Editor&#8217;s note: An incorrect stat in the original article has been corrected. Reser Stadium saw the return of Beaver football Saturday, when Oregon State University faced off against the Texas Tech University Red Raiders, losing 35-24. This was the second game of the season for both teams, and the second game where OSU was playing...",
         "author": "Colton Freeman, Sports Writer",
         "duration": null,
         "channel_url": "",
@@ -3329,20 +3371,6 @@
         "medium": "text"
       },
       {
-        "title": "Just how big of an underdog is Oregon State against Texas Tech? The numbers are extreme",
-        "link": "https://www.oregonlive.com/beavers/2026/09/oregon-state-opens-as-4-score-underdog-against-texas-tech.html",
-        "link_kind": "item",
-        "date": "2026-09-06T16:51:07+00:00",
-        "summary": "Oregon State enters its matchup with No. 12 Texas Tech as a 27.5-point underdog, with the Beavers holding an 0-2 all-time record against the Red Raiders.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "322f8f1daf3a3485",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "It wasn’t a win, but the JaMarcus Shephard era gets off to a promising start vs. Houston",
         "link": "https://dailybaro.orangemedianetwork.com/32869/daily-barometer-sports/it-wasnt-a-win-but-the-jamarcus-shephard-era-gets-off-to-a-promising-start-vs-houston/",
         "link_kind": "item",
@@ -3354,20 +3382,6 @@
         "source": "The Daily Barometer",
         "id": "6d494525acf63f03",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Legree, Atkinson Shine In Oregon State Debuts, Beavs Edged In Houston",
-        "link": "https://osubeavers.com/news/2026/9/5/football-legree-atkinson-shine-but-beavers-edged-in-houston",
-        "link_kind": "item",
-        "date": "2026-09-05T21:42:00+00:00",
-        "summary": "<img alt=\"Jesse Legree\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/5/_Z920987.JPG\" /><br /><br />True freshman Jesse Legree turned his collegiate debut into one of the signature performances of Oregon State's season opener, catching five passes for 136 yards and a touchdown, but it wasn't enough as No. 23 Houston held off the Beavers, 33-20, Saturday at TDECU Stadium.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "2e382e5a30070818",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -3467,20 +3481,6 @@
         "channel_url": "",
         "source": "The Daily Barometer",
         "id": "b5f4127b97c3d2dc",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "OSU remains a school",
-        "link": "https://dailybaro.orangemedianetwork.com/32829/daily-barometer-news/osu-remains-a-school/",
-        "link_kind": "item",
-        "date": "2026-08-25T20:17:59+00:00",
-        "summary": "This summer, the Northwest Commission on Colleges and Universities reaffirmed Oregon State University’s accreditation. This renews OSU’s six-year accreditation cycle. “(OSU is) very proud of the results of the accreditation review. Having our accreditation status reaffirmed was the baseline goal even though we had no concerns about meeting this goal,”  Rebecca Mathern, the associate vice...",
-        "author": "Lucy Gilchrist, Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "9ad502ccae0b182d",
         "sport": "all",
         "medium": "text"
       },
@@ -3644,16 +3644,16 @@
     ],
     "San Diego State": [
       {
-        "title": "San Diego State Meets UCLA Tonight at the Rose Bowl",
-        "link": "https://goaztecs.com/news/2026/09/12/san-diego-state-set-to-take-on-ucla-at-the-rose-bowl-1",
+        "title": "Aztecs Come Up Short at UCLA 28-10",
+        "link": "https://goaztecs.com/news/2026/09/13/aztecs-come-up-short-at-ucla-28-10",
         "link_kind": "item",
-        "date": "2026-09-12T20:40:00+00:00",
-        "summary": "San Diego State meets UCLA at 4:15 p.m. PT Saturday at the Rose Bowl in Pasadena.",
+        "date": "2026-09-13T02:36:10+00:00",
+        "summary": "The SDSU defense held UCLA to seven points in the first three quarters.",
         "author": "",
         "duration": null,
         "channel_url": "",
         "source": "San Diego State Athletics",
-        "id": "69ca300755bd9bda",
+        "id": "42d18ffbc95e4eb8",
         "sport": "football",
         "medium": "text"
       },
@@ -5059,6 +5059,36 @@
       }
     ],
     "Washington State": [
+      {
+        "title": "WSU loses to K-State: Instant reactions (Episode 256)",
+        "link": "https://podcastvseveryone.podbean.com/e/wsu-loses-to-k-state-instant-reactions-episode-256/",
+        "link_kind": "item",
+        "date": "2026-09-13T18:27:04+00:00",
+        "summary": "<p>Don't forget to subscribe to the newsletter! Episodes direct to your inbox, plus other written musings from Jeff. <a href='http://podcastvseveryone.com/'>podcastvseveryone.com</a></p>\n<p>It's our second week of the postgame live stream, broadcast exclusively to our premium subscribers. Blowing off some steam feels good, I guess.</p>\n<p>If you don't want to wait for the pod and you want to get in on some of that live stream action, head to <a href='http://podcastvseveryone.com/upgrade'>podcastvseveryone.com/upgrade</a> and join us!</p>\nNotes\n<p>Podcast music by Randy England. <a href='https://www.instagram.com/randyenglandmusic/'>You can find more of his work on Instagram</a>.</p>\n<p>You can also subscribe to the show on your favorite podcast services:</p>\n<ul>\n<li>\n<p><a href='https://podcasts.apple.com/us/podcast/podcast-vs-everyone/id1449847880?mt=2'>Apple Podcasts</a>  </p>\n</li>\n<li>\n<p><a href='https://open.spotify.com/show/5mN2nUMA3KH095WAYYiOaf'>Spotify</a> </p>\n</li>\n<li>\n<p><a href='https://www.youtube.com/@PodVsEveryone'>YouTube</a></p>\n</li>\n<li>\n<p>Or, manually add this feed to your podcast app of choice: <a href='https://feed.podbean.com/podcastvseveryone/feed.xml'>https://feed.podbean.com/podcastvseveryone/feed.xml</a></p>\n</li>\n</ul>",
+        "author": "",
+        "duration": 1912,
+        "channel_url": "",
+        "source": "Podcast Vs. Everyone",
+        "id": "87a007add964c28d",
+        "extent": "32 min",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
+        "title": "LIVE REACTION: WSU Loses to Kansas State | Calvin Jackson Jr. Joins The Show",
+        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/LIVE-REACTION-WSU-Loses-to-Kansas-State--Calvin-Jackson-Jr--Joins-The-Show-e3op91q",
+        "link_kind": "item",
+        "date": "2026-09-13T05:38:32+00:00",
+        "summary": "<p>Washington State suffered a tough 34-7 loss to Kansas State, and we&#39;re breaking down everything that went wrong for the Cougars in this LIVE postgame reaction episode of the Palouse Playbook Podcast.</p><p>Former Washington State wide receiver <strong>Calvin Jackson Jr.</strong> joins the show to give a player&#39;s perspective on the loss, discuss the offense&#39;s struggles, evaluate the defense, and explain what the Cougars must do to turn the season around.</p><p>Despite the disappointing result, there are still reasons for Coug fans to believe. We discuss standout performances from <strong>Jalen Thomas</strong>, concerns with the offensive identity, play-calling, quarterback play, and what needs to happen before Washington State takes the field against Duquesne.</p><p>🔥 Topics Covered:</p><ul><li>Washington State vs Kansas State postgame reaction</li><li>Why the Cougars offense struggled</li><li>Calvin Jackson Jr.&#39;s player perspective</li><li>WSU&#39;s defensive bright spots</li><li>Jalen Thomas and emerging playmakers</li><li>Offensive play-calling concerns</li><li>What Coug fans should be watching moving forward</li><li>Can Washington State bounce back?</li><li>Duquesne preview and expectations</li></ul><p>The season may be off to a rocky start, but the Cougs still have talent across the roster. Is this simply a matter of finding an identity, or are larger changes needed?</p><p>👇 Let us know in the comments:<strong>What is the biggest issue facing Washington State football right now?Are you still confident the Cougs can turn the season around?</strong></p><p>If you love Washington State football coverage, hit LIKE, SUBSCRIBE, and turn on notifications so you never miss an episode of the Palouse Playbook Podcast.</p><p>#GoCougs #WashingtonStateFootball #WSUFootball #Cougars #Pac12 #KansasStateFootball #CollegeFootball #WashingtonStateCougars #CalvinJacksonJr #PalousePlaybook #WSUvsKansasState #CougNation #CFB #CollegeFootballPodcast #PostgameReaction #WSU</p><p></p>",
+        "author": "Up West Sports",
+        "duration": 1759,
+        "channel_url": "",
+        "source": "Palouse Playbook",
+        "id": "04dd9724aa77c9e7",
+        "extent": "29 min",
+        "sport": "all",
+        "medium": "audio"
+      },
       {
         "title": "Coug Talk (WSU vs. Kansas State) 9-12-26",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/08553c96-990b-4f88-bcc3-8b038f1d8644.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
