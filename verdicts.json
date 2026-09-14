@@ -4974,6 +4974,298 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-09-14-0304"
+    },
+    "0366c62658cf93a7": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A former Fresno State safety discusses the Bulldogs' win over Sacramento State, which places it in football.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-14-2125"
+    },
+    "076220e4c557684f": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Takeaways on Oregon State's loss to Texas Tech at Reser Stadium, covering the Beavers' offense, defense and depth.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "James Crepea | The Oregonian/OregonLive"
+      ],
+      "extent": "5 min read",
+      "lock": "free",
+      "run": "run_2026-09-14-2125"
+    },
+    "1d8e47cbe9420eea": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Oregon Ducks",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column is about Oregon's loss, but Boise State's Week 1 game at Autzen and its Playoff chances get several paragraphs of real treatment.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Boise State occupies a handful of paragraphs in a piece whose subject is Oregon, which sits between involves and mentions.",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "5 min read",
+      "lock": "free",
+      "run": "run_2026-09-14-2125"
+    },
+    "3618f000908a6878": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "About Jayden Mandal's performance as Fresno State's starting quarterback in the 49-3 win over Sacramento State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "3d5a795d5ecdc3d7": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Mountain West football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The recap covers Mountain West teams; Fresno State appears only as San Jose State's next opponent and Colorado State as a line in Wyoming's record.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The San Jose State section previews the Fresno State rivalry game for a few sentences, which could be read as involves.",
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "14 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "648b22c0ab13300f": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Analysis of Washington State football's offensive struggles after the 34-7 loss to Kansas State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "73a183de6e24f74c": {
+      "subjects": {
+        "fresno-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Title and summary describe highlights and stats from Fresno State's 49-3 win over Sac State, though they do not name the sport.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-14-2125"
+    },
+    "8a5667d227743e14": {
+      "subjects": {
+        "utah-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap of Utah State women's soccer's 3-0 home win over South Dakota State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "21 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "9d3f7d7f03e042bb": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap of San Diego State's 2-0 soccer win over Sacramento State, with players referred to as men.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jason Testa"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "b79154f338983cee": {
+      "subjects": {
+        "fresno-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Title and summary establish an in-depth discussion of Fresno State's 49-3 home-opener win, an athletics subject.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The score suggests football but neither title nor summary names the sport, so only the department key could be used.",
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-09-14-2125"
+    },
+    "bd2d68a2225570e4": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "A recap of San Jose State's win over Cal Poly; Fresno State appears only in a closing line about next week.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "c0c42586210cd371": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap of Texas State's 3-1 soccer win at Louisiana Tech, with goals scored by named women players.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "c20154aca6ff16f4": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "oregon-state/football": "involves",
+        "utah-state/football": "involves",
+        "washington-state/football": "involves",
+        "texas-state/football": "involves",
+        "boise-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Leads with San Diego State's loss to UCLA and recaps the Week 2 games of most of the league's football teams.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "d3dfbf3a2dbeb116": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap of Texas State volleyball's 3-1 loss to North Texas in the Texas Challenge, with players referred to as women.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Crystal Creek"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "dc203f5b51cbe007": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap of San Diego State's 28-10 loss to UCLA at the Rose Bowl.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tyler Bowne"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "e02e355c89c3654e": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "About a community Scottish Highland Games event in Logan; former Utah State track athletes appear only as competitors in a non-university sport.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Two Utah State track and field alumnae are featured, but their Highland Games competition is not a professional career in their college sport.",
+      "byline": [
+        "Quinton Papa"
+      ],
+      "extent": "38 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "f6dae75266c27add": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "About WSU hockey, a program absent from Washington State's row in the registry.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-14-2125"
+    },
+    "f8a5aede067914a6": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary names a Fresno State football showdown with San Jose State in 2000 as the segment's subject.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-09-14-2125"
     }
   },
   "runs": {
@@ -5373,6 +5665,60 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 17.38374640000984,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-14-2125": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-14T13:39:09.116028+00:00",
+      "items": 18,
+      "verdict_counts": {
+        "publish": 14,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2,
+        "The Utah Statesman": 1,
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 4
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "1d8e47cbe9420eea",
+          "source": "Press Break",
+          "phrase": "Oregon Ducks",
+          "kind": "not-ours"
+        },
+        {
+          "id": "3d5a795d5ecdc3d7",
+          "source": "Mountain West Connection",
+          "phrase": "Mountain West football",
+          "kind": "not-ours"
+        },
+        {
+          "id": "bd2d68a2225570e4",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "f6dae75266c27add",
+          "source": "The Daily Evergreen",
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 45.45670700003393,
       "tokens": null,
       "tokens_source": null
     }
