@@ -4896,6 +4896,84 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-09-13-2033"
+    },
+    "190344a1ce9f01e8": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A photo gallery of Oregon State's 35-24 home loss to No. 13 Texas Tech at a stadium.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The 109-character text never names the sport, so football rests on inferring it from a stadium venue and a 35-24 score rather than on an explicit word.",
+      "byline": [
+        "Liam Flannery"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-14-0304"
+    },
+    "9319686d2cd33c8e": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A roundup of national coverage of Oregon State's 35-24 football loss to Texas Tech, citing a go-ahead touchdown pass.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "James Crepea | The Oregonian/OregonLive"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-09-14-0304"
+    },
+    "aae3a595d558822c": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A game recap of Fresno State's 49-3 football win over Sacramento State with quarterback and receiver stats.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-14-0304"
+    },
+    "abeac3c5af73b8ee": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on the professional career of former Washington State forward Efe Abogidi, an alum of a covered program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-14-0304"
+    },
+    "ec64972517a8c932": {
+      "subjects": {
+        "boise-state/womens-golf": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece looks ahead to the Boise State women's golf season, its coach, returning conference champion and new roster.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sofia Davis"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-14-0304"
     }
   },
   "runs": {
@@ -5275,6 +5353,26 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 37.4594192999939,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-14-0304": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-14T01:39:34.294718+00:00",
+      "items": 5,
+      "verdict_counts": {
+        "publish": 5
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {},
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 17.38374640000984,
       "tokens": null,
       "tokens_source": null
     }
