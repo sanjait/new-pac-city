@@ -417,13 +417,6 @@
     {
       "team": "Utah State",
       "sport": "all",
-      "source": "Cache Valley Daily",
-      "url": "https://www.cachevalleydaily.com/search/?f=rss&t=article&c=sports&l=25&s=start_time&sd=desc",
-      "topic_scope": "athletics-wide"
-    },
-    {
-      "team": "Utah State",
-      "sport": "all",
       "source": "The Utah Statesman",
       "url": "https://usustatesman.com/category/sports/feed/",
       "topic_scope": "athletics-wide"
