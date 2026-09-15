@@ -5266,6 +5266,422 @@
         "Scott Bemis"
       ],
       "run": "run_2026-09-14-2125"
+    },
+    "122e291a49d8fd92": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Oregon State hosting FCS power Montana in pursuit of its first win establishes a football preview.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-15-2019"
+    },
+    "192e10d6b7819a55": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline names an Oregon State cornerback missing a second season, which establishes the football program.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-15-2019"
+    },
+    "2409055b6ad688b0": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The text is a generic fan-survey prompt that names no team from the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "34eee374e256962e": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Washington State receiver Tony Freeman's season-ending ACL tear and other WSU injury news.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "3b32b17fdab239c6": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "about",
+        "colorado-state/football": "about",
+        "oregon-state/football": "about",
+        "san-diego-state/football": "about",
+        "fresno-state/football": "about",
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "texas-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A Pac-12 football power ranking giving each of eight covered teams its own paragraph.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "3b69e395a13fd552": {
+      "subjects": {
+        "conference": "about",
+        "san-diego-state/football": "involves",
+        "fresno-state/football": "involves",
+        "texas-state/football": "involves",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "colorado-state/football": "involves",
+        "washington-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece's substance is a Pac-12 football recruiting ranking and tiering of eight covered schools.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The schools appear only as ranked list lines and the offers, visits and commits sections came through empty, so the coverage could be read as table-level mentions.",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "453c6b45ef51bc64": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline names the Oregon State roster and the summary's 105-man roster and in-season openings establish football.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The sport is inferred from the 105-man roster size rather than stated.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-15-2019"
+    },
+    "4e3846fb06eaa418": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "hold",
+      "reason": "The headline and summary say only \"Beavers\" and never name Oregon State, so which program is meant is not established.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The nickname points strongly to Oregon State but the rules forbid using the feed or outside knowledge to supply the school.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-15-2019"
+    },
+    "5e6f283084f821e6": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An Oregon State injury update naming a left tackle and cornerback before the Montana game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-15-2019"
+    },
+    "6045cccee05809bb": {
+      "subjects": {
+        "texas-state/womens-golf": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Results of Texas State women's golf at The Bruzzy.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "61e95bad28a6ce00": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A history of Utah State football's rivalry with Utah ahead of Saturday's game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "20 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "6d4c5dfea01b11cb": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Boise State's Dylan Riley and Cam Bates receiving Pac-12 weekly football honors is the story.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "7afe1fea934abe0a": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Gonzaga women's basketball releasing its 2026-27 nonconference schedule.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-15-2019"
+    },
+    "8a62fd5d8f326356": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "An FCS ballot whose ranked teams are all outside the nine; Oregon State, Utah State and Boise State appear only as one-line opponent asides.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "9 min read",
+      "lock": "free",
+      "run": "run_2026-09-15-2019"
+    },
+    "91f09f92f89ad94d": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Player-by-player assessment of Fresno State football after the Sacramento State win.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "9c1a3c91c08baf31": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A first look at Washington State's home game against Duquesne.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-15-2019"
+    },
+    "b5e4c108b3bdd085": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Washington State receiver Tony Freeman's torn ACL, other WSU injuries and Jaylen Thomas's weekly honor.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-15-2019"
+    },
+    "bbaab3a1156f83f0": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary name Fresno State, its 49-3 win and the upcoming Battle for the Valley game against San Jose State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-15-2019"
+    },
+    "c697f76cbf31656c": {
+      "subjects": {
+        "boise-state/football": "about",
+        "washington-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Pac-12 weekly football awards featuring Boise State, Washington State and Oregon State players with write-ups.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "ca9ac41bf36098c9": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Mountain West",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The rankings cover Mountain West teams only; Fresno State appears once as San Jose State's next opponent.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "d68d48550bb22c1c": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "hold",
+      "reason": "The headline and summary name JaMarcus Shephard and Montana but never name a covered school or sport, so the program is not established.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-15-2019"
+    },
+    "daec056cc6779b23": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The roundup gives Boise State's win over Memphis and Oregon State's loss each a full paragraph.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "dbd475b4174a66ea": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Game balls for Boise State players after the win over Memphis.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "e1b726f8ca691f26": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "san-diego-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Pac-12 football power rankings with a result and comment for each of eight covered teams.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "e58508c32c1c1a4e": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Mountain West",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The weekly honors are for Mountain West players from North Dakota State, Hawai'i and others, none of them covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-15-2019"
+    },
+    "e9d0b1fdaa1320d5": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "WSU quarterback Caden Pinnick addressing his postgame remarks and the Cougars' struggling offense.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-15-2019"
     }
   },
   "runs": {
@@ -5719,6 +6135,52 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 45.45670700003393,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-15-2019": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-15T13:39:51.589465+00:00",
+      "items": 26,
+      "verdict_counts": {
+        "publish": 20,
+        "drop": 4,
+        "hold": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3,
+        "The Oregonian": 2,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 6
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "ca9ac41bf36098c9",
+          "source": "Mountain West Connection",
+          "phrase": "Mountain West",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e58508c32c1c1a4e",
+          "source": "Mountain West Connection",
+          "phrase": "Mountain West",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 54.559492299998965,
       "tokens": null,
       "tokens_source": null
     }
