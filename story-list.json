@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-15T13:05:29.402306+00:00",
+  "generated_at": "2026-09-16T01:04:56.918086+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Pac-12 Players of the Week - Sept. 15, 2026",
+        "link": "http://pac-12.com/news/2026/9/15/womens-soccer-pac-12-players-of-the-week-sept-15-2026.aspx",
+        "link_kind": "item",
+        "date": "2026-09-15T13:00:00+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/25/POTW.png\" /><br /><br />The Pac-12 today announced its Players of the Week for Women's Soccer, Men's Soccer and Volleyball, highlighting several key performances from the week that was.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "9af6461d6e2356a4",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Mountaintop View 9-15-26",
+        "link": "https://www.mwcconnection.com/mountain-west-news/92409/mountain-west-pac-12-football-basketball-wyoming-nevada",
+        "link_kind": "item",
+        "date": "2026-09-15T13:00:00+00:00",
+        "summary": "Pac-12 power rankings: WSU tumbles after bad loss to Kansas State Jon Wilner of the Bay Area News Group posts his post-Week 2 Pac-12 power rankings. Some interesting choices here, including a winless team at #2. Pokes Insider: Wyoming looking to bottle fourth-quarter surge It’s been a tough few weeks for Wyoming football and if [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "abf237018db8da06",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "MWCConnection Reacts Survey: Which team has been the biggest surprise?",
         "link": "https://www.mwcconnection.com/mountain-west-discussion/92400/mountain-west-pac-12-football-unlv-colorado-state-hawaii",
@@ -171,20 +199,6 @@
         "medium": "text"
       },
       {
-        "title": "Fresno, we have a quarterback",
-        "link": "https://www.mwcconnection.com/pac-12-football/92331/fresno-we-have-a-quarterback",
-        "link_kind": "item",
-        "date": "2026-09-13T15:00:00+00:00",
-        "summary": "No, it wasn’t against a top ranked defense. And no, it wasn&#8217;t against a P4 conference opponent. Nonetheless, Jayden Mandal put some doubts to rest on Saturday night about him being capable enough to be Fresno State’s starting quarterback. Mandal went 23-for-26 for 316 yards and two touchdowns, and a rushing touchdown, in the Bulldogs’ [&#8230;]",
-        "author": "Adam Evarts",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "3618f000908a6878",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Owls in Flight: The Rice-Nebraska Game That Marked Football’s Return from 9/11",
         "link": "https://pressbreak.substack.com/p/owls-in-flight-the-rice-nebraska",
         "link_kind": "item",
@@ -323,23 +337,23 @@
         "id": "a146a3c0c4ea618e",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "Pac-12 Players of the Week - Aug. 25, 2026",
-        "link": "http://pac-12.com/news/2026/8/25/womens-soccer-pac-12-players-of-the-week-aug-25-2026.aspx",
-        "link_kind": "item",
-        "date": "2026-08-25T11:00:00+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/25/POTW.png\" /><br /><br />The Pac-12 today announced its players of the week for men's and women’s soccer, including a pair of Texas State women's players who helped topple Texas A&M and No. 6 Baylor, and a pair of UC San Diego Tritons on the men's side who were instrumental in a dominant season-opening win over Navy.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "edbbd92d8897694b",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Boise State": [
+      {
+        "title": "Riley Named Doak Walker National Running Back of the Week",
+        "link": "https://broncosports.com/news/2026/9/15/football-riley-named-doak-walker-national-running-back-of-the-week",
+        "link_kind": "item",
+        "date": "2026-09-15T17:00:00+00:00",
+        "summary": "<img alt=\"Dylan Riley vs. Memphis, Sept. 12, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/15/Dylan_Riley__Boise_State_RB.jpg\" /><br /><br />Pac-12 Offensive Player of the Week ran for career-high 206 yards in win over Memphis",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "266b5d6b55ba81a4",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Riley, Bates receive weekly Pac-12 honors",
         "link": "https://www.arbiteronline.com/2026/09/14/riley-bates-receive-weekly-pac-12-honors/",
@@ -691,20 +705,6 @@
         "extent": "59 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "NFL Broncos: Week One",
-        "link": "https://broncosports.com/news/2026/9/8/football-nfl-broncos-week-one",
-        "link_kind": "item",
-        "date": "2026-09-08T23:00:00+00:00",
-        "summary": "<img alt=\"NFL Broncos Week One\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/8/FB26-Broncos-In-NFL-WEB.jpg\" /><br /><br />Ten Boise State products set to kick off 2026 season",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "854ad7053bc46817",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "Boise State Game Balls for Oregon",
@@ -2822,6 +2822,77 @@
     ],
     "Oregon State": [
       {
+        "title": "Oregon State coaches say running backs need to 'get hot' to balance offense",
+        "link": "https://www.oregonlive.com/beavers/2026/09/can-oregon-states-run-game-find-its-footing-against-montana.html",
+        "link_kind": "item",
+        "date": "2026-09-16T00:29:34+00:00",
+        "summary": "The Beavers have the least productive rushing attack in the county through two games.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "f50b0fb94191be6a",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Football: Offense Meets The Media (Sept. 15, 2026)",
+        "link": "https://osubeavers.com/news/2026/9/15/oregon-state-football-offense-meets-the-media-sept-15-2026",
+        "link_kind": "item",
+        "date": "2026-09-15T21:08:00+00:00",
+        "summary": "<img alt=\"9/15 Cover\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/15/260915_presser.png\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "8acb7ce502a80c39",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Move-In decoded: What UHDS staff wants students to know",
+        "link": "https://dailybaro.orangemedianetwork.com/32902/daily-barometer-news/move-in-decoded-what-uhds-staff-wants-students-to-know/",
+        "link_kind": "item",
+        "date": "2026-09-15T19:30:57+00:00",
+        "summary": "Oregon State University&#8217;s move-in starts this week and is staggered across three days by residence hall—staff have ideas of how students can tackle this while making each day count. Drew Morgan, director of Residential Education, said the approach is part of making a stressful day &#8220;a positive, memorable experience.&#8221; That staffing structure extends beyond move-in...",
+        "author": "Jayasnehasree Sannidhi, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "a09fcfc666e9599b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Beavers vs Montana Grizzlies Game Preview",
+        "link": "https://cms.megaphone.fm/channel/CAD1283298451",
+        "link_kind": "item",
+        "date": "2026-09-15T18:32:32+00:00",
+        "summary": "<p>Angie Machado, Brenden Slaughter, Spencer Newell and Ryan Harlan sit down to discuss the loss to Texas Tech, what went right and what we want to see going forward. The team also dives into what Oregon State needs to do to pull out a win over the visiting Montana Grizzlies this Saturday night. We also take listener questions in this week's edition of Dam Questions.</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+        "author": "angie@beaverblitz.com (Dam Podcast)",
+        "duration": 3633,
+        "channel_url": "https://cms.megaphone.fm/channel/CAD1283298451",
+        "source": "Dam Podcast",
+        "id": "2fdc57ebaea11f5d",
+        "extent": "1h 1m",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
+        "title": "Jesse Legree Recognized As Shaun Alexander National Freshman Of The Week",
+        "link": "https://osubeavers.com/news/2026/9/15/football-jesse-legree-recognized-as-shaun-alexander-national-freshman-of-the-week",
+        "link_kind": "item",
+        "date": "2026-09-15T15:01:00+00:00",
+        "summary": "<img alt=\"Jesse Legree\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/14/09122026_FB_Texas_Tech_LegreeJesse_6028.jpg\" /><br /><br />CORVALLIS, Ore. – The honors keeping in for Jesse Legree.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "0a9066e334e46687",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Late additions to Oregon State roster becoming less likely",
         "link": "https://www.oregonlive.com/beavers/2026/09/this-is-where-were-at-late-additions-to-oregon-state-roster-becoming-less-likely.html",
         "link_kind": "item",
@@ -3301,35 +3372,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State Beavers vs Texas Tech Red Raiders Preview | Dam Podcast",
-        "link": "https://cms.megaphone.fm/channel/CAD1283298451",
-        "link_kind": "item",
-        "date": "2026-09-08T23:09:03+00:00",
-        "summary": "<p>The BeaverBlitz team of Angie Machado, Brenden Slaughter and Cass Smith start things off talking about the Beavers loss to Houston. Standout performances by quarterback Braden Atkinson and freshman wide receiver Jesse Legree and the inability of Oregon State to establish a run game. Defensively the Beavers gave up some explosive plays by not wrapping up tackles. &nbsp;</p><p>They then transition to discussing #13 Texas Tech coming to Reser Stadium this weekend and what they want to see from the offense and defense.</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
-        "author": "angie@beaverblitz.com (Brenden Slaughter, Cass Smith, Angie Machado)",
-        "duration": 1746,
-        "channel_url": "https://cms.megaphone.fm/channel/CAD1283298451",
-        "source": "Dam Podcast",
-        "id": "03db826d19476c65",
-        "extent": "29 min",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Coach JaMarcus Shephard has developed elite freshmen before — and Jesse Legree could be next",
-        "link": "https://www.oregonlive.com/beavers/2026/09/freshman-jesse-legree-delivers-immediate-results-for-oregon-state.html",
-        "link_kind": "item",
-        "date": "2026-09-08T21:12:39+00:00",
-        "summary": "Oregon State freshman receiver Jesse Legree recorded five catches for 136 yards and a touchdown in his college debut, earning Pac-12 Freshman of the Week honors.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "0bb3db2fc297c16f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State Football: Offense Meets The Media (September 8, 2026)",
         "link": "https://osubeavers.com/news/2026/9/8/oregon-state-football-offense-meets-the-media-september-8-2026",
         "link_kind": "item",
@@ -3357,34 +3399,6 @@
         "extent": "55 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "AJ Winsor Recognized By Ray Guy Award",
-        "link": "https://osubeavers.com/news/2026/9/8/football-aj-winsor-recognized-by-ray-guy-award",
-        "link_kind": "item",
-        "date": "2026-09-08T20:01:00+00:00",
-        "summary": "<img alt=\"AJ Winsor\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/8/Aj_Winsor_Punt.jpg\" /><br /><br />CORVALLIS, Ore. – Oregon State's AJ Winsor is one of the Ray Guy Award Ray's 8 for the first week of the season, it was announced on Tuesday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "678ee049089cd95a",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Jesse Legree Named Pac-12 Football Freshman Of The Week",
-        "link": "https://osubeavers.com/news/2026/9/8/jesse-legree-named-pac-12-football-freshman-of-the-week",
-        "link_kind": "item",
-        "date": "2026-09-08T16:59:00+00:00",
-        "summary": "<img alt=\"LegreeJesse\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/8/09052026_FB_Houston_LegreeJesse_3460.jpg\" /><br /><br />CORVALLIS, Ore. – Oregon State's Jesse Legree had quite the first career game on Saturday, and his performance was recognized when he named the Pac-12 Conference's Freshman of the Week on Tuesday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "6b25685bc8cba748",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "Beaver Bash to celebrate end of summer",
@@ -3499,20 +3513,6 @@
         "extent": "37 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Shephard discusses Atkinson pick",
-        "link": "https://dailybaro.orangemedianetwork.com/32843/daily-barometer-sports/shephard-discusses-atkinson-pick/",
-        "link_kind": "item",
-        "date": "2026-08-25T21:48:11+00:00",
-        "summary": "The Oregon State University football team announced Mercer transfer Braden Atkinson as the selection for the first-string quarterback position on Monday. This announcement came after weeks of speculation on the pick.  Atkinson was chosen as the starter over returning starting quarterback Maalik Murphy and Western Michigan transfer Brady Jones. Head Coach JaMarcus Shephard held a...",
-        "author": "Colton Freeman, Sports Writer",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "b5f4127b97c3d2dc",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "Beavers Finish Canada Trip 3-0",
@@ -4027,20 +4027,6 @@
         "medium": "text"
       },
       {
-        "title": "Men’s soccer kicks off the semester against Life Pacific, tallying its first win of the regular season",
-        "link": "https://thedailyaztec.com/128525/sports/soccer/mens-soccer-kicks-off-the-semester-against-life-pacific-tallying-its-first-win-of-the-regular-season/",
-        "link_kind": "item",
-        "date": "2026-08-28T23:28:46+00:00",
-        "summary": "San Diego State men’s soccer team (1-1-1) closed out their inaugural homestand of the new year Thursday night against the Life Pacific Warriors (0-1-0) with a dominant 7-1 final, notching their first successful outing of the 2026 season.  After beginning the season with a 1-0 win in a friendly match against Point Loma, the Aztecs...",
-        "author": "Noah Meyer, Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "1686aec9f7819a4c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "San Diego State Football 10 Days Away from Season Opener",
         "link": "https://goaztecs.com/news/2026/08/27/san-diego-state-football-10-days-away-from-season-opener",
         "link_kind": "item",
@@ -4425,6 +4411,90 @@
     ],
     "Texas State": [
       {
+        "title": "TXST MBB announces three staff additions for 26-27",
+        "link": "https://universitystar.com/36284/sports/txst-mbb-announces-three-staff-additions-for-26-27/",
+        "link_kind": "item",
+        "date": "2026-09-15T23:51:35+00:00",
+        "summary": "Texas State men&#8217;s basketball announced three new additions to head coach Terrence Johnson’s coaching staff for the upcoming 26-27 season, headlined by Vince Walden, former Bobcat Nijal Pearson and Gedi Juozapaitis. Walden joins the Bobcats as an assistant coach, bringing over two decades of experience in player development and recruiting. He spent the past seven...",
+        "author": "Kaden Cuyler, Sports Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "8d980d5db980f870",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Johnson Announces Three Staff Additions Ahead of 2026-27 Season",
+        "link": "https://txst.com/news/2026/9/15/mens-basketball-johnson-announces-three-staff-additions-ahead-of-2026-27-season.aspx",
+        "link_kind": "item",
+        "date": "2026-09-15T21:00:00+00:00",
+        "summary": "<img alt=\"Mark Drone\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/18/260306_MBB_SOUTHERNMISS_INGAME-04364.jpg\" /><br /><br />SAN MARCOS, Texas - Head Coach Terrence Johnson announced several additions and staff changes, welcoming Vince Walden as Assistant Coach and former Bobcat great and all-time leading scorer Nijal Pearson as Coordinator for Player Personnel and Strategy. Gedi Juozapaitis joins as Director of Video and Analytics.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "a0c107a497a260c2",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "WATCH | TXST Football Media Availability vs UNT (091526)",
+        "link": "https://txst.com/news/2026/9/15/watch-txst-football-media-availability-vs-unt-091526.aspx",
+        "link_kind": "item",
+        "date": "2026-09-15T20:44:00+00:00",
+        "summary": "<img alt=\"B Jackson Touchdown vs UTSA\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/15/260912_UTSA_-05.jpg\" /><br /><br />HC GJ Kinne, QB Brad Jackson, DB Ryan Nolan",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "b7a29ff352c411ed",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "TXST introduces new tailgating area",
+        "link": "https://universitystar.com/36254/sports/txst-introduces-new-tailgating-area/",
+        "link_kind": "item",
+        "date": "2026-09-15T16:30:36+00:00",
+        "summary": "Texas State introduced a new location for football game day tailgating: Boko&#8217;s Backyard. Located about half a mile from UFCU Stadium on campus recreation grass fields directly across from Travis Elementary School, Boko&#8217;s Backyard serves as Texas State&#8217;s new tailgate central. The tailgate was previously located in Lot Five outside UFCU Stadium. Athletics Director Don...",
+        "author": "Arabella DiChristina, Sports Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "21d37b992fdb94ff",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "TXST MBB unveils non-conference schedule ahead of inaugural Pac-12 season",
+        "link": "https://universitystar.com/36280/sports/txst-mbb-unveils-non-conference-schedule-ahead-of-inaugural-pac-12-season/",
+        "link_kind": "item",
+        "date": "2026-09-15T16:05:49+00:00",
+        "summary": "Texas State men’s basketball unveiled its non-conference slate for the 2026-2027 season Monday afternoon. After going 8-5 in non-conference play last year, the Bobcats will look to have better success as they start their first campaign in the rebuilt Pac-12 facing off with some familiar foes and old rivals in non-conference play. The Bobcats will...",
+        "author": "Ryan Keilman, Sports Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "f3a2648e84076bc6",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Texas State opens fall season at McNeese’s Cowgirl Invite tournament",
+        "link": "https://universitystar.com/36279/sports/texas-state-opens-fall-season-at-mcneeses-cowgirl-invite-tournament/",
+        "link_kind": "item",
+        "date": "2026-09-15T15:40:35+00:00",
+        "summary": "The Texas State Bobcats opened their fall tennis schedule this past weekend in the Cowgirl Invite hosted by McNeese State in Lake Charles, La. Tarleton State and Louisiana also participated in the three-day tournament, with Texas State earning a 16-16 overall record, with six doubles wins and 10 singles victories. On Friday, the Bobcats struggled...",
+        "author": "Juan Pereira Casanoba, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "57adc01f37c7e705",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Texas State women’s golf opens season at The Bruzzy",
         "link": "https://universitystar.com/36255/sports/texas-state-womens-golf-opens-season-at-the-bruzzy/",
         "link_kind": "item",
@@ -4537,48 +4607,6 @@
         "medium": "text"
       },
       {
-        "title": "Takeaways from Texas State vs No. 5 Texas",
-        "link": "https://universitystar.com/36218/sports/takeaways-from-texas-state-vs-no-5-texas/",
-        "link_kind": "item",
-        "date": "2026-09-11T16:30:02+00:00",
-        "summary": "Texas State were dealt a tough hand against the No. 5 Texas Longhorns, losing 59-7 in their Pac-12 era opener on Sept. 5. However, there was plenty to take away from this game ahead of a massive I-35 showdown in San Marcos against UTSA. 1. Brad Jackson hasn’t missed a beat since last season &#160;...",
-        "author": "Juan Pereira Casanoba, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "d597d93551b2cd55",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "No. 15 TXST drops first game of year to Louisiana",
-        "link": "https://universitystar.com/36223/sports/no-15-txst-drops-first-game-of-year-to-louisiana/",
-        "link_kind": "item",
-        "date": "2026-09-11T16:00:24+00:00",
-        "summary": "The No. 15 Texas State Bobcats saw its undefeated streak come to an end Thursday night as they fell 3-2 to the Louisiana Ragin&#8217; Cajuns at the Home Bank Soccer and Track Complex in Lafayette, Lou. Thursday&#8217;s victory marks the Ragin&#8217; Cajuns (5-2-1) first-ever ranked win in program history as the former Sun Belt rival...",
-        "author": "Kaden Cuyler, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "84a5389f0558381a",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "TXST brings Pac-12 back to USLBM Challenge against North Texas",
-        "link": "https://universitystar.com/36213/sports/txst-brings-pac-12-back-to-uslbm-challenge-against-north-texas/",
-        "link_kind": "item",
-        "date": "2026-09-10T16:00:22+00:00",
-        "summary": "Texas State men’s basketball will bring the new-look Pac-12 back to the USLBM Coast to Coast Challenge when the Bobcats take on the North Texas Mean Green Sunday, Dec. 13, at Dickies Arena in Fort Worth, Texas, Total Sports Consulting released last week. The event will be a doubleheader, with Texas Tech and USC opening...",
-        "author": "Jackson Grettler, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "b7c9856de30c04ae",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Game Preview: TXST vs UTSA",
         "link": "https://txst.com/news/2026/9/10/football-game-preview-txst-vs-utsa.aspx",
         "link_kind": "item",
@@ -4677,20 +4705,6 @@
         "medium": "text"
       },
       {
-        "title": "The Dan & Cindee Dipenhorst Champions Club is Officially SOLD OUT",
-        "link": "https://txst.com/news/2026/9/2/football-the-dan-cindee-dipenhorst-champions-club-is-officially-sold-out.aspx",
-        "link_kind": "item",
-        "date": "2026-09-02T21:30:00+00:00",
-        "summary": "<img alt=\"Graphic announcing the sell out of the Dan & Cindee Diepenhorst Champions Club for the 2026 Texas State football season.\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/Champions_Club-_Sold_Out-16x9_copy.png\" /><br /><br />The Dan & Cindee Diepenhorst Champions Club is officially SOLD OUT for the 2026 Texas State football schedule. Click on the image for South End Zone Premium Seating options.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "563519a223329e59",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Texas State to Face North Texas in USLBM Coast to Coast Challenge",
         "link": "https://txst.com/news/2026/8/31/mens-basketball-texas-state-to-face-north-texas-in-uslbm-coast-to-coast-challenge.aspx",
         "link_kind": "item",
@@ -4734,6 +4748,21 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "Utah State Football Comes Short of Upset Over #19 Washington",
+        "link": "https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/Utah-State-Football-Comes-Short-of-Upset-Over-19-Washington-e3oqi45",
+        "link_kind": "item",
+        "date": "2026-09-15T06:01:00+00:00",
+        "summary": "<p>• We started by highlighting the monumental 4-0 win over BYU for soccer</p><p>• We then talked about the near upset of the Washington Huskies</p><p>• Lastly we did a sneak peek of the Battle of the Brothers and how we feel about the rest of September as a whole as we seek for our first win.</p>",
+        "author": "The Scotsman Show",
+        "duration": 1845,
+        "channel_url": "",
+        "source": "The Scotsman Show",
+        "id": "ca3c0ffd544c7b3f",
+        "extent": "31 min",
+        "sport": "football",
+        "medium": "audio"
+      },
       {
         "title": "Utah State Football Travels to Rice-Eccles Stadium to Play No. 17 Utah",
         "link": "https://utahstateaggies.com/news/2026/9/14/utah-state-football-travels-to-rice-eccles-stadium-to-play-no-17-utah.aspx",
@@ -5131,6 +5160,94 @@
     ],
     "Washington State": [
       {
+        "title": "Pro Cougs NFL: Ward struggles as Henley balls out",
+        "link": "https://dailyevergreen.com/198997/sports/football/pro-cougs-nfl-ward-struggles-as-henley-balls-out/",
+        "link_kind": "item",
+        "date": "2026-09-16T00:17:35+00:00",
+        "summary": "The 2026 NFL season opened with a Super Bowl rematch between the Seahawks and Patriots. The game also featured another Coug-on-Coug matchup, with Abraham Lucas and Kyle Williams playing against each other once again. Cam Ward (Titans) &#8211; It was not the ideal start for the sophomore quarterback, who lost to the Jets 23-10. Ward...",
+        "author": "Ibrahim Daniel, Evergreen reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "e244928fece738ad",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "WSU’s Caden Pinnick on short postgame message: ‘I need to be a better image’",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsus-caden-pinnick-on-short-postgame-message-i-need-to-be-a-better-image/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-09-15T17:15:26+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/tzr_095235.jpg?d=1200x630\"><br/>WSU QB Caden Pinnick was short on words after Saturday's loss. He called it a \"growing process\" and vowed to be a \"better image\" for his teammates.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "c7f084510d6b4bd7",
+        "sport": "football",
+        "medium": "text",
+        "also": [
+          "The Spokesman-Review"
+        ]
+      },
+      {
+        "title": "WSU Football: Kirby Moore and Student-Athletes | Duquesne Week Press Conference | 9/14/26",
+        "link": "https://wsucougars.com/news/2026/09/15/wsu-football-kirby-moore-and-student-athletes-duquesne-week-press-conference-91426",
+        "link_kind": "item",
+        "date": "2026-09-15T08:51:53+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "046fcc783c47ee0c",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU vs Duquesne Preview 🚨 Are the Dukes Better Than Their Record? | NEC Blitz Crossover",
+        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/WSU-vs-Duquesne-Preview--Are-the-Dukes-Better-Than-Their-Record---NEC-Blitz-Crossover-e3os6b3",
+        "link_kind": "item",
+        "date": "2026-09-15T05:01:13+00:00",
+        "summary": "<p>Washington State returns home to face Duquesne, but don&#39;t let the Dukes&#39; record fool you.In this episode of the Palouse Playbook Podcast, Gavin is joined by AJ from NEC Blitz to break down Duquesne football, the Northeast Conference, and what Coug fans should expect when the Dukes travel to Pullman.Despite losses to Youngstown State and Air Force, Duquesne remains one of the NEC&#39;s premier programs and could once again contend for an FCS playoff berth. We dive into key players, coaching, the quarterback situation, and why this matchup deserves more respect than many fans may think.🏈 Topics CoveredWSU vs Duquesne previewWhy Duquesne is still an NEC contenderCarson Camp and the Dukes&#39; quarterback roomWalter Payton Award watchlist RB Ness DavisKey offensive weapons to watchDefensive standouts and young rising starsNEC football overview and conference favoritesSimilarities between Duquesne and Washington StateWhy FCS football deserves more attentionCan Duquesne challenge the Cougars in Pullman?⭐ Players to Watch✅ Carson Camp (QB)✅ Ness Davis (RB)✅ Zamir Corral (WR)✅ Ryan Petras (WR)✅ Dallas Harper (DB)✅ DJ Cerizier (DB)✅ Will Martin (Freshman Defender)🔥 Key QuestionsIs Duquesne a legitimate FCS playoff contender?Can the Dukes rebound after a difficult start to the season?How will Washington State respond after a rocky beginning to 2026?Which Duquesne players could impact the game the most?Is this a bigger challenge for the Cougars than fans realize?A huge thanks to AJ and NEC Blitz for joining the show and giving Coug fans an inside look at one of the Northeast Conference&#39;s most successful programs.👇 Let us know in the comments:What&#39;s your score prediction for WSU vs Duquesne?Which Duquesne player concerns you the most heading into Saturday?If you enjoy Washington State football coverage, Pac-12 content, opponent previews, recruiting, and college football analysis, be sure to LIKE, SUBSCRIBE, and turn on notifications so you never miss an episode.#GoCougs #WashingtonState #WSUFootball #DuquesneFootball #CollegeFootball #FCSFootball #PalousePlaybook #Pac12 #NECFootball #CougarFootball #NessDavis #CarsonCamp #CollegeFootballPodcast #CFB #UpWestSports #WashingtonStateCougars #DuquesneDukes #CollegeFootballPreview</p>",
+        "author": "Up West Sports",
+        "duration": 1239,
+        "channel_url": "",
+        "source": "Palouse Playbook",
+        "id": "49e3f0ff652c9ccc",
+        "extent": "21 min",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
+        "title": "Jaylen Thomas Named Pac-12 Defensive Player of the Week",
+        "link": "https://wsucougars.com/news/2026/09/15/jaylen-thomas-named-pac-12-defensive-player-of-the-week",
+        "link_kind": "item",
+        "date": "2026-09-15T00:55:12+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "423c8b938cc9418d",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Through two games, what's to make of WSU's defense?",
+        "link": "http://www.spokesman.com/stories/2026/sep/15/through-two-games-whats-to-make-of-wsus-defense/",
+        "link_kind": "item",
+        "date": "2026-09-15T00:00:00+00:00",
+        "summary": "<p>PULLMAN — Across the last two days, in the hours since Washington State dropped a lopsided decision to Kansas State over the weekend, the Cougars’ offense has earned all the headlines.</p><p><em>What’s up with that WSU offense? Why can’t the Cougs get anything going?</em></p><p>Coach Kirby Moore and offensive coordinator Matt Miller have earned as much. The Cougars currently rank last nationally in both total offense (408 yards) and points per game (8.5), and for a program famous for its prolific offenses of the past, that won’t sit well around the institution.</p><p>But what about WSU’s defense?</p><p>In a season-opening Apple Cup loss to Washington, which has gone from ranked No. 17 to unranked, defensive coordinator Trent Bray’s unit looked sharp. The Cougars permitted just 10 points through three quarters, 24 total. They supplied a key goal-line stop right before halftime. In his first game back from a season-ending injury last fall, linebacker Keith Brown led the team with six tackles, including the first hit that led to that fourth-down stand.</p><p>But after getting gashed for 34 points last weekend in a lopsided loss to Kansas State, WSU’s defense is under the microscope a bit. Several extenuating circumstances led to that reality, including starting cornerbacks Khamari Terrell and Jalil Tucker both missing the game with injuries. That gave more opportunities to reserve cornerback Kai Rapolla, who struggled a bit, and redshirt freshman Jamarey Smith, who moved from nickelback to cornerback in a pinch.</p><p>It wasn’t enough to slow down K-State’s offense, which produced 192 yards passing from quarterback Avery Johonson and another 295 yards from its running backs, including 105 yards and a long touchdown rush from Rodney Fields Jr. and 68 yards from Joe Jackson. Johnson also broke free for 78 yards on the ground, including one long rush of 26 yards.</p><!--[embed id=12187]--><p>Where does that put WSU’s defense? Perhaps the biggest issue facing the Cougs on that front is third-down defense. In Saturday’s game, they permitted the Wildcats to convert 10 of 16 chances. In the Apple Cup, the Huskies made good on 4 of 12 opportunities. All told, that means WSU has given up 14 of 28 third-down conversions — 50%, which is tied for No. 107 nationally.</p><p>“The third downs, we can execute better,” Moore said. “When we need a pass rush, it&#8217;s gotta show up. There was times where we didn&#8217;t get home. The quarterback extended. He was able to find guys or run. And then in the second half, just gap integrity. We had a couple misfits there, and then it broke right there on the first run to open the second half. We gotta play team defense in those situations and play top down.”</p><p>As Moore alluded to, one of the central issues that faced the Cougars in Manhattan centered around their inability to generate meaningful pressure on Johnson. According to Pro Football Focus, WSU produced just six pressures, including just one from defensive end Matyus McLain and none from his counterpart, fellow pass rusher Linus Zunk. If WSU was going to pull an upset, it was likely going to be in large part thanks to that duo, but they weren’t able to create as much havoc as they were in the Apple Cup.</p><p>The interesting part, though, is that it did seem like WSU supplied some pressure. On several occasions, interior defensive linemen like Paul Hutson III (two pressures) and Damarjhe Lewis (one pressure) got some penetration, only for Johnson to slip through upfield and find receivers for big gains.</p><p>“Quarterback had some scramble runs and scramble opportunities finding guys downfield,” Moore said.</p><p>If there’s good news in there for WSU, it’s about safety Jaylen Thomas, who earned Pac-12 Defensive Player of the Week honors for delivering two interceptions, including one pick-six to end the half. It was the program’s first pick-six in two seasons.</p><p>Emerging, too, is WSU linebacker Isaiah Hung. In Saturday’s game, he played a career-high 41 snaps and supplied eight tackles, also a career-high. It appears he is now the Cougars’ No. 3 linebacker, behind starters Brown and DJ Warner. Could he earn an even bigger role this Saturday, when WSU hosts winless FCS squad Duquesne?</p><p>In that one, the Cougars should have some wiggle room to experiment, especially on defense. Look for Hung to play a central role on that front — and maybe even secure a more prominent gig for the following week, when Arizona visits Pullman for a primetime tilt.</p><!--[embed id=12188]--><p>“Isaiah&#8217;s done a great job throughout the whole off-season,” Moore said. “The weight room piece, I think, attacking the schematics with Coach Bray and what he does with those guys at the linebacker position. Going into your second year, sometimes your first year, things are moving a little bit fast. I think the game slowed down for him, and his talent and ability has shown up there.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "a96e957323bdc5bf",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Washington State Cougars’ Tony Freeman to miss rest of season with torn ACL",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/washington-state-wr-tony-freeman-to-miss-rest-of-season-with-torn-acl/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -5203,20 +5320,6 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "9c1a3c91c08baf31",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "'I need to be a better image': WSU QB Caden Pinnick addresses short postgame message after loss to Kansas State",
-        "link": "http://www.spokesman.com/stories/2026/sep/14/i-need-to-be-a-better-image-wsu-qb-caden-pinnick-a/",
-        "link_kind": "item",
-        "date": "2026-09-14T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Shortly after Washington State wrapped up its last game, a blowout road loss to Kansas State over the weekend to drop coach Kirby Moore’s team to 0-2 to open the season, Cougar quarterback Caden Pinnick was short on words.</p><p>On some of the team’s biggest problems on offense, Pinnick said only, “We just lost. Next question.”</p><p>On what was holding back WSU’s passing offense, which produced only 65 yards, Pinnick said, “Good team. We lost.”</p><p>On whether he felt like offensive coordinator Matt Miller’s playcalls were putting the team in the best positions to succeed, Pinnick said, “It’s not for me to say. We just gotta get better.”</p><p>On Monday, Pinnick led off his news conference addressing that postgame session, which lasted less than two minutes, saying it was “not quite the response that you want.”</p><p>“As you lose two games in a row, emotions can be high,” Pinnick said, “and as a quarterback of this team and university, it is my job to give this team and institution some pride and belief. My frustrations from the past two weeks crept up on me, got the best of me. It was a growing process for me as well, and looking to get better.”</p><!--[embed id=12185]--><p>Pinnick, who completed just 9 of 20 passes for 65 yards in Saturday’s game, is the face of a WSU offense that is still finding its footing. After two games, the Cougars rank last in the country in both total offense (408 yards) and points per game (8.5). Against K-State, Pinnick became the first WSU QB to pass for fewer than 100 yards since Jeff Tuel did so in 2010, which was also the last time a WSU offense went scoreless in one game.</p><p>The Cougs have also played a grueling two games to open the season, facing road contests against Power 4 foes Washington and Kansas State. That raises this question: How many of the Cougars’ problems are products of the opponents they’ve played, and how many are issues they could correct on their own?</p><p>“Honestly, a lot of them are on me,” said Pinnick, a redshirt sophomore transfer from FCS UC Davis. “Whether it’s getting guys lined up in correct formation and proper verbalization in the huddle. But credit to the teams that we played. I’m a realist, and I’ve spoke to the team and just kinda put it in perspective: we’ve played two really good defenses that have been established.</p><p>“This is a new offense, yes, and we’re all starting to learn and get familiarized with it. I don’t think there’s anything negative to take away, other than, yeah, let’s move the ball some more. Let’s simplify some things, and let’s just be better.”</p><p>Pinnick, 20, is under a spotlight he has never been before. He acknowledged that on Monday, saying that he’s had to lean on several kinds of people to make this adjustment: His mother, Heidi, plus his coaches. He also admitted these kinds of settings aren’t as common at UC Davis, saying, “That’s something that I’m continuing to grow in, coming from a smaller place. You don’t get a lot of that, and so this is a daily growing process.”</p><p>“I think after a really bad offensive performance for two weeks straight, I think your mind is all over the place,” Pinnick added. “You just come to your senses 24 hours after an incident. You realize like, yeah, I was wrong. I need to be a better image for my team and my guys. Acknowledging, like, hey, yeah, we lost, but what’s gonna change? That just clicked to me, and it helped me realize that, as someone who’s my position, I gotta act better.”</p><p>Even outside of Saturday’s postgame incident, Pinnick and the WSU offense are under scrutiny. The Cougars failed to record an offensive touchdown last weekend, putting offensive coordinator Matt Miller under the microscope. It’s forced Moore, a longtime friend and former teammate of Miller at Boise State, to answer some questions.</p><p>That includes this question: Is the idea that Moore should take over some playcalling duties an overreaction?</p><p>“Well, I think everything’s up for evaluation,” Moore said. “I think the most important thing is we gotta work together. And like I said, we’re having a lot of meetings, looking at our process, looking at our practice plans, looking at how many reps we get, how many calls are on the call sheet. All those things need to be looked at because we gotta put our guys in the best position to be successful.”</p><p>For WSU, that’s the other side of the calculus. Are Miller and his playcalls delivering on that idea, putting the Cougs in the best positions on offense?</p><p>“Collectively, we gotta play better,” Moore said. “Whether it’s the in-the-week process, whether it’s carrying that over to Saturday and trusting everything that we’ve done during the week, that’s gonna be the big focus, and I wanna help with that.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "e9d0b1fdaa1320d5",
         "sport": "football",
         "medium": "text"
       },
@@ -6048,20 +6151,6 @@
         "medium": "text"
       },
       {
-        "title": "WSU won’t face a defense like Washington’s again this season. But the Cougars have real concerns on offense | Analysis",
-        "link": "http://www.spokesman.com/stories/2026/sep/06/wsu-wont-face-a-defense-like-washingtons-again-thi/",
-        "link_kind": "item",
-        "date": "2026-09-06T00:00:00+00:00",
-        "summary": "<p>SEATTLE – Somewhere deep within Husky Stadium, the site of Washington State’s 24-10 loss to Washington in Sunday’s Apple Cup, Caden Pinnick began to trail off. In front of a crimson backdrop, he was talking about his outing in the game, the touchdown and two interceptions he registered in his debut as the Cougars’ new quarterback, when he cut himself off.</p><p>He shook his head ever so slightly and said, “I’m just thinking about the 0-for-11 right now.” </p><p>That would be WSU’s conversion rate on third down for the entire game, a key reason why the Cougars couldn’t generate enough offense to take advantage of their defense’s heroics and climb back into this one. In their first eight drives, they lost two turnovers, totaled just north of 100 total yards of offense and, perhaps most importantly, did not convert a single third down.</p><p>That trend hovered over the Cougars’ entire outing on offense, derailing their best-laid plans. They did convert one fourth down, which led to Pinnick’s rushing touchdown in the fourth frame, but WSU will not feel good about this offensive showing. The Cougars lost three total turnovers, missed two field goals, tallied just 38 rushing yards from running backs, submitted two three-and-outs.</p><p>Before we get into the weeds on this WSU outing, the first for new head coach Kirby Moore, let’s explore a bit of context. First, it’s likely that for the rest of this season, the Cougars will not face a defense as good as the Huskies’. Washington’s defense, which returns 11 players who made starts from a 2025 outfit that finished No. 11 in total defense, projects to be one of the nation’s finest this fall. For that reason, many of the problems the Cougars faced here on Sunday – inside runs going nowhere, too much pressure on Pinnick, coverage sacks – may not be as prevalent in future games.</p><p>Plus, in the second quarter, WSU lost a key receiver to injury: veteran Tony Freeman. It’s unclear what exactly his injury was, but after the game, Moore called it “very unfortunate.” Freeman will get an MRI soon to diagnose the injury and provide a prognosis, Moore added. Freeman is expected to be one of the Cougars’ top receivers this season, if not their absolute best, so that kind of development surely threw a wrench into offensive coordinator Matt Miller’s blueprint and forced him to make adjustments that were never part of it.</p><!--[embed id=12160]--><p>Still, for WSU, that injury fits in with the other side of this: Lots of the things the Cougars put on display in this Apple Cup don’t figure to vanish as easily. Plenty of the other problems WSU faced will require fixing, not just putting Washington in the rearview mirror.</p><p>Some of the main ones center around playcalling. Perhaps the biggest error Miller and the Cougs made in that department came in the second quarter. Facing a critical third-and-5 near midfield, needing points on this drive to prevent things from getting away from them, the Cougars decided on a shotgun inside handoff for running back Kirby Vorhees. He gained one yard, and punter Max Dean sent it away one play later.</p><p>“There’s certain analytics,” Moore said about that play call. “Obviously, you get to a certain down and distance and you wanna be able to go for it on fourth down. We did not. We got 1 (yard). Was expecting hopefully to get a couple more there in that situation.”</p><p>On several other occasions, WSU showed a similarly vanilla approach to offense, trying to move bodies on the interior and run up the gut. Here are the yards the Cougars gained on runs up the middle by running backs: 6, minus 1, 3, 4 (fumble from Vorhees), 6, 1, 1, 0, 0, 8. That adds up to 10 carries for 28 yards, an average of 2.8 yards per try. It was clear from near the beginning of the game that the Cougars would not have much luck with that approach.</p><p>But throughout the game, Miller and WSU coaches kept at it, which registered as strange. The Cougars surely would like to be able to move linemen up front and run up the gut. But when you’re facing meaningful size and skill disadvantages in that department, it’s time to notice that and adjust accordingly, which didn’t always happen. It puts Miller at risk of making the same mistake that hampered Washington State’s offense for the first half of last season: miscasting players and, for lack of a better phrase, trying to force a round peg in a square hole.</p><p>The good news for Miller and the Cougars is that in the playcalling department, he wasn’t always so hard-headed. WSU unlocked some of its best offense when Pinnick rolled out of the pocket, when coaches schemed up space for him to take a second and scan the field, when they got their fastest players – Woods, Tank Hawkins – going to the outsides. They also got two sharp outings from receivers Daniel Blood and Darrius Clemons, who combined for eight catches for 97 yards.</p><p>With those kinds of moves, Miller showed a deft hand and a keen sense of adjustments, which will be critical for the Cougs this fall.</p><p>“Those plays are definitely an in-game feeling. I think we got the ball rolling when we did that,” Pinnick said. “But I have no doubt that coach Miller is gonna put me in the best situation and seemed to be in the best situation to convert on some of these plays. We just gotta get better at some of these situational football plays, and we’ll be better.”</p><!--[embed id=12161]--><p>For WSU, the critical part will be this: In future games, in the two Power 4 tilts the Cougars have lined up in the next three weeks, can Miller be as quick to make adjustments? Or will he show the same type of conventional playcalling ideas, the standard dropbacks that resulted in Pinnick taking three sacks and scrambling countless other times from pressure?</p><p>“You gotta go back to first and second down first, and we gotta be more efficient,” Moore said. “We gotta create more explosives there on first and second down. And then third and long and XL, they’ve got a really good front, and sometimes that front was getting there a little bit quicker than we wanted it to. So that’s something we gotta look at.”</p><p>In Sunday’s game, WSU left guard Kyle Martin registered a Pro Football Focus overall offensive grade of 29.9, which is about 30 points below average. His run-blocking grade was 38.8, lowest on the team, and his pass-blocking grade was an unsightly 5.8, allowing one sack on four total pressures. He slogged through a forgettable game in his first career start at the college level.</p><p>But like several other patterns in Sunday’s game, across the rest of this season, Martin and WSU won’t face the same kinds of problems that the Huskies presented. The one key question: Can the Cougars make enough adjustments to avoid finding themselves in those types of situations to begin with? The answer may play an outsize role in how the rest of Moore’s debut season unfolds.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "2e9cc91a2f1d4232",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "WSU Football: College Gameday Ol' Crimson Flag inducted into ESPN Hall of Fan! 9/4/26",
         "link": "https://wsucougars.com/news/2026/09/5/wsu-football-college-gameday-ol-crimson-flag-inducted-into-espn-hall-of-fan-9426",
         "link_kind": "item",
@@ -6589,20 +6678,6 @@
         "medium": "audio"
       },
       {
-        "title": "WSU Cougars name Caden Pinnick starting quarterback for 2026 season",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-cougars-name-caden-pinnick-starting-quarterback-for-2026-season/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-08-24T21:24:22+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/08/08242026_tzr_tzr_142142.jpg?d=1200x630\"><br/>Washington State’s starting quarterback for this season is in place. The Cougars will start UC Davis transfer Caden Pinnick, the program announced Monday.",
-        "author": "Greg Woods",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "55916ebb9d97e744",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "WSU Football: Kirby Moore | B. Ganashamoorthy | Jaylen Thomas | Fall Camp Press Conference | 8/23/26",
         "link": "https://wsucougars.com/news/2026/08/24/wsu-football-kirby-moore-b-ganashamoorthy-jaylen-thomas-fall-camp-press-conference-82326",
         "link_kind": "item",
@@ -7110,34 +7185,6 @@
         "extent": "19 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Cougar Football Preseason Camp – Day 3",
-        "link": "https://wsucougars.com/news/2026/08/8/cougar-football-preseason-camp-day-3",
-        "link_kind": "item",
-        "date": "2026-08-08T23:06:41+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "cb98150ecb51dc97",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU Football: Kirby Moore | Keith Brown | Kyle Martin | Fall Camp Press Conference | 8/9/26",
-        "link": "https://wsucougars.com/news/2026/08/8/wsu-football-kirby-moore-keith-brown-kyle-martin-fall-camp-press-conference-8926",
-        "link_kind": "item",
-        "date": "2026-08-08T21:07:16+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "f4d72b5d063e9942",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "WSU Football Practice Report: Day 1 Winners, QB Battle & O-Line Changes",
