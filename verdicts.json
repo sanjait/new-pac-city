@@ -5682,6 +5682,162 @@
       "extent": "4 min read",
       "lock": "paywall",
       "run": "run_2026-09-15-2019"
+    },
+    "21d37b992fdb94ff": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece covers Texas State Athletics' new football tailgating location and policy at UFCU Stadium, quoting the athletics director.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Arabella DiChristina"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-16-0140"
+    },
+    "57adc01f37c7e705": {
+      "subjects": {
+        "texas-state/womens-tennis": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The recap covers the Texas State women's tennis team's doubles and singles results at the Cowgirl Invite, inferred from the roster of female players named throughout.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-16-0140"
+    },
+    "8d980d5db980f870": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is entirely about Texas State men's basketball's new coaching staff additions.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-16-0140"
+    },
+    "a09fcfc666e9599b": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The whole piece is about OSU student move-in logistics and residential staff advice, with no athletics content.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jayasnehasree Sannidhi"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-16-0140"
+    },
+    "a96e957323bdc5bf": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece analyzes Washington State football's defensive performance and personnel across its first two games.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-16-0140"
+    },
+    "abf237018db8da06": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Wyoming football",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Nevada football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The body itself only names Wyoming and Nevada football and gestures at a linked Pac-12 rankings piece without naming any covered school.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The feed summary surfaces a linked headline naming WSU in the Pac-12 rankings, but the body text of this roundup never names a covered school itself.",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-16-0140"
+    },
+    "c7f084510d6b4bd7": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The whole piece covers WSU quarterback Caden Pinnick's postgame comments and the team's offensive struggles.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-16-0140"
+    },
+    "e244928fece738ad": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The whole piece tracks former Washington State football players' performances across their NFL Week 1 games.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-16-0140"
+    },
+    "f3a2648e84076bc6": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece announces Texas State men's basketball's full non-conference schedule for the 2026-27 season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ryan Keilman"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-16-0140"
+    },
+    "f50b0fb94191be6a": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The title and summary together identify Oregon State's running backs and rushing attack, establishing both the program and its football performance.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-16-0140"
     }
   },
   "runs": {
@@ -6181,6 +6337,47 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 54.559492299998965,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-16-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-16T01:38:53.365957+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 8,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "abf237018db8da06",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming football",
+          "kind": "not-ours"
+        },
+        {
+          "id": "abf237018db8da06",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada football",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 24.22862090000126,
       "tokens": null,
       "tokens_source": null
     }
