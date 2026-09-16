@@ -5838,6 +5838,140 @@
         "James Crepea"
       ],
       "run": "run_2026-09-16-0140"
+    },
+    "28ba3e4d6c8ba91c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is entirely about UNLV football, which is not one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-16-1340"
+    },
+    "50e205a8a8cd63fa": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece is a full analysis of Oregon State football specifically — its quarterback play, offensive line, defense, and schedule outlook.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-16-1340"
+    },
+    "6972261ca88ff2bf": {
+      "subjects": {
+        "washington-state/womens-soccer": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews Washington State women's soccer's upcoming match against Seattle University, covering recent form and game logistics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "BEN WALKER"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-16-1340"
+    },
+    "97ad499fa92a841b": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The whole piece concerns North Dakota State and New Mexico, neither of which is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-16-1340"
+    },
+    "a959312164f9698a": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline names an Oregon State tight end and the summary describes his in-game penalty, establishing both the program and its athletics.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-16-1340"
+    },
+    "e73b31d0d1d9da7f": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "texas-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "washington-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Five of the nine covered schools each get their own substantive Week 2 recap section in this roundup.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-16-1340"
+    },
+    "f9e36c19299d8304": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The podcast description names Boise State's win only in a passing clause and otherwise describes the show's format without substantively discussing any covered program.",
+      "ambiguous": "The title advertises stock reports for every Mountain West/PAC-12 team, but the text given doesn't discuss any covered program beyond that one-clause mention.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-16-1340"
     }
   },
   "runs": {
@@ -6378,6 +6512,76 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 24.22862090000126,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-16-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-16T13:38:51.391063+00:00",
+      "items": 7,
+      "verdict_counts": {
+        "drop": 3,
+        "publish": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "28ba3e4d6c8ba91c",
+          "source": "Mountain West Connection",
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        },
+        {
+          "id": "97ad499fa92a841b",
+          "source": "Mountain West Connection",
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "97ad499fa92a841b",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e73b31d0d1d9da7f",
+          "source": "Mountain West Connection",
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e73b31d0d1d9da7f",
+          "source": "Mountain West Connection",
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e73b31d0d1d9da7f",
+          "source": "Mountain West Connection",
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e73b31d0d1d9da7f",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 14.618723499996122,
       "tokens": null,
       "tokens_source": null
     }
