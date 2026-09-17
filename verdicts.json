@@ -5972,6 +5972,147 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-09-16-1340"
+    },
+    "0484c460fcb90204": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article analyzes WSU football's defensive performance across its first two games of the season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-17-0140"
+    },
+    "0a68e124f2cd5a0f": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Brown University",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The 1926 Brown Bears, Yale, and Dartmouth are the entire subject; none of the nine covered schools appear.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "6 min read",
+      "lock": "free",
+      "run": "run_2026-09-17-0140"
+    },
+    "3ba54557ccf3620c": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article reports San Diego State men's basketball's newly announced non-conference schedule.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Connor Larson"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-17-0140"
+    },
+    "5985dadd2eab5a89": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Each covered-school note (WSU defense, Texas State, Colorado State) is a one-sentence teaser for a separate full story elsewhere, not substantive coverage itself.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The WSU-defense line names a covered program directly in the title, but the digest gives it only a single sentence, the depth the schema calls mentions-level.",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-17-0140"
+    },
+    "6c51f23989cc6ba1": {
+      "subjects": {
+        "boise-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The entire article covers Boise State women's volleyball winning its own invitational tournament.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jarrett Lorenz"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-17-0140"
+    },
+    "9e6fdcbeb39ed8b1": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews WSU volleyball's upcoming home matches against Long Beach State with keys to success.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-17-0140"
+    },
+    "ca7ebccfa793ca62": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Fresno State football's 49-3 win over Sacramento State in detail.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-17-0140"
+    },
+    "cbb3f9bb07603588": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Title and summary establish Oregon State football facing Montana running back Eli Gillman ahead of a specific matchup.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-17-0140"
+    },
+    "d84ffc02029c9e6a": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary names OSU football players Wells (starting center) and Patterson (safety tackles) and their specific roles.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-17-0140"
     }
   },
   "runs": {
@@ -6582,6 +6723,47 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 14.618723499996122,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-17-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-17T01:39:03.447402+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 7,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Press Break": 1,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "0a68e124f2cd5a0f",
+          "source": "Press Break",
+          "phrase": "Brown University",
+          "kind": "not-ours"
+        },
+        {
+          "id": "5985dadd2eab5a89",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 24.36368670000229,
       "tokens": null,
       "tokens_source": null
     }
