@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-17T13:04:54.858394+00:00",
+  "generated_at": "2026-09-18T01:04:59.741801+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Mountaintop View 9-17-26",
+        "link": "https://www.mwcconnection.com/mountain-west-news/92566/mountain-west-pac-12-football-unlv-texas-state",
+        "link_kind": "item",
+        "date": "2026-09-17T13:00:00+00:00",
+        "summary": "Mountain West rankings: UNLV&#8217;s blowout, two losses to FCS schools mark bad week for league Chris Murray of NevadaSportsNet posted his weekly Mountain West power rankings. How far did UNLV tumble after their 44-6 loss to North Texas? Murray also posted an article on the lessons Nevada learned from the Montana State game. History of [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "7398f363ef0a1545",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "On the Brown University Iron Men of 1926",
         "link": "https://pressbreak.substack.com/p/on-the-brown-university-iron-men",
@@ -153,20 +167,6 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "28ba3e4d6c8ba91c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "The Good, the Bad, the Ugly: Week 2",
-        "link": "https://www.mwcconnection.com/the-good-the-bad-the-ugly/92194/the-good-the-bad-the-ugly-week-2",
-        "link_kind": "item",
-        "date": "2026-09-15T15:00:00+00:00",
-        "summary": "Week two was filled with mixed results for teams in the PAC-12 and Mountain West. We saw playoff hopes demolished as UNLV was absolutely crushed by North Texas, We saw an excellent bounce back performance by Boise State, and we have a clear idea at who the top two teams in the Mountain West are, [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "e73b31d0d1d9da7f",
         "sport": "all",
         "medium": "text"
       },
@@ -354,6 +354,34 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "Broncos Welcome South Dakota to The Front Porch of Idaho",
+        "link": "https://broncosports.com/news/2026/9/17/football-broncos-welcome-south-dakota-to-the-front-porch-of-idaho",
+        "link_kind": "item",
+        "date": "2026-09-17T22:30:00+00:00",
+        "summary": "<img alt=\"Week 3 Gameday Graphic\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/16/FB26-Game-Preview-WK3-SOUTH-DAKOTA.jpg\" /><br /><br />Boise State will host South Dakota in Albertsons Stadium on Saturday, Sept. 19, at 8 p.m. MT.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "030b73b7ace00914",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Giving Back",
+        "link": "https://broncosports.com/news/2026/9/17/b-1-features-giving-back",
+        "link_kind": "item",
+        "date": "2026-09-17T21:00:00+00:00",
+        "summary": "<img alt=\"B1 Feature Webslider - Derek Ganter Jr. with the team he coached\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/16/BSU26_B1_Feature_Template_WEB.jpg\" /><br /><br />During football's winter conditioning, Derek Ganter Jr. stepped up to coach middle school basketball and baseball, turning down the opportunity to get paid. His why? To set the standard for the next generation.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "991880713148db2e",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "NFL Broncos: Week Two",
         "link": "https://broncosports.com/news/2026/9/16/football-nfl-broncos-week-two",
@@ -707,34 +735,6 @@
         "medium": "text"
       },
       {
-        "title": "The Blue: Inspiring Fields Across The Nation",
-        "link": "https://broncosports.com/news/2026/9/10/football-the-blue-inspiring-fields-across-the-nation",
-        "link_kind": "item",
-        "date": "2026-09-10T21:00:00+00:00",
-        "summary": "<img alt=\"B1 Webslider Turf Fields\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/10/Turf_Slider_With_Logo.jpg\" /><br /><br />Around midafternoon on Saturday, thousands of members of Bronco Nation will infiltrate Albertsons Stadium, eager to watch the Blue and Orange in their home opener against an undefeated Memphis team.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "c9ef4d41f61ad807",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Celebrate 40 Years of The Blue at Saturday’s Home Opener",
-        "link": "https://broncosports.com/news/2026/9/9/general-celebrate-40-years-of-the-blue-at-saturdays-home-opener",
-        "link_kind": "item",
-        "date": "2026-09-09T17:44:00+00:00",
-        "summary": "<img alt=\"2026 Bronco FB Home Opener Rally Towel\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/8/DSC09623_copy.jpg\" /><br /><br />BOISE, Idaho - Boise State Athletics announced every fan attending the Broncos home opener versus Memphis on Saturday, September 12 will receive a commemorative blue rally towel to honor The Blue's 40th anniversary.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "e9ac12d1ca6631b6",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "From the Spot Podcast: Season 12, Episode 4",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/264c6411-9a68-419a-8351-295e970a483a.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -1053,6 +1053,20 @@
     ],
     "Colorado State": [
       {
+        "title": "Memorable Moments: A Well-Earned Game Ball",
+        "link": "https://csurams.com/news/2026/9/17/football-memorable-moments-a-well-earned-game-ball",
+        "link_kind": "item",
+        "date": "2026-09-17T21:00:00+00:00",
+        "summary": "<img alt=\"MM\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/31/MMWeek3.jpg\" /><br /><br />Dramatics of a 1949 win represented by memento in Hall of Champions",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "158649845f96c535",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Is 2-0 CSU for real? We find out as No. 11 BYU visits Canvas",
         "link": "https://bleav.com/shows/ramnation-radio/episodes/is-2-0-csu-for-real-we-find-out-as-no-11-byu-visits-canvas/",
         "link_kind": "item",
@@ -1220,20 +1234,6 @@
         "channel_url": "",
         "source": "Colorado State Athletics",
         "id": "0e0f0a8e61483050",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Game Program: Colorado State vs. Southern Utah",
-        "link": "https://csurams.com/news/2026/9/10/football-game-program-colorado-state-vs-southern-utah",
-        "link_kind": "item",
-        "date": "2026-09-10T22:48:00+00:00",
-        "summary": "<img alt=\"Game Program Southern Utah\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/7/FB26_-_Game_Poster_template_for_website_16x9_SsQ7D.jpg\" /><br /><br />The Rams host Southern Utah for Ag Day! Check out the Week 2 game program.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "cbd7ea1443b22ac4",
         "sport": "football",
         "medium": "text"
       },
@@ -2926,6 +2926,34 @@
     ],
     "Oregon State": [
       {
+        "title": "Former Oregon State first baseman Jacob Krieg lands in Cal",
+        "link": "https://www.oregonlive.com/beavers/2026/09/former-oregon-state-first-baseman-jacob-krieg-lands-in-acc.html",
+        "link_kind": "item",
+        "date": "2026-09-17T21:50:41+00:00",
+        "summary": "Jacob Krieg, a former Oregon State first baseman, has joined Cal's baseball program after receiving a court-granted eligibility extension, becoming the ninth OSU player to transfer this offseason.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "0d736b573fb744f1",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State coaches see NFL potential in cornerback Blake Thompson",
+        "link": "https://www.oregonlive.com/beavers/2026/09/what-blake-thompson-showed-to-ascend-to-starting-cornerback-for-oregon-state.html",
+        "link_kind": "item",
+        "date": "2026-09-17T21:41:47+00:00",
+        "summary": "Thompson saw his first action in the season opener against Houston, then made his first career start against Texas Tech",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "4486ecdfd2c50a57",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Can Oregon State contain Montana running back Eli Gillman?",
         "link": "https://www.oregonlive.com/beavers/2026/09/can-oregon-state-contain-the-most-prolific-running-back-in-college-football-against-montana.html",
         "link_kind": "item",
@@ -3445,34 +3473,6 @@
         "channel_url": "",
         "source": "The Daily Barometer",
         "id": "c9e17a2643c303ab",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State's Jaheim Patterson, Van Wells can play 2 more games - for now",
-        "link": "https://www.oregonlive.com/beavers/2026/09/oregon-states-jaheim-patterson-van-wells-can-play-2-more-games-after-that-is-less-certain.html",
-        "link_kind": "item",
-        "date": "2026-09-11T00:58:52+00:00",
-        "summary": "Jaheim Patterson and Van Wells can keep playing for Oregon State for two more weeks.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "6c70b7b32d5d8145",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State baseball lands commitment from 2028 catcher",
-        "link": "https://www.oregonlive.com/recruiting/2026/09/oregon-state-baseball-lands-2028-catcher-commitment.html",
-        "link_kind": "item",
-        "date": "2026-09-10T16:54:46+00:00",
-        "summary": "Tavake Wolfgramm, a sophomore catcher from Utah, committed to Oregon State's 2028 recruiting class, becoming the fourth pledge in the group.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "091c1fc5d123dd16",
         "sport": "all",
         "medium": "text"
       },
@@ -4526,23 +4526,23 @@
         "extent": "1h 11m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Lucky Sutton Named to Maxwell Award Watch List",
-        "link": "https://goaztecs.com/news/2026/08/3/lucky-sutton-named-to-maxwell-award-watch-list",
-        "link_kind": "item",
-        "date": "2026-08-03T15:59:00+00:00",
-        "summary": "Sutton one of just four players from the Pac-12 to make the initial list for the college player of the year.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "c9792ef83e3f0a59",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "Game Preview: TXST vs North Texas",
+        "link": "https://txst.com/news/2026/9/17/football-game-preview-txst-vs-north-texas.aspx",
+        "link_kind": "item",
+        "date": "2026-09-17T21:34:00+00:00",
+        "summary": "<img alt=\"D Jackson Touchdown\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/17/26.09.12_FB_UTSA_touchdown_HM-2.jpg\" /><br /><br />Texas State (0-2, 0-0 Pac-12) vs North Texas (1-1, 0-0 AMERICAN)\n\nSaturday, Sept. 19, 2026\nUFCU Stadium (28,000) | San Marcos, Texas\nKickoff: 11:00 a.m. CT",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "8a96f8f8bad7582d",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "TXST MBB announces three staff additions for 26-27",
         "link": "https://universitystar.com/36284/sports/txst-mbb-announces-three-staff-additions-for-26-27/",
@@ -4820,20 +4820,6 @@
         "channel_url": "",
         "source": "Texas State Athletics",
         "id": "7273d14b2f8d572e",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Pac-12 announces commercial and operational updates ahead of its 2026 football season kickoff",
-        "link": "https://txst.com/news/2026/9/3/football-pac-12-announces-commercial-and-operational-updates-ahead-of-its-2026-football-season-kickoff.aspx",
-        "link_kind": "item",
-        "date": "2026-09-03T20:03:00+00:00",
-        "summary": "<img alt=\"Pac-12 Operational Updates Graphic with Pac-12 logo and all 9 school logos represented\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/3/New_P12Logo_9Schools_DarkBcknd_16x9.png\" /><br /><br />League announces new and enhanced access for its football broadcasts and content, plans for the future direction of its football officiating operations and provides updates to its staffing and commercial entity with Pac-12 Enterprises \n\nBowl partnerships and football championship game tiebreaker language for 2026 finalized",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "027d79e0771093ff",
         "sport": "football",
         "medium": "text"
       },
@@ -5261,23 +5247,38 @@
         "id": "f02eee30e2f8091f",
         "sport": "mbb",
         "medium": "text"
-      },
-      {
-        "title": "Utah State Men’s Basketball Announces 2026-27 Nonconference Schedule",
-        "link": "https://utahstateaggies.com/news/2026/8/3/mens-basketball-utah-state-mens-basketball-announces-2026-27-nonconference-schedule.aspx",
-        "link_kind": "item",
-        "date": "2026-08-03T22:00:00+00:00",
-        "summary": "<img alt=\"MBB\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/3/PAN02151__1_.jpg\" /><br /><br />Utah State men's basketball announced the nonconference portion of its 2026-27 schedule on Monday, a slate which includes 16 regular season games plus three preseason exhibitions.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "6dc009810ff0e82b",
-        "sport": "mbb",
-        "medium": "text"
       }
     ],
     "Washington State": [
+      {
+        "title": "Is it the play-caller’s fault that the Cougs’ offense is the worst in the country?",
+        "link": "https://jimmoorethego2guy.substack.com/p/is-it-the-play-callers-fault-that",
+        "link_kind": "item",
+        "date": "2026-09-17T15:32:04+00:00",
+        "summary": "Absolutely not, but it seems I&#8217;m in the minority with this tepid take.",
+        "author": "Jim Moore",
+        "duration": null,
+        "channel_url": "",
+        "source": "Jim Moore's Substack",
+        "id": "5eed07b6076d3a1b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "WSU's Season Starts NOW? Why Cougs Must Bounce Back vs. Duquesne",
+        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/WSUs-Season-Starts-NOW--Why-Cougs-Must-Bounce-Back-vs--Duquesne-e3ovd1n",
+        "link_kind": "item",
+        "date": "2026-09-17T05:09:53+00:00",
+        "summary": "<p>The Cougs are 0-2, but is it really time to panic?</p><p>In this episode of <strong>Palouse Playbook</strong>, Gavin, Chad, and Kyle break down Washington State&#39;s loss at Kansas State, highlight encouraging signs from the defense, and discuss why the offense must take a major step forward against Duquesne.</p><p>🏈 Topics include:</p><ul><li>Why Isaiah Hung may be emerging as a defensive star</li><li>Concerns about WSU&#39;s offensive line and play calling</li><li>Can Caden Pinnick and the offense find their rhythm?</li><li>What the Cougars must improve before Pac-12 play</li><li>Why Duquesne is the perfect &quot;get-right&quot; opportunity</li><li>Expectations, predictions, and keys to victory</li><li>Supporting Jack Stevens and staying behind the team</li></ul><p>Despite the disappointing start, the guys explain why there is still plenty of reason for optimism and why Cougar fans need to keep showing up, believing, and backing this team.</p><p><strong>Go Cougs.</strong></p><p>#GoCougs #WashingtonState #WSUFootball #Pac12 #CougarFootball #Duquesne #CollegeFootball #PalousePlaybook #Wazzu #WSUCougars</p><p></p>",
+        "author": "Up West Sports",
+        "duration": 1702,
+        "channel_url": "",
+        "source": "Palouse Playbook",
+        "id": "1b206d2a484edb0e",
+        "extent": "28 min",
+        "sport": "all",
+        "medium": "audio"
+      },
       {
         "title": "Cougar Football Hour 9-16-26 (Kirby Moore, Keith Brown & Trent Bray)",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/3a4c6dcb-680b-4d22-a9d1-12a9b52a0149.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
@@ -5292,6 +5293,20 @@
         "extent": "59 min",
         "sport": "football",
         "medium": "audio"
+      },
+      {
+        "title": "For WSU safety Jaylen Thomas, the more backflips, the better",
+        "link": "http://www.spokesman.com/stories/2026/sep/17/for-wsu-safety-jaylen-thomas-the-more-backflips-th/",
+        "link_kind": "item",
+        "date": "2026-09-17T00:00:00+00:00",
+        "summary": "<p>PULLMAN – Jaylen Thomas guesses he was 7 years old when he tried it for the first time, attempted his first backflip. He was growing up in the Bay Area, in a suburb called Los Gatos, when he gave it a shot.</p><p>“It was probably off of something too,” Thomas laughed. “My mom was probably scared to death.”</p><p>In his first two games at Washington State, where he’s earned a role as starting safety in his redshirt sophomore campaign, Thomas has had plenty of opportunities to practice. During fall camp several weeks ago, he pulled it off several times, including in the end zone on a pick-six. He makes it look easy, like he’s doing a party trick, not completing a full acrobatic feat.</p><p>Never was Thomas’ athleticism more apparent, though, than on Saturday. As the first-half clock wound down at Kansas State, Thomas read K-State quarterback Avery Johnson’s eyes and leapt in front of a pass, then sprinted 50 yards the other way to the end zone, cruising in just about untouched. That brought the Cougars to within two scores.</p><p>To celebrate, of course, he needed a bit of space. In the back of the end zone, he took a half-step back from teammate Matyus McLain, loaded up and launched himself in the air. On his way up and back, he grabbed his knees and tucked them under his body, finishing the backflip the same way he has so many times, by making it look simple.</p><p>“Well, what I was assuming was they wanted the field goal,” Thomas said of that sequence. “By them coming out in offensive formation, I was assuming they wanted something quick and something towards out-of-bounds. So I just took that into anticipation and saw what happened and kinda just already had a jump on it. Made the play.”</p><!--[embed id=12187]--><p>It wasn’t the only play Thomas made in that game. Earlier in the half, he jumped another pass and picked it off, giving him two interceptions in one quarter. That made him the first WSU player with multiple interceptions in a game since Sam Lockett III had two against Arizona in November 2022. He’s also the first Cougar defender to record multiple interceptions with at least one returned for a touchdown since Armani Marsh in the 2021 Apple Cup.</p><p>Thomas also became the first WSU player to post a pick-six since former linebacker Taariq Al-Uqdah did so in 2024 against Oregon State.</p><p>All told, Thomas earned Pac-12 Defensive Player of the Week for that sterling outing, becoming perhaps the Cougars’ lone bright spot in an otherwise sluggish defensive showing. He earned a Pro Football Focus coverage grade of 85.9, which ranked No. 12 nationally in Week 2 of college football among all defensive backs. In other words, he was one of the best cover defenders in the country that day.</p><p>The interesting part, the part that has gone almost entirely untold, is that Thomas is playing a new position. In the first two years of his career at San Jose State, which is basically in his hometown’s backyard, he played cornerback. Last fall, he started all 12 games at that position, totaling 59 tackles and six pass breakups. He wasn’t just playing it because it was a way to get on the field – he excelled there.</p><p>What’s even more fascinating is even in that season, he was playing cornerback for the first time in his life. Growing up, he played all over the field at the Pop Warner level, including stints at quarterback, linebacker and safety. In that way, by returning to safety here at WSU, he’s back in something resembling a comfort zone, but he says it still required some getting used to.</p><p>“It was a little bit of an adjustment, just having more of a role of communicating checks and just understanding formations and what can come,” Thomas said, “as opposed to just focusing on one receiver in man-to-man. So I guess you could see it differently from that angle. But other than that, I feel like DB is DB. You just make plays on the ball and make tackles when you need to.”</p><p>For his part, Thomas had to find his way from position to position. Toward the end of his true freshman season in 2024, as the Spartans were preparing to head to Aloha State for the Hawaii Bowl, he was approached by a few coaches. “Hey,” they told him, “you could play corner potentially.”</p><p>“I was like, ‘All right, any way to get on the field, I’ll do it,’ ” Thomas said. “And then that kinda just fell into the following year, and then I earned a spot to play corner.”</p><p>From a 30,000-foot view, Thomas has used that kind of open-mindedness to author the kind of career he has. He was open to switching positions, open to leaving his hometown, open to transferring to WSU. Pullman hardly has the kinds of amenities that San Jose offers – fellow WSU safety Jeremiah Bernard, who spent the first two seasons of his career at FCS Cal Poly, is adjusting to the same – but Thomas says he likes the distraction-free environment of the Palouse.</p><p>Thanks in large part to that mentality, Thomas made the transition to WSU look seamless, the same way he treats his backflips. The Cougars may be off to an 0-2 start to the season, the program’s first in a decade, but Thomas could be a galvanizing force behind his team’s turnaround this weekend against FCS Duquesne.</p><!--[embed id=12188]--><p>Can WSU erase these first two losses? Hardly. But the Cougars can certainly get things headed in the right direction. For Thomas, that usually entails jumping up and backward.</p><p>“It’s kinda like a competitive edge that we all have,” Thomas said of his team’s defense. “We’re always kinda just meeting with our coaches, and we’re like, ‘dang, he got a meeting in, but I didn’t,’ in that sort of sense. But we’re all kinda rooting for each other in the same way. So I guess it’s just all just putting it in and knowing that your brother’s putting it in work. So it’s like, ‘OK, I gotta do my part to get better and be my best.’ ”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "007f557540af60d8",
+        "sport": "football",
+        "medium": "text"
       },
       {
         "title": "Home Opener - Free Student Entry",
@@ -5863,10 +5878,7 @@
         "source": "The Seattle Times",
         "id": "2fc1eb7eda686a7b",
         "sport": "football",
-        "medium": "text",
-        "also": [
-          "The Spokesman-Review"
-        ]
+        "medium": "text"
       },
       {
         "title": "Apple Cup thoughts and K-State preview (Episode 255)",
@@ -6816,6 +6828,20 @@
         "medium": "text"
       },
       {
+        "title": "WSU Football: The Cougar Football Hour with Kirby Moore | Duquesne Week | 9/16/26",
+        "link": "https://wsucougars.com/news/2026/08/25/wsu-football-the-cougar-football-hour-with-kirby-moore-duquesne-week-91626",
+        "link_kind": "item",
+        "date": "2026-08-25T18:38:42+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "ce8cd514cd7b9f83",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "WSU JUST NAMED ITS QB1… 👀 | Washington State Football",
         "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/WSU-JUST-NAMED-ITS-QB1---Washington-State-Football-e3nrsfp",
         "link_kind": "item",
@@ -7279,20 +7305,6 @@
         "channel_url": "",
         "source": "Washington State Athletics",
         "id": "3addedcb616ec99c",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU Football: Browning | Abercrombie | Ganashamoorthy | Zunk | Fall Camp Press Conference | 8/11/26",
-        "link": "https://wsucougars.com/news/2026/08/11/wsu-football-browning-abercrombie-ganashamoorthy-zunk-fall-camp-press-conference-81126",
-        "link_kind": "item",
-        "date": "2026-08-11T23:11:55+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "54202c9b4fa0b89f",
         "sport": "football",
         "medium": "text"
       },
