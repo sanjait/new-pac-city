@@ -6113,6 +6113,833 @@
         "James Crepea"
       ],
       "run": "run_2026-09-17-0140"
+    },
+    "0418ae82d753049f": {
+      "subjects": {
+        "texas-state/mens-golf": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State men's golf finishing eighth at the Sandestin Collegiate Classic.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "0448e4e69bf3bbdf": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "washington-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Gives each of eight covered football programs its own bowl-projection entry assessing its postseason chances.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Each covered team gets only a single sentence in a structured projection list, a thin basis for involves versus a mere mention.",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "04e7b0d74063f4c1": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary detail Atkinson's five-touchdown game and season passing total in the Montana win.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "05185fcbb4978b5f": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State's 52-17 win over Montana.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "0abcff6bc79cf0a1": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Labeled Analysis, it argues WSU's halftime adjustments were the key to the Duquesne win.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "0d736b573fb744f1": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers Krieg's departure as part of Oregon State baseball's wave of transfer-portal losses this offseason.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "0fcc0dc6701e4187": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews the Oregon State-Montana matchup with a betting line and frames it as a must-win.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "1015685023571808": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Running fan commentary follows the Boise State-South Dakota game from kickoff to final result.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "108bcb0e81bebcc8": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full matchup breakdown of Boise State vs. South Dakota with keys to the game for both sides.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "1920dbabbaf025ae": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Q&A preview of the Montana-Oregon State game includes a prediction favoring the Beavers.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "2ec74d05f96e6506": {
+      "subjects": {
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Fresno State vs. San Jose State is one of the week's games given a specific kickoff time, network and betting line.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "3199616b2b1ffa12": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers WSU special teams' punt-return touchdowns and placekicker struggles after the Duquesne win.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-20-2014"
+    },
+    "35dfbe0dad0507be": {
+      "subjects": {
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "colorado-state/football": "about",
+        "boise-state/football": "about",
+        "san-diego-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Lists kickoff time, network and betting line for all eight Pac-12 football teams' Week 3 games.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "36b50c37f1ef5bf4": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Boise State's 38-24 win over South Dakota.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "39c78516e614e558": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State's 49-35 win over North Texas.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "42be1f294823a099": {
+      "subjects": {
+        "colorado-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Betting column picks Colorado State to cover the spread against BYU, despite the feed's Washington State tag.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "2 min read",
+      "lock": "free",
+      "run": "run_2026-09-20-2014"
+    },
+    "4486ecdfd2c50a57": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary covers coaches' evaluation of cornerback Blake Thompson's play for Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "4be9e44248ddc150": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Breaks down key matchups and keys to victory for WSU against Duquesne.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-20-2014"
+    },
+    "4c3c9225880430bc": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full preview of the Boise State-South Dakota matchup with a score prediction.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "4e0ecd7782172d2b": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Piece is entirely about Nevada's quarterback controversy, a school outside the nine.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Derek Raridon"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "4f4acc01c3096744": {
+      "subjects": {
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Devotes a full preview paragraph with stats and a score prediction to the Fresno State-San Jose State game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "531b7b9fdb2f3703": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews the WSU-Duquesne game and predicts a final score.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-20-2014"
+    },
+    "551be06e4863ee64": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Profiles the reconstituted Mountain West's remaining teams; the departed Pac-12 schools are named only as history, not covered as subjects.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "5b121c2fb37f1887": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers Shephard's reaction to his first win as Oregon State's head coach.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "5eed07b6076d3a1b": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Opinion column defends WSU offensive coordinator Matt Miller against fan criticism.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-09-20-2014"
+    },
+    "669baf26a4243fbb": {
+      "subjects": {
+        "colorado-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Entire piece analyzes Colorado State's 2-0 start and its offense under Hejny and coach Mora.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "67bbabea657ba17b": {
+      "subjects": {
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Gives each of the eight Pac-12 football teams its own preview section with stats and a prediction.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "6b377b369cb93be5": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles SDSU men's soccer's longest-tenured player, Dylan Presto, and his role on the team.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Noah Meyer"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "7d91a1ee0a212e9f": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Concerns WSU's club-level hockey team, described within a Division II club conference, not a listed program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "80e761fbcc251dc5": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Instant-reaction recap of WSU's offense breaking out in the second half against Duquesne.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-20-2014"
+    },
+    "816f329e67d8da0d": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles WSU safety Jaylen Thomas after he earned Pac-12 Defensive Player of the Week.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "8422e65a1cc07b77": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews WSU's home opener against Duquesne and Pinnick's need to answer for the slow start.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "84dc753bcf097150": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Publishes Boise State's official depth chart and pronunciation guide for the South Dakota game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "8b435dc6091b4465": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap and drive-by-drive box score of WSU's win over Duquesne.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-20-2014"
+    },
+    "8dc0bbfe11353537": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Bylined column argues WSU's second-half surge revealed real offensive potential.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jacob Thorpe"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-20-2014"
+    },
+    "9248350a6a7c55b4": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Postgame press conference coverage of Shephard following the Montana win.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "99cd08519bb21c86": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Story is about a family restoring a fan's decorated tailgate vehicle, not about Boise State's athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aidan Mattingly"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "9d6353ffc5f4ba90": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Concerns club-level ACHA hockey, described as Division II club competition, which is not a program in either school's row.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "a2a83c9632bdd15d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Summary reports Oregon State's first win under Shephard, a dominant performance over Montana.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "a414880350d534c9": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Gives kickoff time, TV channel and streaming options for the Oregon State-Montana game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "a5edd0d9df6b0369": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Argues that Atkinson's five-touchdown performance made Shephard's first win a statement.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "ad4089f9058f5abd": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Fan vote concerns UNLV and North Dakota State, neither a covered program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "bd72f5ac1638b832": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps WSU volleyball's five-set loss to Long Beach State to close non-conference play.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "bf41ee67dfc90d83": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Utah State's loss to Utah in the Battle of the Brothers.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "44 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "c2a7770f5c566325": {
+      "subjects": {
+        "san-diego-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Names San Diego State's game against James Madison as the weekend's headline out-of-conference matchup.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Mostly a links digest; the only original sentence about a covered program names SDSU-James Madison as the headline game, a thin basis for involves.",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "c94fd642622c1c2c": {
+      "subjects": {
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Frames the whole piece around this week's Fresno State rivalry game and coaches' game-planning against Fresno's offense.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "d044e7f9c94e58df": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Details Woods' and Vorhees' rushing performances for WSU against Duquesne.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-20-2014"
+    },
+    "d572eddae7609ae4": {
+      "subjects": {
+        "boise-state/womens-golf": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State women's golf finishing eighth at the weather-shortened Badger Invitational.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "f4b445390409eb04": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Play-by-play recap of the Boise State-South Dakota game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "f51f65fc3a5102ef": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish this is Montana's coach's postgame reaction to losing to Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-20-2014"
+    },
+    "f6e9f757c7c9b4f0": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers a Boise State football trading-card program built around the team's players, including NIL implications cited by the athletic director.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "fa36344845e87fef": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps WSU football's 48-7 win over Duquesne.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-20-2014"
+    },
+    "ff100ae9ba00d672": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Film-study breakdown of what's behind WSU's offensive line struggles this season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-20-2014"
     }
   },
   "runs": {
@@ -6764,6 +7591,60 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 24.36368670000229,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-20-2014": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-20T20:08:18.763901+00:00",
+      "items": 53,
+      "verdict_counts": {
+        "publish": 47,
+        "drop": 6
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3,
+        "The Daily Evergreen": 2,
+        "The Arbiter": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 11
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "4e0ecd7782172d2b",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "id": "7d91a1ee0a212e9f",
+          "source": "The Daily Evergreen",
+          "phrase": "hockey",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "9d6353ffc5f4ba90",
+          "source": "The Daily Evergreen",
+          "phrase": "hockey",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "c94fd642622c1c2c",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 98.0737444999977,
       "tokens": null,
       "tokens_source": null
     }
