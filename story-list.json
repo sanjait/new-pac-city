@@ -1,35 +1,7 @@
 {
-  "generated_at": "2026-09-20T13:05:27.497490+00:00",
+  "generated_at": "2026-09-21T01:05:21.750981+00:00",
   "teams": {
     "conference": [
-      {
-        "title": "2026 Mountain West Week 3: Game Time, TV Schedule, Odds, Predictions",
-        "link": "https://www.mwcconnection.com/mountain-west-discussion/89728/mountain-west-football-games-week-3-fanduel-odds-games-predictions",
-        "link_kind": "item",
-        "date": "2026-09-19T15:00:00+00:00",
-        "summary": "The college football season is in full swing, and with it, another week of games. This week, 7 Mountain West teams play, including one conference matchup. Check out the Week 3 action, with all the info you need for the games below. Share your thoughts in the comments! Saturday, September 19th Wyoming vs Central Michigan [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "2ec74d05f96e6506",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "2026 Pac-12 Week 3: Game Time, TV Schedule, Odds, Predictions",
-        "link": "https://www.mwcconnection.com/pac-12-discussion/89732/pac-12-football-games-week-3-fanduel-odds-games-predictions",
-        "link_kind": "item",
-        "date": "2026-09-19T14:00:00+00:00",
-        "summary": "The college football season and the Pac-12 are officially back! We have real live football games all weekend long, including all 8 Pac-12 teams! Check out the Week 3 action, as there is no shortage of football to watch. Below is all the info you need for the games this Saturday. Share your thoughts in [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "35dfbe0dad0507be",
-        "sport": "all",
-        "medium": "text"
-      },
       {
         "title": "MWCConnection Reacts Results: Biggest surprise so far?",
         "link": "https://www.mwcconnection.com/college-football-playoffs/92688/mountain-west-football-unlv-rebels-north-dakota-state-bison",
@@ -140,6 +112,34 @@
         "source": "Mountain West Connection",
         "id": "c94fd642622c1c2c",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Stats Corner: Ranking the Group of Six Playoff Hopefuls After Week 2",
+        "link": "https://www.mwcconnection.com/pac-12-football/92563/stats-corner-ranking-the-group-of-six-playoff-hopefuls-after-week-2",
+        "link_kind": "item",
+        "date": "2026-09-17T15:00:00+00:00",
+        "summary": "Now that everyone has played two or three games, it is time to look at which team will represent the Group of Six conferences, also known as the non-Power conferences, because they couldn&#8217;t possibly be good, or maybe just because they don&#8217;t buy $50 million football teams or have players break contracts in order to [&#8230;]",
+        "author": "Toby McMahon",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "8ed7e1d67421214e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Pac-Mountain Pulse Ep. 9: The Nevada Debacle of Carter Jones and Which Teams are Primed for a Bowl Game?",
+        "link": "https://www.mwcconnection.com/podcast/92582/mountain-west-pac-12-podcast-nevada-carter-jones-bowl-games-outlook",
+        "link_kind": "item",
+        "date": "2026-09-17T14:00:00+00:00",
+        "summary": "Hello and welcome back to the Pac-Mountain Pulse, a Mountain West Connection podcast! In this episode, Derek and Dom discuss the situation and fallout of the Nevada’s decision to bench quarterback Carter Jones and the way the program went about things in last week’s game against FCS No. 1 Montana State, then get in to [&#8230;]",
+        "author": "Derek Raridon",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "9b090dc66ce2db4a",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -1489,6 +1489,20 @@
     ],
     "Fresno State": [
       {
+        "title": "Fresno State defends the Valley Trophy against San Jose State on the road",
+        "link": "https://fscollegian.com/2026/09/fresno-state-defends-the-valley-trophy-against-san-jose-state-on-the-road/",
+        "link_kind": "item",
+        "date": "2026-09-20T22:34:17+00:00",
+        "summary": "Fresno State (2-1) defeated San Jose State (2-2) for the third consecutive time, beating the Spartans 26-10 and keeping the Valley Trophy in Fresno while improving its all-time series record to 47-39-3. San Jose State opened the scoring with a 45-yard field goal in the first quarter. Fresno State kicker Manaki Watanabe and the Bulldogs...",
+        "author": "Cristian Ceballos, Daily Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "7640a6c4f22c4560",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "The Valley Trophy stays in Fresno with 26-10 win",
         "link": "https://gobulldogs.com/news/2026/9/19/football-the-valley-trophy-stays-in-fresno-with-26-10-win",
         "link_kind": "item",
@@ -1813,20 +1827,6 @@
         "channel_url": "",
         "source": "The Collegian",
         "id": "f60c2c70055ccd7f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Fresno State NFL rookies make their mark",
-        "link": "https://fscollegian.com/2026/09/fresno-state-nfl-rookies-make-their-mark/",
-        "link_kind": "item",
-        "date": "2026-09-10T20:43:01+00:00",
-        "summary": "The 2026 NFL preseason has come and gone, and of the three rookies from Fresno State, only two made the final cut for the 53-man rosters to start the regular season. From one outstanding preseason for one former Bulldog, to a shocking turn of events for another, the Bulldogs that remain will be looking to...",
-        "author": "Sam Quintero, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "c3f48d650e780ab2",
         "sport": "all",
         "medium": "text"
       },
@@ -2739,52 +2739,51 @@
         "id": "644c0be0be4ed91c",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "Former Gonzaga star Brandon Clarke's death ruled accidental overdose of cocaine, heroin",
-        "link": "http://www.spokesman.com/stories/2026/aug/07/former-gonzaga-star-brandon-clarkes-death-ruled-ac/",
-        "link_kind": "item",
-        "date": "2026-08-07T00:00:00+00:00",
-        "summary": "<p>Former Gonzaga forward Brandon Clarke died of an accidental overdose of heroin and cocaine, the L.A. County Medical Examiner ruled in a report released Friday.</p><p>The medical examiner also listed the “combined effects of multiple prescription medications” as a significant contributing factor in his death. A full autopsy report will be released at a later date and will include the names of those prescriptions, the medical examiner’s office said.</p><p>Clarke, a beloved teammate who spent his entire NBA career with the Memphis Grizzlies, died May 11 at a residence in Southern California. The 29-year-old former Gonzaga standout was found unresponsive in his bedroom, according to the coroner’s report.</p><p>Following his death, the Grizzlies said in a statement that they were “heartbroken by the tragic loss.” Clarke had struggled with injuries during the past three seasons, but when healthy he was one of the most impactful bench players in the NBA.</p><p>“Brandon was an outstanding teammate and an even better person whose impact on the organization and the greater Memphis community will not be forgotten,” the team wrote.</p><p>Clarke played 309 games over seven seasons for Memphis, with the team reaching the playoffs four times. The Grizzlies said Clarke was expected to make a full recovery ahead of next season. He had a year remaining on his four-year contract worth $12.5 million annually.</p><p>Clarke was pronounced dead after the Los Angeles Fire Department responded to an emergency call at a residence in the 20300 block of Del Campo Place in Woodland Hills at just after 5 p.m. May 11. Paramedics pronounced him dead at 5:15 p.m.</p><p>His death came six weeks after he was charged in Arkansas with felony counts of trafficking of a controlled substance and fleeing law enforcement at speeds topping 100 mph. Deputies alleged that he had 235 grams of kratom, a controversial plant-based substance that is not approved by the  Food and Drug Administration, in a duffel bag in his car at the time of his arrest April 1.</p><p>While kratom is considered a felony narcotic in Arkansas, it was legal in Tennessee, where Clarke owned a home, at the time of his arrest. The coroner’s report did not note the presence of kratom.</p><p>Clarke was also facing misdemeanor counts of drug possession for a THC vape pen he was carrying and for making unsafe lane changes and speeding. He was scheduled to appear at an arraignment May 15 at the St. Francis County District Court in Forrest City, Arkansas. Following his death, the case was dismissed.</p><p>Clarke was born in Vancouver, Canada, and raised in Phoenix. He was part of a Gonzaga team with Los Angeles Clippers forward Rui Hachimura that was one of the greatest in school history. Clarke is remembered not only for his NCAA Division I-leading 68.7 field-goal percentage, but for his warm and kind spirit.</p><p>He was drafted in the first round of the 2019 NBA draft.</p><p>“He was just so easy to coach,”  Gonzaga head coach Mark Few said. “Every time you’d see him walking around the facility, he had a smile on his face.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "c25bcc437591de6a",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Sit-down with Oregon State Head Coach Justin Joyner and Javonte Bennett is a Zag",
-        "link": "https://podcasters.spotify.com/pod/show/houseofkrause/episodes/Sit-down-with-Oregon-State-Head-Coach-Justin-Joyner-and-Javonte-Bennett-is-a-Zag-e3n2rjt",
-        "link_kind": "item",
-        "date": "2026-08-06T22:00:01+00:00",
-        "summary": "<p>New Oregon State head coach Justin Joyner joins the pod to talk about his coaching journey, developing under Randy Bennett and Dusty May, building a staff and roster from scratch and what to expect as Oregon State joins Gonzaga in the new Pac-12. <br>Plus, we break down Gonzaga&#39;s newest transfer portal addition, point guard Javon Bennett out of Dayton.</p>",
-        "author": "Tuck Clarry",
-        "duration": 3603,
-        "channel_url": "",
-        "source": "House of Krause",
-        "id": "8e7e2b7b25d0d0b9",
-        "extent": "1h",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Sit-down with Oregon State Head Coach Justin Joyner and Javonte Bennett is a Zag",
-        "link": "https://houseofkrause.substack.com/p/sit-down-with-oregon-state-head-coach",
-        "link_kind": "item",
-        "date": "2026-08-06T19:24:39+00:00",
-        "summary": "New Oregon State head coach Justin Joyner joins the pod to talk about his coaching journey, developing under Randy Bennett and Dusty May, building a staff and roster from scratch and what to expect a&#8230;",
-        "author": "Tuck Clarry",
-        "duration": null,
-        "channel_url": "",
-        "source": "House of Krause",
-        "id": "490411dda77f0a12",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Oregon State": [
+      {
+        "title": "WATCH: Highlights From The 52-17 Win Over Montana",
+        "link": "https://osubeavers.com/news/2026/9/20/football-watch-highlights-from-the-52-17-win-over-montana",
+        "link_kind": "item",
+        "date": "2026-09-20T21:13:00+00:00",
+        "summary": "<img alt=\"Montana game highlights\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/20/260919_VS_MONTANA.png\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "44fddf009dd443ef",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Beaver Bash brings summer to a close",
+        "link": "https://dailybaro.orangemedianetwork.com/32910/daily-barometer-news/beaver-bash-brings-summer-to-a-close/",
+        "link_kind": "item",
+        "date": "2026-09-20T16:17:33+00:00",
+        "summary": "On Friday evening, Oregon State University’s annual summer send-off party, Beaver Bash took place in the Student Experience Center Plaza.  With booths, music from  KBVR-FM’s DJ Dale and a large foam pit, the event had several attractions with the intention to welcome new and returning students for the coming academic year.  Alaina Visi, event productions...",
+        "author": "Shayna Boettner, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "6f4b3d7e9ac4e75d",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers installed as heavy favorites over Miners with over/under set at 54.5",
+        "link": "https://www.oregonlive.com/beavers/2026/09/oregon-state-opens-as-2-score-favorite-at-utep.html",
+        "link_kind": "item",
+        "date": "2026-09-20T15:09:49+00:00",
+        "summary": "The Beavers are 3-0 against the spread this season",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "44c70d2c6dc66fe6",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "What Bobby Kennedy said after Montana lost to Oregon State",
         "link": "https://www.oregonlive.com/beavers/2026/09/what-bobby-kennedy-said-after-montana-lost-to-oregon-state.html",
@@ -3281,20 +3280,6 @@
         "medium": "text"
       },
       {
-        "title": "What they’re saying nationally, after Oregon State lost to No. 13 Texas Tech",
-        "link": "https://www.oregonlive.com/beavers/2026/09/what-theyre-saying-nationally-in-lubbock-after-oregon-state-lost-to-no-13-texas-tech.html",
-        "link_kind": "item",
-        "date": "2026-09-13T15:44:55+00:00",
-        "summary": "See what was written nationally about Oregon State's loss to Texas Tech",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "9319686d2cd33c8e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Beavers play competitive game against Texas Tech",
         "link": "https://dailybaro.orangemedianetwork.com/32883/daily-barometer-sports/beavers-play-competitive-game-against-texas-tech/",
         "link_kind": "item",
@@ -3306,20 +3291,6 @@
         "source": "The Daily Barometer",
         "id": "e628e070ad407592",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Beavs Battle, Legree Shines In Near Record-Breaking Day",
-        "link": "https://osubeavers.com/news/2026/9/12/football-beavs-battle-legree-shines-in-near-record-breaking-day",
-        "link_kind": "item",
-        "date": "2026-09-13T05:19:00+00:00",
-        "summary": "<img alt=\"Jesse Legree\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/12/_Z927340.JPG\" /><br /><br />CORVALLIS, Ore. — Jesse Legree caught eight passes for 240 yards and two touchdowns Saturday, the second-most receiving yards in a single game in program history, but Oregon State came up just short in a 35-24 loss to No. 13 Texas Tech at Reser Stadium.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "303baff1f51c9818",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -3390,20 +3361,6 @@
         "channel_url": "",
         "source": "The Daily Barometer",
         "id": "60dfd7057b39cb36",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Community mourns the loss of OSU doctoral student",
-        "link": "https://dailybaro.orangemedianetwork.com/32857/daily-barometer-news/community-mourns-the-loss-of-osu-doctoral-student/",
-        "link_kind": "item",
-        "date": "2026-09-04T20:27:00+00:00",
-        "summary": "“Today, my children told me, ‘No gifts or toys could ever replace our father,’” Sara Ahmed, Shuaib Ahmed Mubarak&#8217;s wife, said in an email.  In early August, 37-year-old Oregon State University graduate student Mubarak drowned in Foster Reservoir near Sweet Home, leaving behind a wife and four young children, ages 8, 5, 3 and 1.  ...",
-        "author": "Marina Kandas, Editor-in-Chief",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "70618c0e67f804d6",
         "sport": "all",
         "medium": "text"
       },
@@ -3535,52 +3492,107 @@
         "id": "8f17600f8afbff66",
         "sport": "mbb",
         "medium": "text"
-      },
-      {
-        "title": "Oregon State Matchups Set for Acrisure Series",
-        "link": "https://osubeavers.com/news/2026/8/6/mens-basketball-oregon-state-matchups-set-for-acrisure-series",
-        "link_kind": "item",
-        "date": "2026-08-06T18:04:00+00:00",
-        "summary": "<img alt=\"Team\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/6/Team_3.jpeg\" /><br /><br />CORVALLIS  – The Oregon State men's basketball team has its matchups set for the 2026 Acrisure Series, which will take place this fall in Palm Springs, Calif.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "b4a93a53cec575d8",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State, Arizona Announce WBB Home & Home Agreement",
-        "link": "https://osubeavers.com/news/2026/8/6/womens-basketball-oregon-state-arizona-announce-wbb-home-home-agreement",
-        "link_kind": "item",
-        "date": "2026-08-06T18:00:00+00:00",
-        "summary": "<img alt=\"Gill Atmosphere WBB\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/15/24WBB_vsStanford_Gill_0239.jpg\" /><br /><br />The Beavs and Wildcats will play on November 15 in the McKale Center. The 2027 game date is to be determined.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "0f1690282d6f9518",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Fall Camp Begins For Oregon State Football",
-        "link": "https://traffic.megaphone.fm/TDSPT7780724784.mp3",
-        "link_kind": "enclosure",
-        "date": "2026-08-06T17:52:00+00:00",
-        "summary": "Ahead of the 2026 college football season, the Oregon State Beavers have begun their final preparations with fall camp. JaMarcus Shephard's staff have some decisions to make about a few key positions in order to give the Beavs the best chance of a fast start when they travel to Houston for the season opener on September 5.\n\nThis week on a new State of the Beavs, Matt Bagley and Ben Pahl dive into all things Oregon State football this week, and look back at Pahl's longform series from the summer: the top ten Oregon State football games since 2000. Go Beavs.\n\nMusic by audionautix.com. All music produced by Jason Shaw on AudionautiX is released under Creative Commons Attribution 4.0 International License.",
-        "author": "",
-        "duration": 2186,
-        "channel_url": "https://cms.megaphone.fm/channel/TDSPT5511450634",
-        "source": "State of the Beavs",
-        "id": "e08a00d8ee4bc921",
-        "extent": "36 min",
-        "sport": "football",
-        "medium": "audio"
       }
     ],
     "San Diego State": [
+      {
+        "title": "James Madison snaps SDSU’s seven-game home winning streak",
+        "link": "https://thedailyaztec.com/128883/sports/james-madison-snaps-sdsus-seven-game-home-winning-streak/",
+        "link_kind": "item",
+        "date": "2026-09-21T00:45:10+00:00",
+        "summary": "New threads couldn&#8217;t save the Aztecs&#8217; year-long home win streak Saturday night. San Diego State (1-2) suffered its second consecutive loss, falling 26-13 to undefeated James Madison University (3-0).  The loss came with a striking number of parallels to the loss at UCLA just one week earlier, particularly within the passing game.  Senior quarterback Jayden...",
+        "author": "Brielle Miller and Iain Henderson",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "27dca6f3ddfa1111",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Women’s basketball unveils non-conference schedule for the 2026-27 season",
+        "link": "https://thedailyaztec.com/128867/sports/basketball/womens-basketball-unveils-non-conference-schedule-for-the-2026-27-season/",
+        "link_kind": "item",
+        "date": "2026-09-20T23:45:59+00:00",
+        "summary": "The San Diego State women’s basketball team released its non-conference schedule for the 2026-27 season, highlighted by five games against teams that made the postseason the previous year. SDSU tied a school record with 27 wins last year and won the Mountain West regular-season title with a 19-1 conference record. Now in the Pac-12, the...",
+        "author": "Tyler Ross, Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "4f3c4007ffaa1d64",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs fall short against Arizona in five sets",
+        "link": "https://thedailyaztec.com/128868/sports/aztecs-fall-short-against-arizona-in-five-sets/",
+        "link_kind": "item",
+        "date": "2026-09-20T22:45:59+00:00",
+        "summary": "The San Diego State Aztecs (5-4) won the first two sets of their home opener, but the visiting Arizona Wildcats (4-6) won the final three sets, taking the match 3-2. The Aztecs were at their best offensively during the first two sets. They hit .395 hitting percentage in the first set and .371 in the...",
+        "author": "Amy Ledezma Gonzalez, Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "e632dbeb34569c7e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Women’s soccer shutdown defense leads to 2-0 win over Pepperdine",
+        "link": "https://thedailyaztec.com/128862/sports/soccer/womens-soccer-shutdown-defense-leads-to-2-0-win-over-pepperdine/",
+        "link_kind": "item",
+        "date": "2026-09-20T21:44:54+00:00",
+        "summary": "San Diego State women’s soccer team (5-2-1) picked up a dominant clean sheet Thursday night against the Pepperdine Waves (4-3-2), capping off a complete performance with a 2-0 victory.  After winning a thriller against Utah Valley with 22 seconds left, the Aztecs looked to round out the non-conference schedule on a high note before starting...",
+        "author": "Noah Meyer, Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "d5adb2c4de54d9af",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs Fall to James Madison at Snapdragon Stadium",
+        "link": "https://goaztecs.com/news/2026/09/20/aztecs-fall-to-james-madison-at-snapdragon-stadium",
+        "link_kind": "item",
+        "date": "2026-09-20T06:41:57+00:00",
+        "summary": "San Diego State Football was defeated at home by the visiting Dukes of James Madison by a final score of 13-26. Aztec's running back Javion Kinnard posted 251 yards of total offense including a rushing touchdown.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "cba8e9e758ce3d01",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Football v James Madison",
+        "link": "https://goaztecs.com/news/2026/09/20/football-v-james-madison",
+        "link_kind": "item",
+        "date": "2026-09-20T06:10:51+00:00",
+        "summary": "19 September 2026: San Diego State Football lost to James Madison 26-13 Saturday evening at Snapdragon Stadium.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "b995438425c8b667",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "San Diego State Set to Take on James Madison",
+        "link": "https://goaztecs.com/news/2026/09/20/san-diego-state-returns-home-to-face-james-madison-1",
+        "link_kind": "item",
+        "date": "2026-09-20T03:18:00+00:00",
+        "summary": "The Aztecs welcome James Madison on Saturday night. Kickoff is set for 7 p.m. PT.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "c5f27a266182590c",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "SDSU FOOTBALL: JMU GAME PREVIEW WITH SEAN LEWIS - SAN DIEGO SPORTS 760",
         "link": "https://goaztecs.com/news/2026/09/18/sdsu-football-jmu-game-preview-with-sean-lewis-san-diego-sports-760",
@@ -3766,34 +3778,6 @@
         "medium": "text"
       },
       {
-        "title": "A tale of two halves: The Bruins’ second-half rushing efforts proved to be too much for the visiting Aztecs",
-        "link": "https://thedailyaztec.com/128695/sports/a-tale-of-two-halves-the-bruins-second-half-rushing-efforts-proved-to-be-too-much-for-the-visiting-aztecs/",
-        "link_kind": "item",
-        "date": "2026-09-14T03:00:39+00:00",
-        "summary": "PASADENA, Calif. — In order to beat a team in its own stadium as nearly two-touchdown underdogs, the visitors must have all three phases operating in an efficient manner for a great portion of the game.  Unfortunately for the San Diego State Aztecs (1-1), only two of the three phases were clicking. Cohesive defensive and...",
-        "author": "Tyler Bowne, Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "dc203f5b51cbe007",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Aztecs end draw streak, shutout Sacramento State 2-0",
-        "link": "https://thedailyaztec.com/128691/sports/aztecs-end-draw-streak-shutout-sacramento-state-2-0/",
-        "link_kind": "item",
-        "date": "2026-09-14T02:06:48+00:00",
-        "summary": "After two straight draws, the San Diego State Aztecs (2-1-3) hosted the Sacramento State Hornets (1-5) in a tightly contested match at the SDSU Sports Deck. A hungry Aztec squad leaned on fifth-year goalkeeper Nic Diana early to hold down the fort,  turning away two early chances to keep the match scoreless.  Ranked seventh nationally...",
-        "author": "Jason Testa, Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "9d3f7d7f03e042bb",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Aztecs Come Up Short at UCLA 28-10",
         "link": "https://goaztecs.com/news/2026/09/13/aztecs-come-up-short-at-ucla-28-10",
         "link_kind": "item",
@@ -3865,20 +3849,6 @@
         "medium": "text"
       },
       {
-        "title": "San Diego State Set to Take on UCLA at the Rose Bowl",
-        "link": "https://goaztecs.com/news/2026/09/7/san-diego-state-set-to-take-on-ucla-at-the-rose-bowl",
-        "link_kind": "item",
-        "date": "2026-09-07T20:40:27+00:00",
-        "summary": "San Diego State meets UCLA at 4:15 p.m. PT Saturday at the Rose Bowl in Pasadena.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "c3a88eedbba816f8",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "#348: SDSU Wins Big in Season Opener vs Portland State",
         "link": "https://sonsofmontezuma.libsyn.com/348-sdsu-wins-big-in-season-opener-vs-portland-state",
         "link_kind": "item",
@@ -3892,20 +3862,6 @@
         "extent": "56 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Last-minute penalty kick secures Aztecs men’s soccer a draw against CSU Bakersfield",
-        "link": "https://thedailyaztec.com/128622/sports/last-minute-penalty-kick-secures-aztecs-mens-soccer-a-draw-against-csu-bakersfield/",
-        "link_kind": "item",
-        "date": "2026-09-07T17:51:41+00:00",
-        "summary": "The San Diego State Aztecs (1-1-3) battled the Cal State Bakersfield Roadrunners (1-1-2) on Saturday night in a nonconference 2-2 draw at SDSU Sports Deck. The Aztecs struck first early in the third minute of the match as midfielder Nik Orth placed a through ball right to striker Jaxson Hutcheon, who fired the ball into...",
-        "author": "Manny Sanchez, Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "62339ab9dd75786a",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "Opportunistic Aztecs Surge Past Portland State in Season Opener, 53-20",
@@ -4414,23 +4370,23 @@
         "id": "86e42c18a361139a",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "Five Aztecs Named to Pac-12 Preseason Impact List",
-        "link": "https://goaztecs.com/news/2026/08/6/five-aztecs-named-to-pac-12-preseason-impact-list",
-        "link_kind": "item",
-        "date": "2026-08-06T20:59:00+00:00",
-        "summary": "The five include running back Lucky Sutton, wide receiver Jordan Napier, offensive lineman Joseph Borjon, linebacker Tano Letuli and defensive lineman Gavriel Lightfoot.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "874072c48ecf4d90",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "TXST Volleyball finishes out-of-conference slate with Houston Tournament",
+        "link": "https://universitystar.com/36307/sports/txst-volleyball-finishes-out-of-conference-slate-with-houston-tournament/",
+        "link_kind": "item",
+        "date": "2026-09-20T16:30:44+00:00",
+        "summary": "Texas State Volleyball travelled to the Bayou City this weekend to play in their last out-of-conference games of the season with the Houston Tournament, with a sweep of Houston Christian and dropping a five-set loss to the hosting Houston Cougars Friday night and a narrow loss to the UTSA Roadrunners Saturday afternoon at the Fertitta...",
+        "author": "Rhianna Aleman, Julia Veilleux, and Jackson Grettler",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "88a79fcfbd65cfec",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Game Recap: Bobcats Defeat North Texas, 49-35",
         "link": "https://txst.com/news/2026/9/19/football-game-recap-bobcats-defeat-north-texas-49-35.aspx",
@@ -4639,20 +4595,6 @@
         "source": "Texas State Athletics",
         "id": "525d1da08921db7f",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Turnovers, kicking woes and poor defense doom ‘Cats in home opener vs UTSA",
-        "link": "https://universitystar.com/36231/sports/turnovers-kicking-woes-and-poor-defense-doom-cats-in-home-opener-vs-utsa/",
-        "link_kind": "item",
-        "date": "2026-09-13T01:53:35+00:00",
-        "summary": "In their home opener, Texas State couldn’t capitalize as kicking issues and turnovers plagued the Bobcats in their 31-26 loss to the UTSA Roadrunners Saturday afternoon at UFCU Stadium. Roadrunners (2-0) senior quarterback Owen McCown threw for 214 yards and a touchdown, including a surgical game-winning drive to help secure UTSA their sixth win in...",
-        "author": "Jackson Grettler, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "02cb008afc7c01ad",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -5149,23 +5091,37 @@
         "id": "9039057dd39c832f",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "2026 Acrisure Series College Basketball Thanksgiving Event Returns to Acrisure Arena November 21-26",
-        "link": "https://utahstateaggies.com/news/2026/8/6/mens-basketball-2026-acrisure-series-college-basketball-thanksgiving-event-returns-to-acrisure-arena-november-21-26.aspx",
-        "link_kind": "item",
-        "date": "2026-08-06T18:00:00+00:00",
-        "summary": "<img alt=\"MBB\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/6/Karson_Templin_0927.jpg\" /><br /><br />The 2026 Acrisure Series, the nation's premier Thanksgiving college basketball event, returns to the Coachella Valley this November bringing together 26 Division I programs for 26 games over six days at Acrisure Arena from November 21-26, 2026. The 2026 Acrisure Series is presented by Acrisure, Visit Greater Palm Springs and Spotlight 29 Casino.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "f02eee30e2f8091f",
-        "sport": "mbb",
-        "medium": "text"
       }
     ],
     "Washington State": [
+      {
+        "title": "Washington State Cougars drop in Pac-12 power rankings despite win",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/washington-state-cougars-drop-in-pac-12-power-rankings-despite-win/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-09-20T18:49:21+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/tzr_114324.jpg?d=1200x630\"><br/>The Pac-12 looked like it was headed for a bleak Saturday before coming up with some strong late performances. Here's how the conference is ranked.",
+        "author": "Jon Wilner",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "ae0e54adc1fd4471",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU Football: \"Second Punt return for a TD today!\" Chris King | Duquesne Call of the Game | 9/19/26",
+        "link": "https://wsucougars.com/news/2026/09/20/wsu-football-second-punt-return-for-a-td-today-chris-king-duquesne-call-of-the-game-91926",
+        "link_kind": "item",
+        "date": "2026-09-20T06:20:37+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "a5ba0cf38e63b39e",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Coug Talk (WSU vs. Duquesne) 9-19-26",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/6b5027d2-2e24-4a71-bacc-b087483036ce.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
@@ -5223,6 +5179,20 @@
         "source": "The Daily Evergreen",
         "id": "bd72f5ac1638b832",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "WSU Football: Highlights vs. Duquesne | 9/19/26",
+        "link": "https://wsucougars.com/news/2026/09/20/wsu-football-highlights-vs-duquesne-91926",
+        "link_kind": "item",
+        "date": "2026-09-20T04:49:26+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "a57e8f92fbb8cc36",
+        "sport": "football",
         "medium": "text"
       },
       {
@@ -6791,20 +6761,6 @@
         "medium": "audio"
       },
       {
-        "title": "Will the Apple Cup survive? It’s complicated for Washington, WSU",
-        "link": "https://www.seattletimes.com/sports/washington-huskies-football/will-the-apple-cup-survive-its-complicated-for-washington-wsu/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-08-30T19:00:00+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/08/08292026_tzr_tzr_173623.jpg?d=1200x630\"><br/>The Huskies and Cougars signed a five-year agreement after Washington left the Pac-12 for the Big Ten. Beyond that, there is no contract, only uncertainty for the Apple Cup's future.",
-        "author": "Jon Wilner",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "82d2306a93b1a6ae",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Former Cougar Football Coach Bill Doba Passes Away",
         "link": "https://wsucougars.com/news/2026/08/28/former-cougar-football-coach-bill-doba-passes-away",
         "link_kind": "item",
@@ -7281,34 +7237,6 @@
         "channel_url": "",
         "source": "Washington State Athletics",
         "id": "e55ffa60695a31a7",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU Football: Ena | Green | Leaupepetele | Woods | Fall Camp Press Conference | 8/13/26",
-        "link": "https://wsucougars.com/news/2026/08/13/wsu-football-ena-green-leaupepetele-woods-fall-camp-press-conference-81326",
-        "link_kind": "item",
-        "date": "2026-08-13T21:28:11+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "c724ba1589115231",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Cougar Football Preseason Camp – Day 6",
-        "link": "https://wsucougars.com/news/2026/08/13/cougar-football-preseason-camp-day-6",
-        "link_kind": "item",
-        "date": "2026-08-13T00:03:29+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "32dd427bfe63002d",
         "sport": "football",
         "medium": "text"
       },
