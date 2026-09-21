@@ -7119,6 +7119,349 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-09-21-0139"
+    },
+    "1ca9a3a94307f13a": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The story is about Washington State hockey against Gonzaga, a Boise Showcase and MWCHL-style club schedule, and hockey is absent from both schools' rows.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "212236f7107fb065": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A profile of Utah State middle blocker Ava Napierski, her freshman stats, injury and return as a starter.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jillian Peterson"
+      ],
+      "extent": "30 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "229409c3fa8797f1": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "USU Rodeo Club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The subject is the USU Rodeo Club, a club team absent from Utah State's row; football home games are only the setting for its flag rides.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Coach Mendenhall approved and is quoted, so Utah State football could defensibly count as involved in this game-day tradition.",
+      "byline": [
+        "Jayke Martin"
+      ],
+      "extent": "52 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "2c32a20f997d5518": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Five post-game observations on Washington State's 48-7 win over Duquesne, its offense, defense and offensive line.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "599f4da5436ccf17": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A profile of Utah State graduate linebacker Bronson Olevao Jr. and his years with the football program under three head coaches.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "60 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "61a0830b434c170b": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "UMass football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece is entirely about UMass football's 3-0 start; Fresno State appears only as a passing comparison line about USC's defense.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "7 min read",
+      "lock": "free",
+      "run": "run_2026-09-21-1340"
+    },
+    "735ab74cccdf5e66": {
+      "subjects": {
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "San Jose State football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column is San Jose State's view of its 26-10 loss to Fresno State, with Fresno State's transfer, penalties and staff continuity worked in throughout.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The piece is framed around San Jose State, so Fresno State could be read as opponent context rather than a substantive subject.",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "74ba85b0c92602cc": {
+      "subjects": {
+        "fresno-state/football": "involves",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A Mountain West Week 3 recap in which Fresno State's 26-10 win over San Jose State and Oregon State's upcoming game at UTEP each get a full section.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The piece is about the Mountain West and the covered programs each get one section, so 'involves' versus 'mentions' could defensibly go the other way.",
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "12 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "7bcbbd4008cd6f49": {
+      "subjects": {
+        "fresno-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The headline and summary name Fresno State's 26-10 win over San José State and its next home game, so both the program and its athletics are established.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-21-1340"
+    },
+    "802b54e5f7e8110c": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A profile of Virginia transfer receiver Eli Wood and his final college season with Utah State football.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dylan Moore"
+      ],
+      "extent": "60 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "935a2fb2addbe0a4": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The text recaps Texas State's 0-0 draw with Santa Clara and previews its first Pac-12 match at Utah State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "936766712f340640": {
+      "subjects": {
+        "fresno-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an interview with a former Fresno State safety about the Bulldogs' win over San José State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-21-1340"
+    },
+    "a0d24775045667c1": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The headline and summary establish takeaways from Oregon State's win over Montana and its first win of the season; the sport is not stated, so the department is named.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-21-1340"
+    },
+    "c28de401c2ad5a2a": {
+      "subjects": {
+        "fresno-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a post-game breakdown of Fresno State's 26-10 win over San Jose State in the Battle for the Valley.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-09-21-1340"
+    },
+    "ccdc9ab80553aa6a": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The story is a WSU hockey game in the ACHA, a club sport absent from Washington State's row.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "cfb16a554346b591": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece covers a campus panel on Gen Z sports gambling; Utah State's athletics deputy director is one panelist, but no Utah State team is the subject.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "A Utah State athletics official sits on the panel and the department could count as involved, though the topic is gambling generally.",
+      "byline": [
+        "Quinton Papa"
+      ],
+      "extent": "42 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "d1c4908947034bc6": {
+      "subjects": {
+        "texas-state/football": "about",
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "colorado-state/football": "about",
+        "boise-state/football": "about",
+        "san-diego-state/football": "about",
+        "fresno-state/football": "involves",
+        "oregon-state/football": "involves",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A league-wide Week 3 recap giving each of several covered football programs its own paragraph, plus Pac-12 standings and rankings.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "d25db8fb6efeae36": {
+      "subjects": {
+        "utah-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A profile of BYU transfer midfielder Mia Lopez and her role under Utah State head coach Manny Martins.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dylan Moore"
+      ],
+      "extent": "52 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "d601e181363451e7": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports how the NCAA's eligibility changes leave Utah State defensive back Bryson Taylor eligible to practice but not compete, with comments from coach Mendenhall.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Essence Barnes"
+      ],
+      "extent": "38 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "d8972188d5450288": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The Monday roundup gives real treatment to Fresno State's 26-10 rivalry win, Texas State's first win and Oregon State's win over Montana, alongside non-covered Mountain West items.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-21-1340"
+    },
+    "de1780064d650449": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Five post-game thoughts on Washington State's 48-7 rout of Duquesne, covering offense, defense and the new offensive line.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-21-1340"
     }
   },
   "runs": {
@@ -7860,6 +8203,69 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 25.915795799999614,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-21-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-21T13:39:25.762626+00:00",
+      "items": 21,
+      "verdict_counts": {
+        "drop": 5,
+        "publish": 16
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 2,
+        "The Utah Statesman": 2,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 3
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "1ca9a3a94307f13a",
+          "source": "The Daily Evergreen",
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "229409c3fa8797f1",
+          "source": "The Utah Statesman",
+          "phrase": "USU Rodeo Club",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "61a0830b434c170b",
+          "source": "Press Break",
+          "phrase": "UMass football",
+          "kind": "not-ours"
+        },
+        {
+          "id": "735ab74cccdf5e66",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State football",
+          "kind": "not-ours"
+        },
+        {
+          "id": "ccdc9ab80553aa6a",
+          "source": "The Daily Evergreen",
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 44.03483889999916,
       "tokens": null,
       "tokens_source": null
     }
