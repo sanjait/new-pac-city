@@ -6940,6 +6940,185 @@
       "extent": "8 min read",
       "lock": "paywall",
       "run": "run_2026-09-20-2014"
+    },
+    "27dca6f3ddfa1111": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of San Diego State's 26-13 football loss to James Madison, with coach and player comments.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Brielle Miller",
+        "Iain Henderson"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-21-0139"
+    },
+    "44c70d2c6dc66fe6": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary give the Beavers as two-score favorites over the Miners with a 54.5 over/under and a 3-0 record against the spread, which is a football betting line for an Oregon State game.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The text never names the sport; football is inferred from the 54.5 point total and the early-season 3-0 spread record.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-21-0139"
+    },
+    "4f3c4007ffaa1d64": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Announces San Diego State women's basketball's 2026-27 non-conference schedule.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tyler Ross"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-21-0139"
+    },
+    "6f4b3d7e9ac4e75d": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Beaver Bash is a student-life send-off party with foam pit and craft booths, nothing to do with Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Shayna Boettner"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-21-0139"
+    },
+    "7640a6c4f22c4560": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of Fresno State's 26-10 football win over San Jose State that keeps the Valley Trophy.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-21-0139"
+    },
+    "88a79fcfbd65cfec": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of Texas State volleyball's three matches at the Houston Tournament, with a preview of its first Pac-12 match against Utah State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rhianna Aleman",
+        "Jackson Grettler"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-21-0139"
+    },
+    "8ed7e1d67421214e": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Boise State is ranked No. 1 in the piece and gets its own paragraph on its Oregon loss and playoff path, so it figures substantively in a ranking that is mostly about other schools.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The piece ranks ten Group of Six teams and Boise State is only the first of them, so 'involves' versus 'mentions' could defensibly go either way.",
+      "byline": [
+        "Toby McMahon"
+      ],
+      "extent": "15 min read",
+      "run": "run_2026-09-21-0139"
+    },
+    "9b090dc66ce2db4a": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "hold",
+      "reason": "The description is one short paragraph centred on Nevada's quarterback benching and only says the hosts pick 'favorite programs' for a bowl game from the Mountain West and Pac-12, so no covered program is named.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The bowl-outlook half discusses Pac-12 teams, but the text never says which, so whether a covered program figures substantively cannot be told.",
+      "byline": [
+        "Derek Raridon",
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-21-0139"
+    },
+    "ae0e54adc1fd4471": {
+      "subjects": {
+        "conference": "about",
+        "washington-state/football": "about",
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Weekly Pac-12 football power rankings with a result, next opponent and comment for each of the eight football schools, framed around the conference's week and the coming non-conference slate.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-21-0139"
+    },
+    "d5adb2c4de54d9af": {
+      "subjects": {
+        "san-diego-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of San Diego State women's soccer's 2-0 win over Pepperdine.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Noah Meyer"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-21-0139"
+    },
+    "e632dbeb34569c7e": {
+      "subjects": {
+        "san-diego-state/volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of San Diego State volleyball's five-set home loss to Arizona.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Amy Ledezma Gonzalez"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-21-0139"
     }
   },
   "runs": {
@@ -7645,6 +7824,42 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 98.0737444999977,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-21-0139": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-21T01:39:03.380403+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 9,
+        "drop": 1,
+        "hold": 1
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "9b090dc66ce2db4a",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 25.915795799999614,
       "tokens": null,
       "tokens_source": null
     }
