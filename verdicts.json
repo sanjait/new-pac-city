@@ -7462,6 +7462,280 @@
       "extent": "7 min read",
       "lock": "paywall",
       "run": "run_2026-09-21-1340"
+    },
+    "108adf826bbd421a": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews the WSU-Arizona matchup, covering time, venue, broadcast, and scouting reports on both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-22-0141"
+    },
+    "1f4e60861695409f": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Utah State Rodeo Club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The text is a table of headline links to other stories, none discussed beyond a title line for any covered program.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "This is a sports-desk digest of headlines rather than a story in itself, so no program clears the mentions bar even though several appear by name.",
+      "byline": [
+        "The Utah Statesman"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-22-0141"
+    },
+    "2734fe848fff04c4": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The full text covers WSU's offensive line group, kicker situation, and cornerback injury notes ahead of Arizona.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-22-0141"
+    },
+    "2ae7f2db163b6927": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Oregon State's football season and quality of play are discussed substantively as Montana's opponent, beyond a mere score line.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Oregon State appears only as the opponent inside a paragraph about Montana within a roundup of many other teams, so involves versus mentions is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "11 min read",
+      "lock": "free",
+      "run": "run_2026-09-22-0141"
+    },
+    "354b7469a06f993c": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story covers former Gonzaga guard Malachi Smith's new NBA contract and recounts his Gonzaga career in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-22-0141"
+    },
+    "4674aab48fe0e832": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary details an Oregon State special teams player's kick and punt return statistics from the Beavers' win.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-22-0141"
+    },
+    "4a0137dab80308bf": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The summary reports Fresno State football's win over San Jose State and previews the coming game against Rice.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-22-0141"
+    },
+    "4f222dbf2083861b": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary is an Oregon State football injury report ahead of the UTEP game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-22-0141"
+    },
+    "51cc0a47e215d355": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece grades individual Fresno State football players' performances after the San Jose State win.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-22-0141"
+    },
+    "53def21ee68dfadd": {
+      "subjects": {
+        "texas-state/womens-tennis": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Texas State tennis players' singles and doubles results at the ACU Invite.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-22-0141"
+    },
+    "6f7a161f4387e862": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story covers former Gonzaga forward Graham Ike's new NBA contract and details his standout Gonzaga career.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-22-0141"
+    },
+    "804d997f70b0a78a": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The full text profiles SDSU football captains and their leadership role on the team.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-22-0141"
+    },
+    "8a76d93886a5dbe4": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports Fresno State men's basketball's newly announced non-conference schedule.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-22-0141"
+    },
+    "902b069441b80dd1": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The full text details WSU's offensive line plans, kicker situation, and cornerback injury status ahead of Arizona.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-22-0141"
+    },
+    "9302a1323ef2366d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary covers Oregon State's head coach reviewing the Montana win and previewing the UTEP trip.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-22-0141"
+    },
+    "9f78c10a17614e22": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary previews Oregon State football's nonconference finale at UTEP.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-22-0141"
+    },
+    "f0fefc8d36cd1cac": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The title and summary frame a columnist's comparison of the Beavers' and Ducks' on-field fortunes, with 'settle this on the field' pointing to football.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Bill Oram"
+      ],
+      "run": "run_2026-09-22-0141"
+    },
+    "fd5643b783d8ab8b": {
+      "subjects": {
+        "texas-state/womens-gymnastics": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The full text reports Texas State gymnastics hiring Ralph Rosso as associate head coach.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-22-0141"
     }
   },
   "runs": {
@@ -8266,6 +8540,43 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 44.03483889999916,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-22-0141": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-22T01:39:26.400614+00:00",
+      "items": 18,
+      "verdict_counts": {
+        "publish": 17,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "The Utah Statesman": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 5
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "1f4e60861695409f",
+          "source": "The Utah Statesman",
+          "phrase": "Utah State Rodeo Club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 39.39388059999328,
       "tokens": null,
       "tokens_source": null
     }
