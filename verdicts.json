@@ -7736,6 +7736,154 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-09-22-0141"
+    },
+    "3003a2abf62593ce": {
+      "subjects": {
+        "texas-state/football": "about",
+        "fresno-state/football": "about",
+        "boise-state/football": "about",
+        "san-diego-state/football": "involves",
+        "oregon-state/football": "involves",
+        "colorado-state/football": "involves",
+        "washington-state/football": "involves",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The award piece names weekly honorees from Texas State, Fresno State (twice) and Boise State football, with also-considered mentions spanning San Diego State, Oregon State, Colorado State and Washington State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-22-2227"
+    },
+    "30c8fd7b3c3b8c1a": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Texas State football's 49-35 win over North Texas in detail, play by play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-22-2227"
+    },
+    "4e125f7baf2cd585": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "colorado-state/football": "about",
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The power rankings give a dedicated paragraph to each of the conference's eight football programs, recapping their weekend results and standing.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-22-2227"
+    },
+    "ae5af829c088f6b4": {
+      "subjects": {
+        "san-diego-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps San Diego State women's soccer's 5-0 win over Northern Colorado in detail, with coach and player quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Andres Piceno"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-22-2227"
+    },
+    "c662bda1770f0685": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is a first-person feature about UTEP football's game at Michigan and its athletic department, and no covered school's program is the subject or figures substantively.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-22-2227"
+    },
+    "c9972abbaace47d7": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish that an Oregon State women's basketball recruit committed over several other offers.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-22-2227"
+    },
+    "cf15b4371a879a2a": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The rankings recap covers North Dakota State, New Mexico, San Jose State, Wyoming, UTEP, Nevada and Northern Illinois, none of them covered schools, with Fresno State appearing only as a one-sentence descriptor of an opponent's defense.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-22-2227"
+    },
+    "d727c216061a4b04": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The players-of-the-week honors go to San Jose State, North Dakota State, Northern Illinois and New Mexico players, none of them covered schools, with Fresno State appearing only as the opponent in one score line.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-22-2227"
+    },
+    "dc1666c9fd287c70": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The recruiting roundup's featured story recounts how receiver Jesse Legree signed with Oregon State football.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-22-2227"
     }
   },
   "runs": {
@@ -8577,6 +8725,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 39.39388059999328,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-22-2227": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-22T22:25:14.090223+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 6,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "c662bda1770f0685",
+          "source": "Mountain West Connection",
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 18.95848629999091,
       "tokens": null,
       "tokens_source": null
     }
