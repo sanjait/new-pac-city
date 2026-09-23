@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:03:32.676307+00:00",
+  "generated_at": "2026-09-23T13:03:53.313335+00:00",
   "teams": {
     "conference": [
       {
@@ -13,6 +13,62 @@
         "channel_url": "",
         "source": "Press Break",
         "id": "fb6433f1f9a81fd1",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "MWCConnection Reacts Survey: Third-best Mountain West team",
+        "link": "https://www.mwcconnection.com/mountain-west-discussion/92787/mountain-west-football-unlv-hawaii-air-force-san-jose-state",
+        "link_kind": "item",
+        "date": "2026-09-22T17:00:00+00:00",
+        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NCAA. Throughout the year we ask questions of the most plugged-in MWC fans and fans across the country. Sign up here to participate in the weekly emailed surveys:",
+        "author": "Kyle Thele",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "efeb0538ae37e99f",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "What We Learned About New Mexico After Three Games",
+        "link": "https://www.mwcconnection.com/new-mexico-lobos-football/92793/what-we-learned-about-new-mexico-after-three-games",
+        "link_kind": "item",
+        "date": "2026-09-22T16:00:00+00:00",
+        "summary": "The Lobos came close to pulling off a major upset at No. 24 Oklahoma, and their performance showed that Jason Eck’s program is growing stronger, deeper, and more confident. Now, New Mexico needs to shift focus and prepare for rival New Mexico State. By Roger A. Holien &#124; Mountain West Connection In college football, there [&#8230;]",
+        "author": "Roger A Holien",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "2b60132282600325",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "The Good, the Bad, the Ugly: Week 3",
+        "link": "https://www.mwcconnection.com/the-good-the-bad-the-ugly/92656/the-good-the-bad-the-ugly-week-3",
+        "link_kind": "item",
+        "date": "2026-09-22T15:00:00+00:00",
+        "summary": "Week two brought some critical games for the Pac-12 and an opportunity to solidify itself as the top Group of Six conference in college football, while the Mountain West looked to get back on track after a rough Week 2.San Diego State faced a talented James Madison squad. Texas State looked to get back on [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "90f67845ada03f1c",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "New Mexico nearly upsets Oklahoma! Texas State finds their groove, Fresno State takes Battle for the Valley! Each MW/PAC-12 Most Impressive/Disappointing Player so far! Games of the Week Preview/Prediction! HP Ep. #171 OUT NOW!",
+        "link": "https://www.mwcconnection.com/podcast/92849/mountain-west-pac-12-podcast-2026-new-mexico-fresno-state-texas-san-jose-hawaii-wyoming-boise-top-players-disappointing",
+        "link_kind": "item",
+        "date": "2026-09-22T14:00:00+00:00",
+        "summary": "Welcome back everyone to the Hike’s Peak Podcast, thank you for coming back to the mountain! The college football season is in full swing, and we have plenty of big time matchups to analyze. New Mexico fought hard, but ultimately lost a rock fight to Oklahoma, Texas State’s offense finally came to life for their [&#8230;]",
+        "author": "Jack Thompson",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "e2c93ef7f98f5dfa",
         "sport": "all",
         "medium": "text"
       },
@@ -129,34 +185,6 @@
         "medium": "text"
       },
       {
-        "title": "PAC-12 Players of the Week: Week 3",
-        "link": "https://www.mwcconnection.com/players-of-the-week/92653/pac-12-players-of-the-week-boise-fresno-texas-state",
-        "link_kind": "item",
-        "date": "2026-09-21T14:00:00+00:00",
-        "summary": "A weekend full of exciting games has concluded. There were some huge games where teams across the Mountain West had a chance to prove themselves. With that, there were some outstanding performances on both sides of the ball. Transfers from FCS schools continue to play at a high level and a couple of true freshman [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "3003a2abf62593ce",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountaintop View 9-21-26. Bulldogs, Bobcats, Beavers win, Jason Eck, AP Poll",
-        "link": "https://www.mwcconnection.com/pac-12-news/92698/jason-eck-fresno-state-brad-jackson-braden-atkinson-ap-poll",
-        "link_kind": "item",
-        "date": "2026-09-21T13:00:00+00:00",
-        "summary": "It’s Monday, and we are back at it! Football season is firing on all cylinders, and we have you covered. As always, check out our original coverage and what we can find on the World Wide Web below. Bulldogs quiet Spartans In the Battle for the Valley, only fans of the teams and true sickos [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "d8972188d5450288",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Football Players of the Week - Sept. 21, 2026",
         "link": "http://pac-12.com/news/2026/9/21/pac-12-football-players-of-the-week-sept-21-2026.aspx",
         "link_kind": "item",
@@ -181,34 +209,6 @@
         "channel_url": "",
         "source": "Press Break",
         "id": "61a0830b434c170b",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "PAC-12 GAME UPDATES: TEXAS STATE GETS A WIN, WASHINGTON STATE TAKES CARE OF FCS , UTAH STATE STUMBLES",
-        "link": "https://www.mwcconnection.com/pac-12-football/92720/pac-12-with-5-wins-in-week-3-texas-state-wins-first-game-of-season-san-diego-state-falls-to-james-madison",
-        "link_kind": "item",
-        "date": "2026-09-20T19:00:00+00:00",
-        "summary": "EARLY RECAP OF PAC-12 GAMES + WHAT WAS NORTH CAROLINA STATE THINKING?&#160; Texas State comes to play as they hang on to beat North Texas.&#160; The Bobcats were probably wondering if things were going their way after losing to UTSA last week. All doubts were removed as the Bobcats ran over North Texas 49-35 for [&#8230;]",
-        "author": "Jeffrey Carter",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "d1c4908947034bc6",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "2026 Mountain West Football Week 3 Recap",
-        "link": "https://www.mwcconnection.com/hawaii-warriors-football/92700/2026-mountain-west-football-week-3-recap",
-        "link_kind": "item",
-        "date": "2026-09-20T16:00:00+00:00",
-        "summary": "Week 3 of the 2026 season is in the books, and it was a lot milder for the Mountain West as a whole. The limited slate of games saw just two one-score contests, one of which saw a known contender assert themselves as a national threat, and the other seeing a hopeful contender sinking straight [&#8230;]",
-        "author": "Chase Dulude",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "74ba85b0c92602cc",
         "sport": "football",
         "medium": "text"
       },
@@ -410,6 +410,21 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "From the Spot Podcast: Season 12, Episode 5- Socctoberfest Preview - Frankie McGuire and Lexie Lerwick",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/5ad05945-3068-41d1-b74f-c1f7affeb224.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-09-23T11:00:00+00:00",
+        "summary": "<p>On this episode of the From the Spot Podcast presented by Select Health, Boise State soccer head coach Jim Thomas and student athletes Frankie McGuire and Lexie Lerwick preview Friday’s Socctoberfest matchup vs. Northern Colorado and much more.</p><p>Timestamps- 0:00 - 2:29 - Socctoberfest, 2:30 - 5:59 - SUU Shutout, 6:00 - 7:29 - Northern Colorado preview, 7:30 - 8:30 -&nbsp;Kenzie MacMillan’s broadcast debut, 8:31 - 10:59 - Jim on Frankie and Lexie, 11:00 - 20:57 - Frankie McGuire, Lexie Lerwick in studio</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 1256,
+        "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network",
+        "source": "The Bronco Sports Podcast Network",
+        "id": "e24a90fbc48ad7ab",
+        "extent": "21 min",
+        "sport": "all",
+        "medium": "audio"
+      },
       {
         "title": "Women’s volleyball finds offensive control in Idaho State tournament",
         "link": "https://www.arbiteronline.com/2026/09/22/womens-volleyball-finds-offensive-control-in-idaho-state-tournament/",
@@ -1080,6 +1095,21 @@
     ],
     "Colorado State": [
       {
+        "title": "Reality check: What BYU exposed about CSU in a 41-23 loss",
+        "link": "https://bleav.com/shows/ramnation-radio/episodes/reality-check-what-byu-exposed-about-csu-in-a-41-23-loss/",
+        "link_kind": "item",
+        "date": "2026-09-23T00:24:00+00:00",
+        "summary": "<p>CSU got its first look at an elite opponent, and No. 11 BYU provided a sobering measuring stick in a 41-23 win at Canvas Stadium. Joel and Mike break down what went wrong, from BYU’s domination in the trenches and CSU’s continued problems stopping explosive plays to the first-quarter hamstring injury that knocked Hauss Hejny out of the game. They also discuss K’saan Farrar and Darius Curry stepping in at quarterback, CSU’s continued knack for creating turnovers, and Jim Mora’s refusal to use the talent disparity as an excuse. Plus, the guys take a deeper look at the game-day atmosphere, CSU’s aggressive ticket-pricing strategy, the large BYU presence inside Canvas and whether record student turnout has masked a bigger challenge in building the Rams’ broader fan base.</p>\n<p>This RamNation Radio episode is brought to you by <a href=\"https://bit.ly/38QRcaN\">Pedersen Toyota</a>, your Local Toyota Dealer Serving Fort Collins, Loveland, Windsor and Timnath for more than 50 years. It is also made possible by <a href=\"https://bit.ly/3kBuSnX\">Ginger and Baker</a> — our favorite restaurant(s) in all of Fort Collins, and <a href=\"https://bit.ly/3syDFAy\">Ram Zone (powered by the CSU Bookstore)</a> — the best place to get all your Ram gear.</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+        "author": "info@milehighsports.com (Mile High Sports)",
+        "duration": 3509,
+        "channel_url": "",
+        "source": "RamNation Radio",
+        "id": "c5033643ffe59f17",
+        "extent": "58 min",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
         "title": "Rams Look Forward to Building Stage",
         "link": "https://csurams.com/news/2026/9/22/womens-basketball-rams-look-forward-to-building-stage",
         "link_kind": "item",
@@ -1544,6 +1574,20 @@
       }
     ],
     "Fresno State": [
+      {
+        "title": "Murf Gray named Pirates 2026 Minor League Player of the Year",
+        "link": "https://www.yourcentralvalley.com/bulldog-sports/murf-gray-named-pirates-2026-minor-league-player-of-the-year/",
+        "link_kind": "item",
+        "date": "2026-09-23T05:00:58+00:00",
+        "summary": "Madera native and former Diamond 'Dog Murf Gray has been named the Pittsburgh Pirates' Minor League Player of the Year by Baseball America. Murf batted .305 with 32 home runs across three levels of minor league ball this season. He got his start in Single-A in Bradenton, and eventually worked his way up to Double-AA [...]",
+        "author": "Angelique Martinez",
+        "duration": null,
+        "channel_url": "",
+        "source": "YourCentralValley",
+        "id": "cf7f7ba9bb30a0f0",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Watanabe earns Star of the Week recognition",
         "link": "https://gobulldogs.com/news/2026/9/22/football-watanabe-earns-star-of-the-week-recognition",
@@ -2867,7 +2911,7 @@
         "medium": "text"
       },
       {
-        "title": "Judge grants Oregon State players injunction against NCAA",
+        "title": "2 Oregon State Beavers can keep playing football after judge's decision",
         "link": "https://www.oregonlive.com/beavers/2026/09/judge-grants-oregon-states-jaheim-patterson-van-wells-preliminary-injunction-against-ncaa.html",
         "link_kind": "item",
         "date": "2026-09-22T20:25:39+00:00",
@@ -2877,7 +2921,7 @@
         "channel_url": "",
         "source": "The Oregonian",
         "id": "b8388da3512ad802",
-        "sport": "all",
+        "sport": "football",
         "medium": "text"
       },
       {
@@ -3329,20 +3373,6 @@
         "extent": "57 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Oregon State tight end DeCorion Temple owns up to penalty against Texas Tech",
-        "link": "https://www.oregonlive.com/beavers/2026/09/i-cant-let-that-happen-oregon-state-tight-end-owns-up-to-penalty-against-texas-tech.html",
-        "link_kind": "item",
-        "date": "2026-09-16T01:06:42+00:00",
-        "summary": "Temple ran a crossing route from right to left and hit a Texas Tech defender in the back with his forearm.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "a959312164f9698a",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "Oregon State Football: Offense Meets The Media (Sept. 15, 2026)",
@@ -5218,11 +5248,26 @@
     ],
     "Washington State": [
       {
+        "title": "What will it take for WSU to upset Arizona? (Episode 259)",
+        "link": "https://podcastvseveryone.podbean.com/e/what-will-it-take-for-wsu-to-upset-arizona-episode-259/",
+        "link_kind": "item",
+        "date": "2026-09-23T06:21:14+00:00",
+        "summary": "<p>Don't forget to subscribe to the newsletter! Episodes direct to your inbox, plus other written musings from Jeff. <a href='http://podcastvseveryone.com/'>podcastvseveryone.com</a></p>\n<p>Finally, a win! It wasn't maybe as convincing as we would have hoped -- particularly coming out of the gate -- but ultimately, the Cougars secured a decisive victory against an overmatched opponent. That was definitely nice.</p>\n<p>Now, we turn our attention to Arizona, which returns to Pullman for the first time since 2023. The Wildcats are a 10-point favorite, but there are lots of reasons to think the Cougs have a legitimate shot in this one.</p>\n<p>Plus, beers, soccer, and volleyball! Once again, we featured questions and comments from our premium subscribers. If you don't want to wait for the pod and you want to get in on some of that live stream action, head to <a href='http://podcastvseveryone.com/upgrade'>podcastvseveryone.com/upgrade</a> and join us! </p>\nNotes\n<p>Podcast music by Randy England. <a href='https://www.instagram.com/randyenglandmusic/'>You can find more of his work on Instagram</a>.</p>\n<p>You can also subscribe to the show on your favorite podcast services:</p>\n<ul>\n<li>\n<p><a href='https://podcasts.apple.com/us/podcast/podcast-vs-everyone/id1449847880?mt=2'>Apple Podcasts</a>  </p>\n</li>\n<li>\n<p><a href='https://open.spotify.com/show/5mN2nUMA3KH095WAYYiOaf'>Spotify</a> </p>\n</li>\n<li>\n<p><a href='https://www.youtube.com/@PodVsEveryone'>YouTube</a></p>\n</li>\n<li>\n<p>Or, manually add this feed to your podcast app of choice: <a href='https://feed.podbean.com/podcastvseveryone/feed.xml'>https://feed.podbean.com/podcastvseveryone/feed.xml</a></p>\n</li>\n</ul>",
+        "author": "",
+        "duration": 4172,
+        "channel_url": "",
+        "source": "Podcast Vs. Everyone",
+        "id": "ac0fdb99416b971f",
+        "extent": "1h 10m",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
         "title": "How WSU’s Maxwell Woods has emerged so quickly in the Cougars’ running back room",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/how-wsus-maxwell-woods-has-emerged-so-quickly-in-the-cougars-running-back-room/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
         "date": "2026-09-23T00:22:51+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09222026_tzr_tzr_171722.jpg?d=1200x630\"><br/>Maxwell Woods led the charge on the ground in WSU's win Saturday, and the redshirt freshman has quickly emerged as one of the Cougars' top threats.",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09222026_tzr_tzr_171722.jpg?d=1200x630\"><br/>Maxwell Woods led the charge on the ground in WSU's win Saturday, and the sophomore has quickly emerged as one of the Cougars' top threats.",
         "author": "Greg Woods",
         "duration": null,
         "channel_url": "",
@@ -5233,6 +5278,20 @@
         "also": [
           "The Spokesman-Review"
         ]
+      },
+      {
+        "title": "Cougars Host Former Pac-12 Foe Arizona Saturday on CBS",
+        "link": "https://wsucougars.com/news/2026/09/22/cougars-host-former-pac-12-foe-arizona-saturday-on-cbs",
+        "link_kind": "item",
+        "date": "2026-09-22T23:28:10+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "c1aef04510c77c5c",
+        "sport": "football",
+        "medium": "text"
       },
       {
         "title": "Pro Cougs Week 2: Hicks deals with discipline and Watson falls short",
@@ -5246,6 +5305,20 @@
         "source": "The Daily Evergreen",
         "id": "7ef438fd9e8520d5",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "WSU Football: Kirby Moore and Student-Athletes | Arizona Week Press Conference | 9/21/26",
+        "link": "https://wsucougars.com/news/2026/09/22/wsu-football-kirby-moore-and-student-athletes-arizona-week-press-conference-92126",
+        "link_kind": "item",
+        "date": "2026-09-22T08:50:45+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "81e4c27f52230083",
+        "sport": "football",
         "medium": "text"
       },
       {
@@ -5274,6 +5347,20 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "902b069441b80dd1",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "After impressive day for WSU with old conference foe Arizona looming | Pac-12 power rankings",
+        "link": "http://www.spokesman.com/stories/2026/sep/22/after-impressive-day-for-wsu-old-conference-foe-ar/",
+        "link_kind": "item",
+        "date": "2026-09-22T00:00:00+00:00",
+        "summary": "<p><em>The Pac-12 football power rankings are published each Sunday on the Hotline and consider both the latest results and season-long performance. Call it an objectively subjective look at the state of the conference. If you’re unhappy with the rankings, email us at the address below … or play better. For comparative purposes, we have included the placement of each team in last week’s rankings.</em></p><p>It looked bleak for the Pac-12 at roughly 9 p.m. Saturday night. No, not bleak. Gruesome. San Diego State was careening toward what would be a double-digit home loss to James Madison. Fresno State was locked in a field goal fest with San Jose State, and Boise State, a 28-point favorite, was in danger of an unimaginable loss to South Dakota.</p><p>Eventually, the conference escaped an #AfterDark disaster.</p><p>The Bulldogs pulled away from SJSU, and the Broncos made enough plays down the stretch to beat back their pesky foe.</p><p>Combine those victories with impressive displays by Washington State and Oregon State, which hammered FCS opponents, plus Texas State&#8217;s wild win over North Texas, and the Pac-12 emerged from Week 3 without major damage.</p><p>Up next: The defining Saturday of the season for the rebuilt conference.</p><p>Week 4 features just one matchup with a Power Four team&nbsp;– Washington State hosts Arizona in a Pac-12 legacy affair&nbsp;– but that&#8217;s exactly why the stakes are high on Sept. 26, the final weekend of inter-league play.</p><p>The Pac-12 has six dates with its peers in the Group of Six, offering an opportunity show it stands as the best league outside the Power Four:</p><p>•&nbsp;Two dates with the Mid-American, both on the road: Boise State visits Western Michigan, which lost in controversial fashion at Michigan two weeks ago, while San Diego State takes its struggling offense to Toledo.</p><p>•&nbsp;Two dates with the American: Fresno State hosts Rice, and Colorado State visits UTSA, which already owns one victory over the Pac-12 (a five-point win at Texas State).</p><p>•&nbsp;One date with the Mountain West: Oregon State and its dynamic offense visit floundering UTEP.</p><p>•&nbsp;One date with the Sun Belt: Utah State welcomes Troy, which lost by a mere 10 points at Missouri on Saturday.</p><p>Six defining games, four on the road and four against teams that could contend for their conference championships.</p><p>Boise State&#8217;s trip to WMU is the headliner, Broncos against Broncos with the winner taking pole position in the race for the Group of Six berth in the College Football Playoff.</p><p>But the other five will shape conference reputations and add valuable data to the strength-of-schedule and strength-of-record metrics at the heart of the CFP selection process.</p><p>By the close of business Saturday night, the rebuilt Pac-12 will know precisely where it stands in the hierarchy and whether the road to the playoff is narrow or wide.</p><p><strong>To the power rankings &#8230;</strong></p><h3>1. Boise State (2-1)</h3><p><strong>Result:</strong> beat South Dakota 38-24</p><p><strong>Next up:</strong> at Western Michigan</p><p><strong>Comment:</strong> Looking back, the Hotline should have seen the South Dakota trap slotted into Boise State&#8217;s schedule after Memphis and before Western Michigan&nbsp;– two important Group of Six duels. The Broncos dominated with 533 total yards but made just enough mistakes, including a muffed punt return in the fourth quarter, to create the unexpected drama. (Last week: 1)</p><h3>2. Oregon State (1-2)</h3><p><strong>Result:</strong> beat Montana 52-17</p><p><strong>Next up:</strong> at UTEP (6 p.m. on MW+)</p><p><strong>Comment:</strong> We aren&#8217;t saying the Beavers will earn a berth in the Pac-12 championship game, but we aren&#8217;t saying they won&#8217;t. At least, the Hotline isn&#8217;t prepared to rule them out just yet. The start under new coach JaMarcus Shephard has been undeniably impressive. (Last week: 2)</p><h3>3. Fresno State (2-1)</h3><p><strong>Result:</strong> won at San Jose State 26-10</p><p><strong>Next up:</strong> vs Rice (7 p.m. on The CW)</p><p><strong>Comment:</strong> From here, it&#8217;s increasingly clear that tiers are forming. Boise State, Oregon State and Fresno State are on the highest, with a clear gap to the next level. Sure, that dynamic could change three times over before the season concludes. But there&#8217;s no fun in waiting for results before leaping to conclusions. (Last week: 4)</p><h3>4. San Diego State (1-2)</h3><p><strong>Result:</strong> lost to James Madison 26-13</p><p><strong>Next up:</strong> at Toledo (9 a.m. on CBS Sports Network)</p><p><strong>Comment:</strong> With 25 percent of the season complete, there is zero indication that quarterback Jayden Denegal has made the leap in efficiency SDSU requires in order to contend for the Pac-12 title. His completion percentage is 53.7, and the task doesn&#8217;t get easier this week. (Last week: 3)</p><h3>5. Colorado State (2-1)</h3><p><strong>Result:</strong> lost to BYU 41-23</p><p><strong>Next up:</strong> at UTSA (9 a.m. on ESPNU)</p><p><strong>Comment:</strong> The Rams simply lacked the personnel to compete with BYU on the lines of scrimmage and were no match for bruising tailback LJ Martin (176 yards). But Boise State is the only team in the Pac-12 that approaches the Cougars&#8217; physicality. We continue to expect CSU to be competitive on a regular basis. (Last week: 5)</p><h3>6. Texas State (1-2)</h3><p><strong>Result:</strong> beat North Texas 49-35</p><p><strong>Next up:</strong> vs. Incarnate Word (3 p.m. on USA Network)</p><p><strong>Comment:</strong> No way to overstate the significance of Texas State&#8217;s win on team psychology, bowl math and Pac-12 narrative. North Texas was one week removed from blasting UNLV, purportedly one of the top teams in the Mountain West. And the Bobcats were fresh off a gut-punch loss to UTSA. (Last week: 7)</p><h3>7. Washington State (1-2)</h3><p><strong>Result:</strong> beat Duquesne 48-7</p><p><strong>Next up:</strong> vs. Arizona (4:30 p.m. on CBS)</p><p><strong>Comment:</strong> Don&#8217;t interpret the result as proof the Cougars have fixed their anemic offense. After all, Duquesne lost to Youngstown State 70-13 two Saturdays ago. That said, scoring 48 points and gaining 512 yards is better than not doing either. (Last week: 6)</p><h3>8. Utah State (0-3)</h3><p><strong>Result:</strong> lost at Utah 33-0</p><p><strong>Next up:</strong> vs Troy (4:30 p.m. on CBS Sports Network)</p><p><strong>Comment:</strong> Based on how the Aggies have performed and the breakdown of their conference schedule, we are beginning to think 0-12 is a distinct possibility. Much depends on the result this week. (Last week: 8)</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "f34f8e6e25b0300c",
         "sport": "football",
         "medium": "text"
       },
@@ -6221,20 +6308,6 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "f0aa9e13d0059bc4",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Defensive end Wendell Gregory helps Kansas State lock down Washington State offense | Difference makers",
-        "link": "http://www.spokesman.com/stories/2026/sep/12/defensive-end-wendell-gregory-helps-kansas-state-l/",
-        "link_kind": "item",
-        "date": "2026-09-12T00:00:00+00:00",
-        "summary": "<h3>KSU DE Wendell Gregory</h3><p>The junior Oklahoma State transfer spearheaded a lock-down effort from Kansas State’s defense, which flustered Washington State all afternoon and held the Cougar offense scoreless. Gregory sacked WSU quarterback Caden Pinnick twice and had a tackle for loss in the ground game. Gregory sped past WSU right tackle Jonny Lester and brought Pinnick down on a third-down play in the second quarter, leading to a punt and a K-State scoring drive that put the Wildcats up 17-0. Gregory breezed past Ashton Tripp on the right side for another third-down sack early in the third quarter, forcing a punt that led to a K-State field goal that gave the hosts a 27-7 advantage. Gregory tied for the team lead with five tackles and had three of K-State’s eight tackles for loss<span class=\"print_trim\">, helping the Wildcats limit WSU’s offense to 166 total yards and just two third-down conversions</span>.</p><h3>WSU S Jaylen Thomas</h3><p>The first-year Cougar snagged two interceptions and accounted for all of WSU’s scoring, returning a pick 50 yards for a touchdown as time expired in the first half. Thomas blanketed a K-State receiver on an out route, but Wildcats quarterback Avery Johnson tried to test the coverage anyway, and Thomas jumped the pass with ease, then had plenty of space to maneuver to the end zone. The defensive score cut the K-State lead to 17-7. Thomas, a San Jose State transfer, recorded his first career interception earlier in the second quarter, reading Johnson’s eyes and snatching an ill-advised fourth-and-8 throw on an out route near the left sideline, then returning that interception 31 yards to the K-State 45. <span class=\"print_trim\">WSU’s offense couldn’t do anything with it, though, quickly turning the ball over on downs.</span> Thomas finished with four tackles.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "f09f311e448cd9a4",
         "sport": "football",
         "medium": "text"
       },
@@ -7375,34 +7448,6 @@
         "channel_url": "",
         "source": "Washington State Athletics",
         "id": "653a444d41e08ea7",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Cougar Football Preseason Camp – Day 8",
-        "link": "https://wsucougars.com/news/2026/08/14/cougar-football-preseason-camp-day-8",
-        "link_kind": "item",
-        "date": "2026-08-14T23:02:20+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "3709fecd3aecbcb6",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU Football: Kirby Moore joins The Jim Rome Show | 8/14/26",
-        "link": "https://wsucougars.com/news/2026/08/14/wsu-football-kirby-moore-joins-the-jim-rome-show-81426",
-        "link_kind": "item",
-        "date": "2026-08-14T21:26:05+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "9ff0bcb6e59a44e4",
         "sport": "football",
         "medium": "text"
       },
