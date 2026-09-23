@@ -8053,6 +8053,146 @@
       "extent": "9 min read",
       "lock": "free",
       "run": "run_2026-09-23-0140"
+    },
+    "2b60132282600325": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The entire piece analyzes New Mexico's football team and its upcoming rivalry game against New Mexico State, neither a covered school.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-09-23-1341"
+    },
+    "90f67845ada03f1c": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "about",
+        "boise-state/football": "about",
+        "san-diego-state/football": "about",
+        "utah-state/football": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Five of the nine covered schools each get their own section with the writer's take on that team's Week 3 performance.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Five of ten teams profiled are covered schools, roughly half the piece, so whether it counts as 'most' for adding a conference subject is a close call; left out.",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-23-1341"
+    },
+    "cf7f7ba9bb30a0f0": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "hold",
+      "reason": "Neither the headline nor summary names Fresno State; \"Diamond 'Dog\" alone does not establish the covered program from the text given.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The nickname likely refers to Fresno State baseball, but nothing in the text itself confirms it without outside knowledge.",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-23-1341"
+    },
+    "e2c93ef7f98f5dfa": {
+      "subjects": {
+        "texas-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The show notes give Texas State's win over North Texas and Fresno State's Battle for the Valley win each a specific, if brief, description as episode content.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Texas State and Fresno State get only one sentence each in the show notes, so involves versus a mere mention is a close call.",
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-23-1341"
+    },
+    "efeb0538ae37e99f": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The survey question names only New Mexico and North Dakota State, both outside the nine covered schools, and no covered program appears.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-23-1341"
+    },
+    "f34f8e6e25b0300c": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "colorado-state/football": "about",
+        "texas-state/football": "about",
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Eight of the nine covered schools each get a dedicated power-ranking entry with result, next game, and commentary in this conference-wide ranking.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-23-1341"
     }
   },
   "runs": {
@@ -8963,6 +9103,90 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 29.35686979998718,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-23-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-23T13:39:25.431306+00:00",
+      "items": 6,
+      "verdict_counts": {
+        "drop": 2,
+        "publish": 3,
+        "hold": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2,
+        "YourCentralValley": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "2b60132282600325",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "90f67845ada03f1c",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "90f67845ada03f1c",
+          "source": "Mountain West Connection",
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "90f67845ada03f1c",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "id": "90f67845ada03f1c",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "id": "90f67845ada03f1c",
+          "source": "Mountain West Connection",
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e2c93ef7f98f5dfa",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "efeb0538ae37e99f",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "efeb0538ae37e99f",
+          "source": "Mountain West Connection",
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 12.427894000000379,
       "tokens": null,
       "tokens_source": null
     }
