@@ -7884,6 +7884,175 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-09-22-2227"
+    },
+    "01757756e662bc5b": {
+      "subjects": {
+        "utah-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A dedicated two-sentence update on Utah State's Harrison Taggart's injury recovery is real, if brief, standalone treatment within this link roundup.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The Taggart item is only two sentences, close to the line between involves and an incidental mention.",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-23-0140"
+    },
+    "124880fc298e0a12": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is about a campus community fair for clubs and local businesses, not Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ezekiel Wilday"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-23-0140"
+    },
+    "205a9943c0baa3a4": {
+      "subjects": {
+        "texas-state/womens-golf": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Texas State women's golf's finish at the Schooner Fall Classic hole by hole.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-23-0140"
+    },
+    "24fd2015687f3a30": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary identify a three-star guard's commitment to Oregon State basketball as the subject.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-23-0140"
+    },
+    "7ef438fd9e8520d5": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The roundup tracks several former Washington State football players' NFL performances, an alum-career subject that is athletics-relevant to the program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-23-0140"
+    },
+    "b8388da3512ad802": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary establishes that a court ruling lets two Oregon State football players keep playing amid an NCAA eligibility dispute.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-23-0140"
+    },
+    "b9af5af0fd627c5f": {
+      "subjects": {
+        "boise-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The entire piece recaps Boise State women's volleyball's tournament performance set by set.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-23-0140"
+    },
+    "c52195621d8eef71": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Washington State hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Hockey is not a listed program in Washington State's row, so this club-sport recap falls outside the registry.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-23-0140"
+    },
+    "cbec56223457340b": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature profiles WSU football running back Maxwell Woods and his emergence in the Cougars' offense.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-23-0140"
+    },
+    "da593181816bdf3d": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story covers former Gonzaga point guard Ryan Nembhard's NBA trade, an alum's professional career that is athletics-relevant to the program that produced him.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-23-0140"
+    },
+    "fb6433f1f9a81fd1": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is chiefly a deep dive on Oregon State football's turnaround, with substantial standalone sections on Washington State's Week 4 matchup and Boise State's playoff chase.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "9 min read",
+      "lock": "free",
+      "run": "run_2026-09-23-0140"
     }
   },
   "runs": {
@@ -8759,6 +8928,41 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 18.95848629999091,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-23-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-23T01:39:16.621235+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 9,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "c52195621d8eef71",
+          "source": "The Daily Evergreen",
+          "phrase": "Washington State hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 29.35686979998718,
       "tokens": null,
       "tokens_source": null
     }
