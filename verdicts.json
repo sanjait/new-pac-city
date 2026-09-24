@@ -8193,6 +8193,248 @@
       "extent": "5 min read",
       "lock": "paywall",
       "run": "run_2026-09-23-1341"
+    },
+    "0d0240f305747d18": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "About the meaning of the PRAx arts center's name and its exhibits, not athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Michael Purfield"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "20e989576f021c41": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Analyzes WSU quarterback Caden Pinnick's play-action passing and the Cougars' offense.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-24-0140"
+    },
+    "2cf280f9cadeadcd": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "An opinion piece arguing Fresno State receiver Josiah Freeman is the player to trust in a late-game situation.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "3d3cd8e18b764e35": {
+      "subjects": {
+        "conference": "about",
+        "fresno-state": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Explains the Pac-12 and what Fresno State joining it means for the Bulldogs, naming all nine members.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Nazish S. Iftiaz"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "3d682cdbe49d23f2": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A jazz quartet booked on a campus TV music show, not athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Shayna Boettner"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "527206b619387319": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles Texas State volleyball's transfer-portal additions ahead of its Pac-12 opener.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The text never says women's, but the registry lists only a women's volleyball program for Texas State.",
+      "byline": [
+        "Crystal Creek"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "5a175a35685cd3cb": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Predicts the Fresno State men's basketball starting five after a heavy roster rebuild.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "619d750d00b41583": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature on Jarrel Comer becoming a starting outside linebacker for Oregon State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "James Crepea | The Oregonian/OregonLive"
+      ],
+      "extent": "2 min read",
+      "lock": "free",
+      "run": "run_2026-09-24-0140"
+    },
+    "7a327dee2e98072e": {
+      "subjects": {
+        "washington-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on RV camping and shuttle service built around Cougar home football games and their fans.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The subject is a farm business and fan culture rather than the team itself, so football could be only a mention.",
+      "byline": [
+        "Adriana Janovich"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "b01bf5a14fcbb4b2": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Arkansas football",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Tulsa football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is a history of a 1975 Arkansas-Tulsa game and a libel suit; no covered program figures in it.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-09-24-0140"
+    },
+    "b5d7ad3e300e8171": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "One of three short items is Boise State's head coach on how he views Western Michigan, alongside links to Pac-12 previews.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "A short roundup where Boise State football gets one line among items about other Mountain West teams, so it could count as a mention.",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "cc8d4b6eca5b9733": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "About elective physical activity classes and curriculum requirements, not varsity athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Freeman"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "df1ea9c8e2d2d5f2": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A campus story about Valley Library hours and budget cuts, nothing about athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Marina Kandas"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "e5ec073b2c51540c": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline says a 4-star center committed to Oregon State men's basketball.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-24-0140"
+    },
+    "ed9724021b24fa52": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A story on course catalog policies and academic changes, nothing about athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jayasnehasree Sannidhi"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-24-0140"
+    },
+    "f61ddfd21f377eaf": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish Oregon State basketball's 2026-27 home nonconference schedule; men's or women's is not stated, so the department is named.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-24-0140"
     }
   },
   "runs": {
@@ -9187,6 +9429,47 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 12.427894000000379,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-24-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-24T01:39:48.301814+00:00",
+      "items": 16,
+      "verdict_counts": {
+        "drop": 6,
+        "publish": 10
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 5,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "b01bf5a14fcbb4b2",
+          "source": "Press Break",
+          "phrase": "Arkansas football",
+          "kind": "not-ours"
+        },
+        {
+          "id": "b01bf5a14fcbb4b2",
+          "source": "Press Break",
+          "phrase": "Tulsa football",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 34.96167509999941,
       "tokens": null,
       "tokens_source": null
     }
