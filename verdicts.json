@@ -8435,6 +8435,142 @@
         "James Crepea"
       ],
       "run": "run_2026-09-24-0140"
+    },
+    "065f35ef8017c7ca": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Argues the case for Boise State's College Football Playoff resume, with its schedule and quarterback discussed in detail.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-24-1338"
+    },
+    "0e7b56494ef4ad43": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A national data analysis of NIL and winning that gives Boise State a substantial section on its decline under one coach and its later recovery.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Mostly a national and Group of 6 study with only one covered program, Boise State, getting real treatment.",
+      "byline": [
+        "Aaron Kennedy"
+      ],
+      "extent": "13 min read",
+      "run": "run_2026-09-24-1338"
+    },
+    "1acae6be75737811": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Week 4 preview and betting look at Oregon State's game at UTEP centered on Atkinson and Legree.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Drew Norton | Advance Local"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-09-24-1338"
+    },
+    "6d6e9ab09acefc87": {
+      "subjects": {
+        "conference": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Weekly bowl projections place Boise State, Fresno State, Oregon State and other covered football teams, with commentary on the Beavers and Broncos.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-24-1338"
+    },
+    "92eefe22fbc2f7fc": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "One of the three best bets is a full section on Oregon State's offense against UTEP, though the other two picks involve Mountain West teams.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Only one of three picks concerns a covered program, so whether Oregon State figures substantively is close.",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-24-1338"
+    },
+    "9aaa3b794a2c9f95": {
+      "subjects": {
+        "conference": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "colorado-state/football": "about",
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "washington-state/football": "about",
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A league-wide look back at last weekend and forecast of this Saturday's games gives each covered football program its own paragraph.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-09-24-1338"
+    },
+    "f4ab4b183debf633": {
+      "subjects": {
+        "conference": "involves",
+        "oregon-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "washington-state/football": "involves",
+        "utah-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A weekly best-of team of incoming transfers gives named players at Oregon State, San Diego State, Texas State and other covered schools their own stat lines.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The piece is spread across two conferences and most entries are Mountain West players, so covered programs each get only a few entries.",
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-24-1338"
     }
   },
   "runs": {
@@ -9470,6 +9606,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 34.96167509999941,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-24-1338": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-24T13:38:30.070788+00:00",
+      "items": 7,
+      "verdict_counts": {
+        "publish": 7
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "065f35ef8017c7ca",
+          "source": "Mountain West Connection",
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 12.431460899999365,
       "tokens": null,
       "tokens_source": null
     }
