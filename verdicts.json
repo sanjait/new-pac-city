@@ -8571,6 +8571,132 @@
       ],
       "extent": "6 min read",
       "run": "run_2026-09-24-1338"
+    },
+    "3c902ea01742da53": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Analyzes Washington State volleyball's statistics before and after outside hitter Eliana Ti'a's knee injury.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-25-0139"
+    },
+    "5d52ddc18e070875": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Announces the tipoff time for Gonzaga's Feb. 20 nonconference game against Duke, with Mark Few's team as the subject.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-25-0139"
+    },
+    "706b8469b74811ce": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary say coach Justin Joyner's performance bonuses at Oregon State are lower than predecessor Wayne Tinkle's, an athletics-department contract story, though the sport is not stated.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-25-0139"
+    },
+    "7f7800fd66f11d76": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The picks column gives Washington State, Oregon State, San Diego State and Boise State football games each a full pick and comment, and discusses WSU's Arizona game at length.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-25-0139"
+    },
+    "937a2d13210877ea": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports that point guard Nathan De Sousa cleared NCAA eligibility and joined Gonzaga's roster.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-25-0139"
+    },
+    "97b15304f31b0eb7": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "San Diego State football's offensive struggles and preparation for its game at Toledo are the subject.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-25-0139"
+    },
+    "e4a514c6bb1b0837": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers Utah State men's basketball's first official practice of the 2026-27 season under coach Ben Jacobson.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "28 min read",
+      "run": "run_2026-09-25-0139"
+    },
+    "e5ea0e786fc08925": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The roundup gives Oregon State's game at UTEP and its 1-2 start despite the nation's best passing attack their own items.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Mostly a Mountain West link digest where Oregon State is one of several items, so its coverage level could go either way.",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-25-0139"
     }
   },
   "runs": {
@@ -9633,6 +9759,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 12.431460899999365,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-25-0139": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-25T01:39:20.466483+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 8
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 20.687533099990105,
       "tokens": null,
       "tokens_source": null
     }
