@@ -8697,6 +8697,186 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-09-25-0139"
+    },
+    "01e0f0e783660622": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The whole piece analyzes Oregon State football's passing offense and 1-2 start.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-25-1339"
+    },
+    "0adda477d900f4c0": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece argues how the new strength-of-conference metric affects the Pac-12, with Boise State and Oregon State's playoff prospects discussed.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-25-1339"
+    },
+    "0daeab1727415a93": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico women's soccer",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The story is about New Mexico soccer opening Mountain West play, with no covered program involved.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-25-1339"
+    },
+    "2a8d476cef8751ff": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The piece previews Air Force at Nevada, and neither team is among the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sean OToole"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-25-1339"
+    },
+    "372e975bed9db77f": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada basketball",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is Nevada coach Steve Alford's retirement announcement; no covered program figures in it.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-25-1339"
+    },
+    "7e4a4cccfbc8c34c": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature profiles WSU defensive tackle Paul Hutson and his role on the Cougars' defense.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-25-1339"
+    },
+    "df30d9494c9aac84": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports WSU football injury updates from coach Kirby Moore.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-25-1339"
+    },
+    "dffc65ccd65a5949": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The ranking covers only Mountain West teams and no covered program is named in it.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Toby McMahon"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-25-1339"
+    },
+    "e56ddf823a772017": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary states this is a scouting piece ahead of Saturday's game with Oregon State.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Only headline and summary were available; the sport is not stated, so the department key was used.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-25-1339"
+    },
+    "fad0171cda1d6395": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The weekly picks column gives WSU, Oregon State, Boise State and San Diego State games their own picks and comments.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-25-1339"
+    },
+    "fb260b63def9e338": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "conference": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The podcast discusses how far ahead Boise State is and which struggling Pac-12 programs can improve.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Only a short episode blurb was available, so how much of the episode concerns covered programs is unclear.",
+      "byline": [
+        "Derek Raridon",
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-25-1339"
     }
   },
   "runs": {
@@ -9783,6 +9963,52 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 20.687533099990105,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-25-1339": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-25T13:39:26.269886+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 7,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 4
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "0daeab1727415a93",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico women's soccer",
+          "kind": "not-ours"
+        },
+        {
+          "id": "2a8d476cef8751ff",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force football",
+          "kind": "not-ours"
+        },
+        {
+          "id": "372e975bed9db77f",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada basketball",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 21.288687700027367,
       "tokens": null,
       "tokens_source": null
     }
