@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-25T13:03:40.184323+00:00",
+  "generated_at": "2026-09-26T01:03:44.708990+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Greatest Days in College Football History: Jan. 1, 1951",
+        "link": "https://pressbreak.substack.com/p/greatest-days-in-college-football",
+        "link_kind": "item",
+        "date": "2026-09-25T21:23:00+00:00",
+        "summary": "College football&#8217;s 1950 season culminated in a series of New Year&#8217;s Day upsets &#8212; including the first-ever Tennessee-Texas game &#8212; that make for a convoluted championship picture.",
+        "author": "Kyle Kensing",
+        "duration": null,
+        "channel_url": "",
+        "source": "Press Break",
+        "id": "6ed71d50eb16dbac",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Mountaintop View 9-25-26: Alford Retirement, Utah State Basketball, Wyoming Football, Sire Gaines, UNM/NMSU Rivalry, BSU Football Schedule",
+        "link": "https://www.mwcconnection.com/mountain-west-news/93043/mountaintop-view-9-25-26-alford-retirement-utah-state-basketball-wyoming-football-sire-gaines-unm-nmsu-rivalry-bsu-football-schedule",
+        "link_kind": "item",
+        "date": "2026-09-25T13:00:00+00:00",
+        "summary": "Nevada Coach Announces Future Retirement Date Utah State Gets Big Basketball Commitment Wyoming Football Continues to Battle Injuries Sire Gaines’ Status Remains Uncertain A Look Back At the UNM-NMSU Rivalry Boise State Will Play Week Zero Next Year On the Horizon: 2026 Pac-12 Week 4 Game Previews: Game Time, TV Schedule, Odds, Predictions  2026 Mountain [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "0dfde48656f400ab",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "How Will the Strength-Of-Conference Metric Affect the Mountain West and PAC-12?",
         "link": "https://www.mwcconnection.com/mountain-west-football/93014/how-will-the-strength-of-conference-metric-affect-the-mountain-west-and-pac-12",
@@ -153,20 +181,6 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "9aaa3b794a2c9f95",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State vs NDSU: Who Has The Better Resume for the CFP?",
-        "link": "https://www.mwcconnection.com/boise-state-broncos-football/92949/boise-state-vs-ndsu-who-has-the-better-resume-for-the-cfp",
-        "link_kind": "item",
-        "date": "2026-09-23T19:00:00+00:00",
-        "summary": "Boise State and North Dakota State have never faced off on the football field. But this season, these programs may be battling in a different gridiron style. The Broncos and Bison currently sit atop their respective conferences as the season moves into autumn. Big-time conference matchups and road battles still await; which team has, and [&#8230;]",
-        "author": "Dan Allison",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "065f35ef8017c7ca",
         "sport": "all",
         "medium": "text"
       },
@@ -1095,6 +1109,34 @@
     ],
     "Colorado State": [
       {
+        "title": "Setting the Stage: Mora Knows What to Expect From What He Sees",
+        "link": "https://csurams.com/news/2026/9/25/football-setting-the-stage-mora-knows-what-to-expect-from-what-he-sees",
+        "link_kind": "item",
+        "date": "2026-09-25T21:00:00+00:00",
+        "summary": "<img alt=\"Oline\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/23/Stage_UTSA.jpg\" /><br /><br />Rams' defense out to prove a point",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "f172271e039080c2",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Feeling Ahead of the Game at the Start",
+        "link": "https://csurams.com/news/2026/9/25/mens-basketball-feeling-ahead-of-the-game-at-the-start",
+        "link_kind": "item",
+        "date": "2026-09-25T19:00:00+00:00",
+        "summary": "<img alt=\"MBB first practice\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/24/MBB_start.jpg\" /><br /><br />Rams' experience shows up on first day",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "bfdc80b81955a59e",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "Game Program: Colorado State vs. UTSA",
         "link": "https://csurams.com/news/2026/9/24/football-game-program-colorado-state-vs-utsa",
         "link_kind": "item",
@@ -1291,20 +1333,6 @@
         "channel_url": "",
         "source": "Colorado State Athletics",
         "id": "3d104fdee16237d2",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Game Day vs. BYU",
-        "link": "https://csurams.com/news/2026/9/19/football-game-day-vs-byu",
-        "link_kind": "item",
-        "date": "2026-09-19T15:59:00+00:00",
-        "summary": "<img alt=\"Game Day - BYU\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/18/gameday-_green16x9.jpg\" /><br /><br />The Rams face former conference rival with ranked Cougars in Canvas Stadium.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "6726b8d9c0775e6b",
         "sport": "football",
         "medium": "text"
       },
@@ -1602,23 +1630,23 @@
         "extent": "1h 8m",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Athletic Department Announces Second Ring of Honor Class",
-        "link": "https://csurams.com/news/2026/8/11/football-athletic-department-announces-second-ring-of-honor-class",
-        "link_kind": "item",
-        "date": "2026-08-11T17:00:00+00:00",
-        "summary": "<img alt=\"2026 Ring of Honor Update\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/11/ATH26_-_2026_Ring_of_Honor_Class_16x9__1_.jpg\" /><br /><br />Five more athletes to be honored throughout the year",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "5a15c9b97b7d9a86",
-        "sport": "wbb",
-        "medium": "text"
       }
     ],
     "Fresno State": [
+      {
+        "title": "Preview: Dogs and Owls ready to square off",
+        "link": "https://fscollegian.com/2026/09/preview-dogs-and-owls-ready-to-square-off/",
+        "link_kind": "item",
+        "date": "2026-09-25T17:49:48+00:00",
+        "summary": "Fresno State football is set to face off against the Rice University Owls tomorrow, Sept. 26,  at Valley Children’s Stadium at 7 p.m. With this, it’s a good idea to get a gauge of who exactly the Dogs are going up against. Rice University is a private college in Houston, Texas and their football team...",
+        "author": "Sam Quintero, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "effacfacfad25368",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Fresno State takes on the Rice Owls",
         "link": "https://redwavereport.podbean.com/e/fresno-state-takes-on-the-rice-owls/",
@@ -1649,7 +1677,7 @@
         "medium": "text"
       },
       {
-        "title": "PAC-12 for Dummies",
+        "title": "PAC-12 for dummies",
         "link": "https://fscollegian.com/2026/09/pac-12-for-dummies/",
         "link_kind": "item",
         "date": "2026-09-23T16:00:07+00:00",
@@ -1663,7 +1691,7 @@
         "medium": "text"
       },
       {
-        "title": "The rebuild is on: Fresno State Men’s basketball 2026 starting 5 prediction",
+        "title": "The rebuild is on: Fresno State men’s basketball 2026 starting 5 prediction",
         "link": "https://fscollegian.com/2026/09/the-rebuild-is-on-fresno-state-mens-basketball-2026-starting-5-prediction/",
         "link_kind": "item",
         "date": "2026-09-23T15:59:28+00:00",
@@ -1877,20 +1905,6 @@
         "also": [
           "The Red Wave Report"
         ]
-      },
-      {
-        "title": "Fresno State Brings The Aggression in dominant win against Sac State",
-        "link": "https://fscollegian.com/2026/09/fresno-state-brings-the-aggression-in-dominant-win-against-sac-state/",
-        "link_kind": "item",
-        "date": "2026-09-17T00:41:09+00:00",
-        "summary": "Football is back at Valley Children’s Stadium, and after last week’s disaster in Los Angeles, the Bulldogs were looking for a major bounce-back victory. I don’t think it gets much bigger than this. Fresno State came out Saturday with one thing on its mind: BTA. Bring The Aggression, and bring the aggression they did. The...",
-        "author": "Cristian Ceballos, Daily Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "ca7ebccfa793ca62",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "2026 Bulldogs in the NFL: Week 1",
@@ -2897,23 +2911,23 @@
         "id": "b625f22b3c461bb0",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "Gonzaga women remain a contender in deeper Pac-12 Conference | Notebook",
-        "link": "http://www.spokesman.com/stories/2026/aug/12/gonzaga-women-remain-a-contender-in-deeper-pac-12-/",
-        "link_kind": "item",
-        "date": "2026-08-12T00:00:00+00:00",
-        "summary": "<p><em>Editor’s note: This is the fifth and final story in a series examining the offseason for the Gonzaga women’s basketball program.</em></p><p>It’s not anywhere close to the original, but for the Gonzaga women’s basketball program the refashioned Pac-12 Conference that it will now call home will present plenty of challenges.</p><p>More so than the West Coast Conference – although the Zags’ final season in the WCC was arguably their most entertaining and tightly contested ever.</p><p>The WCC has historically been light on competitive depth. Last season was an outlier. Most years two, maybe three teams challenged for league and conference tournament championships.</p><p>The respect Gonzaga forged in the WCC will likely follow it into the Pac-12. In way-too-early 2027 NCAA Tournament bracketology, the Zags are picked to earn the automatic bid from the Pac-12.</p><p>The Zags are seeded anywhere from No. 7 to No. 10 in early 2027 NCAA Tournament brackets.</p><p>Of the nine Pac-12 teams, Gonzaga (24-10), Colorado State (27-8), Oregon State (23-12) and San Diego State (27-6) are expected to jockey for spots in the top four. But Washington State (9-25) and Boise State (25-9) will definitely have a say in how things play out.</p><p>San Diego State won the Mountain West regular-season title last year and Colorado State won the conference tournament to earn a bid to the NCAA Tournament.</p><p>“The level of play is going to be high and it’s going to be a very competitive conference season,” GU coach Lisa Fortier said.</p><p>Fresno State (15-18), Utah State (6-24) and Texas State (11-19) will likely finish in the lower third. Utah State tied for last in the Mountain West last season, and Fresno State and Texas State have new coaches.</p><p>“We’re going to get to play each other twice which is not all that common anymore,” Fortier said. “The Power 4 (conferences) don’t do that. And we didn’t do that in the WCC last year. We’ll get a true (regular-season) champion. I’m looking forward to that. We’re going to be pushed every night.”</p><p>The conference tournament format will be just like the WCC with the top two seeds receiving double byes to the semifinals and the No. 3 and No. 4 teams getting byes to the quarterfinals.</p><p>Of the new teams, Gonzaga is most familiar with Colorado State. The Zags lost in overtime two years ago in Ft. Collins, Colorado, and fell 70-66 at McCarthey Athletic Center last year.</p><p>“They’re tough every year,” Fortier said. “They’ve always been a contender to win the Mountain West.”</p><p>San Diego State returns four starters and Oregon State returns three from last year and a fourth who started two years ago is back after sitting out following knee surgery.</p><p>Washington State returns all of its starters and a sixth who started 20 games.</p><p>Based on the final NET rankings from 2025-26, the new fangled Pac-12 will be much stronger than the WCC.</p><p>Here were the final NET rankings for the teams that will comprise the Pac-12: Gonzaga (62), SDSU (66), Colorado State (67), OSU (85), Boise State (120), Fresno State (173), WSU (227), Texas State (251).</p><p>Here were the final NET rankings for the remaining WCC teams: Santa Clara (80), Loyola Marymount (108), Pepperdine (132), Portland (134), San Francisco (157), Saint Mary’s (183), Pacific (208), San Diego (268) and Seattle U (342). Denver (293) joins the WCC this fall.</p><h3>Transfer portal, eligibility, recruiting</h3><p>Gonzaga has had to use the transfer portal to fill roster holes the last two years. But Fortier hopes it will be a supplemental part of recruiting moving forward.</p><p>While many programs across the nation are leaning heavily into the transfer portal to sustain or improve, Fortier wants to resist the temptation. Gonzaga has been built on signing high school players and developing them. She doesn’t plan to deter from the formula.</p><p>“We’re pretty excited that we can finally do some building,” Fortier said. “It’s really challenging nowadays where you’re just reorganizing and trying to figure out who you have and what they can do with the way the transfer portal has been. It’s been so discombobulated.”</p><p>Fortier doesn’t have to harken back too far to recall the most recent team she developed largely through high school signings. The 2023-24 team, which posted the best record in school history (32-4), started five seniors, four in a fifth year who had signed with Gonzaga out of high school. Whether that can happen again remains to be seen.</p><p>The recent change in eligibility rules means it could be at least another two years before Gonzaga dips deep into the high school pool.</p><p>The new age-based eligibility the NCAA adopted beginning in 2026-27 allows athletes five years of eligibility to be completed within a strict five-year period. Returning players are grandfathered into the new rule and receive an additional year of eligibility unless they’ve already used a redshirt or medical waiver.</p><p>Fortier said 11 of 12 players on her roster are eligible for an additional year. The exception is sophomore Lauren Whittaker, who has exhausted a redshirt and medical waiver.</p><p>The Zags have four seniors on the 2026-27 roster – Taylor Smith, Zeryhia Aokuso, McKynnlie Dalan and incoming transfer Jocelyn Medina. Fortier said she will determine which players want to return for another season at a later date.</p><p>Gonzaga has an oral commitment from Gonzaga Prep point guard Alyah Cornwall for the 2027 recruiting class. At this point Cornwall is the lone commitment for the early signing period in November.</p><p>The 5-foot-8 Cornwall is a true point guard – pass first, score second. It’s been a few years since the Zags had a point guard with a quarterback mindset.</p><p>Still, Cornwall can score. In 28 games last year at G-Prep, she averaged 17.9 points, 9.9 rebounds, 5.3 assists and 3.3 steals. She was the Greater Spokane League most valuable player and defensive player of the year.</p><p>“She loves getting other people involved,” Bullpups coach Geoff Arte said. “But she can really score it too and finishes around the rim. She loves to push the basketball and get it up ahead.”</p><p>Fortier said she’s not certain if she’ll sign others. NCAA rules allow schools to have 15 athletes on scholarship. With 12 players Fortier has some options.</p><h3>Nonconference</h3><p>Gonzaga will have fewer conference games than it has had in the WCC with just nine teams in the Pac-12.</p><p>Additionally, the NCAA expanded the number of games schools can play from 31 to 32. With 16 conference games that means Gonzaga has scheduled 16 nonconference contests.</p><p>Gonzaga is finalizing many of its nonconference games including a tournament in Hawaii where the Zags will take on Cal on Nov. 23.</p><p>What is known is Gonzaga opens the season at home Nov. 2 against North Dakota State, a return game from a year ago when the Zags opened at NDSU. Nov. 2 is the earliest date any colleges can play this season.</p><p>Another announced opponent is Michigan State in a neutral court matchup with the Gonzaga and Michigan State men Dec. 19 in Palm Springs, California.</p><p>The Zags will complete a two-year agreement with Arizona State, traveling to Tempe, Arizona, on Dec. 6.</p><p>A familiar nonconference opponent returns to the schedule with Montana, which visits Gonzaga Nov. 18. It’ll be an interesting matchup considering the Grizzlies picked up former Gonzaga guard Paige Lofing in the transfer portal this spring.</p><p>Those are the known dates at this time. Gonzaga will travel to Stanford and also will play Eastern Washington.</p><p>Gonzaga will also have return games at home against UC Riverside and at Grand Canyon.</p><p>“I think it’s really going to be a tough (nonconference) schedule,” Fortier said. “We have a couple of really hard games. But I think this team is up for it.”</p><h3>Another Fortier milestone</h3><p>Fortier tied LSU coach Kim Mulkey as the fastest coach to reach 300 career victories last season.</p><p>Looking back, Fortier said reaching 300 wins didn’t mean much to her.</p><p>“I’m just happy for the players and for the (assistant) coaches,” Fortier said. “We care more about how many weddings we get to go to and which babies we get to hold and which players come back. We like to watch them be successful in their life (after basketball).”</p><p>Whether she likes it or not, Fortier is closing on another milestone and it’ll happen quickly in the 2026-27 season. Going into her 13th season with her faithful assistants who include her husband Craig, Stacy Clinesmith and Jordan Green – each of whom have been around as long as she has – Lisa Fortier will become Gonzaga’s all-time winningest coach.</p><p>She has a 313-84 record (.788 winning percentage). She’s four wins from passing Kelly Graves, who she succeeded. Graves was 316-186 (.699) in 14 seasons.</p><p>“I would just say that I’m just grateful to have been part of the building of the program and get us to that place where we were able to just continue and take it to the next level,” Fortier said. “And now I’m ready for us to hopefully take what we’ve done to the next level as well.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "faa771da299d406b",
-        "sport": "wbb",
-        "medium": "text"
       }
     ],
     "Oregon State": [
+      {
+        "title": "Oregon State Beavers vs. UTEP Miners preview: Who enters conference play at 2-2?",
+        "link": "https://www.oregonlive.com/beavers/2026/09/oregon-state-beavers-vs-utep-miners-preview-who-enters-conference-play-at-2-2.html",
+        "link_kind": "item",
+        "date": "2026-09-25T19:00:00+00:00",
+        "summary": "Oregon State (1-2) faces UTEP (1-2) in El Paso, with both teams seeking their second win. The Beavers are favored by 10.5 points, led by QB Braden Atkinson's passing attack against a struggling Miners defense.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "2f21b3d53647ae99",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "UTEP beat reporter: Jesse Legree will be doubled all game",
         "link": "https://www.oregonlive.com/beavers/2026/09/scouting-the-miners-5-questions-prediction-with-a-utep-reporter.html",
@@ -3094,20 +3108,6 @@
         "channel_url": "",
         "source": "The Daily Barometer",
         "id": "0d0240f305747d18",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "PAC classes to remain a commitment",
-        "link": "https://dailybaro.orangemedianetwork.com/33006/daily-barometer-news/pac-classes-to-remain-a-commitment/",
-        "link_kind": "item",
-        "date": "2026-09-23T15:00:50+00:00",
-        "summary": "As Oregon State University students return for the new academic year, there are questions and concerns about the future of the Physical Activity Classes and their place at the university. This last academic year, OSU shifted to a new curriculum system, which saw many changes to OSU’s general curriculum. One of these changes included the...",
-        "author": "Colton Freeman, Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "cc8d4b6eca5b9733",
         "sport": "all",
         "medium": "text"
       },
@@ -3463,20 +3463,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State vs. Montana preview: Will JaMarcus Shephard get his first win against FCS powerhouse?",
-        "link": "https://www.oregonlive.com/beavers/2026/09/oregon-state-beavers-vs-montana-grizzlies-preview-will-jamarcus-shephard-get-his-first-win-against-fcs-powerhouse.html",
-        "link_kind": "item",
-        "date": "2026-09-18T19:00:00+00:00",
-        "summary": "Oregon State (0-2) hosts FCS powerhouse Montana (3-0) at Reser Stadium on Sept. 19, with the Beavers favored by 16.5 points in a must-win home game.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "0fcc0dc6701e4187",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State Football: Defense Meets The Media (Sept. 16, 2026)",
         "link": "https://osubeavers.com/news/2026/9/16/oregon-state-football-defense-meets-the-media-sept-16-2026",
         "link_kind": "item",
@@ -3634,20 +3620,6 @@
         "extent": "41 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Justin Joyner Meets the Media - Aug. 11",
-        "link": "https://osubeavers.com/news/2026/8/11/mens-basketball-justin-joyner-meets-the-media-aug-11",
-        "link_kind": "item",
-        "date": "2026-08-11T22:41:00+00:00",
-        "summary": "<img alt=\"Justin Joyner\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/11/joyner_august_11_2026.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "8f17600f8afbff66",
-        "sport": "mbb",
-        "medium": "text"
       }
     ],
     "San Diego State": [
@@ -4517,6 +4489,20 @@
     ],
     "Texas State": [
       {
+        "title": "Texas State sweeps Utah State for first Pac-12 win in program history",
+        "link": "https://universitystar.com/36395/sports/texas-state-sweeps-utah-state-for-first-pac-12-win-in-program-history/",
+        "link_kind": "item",
+        "date": "2026-09-25T18:35:37+00:00",
+        "summary": "Texas State middle blocker India Bennett thundered down the final kill that secured the Bobcats their first ever in-conference Pac-12 win (25-23, 25-20, 25-23) with a clean sweep against the Utah State Aggies Thursday evening at Strahan Arena. The Bobcats (6-6) showed intense arm power, finishing with a notable six overall aces and six overall...",
+        "author": "Rhianna Aleman, Sports Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "7cb48f99584c8aaa",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Game Preview: TXST vs UIW",
         "link": "https://txst.com/news/2026/9/24/football-game-preview-txst-vs-uiw.aspx",
         "link_kind": "item",
@@ -4710,20 +4696,6 @@
         "source": "Texas State Athletics",
         "id": "8a96f8f8bad7582d",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "TXST MBB announces three staff additions for 26-27",
-        "link": "https://universitystar.com/36284/sports/txst-mbb-announces-three-staff-additions-for-26-27/",
-        "link_kind": "item",
-        "date": "2026-09-15T23:51:35+00:00",
-        "summary": "Texas State men&#8217;s basketball announced three new additions to head coach Terrence Johnson’s coaching staff for the upcoming 26-27 season, headlined by Vince Walden, former Bobcat Nijal Pearson and Gedi Juozapaitis. Walden joins the Bobcats as an assistant coach, bringing over two decades of experience in player development and recruiting. He spent the past seven...",
-        "author": "Kaden Cuyler, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "8d980d5db980f870",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -5270,6 +5242,63 @@
     ],
     "Washington State": [
       {
+        "title": "How Washington State Cougars can pull an upset on Arizona",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/how-washington-state-cougars-can-pull-an-upset-on-arizona/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-09-25T23:32:33+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09252026_tzr_tzr_162846.jpg?d=1200x630\"><br/>There’s a lot on the line this weekend for WSU when the Cougars host former Pac-12 foe Arizona.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "1e22e14e58c1ff60",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Cougars sweep Bulldogs in first conference match",
+        "link": "https://dailyevergreen.com/199570/sports/cougars-sweep-bulldogs-in-first-conference-match/",
+        "link_kind": "item",
+        "date": "2026-09-25T19:52:13+00:00",
+        "summary": "After losing five of its last six heading into the night, Washington State (6-5, 1-0 Pac-12) bounced back Thursday in California by defeating Fresno State (5-7, 0-1 Pac-12) 3-0. The Cougars’ service-line pressure, offensive output and performance late in sets carried them to victory. They finished the night with a .294 hitting percentage, their best...",
+        "author": "Conner Orr, Deputy Campus Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "a9e8765752e4c924",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Why Oregon vs. USC tilt could become dying breed | Bowl projections",
+        "link": "https://www.seattletimes.com/sports/washington-huskies-football/why-oregon-vs-usc-tilt-could-become-dying-breed-bowl-projections/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-09-25T17:00:00+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09222026_tzr_tzr_132032.jpg?d=1200x630\"><br/>Oregon and USC square off this weekend in a key early-season game. If the college playoffs expand, the urgency of such matchups will be much less.",
+        "author": "Jon Wilner",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "779499a8ddabbcab",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Cougars Turning the Corner? Luke Ingham Breaks Down WSU vs Arizona",
+        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/Cougars-Turning-the-Corner--Luke-Ingham-Breaks-Down-WSU-vs-Arizona-e3pc7hr",
+        "link_kind": "item",
+        "date": "2026-09-25T06:24:30+00:00",
+        "summary": "<p>Has Washington State finally found its identity?In this episode of Palouse Playbook, we welcome back Luke Ingham of CougCenter and the Win or Lose Podcast to break down everything happening with Washington State football heading into a massive showdown against Arizona.After a tough stretch against Washington and Kansas State, the Cougars showed signs of life against Duquesne. Did the offense finally turn a corner? Can Caden Pinnock continue building confidence? And is this Arizona game the statement opportunity WSU has been waiting for?We discuss:🏈 Washington State vs Arizona preview 🏈 Why this game could define the Cougars&#39; season 🏈 The growth of the offensive line 🏈 Caden Pinnock&#39;s development at quarterback 🏈 Wendell Gregory and rising NFL Draft stock 🏈 Defensive standouts including Ashton Tripp and Jalen Caldwell 🏈 Offensive adjustments that changed everything against Duquesne 🏈 Why Fresno State may be the most important game on the schedule 🏈 Expectations for WSU football entering Pac-12 playLuke also shares why he believes Washington State has &quot;nothing to lose and everything to gain&quot; against Arizona and explains what the Cougars need to prove before conference play begins.If you&#39;re a member of Coug Nation, this is a must-watch conversation before one of the biggest games of the season.🔔 Subscribe for Washington State Football coverage all season long<a href=\"https://www.youtube.com/hashtag/gocougs\">#GoCougs</a> <a href=\"https://www.youtube.com/hashtag/washingtonstatefootball\">#WashingtonStateFootball</a> <a href=\"https://www.youtube.com/hashtag/wsufootball\">#WSUFootball</a> <a href=\"https://www.youtube.com/hashtag/cougars\">#Cougars</a> <a href=\"https://www.youtube.com/hashtag/pac12\">#Pac12</a> <a href=\"https://www.youtube.com/hashtag/arizonawildcats\">#ArizonaWildcats</a> <a href=\"https://www.youtube.com/hashtag/collegefootball\">#CollegeFootball</a> <a href=\"https://www.youtube.com/hashtag/cougnation\">#CougNation</a> <a href=\"https://www.youtube.com/hashtag/pullman\">#Pullman</a> <a href=\"https://www.youtube.com/hashtag/washingtonstate\">#WashingtonState</a> <a href=\"https://www.youtube.com/hashtag/cadenpinnick\">#CadenPinnick</a> <a href=\"https://www.youtube.com/hashtag/pac12football\">#Pac12Football</a> <a href=\"https://www.youtube.com/hashtag/collegefootballpodcast\">#CollegeFootballPodcast</a> <a href=\"https://www.youtube.com/hashtag/cougcenter\">#CougCenter</a></p>",
+        "author": "Up West Sports",
+        "duration": 1396,
+        "channel_url": "",
+        "source": "Palouse Playbook",
+        "id": "664d146d295b83e9",
+        "extent": "23 min",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
         "title": "WSU’s Trey Leckner ‘getting close’ to making season debut, coach Kirby Moore says",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsus-trey-leckner-getting-close-to-making-season-debut-coach-kirby-moore-says/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -5297,6 +5326,62 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "fad0171cda1d6395",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Why Arizona will beat Washington State | The pick",
+        "link": "http://www.spokesman.com/stories/2026/sep/25/why-arizona-will-beat-washington-state-the-pick/",
+        "link_kind": "item",
+        "date": "2026-09-25T00:00:00+00:00",
+        "summary": "<p>PULLMAN – For a moment, let’s be frank about Washington State’s last game, a home blowout over Duquesne.</p><p>The Cougars beat a bad FCS team, which entered allowing some of the most yards in the country. WSU coach Kirby Moore did well to make key adjustments, especially those on offense, which should encourage scores of fans. Quarterback Caden Pinnick looked excellent in the second half, and thanks to running backs Maxwell Woods and Kirby Vorhees, the hosts looked like a juggernaut in the second half.</p><p>But as WSU prepares to host Arizona in primetime on Saturday, we must keep this in mind: In two games against FBS competition, the Cougars have managed one touchdown and four turnovers. Their offense has looked meager at best.</p><p>That’s no way to topple Arizona as a 101/2-point underdog, which is a key reason why we’re picking the Wildcats to beat the Cougars.</p><p>Look for Arizona to win a close game at Gesa Field.</p><p>But here’s what’s important: This isn’t to say the Cougars have no chance. In fact, far from it. Thanks to a few shrewd adjustments, their offense looks far different than it did even a few weeks ago. Moore has shared some input in the playcalling department, WSU has shuffled its offensive line and Woods has gotten more opportunities to attack on the ground.</p><p>The Cougs should feel encouraged by those changes, which should help them win several Pac-12 games this season. But here’s predicting it won’t be enough to win a game against a Big 12 foe, especially with speedy wide receiver Tony Freeman out for the season with an injury.</p><p><strong>Final score:</strong> Arizona 23, WSU 16</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "8e78677a16ee384f",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU's keys to victory against Arizona | Two-minute drill",
+        "link": "http://www.spokesman.com/stories/2026/sep/25/wsus-keys-to-victory-against-arizona-two-minute-dr/",
+        "link_kind": "item",
+        "date": "2026-09-25T00:00:00+00:00",
+        "summary": "<p><span class=\"print_trim\"><strong>Washington State vs. Arizona</strong></span></p><h3>Saturday, 4:30 p.m.</h3><p><strong>Line:</strong> Arizona favored by 10½</p><p><strong>TV:</strong> CBS <strong>Radio:</strong> 920-AM</p><h3>Key matchup</h3><p><strong>WSU offense against Arizona defense:</strong> Even after a convincing win over FCS Duquesne last weekend, the Cougars’ offense still has something to prove against FBS competition. In their two games against defenses in that category, WSU has scored one offensive touchdown against four turnovers. The Cougs made some nice adjustments to earn their first win of the season, but whether they can keep those up against the Wildcats’ defense will play an outsize role in the outcome of Saturday’s game.</p><p>The Cougars will need to play clean football against the Wildcats’ defense, which has forced just one turnover in three games this season. WSU will likely roll out the same offensive line as last week – left tackle Ashton Tripp, left guard Jonny Lester, center Noah Dunham, right guard Nick Bakken and right tackle Jaylin Caldwell – which helped the Cougars rack up more than 300 rushing yards against Duquesne. <span class=\"print_trim\">They won’t need to match that total on Saturday, but they’ll need to present a credible rushing game to keep the Wildcats’ defense honest.</span></p><h3>How the Cougs win…</h3><p>To limit Arizona’s high-powered offense, WSU could use a turnover or two, which safety Jaylen Thomas has shown he’s capable of doing. He picked off two passes against Kansas State, including a pick-six right before halftime, and he can do something similar against Arizona QB Noah Fifita, the hosts will have a much better chance at springing the upset.</p><p>The Cougars will also need to get pressure on Fifita, who has already taken eight sacks in three games. WSU pass rushers Matyus McLain and Linus Zunk are still looking for their first sacks of the season, and with backups Mike Hughes and Malachi Wrice out, they’ll bear most of the responsibility on that front.</p><p>Only one problem for WSU: Arizona ranks No. 18 nationally in Pro Football Focus’ pass-blocking grades. <span class=\"print_trim\">The only sacks the Wildcats’ offensive line have given up are three from left guard Rhino Tapa’atoutai, which could give WSU defensive linemen Paul Hutson III and Kaden Beatty some opportunities.</span></p><h3>How the Wildcats win…</h3><p>Arizona has lots of paths to a win, but the most probable involves the way it has won two games this fall: by dominating on offense. Fifita has become one of the nation’s most prolific passers, completing better than 80% of his throws for eight touchdowns, and he is looking more and more comfortable on the ground . He’s broken off a 30-yard rush, which is the longest of his career.</p><p>But Fifita and the Wildcats may not have their full complement of playmakers in Saturday’s game. Receiver Giovanni Richardson, who leads the team in receiving despite missing last weekend’s game with an injury, is questionable to play against WSU. The Wildcats also produced just 84 rushing yards against Northern Illinois, which prompted coach Brent Brennan to address that earlier this week.</p><p>“We’re aggressively attacking that,” Brennan said, “because it’s unacceptable where it’s at right now.”</p><h3>Key stat<span class=\"print_trim\">: 23%</span></h3><p>That’s the percentage of the time Fifita has faced pressure in the pocket this season, according to Pro Football Focus. In those situations, Fifita has completed 7 of 12 passes for 67 yards and one interception, the only pick he’s thrown. If Fifita has shown any vulnerability this season, it’s been when he’s under duress, which makes it even more important that McLain and Zunk create havoc in the backfield.</p><p><strong>Quotable</strong>“I feel like attention to detail,” WSU linebacker DJ Warner said about the biggest differences between his team’s difference from Week 1 to Week 4. “I feel like as far as the defense and the whole team in general, I feel like now we’re way more detail-oriented than we were in Week 1, and I feel like that’s gonna be the thing that really helps us take it to the next level.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "cce86a99048762c5",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "How WSU can pull an upset on visiting Arizona in a primetime matchup",
+        "link": "http://www.spokesman.com/stories/2026/sep/25/how-wsu-can-pull-an-upset-on-visiting-arizona-in-a/",
+        "link_kind": "item",
+        "date": "2026-09-25T00:00:00+00:00",
+        "summary": "<p>PULLMAN – When he was growing up in the Phoenix area, in the dry heat and the desert views, DJ Warner got to know Arizona’s football program by osmosis. The Wildcats’ program is based about two hours away from Warner’s hometown of Glendale, but thanks to the relatively close distance, he formed something of a relationship with their coaches during the first stages of his recruitment.</p><p>Warner is now at his third stop of his college football journey, starting at linebacker for Washington State, but he still remembers some of the friendships he formed in those days. Many stayed in the area. Some even landed at Arizona.</p><p>“It’s gonna be great to see them after the game,” Warner said.</p><p>Warner will hope that when he sees his old buddies after WSU’s home showdown with Arizona, set for 4:30 p.m. Saturday on CBS, he won’t just be smiling because he’s happy to see them. He’ll hope he’s happy because his Cougars pulled an upset in primetime.</p><p>There’s a lot on the line this weekend for WSU, which is aiming for its second straight win following a home blowout over Duquesne last week. To avoid a 1-3 start in his debut season, which would put his program’s sparkly bowl streak in peril, Cougar coach Kirby Moore will have to prepare his team for the scintillating offense the Wildcats have ridden to a 2-1 start to the season.</p><p>“I think our guys have done a good job being where their feet are. That’s been the most important thing for us this week,” said Moore, whose team enters as about a 10.5-point underdog. “Really good meetings, walk-through, practice, control the things you can. It’s gonna be a great challenge on Saturday.”</p><!--[embed id=12251]--><p>It’s a legacy Pac-12 tilt for Arizona and WSU, who scheduled this nonconference affair back in January 2025, about a year and a half after the traditional conference collapsed and the Wildcats joined the Big 12. Arizona won the last meeting, a blowout win in Pullman in 2023, but the Cougars have won five of the past seven clashes. If you look past the 2023 game, you would have to flip the calendar back to 2014 to find the last time the Wildcats walked out of Pullman with a win.</p><p>Can WSU (1-2) keep that trend up? Here’s the interesting part about one of the keys to the game, which will be whether the Cougs can defang Arizona QB Noah Fifita and his playmakers: WSU defensive coordinator Trent Bray, who will lead the charge on that front, is no stranger to the Wildcats’ staff. Back in 2012-14, when Bray was a linebackers coach and graduate assistant at Oregon State, he got to know Arizona coach Brent Brennan, who was the Beavers’ wide receivers coach at the time.</p><p>Brennan, who called Bray “a really good friend of mine,” also had this to say this week about his old buddy at OSU: “He’s Uncle Trent to my kids. We’ve had a lot of fun together. Trent is an outstanding football coach.”</p><p>But on Saturday, Bray and the Cougars’ defense will have their hands full with the Wildcats’ offense, which put up 42 points in a lopsided win over Northern Illinois last weekend. The tip of the spear is Fifita, who has completed 81% of his passes for 834 yards, seven touchdowns and just one interception, leading his club to a season-opening win over FCS Northern Arizona before falling in a close loss to top-15 BYU the following weekend.</p><p>Fifita, who set a program record for career touchdown passes last Saturday, used that 2023 win over WSU to continue what turned into a breakout year. Three years later, he’s still running the show at Arizona (2-1), whose passing offense has been the strength of the team. The Wildcats’ 306 passing yards per game ranks No. 20 nationwide, including third in the Big 12.</p><p>“Very accurate passer, ton of completions, can extend plays. He’s a playmaker,” Moore said of Fifita. “We gotta play team defense. Trust your teammate that he’s doing his job. Sometimes you try and force something or you’re pressing, and he’s able to extend the play and then find guys downfield.”</p><p>But there’s more to the story on Arizona’s offense. One of the Wildcats’ top receivers, Giovanni Richardson, is questionable to play on Saturday thanks to a lower-body injury. He missed his group’s last game. Despite that absence, he retains the team’s best receiving numbers, hauling in 14 catches for 161 yards.</p><p>If Giovanni can’t go on Saturday, look for receivers like Tre Spivey and Isaiah Mizell to get more reps. Regardless, WSU may not be at full strength at cornerback, where starter Jalil Tucker will be a game-time decision due to injury. Tucker has missed the last two games, and if that becomes three, the Cougars may be forced to move nickelback Jamarey Smith to cornerback, which is the approach they took last weekend against Duquesne.</p><p>WSU also has something to prove on offense. After their first two outings, road losses to Washington and Kansas State, the Cougars ranked last nationally in total offense and points per game. Quarterback Caden Pinnick and the Cougars’ offense rebounded nicely in a blowout win over winless FCS club Duquesne, but the Wildcats’ will bear many more similarities to the kinds of defenses WSU will face when Pac-12 play begins the following week.</p><p>Here’s another key to Saturday’s game: How does kicker Jack Stevens fare? After opening the season 1-for-5 on field goals, including a missed extra point last weekend, Stevens is off to a rocky start. Moore has expressed confidence in his kicker, but if the Cougars face a fourth-and-manageable on the Wildcats’ side of the field, what will they do? Keep a close eye on that pattern.</p><p>Either way, WSU has lots to play for in Saturday’s game, even outside of looking good in a primetime slot on national TV. To earn bowl eligibility, which they’ve secured in 10 of the last 11 full seasons, the Cougars could really use this win over the Wildcats. Otherwise, they’ll be looking at the program’s first 1-3 start in five years.</p><p>To avoid that fate, they could get a little boost from Warner and Bray, two of the men who are more familiar with this matchup than others in their program.</p><!--[embed id=12252]--><p>“It’s big for me,” Warner said of Bray’s help on the sideline during games. “I’m someone who wants instant feedback. I’m able to go through a play and then instantly look at him to see his reaction, kinda see if I did something right or did something wrong, and then if I did something wrong, I’m able to go to the sideline and instantly correct it. So it’s been big. It’s been very helpful to have somebody who knows the game as much as him in my corner.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "5646c079d5bbe2f7",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Yes, blowouts have increased (we have the data), plus CFP expansion, Pac-12 strategy, TV ratings and more | Mailbag",
+        "link": "http://www.spokesman.com/stories/2026/sep/25/yes-blowouts-have-increased-we-have-the-data-plus-/",
+        "link_kind": "item",
+        "date": "2026-09-25T00:00:00+00:00",
+        "summary": "<p><em>The Hotline mailbag publishes weekly. Please send questions to wilnerhotline@bayareanewsgroup.com and include “mailbag” in the subject line. Or hit me on the social media platform X: @WilnerHotline. Some questions have been edited for clarity and brevity.</em></p><p><strong>It feels like the early season mismatches in college football are becoming even more lopsided. Are they? Is NIL widening the gap between each level of play?</strong> — @mattkreuter</p><p>Yes, they are. The barrage of blowouts witnessed in Week 1 has continued through the month, and we have the data to prove it.</p><p>But let’s first set the stage for this important, unfortunate and somewhat layered development.</p><p>The structural changes to the talent acquisition process (e.g., the transfer portal, revenue sharing and NIL) have played a role in the expanding competitive gap, but there is another factor: Fear. Or laziness. Or whatever you call the motivation for schools from the power conferences, especially the Big Ten, to schedule fewer and fewer games against their peers in other power conferences.</p><p>The Hotline has drilled into this topic previously, but it’s worth repeating: 28 percent of the Big Ten does not face an opponent from the ACC, Big 12 and SEC this season.</p><p>And yes, we are happy to name names: Nebraska, Indiana, USC, Washington and Penn State all took the easy way out.</p><p>Between the five schools, there were 15 non-conference slots. All 15 were filled by opponents from the Group of Six or FCS.</p><p>It’s embarrassing, frankly.</p><p>The Big Ten office isn’t happy — don&#8217;t forget: the campuses control their non-conference schedules — and the Big Ten’s media partners (Fox, NBC and CBS) certainly aren’t happy.</p><p>The weak sauce is responsible for Fox airing Ohio State-Kent State in its No. 1 broadcast window (Big Noon) last weekend.</p><p>The dearth of Power Four vs. Power Four games isn’t limited to the Big Ten, but it’s the primary villain.</p><p>Another component to consider when assessing the competitive landscape across the FBS: There are more teams (138) than there were a decade ago. More teams in the pool combined with fewer marquee matchups contributes to the increase in the frequency of blowouts.</p><p>And that increase is substantial.</p><p>Before we dive in, please note the following data was provided to the Hotline from Sportradar via the Associated Press.</p><p>Okay, let’s start broadly:</p><p>•&nbsp;Through Week 3, the average point differential in non-conference games involving the ACC, Big 12, Big Ten and SEC teams (plus Notre Dame) was 27.8 points. That&#8217;s the largest differential since at least 2000.</p><p>And in 2001, the margin was 13.2 points through three weeks, so it has more than doubled.</p><p>But if we filter, the trend becomes more pronounced:</p><p>•&nbsp;The differential cited above (27.8 points) includes Power Four vs. Power Four games. When you remove those matchups and focus solely on instances of Power Four teams facing Group of Six/FCS opponents, the average margin jumps to 34.6 points.</p><p>Which is the largest since the tracking process began a quarter century ago.</p><p>In fact, the average differential in Power Four vs. Group of Six/FCS games has climbed steadily over five years:</p><p>2022: 26.7</p><p>2023: 26.9</p><p>2024: 29.1</p><p>2025: 31.1</p><p>2026: 34.6</p><p>The trend is clear, and so is the math: The five-year increase of 29.6 percent coincides with NIL becoming law of the land in the summer of 2021, plus the start of unlimited, penalty-free transfers in the spring of 2024 and, finally, revenue sharing in the summer of 2025.</p><p>Those changes to the economic and roster-construction models reward schools with the deepest pockets and allow the talent to flow up the food chain like never before.</p><p>The sport is flattening at the top, with more teams than ever before capable of winning the national championship in a given year.</p><p>But it’s also thinning out top to bottom, with expanding gaps between the SEC and Big Ten on the highest tier, the ACC and Big 12 on the middle tier and the Group of Six on the lowest.</p><p>In our view, the new landscape is roughly the shape of a mushroom cloud.</p><p><strong>A new strength-of-schedule metric for the College Football Playoff selection process was announced Thursday. Hypothetically, who gets in between an 11-2 Boise State or undefeated team from any other Group of Six</strong>&nbsp;– @NateJones2009</p><p>Those issues might not be as interconnected as it appears.</p><p>Yes, the CFP unveiled a new metric Thursday that can best be described as strength-of-conference. It joins strength-of-schedule (self-explanatory) and strength-of-record, which compares how Team X fared against its schedule to how an average Top 25 team would perform against the same schedule, in the selection committee&#8217;s toolbox.</p><p>Strength-of-conference is not an entirely new datapoint for the committee, but it will lend clarity to a vexing issue: How to differentiate teams within a conference given the unbalanced schedules resulting from differences in opponent rotations.</p><p>For instance, in the Big Ten, which has 18 teams but only nine conference games, Penn State does not play Ohio State, Oregon or Indiana. Meanwhile, USC plays all three.</p><p>Granted, a contrast of that nature would be reflected in the teams&#8217; strength-of-schedule ratings, but strength-of-conference provides an additional layer to the complications caused by mega-conferences.</p><p>It won&#8217;t be as useful if the committee is forced to evaluate 11-2 Boise State against, say, 13-0 Tulsa or 13-0 James Madison. In that situation, strength-of-schedule and strength-of-record likely will provide the vital data.</p><p>In that scenario, the strength of the undefeated team&#8217;s non-conference schedule will receive intense scrutiny. If it&#8217;s filled with cupcakes and compares poorly to Boise State&#8217;s stout lineup (Oregon, Memphis, South Dakota and Western Michigan), the Broncos could very well have the advantage.</p><p>Don&#8217;t forget: Every aspect of the selection process is relative.</p><p>The committee is evaluating multiple resumes for every spot, and that includes the berth reserved for the top team in the Group of Six.</p><p><strong>Did the Pac-12 stay at eight teams (for football) with the intention of possibly adding more legacy Pac-12 schools down the road? I have a hard time seeing Stanford and Cal staying on the East Coast. The &#8216;Pac-8&#8217; plus Cal-ford is better.</strong>&nbsp;– @puffboxdaddy</p><p>If you were hoping for a definitive yes or no response, the Hotline is sorry to disappoint. The answer is yes and no.</p><p>The Pac-12 halted expansion at eight football-playing members because it could not find a ninth school that both met the competitive and financial thresholds and wanted to join the conference.</p><p>UNLV turned down an invitation&nbsp;– not a smart decision, by the way&nbsp;– and so did the American trio of Tulane, Memphis and USF.</p><p>Texas State made sense as the eighth football school, but there isn&#8217;t an obvious fit available. That is the &#8216;no&#8217; portion of our response: The conference didn&#8217;t stop at eight expressly to leave space for Pac-12 legacy schools.</p><p>But the desire to remain lean and mean in case another realignment wave strikes in three or five years was definitely part of the broad strategic calculation.</p><p>The conference wants to provide a viable option for Cal or Stanford or any other Pac-12 legacy team&nbsp;– or for the top schools in the American.</p><p>There is no way to predict whether realignment will hit in the early 2030s or what form it will take. But the Pac-12 is a more desirable landing spot with eight or nine football schools than it would have with 11 or 12 and a bottom tier that didn&#8217;t clear the competitive bar.</p><p>More meat, less fat was the right call.</p><p>That said, Cal and Stanford assuredly will look elsewhere if the ACC implodes, with the Big Ten as their first choice.</p><p>We don&#8217;t envision them joining the Pac-12 as the conference is currently constructed. For better or worse, they don&#8217;t want to be associated academically with the schools hat are now members.</p><p><strong>Do the NIL contracts require players to participate in bowl games, or are they still allowing opt-out provisions?&nbsp;</strong>– Michael</p><p>This issue is sure to surface when we get to the bowl season and can be revisited in-depth at that point. But a summation now seems beneficial.</p><p>No, the NIL deals cannot require bowl participation because&nbsp;– and this is often lost in the public discourse&nbsp;– they are not employment contracts.</p><p>In fact, the NIL deals are not between the players and the schools; they are between the players and third-party entities.</p><p>Not all contracts are structured in the same fashion, but none of them can prevent players from opting out or void the NIL deals in the event a player decides to skip his bowl game.</p><p>Always remember, NIL is not pay-for-play &#8230; except that it is.</p><p><strong>With the College Football Playoff possibly expanding to 24 teams, why is the SEC so set against it? I would think they would want to have the possibility of fielding more teams.</strong>&nbsp;– @BolfMike</p><p>SEC coaches are in favor of 24 for that very reason: They want enhanced access because it means job security and performance bonuses and contract extensions. And many SEC athletic directors feel the same way.</p><p>The 24-team field has support in the ACC, Big 12 and Big Ten for those very reasons, not because it&#8217;s indisputably better for the sport.</p><p>But SEC commissioner Greg Sankey has been the lone voice of reason in this process, and he would not have staked out that position without support from his presidents.</p><p>Before committing to 24, Sankey wants clarity on the TV revenue component: Will the new inventory (12 games) generate enough cash to offset the elimination of the SEC championship, which generates roughly $100 million and would become obsolete with the expanded CFP.</p><p>Also, Sankey wisely wants to understand, to the greatest extent possible, the impact a 24-team playoff would have on the regular season.</p><p>After all, the SEC&#8217;s media partner, ESPN, reaps enormous benefits from the huge audiences that watch SEC (and other) games every fall.</p><p>With a 24-team playoff, marquee matchups like USC-Oregon and LSU-Texas A&amp;M would lose much of their drama.</p><p>Our hunch is that enough media money will become available from the new inventory&nbsp;– Fox wants to be involved; CBS and NBC may, as well&nbsp;– that Sankey eventually approves the move to 24.</p><p>The deadline to inform ESPN of format changes for the 2027 season is Dec. 1, although that potentially could be extended into January, as it was last year.</p><p><strong>How does any player who hasn&#8217;t entered the portal timely become eligible to play NCAA sports? What stops any player from getting a temporary restraining order? Why would a conference rule be any stronger than the NCAA rules?</strong>&nbsp;– H Hughes</p><p>It appears the crux of your question is this: Why would the SEC and Big Ten be better equipped to enforce rules under a self-governing model than the NCAA?</p><p>That is a rich topic&nbsp;– and one that foreshadows the post-PCSA world.</p><p>The Protect College Sports Act is expected to pass the Senate but faces a steep climb in the House of Representatives.</p><p>The Big Ten and SEC have made their feelings clear: If the bill fizzles along the legislative process, Plan B is to break away from the NCAA&#8217;s governing umbrella and create their own rules around eligibility, tampering, athlete compensation and other issues.</p><p>(To be clear: self-governance does not mean exclusively intra-conference competition.)</p><p>But policing your own is a precarious business. The schools are genetically engineered to look for every competitive advantage, even if that means breaking the rules.</p><p>Would the SEC punish Texas? Would the Big Ten sanction Ohio State? And would any penalties hold up in court if the offending school sought legal relief?</p><p>So far, self-governance is 2-for-2: The Big 12 pushed back in federal court against Texas Tech in the Brendan Sorsby affair; and the SEC pushed back on LSU earlier this month when the Tigers tried to roster former NFL players.</p><p>In both cases, the authority of the conference was reinforced.</p><p>We suspect the individual leagues would have more success in court&nbsp;– yes, even district courts&nbsp;– than the NCAA because they are not national organizations. No single conference controls the market.</p><p>Also, the Big Ten and SEC don&#8217;t have the paper trail of hypocrisy, obstinance, loopholes and legal losses that the NCAA carries into each court case like three tons of bricks.</p><p>If the PCSA fails, self-governance is likely the next step, and it will be fascinating.</p><p><strong>How are TV ratings so far this season? Are they better or worse than previous years?</strong>&nbsp;– MrEd315</p><p>The sample size in 2026 is far too small for conclusions, but we can offer a morsel of context.</p><p>Last year, the first four weeks of the season (including Week 0) generated five games with at least 10 million viewers and 10 games with at least five million viewers, according to data published by sportsmediawatch.com.</p><p>This year, the first four weeks have produced two games of 10 million viewers and nine games of five million.</p><p>So the heavily-watched categories are essentially the same and the mega-watched categories tilts to last year.</p><p>Why the disparity in the mega-watched games? The schedule is an important piece. There were more circle-the-date matchups early last season, especially on the Labor Day weekend.</p><p>That doesn&#8217;t mean the trend will continue, but it&#8217;s certainly worth watching.</p><p>College football fans might recall all the attention placed on the soaring ratings in 2025, as compared to the 2024 figures, but that was somewhat misleading.</p><p>As the Hotline detailed last winter, Nielsen changed its audience-tracking methodology in a manner that benefitted college football. (Nutshell version: It began including college towns in the tracking.)</p><p>The year-over-year figures were bound to soar because more viewers were being captured by Nielsen&nbsp;– but they were not necessarily new viewers.</p><p>That same methodology is in place this season, allowing an apples-to-apples comparison between 2025 and 2026. We shall see what the data reveal come January.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "2fee590558d4bd38",
         "sport": "football",
         "medium": "text"
       },
@@ -5363,7 +5448,7 @@
         "link": "http://www.spokesman.com/stories/2026/sep/24/the-younger-version-of-myself-would-be-very-proud-/",
         "link_kind": "item",
         "date": "2026-09-24T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Paul Hutson III likes to say he does best with visual reminders, with illustrations of the goals he’s trying to reach. It’s the reason his X profile picture is the Bronko Nagurski Trophy – awarded to the nation’s top defensive player. It’s the reason he keeps a photo of the NFL draft stage handy on his phone.</p><p>It’s also the reason why, in the Gesa Field locker room after he helped his Washington State defense shut down FCS Duquesne  last weekend, he pulled out his phone. He did a Google search for photos of Noah Fifita, Arizona’s quarterback, found one he liked and saved it .</p><p>He then made it his lock screen wallpaper, swapping out a photo of Carson Camp, the quarterback that WSU had just taken down.</p><p>“It’s just constant visual reminders of things helping me achieve my goals that I set out for myself,” Hutson said.</p><p> Hutson started a tradition for himself . Before the season, he made a list of all the quarterbacks WSU was likely to face this fall: Demond Williams Jr. at Washington, Avery Johnson at Kansas State, Camp at Duquesne and Fifita at Arizona, which is set to visit Pullman for a primetime matchup on CBS this Saturday.</p><p>At defensive line, where Hutson has started each of the Cougars’ first three games , the quarterback represents the goal he’s trying to reach. By now, Hutson knows the drill – he’s playing his fifth and final season of college football at his fourth school, looking to hit the double-digit mark in career sacks – but he likes to envision the specific quarterback his team will be facing every week, the jersey he’ll be wearing, exactly what he looks like.</p><p>So after each of WSU’s first three games of the season, Hutson – “P3” to all his teammates and coaches – has picked up his phone and completed the same routine, the same as his goal on the field. He finds  the quarterback .</p><p>“I’m just a visual learner, visual memory guy,” Hutson said. “So everything I see, if I write it, I see it. If I look at it, I see it, and I just always can remember, ‘Hey, let’s get back to the center and remember what the goal is.’ So that’s just something that helps me personally just know what my goals are whenever things might be up or down, you know?”</p><p>“That sounds right,” WSU coach Kirby Moore added. “Paul is locked in every week to the objective on hand, and he has a great amount of energy every practice. He loves playing the game of football, and I think that’s contagious to his teammates as well.”</p><p>So far, Hutson has collected four total tackles on the season, three of the solo variety. Those may not sound like convincing numbers, but the job of an interior defensive lineman is often thankless, so consider this: Hutson has earned a Pro Football Focus defensive grade of 71.1, which ranks second on the team among players with 80 snaps. He’s also posted a run defense grade of 78.7, tops on the team using the same criteria.</p><p>In other words, Hutson is making an impact that’s equal parts invaluable and invisible. He’s anchoring a WSU defensive line that has looked like one of the team’s best position groups. And he’s doing it all slightly undersized, listed at 6-foot-1 and 270 pounds.</p><p>“My three game experience here has been great,” Hutson said. “Definitely for a senior season, it’s been everything I’ve imagined – playing in those big atmospheres, those big-time games is the reason I came here. I feel like just being able to play in those games has been really fun, and just experiencing it with the guys, to see how hard we worked all summer and just everything come together and us growing each and every week, to see us grow from week one to week three has been great.”</p><!--[photo id=932563]--><p>To get here, Hutson has had to follow a winding path. As a three-star prospect in the class of 2022, Hutson figured he would land at a power-conference school right out of IMG Academy, widely regarded as one of the country’s top talent hubs. Instead, Hutson took his talents to FCS Campbell, then transferred to Austin Peay, only to redshirt in 2023. Then in 2024, he returned to Campbell, which he parlayed into a spot at Marshall.</p><p>When last winter arrived, Hutson was on the move again. But this time, he was looking for something different, knowing this season would be his last. He wanted something meaningful, something family-oriented, something that would allow him to play his final year feeling satisfied with the way his career had unfolded.</p><p>So he got in touch with a longtime friend.</p><p>“Yo, bro, what’s up?” Hutson texted WSU defensive tackle Kaden Beatty. “What you trying to do?”</p><p>Turns out, Hutson and Beatty go way back, all the way back to playing Pop Warner in eastern Virginia where they grew up. They played on the same teams, in the same camps. They would get done with a long day of school or practice, then head back to Beatty’s place, where they would jump on the trampoline or play Madden, which Hutson says he’s always been better at than Beatty .</p><p>This winter, though, Beatty was ready to reunite with his Virginia buddy. He helped get Hutson’s film in front of Cougar coaches, Hutson said, which put the wheels in motion. Moore took Beatty’s word into consideration, he said, and besides, the Cougars wanted to find players with proven production on the field. Hutson checked all those boxes.</p><p>“It’s just great to see how far we’ve grown, both as players and just as men,” Hutson said. “It’s great to finish my last year and be able to play with him, alongside with him, train with him, work with him, and just achieve all our goals together.”</p><p>Still, to hear Hutson tell it, he hasn’t always felt so at home. It’s taken a toll on him, moving from city to city, school to school each of  the past four years. He’s always harbored confidence internally, he says, but showing it outwardly has required another level of conviction that he didn’t always have.</p><p>As he says, it took him some time to crawl out of his shell.</p><p>“You’re always the new person,” Hutson said.</p><p>Besides, back when he was a freshman at Campbell, Hutson was learning the value of humility . When he was coming out of IMG Academy, he envisioned himself going to a power conference school right away, the way alumni like Francis Mauigoa, Kaytron Allen and Carnell Tate did.</p><p>Instead it was Campbell, a program that didn’t play its first season of football until 2008. Then, Austin Peay, a club with an all-time winning percentage of just 37%.</p><p>“I went to the number one school in the country,” Hutson said, referring to IMG Academy, “and going to an FCS school was a humbling experience for me.</p><p>“So I feel like that was the best opportunity for me to grow at that time in my journey, was to be humble and learn like, ‘Hey, continue to work, because when your time is called, it’ll be called.’ ”</p><p>At Marshall, Hutson says, he finally got the kinds of opportunities he always imagined for himself. Playing in all 12 games, he made 40 tackles, including 6½ for loss and 3½ sacks. He also reeled in two interceptions. He also posted 21 pressures, which ranked in the top 30 in the Sun Belt that season.</p><p>“You’re on the stage. You’re able to fully put your talents on display,” Hutson said. “I feel like that was part of my journey as well of being able to show just my talents and everything I’ve done over the years, and have it on that stage.”</p><p>All of which seems to lead to this question: Is Hutson happy with the odyssey his career has turned into? He’s lived in six different states: Virginia, Florida, North Carolina, West Virginia, Tennessee and now Washington. He’s gone to one school, left for a season and returned the next. He says it’s helped him adapt, helped him feel comfortable in just about any situation he finds himself in.</p><p>But in Hutson’s eyes, how has his career lived up to the vision he saw for himself at the beginning? He doesn’t regret anything, he says, and he believes he’s taken a little something from each stop and applied it to his life as a whole. Now in his final year, he has arrived at the type of place he always visualized for himself.</p><p>He’s found he’s quite skilled at that kind of thing.</p><p>“As it stands right now, I’m definitely happy and I know that the younger version of myself would be very proud,” Hutson said. “Just knowing that I’ve done a lot of things that I’ve always put my mind out to, and I’ve set out to play at the highest level of football, make big plays in big-time games. The multitude of tackles and sacks and touchdowns, all those things. Just being able to have those things in my college career, I can say that I would definitely look back and be proud in knowing that it all came from the work that I invested in at a young age and just continued to hone in on and only get better at. So yeah, I would definitely say that at this moment, I’m proud for sure.”</p>",
+        "summary": "<p>PULLMAN – Paul Hutson III likes to say he does best with visual reminders, with illustrations of the goals he’s trying to reach. It’s the reason his X profile picture is the Bronko Nagurski Trophy – awarded to the nation’s top defensive player. It’s the reason he keeps a photo of the NFL draft stage handy on his phone.</p><p>It’s also the reason why, in the Gesa Field locker room after he helped his Washington State defense shut down FCS Duquesne  last weekend, he pulled out his phone. He did a Google search for photos of Noah Fifita, Arizona’s quarterback, found one he liked and saved it .</p><p>He then made it his lock screen wallpaper, swapping out a photo of Carson Camp, the quarterback that WSU had just taken down.</p><p>“It’s just constant visual reminders of things helping me achieve my goals that I set out for myself,” Hutson said.</p><p>You see, Hutson has started a tradition for himself this season, his final year of college football. Before the season, he made a list of all the quarterbacks WSU was likely to face this fall: Demond Williams Jr. at Washington, Avery Johnson at Kansas State, Camp at Duquesne and Fifita at Arizona, which is set to visit Pullman for a primetime matchup on CBS this Saturday.</p><p>At defensive line, where Hutson has started each of the Cougars’ first three games, the quarterback represents the goal he’s trying to reach. By now, Hutson knows the drill – he’s playing his fifth season at his fourth school, looking to hit the double-digit mark in career sacks – but he likes to envision the specific quarterback his team will be facing every week, the jersey he’ll be wearing, exactly what he looks like.</p><p>So after each of WSU’s first three games of the season, Hutson – “P3” to all his teammates and coaches – has picked up his phone and completed the same routine, the same as his goal on the field. He finds a photo of the quarterback of the upcoming opponent, saves it to his phone, then makes it his wallpaper, subbing out a photo of the quarterback the Cougars just played.</p><p>“I’m just a visual learner, visual memory guy,” Hutson said. “So everything I see, if I write it, I see it. If I look at it, I see it, and I just always can remember, ‘Hey, let’s get back to the center and remember what the goal is.’ So that’s just something that helps me personally just know what my goals are whenever things might be up or down, you know?”</p><p>“That sounds right,” WSU coach Kirby Moore added. “Paul is locked in every week to the objective on hand, and he has a great amount of energy every practice. He loves playing the game of football, and I think that’s contagious to his teammates as well.”</p><p>So far, Hutson has collected four total tackles on the season, three of the solo variety. Those may not sound like convincing numbers, but the job of an interior defensive lineman is often thankless, so consider this: Hutson has earned a Pro Football Focus defensive grade of 71.1, which ranks second on the team among players with 80 snaps. He’s also posted a run defense grade of 78.7, tops on the team using the same criteria.</p><p>In other words, Hutson is making an impact that’s equal parts invaluable and invisible. He’s anchoring a WSU defensive line that has looked like one of the team’s best position groups, on either side of the ball. And he’s doing it all slightly undersized, listed at 6-foot-1 and 270 pounds.</p><p>“My three game experience here has been great,” Hutson said. “Definitely for a senior season, it’s been everything I’ve imagined – playing in those big atmospheres, those big-time games is the reason I came here. I feel like just being able to play in those games has been really fun, and just experiencing it with the guys, to see how hard we worked all summer and just everything come together and us growing each and every week, to see us grow from week one to week three has been great.”</p><!--[photo id=932563]--><p>To get here, Hutson has had to follow a winding path. As a three-star prospect in the class of 2022, Hutson figured he would land at a power-conference school right out of IMG Academy, widely regarded as one of the country’s top talent hubs. Instead, Hutson took his talents to FCS Campbell, then transferred to Austin Peay, only to redshirt in 2023. Then in 2024, he returned to Campbell, which he parlayed into a spot at Marshall.</p><p>When last winter arrived, Hutson was on the move again. But this time, he was looking for something different, knowing this season would be his last. He wanted something meaningful, something family-oriented, something that would allow him to play his final year feeling satisfied with the way his career had unfolded.</p><p>So he got in touch with a longtime friend.</p><p>“Yo, bro, what’s up?” Hutson texted WSU defensive tackle Kaden Beatty. “What you trying to do?”</p><p>Turns out, Hutson and Beatty go way back, all the way back to playing Pop Warner in eastern Virginia where they grew up. They played on the same teams, in the same camps. They would get done with a long day of school or practice, then head back to Beatty’s place, where they would jump on the trampoline or play Madden, which Hutson says he’s always been better at than Beatty .</p><p>This winter, though, Beatty was ready to reunite with his Virginia buddy. He helped get Hutson’s film in front of Cougar coaches, Hutson said, which put the wheels in motion. Moore took Beatty’s word into consideration, he said, and besides, the Cougars wanted to find players with proven production on the field. Hutson checked all those boxes.</p><p>“It’s just great to see how far we’ve grown, both as players and just as men,” Hutson said. “It’s great to finish my last year and be able to play with him, alongside with him, train with him, work with him, and just achieve all our goals together.”</p><p>Still, to hear Hutson tell it, he hasn’t always felt so at home. It’s taken a toll on him, moving from city to city, school to school, quite literally every year of his life for the past four years. He’s always harbored confidence internally, he says, but showing it outwardly has required another level of conviction that he didn’t always have.</p><p>For example, he says, it took him some time to crawl out of his shell. “You’re always the new person,” Hutson said. Besides, back when he was a freshman at Campbell, Hutson was learning the value of humility at the same time. When he was coming out of IMG Academy, he envisioned himself going to a power conference school right away, the way alumni like Francis Mauigoa, Kaytron Allen and Carnell Tate did.</p><p>But Hutson landed at Campbell, an FCS program that didn’t play its first season of football until 2008. Then he went to Austin Peay, another FCS club with an all-time winning percentage of just 37%. “I went to the number one school in the country,” Hutson said, referring to IMG Academy, “and going to an FCS school was a humbling experience for me.”</p><p>“So I feel like that was the best opportunity for me to grow at that time in my journey,” Hutson added, “was to be humble and learn like, hey, continue to work, because when your time is called, it&#8217;ll be called.”</p><p>At Marshall, Hutson says, he finally got the kinds of opportunities he always imagined for himself. Playing in all 12 games, he made 40 tackles, including 6 ½ for loss and 3 ½ sacks. He also reeled in two interceptions. He also posted 21 pressures, which ranked in the top 30 in the Sun Belt that season.</p><p>“You&#8217;re on the stage. You&#8217;re able to fully put your talents on display,” Hutson said. “I feel like that was part of my journey as well of being able to show just my talents and everything I&#8217;ve done over the years, and have it on that stage.”</p><p>All of which seems to lead to this question: Is Hutson happy with the odyssey his career has turned into? He’s lived in six different states: Virginia, Florida, North Carolina, West Virginia, Tennessee and now Washington. He’s gone to one school, left for a season and returned the next. He says it’s helped him adapt, helped him feel comfortable in just about any situation he finds himself in.</p><p>But in Hutson’s eyes, how has his career lived up to the vision he saw for himself at the beginning? He doesn’t regret anything, he says, and he believes he’s taken a little something from each stop and applied it to his life as a whole. Now in his final year, he has arrived at the type of place he always visualized for himself.</p><p>He’s found he’s quite skilled at that kind of thing.</p><p>“As it stands right now, I’m definitely happy and I know that the younger version of myself would be very proud,” Hutson said. “Just knowing that I’ve done a lot of things that I’ve always put my mind out to, and I’ve set out to play at the highest level of football, make big plays in big-time games. The multitude of tackles and sacks and touchdowns, all those things. Just being able to have those things in my college career, I can say that I would definitely look back and be proud in knowing that it all came from the work that I invested in at a young age and just continued to hone in on and only get better at. So yeah, I would definitely say that at this moment, I’m proud for sure.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -5377,7 +5462,7 @@
         "link": "http://www.spokesman.com/stories/2026/sep/24/oregon-handles-usc-and-the-muddled-future-of-match/",
         "link_kind": "item",
         "date": "2026-09-24T00:00:00+00:00",
-        "summary": "<p><em>Welcome the Hotline’s weekly picks against the point spread, published Thursdays throughout the regular season with a focus on the most intriguing matchups across the West and the top games nationally. Betting lines are courtesy of VegasInsider.com unless noted otherwise. (Games involving FCS teams not included.) I went 6-5-1 last week and am 15-20-1 for the season. Picks are for entertainment purposes only … unless they aren’t.</em></p><p>Oregon&#8217;s hotly-anticipated duel with USC is one of two matchups of former Pac-12 teams Saturday in the late-afternoon TV window. The other will unfold 1,100 miles away on the Palouse, where Arizona visits Washington State in the first game of a home-and-home series.</p><p>The feline affair serves multiple purposes, allowing the Cougars to host a power conference opponent familiar to their fans and offering the Wildcats the chance to satisfy a Big 12 scheduling requirement.</p><p>The conference&#8217;s media rights agreement with ESPN and Fox stipulates that each team must play 10 games annually against Power Four opponents: nine in conference, one out of conference.</p><p>Because Arizona and WSU agreed to their series before the former officially left the Pac-12 for the Big 12 in August 2024, the Cougars qualify as a Power Four opponent. (The same standard applies to Oregon State, which faced Texas Tech and Houston earlier this season.)</p><p>But like so much else about the sport, the future of scheduling agreements between former Pac-12 schools now in different leagues is uncertain.</p><p>UCLA is under contract to play Cal for the rest of the decade and has a game with Utah in four years.</p><p>Arizona State has a two-year series with Stanford scheduled for the early 2030s.</p><p>And two ancient Northwest rivalries, the Apple Cup and Civil War, are in various stages of existence.</p><p>But that&#8217;s the extent of the non-conference inventory matching former Pac-12 teams, according to the website FBschedules.com, which tracks non-conferences series across the FBS and FCS.</p><p>A slew of games that seemingly make sense due to shared histories, geographic proximity and the location of alumni bases are not, at this point, lining future schedules of former Pac-12 peers.</p><p>Hopefully, that will change if the College Football Playoff takes the necessary steps to ensure quality non-conference inventory throughout the Power Four leagues.</p><p>The field is expected to double in size to 24 teams as early as next season. With that, the ACC, Big 12, Big Ten and SEC could implement standards designed to incentivize teams to craft rigorous non-conference schedules in much the same fashion the NCAA Tournament selection process rewards teams for high-level (e.g., Quadrant I) games outside of league play.</p><p>That could be problematic for Washington State, Oregon State and other schools in the rebuilt Pac-12. They would effectively be cast into purgatory as high-risk opponents (threats to win the game) that do not satisfy CFP scheduling requirements.</p><p>But for the 10 former Pac-12 schools now scattered across the ACC, Big 12 and Big Ten, a barrage of home-and-home series sprouting up in the late 2020s and early 2030s could prove beneficial.</p><p>There&#8217;s a fascinating alternative, too: NIL-driven matchups at neutral sites that mirror the multi-team events so popular in college basketball in November and December.</p><p>Why not match UCLA against Arizona State or Utah against Washington in Las Vegas&nbsp;– even better: make it a double-header&nbsp;– with sponsorship revenue going to each team&#8217;s NIL efforts?</p><p>A version of that model was put to use a few weeks ago, in fact.</p><p>Auburn was supposed to host Baylor but moved the game to Mercedes-Benz Stadium in Atlanta, allowing the Peach Bowl &#8220;to provide opportunities for promotional appearances for Auburn players promoting ticket sales and ancillary events,&#8221; according to ESPN&#8217;s report last year.</p><p>Admittedly, there are a barrage of hurdles. The game(s) would need a sponsor to offer the NIL opportunities. The schools would need availability within schedules that have limited flexibility. And the coaches would need a competitive reason to follow the more challenging path.</p><p>As with most other aspects of college football, it&#8217;s largely about willpower &#8212; about the schools committing to solutions that serve both their fans and the game writ large. College football is best when doubling down on regional roots, on historic connections. But the decision-makers must have a clearly defined incentive structure.</p><p>We aren&#8217;t confident. By the early 2030s, non-conference matchups between former Pac-12 schools could go the way of the Dodo.</p><p>If the CFP does the right thing once expansion becomes official, then perhaps the schools will embrace an opportunity to elevate the sport across the region.</p><p><strong>To the Week 4 picks &#8230;</strong></p><p><em>(All times Pacific)</em></p><h3>Clemson (-1) at Cal</h3><p><strong>Kickoff:</strong> Friday at 7:30 p.m. on ESPN</p><p><strong>Comment:</strong> Absolutely nothing screams ACC football quite like Clemson playing in Berkeley on a Friday night at 10:30 p.m. Eastern &#8230; and the Bears rolling to a decisive victory. Pick: Cal</p><h3>San Diego State (+3) at Toledo</h3><p><strong>Kickoff:</strong> 9 a.m. on CBS Sports Network</p><p><strong>Comment:</strong> Combine the long trip with the early kickoff and a quality opponent&nbsp;– not to mention SDSU&#8217;s woeful aerial game&nbsp;– and this has the ingredients for an intra-Group of Six wipeout. Pick: Toledo</p><h3>UCLA (-1.5) at Maryland</h3><p><strong>Kickoff:</strong> 10:30 a.m. on Big Ten Network</p><p><strong>Comment:</strong> The Hotline doesn&#8217;t plan to begin taking the Terps seriously if they win. But we definitely will stop taking the Bruins seriously if they lose. Pick: UCLA</p><h3>Boise State (-7) at Western Michigan</h3><p><strong>Kickoff:</strong> 12:30 p.m. on ESPN2</p><p><strong>Comment:</strong> Massive game in the Group of Six, with the winner assuming the pole position in the chase for the CFP automatic bid. Both teams struggled last week against inferior opponents: WMU edged Rice while Boise State had to beat back South Dakota. We suspect both had one eye on this showdown. Pick: Western Michigan</p><h3>Iowa (+5.5) at Michigan</h3><p><strong>Kickoff:</strong> 12:30 p.m. on CBS</p><p><strong>Comment:</strong> First team to 14 wins. And covers. Pick: Iowa</p><h3>Utah (-8) at Iowa State</h3><p><strong>Kickoff:</strong> 12:30 p.m. on Fox</p><p><strong>Comment:</strong> Utah&#8217;s high-powered offense (47.3 points per game) hits the road for the first time and will encounter a well-drilled defense that should frustrate the Utes for two or three quarters before Byrd Ficklin blows the game open. Pick: Utah</p><h3>Oklahoma State (+1.5) at West Virginia</h3><p><strong>Kickoff:</strong> 4 p.m. on FS1</p><p><strong>Comment:</strong> How will West Virginia handle the afterglow from its upset of Virginia? Our hunch: Not well enough to suit coach Rich Rodriguez. The winner should be taken seriously as a Big 12 contender. Pick: Oklahoma State</p><h3>Texas A&amp;M (+8.5) at LSU</h3><p><strong>Kickoff:</strong> 4:30 p.m. on ABC</p><p><strong>Comment:</strong> With both teams coming off losses, this effectively stands as a playoff-elimination game&nbsp;– and the sport is better for it. With a 24-team CFP, the drama would be cut in half. Pick: LSU</p><h3>Oregon (-3) at USC</h3><p><strong>Kickoff:</strong> 4:30 p.m. on NBC</p><p><strong>Comment:</strong> The most significant regular-season West Coast matchup since Oregon and Washington tangled in the last year of the old Pac-12. The stakes are particularly high for USC coach Lincoln Riley&#8217;s job security, and for Oregon&#8217;s playoff prospects. We aren&#8217;t convinced the Trojans have improved enough on defense to finally slay their nemesis. Pick: Oregon</p><h3>Arizona (-10) at Washington State</h3><p><strong>Kickoff:</strong> 4:30 p.m. on CBS</p><p><strong>Comment:</strong> The line initially felt a bit high. But the more we drilled into WSU&#8217;s offensive offense, the easier it became to justify a double-digit spread. The Cougars have scored 17 points in two games against Power Four teams (Washington and Kansas State) that are comparable in personnel to the Wildcats. Pick: Arizona</p><h3>Missouri (+6) at Mississippi State</h3><p><strong>Kickoff:</strong> 4:45 p.m. on SEC Network</p><p><strong>Comment:</strong> If you haven&#8217;t seen MSU&#8217;s Kamario Taylor, this is a good opportunity to watch one of the most gifted quarterbacks in the country. And for that reason, the Bulldogs are the sleepiest of sleepers to make the playoff. Pick: Mississippi State</p><h3>Oregon State (-10.5) at UTEP</h3><p><strong>Kickoff:</strong> 6 p.m. on MW+</p><p><strong>Comment:</strong> The Beavers are trending toward an upside surprise this season with transfer quarterback Braden Atkinson. The Miners are the Miners. Tough to envision anything other than a comfortable win for the visitors. Pick: Oregon State</p><h3>Georgia Tech (-3) at Stanford</h3><p><strong>Kickoff:</strong> 7:30 p.m. on ESPN</p><p><strong>Comment:</strong> This is Stanford&#8217;s best chance all season for a conference victory &#8212; the Yellow Jackets are struggling on offense and extremely vulnerable &#8212; but the total of 47.5 is more enticing than the spread. And in case there was any question, we like the Under. Pick: Stanford</p><h3>Minnesota (-9.5) at Washington</h3><p><strong>Kickoff:</strong> 8 p.m. on Fox</p><p><strong>Comment:</strong> Despite their well-documented struggles in Weeks 1 and 2, the Huskies should handle Minnesota with relative ease. If they don&#8217;t, well, it might be time for a red alert in Seattle. Pick: Washington</p><p><strong>Straight-up winners:</strong> Cal, Toledo, UCLA, Boise State, Michigan, Utah, Oklahoma State, LSU, Oregon, Arizona, Mississippi State, Oregon State, Stanford and Washington</p><p><strong>Five-star special:</strong> Mississippi State. The Bulldogs have been ultra-impressive thus far. The Tigers struggled to put away Troy last week.</p>",
+        "summary": "<p><em>Welcome the Hotline’s weekly picks against the point spread, published Thursdays throughout the regular season with a focus on the most intriguing matchups across the West and the top games nationally. Betting lines are courtesy of VegasInsider.com unless noted otherwise. (Games involving FCS teams not included.) I went 6-5-1 last week and am 15-20-1 for the season. Picks are for entertainment purposes only … unless they aren’t.</em></p><p>Oregon’s hotly-anticipated duel with USC is one of two matchups of former Pac-12 teams Saturday in the late-afternoon TV window. The other will unfold 1,100 miles away on the Palouse, where Arizona visits Washington State in the first game of a home-and-home series.</p><p>The feline affair serves multiple purposes, allowing the Cougars to host a power conference opponent familiar to their fans and offering the Wildcats the chance to satisfy a Big 12 scheduling requirement.</p><p>The conference’s media rights agreement with ESPN and Fox stipulates that each team must play 10 games annually against Power Four opponents: nine in conference, one out of conference.</p><p>Because Arizona and WSU agreed to their series before the former officially left the Pac-12 for the Big 12 in August 2024, the Cougars qualify as a Power Four opponent. (The same standard applies to Oregon State, which faced Texas Tech and Houston earlier this season.)</p><p>But like so much else about the sport, the future of scheduling agreements between former Pac-12 schools now in different leagues is uncertain.</p><p>UCLA is under contract to play Cal for the rest of the decade and has a game with Utah in four years.</p><p>Arizona State has a two-year series with Stanford scheduled for the early 2030s.</p><p>And two ancient Northwest rivalries, the Apple Cup and Civil War, are in various stages of existence.</p><p>But that’s the extent of the non-conference inventory matching former Pac-12 teams, according to the website FBschedules.com, which tracks non-conferences series across the FBS and FCS.</p><p>A slew of games that seemingly make sense due to shared histories, geographic proximity and the location of alumni bases are not, at this point, lining future schedules of former Pac-12 peers.</p><p>Hopefully, that will change if the College Football Playoff takes the necessary steps to ensure quality non-conference inventory throughout the Power Four leagues.</p><p>The field is expected to double in size to 24 teams as early as next season. With that, the ACC, Big 12, Big Ten and SEC could implement standards designed to incentivize teams to craft rigorous non-conference schedules in much the same fashion the NCAA Tournament selection process rewards teams for high-level (e.g., Quadrant I) games outside of league play.</p><p>That could be problematic for Washington State, Oregon State and other schools in the rebuilt Pac-12. They would effectively be cast into purgatory as high-risk opponents (threats to win the game) that do not satisfy CFP scheduling requirements.</p><p>But for the 10 former Pac-12 schools now scattered across the ACC, Big 12 and Big Ten, a barrage of home-and-home series sprouting up in the late 2020s and early 2030s could prove beneficial.</p><p>There’s a fascinating alternative, too: NIL-driven matchups at neutral sites that mirror the multi-team events so popular in college basketball in November and December.</p><p>Why not match UCLA against Arizona State or Utah against Washington in Las Vegas – even better: make it a double-header – with sponsorship revenue going to each team’s NIL efforts?</p><p>A version of that model was put to use a few weeks ago, in fact.</p><p>Auburn was supposed to host Baylor but moved the game to Mercedes-Benz Stadium in Atlanta, allowing the Peach Bowl “to provide opportunities for promotional appearances for Auburn players promoting ticket sales and ancillary events,” according to ESPN’s report last year.</p><p>Admittedly, there are a barrage of hurdles. The game(s) would need a sponsor to offer the NIL opportunities. The schools would need availability within schedules that have limited flexibility. And the coaches would need a competitive reason to follow the more challenging path.</p><p>As with most other aspects of college football, it’s largely about willpower – about the schools committing to solutions that serve both their fans and the game writ large. College football is best when doubling down on regional roots, on historic connections. But the decision-makers must have a clearly defined incentive structure.</p><p>We aren’t confident. By the early 2030s, non-conference matchups between former Pac-12 schools could go the way of the Dodo.</p><p>If the CFP does the right thing once expansion becomes official, then perhaps the schools will embrace an opportunity to elevate the sport across the region.</p><p><strong>To the Week 4 picks &#8230;</strong></p><p><em>(All times Pacific)</em><span class=\"print_trim\"><strong>Kickoff:</strong> Friday at 7:30 p.m. on ESPN</span></p><p><span class=\"print_trim\"><strong>Comment:</strong> Absolutely nothing screams ACC football quite like Clemson playing in Berkeley on a Friday night at 10:30 p.m. Eastern &#8230; and the Bears rolling to a decisive victory. Pick: Cal</span></p><h3>San Diego State (+3) at Toledo</h3><p><strong>Kickoff:</strong> 9 a.m. on CBS Sports Network</p><p><strong>Comment:</strong> Combine the long trip with the early kickoff and a quality opponent – not to mention SDSU’s woeful aerial game – and this has the ingredients for an intra-Group of Six wipeout. Pick: Toledo</p><h3>UCLA (-1.5) at Maryland</h3><p><strong>Kickoff:</strong> 10:30 a.m. on Big Ten Network</p><p><strong>Comment:</strong> The Hotline doesn’t plan to begin taking the Terps seriously if they win. But we definitely will stop taking the Bruins seriously if they lose. Pick: UCLA</p><h3>Boise State (-7) at Western Michigan</h3><p><strong>Kickoff:</strong> 12:30 p.m. on ESPN2</p><p><strong>Comment:</strong> Massive game in the Group of Six, with the winner assuming the pole position in the chase for the CFP automatic bid. Both teams struggled last week against inferior opponents: WMU edged Rice while Boise State had to beat back South Dakota. We suspect both had one eye on this showdown. Pick: Western Michigan</p><h3>Iowa (+5.5) at Michigan</h3><p><strong>Kickoff:</strong> 12:30 p.m. on CBS</p><p><strong>Comment:</strong> First team to 14 wins. And covers. Pick: Iowa</p><h3>Utah (-8) at Iowa State</h3><p><strong>Kickoff:</strong> 12:30 p.m. on Fox</p><p><strong>Comment:</strong> Utah’s high-powered offense (47.3 points per game) hits the road for the first time and will encounter a well-drilled defense that should frustrate the Utes for two or three quarters before Byrd Ficklin blows the game open. Pick: Utah</p><h3>Oklahoma State (+1.5) at West Virginia</h3><p><strong>Kickoff:</strong> 4 p.m. on FS1</p><p><strong>Comment:</strong> How will West Virginia handle the afterglow from its upset of Virginia? Our hunch: Not well enough to suit coach Rich Rodriguez. The winner should be taken seriously as a Big 12 contender. Pick: Oklahoma State</p><h3>Texas A&amp;M (+8.5) at LSU</h3><p><strong>Kickoff:</strong> 4:30 p.m. on ABC</p><p><strong>Comment:</strong> With both teams coming off losses, this effectively stands as a playoff-elimination game – and the sport is better for it. With a 24-team CFP, the drama would be cut in half. Pick: LSU</p><h3>Oregon (-3) at USC</h3><p><strong>Kickoff:</strong> 4:30 p.m. on NBC</p><p><strong>Comment:</strong> The most significant regular-season West Coast matchup since Oregon and Washington tangled in the last year of the old Pac-12. The stakes are particularly high for USC coach Lincoln Riley’s job security, and for Oregon’s playoff prospects. We aren’t convinced the Trojans have improved enough on defense to finally slay their nemesis. Pick: Oregon</p><h3>Arizona (-10) at Washington State</h3><p><strong>Kickoff:</strong> 4:30 p.m. on CBS</p><p><strong>Comment:</strong> The line initially felt a bit high. But the more we drilled into WSU’s offensive offense, the easier it became to justify a double-digit spread. The Cougars have scored 17 points in two games against Power Four teams (Washington and Kansas State) that are comparable in personnel to the Wildcats. Pick: Arizona</p><h3>Missouri (+6) at Mississippi State</h3><p><strong>Kickoff:</strong> 4:45 p.m. on SEC Network</p><p><strong>Comment:</strong> If you haven’t seen MSU’s Kamario Taylor, this is a good opportunity to watch one of the most gifted quarterbacks in the country. And for that reason, the Bulldogs are the sleepiest of sleepers to make the playoff. Pick: Mississippi State</p><h3>Oregon State (-10.5) at UTEP</h3><p><strong>Kickoff:</strong> 6 p.m. on MW+</p><p><strong>Comment:</strong> The Beavers are trending toward an upside surprise this season with transfer quarterback Braden Atkinson. The Miners are the Miners. Tough to envision anything other than a comfortable win for the visitors. Pick: Oregon State</p><h3>Georgia Tech (-3) at Stanford</h3><p><strong>Kickoff:</strong> 7:30 p.m. on ESPN</p><p><strong>Comment:</strong> This is Stanford’s best chance all season for a conference victory – the Yellow Jackets are struggling on offense and extremely vulnerable – but the total of 47.5 is more enticing than the spread. And in case there was any question, we like the Under. Pick: Stanford</p><h3>Minnesota (-9.5) at Washington</h3><p><strong>Kickoff:</strong> 8 p.m. on Fox</p><p><strong>Comment:</strong> Despite their well-documented struggles in Weeks 1 and 2, the Huskies should handle Minnesota with relative ease. If they don’t, well, it might be time for a red alert in Seattle. Pick: Washington</p><p><strong>Straight-up winners:</strong> Cal, Toledo, UCLA, Boise State, Michigan, Utah, Oklahoma State, LSU, Oregon, Arizona, Mississippi State, Oregon State, Stanford and Washington</p><p><strong>Five-star special:</strong> Mississippi State. The Bulldogs have been ultra-impressive thus far. The Tigers struggled to put away Troy last week.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -5656,20 +5741,6 @@
         "source": "The Seattle Times",
         "id": "ae0e54adc1fd4471",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Cougar hockey hopes to sweep Gonzaga",
-        "link": "https://dailyevergreen.com/199359/sports/cougar-hockey-hopes-to-sweep-gonzaga/",
-        "link_kind": "item",
-        "date": "2026-09-20T16:00:22+00:00",
-        "summary": "Washington State hockey seeks to sweep the Bulldogs Sunday after rolling past Gonzaga 13-1 Saturday night. The Cougars (2-1) responded after a tough 5-2 loss to Montana Friday night. Nic Posthumus jolted the Cougars early as he recorded his first career goal 29 seconds in. Carson Low led the Cougars with five goals, accounting for...",
-        "author": "Zach McFarlane",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "1ca9a3a94307f13a",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -6164,10 +6235,7 @@
         "source": "The Seattle Times",
         "id": "c7f084510d6b4bd7",
         "sport": "football",
-        "medium": "text",
-        "also": [
-          "The Spokesman-Review"
-        ]
+        "medium": "text"
       },
       {
         "title": "WSU Football: Kirby Moore and Student-Athletes | Duquesne Week Press Conference | 9/14/26",
@@ -6238,10 +6306,7 @@
         "source": "The Seattle Times",
         "id": "e1b726f8ca691f26",
         "sport": "football",
-        "medium": "text",
-        "also": [
-          "The Spokesman-Review"
-        ]
+        "medium": "text"
       },
       {
         "title": "WSU football’s offensive struggles come into focus after loss to Kansas State",
@@ -6254,34 +6319,6 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "648b22c0ab13300f",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU hosts FCS Duquesne, looking to bounce back from two straight losses to open year | First look",
-        "link": "http://www.spokesman.com/stories/2026/sep/14/first-look-wsu-hosts-fcs-duquesne-in-season-opener/",
-        "link_kind": "item",
-        "date": "2026-09-14T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Here is a first look at Washington State’s home opener against Duquesne on Saturday afternoon.</p><p><strong>What is it?</strong></p><p>In new head coach Kirby Moore’s home debut, WSU is set to host FCS Duquesne, which is coming off two straight losses to open the season. The Cougars are doing the same, so with an opportunity to kick-start an offense that ranks last nationally in total offense, this game might have a little extra meaning for the hosts.</p><p>Outside of WSU’s long-running series with nearby Idaho, it’s the Cougars’  first time hosting an FCS opponent since earning a 70-30 win over Portland State in 2024.</p><p><strong>Where is it?</strong></p><p>Gesa Field at Martin Stadium in Pullman.</p><p><strong>When is it?</strong></p><p>Kickoff is set for 12:30 p.m.</p><p><strong>Where can I watch it?</strong></p><p>USA Network will broadcast the game.</p><p><strong>Who is favored?</strong></p><p>As of Monday afternoon, WSU was around a 35.5-point favorite in most sportsbooks.</p><p><strong>How did the Cougars fare last week?</strong></p><p>In a 34-7 loss to Kansas State, dropping WSU to 0-2 for the first time since 2016, the Cougars’ offense fell flat. That group did not score, the first time the program has gone scoreless on offense since 2010, and quarterback Caden Pinnick completed just 9 of 20 passes for 65 yards, becoming the first WSU QB to pass for fewer than 100 yards since Jeff Tuel did it in the same season, back when Paul Wulff was head coach.</p><p>WSU scored once, a pick-six going into halftime from safety Jaylen Thomas, who picked off two passes total in the game. But the Cougars didn’t score otherwise, totaling just 166 yards of offense, giving them 408 yards of total offense and 204 per game – both of which rank last in the country. Running backs Kirby Vorhees and Maxwell Woods combined for just 74 yards, and Vorhees lost a fumble for the second straight game.</p><p>It was also another sluggish outing from WSU’s special teams department. In the first quarter, kicker Jack Stevens sent a field -goal attempt too low, allowing it to get tipped at the line of scrimmage, giving him three misses in his first four tries to open the season. And in the second quarter, the Cougs permitted a 62-yard punt return, giving the Wildcats a chance to score a touchdown two plays later to secure a 17-0 lead.</p><p>The visitors’ defense was hardly perfect – one of the biggest problems was that WSU generated just seven pressures on K-State QB Avery Johnson – but their offense was the main culprit behind this loss. The Cougars were playing without top wide receiver Tony Freeman, who is now expected to miss the rest of the season due to a torn ACL, taking away a key component of his team’s offense and kick/punt return game.</p><p>“Well, I think you go back. Have had a lot of meetings, really getting off the flight, and then yesterday in the morning,” Moore said. “Starts back with our process of game planning, the number of reps we get in practice, how many looks we get of those during the week. Obviously, that’s gonna build confidence for the players and what could come on Saturday. Everyone being on the same page – that’s the one thing about offensive football. Gotta have all 11 working together. At the end of the day, we gotta score more points to be successful here.”</p><p>WSU also didn’t have either of its starting cornerbacks, Jalil Tucker (out with injury) and Khamari Terrell (out for undisclosed reasons). Each are expected to be available in Saturday’s game against Duquesne, Moore said.</p><p><strong>Scouting Duquesne …</strong></p><p>The Dukes are coming off two straight road FBS losses to open the season, a 34-0 defeat to Air Force and a 70-13 setback at the hands of Youngstown State. They rank last in the FCS in total offense, posting just 351 total yards, and they’ve also lost a pair of turnovers .</p><p>Duquesne is led by head coach Jerry Schmitt, who is in his 22nd season at the helm of the program. He’s taken the Dukes to the FCS playoffs three times in his tenure, most recently in 2023.</p><p>This year, the team’s quarterback is sixth-year journeyman Carson Camp, who started his career with three seasons at South Dakota before spending the 2023 and 2024 seasons at Sacramento State. He transferred to Southeastern Louisiana, where he threw for nearly 1,800 yards before moving over to Duquesne . In two games this fall, he has completed just 12 of 37 passes (32%) for 105 yards, one touchdown and two interceptions.</p><p>The Dukes also rank seven spots up from last in the FCS ranks in total defense, allowing an average of 526.5 yards per game.</p><p>“Offensively, they do a good job with RPOs and got an experienced quarterback. He’s entering his seventh year in college football,” Moore said. “Very solid running backs. No. 32 (Ness Davis) was an all-conference player last year, and defensively they have seven new starters, so a little bit of a new group there.”</p><p><strong>What happened last time?</strong></p><p>This will be the teams’ first-ever meeting.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "9c1a3c91c08baf31",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU WR Tony Freeman to miss rest of season with torn ACL, plus other injury updates",
-        "link": "http://www.spokesman.com/stories/2026/sep/14/wsu-wr-tony-freeman-to-miss-rest-of-season-with-to/",
-        "link_kind": "item",
-        "date": "2026-09-14T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Washington State wide receiver Tony Freeman has played his final snap of the season.</p><p>Freeman is expected to miss the rest of the season with a torn ACL, coach Kirby Moore said Monday, dealing a costly blow to the Cougars’ receiving and kick return departments. A senior and a team captain, the speedy Freeman was expected to be his team’s top option on both fronts.</p><p>Freeman’s injury happened during WSU’s season-opening loss to rival Washington on Sept. 6. Freeman played just 10 snaps before going down with his injury, going to the locker room and returning in street clothes.</p><!--[embed id=12184]--><p>WSU’s medical staff is still determining Freeman’s surgery date, Moore said, adding that it’s possible Freeman returns for an extra season next fall. But that much is unclear at this point.</p><p>A year ago, Freeman started seven of 13 games, reeling in 54 passes for 590 yards and three touchdowns. In the punt return department, he also recorded an average punt return of 17.3 yards, the sixth-best mark nationwide and a WSU single-season record. He also set a program record with 415 punt return yards on the season.</p><p>Freeman’s absence figures to be another tough development for WSU’s offense, which ranks last nationally in total offense (408 yards) and points per game (8.5). In the Cougars’ loss to Kansas State on Saturday, their offense went scoreless for the first time since a a blowout loss to Arizona State in 2010, when Paul Wulff was head coach.</p><p>That’s a key reason behind the Cougars’ 0-2 start to the season, the program’s first since 2016. On Saturday, quarterback Caden Pinnick passed for just 65 yards, becoming the first WSU signal-caller since Jeff Tuel registered  fewer than 100 passing yards in 2010.</p><p>A quick slot receiver, Freeman’s absence figures to push other WSU receivers into the spotlight. In Saturday’s game, Cougar wideouts Daniel Blood and Darrius Clemons combined for just 41 yards on five catches. Transfer receiver Tank Hawkins, who started the game but played only one snap, could wind up in a bigger role as well.</p><p>WSU could also ask a bit more from veteran receiver Branden Ganashamoorthy, who caught one pass for 11 yards against K-State. That was the Cougs’ first third-down conversion of the season.</p><p>“Darrius made a couple plays there. BG’s stepped in,” Moore said. “We gotta find ways to get them the ball. D-Blood first game, I think, didn’t get as many there in the second game. And then Jordan Dees and Tank Hawkins gotta find roles and find opportunities as we progress here.”</p><h3>Other injury updates</h3><p>In other injury news, WSU starting cornerbacks Khamari Terrell and Jalil Tucker are expected to be available for Saturday’s game against FCS Duquesne, Moore said. Terrell didn’t travel to Kansas State due to a concussion he suffered during practice last week, Moore said, while Tucker traveled but watched from the sideline in street clothes.</p><p>Those two absences cost the Cougars’ defense, which surrendered 487 total yards to the Wildcats, including 192 passing from quarterback Avery Johnson and another 295 rushing. WSU’s replacements on defense were Kai Rapolla and Jamarey Smith, the latter of whom moved from nickel to cornerback. Rapolla allowed four catches on five targets, according to Pro Football Focus, while Smith permitted just one catch on five targets.</p><p>It was a bit of a slow game for Rapolla, who finished with an overall PFF defense grade of just 52.2, so Terrell and Tucker’s returns should boost WSU’s defense. Tucker got hurt in the Apple Cup, when he went airborne to break up a tipped pass and a UW defender tackled him at the knees.</p><p>• WSU defensive ends Michael Hughes and Malachi Wrice are expected to miss Saturday’s game nursing their own injuries, Moore said. Hughes, who didn’t play against K-State, is expected to miss a couple weeks with a leg injury, while Wrice is considered week-to-week.</p><p>Both Hughes and Wrice are backups, but their absences could loom large for WSU, who has two stars at that position in Matyus McLain and Linus Zunk. But now the Cougars’ depth will be tested. It’s possible the Cougs ask more from defensive ends like Ben Beatty and Fernanco Lecuona (20 snaps apiece against K-State), plus Arizona transfer Eduwa Okundaye, who played 11 snaps in Manhattan.</p><p>“All those guys, we gotta rotate and be fresh up front,” Moore said, “and that’s gonna be important.”</p><p><strong>Thomas named Pac-12 Defensive Player of the Week</strong>In Saturday’s game, Jaylen Thomas delivered two interceptions, including a 50-yard pick-six going into halftime. That helped him earn Pac-12 Defensive Player of the Week honors, according to a Monday release.</p><p>He’s the first WSU player with multiple interceptions in a game since Sam Lockett III had two against Arizona in November 2022. He’s also the first Cougar defender to record multiple interceptions with at least one returned for touchdown since Armani Marsh in the 2021 Apple Cup.</p><p>Thomas also became the first WSU player to post a pick-six since former linebacker Taariq Al-Uqdah did so in 2024 against Oregon State.</p><p>“I love Jaylen Thomas, just working with him on a daily basis,” Moore said. Obviously, coach (Greg) Burns had experience with him in the past (at San Jose State). He’s a student of the game. He works his tail off. He’s up on the fifth floor multiple hours outside of the players’ hours, meeting with coach Burns, talking with coach (Trent) Bray, and I think that’s shown up on the field.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "b5e4c108b3bdd085",
         "sport": "football",
         "medium": "text"
       },
@@ -6888,34 +6925,6 @@
         "source": "Jim Moore's Substack",
         "id": "bdf2adbda6280556",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "WSU band’s Apple Cup absence is another sign of change in college sports",
-        "link": "https://www.seattletimes.com/sports/washington-huskies-football/wsu-bands-apple-cup-absence-is-another-sign-of-change-in-college-sports/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-09-04T17:30:53+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/tzr_175814.jpg?d=1200x630\"><br/>WSU's marching band won't be at the Apple Cup. Meanwhile, UW's band won't travel to most Big Ten road games. It's yet another sign of the changing landscape of college football.",
-        "author": "Sofia Schwarzwalder",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "5b3d98c842b993d7",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "How will WSU do in new Pac-12? Game-by-game picks for Cougars",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/how-will-wsu-do-in-new-pac-12-game-by-game-picks-for-cougars/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-09-04T17:00:00+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/08/08312026_tzr_tzr_185738.jpg?d=1200x630\"><br/>The Cougars enter 2026 with many questions, a new coach and transfer QB. So how will it all come together on the field? Here are game-by-game predictions.",
-        "author": "Greg Woods",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "f2e72f30f88c77bc",
-        "sport": "football",
         "medium": "text"
       },
       {
