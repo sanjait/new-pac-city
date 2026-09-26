@@ -9077,6 +9077,165 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-09-26-0140"
+    },
+    "0b631e55e25edf2e": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline names Oregon State's game against UTEP with odds and viewing details, establishing athletics but not the sport.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Only a headline and one-line summary were available, and the sport is not stated, so the department key is used.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-26-1339"
+    },
+    "15b8f75b3456e48b": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Hawaii Warriors football",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Wyoming Cowboys football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "A Hawaii-Wyoming game preview in which neither team is among the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-26-1339"
+    },
+    "347a5559d78e54ca": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico cross country",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "About New Mexico cross country, a school outside the nine; other teams are named only as meet context.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-26-1339"
+    },
+    "3daada45b7819b79": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "One of six previews covers Oregon State at UTEP in a full paragraph-level treatment of the Beavers' offense and matchup.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Oregon State is one game of six in a Mountain West roundup, so involves versus mentions could defensibly go either way.",
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-09-26-1339"
+    },
+    "b0a06fbfe98f2cf0": {
+      "subjects": {
+        "conference": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Week 4 slate of previews for eight Pac-12 football teams, each given its own section.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-09-26-1339"
+    },
+    "bb4141bd437a3ab5": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada men's basketball",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "About Nevada's coach retiring; Nevada is not one of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-26-1339"
+    },
+    "cd1059c925656642": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column is built around Boise State's Western Michigan game and its CFP stakes as the prime example of Group of Six neglect.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The subject is ESPN's Gameday choices, with Boise State as the anchoring example rather than the topic.",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-26-1339"
+    },
+    "e5cfe86964a03f40": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Former Gonzaga scoring leader Drew Timme's new NBA training camp deal is an alum's professional career, which is in scope.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-26-1339"
+    },
+    "ff2e809c43018667": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full preview of Boise State's game at Western Michigan with injuries, matchups and a prediction.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG",
+        "HunterFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-26-1339"
     }
   },
   "runs": {
@@ -10243,6 +10402,58 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 28.847056099999463,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-26-1339": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-26T13:39:32.274486+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 6,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "15b8f75b3456e48b",
+          "source": "Mountain West Connection",
+          "phrase": "Hawaii Warriors football",
+          "kind": "not-ours"
+        },
+        {
+          "id": "15b8f75b3456e48b",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming Cowboys football",
+          "kind": "not-ours"
+        },
+        {
+          "id": "347a5559d78e54ca",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico cross country",
+          "kind": "not-ours"
+        },
+        {
+          "id": "bb4141bd437a3ab5",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada men's basketball",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 18.29239110002527,
       "tokens": null,
       "tokens_source": null
     }
