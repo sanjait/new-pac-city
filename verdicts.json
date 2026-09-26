@@ -8877,6 +8877,206 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-09-25-1339"
+    },
+    "0dfde48656f400ab": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "utah-state": "involves",
+        "conference": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The title lists Utah State's basketball commitment, Boise State's Week Zero schedule and Pac-12 Week 4 previews, though the body is only link headlines.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The body holds only a list of headlines, so the case rests on the title and summary, but they name covered programs clearly.",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-26-0140"
+    },
+    "1e22e14e58c1ff60": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State's home football game against Arizona and what the Cougars need to do to win.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-26-0140"
+    },
+    "2f21b3d53647ae99": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a preview of Oregon State's game at UTEP, with the Beavers' QB and point spread named.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-26-0140"
+    },
+    "2fee590558d4bd38": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "involves",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The mailbag devotes answers to Pac-12 expansion strategy, Texas State's addition and Boise State's playoff case.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Much of the mailbag is national college football and CFP policy, with the Pac-12 in only some answers.",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "12 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-26-0140"
+    },
+    "5646c079d5bbe2f7": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews how Washington State can upset Arizona in Saturday's football game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-26-0140"
+    },
+    "6ed71d50eb16dbac": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Tennessee/Texas/Oklahoma/Kentucky 1950 season",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A history piece about the 1950 season and Jan. 1, 1951 bowl games in which none of the nine covered schools figures.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "13 min read",
+      "lock": "free",
+      "run": "run_2026-09-26-0140"
+    },
+    "779499a8ddabbcab": {
+      "subjects": {
+        "conference": "about",
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "texas-state/football": "involves",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The bowl projections give each Pac-12 football school its own paragraph of outlook.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-26-0140"
+    },
+    "7cb48f99584c8aaa": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "utah-state/womens-volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State's sweep of Utah State in volleyball, the Bobcats' first Pac-12 win.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rhianna Aleman"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-26-0140"
+    },
+    "8e78677a16ee384f": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A pick and score prediction for Washington State's home football game against Arizona.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-26-0140"
+    },
+    "a9e8765752e4c924": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "fresno-state/womens-volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Washington State's 3-0 volleyball win at Fresno State in the first Pac-12 match.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-26-0140"
+    },
+    "cce86a99048762c5": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A keys-to-victory preview of Washington State's football game against Arizona.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-26-0140"
+    },
+    "effacfacfad25368": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Fresno State football's Sept. 26 home game against Rice.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-26-0140"
     }
   },
   "runs": {
@@ -10009,6 +10209,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 21.288687700027367,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-26-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-26T01:39:38.527741+00:00",
+      "items": 12,
+      "verdict_counts": {
+        "publish": 11,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "6ed71d50eb16dbac",
+          "source": "Press Break",
+          "phrase": "Tennessee/Texas/Oklahoma/Kentucky 1950 season",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 28.847056099999463,
       "tokens": null,
       "tokens_source": null
     }
