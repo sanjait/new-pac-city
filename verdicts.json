@@ -9358,6 +9358,282 @@
       "extent": "3 min read",
       "lock": "paywall",
       "run": "run_2026-09-27-0139"
+    },
+    "04f8065202e5a70e": {
+      "subjects": {
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "boise-state/football": "involves",
+        "washington-state/football": "involves",
+        "utah-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Seven of the nine covered schools each get a game listing with odds and picks in this week's Pac-12 slate roundup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-27-1341"
+    },
+    "0b9331cf94117a5d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State snapping a 10-game road losing streak with a rout of UTEP.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-27-1341"
+    },
+    "12b46cd851dfdc14": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Labelled 'Analysis' and argues why Washington State's offensive turnovers, not the level of competition, are the real problem.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-27-1341"
+    },
+    "137444e7425c0edc": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A bylined, metaphor-driven take arguing that Washington State's defense can't carry a team whose offense won't punch back.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jacob Thorpe"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-27-1341"
+    },
+    "167dba565d744c7a": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A stat-driven recap of Boise State's 32-7 win over Western Michigan, covering the key performers on both sides.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-27-1341"
+    },
+    "1d436a90acc746b0": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A drive-by-drive instant-reaction recap of Washington State's loss to Arizona.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-27-1341"
+    },
+    "2bf30b32384ee07e": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Fresno State's 38-24 win over Rice with player stats and coach quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-27-1341"
+    },
+    "54b06ee5556bf423": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The whole piece is a play-by-play recap of Boise State's 32-7 win over Western Michigan with coach and player quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-27-1341"
+    },
+    "5e88a7f47ec87900": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State's win over UTEP moving it to 2-2 before conference play.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-27-1341"
+    },
+    "6d544b14b2cad7ed": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A drive-by-drive recap of Fresno State's 38-24 win over Rice.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-27-1341"
+    },
+    "8b20a094791b0190": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Oregon State's game with UTEP is one bare schedule line (time and TV network only) inside a Mountain West-wide slate where every other matchup is uncovered.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Slate information is usually wanted, but only one covered program appears here and it gets no more than a table-line mention amid mostly non-conference games.",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-27-1341"
+    },
+    "9be555c228ac9832": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary both name Oregon State running back AJ Newberry's first 100-yard rushing game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-27-1341"
+    },
+    "acc966430d60e3ad": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "colorado-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps a volleyball sweep loss for Texas State to Colorado State, with real stats and quotes covering both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rhianna Aleman"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-27-1341"
+    },
+    "b1e100d5dd6912ae": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A 'difference makers' feature giving real, stat-backed treatment to Washington State safety Jackquintin Bal's performance against Arizona.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-27-1341"
+    },
+    "c20dbd171545cda8": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary cover Oregon State coach JaMarcus Shephard's postgame remarks after beating UTEP.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-27-1341"
+    },
+    "d5ec6b7c522a5c17": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State's 63-10 win over Incarnate Word with player and coach quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Julia Vellieux"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-27-1341"
+    },
+    "e4e500c16228e589": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State's penalty total in its rout of UTEP.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-27-1341"
+    },
+    "fa07f766f7cb9dd1": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Analyzes Washington State's offensive breakdown in its loss to Arizona, built entirely around the game just played.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-27-1341"
     }
   },
   "runs": {
@@ -10611,6 +10887,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 19.803141099982895,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-27-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-27T13:39:07.367198+00:00",
+      "items": 18,
+      "verdict_counts": {
+        "publish": 17,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 5
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 38.30670289997943,
       "tokens": null,
       "tokens_source": null
     }
