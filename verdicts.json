@@ -9236,6 +9236,128 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-09-26-1339"
+    },
+    "396860f505625632": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a live thread of Oregon State facing UTEP at the Sun Bowl, but the sport is not stated so the department key is used.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-27-0139"
+    },
+    "43d10230457af2ca": {
+      "subjects": {
+        "san-diego-state/mens-golf": "about",
+        "san-diego-state/womens-golf": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece centres on SDSU's men's and women's golf programs and their international recruiting, quoting both head coaches.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tyler Bowne"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-27-0139"
+    },
+    "4c92acef402be282": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "It reports on WSU punter Max Dean's gametime status and the kicking situation ahead of the Arizona game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-27-0139"
+    },
+    "4defeb6a80864cf3": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force Falcons / UNLV / New Mexico Mountain West poll",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The fan poll ranks Air Force, UNLV and New Mexico, none of which is among the nine covered schools, and names no covered program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-27-0139"
+    },
+    "590f8fc12d6130e6": {
+      "subjects": {
+        "utah-state/mens-basketball": "about",
+        "utah-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "It covers Aggie Madness, the season kickoff event for Utah State's men's and women's basketball teams, with both head coaches quoted.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Elissa Ross"
+      ],
+      "extent": "35 min read",
+      "run": "run_2026-09-27-0139"
+    },
+    "7cf60c3de1d8450b": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about",
+        "gonzaga/womens-volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "It recaps Utah State's 3-1 volleyball win over Gonzaga, with Gonzaga's opposing hitter discussed in some detail.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "26 min read",
+      "run": "run_2026-09-27-0139"
+    },
+    "962b731ce044ee33": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is about food-delivery robots on the Oregon State campus, which is campus news rather than athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "John Pranger"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-27-0139"
+    },
+    "cb8baed0f2de7bf6": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "It is a live game thread of Washington State football hosting Arizona with drive-by-drive scoring.",
+      "evidence_basis": "title+full-text",
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-27-0139"
     }
   },
   "runs": {
@@ -10454,6 +10576,41 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 18.29239110002527,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-27-0139": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-27T01:39:37.395429+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 6,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1,
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "4defeb6a80864cf3",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force Falcons / UNLV / New Mexico Mountain West poll",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 19.803141099982895,
       "tokens": null,
       "tokens_source": null
     }
