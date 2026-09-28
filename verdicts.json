@@ -9634,6 +9634,153 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-09-27-1341"
+    },
+    "0a34d726f4dc5276": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "washington-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A Pac-12 football power-rankings roundup gives dedicated analysis to most of the nine schools' football teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-28-0140"
+    },
+    "0ef3ac885125f08a": {
+      "subjects": {
+        "oregon-state/womens-volleyball": "about",
+        "washington-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Oregon State volleyball's five-set win over Washington State in detail, with substantial coverage of both teams' players.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-28-0140"
+    },
+    "5345f0d22361a425": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece is ten takeaways from Oregon State football's win over UTEP.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea | The Oregonian/OregonLive"
+      ],
+      "extent": "3 min read",
+      "lock": "free",
+      "run": "run_2026-09-28-0140"
+    },
+    "6221b9563a3bca7f": {
+      "subjects": {
+        "washington-state/baseball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps a Washington State baseball fall scrimmage loss to Central Washington, with quotes from the Cougars' coach and players.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Owen Sullivan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-28-0140"
+    },
+    "e65943806a5d8a04": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish an Oregon State football betting line ahead of its game at Colorado State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-28-0140"
+    },
+    "ea68f48d47f55f9c": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Utah State football's win over Troy for its first victory of the season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Quinton Papa"
+      ],
+      "extent": "23 min read",
+      "run": "run_2026-09-28-0140"
+    },
+    "eb73e63807b81c78": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish an Oregon State football recruiting commitment from an in-state quarterback.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-28-0140"
+    },
+    "f437a13a03b9b0ff": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Gardner-Webb",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece profiles Gardner-Webb's football season, coaching staff, and players exclusively; no covered school or program figures in it at all.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-09-28-0140"
+    },
+    "fcabe3b9e484e136": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The entire piece grades Fresno State football players' performances in the team's win over Rice.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-28-0140"
     }
   },
   "runs": {
@@ -10914,6 +11061,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 38.30670289997943,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-28-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-28T01:38:56.496345+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 8,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "f437a13a03b9b0ff",
+          "source": "Press Break",
+          "phrase": "Gardner-Webb",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 22.810867799969856,
       "tokens": null,
       "tokens_source": null
     }
