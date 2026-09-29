@@ -9781,6 +9781,453 @@
       ],
       "extent": "8 min read",
       "run": "run_2026-09-28-0140"
+    },
+    "064b033937989aeb": {
+      "subjects": {
+        "boise-state/womens-volleyball": "about",
+        "gonzaga/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A match recap of Boise State's volleyball win over Gonzaga with substantial detail on both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "09a0630daf8dba46": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature profile of a Utah State volleyball player's journey to the program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "66 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "0fdad8176d0ed5a7": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Five takeaways from Washington State football's loss to Arizona.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-29-0142"
+    },
+    "108d2d01fcfd92f8": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A match recap of San Diego State men's soccer falling to Cal State Fullerton.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Manny Sanchez"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "1eabb1ce921e7d78": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An injury status update for Oregon State football players ahead of the Colorado State game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "5204a3c11097531c": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A first-look preview of Washington State's Pac-12-opening game against Fresno State, with a detailed scouting section on the Bulldogs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-29-0142"
+    },
+    "5485c690dfa052a7": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "One of the several Week 4 Mountain West games recapped in detail is Oregon State's win over UTEP.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "14 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "58dd0a646f16e6d3": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports a cornerback depth concern for Oregon State football entering conference play.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "58ee666521dc8e73": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Analysis segment breaking down Fresno State's win over Rice.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "5dc38686eac0967d": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Injury updates and notes on Washington State football ahead of facing Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-29-0142"
+    },
+    "640477a5c6bec6c7": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Analysis of Washington State football's loss to Arizona.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "66cc36af076c5932": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A sneak peek previewing Oregon State's game at Colorado State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "67e6d77073122ac3": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports on Washington State football's injury status ahead of facing Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "75132bcbd89cc16b": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "about",
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A power-rankings column ranking nearly all nine schools' football teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-29-0142"
+    },
+    "794ac873375133aa": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Highlights and stats from Fresno State's win over Rice.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "8495146bf0e7d3a2": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "An analysis piece on what Fresno State's football team showed during non-conference play.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "8d0cc2392cfff913": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece covers a leadership workshop led by the men's basketball coach, with no team, game, or season content for the program itself.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The coach's identity ties the piece to the program, but the substance is a leadership seminar rather than athletics, making the call close.",
+      "unrecognized": [],
+      "byline": [
+        "Quinton Papa"
+      ],
+      "extent": "31 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "a703e6cef76e7c19": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports an athletics department hire at Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "b0feeee594435db7": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The ranking argument covers only Mountain West teams outside the nine — Air Force, New Mexico, Wyoming, UNLV, Nevada — with no covered program appearing.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "b5a56f89e8834231": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a Fresno State football recap ahead of the Washington State Pac-12 opener.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "bd33754578fc08f5": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A former Fresno State player discusses the team's win over Rice in a recurring segment.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "c90e4a3f50bf639d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Recaps Oregon State's coach discussing the UTEP win and the upcoming Colorado State trip.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "cbdfc4fc77028631": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A historical feature on a former Fresno State player's record-tying special-teams performance.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "d0528882f157dd8d": {
+      "subjects": {
+        "boise-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Recaps Boise State coaches' press conference previewing the upcoming Utah State game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "d1178042aff9ff1e": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Boise State football's entry into the AP Poll.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "d2044a42c7460e9c": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The whole ballot covers FCS programs outside the nine, with Boise State appearing only once as an incidental comparison.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "12 min read",
+      "lock": "free",
+      "run": "run_2026-09-29-0142"
+    },
+    "d3f74a10a9dec4bf": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "colorado-state/football": "about",
+        "texas-state/football": "about",
+        "boise-state/football": "about",
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full Week 4 roundup of results across nearly all nine schools' football teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "12 min read",
+      "run": "run_2026-09-29-0142"
+    },
+    "eef6dd062df703ed": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Covers Colorado State's QB uncertainty ahead of its game against Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-29-0142"
+    },
+    "fafbd81005ff850d": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A historical feature on past Fresno State-Rice finishes tied to the current matchup.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-09-29-0142"
     }
   },
   "runs": {
@@ -11095,6 +11542,38 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 22.810867799969856,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-29-0142": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-29T01:39:20.499691+00:00",
+      "items": 29,
+      "verdict_counts": {
+        "publish": 26,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "The Utah Statesman": 1,
+        "Mountain West Connection": 1,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 6
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 6
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 58.423811899963766,
       "tokens": null,
       "tokens_source": null
     }
