@@ -10228,6 +10228,166 @@
         "Scott Bemis"
       ],
       "run": "run_2026-09-29-0142"
+    },
+    "41d318b75e9171e7": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece covers Mountain West conference players of the week; Oregon State appears only in a single clause noting it beat UTEP, not as a subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-29-1340"
+    },
+    "961b58434f85e78d": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The rankings cover only Mountain West teams (North Dakota State, New Mexico, Air Force, UNLV, Wyoming, Hawaii, Nevada, UTEP, Northern Illinois), none of which are among the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-29-1340"
+    },
+    "b8a037c5d2d2b29d": {
+      "subjects": {
+        "boise-state/mens-tennis": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story is entirely about Boise State men's tennis winning the Dar Walters Fall Classic championship.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-29-1340"
+    },
+    "da381af761eed642": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "washington-state/football": "involves",
+        "colorado-state/football": "involves",
+        "texas-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "utah-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The rankings give each of the nine schools' football programs a paragraph of real analysis, and the whole piece ranks the conference.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-29-1340"
+    },
+    "e0566fa0751c67fc": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "utah-state/football": "about",
+        "colorado-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece names a Fresno State, Utah State, Colorado State, and Oregon State player as its featured players of the week, with a paragraph of detail on each.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-29-1340"
+    },
+    "e42612acf39fb287": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece is a column on Boise State's dominant win over Western Michigan that also gives Oregon State a full paragraph as the program's biggest CFP threat.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Petterson"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-09-29-1340"
+    },
+    "f32ad550724a0c0a": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A full paragraph is dedicated to Boise State's dominant win over Western Michigan, with box-score detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-29-1340"
+    },
+    "f823a25e5bb745b8": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The story is entirely about Nevada's double-overtime loss to Air Force, neither of which is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-29-1340"
+    },
+    "f94a31c25edf1209": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The profile is about a five-star Gonzaga men's basketball commit, covering his recruitment and mentorship by a former Gonzaga guard.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-09-29-1340"
+    },
+    "fe07b1ef7222fdd4": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The column critiques Rivals/On3's recruiting-evaluation business model; San Diego State appears only in a one-line aside noting it landed a commit this week.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The one-line San Diego State commit mention could arguably be read as involves rather than a mere aside.",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-29-1340"
     }
   },
   "runs": {
@@ -11574,6 +11734,36 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 58.423811899963766,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-29-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-29T13:38:45.939362+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "drop": 4,
+        "publish": 6
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 4
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "f823a25e5bb745b8",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 18.303094300092198,
       "tokens": null,
       "tokens_source": null
     }
