@@ -10597,6 +10597,124 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-09-30-0141"
+    },
+    "250360bef44e916e": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Body is only a boilerplate fan-survey prompt about the Group of 6 CFP spot with no team-specific content.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-30-1340"
+    },
+    "3fa09d535bd650a9": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Two of the digest's brief items are wholly about Oregon State's freshman receiver and Fresno State's offense.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-30-1340"
+    },
+    "8067cf108c19b1d7": {
+      "subjects": {
+        "san-diego-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "One segment of the podcast is a dedicated investigation into San Diego State's losing skid.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The show notes only tease a segment on San Diego State rather than describing it in depth, so about-versus-involves and the episode's overall kind are close calls.",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-30-1340"
+    },
+    "84774f3d6a210ebc": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about",
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The entire piece covers the eligibility lawsuit affecting Gonzaga men's and women's basketball players.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-30-1340"
+    },
+    "9cab7afba674ba3f": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Previews Northern Illinois's remaining schedule entirely against non-covered Mountain West opponents.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-09-30-1340"
+    },
+    "d5b27e5f6b746ab0": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Gives Boise State, Oregon State, Fresno State, Colorado State, and San Diego State each a dedicated week-4 recap section.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-09-30-1340"
+    },
+    "f1a06432eb2a5879": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers the Mountain West race among New Mexico, North Dakota State, and other non-covered schools; no covered program appears.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-09-30-1340"
     }
   },
   "runs": {
@@ -12000,6 +12118,42 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 31.951554200029932,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-30-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-30T13:39:05.969270+00:00",
+      "items": 7,
+      "verdict_counts": {
+        "drop": 3,
+        "publish": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "9cab7afba674ba3f",
+          "source": "Mountain West Connection",
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "id": "f1a06432eb2a5879",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 12.357305999961682,
       "tokens": null,
       "tokens_source": null
     }
