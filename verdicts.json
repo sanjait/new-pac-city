@@ -10388,6 +10388,215 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-09-29-1340"
+    },
+    "01d57ae8d3b2480e": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is about a new jersey patch sponsorship for Gonzaga men's basketball.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-30-0141"
+    },
+    "01dd097f75ee4250": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is a feature on Texas State football's running back rotation across the season's games.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Luke Landa",
+        "Ayden Oredson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-30-0141"
+    },
+    "2109411808f40c65": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is a feature on Gonzaga women's basketball player Ines Bettencourt regaining eligibility and returning to the team.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-30-0141"
+    },
+    "63b7fef202644bd3": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story analyzes Washington State football's struggles getting its running backs involved, with coach quotes and season stats.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-09-30-0141"
+    },
+    "6ac47f63ea2c8fe8": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story reports Utah State football's Homecoming win over Troy.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Elise Gottling"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-30-0141"
+    },
+    "747dfee765304e6d": {
+      "subjects": {
+        "texas-state/baseball": "about",
+        "texas-state/softball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story covers the groundbreaking of a new Texas State baseball and softball facility.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cody Dotson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-30-0141"
+    },
+    "78f6d98f92435673": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The newsletter covers Mountain West teams Wyoming, North Dakota State and UTEP; none of the nine covered schools appear.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-09-30-0141"
+    },
+    "8207ffe1db847858": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "involves",
+        "washington-state/football": "involves",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "utah-state/football": "involves",
+        "texas-state/football": "involves",
+        "gonzaga/mens-basketball": "involves",
+        "oregon-state/mens-basketball": "involves",
+        "washington-state/mens-basketball": "involves",
+        "colorado-state/mens-basketball": "involves",
+        "san-diego-state/mens-basketball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece argues about the new Pac-12's identity and future, discussing Week 4 results and basketball history across most of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "8 min read",
+      "lock": "free",
+      "run": "run_2026-09-30-0141"
+    },
+    "8caa5590aade5879": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary name Oregon State baseball's fall exhibition against Linn-Benton at Goss Stadium.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-30-0141"
+    },
+    "9dafc9ad1d9f36ed": {
+      "subjects": {
+        "fresno-state/womens-soccer": "about",
+        "colorado-state/womens-soccer": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The story covers Fresno State women's soccer's struggles and sets up the Oct. 1 conference opener against Colorado State, giving both real treatment.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-09-30-0141"
+    },
+    "afd62915f9205432": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is a weekly roundup of former Washington State football players' NFL performances, which counts as coverage of the program's alumni.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-09-30-0141"
+    },
+    "dd68ff936fad8e79": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State freshman setting records and winning Pac-12 freshman of the week, but do not say which sport.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-09-30-0141"
+    },
+    "e34d0e543a9a3384": {
+      "subjects": {
+        "san-diego-state/volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is a feature profile of San Diego State volleyball player Ella Schabort.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Leyla Akcaoglu"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-09-30-0141"
     }
   },
   "runs": {
@@ -11764,6 +11973,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 18.303094300092198,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-09-30-0141": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-09-30T01:39:22.823707+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 12,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 31.951554200029932,
       "tokens": null,
       "tokens_source": null
     }
