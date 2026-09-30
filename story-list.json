@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-30T01:03:04.363259+00:00",
+  "generated_at": "2026-09-30T13:03:28.810113+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Mountaintop View 9-30-26: Lobos-Miners, Jesse Legree, Pac-12 basketball",
+        "link": "https://www.mwcconnection.com/fresno-state-bulldogs-football/93351/mountaintop-view-9-30-26-lobos-miners-jesse-legree-pac-12-basketball",
+        "link_kind": "item",
+        "date": "2026-09-30T13:00:00+00:00",
+        "summary": "Lobos-Miners rekindle rivalry League play opens as the Lobos and Miners renew their long rivalry. Jesse Legree breaking records The Oregon State receiver is on his way to breaking records as a freshman Are slow starts for Fresno State concerning? The Bulldogs offense is having slow starts. Is that concerning with league play? The Pac-12 [&#8230;]",
+        "author": "Adam Evarts",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "3fa09d535bd650a9",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Sitting at 0-4, Where Will the Wins Come From for Northern Illinois?",
+        "link": "https://www.mwcconnection.com/niu-football/93326/sitting-at-0-4-where-will-the-wins-come-from-for-northern-illinois",
+        "link_kind": "item",
+        "date": "2026-09-29T19:00:00+00:00",
+        "summary": "For every North Dakota State, there’s a Northern Illinois. The Huskies have not had a picturesque start to their Mountain West campaign like the Bison have, or any other MW program, for that matter. Sitting at 0-4, it’ll be up to conference play for NIU to find that elusive first victory. Which matchup has the [&#8230;]",
+        "author": "Dan Allison",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "9cab7afba674ba3f",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Pac-12 Tuesday: What Should Be The Identity of The New Pac-12 Conference?",
         "link": "https://pressbreak.substack.com/p/pac-12-tuesday-what-should-be-the",
@@ -13,6 +41,62 @@
         "channel_url": "",
         "source": "Press Break",
         "id": "8207ffe1db847858",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "MWCConnection Reacts Survey: Group of 6 Playoff Spot",
+        "link": "https://www.mwcconnection.com/college-football-playoffs/93246/college-football-playoff-group-6-boise-state-new-mexico-north-dakota",
+        "link_kind": "item",
+        "date": "2026-09-29T17:00:00+00:00",
+        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NCAA. Throughout the year we ask questions of the most plugged-in Mountain West fans and fans across the country. Sign up here to participate in the weekly emailed surveys:",
+        "author": "Kyle Thele",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "250360bef44e916e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "The Mountain West Race Is Taking Shape—and North Dakota State and New Mexico Are Rising Fast!",
+        "link": "https://www.mwcconnection.com/college-football-rankings/93262/the-mountain-west-race-is-taking-shape-and-north-dakota-state-and-new-mexico-are-rising-fast",
+        "link_kind": "item",
+        "date": "2026-09-29T16:00:00+00:00",
+        "summary": "North Dakota State is still unbeaten, New Mexico is making progress under Jason Eck, and some Mountain West teams are already facing tough questions after the first month. By Roger A. Holien &#124; Mountain West Connection After four weeks of the 2026 college football season, the Mountain West is starting to show what kind of [&#8230;]",
+        "author": "Roger A Holien",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "f1a06432eb2a5879",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "The Good, the Bad, the Ugly: Week 4",
+        "link": "https://www.mwcconnection.com/the-good-the-bad-the-ugly/93061/the-good-the-bad-the-ugly-week-4",
+        "link_kind": "item",
+        "date": "2026-09-29T15:00:00+00:00",
+        "summary": "The final week of non-conference play offered a variety of opportunities for the PAC-12. Boise State traveled to Kalamazoo to take on Western Michigan, with the winner becoming the front-runner for the Group of Six spot in the College Football Playoff. Washington State took on its third Power Five opponent as they looked to get [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "d5b27e5f6b746ab0",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Jack’s back on Bison 1660 Radio! Are San Diego State & Hawaii doomed? Revealing the THREE TRUE CFP Contenders w/ their paths & odds! MW/PAC-12 Games of the Week Preview/Prediction! HP Ep. #172 OUT NOW!",
+        "link": "https://www.mwcconnection.com/podcast/93294/mountain-west-pac-12-football-podcast-bison-1660-north-dakota-state-interview-hawaii-san-diego-boise-new-mexico-wyoming",
+        "link_kind": "item",
+        "date": "2026-09-29T14:00:00+00:00",
+        "summary": "Welcome back everyone to the Hike’s Peak podcast, thank you for coming back to the mountain! A wild week of football left some schools heading towards new heights and others spiraling towards the bottom. We’ll kick the show off with an investigation on what’s going wrong with San Diego State, who looks unrecognizable after their [&#8230;]",
+        "author": "Jack Thompson",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "8067cf108c19b1d7",
         "sport": "all",
         "medium": "text"
       },
@@ -115,76 +199,6 @@
         "medium": "text"
       },
       {
-        "title": "Mountain West Football Rankings: Week 4. Wyoming & Nevada rise, while Hawaii and UTEP fall.",
-        "link": "https://www.mwcconnection.com/mountain-west-rankings/92830/mountain-west-football-rankings-week-4-wyoming-nevada-hawaii-utep",
-        "link_kind": "item",
-        "date": "2026-09-28T17:00:00+00:00",
-        "summary": "The college football season is firing on all cylinders, and games are happening every weekend. The rankings are back for another week. Read on to see how this week’s slate of games affected each team’s status in the MWCConnection Mountain West rankings. 1) North Dakota State (0) BYE WEEK 2) New Mexico (0) The Lobos [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "961b58434f85e78d",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Mountain West Connection Football: Week 4 Players of the Week",
-        "link": "https://www.mwcconnection.com/mountain-west-football/93236/2026-mountain-west-connection-football-week-4-players-of-the-week",
-        "link_kind": "item",
-        "date": "2026-09-28T16:49:04+00:00",
-        "summary": "Week 4 provided one of the most entertaining weekends of the young 2026 Mountain West season. Air Force and Nevada battled through two overtimes in Reno. UNLV dominated Akron on the road. New Mexico cruised past New Mexico State in the Rio Grande Rivalry, while Wyoming picked up its first Mountain West victory of the [&#8230;]",
-        "author": "Dominic Gutierrez",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "41d318b75e9171e7",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "PAC-12 Power Rankings: Week 4",
-        "link": "https://www.mwcconnection.com/pac-12-rankings/93049/pac-12-power-rankings-week-4",
-        "link_kind": "item",
-        "date": "2026-09-28T16:00:00+00:00",
-        "summary": "Week four has concluded, and each PAC-12 team has wrapped up its non-conference schedule, with league play kicking off next weekend. There were some surprising results that have caused a bit of a shake-up in our Power Rankings, while there were also some teams that took care of business. With that being said, let’s take [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "da381af761eed642",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "PAC-12 Players of the Week: Week 4",
-        "link": "https://www.mwcconnection.com/players-of-the-week/93048/pac-12-players-of-the-week-week-4",
-        "link_kind": "item",
-        "date": "2026-09-28T14:00:00+00:00",
-        "summary": "Another exciting week of PAC-12 football has concluded as we inch closer to the start of league play. There were some big out-of-conference contests, with Boise State traveling to Kalamazoo to take on Western Michigan in a playoff elimination game and Washington State taking on Arizona as they look to get on track before league [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "e0566fa0751c67fc",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountaintop View 9-28-26. Broncos, Lobos win big. Cowboys & Falcons pick up conference victories, AP Poll.",
-        "link": "https://www.mwcconnection.com/mountain-west-discussion/93114/boise-state-broncos-football-ap-poll-air-force-falcons-new-mexico-lobobs",
-        "link_kind": "item",
-        "date": "2026-09-28T13:00:00+00:00",
-        "summary": "It’s Monday, and we are back at it! Football season is firing on all cylinders, and we have you covered. As always, check out our original coverage and what we can find on the World Wide Web below. Broncos dominate the Broncos In the battle of two Broncos, Boise State nearly shut out Western Michigan [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "f32ad550724a0c0a",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Football Players of the Week - Sept. 28, 2026",
         "link": "http://pac-12.com/news/2026/9/28/pac-12-football-players-of-the-week-sept-28-2026.aspx",
         "link_kind": "item",
@@ -196,20 +210,6 @@
         "source": "Pac-12 Conference",
         "id": "681396c222af2dad",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Enters the AP Poll",
-        "link": "https://www.mwcconnection.com/college-football-rankings/93219/boise-state-enters-the-ap-poll",
-        "link_kind": "item",
-        "date": "2026-09-27T19:46:51+00:00",
-        "summary": "Boise State became the first Group of Six team to be ranked in the AP Poll this weekend after their blowout win over Western Michigan in Kalamazoo. Boise State’s last appearance in the AP Poll came before the 2025 season-opening loss to South Florida when Boise State was ranked #25. The Broncos are now #22 [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "d1178042aff9ff1e",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -1125,6 +1125,21 @@
         "id": "67c192117ca090f8",
         "sport": "football",
         "medium": "text"
+      },
+      {
+        "title": "Can Jim Mora fix CSU's defensive crisis before it derails the season?",
+        "link": "https://bleav.com/shows/ramnation-radio/episodes/can-jim-mora-fix-csus-defensive-crisis-before-it-derails-the-season/",
+        "link_kind": "item",
+        "date": "2026-09-29T21:05:00+00:00",
+        "summary": "<p>CSU scored 45 points and piled up 500 yards at UTSA — and somehow lost by two touchdowns. Joel and Mike break down the Rams’ wild 59-45 loss, including an impressive first start from K’saan Farrar, an offense that repeatedly fought its way back, and a defense that has now surrendered 100 points and more than 1,100 yards in the last two games. They dig into Jim Mora’s visible frustration with the defense and its staff, the troubling run defense and explosive plays, and what changes could be on the table. Then it’s on to Homecoming and CSU’s first-ever Pac-12 conference game, as Oregon State returns to Canvas Stadium with an explosive passing attack that presents another major test for the struggling Rams defense.</p>\n<p>This RamNation Radio episode is brought to you by <a href=\"https://bit.ly/38QRcaN\">Pedersen Toyota</a>, your Local Toyota Dealer Serving Fort Collins, Loveland, Windsor and Timnath for more than 50 years. It is also made possible by <a href=\"https://bit.ly/3kBuSnX\">Ginger and Baker</a> — our favorite restaurant(s) in all of Fort Collins, and <a href=\"https://bit.ly/3syDFAy\">Ram Zone (powered by the CSU Bookstore)</a> — the best place to get all your Ram gear.</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+        "author": "info@milehighsports.com (Mile High Sports)",
+        "duration": 4080,
+        "channel_url": "",
+        "source": "RamNation Radio",
+        "id": "eaab136bc9bc6e83",
+        "extent": "1h 8m",
+        "sport": "all",
+        "medium": "audio"
       },
       {
         "title": "Men’s Hoops to Host Homecoming Scrimmage",
@@ -2446,11 +2461,25 @@
         "medium": "text"
       },
       {
+        "title": "Wait continues for Gonzaga's Xaivian Lee, Ines Bettencourt after California injunction hearing",
+        "link": "http://www.spokesman.com/stories/2026/sep/29/wait-continues-for-gonzagas-xaivian-lee-ines-bette/",
+        "link_kind": "item",
+        "date": "2026-09-29T00:00:00+00:00",
+        "summary": "<p>A preliminary injunction hearing held Tuesday afternoon in Santa Clara County came with some good news, some bad news and, in many ways, no news at all for a pair of Gonzaga players seeking a fifth year of college eligibility.</p><p>The <em>Glancey vs. NCAA</em> lawsuit including Xaivian Lee, a Florida transfer looking to extend his career with Mark Few and the Gonzaga men, and Ines Bettencourt, a returning starter hoping to return for one final season with Lisa Fortier and the Zag women, continued Tuesday afternoon in Northern California, where a Santa Clara County judge heard statements from player plaintiffs and coaches, along with arguments from attorneys representing the NCAA. </p><p>Lee, Bettencourt and more than 70 other player plaintiffs involved in the case are seeking a preliminary injunction that would grant them a fifth year of eligibility, extending their clocks months after the NCAA passed its new 5-in-5 eligibility model.</p><p>No ruling was made Tuesday and another hearing was scheduled for Oct. 20 according to Ryan Downton, one of the attorneys representing the player plaintiffs.</p><p>&#8220;There was not enough time for all of the players and coaches to testify today, so the hearing will resume on October 20,&#8221; Downton wrote in an E-mail to The Spokesman-Review. &#8220;The TRO (temporary restraining order) remains in place pending the next hearing.&#8221;</p><p>Tuesday&#8217;s no-decision could be interpreted as either a negative or positive development.</p><p>Although players now have to wait at least three weeks for clarity, the TRO issued by the Superior Court of Santa Clara on Aug. 7 gives them eligibility until a judge makes a final ruling. Specifically, it allows Lee and Bettencourt to practice with their respective teams and participate in the upcoming Kraziness in the Kennel and Numerica Fan Fest events scheduled the next two weekends.</p><p>The second injunction hearing will take place four days before the Gonzaga men travel to Fayetteville, Arkansas, for a preseason exhibition against Arkansas and seven days before the Zag women host Westmont College for their only preseason exhibition on Oct. 27.</p><p>A preliminary injunction would signify an important step for Lee and Bettencourt, but the NCAA is expected to counter with an appeal and push for a stay motion, which would reverse both players&#8217; eligibility until the case is heard by a Court of Appeals. </p><p>Two other incoming Gonzaga men&#8217;s basketball transfers seeking a fifth year of eligibility, Javon Bennett (Dayton) and Chauncey Wiggins (Florida State), initially secured eligibility through similar injunctions in Ohio and Georgia, but judges in both cases granted the NCAA&#8217;s request for a stay, making both players ineligible for the time being. </p><p>Downton is representing player plaintiffs in a handful of other 5-in-5 cases across the country, including the Ohio lawsuit involving Bennett and Georgia lawsuit involving Wiggins. It&#8217;s possible final verdicts on one or multiple cases won&#8217;t arrive before Gonzaga opens the season on Nov. 2 against Purdue in Las Vegas.</p><p>A handful of fifth-year hopefuls including BYU&#8217;s Jaxon Kohler, a Michigan State transfer, testified in person Tuesday afternoon. St. John&#8217;s coach Rick Pitino also attended the injunction hearing in Santa Clara to testify. Reed Bailey, a fifth-year forward who transferred from Indiana to St. John&#8217;s this offseason, is one of the player plaintiffs named in the lawsuit.</p><p>“The NCAA should give up on all of these lawsuits and let everyone in the Class of 2022 play this year,&#8221; Pitino said during the hearing, according to a post on X from Downton&#8217;s firm, The Texas Trial Group.</p><p>Other notable players named in the California suit include former UCLA guards Donovan Dent and Skyy Clark, both of whom transferred to play for LSU and first-year coach Will Wade. If granted an injunction, all three of Lee, Dent and Clark could be on the floor when the Tigers travel to Spokane for a Nov. 14 matchup with Gonzaga at Numerica Veterans Arena. </p><p>Former Saint Mary&#8217;s, UConn and UC Santa Barbara guard Aidan Mahaney is also part of the lawsuit, as is fifth-year point guard Moe Odum, who faced the Zags at each of his three college stops: Pacific, Pepperdine and Arizona State.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "84774f3d6a210ebc",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Gonzaga announces jersey patch sponsorship with AI network Altana",
         "link": "http://www.spokesman.com/stories/2026/sep/29/gonzaga-announces-jersey-patch-sponsorship-with-ai/",
         "link_kind": "item",
         "date": "2026-09-29T00:00:00+00:00",
-        "summary": "<p>Gonzaga will be debuting not one but two new patches on its men&#8217;s basketball jerseys in 2026-27.</p><p>Along with the Pac-12 Conference logo, Gonzaga players will wear a patch to represent the school&#8217;s newly-announced partnership with Altana, an artificial intelligence network for supply chain management and trade commerce.</p><p>Gonzaga and other college programs around the country are taking advantage of jersey sponsorships as a new revenue streams after receiving approval from the NCAA in January. As of Aug. 1, Division I teams can use up to two patches of no more than 4 square inches for regular-season games.</p><p>“Altana is an exceptional organization that represents innovation and forward thinking, and we are excited to welcome them as a partner of Gonzaga Athletics and Gonzaga Basketball,” Gonzaga Athletic Director Chris Standiford said in a school news release. “As we enter a new era for Gonzaga Athletics and begin competition in the Pac-12, we are grateful for Altana’s support and belief in our student-athletes and our program. We look forward to building a strong partnership together.”</p><p>Altana, founded in 2018 by Evan Smith, Peter Swartz and Raphael Tehranian and based in New York City, claims to be the world&#8217;s first AI network for global trade. The company uses AI to suggest efficient trade routes when considering factors like tariffs and regulations on forced labor, for example, according to their website. </p><p>The fast-growing company contracts with retailers shipping product across the globe. It uses AI models fed with public and private data to track each step a product takes in the global supply chain, sometimes down to its raw materials.   </p><p>The company has notable partnerships with government agencies such as the U.S. Air Force, U.S. Immigration and Customs Enforcement (ICE) and U.S. Customs and Border Protection as well as retailers. </p><p>U.S. Customs and Border Protection has contracted with Altana since 2023, using their global supply chain map, or “Atlas,” to help prevent products made with forced labor from entering the United States, according to a news release from Altana at the time of their contract. </p><p>&#8220;We&#8217;re excited to have Altana represented on our jerseys this season,&#8221; Gonzaga coach Mark Few said in the Gonzaga news release. &#8220;They&#8217;re an incredibly innovative and successful company, and we appreciate their support of Gonzaga Basketball and our student-athletes. It&#8217;s an exciting time for our program, and we&#8217;re looking forward to representing Altana on the court.&#8221;</p><p>Gonzaga becomes the second local Division I school to reach a jersey patch sponsorship in recent months. In June, Washington State announced a five-year, $8.43 million agreement with Colville Tribes to wear the company&#8217;s patch on all of its athletic uniforms.</p>",
+        "summary": "<p>Gonzaga will be debuting not one but two new patches on its men’s basketball jerseys in 2026-27.</p><p>Along with the Pac-12 Conference logo, Gonzaga players will wear a patch to represent the school’s newly announced partnership with Altana, an artificial intelligence network for supply chain management and trade commerce.</p><p>Gonzaga and other college programs around the country are taking advantage of jersey sponsorships as new revenue streams after receiving approval from the NCAA in January. As of Aug. 1, Division I teams can use up to two patches of no more than 4 square inches for regular-season games.</p><p>“Altana is an exceptional organization that represents innovation and forward thinking, and we are excited to welcome them as a partner of Gonzaga Athletics and Gonzaga Basketball,” Gonzaga Athletic Director Chris Standiford said in a school news release. “As we enter a new era for Gonzaga Athletics and begin competition in the Pac-12, we are grateful for Altana’s support and belief in our student-athletes and our program. We look forward to building a strong partnership together.”</p><p>Altana, founded in 2018 by Evan Smith, Peter Swartz and Raphael Tehranian and based in New York City, claims to be the world’s first AI network for global trade. The company uses AI to suggest efficient trade routes when considering factors like tariffs and regulations on forced labor, for example, according to its website.</p><p>The fast-growing company contracts with retailers shipping product across the globe. It uses AI models fed with public and private data to track each step a product takes in the global supply chain, sometimes down to its raw materials.</p><p>The company has notable partnerships with government agencies such as the U.S. Air Force, U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection, as well as retailers.</p><p>U.S. Customs and Border Protection has contracted with Altana since 2023, using their global supply chain map, or “Atlas,” to help prevent products made with forced labor from entering the United States, according to a news release from Altana at the time of their contract.</p><p>“We’re excited to have Altana represented on our jerseys this season,” Gonzaga coach Mark Few said in the Gonzaga news release. “They’re an incredibly innovative and successful company, and we appreciate their support of Gonzaga Basketball and our student-athletes. It’s an exciting time for our program, and we’re looking forward to representing Altana on the court.”</p><p>Gonzaga becomes the second local Division I school to reach a jersey patch sponsorship in recent months. In June, Washington State announced a five-year, $8.43 million agreement with Colville Tribes to wear the company’s patch on all of its athletic uniforms.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -2904,34 +2933,6 @@
         "channel_url": "",
         "source": "Gonzaga Athletics",
         "id": "b752b01de18dbbe0",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Former Gonzaga guard Malachi Smith inks contract with Toronto Raptors",
-        "link": "http://www.spokesman.com/stories/2026/aug/17/former-gonzaga-guard-malachi-smith-inks-contract-w/",
-        "link_kind": "item",
-        "date": "2026-08-17T00:00:00+00:00",
-        "summary": "<p>Four months after closing the 2025-26 NBA season against the Toronto Raptors, former Gonzaga guard Malachi Smith has signed a contract with the Eastern Conference franchise.</p><p>Per NBA rules, the terms of Smith’s deal were not disclosed by the organization.</p><p>Smith made his NBA debut last season with the Brooklyn Nets and played 15 games with the team in March and April, signing consecutive 10-day contracts before agreeing to a non-guaranteed deal to close out the regular season.</p><p>The guard became a free agent on July 10 when he was waived by Brooklyn and did not sign with a team to play NBA Summer League in Las Vegas.</p><p>Smith was productive and efficient in the limited minutes he played for Brooklyn last year, averaging 8.3 points, 3.4 rebounds and 3.3 assists on 48.5% shooting and 43.5% from the 3-point line.</p><p>He reached double figures in seven of his 15 games and wasn’t far off from a triple-double while scoring 19 points with 10 assists and eight rebounds on April 10 against the Milwaukee Bucks.</p><p>Smith saw an uptick in playing time near the end of the season, logging at least 36 minutes in each of his last four games, including 40 minutes against the Indiana Pacers and 43 against the Bucks. He closed the season with eight points, six assists and five rebounds against the Toronto team he signed with Monday.</p><p>Before a monthlong stint with the Nets, Smith played for Brooklyn’s G League affiliate in Long Island. Prior to that, the former Zag spent two seasons playing for three G League teams: the Rip City Remix (Portland Trail Blazers), Wisconsin Herd (Milwaukee Bucks) and Memphis Hustle (Memphis Grizzlies).</p><p>Smith spent one season at Gonzaga in 2022-23 after playing two seasons at Chattanooga and one at Wright State. He earned West Coast Conference Sixth Man of the Year honors after averaging 8.7 points, 3.6 rebounds and 1.4 assists while making 53.6% of his shots from the field and shooting an impressive 50% from the 3-point line.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "8f8265080e77768f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Few Enshrined into Naismith Basketball Hall of Fame",
-        "link": "https://gozags.com/news/2026/8/15/mens-basketball-few-enshrined-into-naismith-basketball-hall-of-fame",
-        "link_kind": "item",
-        "date": "2026-08-16T07:36:00+00:00",
-        "summary": "<img alt=\"Basketball: Naismith Basketball Hall of Fame Enshrinement\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/16/img_tag_reuters.com_2026_newsml_MT1USATODAY29595234_353975829_DN3Yv.jpg\" /><br /><br />SPRINGFIELD, Mass. – Flanked by three men who represented different facets of his journey, Gonzaga men's basketball coach Mark Few officially joined the game's legends Saturday night, becoming a member of the 2026 class inducted into the Naismith Memorial Basketball Hall of Fame.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "8e97a9ab9b30c86f",
         "sport": "mbb",
         "medium": "text"
       }
@@ -4537,20 +4538,6 @@
         "id": "a47276b018acefda",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "Defense Shines in First Saturday at Snapdragon Stadium Scrimmage",
-        "link": "https://goaztecs.com/news/2026/08/16/defense-shines-in-first-saturday-at-snapdragon-stadium-scrimmage",
-        "link_kind": "item",
-        "date": "2026-08-16T04:10:02+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "2ae4e14f145d95da",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
@@ -5283,6 +5270,21 @@
     ],
     "Washington State": [
       {
+        "title": "Bring on the new Pac-12! (Episode 260)",
+        "link": "https://podcastvseveryone.podbean.com/e/bring-on-the-new-pac-12-episode-260/",
+        "link_kind": "item",
+        "date": "2026-09-30T05:33:50+00:00",
+        "summary": "<p>Don't forget to subscribe to the newsletter! Episodes direct to your inbox, plus other written musings from Jeff. <a href='http://podcastvseveryone.com/'>podcastvseveryone.com</a></p>\n<p>A loss to Arizona at home closed out the non-conference slate, and interestingly, it unfolded in quite a different fashion -- with WSU starting strong and fading late. We look at what we learned through these first four games, and what it might mean for our initial foray into the rebuilt Pac-12, which starts on Saturday against Fresno State.</p>\n<p>Plus, beers, soccer, and volleyball! Once again, we featured questions and comments from our premium subscribers. If you don't want to wait for the pod and you want to get in on some of that live stream action, head to <a href='http://podcastvseveryone.com/upgrade'>podcastvseveryone.com/upgrade</a> and join us! The first 30 days are free.</p>\nNotes\n<p>Podcast music by Randy England. <a href='https://www.instagram.com/randyenglandmusic/'>You can find more of his work on Instagram</a>.</p>\n<p>You can also subscribe to the show on your favorite podcast services:</p>\n<ul>\n<li>\n<p><a href='https://podcasts.apple.com/us/podcast/podcast-vs-everyone/id1449847880?mt=2'>Apple Podcasts</a>  </p>\n</li>\n<li>\n<p><a href='https://open.spotify.com/show/5mN2nUMA3KH095WAYYiOaf'>Spotify</a> </p>\n</li>\n<li>\n<p><a href='https://www.youtube.com/@PodVsEveryone'>YouTube</a></p>\n</li>\n<li>\n<p>Or, manually add this feed to your podcast app of choice: <a href='https://feed.podbean.com/podcastvseveryone/feed.xml'>https://feed.podbean.com/podcastvseveryone/feed.xml</a></p>\n</li>\n</ul>",
+        "author": "",
+        "duration": 3343,
+        "channel_url": "",
+        "source": "Podcast Vs. Everyone",
+        "id": "2e7f1aaff29cbac6",
+        "extent": "56 min",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
         "title": "Pro Cougs Week 3: Ward’s play spirals as Lucas becomes questionable",
         "link": "https://dailyevergreen.com/199613/sports/football/pro-cougs-week-3-wards-play-spirals-as-lucas-becomes-questionable/",
         "link_kind": "item",
@@ -5301,7 +5303,7 @@
         "link": "http://www.spokesman.com/stories/2026/sep/29/how-can-wsu-get-its-running-backs-more-involved-in/",
         "link_kind": "item",
         "date": "2026-09-29T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Think back to January, when Washington State coach Kirby Moore pulled off what was seen at the time as a monumental move, putting together a three-man running back room that figured to gash opponents this fall.</p><p>Kirby Vorhees, last year’s starter, was planning on entering the transfer portal but decided to return to WSU the night before it opened. Tailback Maxwell Woods also returned to the team. And fellow running back Leo Pulalasi entered the portal, only to reverse course and also sign a new NIL revenue-sharing deal with the Cougars.</p><p>Especially under a head coach like Moore, whose best offenses at Missouri involved a productive ground attack, it seemed like the Cougs had struck gold with the return of their top three running backs.</p><p>Now let’s fast forward to this last week of September, after WSU’s 1-3 start to the season, the record the Cougars were expected to open the season with. It’s one thing that the Cougs’ offense has struggled in most of these outings. It’s another that one of the bigger culprits is their ground attack, or lack thereof, which has hampered what Moore and offensive coordinator Matt Miller had planned for quarterback Caden Pinnick’s offense.</p><p>WSU deserves some amount of credit for gashing FCS Duquesne for 316 rushing yards earlier this month, especially because Woods and Vorhees each cleared the 100-yard mark, but it’s also true that the Cougars did that against one of the FCS ranks’ worst defenses. What’s likely more informative is how they’ve fared against FBS competition, even if there’s been something of a talent gap in those games.</p><p>In a loss to Washington, WSU’s running back trio combined for 38 yards. In a setback to Kansas State, those three combined for 74. And on Saturday in a defeat to Arizona, they tallied just 59 yards between them. That adds up to 171 yards, which is 57 yards per game – not exactly eyebrow-raising in the way Moore was hoping for ahead of the season.</p><p>That forces Moore and Miller to find a way to get them more involved, to find ways to increase their production. How can they do that? Perhaps one way involves getting them more targets in the passing game, which they haven’t enjoyed much of so far.</p><p>“We gotta find ways to get them matched up,” Moore said. “They make it tough, Arizona does, with how much they pressure because you are worried about the quarterback being hot at times, and you wanna make sure you’re protecting him as much as you can. And then we gotta stay on the field. That’s the best way to get the backs more touches, right? We gotta convert on third downs. The four drives there in the third quarter, we had three punts and a turnover. That’s not good enough.”</p><p>Moore had a point. In Saturday’s third quarter, the Cougars punted on three drives and lost a fumble on another, which happened when Pinnick was trying to escape pressure and attempted to throw the ball away while getting dragged down. That was Pinnick’s fifth turnover of the season and WSU’s seventh as a team.</p><p>Perhaps more to the point, WSU went 0-for-7 on third down in the second half. That didn’t just take away chances for the Cougars to score. It also removed opportunities for WSU’s tailbacks to involve themselves in the offense, which in turn could have opened things up for Pinnick and Co. Many of WSU’s problems on offense this season have run together, creating an amalgamation of issues. This is no different.</p><p>Consider this stat: This season, WSU running backs have been targeted as receivers a combined 22 times. They’ve hauled in receptions on 14 of those times. That comes out to a completion percentage of 64%, a few ticks up from Pinnick’s overall completion rate of 61%. That seems to suggest the Cougars could do well to incorporate more of that in their offense.</p><p>WSU gets a chance to prove it on Saturday with a home matchup against Frenso State, which figures to provide more chances to do so than the Power 4 teams that the Cougars’ offense has struggled against.</p>",
+        "summary": "<p>PULLMAN – Think back to January, when Washington State coach Kirby Moore pulled off what was seen at the time as a monumental move, putting together a three-man running back room that figured to gash opponents this fall.</p><p>Kirby Vorhees, last year’s starter, was planning on entering the transfer portal but decided to return to WSU the night before it opened. Tailback Maxwell Woods also returned to the team. And fellow running back Leo Pulalasi entered the portal, only to reverse course and also sign a new NIL revenue-sharing deal with the Cougars.</p><p>Especially under a head coach like Moore, whose best offenses at Missouri involved a productive ground attack, it seemed like the Cougs had struck gold with the return of their top three running backs.</p><p>Now let’s fast forward to this last week of September, after WSU’s 1-3 start to the season, the record the Cougars were expected to open the season with. It’s one thing that the Cougs’ offense has struggled in most of these outings. It’s another that one of the bigger culprits is their ground attack, or lack thereof, which has hampered what Moore and offensive coordinator Matt Miller had planned for quarterback Caden Pinnick’s offense.</p><p>WSU deserves credit for gashing FCS Duquesne for 316 rushing yards earlier this month, especially because Woods and Vorhees each cleared the 100-yard mark, but it’s also true that the Cougars did that against one of the FCS ranks’ worst defenses. What’s likely more informative is how they’ve fared against FBS competition, even if there’s been something of a talent gap in those games.</p><p>In a loss to Washington, WSU’s running back trio combined for 38 yards. In a setback to Kansas State, those three combined for 74. And on Saturday in a defeat to Arizona, they tallied just 59 yards between them. That adds up to 171 yards, which is 57 yards per game – not exactly eyebrow-raising in the way Moore was hoping for ahead of the season.</p><p>That forces Moore and Miller to find a way to get them more involved, to find ways to increase their production. How can they do that? Perhaps one way involves getting them more targets in the passing game, which they haven’t enjoyed much so far.</p><p>“We gotta find ways to get them matched up,” Moore said. “They make it tough, Arizona does, with how much they pressure because you are worried about the quarterback being hot at times, and you wanna make sure you’re protecting him as much as you can. And then we gotta stay on the field. That’s the best way to get the backs more touches, right? We gotta convert on third downs. The four drives there in the third quarter, we had three punts and a turnover. That’s not good enough.”</p><p>Moore had a point. In Saturday’s third quarter, the Cougars punted on three drives and lost a fumble on another, which happened when Pinnick was trying to escape pressure and attempted to throw the ball away while getting dragged down. That was Pinnick’s fifth turnover of the season and WSU’s seventh as a team.</p><p>Perhaps more to the point, WSU went 0-for-7 on third down in the second half. That didn’t just take away chances for the Cougars to score. It also removed opportunities for WSU’s tailbacks to involve themselves in the offense, which in turn could have opened up things  for Pinnick and Co. Many of WSU’s problems on offense this season have run together, creating an amalgamation of issues. This is no different.</p><p>Consider this stat: This season, WSU running backs have been targeted as receivers a combined 22 times. They’ve hauled in receptions on 14. That comes out to a completion percentage of 64, a few ticks up from Pinnick’s 61% overall completion rate . That seems to suggest the Cougars could do well to incorporate more of that in their offense.</p><p>WSU gets a chance to prove it on Saturday with a home matchup against Fresno State, which figures to provide more chances to do so than the Power 4 teams that the Cougars’ offense has struggled against.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
