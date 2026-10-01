@@ -10715,6 +10715,345 @@
       ],
       "extent": "8 min read",
       "run": "run_2026-09-30-1340"
+    },
+    "15f1ab52d9d3db1d": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about",
+        "gonzaga/mens-soccer": "involves",
+        "oregon-state/mens-soccer": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews SDSU men's soccer's Pac-12 calendar, with substantive treatment of its two conference peers that field the sport.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Novalyne Petreikis",
+        "Justin Whitehead"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "225fb20cae31c638": {
+      "subjects": {
+        "oregon-state": "about",
+        "san-diego-state": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary announce Oregon State basketball's Pac-12 opener hosting San Diego State without stating men's or women's.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-01-0142"
+    },
+    "2fb5496d3d952120": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story covers former Gonzaga point guard Ryan Nembhard's NBA signing, in-scope coverage of an alum's pro career.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-01-0142"
+    },
+    "3bbc56ab12c73ab9": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece ranks and previews Gonzaga women's basketball's nonconference opponents ahead of the season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tristan Freeman"
+      ],
+      "extent": "7 min read",
+      "lock": "free",
+      "run": "run_2026-10-01-0142"
+    },
+    "3c11d02d2f253c80": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Washington",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Cal",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Colorado",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "This Panic Meter column gives Washington State and San Diego State football each a full, substantive entry among several teams rated.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "4908381e0d147f1b": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece reports Fresno State men's basketball's full inaugural Pac-12 conference schedule for 2027.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "4c0620c6246cffb1": {
+      "subjects": {
+        "san-diego-state/womens-soccer": "about",
+        "boise-state/womens-soccer": "involves",
+        "utah-state/womens-soccer": "involves",
+        "texas-state/womens-soccer": "involves",
+        "gonzaga/womens-soccer": "involves",
+        "washington-state/womens-soccer": "involves",
+        "colorado-state/womens-soccer": "involves",
+        "fresno-state/womens-soccer": "involves",
+        "oregon-state/womens-soccer": "involves",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews the inaugural Pac-12 women's soccer slate with records and matchup detail for all nine schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ava Bocek",
+        "Chris Sabblut"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "4c215da1ed8d8c1d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish Oregon State football is addressing a season-high in penalty yards and a lack of discipline.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-01-0142"
+    },
+    "4d8e5953918a9df8": {
+      "subjects": {
+        "washington-state/mens-basketball": "about",
+        "fresno-state/mens-basketball": "involves",
+        "boise-state/mens-basketball": "involves",
+        "san-diego-state/mens-basketball": "involves",
+        "colorado-state/mens-basketball": "involves",
+        "utah-state/mens-basketball": "involves",
+        "gonzaga/mens-basketball": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece details Washington State men's basketball's full 2026-27 schedule with game-by-game detail against most conference opponents.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-01-0142"
+    },
+    "7753098fa82f623e": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "texas-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "colorado-state/football": "involves",
+        "washington-state/football": "involves",
+        "utah-state/football": "involves",
+        "boise-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews SDSU football's full Pac-12 slate with substantive stats on nearly every conference opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Viviana Ruiz"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "943c57b17fa56026": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about",
+        "washington-state/mens-basketball": "involves",
+        "colorado-state/mens-basketball": "involves",
+        "fresno-state/mens-basketball": "involves",
+        "boise-state/mens-basketball": "involves",
+        "oregon-state/mens-basketball": "involves",
+        "texas-state/mens-basketball": "involves",
+        "san-diego-state/mens-basketball": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece details Gonzaga's full 2026-27 men's basketball schedule with game-by-game treatment of nearly every conference opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-01-0142"
+    },
+    "98ef23e396276f1b": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary describe a freshman receiver's catches and touchdown in Oregon State's win over UTEP.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-01-0142"
+    },
+    "b44872df34f6c42a": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is about ASOSU student-government funding for a cultural event, not Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Gabriel Robinson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "b535daa3bebb49a5": {
+      "subjects": {
+        "texas-state/womens-soccer": "about",
+        "utah-state/womens-soccer": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Texas State women's soccer's Pac-12 opener against Utah State with stats on both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "b6362101bc3351bf": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary describe a position change on Oregon State's defense amid roster turnover, but do not name the sport.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The sport is never named; 'defense' and 'position change' could belong to football or another team sport, so only the department-level subject is confident.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-01-0142"
+    },
+    "c1fdccede1f4c10f": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "san-diego-state/volleyball": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece announces a free-ticket giveaway for WSU volleyball's first home Pac-12 match against San Diego State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "daa6f7e637153d32": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews SDSU football's Pac-12 opener against Texas State with detailed stats on both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Iain Henderson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "dca5b69713134100": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece analyzes Washington State football's underused running backs through four games.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-01-0142"
+    },
+    "fe3a3ead7f14640b": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece analyzes Washington State football's defensive snap-count workload this season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-01-0142"
     }
   },
   "runs": {
@@ -12154,6 +12493,52 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 12.357305999961682,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-01-0142": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-01T01:39:38.455936+00:00",
+      "items": 19,
+      "verdict_counts": {
+        "publish": 18,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 4
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "3c11d02d2f253c80",
+          "source": "The Seattle Times",
+          "phrase": "Washington",
+          "kind": "not-ours"
+        },
+        {
+          "id": "3c11d02d2f253c80",
+          "source": "The Seattle Times",
+          "phrase": "Cal",
+          "kind": "not-ours"
+        },
+        {
+          "id": "3c11d02d2f253c80",
+          "source": "The Seattle Times",
+          "phrase": "Colorado",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 40.81265690003056,
       "tokens": null,
       "tokens_source": null
     }
