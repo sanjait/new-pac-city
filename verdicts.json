@@ -11054,6 +11054,114 @@
       "extent": "5 min read",
       "lock": "paywall",
       "run": "run_2026-10-01-0142"
+    },
+    "1e6ece0c88f2633a": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary identify Oregon State football's cornerback depth as the subject ahead of its Pac-12 opener.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-01-1340"
+    },
+    "25ab82d4effa7215": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "washington-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves",
+        "utah-state/football": "involves",
+        "colorado-state/football": "involves",
+        "texas-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The transfer-portal roundup gives individual stat-backed entries to transfers now at seven of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-01-1340"
+    },
+    "7a014904566d5f01": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story's subject is North Dakota State's custom uniform and Mountain West debut, and NDSU is not one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-01-1340"
+    },
+    "7bc980aed8480abc": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves",
+        "fresno-state/football": "involves",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves",
+        "washington-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The bowl projections repeatedly place and discuss Oregon State, Boise State, Texas State, Fresno State, Colorado State, San Diego State, and Washington State across multiple writers' picks.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-01-1340"
+    },
+    "97887baaa184513f": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article analyzes Washington State football's defensive snap counts and turnover troubles, with Fresno State's defensive ranking discussed as the next opponent.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Fresno State is named mainly as the upcoming opponent with only a brief stat comparison, so involves-versus-mentions is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-01-1340"
+    },
+    "ac7e1afa547466a9": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece covers San Diego State football's mumps outbreak, injuries, quarterback struggles, and coaching pressure in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-01-1340"
     }
   },
   "runs": {
@@ -12539,6 +12647,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 40.81265690003056,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-01-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-01T13:39:14.381102+00:00",
+      "items": 6,
+      "verdict_counts": {
+        "publish": 5,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "7a014904566d5f01",
+          "source": "Mountain West Connection",
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 12.394311800017022,
       "tokens": null,
       "tokens_source": null
     }
