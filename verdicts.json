@@ -11162,6 +11162,130 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-10-01-1340"
+    },
+    "113066e4c769baa1": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish that an Oregon State cornerback suffered a season-ending injury, naming the program and its athletics clearly enough to judge without the article body.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-02-0140"
+    },
+    "17ce355d0424c6e3": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Washington State Cougar hockey (Pac-8)",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Washington State's hockey team plays in an informal club-hockey circuit (\"Pac-8\") that is not among washington-state's listed programs, and the opponent is outside the nine schools as well.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-02-0140"
+    },
+    "39c07a0b5c22166c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Hawaii Rainbow Warriors vs San Jose State (Dick Tomey Legacy Trophy game)",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "This is a Mountain West Connection links roundup whose substantive items are MWC power rankings and a Hawaii-San Jose State trophy game, none of the nine schools; the only Pac-12 line is a single passing sentence noting its basketball schedule was released, with no team or game named.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The one-sentence note that the Pac-12 released its basketball schedule could be read as schedule/slate news, but it names no school or game, so it reads as a passing mention rather than something that figures substantively.",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-02-0140"
+    },
+    "6bcd3aefa963a573": {
+      "subjects": {
+        "conference": "about",
+        "washington-state/football": "about",
+        "oregon-state/football": "involves",
+        "colorado-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "utah-state/football": "involves",
+        "texas-state/football": "involves",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column's throughline is the rebuilt Pac-12's CFP positioning, with picks and commentary for four matchups played entirely between the nine schools: Oregon State-Colorado State, Utah State-Boise State, Fresno State-Washington State, and Texas State-San Diego State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-02-0140"
+    },
+    "aa68f662a9c76af3": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Gonzaga's Kraziness in the Kennel event, covering Braden Huff's return, roster eligibility questions, a transfer debut, and recruiting visits, all about Gonzaga men's basketball.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-02-0140"
+    },
+    "c35f7f3a007a932d": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary previews Oregon State's Pac-12 opener against Colorado State's offense, naming both programs and the football context clearly enough to judge.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-02-0140"
+    },
+    "e937fceb5f089e99": {
+      "subjects": {
+        "utah-state/womens-basketball": "about",
+        "utah-state/football": "about",
+        "utah-state/track-and-field": "about",
+        "utah-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article covers Utah State's Hall of Fame induction, giving substantial individual treatment to a women's basketball inductee, the 1960 and 1961 football teams, a track and field inductee, and a men's basketball inductee.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Quinton Papa"
+      ],
+      "extent": "59 min read",
+      "run": "run_2026-10-02-0140"
     }
   },
   "runs": {
@@ -12681,6 +12805,47 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 12.394311800017022,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-02-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-02T01:38:57.612505+00:00",
+      "items": 7,
+      "verdict_counts": {
+        "publish": 5,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 1,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "17ce355d0424c6e3",
+          "source": "The Daily Evergreen",
+          "phrase": "Washington State Cougar hockey (Pac-8)",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "39c07a0b5c22166c",
+          "source": "Mountain West Connection",
+          "phrase": "Hawaii Rainbow Warriors vs San Jose State (Dick Tomey Legacy Trophy game)",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 16.855481300037354,
       "tokens": null,
       "tokens_source": null
     }
