@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-10-01T13:03:34.648079+00:00",
+  "generated_at": "2026-10-02T01:03:11.087994+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Mountaintop View 10-1-26",
+        "link": "https://www.mwcconnection.com/mountain-west-news/93374/mountain-west-pac-12-football-basketball-rankings-playoff",
+        "link_kind": "item",
+        "date": "2026-10-01T13:00:00+00:00",
+        "summary": "Pac-12 Unveils 2026-27 Men&#8217;s Basketball Schedule We are a little over a month out from college basketball season and the Pac-12 has finally released their conference schedule. This figures to be a formidable league. Mountain West rankings: Wyoming, Air Force bolster positions with league-opening wins Chris Murray of NevadaSportsNet posts his weekly Mountain West rankings. [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "39c07a0b5c22166c",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "AZTECS STRUGGLE WITH KEY INJURIES & DEPARTURES",
         "link": "https://www.mwcconnection.com/san-diego-state-football/93308/aztecs-injuries-departures-frustration-heading-into-conference-play",
@@ -167,20 +181,6 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "d5b27e5f6b746ab0",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Jack’s back on Bison 1660 Radio! Are San Diego State & Hawaii doomed? Revealing the THREE TRUE CFP Contenders w/ their paths & odds! MW/PAC-12 Games of the Week Preview/Prediction! HP Ep. #172 OUT NOW!",
-        "link": "https://www.mwcconnection.com/podcast/93294/mountain-west-pac-12-football-podcast-bison-1660-north-dakota-state-interview-hawaii-san-diego-boise-new-mexico-wyoming",
-        "link_kind": "item",
-        "date": "2026-09-29T14:00:00+00:00",
-        "summary": "Welcome back everyone to the Hike’s Peak podcast, thank you for coming back to the mountain! A wild week of football left some schools heading towards new heights and others spiraling towards the bottom. We’ll kick the show off with an investigation on what’s going wrong with San Diego State, who looks unrecognizable after their [&#8230;]",
-        "author": "Jack Thompson",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "8067cf108c19b1d7",
         "sport": "all",
         "medium": "text"
       },
@@ -481,6 +481,48 @@
     ],
     "Boise State": [
       {
+        "title": "Boise State Begins Pac-12 Play Against Utah State",
+        "link": "https://broncosports.com/news/2026/10/1/football-boise-state-begins-pac-12-play-against-utah-state",
+        "link_kind": "item",
+        "date": "2026-10-01T22:00:00+00:00",
+        "summary": "<img alt=\"Boise State Week 5 Gameday\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/30/FB26-Game-Preview-WK5-USU.jpg\" /><br /><br />Boise State will compete in its first Pac-12 matchup on Saturday, Oct. 3 when it faces off against Utah State. Kickoff is scheduled for 5:30 p.m. MT at Albertsons Stadium.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "56876cb83173fa43",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "In Their Words: The 2007 Fiesta Bowl",
+        "link": "https://broncosports.com/news/2026/10/1/in-their-words-the-2007-fiesta-bowl",
+        "link_kind": "item",
+        "date": "2026-10-01T21:00:00+00:00",
+        "summary": "<img alt=\"2007 Fiesta Bowl\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/29/Fiesta_Bowl_B1_Feature_WEB.jpg\" /><br /><br />Boise State Football will recognize its 2007 Fiesta Bowl team during the Pac-12 opener against Utah State on Oct. 3. Before the 20th anniversary celebration, 20 people who played a role in the iconic game took time to speak about their experience. This is the 2007 Fiesta Bowl, in their words.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "5ea0bb6bb90a053b",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Chris and Barbara Petersen become 350th Lyle Smith Society Members",
+        "link": "https://broncosports.com/news/2026/10/1/general-chris-and-barbara-petersen-become-350th-lyle-smith-society-members",
+        "link_kind": "item",
+        "date": "2026-10-01T16:15:00+00:00",
+        "summary": "<img alt=\"Chris and Barbara Petersen Lyle Smith Society\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/28/Chris_and_Barbara_Peterson_Webslider__1_.jpg\" /><br /><br />Petersen's legacy continues to impact Bronco Athletics",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "7df25b546fbf6460",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Week Five Availability Report",
         "link": "https://broncosports.com/news/2026/9/30/football-week-five-availability-report",
         "link_kind": "item",
@@ -679,48 +721,6 @@
         "channel_url": "",
         "source": "Boise State Athletics",
         "id": "8ccd1a3e92811725",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Ends Nonconference Slate at Western Michigan",
-        "link": "https://broncosports.com/news/2026/9/24/football-boise-state-ends-nonconference-slate-at-western-michigan",
-        "link_kind": "item",
-        "date": "2026-09-24T22:00:00+00:00",
-        "summary": "<img alt=\"Week Four Game Preview\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/22/FB26-Game-Preview-WK4-WMU.jpg\" /><br /><br />Boise State will conclude nonconference play on Saturday, Sept. 26 with a critical matchup against Western Michigan. Kickoff is scheduled for 1:30 p.m. MT.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "7113da66db2b7840",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Representing Something Bigger Than Himself",
-        "link": "https://broncosports.com/news/2026/9/24/b-1-features-representing-something-bigger-than-himself",
-        "link_kind": "item",
-        "date": "2026-09-24T21:00:00+00:00",
-        "summary": "<img alt=\"Roman Caywood B1 Feature web slider\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/22/Roman_web_slider.jpg\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "5217afb17afe3eda",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Adds Western Illinois to 2027 Slate",
-        "link": "https://broncosports.com/news/2026/9/24/football-boise-state-adds-western-illinois-to-2027-slate",
-        "link_kind": "item",
-        "date": "2026-09-24T19:00:00+00:00",
-        "summary": "<img alt=\"Boise State Football Game Announcement vs. Western Illinois\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/23/FB25-Idaho-State-Game-Announcement-WEB.jpg\" /><br /><br />The game is set for the first week of the season on Aug. 28, 2027 and will be the first matchup in program history between the two programs.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "cd1eed31f82528a2",
         "sport": "football",
         "medium": "text"
       },
@@ -1157,6 +1157,20 @@
     ],
     "Colorado State": [
       {
+        "title": "Memorable Moments: Rams Ready to Enter a New Conference",
+        "link": "https://csurams.com/news/2026/10/1/football-memorable-moments-rams-ready-to-enter-a-new-conference",
+        "link_kind": "item",
+        "date": "2026-10-01T21:00:00+00:00",
+        "summary": "<img alt=\"mm\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/31/MMWeek5.jpg\" /><br /><br />Rams get first chance to make conference debut at home",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "cb488ed9f0c2dee7",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Colorado State Insider Podcast with Brian Roth -- Season 10, Episode 8",
         "link": "https://csurams.com/news/2026/9/30/football-colorado-state-insider-podcast-with-brian-roth-season-10-episode-8",
         "link_kind": "item",
@@ -1367,20 +1381,6 @@
         "source": "Colorado State Athletics",
         "id": "bfdc80b81955a59e",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Game Program: Colorado State vs. UTSA",
-        "link": "https://csurams.com/news/2026/9/24/football-game-program-colorado-state-vs-utsa",
-        "link_kind": "item",
-        "date": "2026-09-24T23:46:00+00:00",
-        "summary": "<img alt=\"Game Program vs UTSA\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/24/FB26_-_Game_Poster_template_for_website_16x9__2_.jpg\" /><br /><br />The Rams head on the road for the first time this season. Check out the Week 4 game program.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "b2f1bd19a1ead2c1",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -2554,6 +2554,34 @@
     ],
     "Gonzaga": [
       {
+        "title": "Numerica Kraziness in the Kennel set for Saturday",
+        "link": "https://gozags.com/news/2026/10/1/mens-basketball-numerica-kraziness-in-the-kennel-set-for-saturday",
+        "link_kind": "item",
+        "date": "2026-10-02T00:08:00+00:00",
+        "summary": "<img alt=\"2025 kraziness sold out\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/2/kraziness_sold_out_1920x1080.jpg\" /><br /><br />SPOKANE, Wash. – Gonzaga men's basketball hosts the annual Numerica Kraziness in the Kennel Saturday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "0cd964034ee48fc6",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Braden Huff's return and four other things to watch at Gonzaga's Kraziness in the Kennel",
+        "link": "http://www.spokesman.com/stories/2026/oct/01/braden-huffs-return-and-four-other-things-to-watch/",
+        "link_kind": "item",
+        "date": "2026-10-01T00:00:00+00:00",
+        "summary": "<p>The exact makeup of Gonzaga’s 2026-27 roster remains unclear one month out from the season opener, but the group of players Mark Few and his staff assembled will take the floor for the first time on Saturday at Kraziness in the Kennel.</p><p>The annual preseason showcase, sold out as of Thursday afternoon, will start at 2 p.m. at McCarthey Athletic Center with player introductions followed by hype videos, a 3-point shooting contest, skills contest, intrasquad scrimmage and player/coach speeches. ESPN’s Sean Farnham is emceeing for the third straight year and SWX will carry the live broadcast.</p><p>While it’s often difficult to learn much from an abbreviated scrimmage between teammates in the early stages of October, this year’s Kraziness could be more compelling than years past. We break down five of the reasons below.</p><h3>B-Huff is back</h3><p>Braden Huff may end up owning a few more Gonzaga scoring and efficiency records by the time his college career ends but he already holds one, posting the top two scoring totals in Kraziness history, with 19 points in 2023 as a true freshman and 17 last season.</p><p>Huff’s scoring total won’t necessarily be what fans are focused on when the 6-foot-10 forward takes the floor for the first time since dislocating his kneecap in mid-January, forcing him to miss Gonzaga’s final 17 games in 2025-26.</p><p>The real story will be Huff’s strength, mobility and conditioning nine months removed from the injury that prematurely ended his junior season. The crafty forward who led the country in 2-point field goals before his injury has been back on the floor for at least the last two months without any limitations, but the Zags are still slow-playing his return and it’s unclear how many of the 20 minutes he’ll play during Saturday’s scrimmage.</p><p>Either way, his return to the floor, and to Gonzaga’s roster, is why many think the Zags will have a chance to play deep into the 2027 NCAA Tournament.</p><p>“We’ve been very, very, very conservative with him, especially this summer,” Few told The Spokesman-Review during Naismith Hall of Fame festivities in August. “There’s no need for him to do that. He’s in great shape and looks good.”</p><h3>Who’s actually available?</h3><p>This is a question we might be revisiting before both of Gonzaga’s exhibitions, prior to the Nov. 2 opener against Purdue and throughout the early stages of the regular season.</p><p>Similar to a handful of schools around the country, Gonzaga continues to wait on eligibility lawsuits and international waiver decisions that will determine whether starters and key rotation players can actually compete this season.</p><p>Fifth-year transfers Xaivian Lee (Florida), Javon Bennett (Dayton) and Chauncey Wiggins (Florida State) are currently involved in lawsuits that will determine whether they can suit up, with no real clarity on when verdicts will arrive.</p><p>Lee is currently eligible under a temporary restraining order, but still needs a favorable decision from the Superior Court of Santa Clara County on Oct. 20. Bennett and Wiggins earned preliminary injunctions in Ohio and Georgia, but are now ineligible after courts in both states granted an emergency stay motion, revoking the pair’s eligibility until their individual cases are heard.</p><p>Spanish forward Izan Almansa is the fourth player in limbo as the Real Madrid product waits on the NCAA to process his international eligibility waiver. Slowly but surely, the sport’s governing body is getting to waivers filed by basketball players and recently approved Gonzaga point guard Nathan De Sousa, a native of France, but Almansa’s wait continues into the first week of October.</p><p>All four players are on campus, listed on the web roster Gonzaga published earlier this week and depicted in player posters at the Volkar Center, but Lee, Bennett, Wiggins and Almansa haven’t been formally announced by the school at this point, nor have they been featured in social media photos shared by the basketball program.</p><p>Will the quartet of players participate in Kraziness? Outside of Huff’s return, it’s probably the most intriguing storyline leading into this year’s event. For reference, Tyon Grant-Foster obtained a practice waiver that enabled him to take part in Kraziness last year while the NCAA reviewed his eligibility case. When Grant-Foster’s eligibility waiver was denied the following week, his practice waiver became inactive.</p><h3>Diop’s debut</h3><p>Between unexpected point guard issues, 5-in-5 court cases and looming uncertainty around international transfers, it’s easy to forget Gonzaga’s offseason started with a bang in the transfer portal.</p><p>The Zags won a high-stakes bidding war with Rick Pitino and St. John’s for 7-foot Arizona State transfer Massamba Diop, widely considered to be the top center available during the most recent portal cycle.</p><p>Diop is technically listed at 7-1 and 245 pounds on GU’s new roster and Zag fans will have a chance to see the towering sophomore in person for the first time – or at least for the first time since last November, when he had 11 points, four rebounds and two blocks in a 77-65 loss to his new teammates in Tempe, Arizona.</p><p>“We haven’t had somebody like him,” Few said. “So big, so athletic, lob-catcher, rim-protector. Maybe (Ronny) Turiaf or somebody would be the closest one we’ve had over the years, I’d have to think about that. Great personality, plays with joy but also kind of work in progress.”</p><p>The Zags are hopeful Diop can impact the game on both ends of the floor, but defensive rim protection could be his most valuable asset to this team, considering the offensive firepower they’ll have elsewhere, particularly with Huff and sophomore wing Davis Fogle.</p><h3>First day of school (and Kraziness)</h3><p>The impact of Gonzaga’s freshman class could largely hinge on the eligibility of the four players we mentioned earlier, but all three of Luca Foster, Sam Funches and Juwan Ekanga should get significant run Saturday afternoon in a scrimmage setting.</p><p>While this may not be considered one of Gonzaga’s best freshman classes, it definitely is not among the worst either. Foster, Funches and Ekanga make up a well-rounded group consisting of two top-50 high school prospects that selected Few’s program over a handful of power conference suitors and an intriguing international prospect who’s already played games in France’s top professional league.</p><p>It’s also a good time to remind fans Fogle wasn’t projected to play a high-usage role for the Zags in the lead-up to Kraziness last year, let alone crack the team’s rotation at any point. Injuries and inconsistent play from others at his position eventually made Fogle the team’s sixth man and the freshman wing went on to average double figures the final two months of the season.</p><p>If all three 5-in-5 transfers and Almansa are eligible to compete this year, it’s unlikely Gonzaga would have to lean heavily on its freshman class, but last season reaffirmed how quickly things can change.</p><p>In any event, Saturday’s scrimmage gives Foster, Funches and Ekanga the chance to show how they’ve developed since arriving on campus and perhaps which of the three would be best-equipped to step into Gonzaga’s rotation if the situation calls for it.</p><h3>Roebuck returns</h3><p>The Zags have a solid hit rate when it comes to signing recruits who visit campus during Kraziness weekend.</p><p>They picked up a commitment from Funches within a week of last year’s event, signed four-star guard Dusty Stromer months after his visit in 2022 and, most notably, went 4-for-4 with Jalen Suggs, Chet Holmgren, Julian Strawther and Dominick Harris after the group of four- and five-star prospects traveled to Spokane in 2019.</p><p>Another important recruiting weekend is in store for the Zags, with four-star guard Gene Roebuck returning to the Kennel for his official visit. Roebuck traveled from La Mirada, California, last year for an unofficial visit that coincided with GU’s opener, but the 45th-ranked player in the class of 2027 is returning to Spokane after taking official visits to California and Washington earlier this fall.</p><p>A 6-foot-4, 180-pound combo guard, Roebuck is a consensus four-star prospect according to major recruiting services, the No. 9-ranked guard in the class and No. 4-ranked player in California.</p><p>The Zags currently have one player, five-star guard Dooney Johnson, committed in the 2027 class. Five-star guard Jalen Davis, a Bremerton High School standout, is also scheduled to take an official visit to the Kennel on Nov. 7 for GU’s nonconference game against New Mexico State.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "aa68f662a9c76af3",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "MBB Announces 2026-27 Men's Basketball Schedule",
         "link": "https://gozags.com/news/2026/9/30/mbb-announces-2026-27-mens-basketball-schedule",
         "link_kind": "item",
@@ -3044,20 +3072,6 @@
         "medium": "text"
       },
       {
-        "title": "How Gonzaga's offseason evolved into a roster-building roller coaster: 'Like nothing we've ever seen'",
-        "link": "http://www.spokesman.com/stories/2026/aug/20/how-gonzagas-offseason-evolved-into-a-roster-build/",
-        "link_kind": "item",
-        "date": "2026-08-20T00:00:00+00:00",
-        "summary": "<p>The catalogue of words Mark Few could use to describe Gonzaga’s offseason is too long to run through, but the newly enshrined Hall of Fame coach landed on some appropriate terms during a breakdown of the five-ish months that have elapsed since his team exited the NCAA Tournament with a Round of 32 loss to Texas.</p><p>First, there was “frustrating,” followed by “not usual” and finally “crazy.”</p><p>“Like nothing we’ve ever seen and it’s been frustrating, but it’s just different in this day and age,” Few said last weekend during a media session at Mohegan Sun Casino in Uncasville, Connecticut, one day before he was enshrined into the Naismith Hall of Fame. “It’s been not usual, but like we just got done talking about, you have to adapt.”</p><p>“Turbulent” might be another term to characterize the roster-building roller coaster Few and his coaching staff have navigated since the early stages of April.</p><p>Just 44 days out from Kraziness in the Kennel, Gonzaga has eight scholarship players officially signed to its 2026-27 roster with two more walk-ons. In other words, if the Zags held their annual Kraziness showcase tomorrow, they’d have exactly the number of bodies required to run through a traditional 5-on-5 intrasquad scrimmage, but no more than that.</p><p>A full roster is still expected the time Gonzaga opens the season on Nov. 2 against Purdue for a potential top-25 showdown in Las Vegas, but it could hinge on a number of things well outside of Few’s control – something that’s become a primary source of angst for the new Hall of Famer and coaching peers around the country the last handful of months as they try to finalize their teams before the fall semester starts.</p><p>The issues Gonzaga faces now are partially a byproduct of unforeseen developments that came earlier in the offseason. When former signee Jack Kayil unexpectedly kept his name in the NBA Draft on May 13, most quality transfer portal options at his position had already committed to play elsewhere, limiting Gonzaga’s replacement options. (Kayil was selected No. 39 overall by the New York Knicks, but the combo guard will be stashed in Europe after signing a five-year extension with German club Alba Berlin).</p><p>The transfer portal was bone-dry when starting point guard Mario Saint-Supery abruptly left Gonzaga’s program, catching fans and Few’s coaching staff completely off guard on July 11 when he signed a four-year, seven-figure contract with Spanish ACB club Valencia.</p><p>Gonzaga had a contingency plan in place, but even that has come with complications.</p><p>On June 26, the Zags landed a commitment from French guard Nathan De Sousa, a 23-year-old professional who’s spent the last five seasons with Cholet of LNB Elite. De Sousa would’ve been a top-notch backup to Saint-Supery and could prove to be more than serviceable as a starter in the new Pac-12 Conference, but both he and Gonzaga forward commit Izan Almansa – a 6-foot-10 forward who played last season at Real Madrid – are still waiting on the NCAA to approve eligibility waivers.</p><p>In an attempt to prohibit highly compensated European pros from entering college basketball, the sport’s governing body indicated earlier this summer it would not clear any player who was paid above “actual and necessary expenses.”</p><p>“We’ve had several of the European kids that the NCAA’s kind of acted like they’re going to change how they interpret these and they didn’t even do it midstream, they did it when you’re already through your recruiting cycle, which has just been crazy,” Few said. “We voiced our concerns, all of us coaches have to them. We don’t know what’s going to happen with how they rule Europeans, even though they were letting everyone in last year. Now the five-year thing has happened&#8230;”</p><p>Ah yes, the five-year thing.</p><p>Gonzaga’s second contingency plan has transformed into a late-summer headache for coaches and players around the country. It stems from the NCAA’s decision in late June to adopt age-based eligibility rules, allowing athletes to play five seasons over five years.</p><p>The new rules weren’t intended to grandfather in seniors who completed their eligibility in 2025-26, but the NCAA’s timing gave a large crowd of fifth-year hopefuls a long enough runway to challenge the regulatory body in court with hopes of securing another season.</p><p>“Listen, I think if the courts are going to rule them eligible and they’re eligible, I don’t know why anybody would ever say anything about them,” Few said. “I think many people have spoke about how that particular class is the only one that hasn’t had this. Moving forward they’re going to have it and behind them was COVID. It’s one class so you’re like, ‘yeah they’re right.’ ”</p><p>Now, less than two months out from preseason exhibition games, programs like Gonzaga have made late-summer additions fill holes at certain positions and generally erase any lingering uncertainty around their rosters.</p><p>The result? More uncertainty.</p><p>Gonzaga picked up two quick commitments, one from 5-10 Dayton point guard Javon Bennett, who was ruled eligible after prevailing in an Ohio lawsuit, and another from 6-10 Florida State wing Chauncey Wiggins, who won a similar case in his home state of Georgia.</p><p>Neither have signed financial aid agreements with Gonzaga, and there’s some apprehension around Bennett’s situation after the NCAA was granted a motion to stay the Ohio case on Monday, potentially reversing the guard’s eligibility. Bennett is still protected by the federal <em>Wisne vs. NCAA</em> injunction approved earlier this month in Colorado, but the guard could encounter another hurdle if the NCAA is also granted a stay in that case.</p><p>“It’s definitely a crazy time in college basketball,” Bennett said. “For me, when I heard I was left out of that 5-in-5 window, I was definitely devastated. I think if you’re going to give players after us a chance, I don’t see why we wouldn’t be able to get a chance. I think it’s fair for us to appeal to that situation and like I said, I think kids that have somewhere to play will be able to benefit from the 5-in-5.”</p><p>Wiggins, who could figure into Gonzaga’s starting lineup at the small forward spot after averaging 13.3 pints and making 38.7% of his 3-pointers last season, is on solid ground for the time being as someone protected by both the Georgia and Colorado federal lawsuits.</p><p>“I do think the NCAA should’ve grandfathered us in,” Wiggins said. “The way I see it is, when my class got into college we played against fifth-year and sixth-years. Then when we’re about to leave college, you’re telling me you’re going to give everybody after us five years. And some of us, I think like me still fit that age. The age requirement they were talking about, I fit that. Some of us in the 2022 class fit that, so I think the NCAA personally should’ve gave us another year.</p><p>“College sports is college sports, it’s got some chaos right now. I do think they will appeal – I don’t really know, but I think they might appeal the Colorado one because that was for everybody and it came out of the blue.”</p><p>Coaches who’ve already finalized their rosters, or refuse to dip into the 5-in-5 pool out of principle, have been critical of peers relying on fifth-year players to improve their teams.</p><p>“At some point, you’ve got to care about the sport,” UConn’s Dan Hurley said. “Especially if the sport has given you a lot. Doing things to hurt the sport so that you can win a little bit more, you’ve got to look in the mirror a little on that.”</p><p>Few, who’s been on numerous coaching and college basketball committees throughout his 28-year tenure at Gonzaga, was one of the coaches imploring the NCAA to wait on announcing new 5-in-5 eligibility rules, anticipating the chaos that’s ensued over the last two months.</p><p>“Behind the scenes, some of us coaches told the NCAA over and over again,” Few said. “If they waited longer to announce this, they probably wouldn’t have this issue. So I don’t know why anybody would not be open to it. Maybe you don’t need it, but if you do &#8230; these are good guys. The kids we’re recruiting graduated from college, they’re going to our grad school and they’re great people, great assets to our program. I don’t know why you wouldn’t do that.”</p><p>In this fluid college basketball climate, it could be a matter of days, weeks or months until Gonzaga is able to call its roster complete. It’s not unfamiliar territory for a program that waited on a judge’s decision at the 11th hour last season to learn if transfer wing Tyon Grant-Foster would be eligible to play.</p><p>The Zags ostensibly received positive news on Thursday, when Real Madrid penned a farewell letter to Almansa, suggesting the forward is one step closer to making it official with Few’s program.</p><p>For now, a frustrating, crazy and unusual Gonzaga offseason will bleed into the final days of August.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "f85427f3ffb25fce",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Travel Packages on Sale Now for West Coast Hoops Showdown featuring UCLA and Gonzaga",
         "link": "https://gozags.com/news/2026/8/18/mens-basketball-travel-packages-on-sale-now-for-west-coast-hoops-showdown-featuring-ucla-and-gonzaga",
         "link_kind": "item",
@@ -3073,6 +3087,34 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "Oregon State cornerback indicates he’s out for the year",
+        "link": "https://www.oregonlive.com/beavers/2026/10/see-yall-next-year-oregon-state-cornerback-indicates-hes-out-for-the-season.html",
+        "link_kind": "item",
+        "date": "2026-10-01T21:38:20+00:00",
+        "summary": "A second Oregon State cornerback has suffered a season-ending injury.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "113066e4c769baa1",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State faces one of the nation's most explosive offenses Saturday",
+        "link": "https://www.oregonlive.com/beavers/2026/10/will-oregon-state-be-able-to-contain-colorado-states-explosive-offense.html",
+        "link_kind": "item",
+        "date": "2026-10-01T20:19:12+00:00",
+        "summary": "Oregon State faces a tough Pac-12 opener against Colorado State, which ranks among the nation's leaders in explosive plays, while OSU deals with cornerback depth issues.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "c35f7f3a007a932d",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Oregon State’s cornerback depth suffers another blow ahead of Colorado State",
         "link": "https://www.oregonlive.com/beavers/2026/10/oregon-states-cornerback-depth-suffers-another-blow-ahead-of-colorado-state.html",
@@ -3120,7 +3162,7 @@
         "link": "https://dailybaro.orangemedianetwork.com/33184/daily-barometer-news/asosu-senate-passes-new-bill-funding-international-communitea-hour/",
         "link_kind": "item",
         "date": "2026-09-30T20:37:49+00:00",
-        "summary": "Oregon State University’s student government Senate passed a bill funding an outreach event aiming to foster community for international students. The new bill, titled, “Community Engagement and Diversity (International CommuniTea Hour Funding),” allocates $15,000 across the academic year for snacks, coffee, tea and activities provided during the International CommuniTea Hour.  The Associated Students of Oregon...",
+        "summary": "Oregon State University’s student government senate passed a bill on Tuesday funding an outreach event aiming to foster community for international students. The new bill, titled “Community Engagement and Diversity (International CommuniTea Hour Funding),” allocates $15,000 across the academic year for snacks, coffee, tea and activities provided during the International CommuniTea Hour.  The Associated Students...",
         "author": "Gabriel Robinson, Reporter",
         "duration": null,
         "channel_url": "",
@@ -3608,20 +3650,6 @@
         "medium": "text"
       },
       {
-        "title": "Justin Joyner’s performance bonuses at Oregon State lower than Wayne Tinkle's",
-        "link": "https://www.oregonlive.com/beavers/2026/09/details-of-justin-joyners-performance-bonuses-at-oregon-state.html",
-        "link_kind": "item",
-        "date": "2026-09-24T22:48:53+00:00",
-        "summary": "Justin Joyner’s performance bonuses are lower than those of Wayne Tinkle, his predecessor at Oregon State.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "706b8469b74811ce",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Beavers Finalize Nonconference Schedule",
         "link": "https://osubeavers.com/news/2026/9/23/mens-basketball-beavers-finalize-nonconference-schedule",
         "link_kind": "item",
@@ -3910,7 +3938,7 @@
         "medium": "text"
       },
       {
-        "title": "SDSU Volleyball’s Ella Schabort has found comfort and community 7,500 miles away from home",
+        "title": "SDSU volleyball’s Ella Schabort has found comfort and community 7,500 miles away from home",
         "link": "https://thedailyaztec.com/129074/sports/volleyball/sdsu-volleyballs-ella-schabort-has-found-comfort-and-community-7500-miles-away-from-home/",
         "link_kind": "item",
         "date": "2026-09-29T16:03:55+00:00",
@@ -4702,37 +4730,23 @@
         "extent": "57 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "SDSU Football Returns to Practice After Successful Scrimmage at Snapdragon Stadium",
-        "link": "https://goaztecs.com/news/2026/08/17/sdsu-football-returns-to-practice-after-successful-scrimmage-at-snapdragon-stadium",
-        "link_kind": "item",
-        "date": "2026-08-17T22:24:44+00:00",
-        "summary": "The Aztecs returned to the practice fielded to begin week three of fall camp.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "3c18a3184ffa4826",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Lucky Sutton Named to Walter Camp Player of the Year Watch List",
-        "link": "https://goaztecs.com/news/2026/08/17/lucky-sutton-named-to-walter-camp-player-of-the-year-watch-list",
-        "link_kind": "item",
-        "date": "2026-08-17T15:58:00+00:00",
-        "summary": "Sutton one of 50 on the preseason watch list for the player of the year.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "a47276b018acefda",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "Game Preview: TXST at San Diego State",
+        "link": "https://txst.com/news/2026/10/1/football-game-preview-txst-at-san-diego-state.aspx",
+        "link_kind": "item",
+        "date": "2026-10-01T21:49:00+00:00",
+        "summary": "<img alt=\"TXST Football Family Weekend vs UIW\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/30/260926_FB_UIW_GD_INGAME-6.jpg\" /><br /><br />Texas State (2-2, 0-0 Pac-12) at San Diego State (1-3, 0-0 Pac-12)\n\nSaturday, Oct. 3, 2026\nSnapdragon Stadium (35,000) | San Diego, California\nKickoff: 9:30 p.m. CT / 7:30 p.m. PT",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "9be4cfec9d6593b7",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "No. 22 Texas State to open up Pac-12 play against No. 18 Utah State",
         "link": "https://universitystar.com/36497/sports/no-22-texas-state-to-open-up-pac-12-play-against-no-18-utah-state/",
@@ -5028,20 +5042,6 @@
         "medium": "text"
       },
       {
-        "title": "WATCH | TXST Football Media Availability vs UNT (091526)",
-        "link": "https://txst.com/news/2026/9/15/watch-txst-football-media-availability-vs-unt-091526.aspx",
-        "link_kind": "item",
-        "date": "2026-09-15T20:44:00+00:00",
-        "summary": "<img alt=\"B Jackson Touchdown vs UTSA\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/15/260912_UTSA_-05.jpg\" /><br /><br />HC GJ Kinne, QB Brad Jackson, DB Ryan Nolan",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "b7a29ff352c411ed",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Bobcats Reveal Men’s Basketball Non-Conference Slate",
         "link": "https://txst.com/news/2026/9/14/mens-basketball-bobcats-reveal-mens-basketball-non-conference-slate.aspx",
         "link_kind": "item",
@@ -5099,6 +5099,20 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "Utah State Athletics inducts USU Hall of Fame class of 2026",
+        "link": "https://usustatesman.com/utah-state-athletics-inducts-usu-hall-of-fame-class-of-2026/",
+        "link_kind": "item",
+        "date": "2026-10-01T22:04:21+00:00",
+        "summary": "<p>Utah State University Athletics recently inducted three new members and two football teams into the Utah State Hall of Fame.&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/utah-state-athletics-inducts-usu-hall-of-fame-class-of-2026/\">Utah State Athletics inducts USU Hall of Fame class of 2026</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
+        "author": "Quinton Papa",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Utah Statesman",
+        "id": "e937fceb5f089e99",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Pac-12 Announces 2026-27 Men’s Basketball Schedule",
         "link": "https://utahstateaggies.com/news/2026/9/30/mens-basketball-pac-12-announces-2026-27-mens-basketball-schedule.aspx",
@@ -5331,20 +5345,6 @@
         "medium": "text"
       },
       {
-        "title": "Bronson Olevao Jr.: Consistency, loyalty in an era of change",
-        "link": "https://usustatesman.com/bronson-olevao-jr-consistency-loyalty-in-an-era-of-change/",
-        "link_kind": "item",
-        "date": "2026-09-21T12:48:53+00:00",
-        "summary": "<p>Since 2022, Utah State Football has had three head coaches, each bringing their own systems and coaching styles. Through all&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/bronson-olevao-jr-consistency-loyalty-in-an-era-of-change/\">Bronson Olevao Jr.: Consistency, loyalty in an era of change</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
-        "author": "Rory McNeill",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Utah Statesman",
-        "id": "599f4da5436ccf17",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Utah State Football Loses at No. 17 Utah 33-0",
         "link": "https://utahstateaggies.com/news/2026/9/19/utah-state-football-loses-at-no-17-utah-33-0.aspx",
         "link_kind": "item",
@@ -5490,6 +5490,20 @@
     ],
     "Washington State": [
       {
+        "title": "The Apple Puck returns: Cougar hockey starts Pac-play against the Huskies",
+        "link": "https://dailyevergreen.com/199690/sports/hockey/the-apple-puck-returns-cougar-hockey-starts-pac-play-against-the-huskies/",
+        "link_kind": "item",
+        "date": "2026-10-01T17:00:00+00:00",
+        "summary": "Washington State hockey enters Pac-8 play Friday night with an opportunity to end a five-year Apple Puck drought against Washington. The Cougars will travel to Seattle to face off against their biggest rivals at the Kraken Community Iceplex. This will kick off conference play for the 2026-2027 season as the road to the Pac-8 championship...",
+        "author": "Zach McFarlane",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "17ce355d0424c6e3",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Cougar Football Hour 9-30-26 (Kirby Moore, Kaden Beatty & Eti Ena)",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/b743f6e4-e632-4b98-9a4b-bc41894e60d0.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -5515,6 +5529,34 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "97887baaa184513f",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU, UW cover as the rebuilt Pac-12 opens conference play | Week 5 picks",
+        "link": "http://www.spokesman.com/stories/2026/oct/01/wsu-uw-cover-as-the-rebuilt-pac-12-opens-conferenc/",
+        "link_kind": "item",
+        "date": "2026-10-01T00:00:00+00:00",
+        "summary": "<p><em>Welcome to the Hotline’s weekly picks against the point spread, published Thursdays throughout the regular season with a focus on the most intriguing matchups across the West and the top games nationally. Betting lines are courtesy of VegasInsider.com unless noted otherwise. (Games involving FCS teams not included.) I went 10-3-1 last week and am 25-23-2 for the season. Picks are for entertainment purposes only … unless they aren’t.</em></p><p>If the adage is true – that good coaches win but great coaches cover – the rebuilt Pac-12 has several future Hall of Famers on its payroll.</p><p>The first month of the first season of the conference’s return to competition produced a 19-12-1 record against the point spread, according to TeamRankings.com, the wagering and analytics website.</p><p>But that mark includes a pair of .500 teams (Texas State and Utah State) and one complete flop: San Diego State’s struggles on the field (1-3) are exceeded only by the Aztecs’ 0-4 performance against the spread.</p><p>The other five teams are crushing the point spread as conference play begins this weekend.</p><p>Oregon State and first-year coach JaMarcus Shephard have covered in all four games – the betting public has not recognized OSU’s improvement – while Boise State, Fresno State and Washington State are all 3-1 and Colorado State is 2-1-1.</p><p>Those five teams are a combined 15-4-1.</p><p>The success is undoubtedly appreciated in some corners, but it won’t help the conference when the College Football Playoff selection committee determines which Group of Six team will receive the automatic bid.</p><p>That calculation will lean into the wins and losses of the teams involved in the race, in addition to a handful of performance metrics connected to the strength of the conference overall.</p><p>In that respect, the Pac-12 compares reasonably well to its primary competition.</p><p>It posted a 9-4 record against the other Group of Six leagues, including a 3-2 mark against the American and 3-0 against the Mountain West. And it stands as the highest-ranked Group of Six conference in the Sagarin computer ratings.</p><p>All of which means a Pac-12 champion with no more than two losses should be well positioned for a CFP bid.</p><p>To the picks &#8230;</p><h3>Stanford (+131/2</h3><p>) at Wake Forest</p><p><strong>Kickoff:</strong> 9 a.m. on ACC Network</p><p><strong>Comment:</strong> We picked the Cardinal last week to beat Georgia Tech outright (cha-CHING!) but do not like this situation one bit. The long trip, early kickoff, quality opponent and likelihood of rain add up to an easy call. <strong>Pick:</strong> Wake Forest</p><h3>Michigan (-51/2</h3><p>) at Minnesota</p><p><strong>Kickoff:</strong> 9 a.m. on Fox</p><p><strong>Comment:</strong> Based on how the teams fared last week, with Michigan losing at home to Iowa and Minnesota winning at Washington, the spread seems a tad high. But the Hotline won’t fall prey to recency bias. We expect the Wolverines to pull away late for the victory. <strong>Pick:</strong> Michigan</p><h3>Cal (+21/2</h3><p>) at UNLV</p><p><strong>Kickoff:</strong> 12:30 p.m. on CBS Sports Network</p><p><strong>Comment:</strong> The resistible force (Cal’s offense) meets the movable object (UNLV’s defense) in what could be a highly entertaining, although not well played, affair in Sin City. Both teams are desperate after splitting their first four games, but the Bears have better personnel. <strong>Pick:</strong> Cal</p><h3>UTEP (+221/2</h3><p>) at New Mexico</p><p><strong>Kickoff:</strong> 1 p.m. on MW+</p><p><strong>Comment:</strong> The Lobos are 4-0 against the point spread and have covered by an average of 161/2 points, according to TeamRankings.com. The trend is our friend. <strong>Pick:</strong> New Mexico</p><h3>Oregon State (-61/2</h3><p>) at Colorado State</p><p><strong>Kickoff:</strong> 3 p.m. on USA Network</p><p><strong>Comment:</strong> Perhaps the most interesting game of the opening week of conference play in the new Pac-12. If the Beavers truly belong on the top tier with Boise State, they will handle the defensively challenged Rams without much difficulty. For the moment, that’s exactly how we see it. <strong>Pick:</strong> Oregon State</p><h3>BYU (-61/2</h3><p>) at TCU</p><p><strong>Kickoff:</strong> 4 p.m. on ESPN</p><p><strong>Comment:</strong> The Cougars had two weeks to prepare while the Horned Frogs were losing last weekend at UCF. Frankly, we’re surprised the spread isn’t closer to double digits. Bear Bachmeier should have his way with TCU’s pass defense. <strong>Pick:</strong> BYU</p><h3>Washington (+91/2</h3><p>) at USC</p><p><strong>Kickoff:</strong> 4:30 p.m. on NBC</p><p><strong>Comment:</strong> Both teams are reeling, but we suspect the Trojans will have more difficulty recovering emotionally from yet another loss to Oregon. Also, this is strength on strength with USC’s offense matched against UW’s defense and vice versa. That suggests a close game throughout. <strong>Pick:</strong> Washington</p><h3>Utah State (+20) at Boise State</h3><p><strong>Kickoff:</strong> 4:30 p.m. on CBS Sports Network</p><p><strong>Comment:</strong> This feels like a letdown situation for the Broncos after their big win at Western Michigan. The Aggies don’t have enough offense to produce an upset, but they should hang around just long enough to cover that rather large number. <strong>Pick:</strong> Utah State</p><h3>Fresno State (+2) at Washington State</h3><p><strong>Kickoff:</strong> 6:30 p.m. on USA Network</p><p><strong>Comment:</strong> This is tantamount to a must-win game for WSU (1-3) in order to make the bowl math work. Meanwhile, the Bulldogs have started slowly in a handful of games and can’t afford to fall too far behind. The points are enticing, but the Cougars played well enough against Arizona to make us lean toward the home side. <strong>Pick:</strong> Washington State</p><h3>Baylor (+4) at Arizona State</h3><p><strong>Kickoff:</strong> 7:30 p.m. on ESPN</p><p><strong>Comment:</strong> The Sun Devils are home for the first time since the season opener, having lost at Texas A&amp;M, beaten Kansas in London, then taken a week off to recover. As a result of the disruption, we expect a sluggish start and strong finish against an opponent that isn’t good enough to take full advantage of its chances. <strong>Pick:</strong> Arizona State</p><h3>Texas State (-7) at San Diego State</h3><p><strong>Kickoff:</strong> 7:30 p.m. on The CW</p><p><strong>Comment:</strong> The visitors opened as 41/2-point favorites, prompting a money flow strong enough to push the line to 7. And if that doesn’t frame the state of affairs for SDSU, nothing does. However, the Hotline will take the opportunity to zag while everyone else zigs. <strong>Pick:</strong> San Diego State</p><h3>Cincinnati (+61/2</h3><p>) at Arizona</p><p><strong>Kickoff:</strong> 8 p.m. on Fox</p><p><strong>Comment:</strong> The Bearcats are 4-0 but have yet to play a road game while the Wildcats are 3-1 with the loss coming on the road to a ranked opponent (BYU). Cincinnati has one of the best ground games in the country (270 yards per game). Arizona’s trouble against the run in Provo suggests a supreme challenge Saturday night – and the need for some fourth-quarter Noah Fifita heroics. <strong>Pick:</strong> Cincinnati</p><p><strong>Straight-up winners:</strong> Wake Forest, Michigan, Cal, New Mexico, Oregon State, BYU, USC, Boise State, Washington State, Arizona State, San Diego State and Arizona.</p><p><strong>Five-star special:</strong> BYU. Nothing TCU has done thus far, particularly the loss to North Carolina, indicates the Horned Frogs can match the Cougars yard for yard and score for score for four quarters.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "6bcd3aefa963a573",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Cougs in the NFL | Week 3",
+        "link": "https://wsucougars.com/news/2026/09/30/cougs-in-the-nfl-or-week-3",
+        "link_kind": "item",
+        "date": "2026-09-30T22:01:46+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "d6af94a15d6ab8c6",
         "sport": "football",
         "medium": "text"
       },
@@ -6020,20 +6062,6 @@
         "medium": "text"
       },
       {
-        "title": "Cougars sweep Bulldogs in first conference match",
-        "link": "https://dailyevergreen.com/199570/sports/cougars-sweep-bulldogs-in-first-conference-match/",
-        "link_kind": "item",
-        "date": "2026-09-25T19:52:13+00:00",
-        "summary": "After losing five of its last six heading into the night, Washington State (6-5, 1-0 Pac-12) bounced back Thursday in California by defeating Fresno State (5-7, 0-1 Pac-12) 3-0. The Cougars’ service-line pressure, offensive output and performance late in sets carried them to victory. They finished the night with a .294 hitting percentage, their best...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "a9e8765752e4c924",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Why Oregon vs. USC tilt could become dying breed | Bowl projections",
         "link": "https://www.seattletimes.com/sports/washington-huskies-football/why-oregon-vs-usc-tilt-could-become-dying-breed-bowl-projections/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -6535,20 +6563,6 @@
         "channel_url": "",
         "source": "Washington State Athletics",
         "id": "a57e8f92fbb8cc36",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "5 thoughts from WSU's blowout win over Duquesne | Rewind",
-        "link": "http://www.spokesman.com/stories/2026/sep/20/5-thoughts-from-wsus-blowout-win-over-duquesne-rew/",
-        "link_kind": "item",
-        "date": "2026-09-20T00:00:00+00:00",
-        "summary": "<p>PULLMAN – As Washington State marched closer and closer to this weekend’s game, which turned into a 48-7 rout over winless FCS squad Duquesne, the Cougars found themselves in a tricky spot.</p><p>If they completely dominated, they would do what they were expected to. If they didn’t, well, some of the concerns about coach Kirby Moore and offensive coordinator Matt Miller’s offense would grow even louder.</p><p>For WSU, it wasn’t exactly a lose-lose, but it was somewhere in the area.</p><p>In Saturday’s first half, the Cougars didn’t look sharp, taking only a 14-7 lead into halftime. In the second, quarterback Caden Pinnick and his unit roared to life, using a 34-0 half to run away with a convincing blowout. Considering the circumstances, it was just about exactly what WSU needed.</p><p>Here are five thoughts from the game and what it means for WSU moving forward.</p><p><strong>1. WSU simplified some things on offense:</strong> Some of the bigger concerns from Washington State’s previous game, a lopsided road loss to Kansas State, centered around some of the opportunities the Cougars’ offense missed. </p><p>On two straight plays, a third-and-short followed by a fourth-and-short, WSU’s outside receiver sees a big cushion from his defender. In those spots, Pinnick could have checked into a play to hit that receiver for a quick pass and an easy first down. Instead, the Cougs stick with inside runs, both of which get turned away.</p><!--[photo id=932617]--><!--[photo id=932618]--><p>On Saturday against Duquesne, WSU saw the same look, and this time Pinnick took advantage. On one play in the second quarter, receiver Branden Ganashamoorthy gets a nice cushion of coverage, so he’s able to turn around for an easy pitch-and-catch. To convert a third down in the first frame, Ganashamoorthy sees another cushion, but he runs a clear-out route to make room for wideout Daniel Blood to make an easy catch. Then in the second quarter, Pinnick makes a similar connection with receiver Darrius Clemons.</p><!--[embed id=12245]--><p>That helped Pinnick finish with a Pro Football Focus passing grade of 90.7, the third-best mark in the country in Week 3 of college football, which is remarkable considering the fact he threw a bad interception on his first pass of the game. Chalk that up to Pinnick’s sharp response, completing 7 of 8 passes for 110 yards and two touchdowns in the second half.</p><p><strong>2. Woods could be in for a big year:</strong> WSU turned in an impressive stat from Saturday’s game: Running backs Maxwell Woods and Kirby Vorhees each rushed for 100-plus yards, becoming the first Cougar duo to do so in one game since 2005. That was part of WSU’s 316-rushing yard day in total, the program’s most in one game since 2006.</p><p>That’s an extraordinary development, and it might give us a window into the vision Moore has for this offense. In Saturday’s game, he was seen on the sideline carrying what looked to be a play sheet, which he didn’t do in either of the Cougars’ first two games of the year. After the game, he called playcalling duties a “collaborative effort” alongside Miller, with Pinnick adding that Moore had some input.</p><p>So was the Cougars’ 48-point outburst a product of Moore’s involvement or the result of playing a bad FCS team? It’s hard to say, but it’s worth examining the way the Cougs involved Woods, perhaps the team’s fastest and shiftiest running back. He was the team’s leading rusher with 11 carries while Vorhees chipped in nine rushes.</p><p>If WSU wants to pull an upset and topple Arizona next weekend, Woods might find himself at the center of his team’s rushing attack. For evidence, look no further than the way the Cougs used Woods on a trick play, breaking him free for 45 yards on a direct snap.</p><!--[embed id=12246]--><p><strong>3. The Cougars got creative to record two sacks, but should they have needed to?</strong> Defensive coordinator Trent Bray dialed up a few sharp blitzes, bringing safety Jeremiah Bernard into the fold for one and linebackers Isaiah Hung and DJ Warner in for another. Hung’s emergence is something to monitor – in the last two games he has played 41 and 39 snaps, respectively, pushing starter Keith Brown in that department – and Bernard’s athleticism and willingness to hit makes those ideas splendid.</p><p>But there’s another pattern developing: Edge rushers Matyus McLain and Linus Zunk, hailed as the WSU defense’s top two players, haven’t made huge splashes yet. In Saturday’s game, they combined for just three pressures. Against K-State, the number was just one, which came from McLain (who was courted strongly by the Wildcats over the offseason).</p><p>Those two see lots of double-teams, which is part of the reason why they haven’t been the wrecking balls they were projected to be headed into this season. But can they find a way to generate more pressure against Arizona? That’ll be a key storyline to keep an eye on.</p><p><strong>4. WSU missed a real opportunity at the end of the first half:</strong> In fall camp, the Cougars spent oodles of time repping the exact situation that came up at the end of Saturday’s first half: clock under two minutes, ball in their own territory, looking to score before the end of the half. It was clear Moore placed a high priority on capitalizing in those kinds of scenarios.</p><p>So when the real thing came around against FCS Duquesne, why didn’t the Cougs give it a shot? They didn’t show any real urgency to move the ball down the field, running three inside runs for Vorhees to kick off the drive. They didn’t try their first pass until the clock ticked under 20 seconds.</p><p>At the time, it seemed like a signal from coaches on the way they viewed their offense, which later felt even stranger because of the way the Cougs erupted in the second half. In the end, it didn’t matter against an FCS team, but it very well could against a Power 4 opponent like Arizona.</p><p>“I need to look at that one more (time),” Moore said. “I do think there was a slippery, slow, fine line with that. We got the ball first to start the second half. I can’t remember the yardage on the first play, but I don’t think it was a second-and-2, and so if you go three-and-out quick there, you might give the ball back to them a little bit quicker than you want to. We have to look at that. I think we could have had a better plan just altogether in that situation.”</p><p><strong>5. WSU’s new-look offensive line excelled:</strong> The Cougars rolled out a new lineup on their offensive line on Saturday, and it worked wonders: Left tackle Ashton Tripp, left guard Jonny Lester, center Noah Dunham, right guard Nick Bakken and right tackle Jaylin Caldwell didn’t give up a single sack, finishing with an over PFF pass-blocking grade of 72.7, their best mark of the season. Their run-blocking grade was 72.0, also their best figure yet.</p><p>To make that happen, coaches benched left guard Kyle Martin and moved Lester from right tackle to left guard, which is where he played his best games last season. Then they brought Caldwell in at right tackle, and he earned a PFF pass-blocking grade of 86.3, also his best grade of the season.</p><p>After the game, Moore wouldn’t commit to sticking with that lineup moving forward, but it appears to be the team’s best five-man group so far.</p><p>“I probably gotta look at the tape before I completely give you an answer on that,” Moore said. “Obviously, running for 316 yards there, there was some really good things that those guys did up front. There was definitely some lapses, whether it was protection, whether it was finishing there in the first half. So we’ll have to take a look at it. I know we’re gonna need all six of those guys.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "de1780064d650449",
         "sport": "football",
         "medium": "text"
       },
@@ -7861,20 +7875,6 @@
         "medium": "text"
       },
       {
-        "title": "Jirah Leaupepetele Named to Polynesian College Football Player of the Year Watch List",
-        "link": "https://wsucougars.com/news/2026/08/20/jirah-leaupepetele-named-to-polynesian-college-football-player-of-the-year-watch-list",
-        "link_kind": "item",
-        "date": "2026-08-20T15:01:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "c6ebb20dfa3ed904",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "BECU Inside WSU Athletics with Jon Haarlow | S2, E2 | Guests: Dustin White, Matt Gearheart",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/8a799d01-1ede-4ad1-a16e-22b7537831ec.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -7888,20 +7888,6 @@
         "extent": "31 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Cougar Men to Face Seattle U at Seattle Holiday Classic in December",
-        "link": "https://wsucougars.com/news/2026/08/17/cougar-men-to-face-seattle-u-at-seattle-holiday-classic-in-december",
-        "link_kind": "item",
-        "date": "2026-08-17T17:00:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "48502027d9be487d",
-        "sport": "mbb",
-        "medium": "text"
       }
     ]
   }
