@@ -11286,6 +11286,229 @@
       ],
       "extent": "59 min read",
       "run": "run_2026-10-02-0140"
+    },
+    "11012d46c4cf95bc": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The given text covers only Nevada's basketball coach announcing retirement and does not name any specific Pac-12 team or game despite promising 'Pac-12 games to watch.'",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The title promises coverage of Pac-12 conference games, but the text handed to the reviewer never names one, so it's unclear whether unseen podcast content would concern a covered program.",
+      "byline": [
+        "Derek Raridon",
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-02-1342"
+    },
+    "34998d9826d860a8": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text profiles Washington State's Jirah Leaupepetele and Fresno State's Jonah Leaupepetele ahead of the brothers facing off Saturday.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-02-1342"
+    },
+    "422f52ddb3290757": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary is about Fresno State running back Julius Gillick ahead of Saturday's game at Washington State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-10-02-1342"
+    },
+    "4ff8ee796f33d789": {
+      "subjects": {
+        "texas-state/womens-soccer": "about",
+        "utah-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text is a game recap of Texas State's 2-1 women's soccer loss to Utah State in their Pac-12 opener.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-02-1342"
+    },
+    "508bd382422e2e97": {
+      "subjects": {
+        "oregon-state": "involves",
+        "washington-state": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece names Oregon State and Washington State, each with its own sentence, as possible ACC realignment targets under the proposed legislation.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The Oregon State/Washington State treatment is one sentence each inside a piece centered on the Mountain West; the coverage level could reasonably be called mentions rather than involves.",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-02-1342"
+    },
+    "7888c9d18a0e5c74": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The title names a Colorado State reporter discussing the Rams ahead of Saturday's Pac-12 opener, and the article's own Beavers-section link identifies the previewing side as Oregon State.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Which team is doing the scouting is inferred from the article's URL path rather than from the title or summary text itself.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-02-1342"
+    },
+    "8448324270706b2f": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article reports Washington State's first Pac-12 availability report ahead of Saturday's game against Fresno State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-02-1342"
+    },
+    "860e1e13644238f1": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "Oregon State and Fresno State appear only as incidental stat context (a prior-week recap aside and an opponent's point total) in a piece picking bets on Air Force-Navy, Cal-UNLV, and Hawaii-San Jose State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-02-1342"
+    },
+    "adc8cdc233e88d72": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is about New Mexico's new starting quarterback; New Mexico is a Mountain West school, not one of the nine covered.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-02-1342"
+    },
+    "d311fb6e76163e9b": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is about Hawaii's offense ahead of its game against San Jose State; neither Mountain West school is one of the nine covered.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-02-1342"
+    },
+    "d5e965538bcb3825": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary names Fresno State and Washington State linemen, brothers, facing off in Saturday's game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-10-02-1342"
+    },
+    "d6bcdcdbb6301821": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "about",
+        "colorado-state/football": "about",
+        "texas-state/football": "about",
+        "fresno-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "san-diego-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece ranks all eight new Pac-12 football programs by performance against preseason expectations, giving each its own paragraph.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Toby McMahon"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-02-1342"
+    },
+    "e2c5fce75fee0f8c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Virginia Tech and Pitt",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The entire piece is a personal essay about Virginia Tech and Pitt, an ACC matchup; none of the nine covered schools appears.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "6 min read",
+      "lock": "free",
+      "run": "run_2026-10-02-1342"
     }
   },
   "runs": {
@@ -12846,6 +13069,62 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 16.855481300037354,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-02-1342": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-02T13:39:44.991003+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "drop": 5,
+        "publish": 8
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 4,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 2
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "11012d46c4cf95bc",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        },
+        {
+          "id": "adc8cdc233e88d72",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "d311fb6e76163e9b",
+          "source": "Mountain West Connection",
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e2c5fce75fee0f8c",
+          "source": "Press Break",
+          "phrase": "Virginia Tech and Pitt",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 28.832191400000738,
       "tokens": null,
       "tokens_source": null
     }
