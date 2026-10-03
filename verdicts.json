@@ -11509,6 +11509,392 @@
       "extent": "6 min read",
       "lock": "free",
       "run": "run_2026-10-02-1342"
+    },
+    "10891376887a230d": {
+      "subjects": {
+        "boise-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is about Boise State's athletic department turning retired equipment into collectibles through a CollectU partnership, with quotes from department staff.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "19847331001ab4ee": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article reports a mumps outbreak among San Diego State football players ahead of their Pac-12 opener against Texas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Pereira Casanoba",
+        "Carisa Arellano"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "1b7515b4434bb9ab": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about",
+        "washington-state/womens-basketball": "about",
+        "oregon-state/womens-basketball": "involves",
+        "texas-state/womens-basketball": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports the new Pac-12 women's basketball schedule, naming Gonzaga's opener against Oregon State and Washington State's opener against Texas State and their season-ending matchup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-03-0143"
+    },
+    "23aa68dc41bd784e": {
+      "subjects": {
+        "oregon-state": "about",
+        "gonzaga": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish an Oregon State-Gonzaga conference-tournament rematch opening Pac-12 play, though neither names the sport.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The sport is never stated, so both schools are keyed at the department level rather than a specific program.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-03-0143"
+    },
+    "253efdc9a9028503": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "oregon-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Washington State soccer's 3-1 win over Oregon State with goal-by-goal detail and quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ben Walker"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "3dbc6ea84ec10111": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "oregon-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Texas State's four-set volleyball loss to Oregon State with set scores and player stats for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Julia Veilleux"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "4225ba45d97fda73": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Washington State's Pac-12 football opener against Fresno State with records and matchup analysis.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "67ee56532632b734": {
+      "subjects": {
+        "oregon-state/womens-volleyball": "about",
+        "texas-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Oregon State volleyball's 3-1 win over Texas State with set-by-set detail and player performances.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Delaney Zimmer"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "730f3e95e0d91dec": {
+      "subjects": {
+        "utah-state/womens-soccer": "about",
+        "texas-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Utah State women's soccer's 2-1 win over Texas State in their inaugural Pac-12 matchup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "13 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "732294d9ff3bb68c": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article picks Fresno State to beat Washington State in their Pac-12 opener, with a predicted final score and statistical analysis of both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-03-0143"
+    },
+    "790f6c377e1172f2": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article reports Texas State soccer player Victoria Meza's naming to the MAC Hermann Trophy watch list and her season stats.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Carisa Arellano"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "7dea210bf4ed5051": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary describes an Oregon State freshman football receiver's touchdown celebration and record-setting play.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-03-0143"
+    },
+    "7f38295795c49028": {
+      "subjects": {
+        "washington-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article tracks three former Washington State baseball players' 2026 MLB seasons, which is in-scope alum coverage.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "GRANT CHISHOLM"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "8d4478796ff72aff": {
+      "subjects": {
+        "texas-state/womens-basketball": "about",
+        "boise-state/womens-basketball": "involves",
+        "washington-state/womens-basketball": "involves",
+        "gonzaga/womens-basketball": "involves",
+        "fresno-state/womens-basketball": "involves",
+        "san-diego-state/womens-basketball": "involves",
+        "colorado-state/womens-basketball": "involves",
+        "utah-state/womens-basketball": "involves",
+        "oregon-state/womens-basketball": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article details Texas State women's basketball's full inaugural Pac-12 schedule, naming every conference opponent and date.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "92b9289f4d173775": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary previews the Oregon State-Colorado State Pac-12 football opener with records, a point spread and a predicted score.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-03-0143"
+    },
+    "9ae5655a27aab145": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The grab-bag column covers MLB postseason, the Michigan-Minnesota trophy rivalry, FCS matchups and a horror-movie aside, with no covered school's athletics as subject or substantive figure.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "12 min read",
+      "lock": "free",
+      "run": "run_2026-10-03-0143"
+    },
+    "9f1658f265fa3662": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The 'keys to victory' preview breaks down how Washington State and Fresno State can each win their Pac-12 opener.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-03-0143"
+    },
+    "ab7086e58dfce4ab": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Washington State's Pac-12 home opener against Fresno State, focused on WSU's turnover problems and the Cougars' coach's gameplan.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-03-0143"
+    },
+    "bae343203bf8d722": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The body is a links digest of one-line teasers about Mountain West and FCS football, with only a passing, unelaborated note that the Pac-12 won't hold conference-wide media days.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The lone Pac-12 media-days sentence is a real, if isolated, fact about the conference in an otherwise Mountain West-focused digest, so the call could go either way.",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "c438486968163d3f": {
+      "subjects": {
+        "gonzaga": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The text previews Gonzaga's Kraziness in the Kennel basketball season kickoff, but does not say whether it concerns the men's or women's program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-03-0143"
+    },
+    "c5cd349dd6abc983": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Fresno State's trip to Pullman to open Pac-12 play against Washington State, with head-to-head series history.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-03-0143"
+    },
+    "d1972a8605cbca41": {
+      "subjects": {},
+      "kind": "column",
+      "unrecognized": [
+        {
+          "phrase": "Washington Huskies",
+          "kind": "not-ours"
+        }
+      ],
+      "verdict": "drop",
+      "reason": "The column is about Washington Huskies' loss to Minnesota and the rivalry schadenfreude it provokes; WSU's own athletics appear only as the author's fan framing, not as substantive coverage.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The piece is framed throughout around WSU fandom and rivalry, but it never substantively covers a WSU game or team beyond a one-line aside about a loss to Arizona.",
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "7 min read",
+      "lock": "free",
+      "run": "run_2026-10-03-0143"
+    },
+    "d75e7411d5135f7e": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "oregon-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves",
+        "washington-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "column",
+      "unrecognized": [
+        {
+          "phrase": "Washington Huskies",
+          "kind": "not-ours"
+        }
+      ],
+      "verdict": "publish",
+      "reason": "The mailbag grades every one of the eight covered football programs' nonconference performance and the Pac-12 as a whole in its own dedicated paragraph.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "13 min read",
+      "run": "run_2026-10-03-0143"
     }
   },
   "runs": {
@@ -13125,6 +13511,48 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 28.832191400000738,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-03-0143": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-03T01:40:13.675824+00:00",
+      "items": 23,
+      "verdict_counts": {
+        "publish": 20,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Press Break": 1,
+        "Mountain West Connection": 1,
+        "Jim Moore's Substack": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "d1972a8605cbca41",
+          "source": "Jim Moore's Substack",
+          "phrase": "Washington Huskies",
+          "kind": "not-ours"
+        },
+        {
+          "id": "d75e7411d5135f7e",
+          "source": "The Seattle Times",
+          "phrase": "Washington Huskies",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 53.34690930000215,
       "tokens": null,
       "tokens_source": null
     }
