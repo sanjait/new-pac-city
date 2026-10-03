@@ -11895,6 +11895,175 @@
       ],
       "extent": "13 min read",
       "run": "run_2026-10-03-0143"
+    },
+    "158708be7a8d4b45": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece reports Fresno State women's basketball's newly-announced non-conference and Pac-12 schedule for 2026-27.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-03-2036"
+    },
+    "692bc57ab0355426": {
+      "subjects": {
+        "boise-state/football": "about",
+        "utah-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews the Boise State vs. Utah State football game with injury notes and analysis of both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-03-2036"
+    },
+    "8b680e76788e1b9a": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The piece previews five Mountain West Conference football games among Air Force, Navy, UNLV, Cal, Wyoming, NDSU, UTEP, New Mexico, Hawaii and San Jose State, none of which are among the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-10-03-2036"
+    },
+    "b817e858d8b42e21": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "about",
+        "utah-state/football": "about",
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews all four Week 5 Pac-12 football matchups, giving substantive game analysis to each of the eight participating schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-03-2036"
+    },
+    "ba1fa6845f66be21": {
+      "subjects": {
+        "oregon-state": "about",
+        "colorado-state": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a Pac-12 game today between Oregon State and Colorado State with viewing information, but neither names the sport, so only the department-level key can be used.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The sport is not stated, though the Saturday-game, odds-and-streaming framing reads like football; I held to the department key rather than inferring the program.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-03-2036"
+    },
+    "c6e5ff5674797cbc": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews the Washington State vs. Fresno State Pac-12 opener with substantive analysis of both teams' turnover tendencies and key players.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-03-2036"
+    },
+    "d988565349a402f0": {
+      "subjects": {
+        "boise-state/mens-basketball": "about",
+        "colorado-state/mens-basketball": "about",
+        "fresno-state/mens-basketball": "about",
+        "gonzaga/mens-basketball": "about",
+        "oregon-state/mens-basketball": "about",
+        "san-diego-state/mens-basketball": "about",
+        "texas-state/mens-basketball": "about",
+        "utah-state/mens-basketball": "about",
+        "washington-state/mens-basketball": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece gives a substantive paragraph of NCAA Tournament-chance analysis to each of the nine schools' men's basketball programs ahead of the 2026-27 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-03-2036"
+    },
+    "da611f4204da2636": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary reports an Oregon State cornerback's injury-status upgrade, with Colorado State named only as the upcoming opponent in the headline.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-03-2036"
+    },
+    "f2d609138a9beb53": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece argues for a hypothetical Group-of-6 playoff format pitched by New Mexico's coach, naming Boise State and Washington State only as illustrative teams in hypothetical bracket matchups rather than giving either team's actual athletics real treatment.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Boise State is used as the specific illustrative example of a Pac-12/Mountain West crossover scenario, which could be read as figuring substantively rather than a mere passing mention.",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-03-2036"
+    },
+    "f70bb6610ca285bd": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The piece previews an upcoming Hawaii-San Jose State football game; neither Hawaii nor San Jose State is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-03-2036"
     }
   },
   "runs": {
@@ -13553,6 +13722,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 53.34690930000215,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-03-2036": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-03T13:38:47.403407+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 7,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "f2d609138a9beb53",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 21.73804789999849,
       "tokens": null,
       "tokens_source": null
     }
