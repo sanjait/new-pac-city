@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-10-04T01:03:06.828103+00:00",
+  "generated_at": "2026-10-04T13:03:08.776578+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "2026 Mountain West Week 5: Game Time, TV Schedule, Odds, Predictions",
+        "link": "https://www.mwcconnection.com/mountain-west-discussion/90359/mountain-west-football-games-week-5-fanduel-odds-games-predictions",
+        "link_kind": "item",
+        "date": "2026-10-03T15:00:00+00:00",
+        "summary": "The college football season is in full swing, and with it, the shift towards mostly conference games. This week, 8 Mountain West teams play all Saturday long. Check out the Week 5 action, with all the info you need for the games below. Share your thoughts in the comments! Saturday, October 3rd Navy vs Air [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "d6f12edbadb1546b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2026 Pac-12 Week 5: Game Time, TV Schedule, Odds, Predictions",
+        "link": "https://www.mwcconnection.com/pac-12-discussion/90360/pac-12-football-games-week-5-fanduel-odds-games-predictions",
+        "link_kind": "item",
+        "date": "2026-10-03T14:00:00+00:00",
+        "summary": "The college football season is up and running. We are now entering into conference play for the Pac-12. Check out the Week 5 action with all the info you need for the games this weekend. Share your thoughts in the comments and enjoy the games! Saturday, October 3rd Oregon State vs Colorado State (3:00 PM [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "9b8f0ac0e8fe5458",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "MWCConnection Reacts Results: Group of 6 Champs",
         "link": "https://www.mwcconnection.com/college-football-playoffs/93514/college-football-playoff-boise-state-football",
@@ -154,34 +182,6 @@
         "source": "Mountain West Connection",
         "id": "adc8cdc233e88d72",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Could Congress Reshape the Next Round of Conference Realignment?",
-        "link": "https://www.mwcconnection.com/air-force-falcons-football/93424/could-congress-reshape-the-next-round-of-conference-realignment",
-        "link_kind": "item",
-        "date": "2026-10-01T18:00:00+00:00",
-        "summary": "The Protect College Sports Act could limit the growth of the wealthiest conferences while making successful Mountain West programs more attractive for future expansion. By Roger A. Holien &#124; Mountain West Connection College football realignment has largely been driven by television contracts, conference revenue, and schools seeking greater national exposure. Now, Congress could influence what [&#8230;]",
-        "author": "Roger A Holien",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "508bd382422e2e97",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "3 Mountain West Football Best Bets For Week 5",
-        "link": "https://www.mwcconnection.com/mountain-west-football/93376/3-mountain-west-football-best-bets-week-5",
-        "link_kind": "item",
-        "date": "2026-10-01T17:00:00+00:00",
-        "summary": "Last weekend was kind to us, outside of Oregon State scoring two fewer points than their team total, preventing our first clean sweep of the season. Nevertheless, after our 2-1 week of the season, we are back for another version of Mountain West best bets as we head into Week 5! Let’s dive into it! [&#8230;]",
-        "author": "Matt Hanifan",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "860e1e13644238f1",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -509,6 +509,34 @@
     ],
     "Boise State": [
       {
+        "title": "No. 22 Broncos Earn First Pac-12 Conference Victory",
+        "link": "https://broncosports.com/news/2026/10/3/football-broncos-earn-first-pac-12-conference-victory",
+        "link_kind": "item",
+        "date": "2026-10-04T04:50:00+00:00",
+        "summary": "<img alt=\"Derek Ganter Action\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/DSC06494__1_.jpg\" /><br /><br />Boise State picked up its first conference victory as members of the Pac-12 by toppling Utah State, 37-18, at Albertsons Stadium on Saturday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "f329dbc08e40addf",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "(Video) Post Utah State Press Conference With QB Madsen, LB Ripp, and Coach Danielson",
+        "link": "https://firstkickwasgood.com/2026/10/03/video-post-utah-state-press-conference-with-qb-madsen-lb-ripp-and-coach-danielson/",
+        "link_kind": "item",
+        "date": "2026-10-04T04:12:47+00:00",
+        "summary": "(Video) Post Utah State Press Conference With QB Madsen, LB Ripp, and Coach Danielson Following Boise State&#8217;s first win in PAC 12 play, the Boise Sports media got a chance to talk to a few of the guys that made it happen Please consider selecting one of the&#160;monthly&#160;or&#160;yearly&#160;gift donation options (from the three below) to [&#8230;]",
+        "author": "MichaelFKWG",
+        "duration": null,
+        "channel_url": "",
+        "source": "First Kick Was Good",
+        "id": "633faa9473e9a921",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Boise State VS Utah State Gamethread",
         "link": "https://firstkickwasgood.com/2026/10/03/boise-state-vs-utah-state-gamethread-2/",
         "link_kind": "item",
@@ -790,7 +818,6 @@
         "sport": "all",
         "medium": "text",
         "also": [
-          "Boise State Athletics",
           "First Kick Was Good"
         ]
       },
@@ -919,20 +946,6 @@
         "channel_url": "",
         "source": "First Kick Was Good",
         "id": "4c3c9225880430bc",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State VS South Dakota Depth Chart and Pronunciation Guide",
-        "link": "https://firstkickwasgood.com/2026/09/18/boise-state-vs-south-dakota-depth-chart-and-pronunciation-guide/",
-        "link_kind": "item",
-        "date": "2026-09-18T23:16:06+00:00",
-        "summary": "<p>This Saturday, the Broncos will be back home! This time, to take on a fellow G6 power in Memphis. In preparation for that, here is the Boise State VS Memphis Depth Chart (and pronunciation guide). With it, you can see who the coaching staff has officially designated where and at what spots on the depth [&#8230;]</p>",
-        "author": "MichaelFKWG",
-        "duration": null,
-        "channel_url": "",
-        "source": "First Kick Was Good",
-        "id": "84dc753bcf097150",
         "sport": "all",
         "medium": "text"
       },
@@ -1180,24 +1193,23 @@
         "id": "1e1aec9fdddd1b26",
         "sport": "mbb",
         "medium": "text"
-      },
-      {
-        "title": "Off the Blue- Season 7, Episode 2: Max Stege",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/89e7ba7b-6ac1-4482-bf34-941254557b17.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-08-20T11:00:00+00:00",
-        "summary": "<p>On this episode of the Off the Blue Podcast, Boise State football EDGE rusher Max Stege joins the show to discuss his love of coffee, football, learning the game in Germany, and much more.</p><p>Timestamps: 0:00 - 0:30 - Intro, 0:31 - 3:00 - Coffee Trip to Europe with Teammates, 3:01 - 6:59 - Journey to American Football, 7:00 - 8:59 - What do you love about Boise?, 9:00 - 11:59 - Learning about College Football as a Sport, 12:00 - 14:59 Team Goals, Coaches, 15:00 - 16:30 - Personal Growth, 16:31 - 17:30 - What does Football Mean to You?, 17:31 - 19:14 - Outro</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
-        "author": "",
-        "duration": 1153,
-        "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network",
-        "source": "The Bronco Sports Podcast Network",
-        "id": "7e9d7af8d13fcb62",
-        "extent": "19 min",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Colorado State": [
+      {
+        "title": "Rams Retain Conviction After Loss",
+        "link": "https://csurams.com/news/2026/10/3/football-rams-remain-convicted-after-loss",
+        "link_kind": "item",
+        "date": "2026-10-04T03:47:00+00:00",
+        "summary": "<img alt=\"Durell Robinson\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/Robinson.jpg\" /><br /><br />Record crowd attends homecoming game at Canvas.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "bdcdd27619526cff",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Game Day: vs. Oregon State",
         "link": "https://csurams.com/news/2026/10/3/football-game-day-vs-oregon-state",
@@ -1408,20 +1420,6 @@
         "channel_url": "",
         "source": "Colorado State Athletics",
         "id": "ac480095cb8559db",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Rams Drop Shootout at UTSA",
-        "link": "https://csurams.com/news/2026/9/26/football-rams-drop-shootout-in-alamodome",
-        "link_kind": "item",
-        "date": "2026-09-26T21:33:00+00:00",
-        "summary": "<img alt=\"UTSA\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/26/UTSA.jpg\" /><br /><br />Team opens Pac-12 play next week",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "201c2632760286e5",
         "sport": "football",
         "medium": "text"
       },
@@ -1751,6 +1749,20 @@
       }
     ],
     "Fresno State": [
+      {
+        "title": "'Dogs defeat Washington State in Pac-12 opener",
+        "link": "https://gobulldogs.com/news/2026/10/3/football-dogs-defeat-washington-state-in-pac-12-opener",
+        "link_kind": "item",
+        "date": "2026-10-04T07:00:00+00:00",
+        "summary": "<img alt=\"K'vion Thunderbird vs Washington State\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/DSC09984.JPG\" /><br /><br />PULLMAN, Wash. – Fresno State held Washington State out of the end zone and scored 20 unanswered points in the second half to earn a 26-6 victory on Saturday night at Gesa Field. Fresno State won its fourth-straight game, and earned a win in its first-ever Pac-12 matchup.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Fresno State Athletics",
+        "id": "e174ba9c4da592ec",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Previewing 'Dogs Pac-12 Opener in Pullman",
         "link": "https://www.yourcentralvalley.com/bulldog-sports/previewing-dogs-pac-12-opener-in-pullman/",
@@ -2234,20 +2246,6 @@
         "medium": "text"
       },
       {
-        "title": "Pair of 'Dogs pick up Pac-12 weekly honors",
-        "link": "https://gobulldogs.com/news/2026/9/21/football-pair-of-dogs-pick-up-pac-12-weekly-honors",
-        "link_kind": "item",
-        "date": "2026-09-21T22:02:00+00:00",
-        "summary": "<img alt=\"Tierney INT cele\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/21/26-09-19-WB-atSJSU-49.jpg\" /><br /><br />FRESNO, Calif. - Two Fresno State football players earned Pac-12 Player of the Week nods in Week Three.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Fresno State Athletics",
-        "id": "b2635937c04b74de",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Bulldog Insider: Extended highlights, stats, analysis from Fresno State’s 26-10 win over San José State",
         "link": "https://www.yourcentralvalley.com/bulldog-sports/bulldog-insider-extended-highlights-stats-analysis-from-fresno-states-26-10-win-over-san-jose-state/",
         "link_kind": "item",
@@ -2620,6 +2618,20 @@
     ],
     "Gonzaga": [
       {
+        "title": "Fogle Steals the Show at Kraziness",
+        "link": "https://gozags.com/news/2026/10/3/mens-basketball-fogle-steals-the-show-at-kraziness",
+        "link_kind": "item",
+        "date": "2026-10-04T01:13:00+00:00",
+        "summary": "<img alt=\"Fogle dunk contest\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/Fogle_web.png\" /><br /><br />SPOKANE, Wash. – In front of a packed house at the annual Numerica Kraziness in the Kennel, Gonzaga's Davis Fogle scored 30 points in the scrimmage and won the dunk contest inside the McCarthey Athletic Center Saturday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "57eb54b0902b1782",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "Former Gonzaga forward Kelly Olynyk inks contract with Italian club BC Roma",
         "link": "http://www.spokesman.com/stories/2026/oct/03/former-gonzaga-forward-kelly-olynyk-inks-contract-/",
         "link_kind": "item",
@@ -2630,6 +2642,34 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "226f8a4816f678a3",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga's Davis Fogle caps highlight day with 'pretty incredible' 30-point eruption at Kraziness in the Kennel",
+        "link": "http://www.spokesman.com/stories/2026/oct/03/gonzagas-davis-fogle-caps-highlight-day-with-prett/",
+        "link_kind": "item",
+        "date": "2026-10-03T00:00:00+00:00",
+        "summary": "<p>Braden Huff’s Kraziness in the Kennel scoring record wasn’t on Davis Fogle’s radar when Saturday’s intrasquad scrimmage started at McCarthey Athletic Center, nor did it look like something that would be in jeopardy when Fogle missed his first two shots from the field, leaving the sophomore scoreless through five minutes.</p><p>Then Fogle drained a 3-pointer, found his offensive rhythm and continued to pump in shots from virtually every area of the floor, blowing past Huff’s scoring record with 30 points during a 56-45 victory for the White squad.</p><p>Fogle showed glimpses of his improved outside shooting, finishing 11 of 15 from the field, 6 of 7 from the 3-point line and 2 of 2 from the free-throw line. Huff previously owned the two highest-scoring scrimmage totals, with 19 points in 2023 and 17 in 2025, but Fogle officially took the record from his teammate with a 3-pointer at the 6-minute, 37-second mark and continued to attack, scoring nine points over the final five minutes.</p><p>“Luckily he was on my team, I was a little upset (about the record),” Huff said, seated two chairs down from Fogle during a post-scrimmage press conference. “He could’ve scored at least 20, 21, barely broken it, but just had to score 30. All jokes aside, that was pretty incredible. It was a good performance and we’re excited to see that against someone other than our own guys.”</p><p>Fogle, who carved out a role in Mark Few’s rotation during the final two months of his freshman season, scored all 30 of his points during a span of 14 minutes, 12 seconds, and squeezed 11 points into one two minute-stretch.</p><p>“I had no idea what the record was, just going out there hooping,” Fogle said. “I was open, they got me open, just made the shots.”</p><p>Added Huff: “I wouldn’t have passed you the ball if I would’ve known.”</p><!--[photoset id=13232]--><p>Fogle, who had an ice pack taped to his left leg when he arrived to the postgame presser, delivered many of the highlights during Saturday’s preseason showcase, and not necessarily just during the 20-minute scrimmage portion.</p><p>Earlier on, he picked up a dunk contest crown after leaping over 7-foot-1 Massamba Diop, who stood at the egde of the foul circle as Fogle dribbled into the lane and took off, barely clearing the Arizona State transfer before stuffing the ball into the basket with one hand.</p><p>“It was honestly a couple weeks ago in the gym, (SID) Barrett (Henderson) talked to me about doing the dunk contest, I was like this is what I’m going to do,” Fogle said. “Tried it once, pretty easy. (Diop) was cool with it, he trusted me.”</p><p>There were other reassuring signs on Saturday for a Gonzaga team facing a litany of eligibility questions less than a month out from the season opener against Purdue.</p><p>Harwell, one of the 11 players guaranteed to be on the team’s roster for that game, scored 17 points on 6-of-8 shooting and 4 of 5 from the field in his Kraziness debut.</p><p>“It’s been amazing, especially coaches and players, I feel like we’ve all been pushing each other,” said Harwell, a Houston transfer who considered signing with Gonzaga out of high school. “Beginning of the summer, we only had about eight players so just being able to go against each other and have full reps every day and getting back to being myself again.”</p><p>Huff, who hadn’t played in front of a full crowd at the Kennel in 268 days since dislocating his kneecap, was the scrimmage’s third double-digit scorer, totaling 11 points on 4-of-11 shooting.</p><p>The quartet of Fogle, Huff, Harwell and Diop should give the Zags a solid foundation, even if one or multiple eligibility decisions don’t go their way in the upcoming weeks or months. The outlook for a projected preseason top 10-20 team would obviously be even better if fifth-year transfers Xaivian Lee, Chauncey Wiggins and Javon Bennett, and Spanish forward Izan Almansa are cleared to suit up.</p><p>Three of those four participated in Saturday’s scrimmage, with Bennett sitting out due to a minor shoulder injury the point guard suffered earlier this week. Lee started at point guard for the White squad, scoring nine points to go with four assists, while Wiggins had eight points on two made 3’s and Almansa added seven points and seven rebounds for the Blue team.</p><p>Lee is currently eligible through a temporary restraining order in California, but Wiggins and Bennett are ineligible after the NCAA was granted a stay motion in their respective state lawsuits. Almansa, meanwhile, is still waiting on the NCAA to approve his eligibility waiver.</p><p>“The best expectation would be the NCAA just lets these guys play,” Few said. “It’s really unfortunate they’re taking this stance. Classes before all these guys have gotten five, six, seven years. Now with our new rule, the classes after them. So I’m not sure why we’re sticking to targeting this one specific group.</p><p>“But now we’ve started school everywhere and rosters are set, it’s a really, really small number that are out there in these things. Our three guys are wonderful guys, they’re good students working on their Master’s. These are the type of guys we should have in college basketball.”</p><p>French point guard Nathan De Sousa, who was recently cleared to play by the NCAA, was solid for the Navy team, tallying seven points and five assists.</p><p>Collectively, the Navy and White teams combined to finish 18 of 32 (56%) from the 3-point line during Saturday’s 20-minute scrimmage – another encouraging sign for a team that shot 33.3% last season, never making more than 14 3’s in a single game.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "872e93f9ae7175db",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Multiple Zags show promise from behind 3-point arc at Kraziness",
+        "link": "http://www.spokesman.com/stories/2026/oct/03/multiple-zags-show-promise-from-behind-3-point-arc/",
+        "link_kind": "item",
+        "date": "2026-10-03T00:00:00+00:00",
+        "summary": "<p>For the first time in at least a decade, Gonzaga’s Kraziness in the Kennel didn’t include a 3-point competition, so the Navy and White teams used an entertaining 20-minute scrimmage to show off their perimeter shooting.</p><p>The Zags, coming off the worst 3-point shooting season (33.3%) in program history, had no issues from distance Saturday at the McCarthey Athletic Center.</p><p>White, which pulled away to win 56-45, canned 11 of 17 behind the arc, paced by sophomore wing Davis Fogle’s 6 of 7. Navy wasn’t far behind, hitting 7 of 15, led by Houston transfer Isiah Harwell’s 4 of 5 on 3s.</p><p>The annual Kraziness event served as the public’s first glimpse at the 2026-27 Zags and fans got to see 3-point accuracy that often was missing on last year’s squad.</p><p>Making snap judgements from a preseason scrimmage isn’t advisable, but it was a promising sign when five different Zags – Harwell, Fogle, Florida transfer guard Xaivian Lee, Braden Huff and Florida State transfer forward Chauncey Wiggins – connected on 3-pointers in the scrimmage’s first 6 minutes and 8 seconds.</p><p>Lee finished 3 of 6 on 3s and the 6-foot-11 Wiggins made 2 of 5.</p><p>Gonzaga head coach Mark Few witnessed improved 3-point shooting throughout summer and fall drills from a revamped roster with just two returning players, Fogle and Huff.</p><p>“We’ve shot it good,” Few said. “Actually (Dayton transfer guard) Javon (Bennett, who sat out with a shoulder injury) shoots it really good, so we missed that today. But ‘X’ (Lee) has shot it good. It was nice to see Isiah step up and make some and obviously Davis has shot it really well.”</p><p>There’s a reason for that. Fogle estimated he put 500-600 shots daily in the offseason, streamlining his form with assistant coach Stephen Gentry.</p><p>“Last year I had a pretty good season, but I knew (perimeter shooting) was going to be a big step in my game, not only for college but just for the next level,” Fogle said. “Me and coach Gentry really started from zero right when season ended. We were just (taking) form shots, mid-range shots, really trying to keep (the ball) on my right side and eliminate all the moving parts.</p><p>“That, along with me coming back in the gym at night and just repping it out every day, it just became more and more comfortable.”</p><p>Fogle actually was one of the team’s better shooters last season at 35% on 3-pointers as a freshman but understood there was room for growth.</p><p>“Literally when the season was over, we started a 21-day program totally rebuilding his shot, down to how he catches the ball,” Gentry said. “The big emphasis was it’s tight to his body, it’s right and he’s really driving the ball. He’ll hear me say all the time: ‘Tight, right and drive.’</p><p>“To his credit, he totally bought in, totally coachable. He’s got a little shooting routine he goes through every single day as his warmup. He probably knows it better than me at this point.”</p><p>The 6-6 Harwell was a five-star recruit on Gonzaga’s radar before he spent his freshman year at Houston. The Cougars didn’t get the best version of Harwell, who lost valuable development time recovering from a torn ACL as a high school senior.</p><p>“At the beginning, I was with Gentry and ‘B-Mike’ (assistant Brian Michaelson) and we had just been shooting,” said Harwell, who made 27.1% on 3s while averaging just under 14 minutes per game at Houston. “Being able to have an actual offseason where I’m not in the training room as much and just being on the court and getting everything going again was nice.”</p><p>Huff, a 33.3% 3-point shooter last season, made 2 of 3 treys. The 6-10 senior, highly productive and wildly efficient inside the arc the last three seasons, was just 2 of 8 on 2-pointers.</p><p>“I took a lot of time working on (3-point shooting),” Huff said. “I just want to first off get more up this year but also make more at a higher clip. It felt good today. I’ve got to get back to making some hooks and floaters. I missed more than I usually do.”</p><p>The season opener against Purdue is roughly a month away, but Gentry, like Few, has seen encouraging signs from Gonzaga’s primary shooting threats.</p><p>“Xaivian is a way better 3-point shooter than last year’s stats,” Gentry said. “He’s got a good stroke. Javon can really shoot it. There’s nothing we’re doing with his shot. It’s ready to go. (French guard Nathan) De Sousa can shoot it, get a little more arc on his shot. Chauncey obviously can shoot it and get it off, crazy quick. (Izan) Almansa can make open 3s.</p><p>“The unique thing is, too, these guys can make 3s off the bounce, which is really important in attacking switching and respecting guys in ball screens. We’ve had some awesome days in practice and today was maybe a little bit higher than usual, but nothing crazy.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "7ef7c827896fe9e7",
         "sport": "all",
         "medium": "text"
       },
@@ -3150,53 +3190,120 @@
         "id": "7794d7fbd6b95f13",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "Gonzaga point guard commit Javon Bennett encounters eligibility setback after NCAA stay granted in Ohio case",
-        "link": "http://www.spokesman.com/stories/2026/aug/21/gonzaga-point-guard-commit-javon-bennett-encounter/",
-        "link_kind": "item",
-        "date": "2026-08-21T00:00:00+00:00",
-        "summary": "<p>The ongoing, often-unpredictable NCAA 5-in-5 saga has thrown another wrench into the plans of Gonzaga point guard commit Javon Bennett.</p><p>A Dayton transfer who committed to Gonzaga on Aug. 5, Bennett encountered a setback on Friday when the NCAA was granted a stay motion in the federal NCAA v. Wisne lawsuit that protected the point guard and all other student-athletes hoping to secure a fifth year of eligibility.</p><p>It’s the second decision in the last five days that could impact whether Bennett is able to suit up for a Gonzaga team that still doesn’t have a point guard signed to its 2026-27 roster.</p><p>On Monday, the NCAA notched another legal victory when the Ohio Court of Appeals granted a motion to stay an injunction in the Borovicanin v. NCAA lawsuit that included Bennett and 14 other athletes. The Court of Appeals set oral arguments for Sept. 22, suggesting there could be a decision in the Ohio case before Gonzaga opens the college basketball season on Nov. 2.</p><p>For now, both of the injunctions that allowed Bennett to pursue a fifth season of eligibility – the federal one in Colorado and state injunction in Ohio – will be on hold until appeals in both cases are resolved. The point guard was scheduled to arrive in Spokane this Thursday, he recently told The Spokesman-Review in a phone interview.</p><p>“Effective immediately, the age-based eligibility rules will be implemented as the Division I membership intended,” the NCAA wrote in a statement delivered to member schools Friday. “Class members who were allowed to compete because of the Wisne injunction are no longer eligible to compete.</p><p>“The Association will separately continue to defend other similar putative class action lawsuits and the state court cases that have been filed by former student-athletes seeking additional eligibility and expeditiously appeal any cases where former student-athletes have, or will, be granted additional eligibility through separate state court rulings. We are encouraged by the Ohio Court of Appeals’ decision to stay the first of those injunctions pending our appeal.”</p><p>A handful of other players involved in various state lawsuits, including Gonzaga commit Chauncey Wiggins – a fifth-year wing from Florida State who earned an injunction in his home state of Georgia – still have a clear path to eligibility for the time being. Wiggins arrived in Spokane on Friday, according to a photo posted to his Instagram story from McCarthey Athletic Center.</p><p>Gonzaga has also been linked to multiple point guard prospects recently named in a similar California lawsuit, including Florida’s Xaivian Lee. On Tuesday, the 73 athletes named in the California suit were granted a temporary restraining order against the NCAA, enabling that group to pursue a fifth season of eligibility.</p><p>The NCAA is expected to file for stay motions in other state lawsuits, but it hasn’t had a 100% success rate. A court in Tennessee recently rejected the NCAA’s motion to stay an injunction that extended the eligibility for 19 player plaintiffs.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "e44275cd16729b13",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Gonzaga guard Adam Miller signs professional contract with Belgian club Oostende",
-        "link": "http://www.spokesman.com/stories/2026/aug/21/gonzaga-guard-adam-miller-signs-professional-contr/",
-        "link_kind": "item",
-        "date": "2026-08-21T00:00:00+00:00",
-        "summary": "<p>On the heels of a lengthy college basketball career that culminated with a brief stop at Gonzaga, Adam Miller has signed a contract with Basketball Club Coretec Oostende in Belgium’s top professional league.</p><p>The shooting guard agreed to one-year contract with Corotec Oostende, according to a news release from the club Thursday. The team competes in the city of Oostende, a suburb of Bruges located on the northwestern coast of the country.</p><p>Miller played five college seasons over five years, transferring last summer to Gonzaga, where he started in 25 of 35 games and averaged 7.3 points and 1.6 rebounds.</p><p>The 6-foot-3 guard was brought to Spokane as a quality perimeter threat who could enhance the team’s outside shooting, but generally struggled from 3-point range, making just 30.2% of his shots after connecting at a 42.9% clip the year prior.</p><p>Miller was in and out of Gonzaga’s starting lineup, coming off the bench in the team’s opener against Texas Southern before starting in the next seven games and eventually sliding back into a reserve role. The guard moved back into the first five ahead of a Jan. 8 game against Santa Clara and started in the final 18 games.</p><p>Miller reached double figures in 11 games and scored a season-high 21 points, making 7 of 8 shots from the free throw line, in a key road win at Santa Clara on Feb. 14.</p><p>Gonzaga was the fourth and final stop for Miller, a former top-40 national recruit who played on Team USA’s FIBA U-18 World Cup gold medal-winning team with ex-Zag Chet Holmgren.</p><p>The Peoria, Illinois, native played one season at Illinois in 2020-21, teaming up with former Illini and current Gonzaga assistant Stephen Gentry, before using a medical redshirt in 2021-22 and transferring to LSU for the 2022-23 season. Miller started in all 33 games for the Tigers before transferring to Arizona State for the 2023-24 and 2024-25 seasons, starting in 51 of the 53 games he played for Bobby Hurley’s Sun Devils.</p><h3>Haaland lands in Spain</h3><p>Former Gonzaga walk-on Noah Haaland, a native of Rathdrum, is starting his professional career in Spain’s second division.</p><p>Haaland signed a contract with Hestia Menorca, a Primera FEB club located on the Spanish Balearic island of Menorca.</p><p>The 24-year-old forward played in 13 games over two seasons at Gonzaga, briefly entering the team’s frontcourt rotation in 2025-26 when starters Graham Ike and Braden Huff were both sidelined with injuries.</p><p>Haaland averaged 2.0 points and 1.1 rebounds in 10 appearances last season, making his lone start on Senior Day against Portland on Feb. 25. Haaland scored a career-high 10 points with four rebounds in 11 minutes against Pepperdine on Jan. 21, going 4 of 4 from the field and 2 of 2 from the free throw line.</p><p>The 6-foot-9 forward played two seasons at Allan Hancock College in California before transferring to Gonzaga in 2024. At Lakeland High, he earned All-4A Inland Empire League honors as a junior and senior, helping the Hawks advance to the 4A state tournament in 2021.</p><p>Haaland’s father, Dale, played two seasons at Gonzaga from 1985-87 and his mother, Robyn Benson, is a former Zags volleyball player.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "5f29221a88226102",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Oregon State": [
       {
-        "title": "Live updates: Oregon State Beavers at Colorado State Rams",
+        "title": "What Jim Mora said after Colorado State lost to Oregon State",
+        "link": "https://www.oregonlive.com/beavers/2026/10/what-jim-mora-said-after-colorado-state-lost-to-oregon-state.html",
+        "link_kind": "item",
+        "date": "2026-10-04T06:30:27+00:00",
+        "summary": "See what Jim Mora Jr. said after CSU lost to OSU",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "91658bb7814c4f15",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "What JaMarcus Shephard said after Oregon State drubbed Colorado State",
+        "link": "https://www.oregonlive.com/beavers/2026/10/what-jamarcus-shephard-said-after-oregon-state-drubbed-colorado-state.html",
+        "link_kind": "item",
+        "date": "2026-10-04T05:55:13+00:00",
+        "summary": "See what JaMarcus Shephard said after the Beavers beat the Rams",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "d0910c54c1e7e80e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "His wife told him to play. Days after their son's birth, he scored a touchdown",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-named-a-play-after-his-newborn-son-then-he-scored-on-it.html",
+        "link_kind": "item",
+        "date": "2026-10-04T04:41:27+00:00",
+        "summary": "Oregon State tight end Gabe Milbourn, days after becoming a first-time father, scored a touchdown on a play the coaching staff named after his newborn son in a 56-26 win over Colorado State.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "18657df73eb7a0fe",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers rout Colorado State, send defensive coordinator packing",
+        "link": "https://www.oregonlive.com/beavers/2026/10/727-yards-8-touchdowns-a-transformative-win-for-oregon-state-against-colorado-state.html",
+        "link_kind": "item",
+        "date": "2026-10-04T04:30:40+00:00",
+        "summary": "Oregon State set a program record with 727 yards and eight touchdowns, routing Colorado State 56-26 and prompting the Rams to fire their defensive coordinator mid-game.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "15f3fc9e0542c09f",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "CSU defensive coordinator walks out during blowout loss",
+        "link": "https://www.oregonlive.com/beavers/2026/10/colorado-state-defensive-coordinator-left-during-first-quarter-in-loss-to-oregon-state.html",
+        "link_kind": "item",
+        "date": "2026-10-04T03:42:41+00:00",
+        "summary": "CSU coach Jim Mora Jr. stripped defensive coordinator Tyson Summers of play-calling duties after Oregon State scored on its first two drives, prompting Summers to leave the sideline entirely during the 56-26 loss.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "dfe1c2a2f65ca429",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers Dominate Offensively in 30-Point Win At Colorado State",
+        "link": "https://osubeavers.com/news/2026/10/3/football-beavers-dominate-offensively-in-30-point-win-at-colorado-state",
+        "link_kind": "item",
+        "date": "2026-10-04T02:44:00+00:00",
+        "summary": "<img alt=\"Jesse Legree\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/DSC08105.jpeg\" /><br /><br />FORT COLLINS, Colo. - Oregon State opened its 2026 Pac-12 Conference slate with a 56-26 win over Colorado State Saturday at Canvas Stadium.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "bc050892bb208a21",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State rolls past Colorado State for 3rd straight win",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-pummels-colorado-state-to-open-pac-12-play-with-third-straight-win.html",
+        "link_kind": "item",
+        "date": "2026-10-04T01:24:05+00:00",
+        "summary": "Oregon State, owners of one of the most explosive offenses in the country, dominated Colorado State.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "90695b8786c2df0a",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Beavers destroy Colorado State Rams 56-26: Live updates recap",
         "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-beavers-at-colorado-state-rams-live-updates-today.html",
         "link_kind": "item",
         "date": "2026-10-03T20:24:03+00:00",
-        "summary": "Follow live updates from Canvas Stadium as the Beavers take on the Rams.",
+        "summary": "Oregon State dominated Colorado State 56-26 in their Pac-12 opener, leading throughout the game and never trailing after the first quarter.",
         "author": "James Crepea",
         "duration": null,
         "channel_url": "",
         "source": "The Oregonian",
         "id": "41fe72c9963d8d5b",
         "sport": "all",
-        "medium": "text",
-        "also": [
-          "Dam Podcast"
-        ]
+        "medium": "text"
       },
       {
         "title": "What time, TV channel is Oregon State vs. Colorado State today? Odds, streaming, how to watch",
@@ -3252,7 +3359,10 @@
         "source": "The Oregonian",
         "id": "92b9289f4d173775",
         "sport": "all",
-        "medium": "text"
+        "medium": "text",
+        "also": [
+          "Dam Podcast"
+        ]
       },
       {
         "title": "Beavers defeat Texas State, 3-1",
@@ -3704,48 +3814,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State's Newberry breaks through with 1st 100-yard game",
-        "link": "https://www.oregonlive.com/beavers/2026/09/oregon-states-aj-newberry-hits-100-yard-rushing-mark-against-utep.html",
-        "link_kind": "item",
-        "date": "2026-09-27T07:06:39+00:00",
-        "summary": "AJ Newberry appeared in 28 games over four seasons without hitting the 100-yard plateau.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "9be555c228ac9832",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State called for most penalty yards in 5 years in rout of UTEP",
-        "link": "https://www.oregonlive.com/beavers/2026/09/oregon-state-commits-11-penalties-for-120-yards-in-rout-of-utep.html",
-        "link_kind": "item",
-        "date": "2026-09-27T06:52:20+00:00",
-        "summary": "Oregon State committed its most penalties since last year’s season finale at Washington State, with its most penalty yards since Sept. 25, 2021, at USC.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "e4e500c16228e589",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State ends 10-game road skid with rout of UTEP",
-        "link": "https://www.oregonlive.com/beavers/2026/09/oregon-state-snaps-10-game-road-losing-streak-at-hapless-utep.html",
-        "link_kind": "item",
-        "date": "2026-09-27T06:34:08+00:00",
-        "summary": "Oregon State snapped its road woes in dominant fashion, delivering a 33-7 pillar to post whooping of rudderless UTEP Saturday night at the Sun Bowl.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "0b9331cf94117a5d",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Beavers Take Early Advantage, Claim Road Win At UTEP",
         "link": "https://osubeavers.com/news/2026/9/26/football-beavers-take-early-advantage-claim-road-win-at-utep",
         "link_kind": "item",
@@ -3757,34 +3825,6 @@
         "source": "Oregon State Athletics",
         "id": "fbd031fff90b4d2e",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "What JaMarcus Shephard said after Oregon State beat UTEP",
-        "link": "https://www.oregonlive.com/beavers/2026/09/live-updates-jamarcus-shephard-postgame-press-conference-after-oregon-state-beats-utep.html",
-        "link_kind": "item",
-        "date": "2026-09-27T04:12:04+00:00",
-        "summary": "Follow live updates from JaMarcus Shephard's postgame press conference",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "c20dbd171545cda8",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State rolls to 2-2 with dominant win over UTEP",
-        "link": "https://www.oregonlive.com/beavers/2026/09/oregon-state-cruises-past-utep-to-get-to-2-2-entering-pac-12-play.html",
-        "link_kind": "item",
-        "date": "2026-09-27T04:08:46+00:00",
-        "summary": "Oregon State has matched its win total from last season before the start of conference play.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "5e88a7f47ec87900",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -3855,20 +3895,6 @@
         "channel_url": "",
         "source": "Oregon State Athletics",
         "id": "27e9dc910d9003d4",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Beaver Nation Is Taking Over Portland's Living Room. Be There Or Be 'Square'",
-        "link": "https://osubeavers.com/news/2026/9/23/football-beaver-nation-is-taking-over-portlands-living-room-be-there-or-be-square",
-        "link_kind": "item",
-        "date": "2026-09-23T16:21:00+00:00",
-        "summary": "<img alt=\"Gameday @ The Square\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/22/Web_Landing_Page.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "451ab6d3fdef544a",
         "sport": "football",
         "medium": "text"
       },
@@ -3988,6 +4014,20 @@
         "source": "The Daily Aztec",
         "id": "fdd46af00dee4e04",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs Host Texas State for Saturday Night Pac-12 Game",
+        "link": "https://goaztecs.com/news/2026/10/3/san-diego-state-begins-first-season-of-pac-12-play-with-home-game-against-texas-state-1",
+        "link_kind": "item",
+        "date": "2026-10-03T16:27:00+00:00",
+        "summary": "The Aztecs host Texas State at 7:30 p.m. PT Saturday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "4066a2117b57478f",
+        "sport": "football",
         "medium": "text"
       },
       {
@@ -4815,6 +4855,48 @@
     ],
     "Texas State": [
       {
+        "title": "Game Recap: Bobcats Fall at San Diego State",
+        "link": "https://txst.com/news/2026/10/4/football-game-recap-bobcats-fall-at-san-diego-state.aspx",
+        "link_kind": "item",
+        "date": "2026-10-04T09:04:00+00:00",
+        "summary": "<img alt=\"Defense at San Diego State\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/4/MRR-08140.jpg\" /><br /><br />SAN DIEGO (AP) – Texas State football fell to San Diego State on the road, 31-29, to open its inaugural season in the Pac-12 Conference. With the loss, TXST falls to 2-3 (0-1) on the season, while San Diego State improves to 2-3 (1-0).",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "108cf6e31d61448c",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "‘Cats go down with the sickness in second half collapse to SDSU in Pac-12 opener",
+        "link": "https://universitystar.com/36531/sports/cats-go-down-with-the-sickness-in-second-half-collapse-to-sdsu-in-pac-12-opener/",
+        "link_kind": "item",
+        "date": "2026-10-04T08:35:12+00:00",
+        "summary": "SAN DIEGO &#8211; Despite dealing with a plethora of issues from a mumps outbreak to multiple injuries, the San Diego State Aztecs overcame a 14-point first half deficit and snatched a gritty 31-29 victory against the Texas State Bobcats Saturday night at Snapdragon Stadium in San Diego, California. The first ever matchup between the two...",
+        "author": "Ayden Oredson, Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "450da6a53fc9bf2e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Top five finish for the ‘Cats at the Argent Financial Classic",
+        "link": "https://universitystar.com/36530/sports/top-five-finish-for-the-cats-at-the-argent/",
+        "link_kind": "item",
+        "date": "2026-10-04T01:14:35+00:00",
+        "summary": "Texas State Men&#8217;s Golf finished tied for fourth place at the Argent Financial Classic, hosted by Louisiana Tech, at the Squire Creek Country Club Choudrant, Louisiana from Sept. 27-29. The Bobcats entered the final round in fourth place and climbed up to a tie for third place at one point before finishing at 5-under par...",
+        "author": "Cash Arenas, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "4df78557056cb773",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Mumps outbreak hits SDSU ahead of Pac-12 opener vs Texas State",
         "link": "https://universitystar.com/36523/sports/mumps-outbreak-hits-sdsu-ahead-of-pac-12-opener-vs-texas-state/",
         "link_kind": "item",
@@ -4972,20 +5054,6 @@
         "medium": "text"
       },
       {
-        "title": "TXST launches $16.5M baseball and softball facility transformation",
-        "link": "https://universitystar.com/36456/sports/txst-launches-16-5m-baseball-and-softball-facility-transformation/",
-        "link_kind": "item",
-        "date": "2026-09-29T17:00:06+00:00",
-        "summary": "As shovels cut into the dirt between the baseball and softball stadiums Saturday afternoon, Texas State broke ground on a multi-million-dollar project designed to improve player development, recruiting and the fan experience. The estimated $16.5 million project, split into two phases, aims to modernize the facilities and create a dedicated space for the programs. Officials...",
-        "author": "Cody Dotson, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "747dfee765304e6d",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Crowe Named Pac-12 Conference Special Teams Player of the Week",
         "link": "https://txst.com/news/2026/9/28/football-crowe-named-pac-12-conference-special-teams-player-of-the-week.aspx",
         "link_kind": "item",
@@ -4997,20 +5065,6 @@
         "source": "Texas State Athletics",
         "id": "c93fd0ddccdb473d",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Bobcats offense shines in victory over Incarnate Word",
-        "link": "https://universitystar.com/36437/sports/bobcats-offense-shines-in-victory-over-incarnate-word/",
-        "link_kind": "item",
-        "date": "2026-09-27T04:53:08+00:00",
-        "summary": "Sophomore quarterback Brad Jackson tossed five touchdowns as an unstoppable first half offensive performance helped secure the Texas State Bobcats a 63-10 win over the Incarnate Word Cardinals Saturday evening at UFCU Stadium. Jackson&#8217;s five passing TDs, all of which occurred in the first half and each to a different receiver, tied a single-game program...",
-        "author": "Julia Veilleux, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "d5ec6b7c522a5c17",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -5098,20 +5152,6 @@
         "medium": "text"
       },
       {
-        "title": "Game Preview: TXST vs North Texas",
-        "link": "https://txst.com/news/2026/9/17/football-game-preview-txst-vs-north-texas.aspx",
-        "link_kind": "item",
-        "date": "2026-09-17T21:34:00+00:00",
-        "summary": "<img alt=\"D Jackson Touchdown\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/17/26.09.12_FB_UTSA_touchdown_HM-2.jpg\" /><br /><br />Texas State (0-2, 0-0 Pac-12) vs North Texas (1-1, 0-0 AMERICAN)\n\nSaturday, Sept. 19, 2026\nUFCU Stadium (28,000) | San Marcos, Texas\nKickoff: 11:00 a.m. CT",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "8a96f8f8bad7582d",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Johnson Announces Three Staff Additions Ahead of 2026-27 Season",
         "link": "https://txst.com/news/2026/9/15/mens-basketball-johnson-announces-three-staff-additions-ahead-of-2026-27-season.aspx",
         "link_kind": "item",
@@ -5169,6 +5209,20 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "Utah State Football Drops Pac-12 Opener at No. 22 Boise State 37-18",
+        "link": "https://utahstateaggies.com/news/2026/10/3/utah-state-football-drops-pac-12-opener-at-boise-state-37-18.aspx",
+        "link_kind": "item",
+        "date": "2026-10-04T04:13:00+00:00",
+        "summary": "<img alt=\"Utah State's Javen Jacobs runs away from several Boise State defenders during football's 37-18 loss at the Broncos.\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/PAN_USUFBvsBoiseState_0980-2.JPG.png\" /><br /><br />BOISE, Idaho – Utah State football fell to Boise State 37-18 in its first-ever Pac-12 game on Saturday night at Albertsons Stadium.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "c0df53076c9b8f50",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Pac-12 Announces 2026-27 Women’s Basketball Schedule",
         "link": "https://utahstateaggies.com/news/2026/10/2/womens-basketball-pac-12-announces-2026-27-womens-basketball-schedule.aspx",
@@ -5472,20 +5526,6 @@
         "medium": "text"
       },
       {
-        "title": "Football Loses Defensive Battle at No. 19 Washington 16-14",
-        "link": "https://utahstateaggies.com/news/2026/9/12/football-loses-defensive-battle-at-no-19-washington-16-14.aspx",
-        "link_kind": "item",
-        "date": "2026-09-13T00:42:00+00:00",
-        "summary": "<img alt=\"Utah State quarterback Grady Brosterhous rolls out and looks for an open receiver during the team's game at Washington\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/12/PAN_USUFBvsWashington_1356-2.png\" /><br /><br />SEATTLE, Washington – Utah State football fought to the final seconds, but a last-second Hail Mary attempt came up short as the Aggies lost 16-14 at No. 20 Washington on Saturday afternoon at Husky Stadium.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "2d919b62e90c4d90",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "USU opens first game as PAC-12 member with stunning loss to Idaho State Bengals",
         "link": "https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/USU-opens-first-game-as-PAC-12-member-with-stunning-loss-to-Idaho-State-Bengals-e3ognns",
         "link_kind": "item",
@@ -5574,6 +5614,34 @@
     ],
     "Washington State": [
       {
+        "title": "WSU Cougars’ offense shut down in embarrassing loss to Fresno State",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-cougars-offense-shut-down-in-embarrassing-loss-to-fresno-state/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-10-04T05:25:20+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10032026_tzr_tzr_212010.jpg?d=1200x630\"><br/>The boos rained down on Gesa Field like volcanic ash on scorched terrain, directed at all responsible for WSU's latest anemic showing, a 26-6 loss to Fresno State.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "0827bb88a98f66d0",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "After a ghastly offensive showing against Fresno State, WSU must make big changes to save its season | Analysis",
+        "link": "http://www.spokesman.com/stories/2026/oct/04/after-a-ghastly-offensive-showing-against-fresno-s/",
+        "link_kind": "item",
+        "date": "2026-10-04T00:00:00+00:00",
+        "summary": "<p>PULLMAN — Kirby Moore rode into this new era under a gorgeous sky, the sun glimmering down at the Pullman-Moscow Regional Airport, where a host of supporters waved crimson Washington State fans to welcome their new coach home. Moore sat shotgun in a white Jeep Wagoneer rolling through the gate, making its way to the road, before he hopped out and shared a short message with the fans gathered.</p><p>“Thank you guys. Appreciate you coming out,” Moore said, wearing a crimson crewneck and khaki pants. “Excited to be home and build this thing. I’ll see you at the press conference on Tuesday.”</p><p>That was on Dec. 14 of last year, shortly after Moore was hired as the Cougars’ 36th head coach. Fans were excited for a number of reasons, but this one ranked near the top: They were ready to see a fun, high-powered offense return to their program. Moore had just completed three seasons as Missouri’s offensive coordinator, and after a season short on impressive offense, they were ready to see something more imaginative back in place.</p><p>Some of those same people were likely in the stands Saturday evening at Gesa Field, the site of WSU’s unsightly 26-6 loss to Fresno State, showering Moore and the Cougars with boos. They hurled untold amounts of invective. This, an offensive showing devoid of touchdowns and replete with mistakes, wasn’t the product they were promised. In fact, it was the furthest thing, an outing so gruesome that it harkened back to some of this program’s darkest days.</p><p>“They deserve better,” Moore said “There&#8217;s Cougs who travel and alums and people in the Northwest who travel from all over to get here, and they deserve a better product on the field.”</p><p>Where to start with this WSU offensive outing, which played a key role in the Cougars’ loss to open Pac-12 play? Quarterback Caden Pinnick, who took five sacks, threw an interception and wasn’t ready for a snap, resulting in two more turnovers. His team has now lost nine on the year For the second time this season, WSU failed to score an offensive touchdown. The hosts converted just 3 of 14 third-down chances, dropping their season totals to 16-for-59, which is just 27%.</p><p>Think about it this way: In four games against FBS competition, the Cougars have three offensive touchdowns. They have eight turnovers.</p><p>Here on Saturday, the Cougs never got anything going on offense, not even in garbage time, after the Bulldogs had secured the final margin with a hair over three minutes to play. A sampling of the miscues: Pinnick threw a third-down pass behind tight end Jack Pedersen. Receiver Daniel Blood dropped what would have been a conversion. Center Noah Dunham might have been at fault for the aforementioned snap mishap. Wideout Branden Ganashamoorthy ran a route short of the sticks, leading to a punt, one of the eight Max Dean sent away on the night.</p><p>This was the kind of loss that forced Moore to answer some uncomfortable questions after the game. The big one: Is he sticking with Pinnick at quarterback?</p><p>“I think you wanna look at every play,” Moore said, “and see if it&#8217;s scheme, if it&#8217;s personnel, or if there&#8217;s a way that we need to look at why that play went right or it didn&#8217;t go right, and we gotta mark that on every play.”</p><p>What makes Pinnick the right QB to start WSU’s next game, a road test against Utah State next Friday?</p><p>“I think everything, we gotta reevaluate. Obviously it starts with me as the head coach,” Moore said. “On offense, we gotta find ways to score more than six points. I think that&#8217;s the most important thing. We gotta score. Tuesday in the staff meeting, we said we needed to score 27 to win this game. If we score 27, we win this game, and we didn&#8217;t do that.”</p><!--[embed id=12289]--><p>You might notice that Pinnick has not been quoted in this story yet. That’s because he was not made available to the media after Saturday’s game, despite a request from The Spokesman-Review. No WSU offensive players were made available, which is the first time that’s happened this season.</p><p>It’s a bit of a strange look from Pinnick, even if he wasn’t the one who decided he wouldn’t talk. Earlier this season, after delivering a remarkably short postgame after a loss to Kansas State, Pinnick followed up on the next Monday and admitted his mistakes. “As quarterback of this team and university, it’s my job to give this team and institution some pride and belief,” Pinnick said then. “My frustrations from the past two weeks crept up on me.”</p><p>At the time, it registered as a particularly mature moment from Pinnick, who is just 20 years old. He was commended accordingly. Now, after he hasn’t spoken after WSU’s two straight losses, it feels weird. If he wants to be regarded as the poised leader that admitted when he was at fault, he has to keep talking after the hard moments.</p><p>But that’s only the tip of the iceberg for WSU, whose entire offense is up for re-evaluation, Moore said. He wouldn’t specify whether Pinnick would be a part of that, whether coaches would look at quarterbacks Julian Dugger or Owen Eshelman, so that much is unclear. What is much more apparent is that as currently constructed, this Cougar offense is in no place to make a bowl game, much less finish in the top half of the Pac-12 standings.</p><p>We could spend this entire column going over the superlatives, the numbers that might make you wince. The Cougars totaled just 182 yards of total offense. They went 0-for-2 on fourth down. In the second half, they put up just 66 total yards, a number that reflects WSU’s offensive line’s inability to protect Pinnick just as much as it does Pinnick’s inability to make downfield throws and stretch the field vertically.</p><p>Still, perhaps the most striking thing from it all is this: WSU has not made the proper adjustments or played to Pinnick’s strengths. Way back in fall camp, the Cougars’ offense looked similarly listless. At one point, after one scrimmage, WSU’s offense looked bad enough that offensive coordinator Matt Miller sounded the way you would expect him to after this loss, not after an August scrimmage.</p><p>“Not to the standard,” Miller said. “Starting with me, I gotta be better. Gotta lead better. Gotta prepare a better plan for the guys for them to go execute it. So everybody&#8217;s gotta look themselves in the mirror.”</p><p>From that point on, WSU’s offense has languished under all the same problems, from fall camp to Week 1 to Week 5. Pinnick can’t avoid turnovers, which he now has five of, and he won’t throw the ball away when he’s in trouble, even though Moore publicly emphasized the importance of that earlier in the week. The Cougars’ offensive line can’t protect him long enough, leading him to take sacks, and now the counter is at 13. And WSU’s running backs can’t create enough separation, especially in Saturday’s game, finishing with a combined 45 rushing yards between Maxwell Woods, Kirby Vorhees and Leo Pulalasi.</p><p>So if you’re looking for reasons to criticize this WSU offense, start there: The Cougars have not improved in any material way from fall camp to Week 5 of the regular season. They’ve taken steps forward, but they’ve often followed with two steps back. Pinnick hasn’t been all to blame — WSU receivers Darrius Clemons and Blood, tasked with stepping up in the absence of injured star Tony Freeman, combined for six catches for 62 yards on Saturday — but at the heart of the operation, he bears the biggest responsibilities.</p><p>Will he have those same responsibilities next week? That much has yet to unfold, but coaches should have at least entertained the possibility by subbing in Eshelman or Dugger in garbage time, if only to get a peek at their abilities in game settings. Even if they did that, Moore could be truthful in saying Pinnick is the team’s quarterback. He could stick with him. But the least Moore and Miller could have done was give Dugger or Eshelman a chance.</p><p>“With where we were at, just the rhythm,” Moore said, explaining his decision to stick with Pinnick the whole game. “Wanted to keep him going with the first group from an offensive line standpoint. But I think everything on offense, we gotta reevaluate.”</p><p>Is there any hope for WSU, any light at the end of the tunnel? You might have to squint, but it’s there: Activate their running game and take pressure off Pinnick. Limit his menu of throws to short and intermediate routes. And ride their defense, which turned in an excellent game, keeping the team in the game until the fourth quarter, shining brightly.</p><p>Back in December, the sun shone even brighter on Moore as he smiled at fans at the airport. Now the clouds have converged over the operation, forcing him to make serious changes if he wants to pry them open and welcome the sunshine back to Washington State’s proud football program.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "fc17b3bb9153aa34",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Huskies pummel the Cougs in the Apple Puck",
         "link": "https://dailyevergreen.com/199813/sports/hockey/huskies-pummel-the-cougs-in-the-apple-puck/",
         "link_kind": "item",
@@ -5647,16 +5715,30 @@
         "medium": "text"
       },
       {
-        "title": "Washington State looks to start Pac-12 play with win | Live updates",
+        "title": "Washington State's offense shut down in loss to Fresno State | Recap and highlights",
         "link": "http://www.spokesman.com/stories/2026/oct/03/washington-state-looks-to-start-pac-12-play-with-w/",
         "link_kind": "item",
         "date": "2026-10-03T00:00:00+00:00",
-        "summary": "<h3>Pregame</h3><p>Washington State is ready to turn the page on the nonconference portion of its schedule, which resulted in a record of 1-3, and welcome new Pac-12 Conference rival Fresno State.</p><p><a href=\"https://www.spokesman.com/stories/2026/oct/01/it-is-surreal-wsus-jirah-leaupepetele-set-to-squar/\" target=\"_blank\">The Bulldogs</a> are riding a <a href=\"https://www.spokesman.com/stories/2026/oct/02/why-fresno-state-will-beat-washington-state-the-pi/\" target=\"_blank\">three-game win streak</a> after a season-opening loss against USC.</p><p>To knock off Fresno State and get back on track toward bowl eligibility, the Cougars will need to <a href=\"https://www.spokesman.com/stories/2026/oct/02/to-knock-off-fresno-state-in-pac-12-opener-wsu-mus/\" target=\"_blank\">take care of the ball</a> and keep quarterback Caden Pinnick in rhythm. <a href=\"https://www.spokesman.com/stories/2026/sep/29/how-can-wsu-get-its-running-backs-more-involved-in/\" target=\"_blank\">The ground game</a> will also be important as WSU may be without <a href=\"https://www.spokesman.com/stories/2026/oct/01/wsu-rb-kirby-vorhees-listed-as-questionable-te-tre/\" target=\"_blank\">running back Kirby Vorhees</a>.</p><p><a href=\"https://www.spokesman.com/stories/2026/sep/30/whats-behind-some-of-the-wsu-defenses-struggles-ch/\" target=\"_blank\">Washington State&#8217;s defense</a> will also be able to play with more energy if the offense stays consistent.</p><p>Kick off is scheduled for 6:30 p.m. and the TV broadcast can be found on USA.</p><p><strong>Series history</strong></p><p>Washington State holds a 4-2 advantage over Fresno State, winning the last matchup in 2024 on the road 25-17.</p><p><strong>Notable stat</strong></p><p><a href=\"https://www.spokesman.com/stories/2026/oct/02/wsus-keys-to-victory-against-fresno-state-2-minute/\" target=\"_blank\">Washington State quarterback Caden Pinnick</a> has a deep passing grade of 32.6, according to Pro Football Focus. Pinnick&#8217;s grade is four spots up from last among quarterbacks who have tried at least 13 passes of 20-plus yards.</p><h3>Game preview</h3><!--[teaser id=1363413]--><!--[teaser id=1363425]--><!--[teaser id=1363426]--><h3>More on the Cougs</h3><!--[teaser id=1363357]--><!--[teaser id=1363353]--><!--[teaser id=1363286]--><!--[teaser id=1363212]-->",
+        "summary": "<p>PULLMAN — The boo birds rained down on Gesa Field like volcanic ash on scorched terrain, directed at all the men responsible for Washington State’s latest anemic showing, from the head coach to the quarterback to the offensive coordinator to the running backs who couldn’t free themselves, no matter which angle they tried, left or right or forwards or backwards.</p><p>Early on in WSU’s second straight loss, a 26-6 home setback to Fresno State to open competition in the rebuilt Pac-12, frustration was already beginning to set in. Quarterback Caden Pinnick was missing throws. Receivers were running routes short of first-down markers. They couldn’t handle a shotgun snap and lost a fumble.</p><p>So WSU coach Kirby Moore heard about it from the crowd at Gesa Field, where the Cougars generated 182 yards of total offense in this loss, losing two turnover and going 3-for-14 on third down. WSU slogged through six three-and-outs, too. In their fourth loss of the season, the Cougars showed almost no ability to move the ball, turning in one of the most ghastly offensive showings in program history.</p><p>With this performance, WSU now has three offensive touchdowns in four games against FBS competition.</p><p>For the game, Pinnick completed 21 of 34 passes for 152 yards and an interception, his worst showing of the season, but the Cougars’ lack of execution also lost them this game. Pinnick, who was sacked seen times, couldn’t throw the ball away when opportunities surfaced. On one third-down pass late in the game, he threw behind tight end Jack Pedersen. On one earlier in the game, Pinnick threw short of wideout Branden Ganashamoorthy.</p><p>Above all, it amounted to the kind of listless offensive showing that rarely shows up at Washington State, which is known for fun offenses: The Air Raid, the run-and-shoot, quarterbacks throwing for 500 yards a game, running backs breaking into the open field. Here on Saturday night, WSU tailbacks Kirby Vorhees, Maxwell Woods and Leo Pulalasi combined for 45 total rushing yards.</p><p>It was also the second time this season WSU has failed to score an offensive touchdown. Before the first time this season, which came in the Cougars’ road loss to Kansas State, the last time that happened to this program was in 2010. Back then, WSU’s coach was Paul Wulff.</p><p>The Cougars did produce two scoring drives in this game, both of which resulted in field goals from kicker Jack Stevens, who is beginning to turn things around after a sluggish start to the season. In the second quarter, he hit two field goals, the first a 32-yarder to tie the game at 3-all and the second a 50-yarder — the longest of his career — to tie the game at 6-all right before halftime.</p><p>Thanks to WSU’s defense, that was enough to keep the Cougars within one and two scores the entire game. The Cougars were beaten by a handful of Bulldog trick plays — quarterback Jayden Mandal, who connected on 23 of 32 passes for 248 yards, hit a flea-flicker — but they acquitted themselves well otherwise. The Cougs recovered a fumble, and their special-teams unit blocked a field goal, the second time they’ve done that this season.</p><p>But the story here on Saturday night was WSU’s offense, which turned in one of the worst outings the program has ever seen. Even in the Cougars’ most forgettable showings in recent memory — a 10-7 loss to Stanford in 2023, a 15-14 loss to Wyoming in 2024, 59-10 loss to North Texas in 2025 — they scored offensive touchdowns. They showed an ability to move the ball. They showed some level of energy, albeit low and listless.</p><p>WSU showed almost none of that in Saturday’s game, putting Moore and offensive coordinator Matt Miller under a harsh microscope. Will the Cougars consider a change at QB? What changes will they make in response to this blowout?</p><p>WSU returns to action next Friday at Utah State, which is the conference’s only winless team. The Cougars could bounce back in that one, but looking at the way Saturday’s game unfolded, not much will inspire confidence.</p><p><a href=\"https://stats.statbroadcast.com/broadcast/?id=678514\" target=\"_blank\">BOX SCORE</a></p><!--[photoset id=13233]--><!--[teaser id=1363505]--><!--[teaser id=1363501]--><!--[teaser id=1363502]--><h3>First quarter</h3><p><strong>7:01 - FSU 3, WSU 0:</strong> Manaki Watanabe makes a 27-yard field goal after the Cougars&#8217; defense stiffens near the goal line.</p><h3>Second quarter</h3><p><strong><strong>12:34 - FSU 3, WSU 0:</strong></strong> Fresno State quarterback Jayden Mandal fumbles on a QB sneak and WSU&#8217;s Khamari Terrell recovers.</p><p><strong>9:27 - WSU 3, FSU 3:</strong> Jack Stevens makes a 32-yard field goal to tie the score.</p><p><strong>6:06 - FSU 6, WSU 3:</strong> Watanabe connects on a 22-yard field goal.</p><p><strong>0:00 - WSU 6, FSU 6:</strong> Stevens hits a career-long 50-yard field goal to even the score.</p><h3>Halftime</h3><p>Washington State and Fresno State spent the first half trading field goals.</p><p>WSU quarterback Caden Pinnick finished the first half with 82 passing yards, 28 of those yards to his leading receiver Branden Ganashamoorthy.</p><p>Fresno State QB Jayden Mandal has passed for 112 yards so far.</p><h3>Third quarter</h3><p><strong>9:41 - FSU 13, WSU 6:</strong> Josiah Freeman scores the game&#8217;s first touchdown on a 3-yard rush.</p><!--[embed id=12287]--><p><strong>9:37 FSU 13, WSU 6:</strong> FSU recovers a Pinnick fumble and starts its drive on the Cougars&#8217; 24.</p><p><strong>7:13 - FSU 13, FSU 6:</strong> Damarjhe Lewis blocks a Watanabe field goal attempt to keep WSU within one possession.</p><h3>Fourth quarter</h3><p><strong>11:00 - FSU 16, WSU 6:</strong> Watanabe hits a 31-yard field goal to push the Bulldogs&#8217; lead to 10.</p><p><strong>3:54 - FSU 23, WSU 6:</strong> Julius Gillick bounces outside to rush for an 8-yard touchdown to extend the Bulldogs&#8217; advantage.</p><p><strong>3:44 - FSU 23, WSU 6:</strong> Pinnick is hit as he throws and the ball is intercepted by Justin Johnson.</p><p><strong>3:15 - FSU 26, WSU 6: </strong>Watanabe makes his fourth field goal of the game, this time from 33 yards.</p><h3>Pregame</h3><p>Washington State is ready to turn the page on the nonconference portion of its schedule, which resulted in a record of 1-3, and welcome new Pac-12 Conference rival Fresno State.</p><p><a href=\"https://www.spokesman.com/stories/2026/oct/01/it-is-surreal-wsus-jirah-leaupepetele-set-to-squar/\" target=\"_blank\">The Bulldogs</a> are riding a <a href=\"https://www.spokesman.com/stories/2026/oct/02/why-fresno-state-will-beat-washington-state-the-pi/\" target=\"_blank\">three-game win streak</a> after a season-opening loss against USC.</p><p>To knock off Fresno State and get back on track toward bowl eligibility, the Cougars will need to <a href=\"https://www.spokesman.com/stories/2026/oct/02/to-knock-off-fresno-state-in-pac-12-opener-wsu-mus/\" target=\"_blank\">take care of the ball</a> and keep quarterback Caden Pinnick in rhythm. <a href=\"https://www.spokesman.com/stories/2026/sep/29/how-can-wsu-get-its-running-backs-more-involved-in/\" target=\"_blank\">The ground game</a> will also be important as WSU may be without <a href=\"https://www.spokesman.com/stories/2026/oct/01/wsu-rb-kirby-vorhees-listed-as-questionable-te-tre/\" target=\"_blank\">running back Kirby Vorhees</a>.</p><p><a href=\"https://www.spokesman.com/stories/2026/sep/30/whats-behind-some-of-the-wsu-defenses-struggles-ch/\" target=\"_blank\">Washington State&#8217;s defense</a> will also be able to play with more energy if the offense stays consistent.</p><p>Kick off is scheduled for 6:30 p.m. and the TV broadcast can be found on USA.</p><p><strong>Series history</strong></p><p>Washington State holds a 4-2 advantage over Fresno State, winning the last matchup in 2024 on the road 25-17.</p><p><strong>Notable stat</strong></p><p><a href=\"https://www.spokesman.com/stories/2026/oct/02/wsus-keys-to-victory-against-fresno-state-2-minute/\" target=\"_blank\">Washington State quarterback Caden Pinnick</a> has a deep passing grade of 32.6, according to Pro Football Focus. Pinnick&#8217;s grade is four spots up from last among quarterbacks who have tried at least 13 passes of 20-plus yards.</p><h3>Game preview</h3><!--[teaser id=1363413]--><!--[teaser id=1363425]--><!--[teaser id=1363426]--><h3>More on the Cougs</h3><!--[teaser id=1363357]--><!--[teaser id=1363353]--><!--[teaser id=1363286]--><!--[teaser id=1363212]-->",
         "author": "",
         "duration": null,
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "ecef0e463b69bf71",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Washington State's offense has yet to arrive in new era of Pac-12 | Jacob Thorpe",
+        "link": "http://www.spokesman.com/stories/2026/oct/03/washington-states-offense-has-yet-to-arrive-in-new/",
+        "link_kind": "item",
+        "date": "2026-10-03T00:00:00+00:00",
+        "summary": "<p>This absolutely cannot happen. And it’s happening at the worst possible time.</p><p>Washington State’s football team is bad right now. Worse, it is boring.</p><p>The home crowd – an especially hardy bunch whose members often undertake long journeys just to get to Pullman for the game because they love their Cougs – were loud with their displeasure after the home offense began the game with three feeble drives.</p><p>The Cougars have been bad before, but that was the price paid for playing on the sport’s biggest stage, against its best teams. Fans waited out the bad years with the knowledge that when the Cougars were good, winning the Pac-10 in 1997 and 2002, they were among the nation’s best.</p><p>This was not part of the deal. The absolute only silver lining in WSU’s forced relegation to mid-major status was that the Cougars would for the first time not have to survive as the smallest fish in a big pond. That their peers would face similar challenges. And that WSU’s superior tradition and experience at the top would set up the Cougars to be one of the lead schools in the rebuilt Pac-12.</p><p>That rebuilt Pac-12, a joint salvation project between WSU and Oregon State, formally kicked off for the Cougars on Saturday night. Now the Cougars are 0-1 all-time in a conference they built and look ready to settle into a familiar place in the standings.</p><p>How can fans accept this? How long can they continue to care?</p><p>The disingenuous, or possibly just naïve counterpoint would be to say that Fresno State might be good! They entered the game with a 3-1 record and, … I’m sorry, I can’t do it. This is not Pat Hill or Jeff Tedford or Kalen DeBoer’s Fresno State. This team came into the game an underdog to a WSU team that’s only offense is a kicker who finally seems to be getting over his yips.</p><p>Make no mistake, the conference hierarchy is being established now. WSU’s natural comparison and rival, Oregon State, isn’t dealing with any of this. The Beavers look great! Beyond that, they are rewriting the rules around talent acquisition in this new era.</p><p>WSU, which beat OSU 32-8 the last time they played, has no ability to manufacture explosive plays with wide receiver Tony Freeman out for the season.</p><p>OSU, on the other hand is headlined by freshman wide receiver Jessee Legree who is tied for the national lead in receiving touchdowns with Ohio State’s Jeremiah Smith, the best college wide receiver since Randy Moss.</p><p>Legree has nine receiving touchdowns so far this season, which is three times as many as every WSU player combined.</p><p>This kid is obviously an anomaly, but he’s also a reason OSU is likely to finish near the top of the standings this first year in its new conference. His coaches will be able to tell donors and players that this is a program to invest in. Just look! “Come to Corvallis where you’ll play against mighty Boise State for glory and, if you’re good enough, get big money offers from the schools who passed on you out of high school.”</p><p>What is WSU supposed to say?</p><p>“Come to Pullman. We still don’t win many games, but you’ve got a great shot at playing time! And the fans won’t boo much longer, they’re almost hoarse.”</p><p>What is the solution? I don’t know, I don’t get paid as much as the people who are supposed to find the answers to that. Conference rival Colorado State fired its defensive coordinator in the middle of a game on Saturday, and I can’t imagine anything the Rams defense was doing was as embarrassing as those last five minutes of the WSU game.</p><p>But what I do feel qualified to say is there is no structural reason for WSU to look this pathetic. This should be getting easier. The Cougars are in a conference again.</p><p>After the original Pac-12 disbanded WSU was in the wilderness for two years. Each year the Cougars made a bowl game, one year reaching as high as No. 18 in the College Football Playoff rankings.</p><p>They set themselves up well to start this new era in pole position with rivals they chose. If they can’t give fans something to cheer for soon, they will win this new Pac-12 about as often as they won the old one.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "ca327f73a633bff1",
         "sport": "football",
         "medium": "text"
       },
@@ -6416,10 +6498,7 @@
         "source": "The Seattle Times",
         "id": "df30d9494c9aac84",
         "sport": "football",
-        "medium": "text",
-        "also": [
-          "The Spokesman-Review"
-        ]
+        "medium": "text"
       },
       {
         "title": "Washington opens Big Ten play, WSU hosts Arizona | Week 4 picks",
@@ -6534,20 +6613,6 @@
         "extent": "59 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Inside the long journey that led DT Paul Hutson to WSU: 'The younger version of myself would be very proud'",
-        "link": "http://www.spokesman.com/stories/2026/sep/24/the-younger-version-of-myself-would-be-very-proud-/",
-        "link_kind": "item",
-        "date": "2026-09-24T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Paul Hutson III likes to say he does best with visual reminders, with illustrations of the goals he’s trying to reach. It’s the reason his X profile picture is the Bronko Nagurski Trophy – awarded to the nation’s top defensive player. It’s the reason he keeps a photo of the NFL draft stage handy on his phone.</p><p>It’s also the reason why, in the Gesa Field locker room after he helped his Washington State defense shut down FCS Duquesne  last weekend, he pulled out his phone. He did a Google search for photos of Noah Fifita, Arizona’s quarterback, found one he liked and saved it .</p><p>He then made it his lock screen wallpaper, swapping out a photo of Carson Camp, the quarterback that WSU had just taken down.</p><p>“It’s just constant visual reminders of things helping me achieve my goals that I set out for myself,” Hutson said.</p><p>You see, Hutson has started a tradition for himself this season, his final year of college football. Before the season, he made a list of all the quarterbacks WSU was likely to face this fall: Demond Williams Jr. at Washington, Avery Johnson at Kansas State, Camp at Duquesne and Fifita at Arizona, which is set to visit Pullman for a primetime matchup on CBS this Saturday.</p><p>At defensive line, where Hutson has started each of the Cougars’ first three games, the quarterback represents the goal he’s trying to reach. By now, Hutson knows the drill – he’s playing his fifth season at his fourth school, looking to hit the double-digit mark in career sacks – but he likes to envision the specific quarterback his team will be facing every week, the jersey he’ll be wearing, exactly what he looks like.</p><p>So after each of WSU’s first three games of the season, Hutson – “P3” to all his teammates and coaches – has picked up his phone and completed the same routine, the same as his goal on the field. He finds a photo of the quarterback of the upcoming opponent, saves it to his phone, then makes it his wallpaper, subbing out a photo of the quarterback the Cougars just played.</p><p>“I’m just a visual learner, visual memory guy,” Hutson said. “So everything I see, if I write it, I see it. If I look at it, I see it, and I just always can remember, ‘Hey, let’s get back to the center and remember what the goal is.’ So that’s just something that helps me personally just know what my goals are whenever things might be up or down, you know?”</p><p>“That sounds right,” WSU coach Kirby Moore added. “Paul is locked in every week to the objective on hand, and he has a great amount of energy every practice. He loves playing the game of football, and I think that’s contagious to his teammates as well.”</p><p>So far, Hutson has collected four total tackles on the season, three of the solo variety. Those may not sound like convincing numbers, but the job of an interior defensive lineman is often thankless, so consider this: Hutson has earned a Pro Football Focus defensive grade of 71.1, which ranks second on the team among players with 80 snaps. He’s also posted a run defense grade of 78.7, tops on the team using the same criteria.</p><p>In other words, Hutson is making an impact that’s equal parts invaluable and invisible. He’s anchoring a WSU defensive line that has looked like one of the team’s best position groups, on either side of the ball. And he’s doing it all slightly undersized, listed at 6-foot-1 and 270 pounds.</p><p>“My three game experience here has been great,” Hutson said. “Definitely for a senior season, it’s been everything I’ve imagined – playing in those big atmospheres, those big-time games is the reason I came here. I feel like just being able to play in those games has been really fun, and just experiencing it with the guys, to see how hard we worked all summer and just everything come together and us growing each and every week, to see us grow from week one to week three has been great.”</p><!--[photo id=932563]--><p>To get here, Hutson has had to follow a winding path. As a three-star prospect in the class of 2022, Hutson figured he would land at a power-conference school right out of IMG Academy, widely regarded as one of the country’s top talent hubs. Instead, Hutson took his talents to FCS Campbell, then transferred to Austin Peay, only to redshirt in 2023. Then in 2024, he returned to Campbell, which he parlayed into a spot at Marshall.</p><p>When last winter arrived, Hutson was on the move again. But this time, he was looking for something different, knowing this season would be his last. He wanted something meaningful, something family-oriented, something that would allow him to play his final year feeling satisfied with the way his career had unfolded.</p><p>So he got in touch with a longtime friend.</p><p>“Yo, bro, what’s up?” Hutson texted WSU defensive tackle Kaden Beatty. “What you trying to do?”</p><p>Turns out, Hutson and Beatty go way back, all the way back to playing Pop Warner in eastern Virginia where they grew up. They played on the same teams, in the same camps. They would get done with a long day of school or practice, then head back to Beatty’s place, where they would jump on the trampoline or play Madden, which Hutson says he’s always been better at than Beatty .</p><p>This winter, though, Beatty was ready to reunite with his Virginia buddy. He helped get Hutson’s film in front of Cougar coaches, Hutson said, which put the wheels in motion. Moore took Beatty’s word into consideration, he said, and besides, the Cougars wanted to find players with proven production on the field. Hutson checked all those boxes.</p><p>“It’s just great to see how far we’ve grown, both as players and just as men,” Hutson said. “It’s great to finish my last year and be able to play with him, alongside with him, train with him, work with him, and just achieve all our goals together.”</p><p>Still, to hear Hutson tell it, he hasn’t always felt so at home. It’s taken a toll on him, moving from city to city, school to school, quite literally every year of his life for the past four years. He’s always harbored confidence internally, he says, but showing it outwardly has required another level of conviction that he didn’t always have.</p><p>For example, he says, it took him some time to crawl out of his shell. “You’re always the new person,” Hutson said. Besides, back when he was a freshman at Campbell, Hutson was learning the value of humility at the same time. When he was coming out of IMG Academy, he envisioned himself going to a power conference school right away, the way alumni like Francis Mauigoa, Kaytron Allen and Carnell Tate did.</p><p>But Hutson landed at Campbell, an FCS program that didn’t play its first season of football until 2008. Then he went to Austin Peay, another FCS club with an all-time winning percentage of just 37%. “I went to the number one school in the country,” Hutson said, referring to IMG Academy, “and going to an FCS school was a humbling experience for me.”</p><p>“So I feel like that was the best opportunity for me to grow at that time in my journey,” Hutson added, “was to be humble and learn like, hey, continue to work, because when your time is called, it&#8217;ll be called.”</p><p>At Marshall, Hutson says, he finally got the kinds of opportunities he always imagined for himself. Playing in all 12 games, he made 40 tackles, including 6 ½ for loss and 3 ½ sacks. He also reeled in two interceptions. He also posted 21 pressures, which ranked in the top 30 in the Sun Belt that season.</p><p>“You&#8217;re on the stage. You&#8217;re able to fully put your talents on display,” Hutson said. “I feel like that was part of my journey as well of being able to show just my talents and everything I&#8217;ve done over the years, and have it on that stage.”</p><p>All of which seems to lead to this question: Is Hutson happy with the odyssey his career has turned into? He’s lived in six different states: Virginia, Florida, North Carolina, West Virginia, Tennessee and now Washington. He’s gone to one school, left for a season and returned the next. He says it’s helped him adapt, helped him feel comfortable in just about any situation he finds himself in.</p><p>But in Hutson’s eyes, how has his career lived up to the vision he saw for himself at the beginning? He doesn’t regret anything, he says, and he believes he’s taken a little something from each stop and applied it to his life as a whole. Now in his final year, he has arrived at the type of place he always visualized for himself.</p><p>He’s found he’s quite skilled at that kind of thing.</p><p>“As it stands right now, I’m definitely happy and I know that the younger version of myself would be very proud,” Hutson said. “Just knowing that I’ve done a lot of things that I’ve always put my mind out to, and I’ve set out to play at the highest level of football, make big plays in big-time games. The multitude of tackles and sacks and touchdowns, all those things. Just being able to have those things in my college career, I can say that I would definitely look back and be proud in knowing that it all came from the work that I invested in at a young age and just continued to hone in on and only get better at. So yeah, I would definitely say that at this moment, I’m proud for sure.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "7e4a4cccfbc8c34c",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "WSU Football: \"6 Seconds\" | Mini-Movie vs. Duquesne | 9/23/26",
@@ -7455,20 +7520,6 @@
         "extent": "9 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "WSU football dealt costly blow with WR Tony Freeman likely out against Kansas State",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-football-dealt-costly-blow-with-wr-tony-freeman-likely-out-against-kansas-state/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-09-07T23:37:29+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09072026_TZR_Tony_Freeman-09062026-JB_tzr_162806.jpg?d=1200x630\"><br/>When Washington State takes the field this weekend at Kansas State, they will likely do so without their best wide receiver.",
-        "author": "Greg Woods",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "2022ac8c7d333ca4",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "LIVE: WSU Loses Apple Cup While Defense Shines",
