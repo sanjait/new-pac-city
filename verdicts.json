@@ -12064,6 +12064,154 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-10-03-2036"
+    },
+    "226f8a4816f678a3": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story covers former Gonzaga forward Kelly Olynyk's new pro contract in Italy, athletics-relevant to the program that produced him.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-04-0140"
+    },
+    "41fe72c9963d8d5b": {
+      "subjects": {
+        "oregon-state": "about",
+        "colorado-state": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary confirms a live athletic contest between the Beavers and the Rams, though it names no specific sport.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "No sport is named in the headline or summary, so both schools were keyed at department level rather than to a specific program.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-04-0140"
+    },
+    "77f3809618ba21d7": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        },
+        {
+          "phrase": "Huskies (University of Washington)",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Washington State hockey is not a program in the registry, and the opponent, the University of Washington, is outside the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-04-0140"
+    },
+    "890e4526380ab071": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Fresno State football's Pac-12 opener on the road against Washington State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-04-0140"
+    },
+    "955af67c90c66bde": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "fresno-state/womens-soccer": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews WSU women's soccer's Pac-12 match against Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ben Walker"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-04-0140"
+    },
+    "d63a1c979b206bc6": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Boise State football's standing as the Group of 6 favorite for the College Football Playoff is the subject of the piece.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-04-0140"
+    },
+    "ecef0e463b69bf71": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The pregame piece previews Washington State football's Pac-12 opener against Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-04-0140"
+    },
+    "f9354f3807866504": {
+      "subjects": {
+        "boise-state": "about",
+        "utah-state": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The post announces today's Boise State vs. Utah State game for fan discussion, though it never states which sport.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The sport is never named in the text, so Boise State was keyed at the department level rather than to a specific program.",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-04-0140"
+    },
+    "fdd46af00dee4e04": {
+      "subjects": {
+        "san-diego-state/womens-soccer": "about",
+        "boise-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The recap covers SDSU women's soccer's 4-1 Pac-12-opening loss to Boise State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Will Magni"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-04-0140"
     }
   },
   "runs": {
@@ -13756,6 +13904,46 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 21.73804789999849,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-04-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-04T01:38:55.818707+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 8,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "77f3809618ba21d7",
+          "source": "The Daily Evergreen",
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "77f3809618ba21d7",
+          "source": "The Daily Evergreen",
+          "phrase": "Huskies (University of Washington)",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 1,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 25.265080799988937,
       "tokens": null,
       "tokens_source": null
     }
