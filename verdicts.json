@@ -12212,6 +12212,276 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-10-04-0140"
+    },
+    "0827bb88a98f66d0": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Washington State's offensive struggles in a football loss to Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-04-1340"
+    },
+    "15f3fc9e0542c09f": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The summary covers both Oregon State's record-setting rout and Colorado State's mid-game coordinator firing as substantial parts of the same story.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-04-1340"
+    },
+    "18657df73eb7a0fe": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary describes an Oregon State tight end scoring a named touchdown in the team's football win over Colorado State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-04-1340"
+    },
+    "450da6a53fc9bf2e": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "texas-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps San Diego State's comeback football win over Texas State in their first-ever matchup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-04-1340"
+    },
+    "4df78557056cb773": {
+      "subjects": {
+        "texas-state/mens-golf": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Texas State men's golf finishing tied for fourth at the Argent Financial Classic.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-04-1340"
+    },
+    "633faa9473e9a921": {
+      "subjects": {
+        "boise-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The post names Boise State's players and coach speaking after \"Boise State's first win in PAC 12 play,\" identifying the program and the athletics context.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-04-1340"
+    },
+    "7ef7c827896fe9e7": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Gonzaga men's basketball players' 3-point shooting at the Kraziness scrimmage.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-04-1340"
+    },
+    "872e93f9ae7175db": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps a Gonzaga men's basketball intrasquad scrimmage, Davis Fogle's scoring record, and the team's eligibility situation.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-04-1340"
+    },
+    "90695b8786c2df0a": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The summary describes Oregon State's football win over Colorado State as its third straight.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-04-1340"
+    },
+    "91658bb7814c4f15": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary name Colorado State coach Jim Mora speaking after his team's football loss to Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-04-1340"
+    },
+    "9b8f0ac0e8fe5458": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "about",
+        "utah-state/football": "about",
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews this week's full Pac-12 football slate, naming eight of the nine schools' Saturday games with times and TV coverage.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-04-1340"
+    },
+    "bd94032a90db8928": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "san-diego-state/volleyball": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews WSU volleyball's upcoming home conference match against San Diego State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-04-1340"
+    },
+    "ca327f73a633bff1": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The byline column argues Washington State's football offense is badly lagging as the new Pac-12 era begins, contrasting it at length with Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jacob Thorpe"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-04-1340"
+    },
+    "d0910c54c1e7e80e": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary name an Oregon State coach speaking after the Beavers' football win over Colorado State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-04-1340"
+    },
+    "d6f12edbadb1546b": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The full slate of Saturday's games listed — Navy/Air Force, Cal/UNLV, Wyoming/North Dakota State, UTEP/New Mexico, San Jose State/Hawaii — contains none of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-04-1340"
+    },
+    "dfe1c2a2f65ca429": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary's subject is Colorado State's defensive coordinator being stripped of duties and leaving the sideline during the loss to Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-04-1340"
+    },
+    "fc17b3bb9153aa34": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece is labeled Analysis and argues Washington State football must overhaul its offense after the Fresno State loss.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-04-1340"
     }
   },
   "runs": {
@@ -13944,6 +14214,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 25.265080799988937,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-04-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-04T13:39:13.205713+00:00",
+      "items": 17,
+      "verdict_counts": {
+        "publish": 16,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 6
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 35.81712740001967,
       "tokens": null,
       "tokens_source": null
     }
