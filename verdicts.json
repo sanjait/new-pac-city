@@ -12482,6 +12482,155 @@
       "extent": "8 min read",
       "lock": "paywall",
       "run": "run_2026-10-04-1340"
+    },
+    "10bff180a66dc465": {
+      "subjects": {
+        "boise-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full game story of Boise State's 37-18 win over Utah State to open Pac-12 play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-05-0140"
+    },
+    "11b46ed29b92fa57": {
+      "subjects": {
+        "texas-state/womens-soccer": "about",
+        "san-diego-state/womens-soccer": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State's 1-0 women's soccer loss to San Diego State in its Pac-12 home opener.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-05-0140"
+    },
+    "3343a45e23a36ec7": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "san-diego-state/volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Washington State's straight-set volleyball loss to San Diego State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-05-0140"
+    },
+    "410f7d7870213261": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline names Oregon State as a two-touchdown point-spread favorite over San Diego State ahead of their game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-05-0140"
+    },
+    "48f87583c7ef342f": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of San Diego State's comeback 31-29 win over Texas State to open Pac-12 play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jason Testa"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-05-0140"
+    },
+    "5a1116ebe3005085": {
+      "subjects": {
+        "oregon-state/mens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State men's soccer defeating UC Riverside 4-1 for its first Pac-12 win.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-05-0140"
+    },
+    "79a5430230ad59f9": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "boise-state/womens-volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Boise State's straight-set volleyball sweep of Texas State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rhianna Aleman"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-05-0140"
+    },
+    "e5f77bd1774c990d": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Fresno State's 26-6 upset win over Washington State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-05-0140"
+    },
+    "fdced83eaec3d6c3": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "washington-state/football": "involves",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Power-rankings column argues the Pac-12 title race with dedicated result, upcoming-matchup, and commentary entries for all eight football programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-05-0140"
     }
   },
   "runs": {
@@ -14241,6 +14390,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 35.81712740001967,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-05-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-05T01:39:06.436648+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 9
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 24.421322800015332,
       "tokens": null,
       "tokens_source": null
     }
