@@ -12631,6 +12631,238 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-10-05-0140"
+    },
+    "33a1c11679fbc4b8": {
+      "subjects": {
+        "boise-state/football": "about",
+        "utah-state/football": "about",
+        "oregon-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full-text roundup gives dedicated game coverage to Boise State, Oregon State, San Diego State, Texas State, Colorado State, and Utah State football.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-05-1341"
+    },
+    "36c194b5377ec8d0": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish takeaways from Oregon State's football win over Colorado State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-05-1341"
+    },
+    "47f7e17296a12422": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full-text breakdown of five takeaways from Washington State's football loss to Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-05-1341"
+    },
+    "5074719ff9c60bf6": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is entirely about Boise State football's ranking in the latest AP Poll.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-05-1341"
+    },
+    "5a2db3bd1d7e0ec7": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The full recap covers Mountain West games among schools outside the nine (Air Force, Navy, UNLV, Cal, North Dakota State, Wyoming, New Mexico, UTEP, Hawaii, San Jose State), with no covered program appearing.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-10-05-1341"
+    },
+    "7f487dc4c2849800": {
+      "subjects": {
+        "utah-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full-text coverage of Utah State women's basketball media day previewing the coming season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-05-1341"
+    },
+    "81cd29b3d4e82d77": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The full-text game recap is entirely about San Jose State and Hawaii football, neither of which is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-05-1341"
+    },
+    "8e3bccf0a8239df9": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an interview about Fresno State's first Pac-12 football win, over Washington State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-10-05-1341"
+    },
+    "a8a1cb3c783d393e": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a recurring segment about a historic Fresno State football win over Washington State in the 2022 LA Bowl.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-10-05-1341"
+    },
+    "d6b009244788e234": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a segment with a former Fresno State player discussing the team's football win over Washington State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-10-05-1341"
+    },
+    "d9c73cfdc9c6184e": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Full-text analysis argues what Washington State's football program must change after its loss to Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-10-05-1341"
+    },
+    "e21fa3ab394e10dd": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "about",
+        "boise-state/football": "about",
+        "utah-state/football": "about",
+        "fresno-state/football": "about",
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Montana State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Idaho",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full-text roundup gives dedicated game recaps to eight of the nine covered schools' football teams plus a conference standings section.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-10-05-1341"
+    },
+    "f673a3e3f68a1a65": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews next Saturday's Fresno State-Boise State football matchup as a de facto conference title game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-05-1341"
     }
   },
   "runs": {
@@ -14414,6 +14646,67 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 24.421322800015332,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-05-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-05T13:39:16.752703+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 11,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 3
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "33a1c11679fbc4b8",
+          "source": "Mountain West Connection",
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        },
+        {
+          "id": "81cd29b3d4e82d77",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "81cd29b3d4e82d77",
+          "source": "Mountain West Connection",
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e21fa3ab394e10dd",
+          "source": "Mountain West Connection",
+          "phrase": "Montana State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e21fa3ab394e10dd",
+          "source": "Mountain West Connection",
+          "phrase": "Idaho",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 27.3358784999582,
       "tokens": null,
       "tokens_source": null
     }
