@@ -13186,6 +13186,60 @@
       "extent": "14 min read",
       "lock": "free",
       "run": "run_2026-10-06-0142"
+    },
+    "18c367ea79f957da": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story covers OSU's incidental fee committee budgeting process, not any covered program's athletics, with sport clubs named only as one of six funded programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "John Pranger"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-06-1339"
+    },
+    "2121d27e0ef35a51": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is about former Fresno State football player Logan Mankins' induction into the team's Ring of Honor.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-10-06-1339"
+    },
+    "7f6a3e96094c107c": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece is about Fresno State men's basketball's roster overhaul ahead of the 2026-27 season.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-10-06-1339"
+    },
+    "f66f97131bcab486": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece profiles OSU alum Tim Leatherman's multi-tool invention and new book, mentioning only an intramural table-tennis title with no athletics subject.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Lucy Gilchrist"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-06-1339"
     }
   },
   "runs": {
@@ -15065,6 +15119,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 42.466821099980734,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-06-1339": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-06T13:38:55.309063+00:00",
+      "items": 4,
+      "verdict_counts": {
+        "drop": 2,
+        "publish": 2
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 2
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 8.173691500036512,
       "tokens": null,
       "tokens_source": null
     }
