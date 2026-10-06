@@ -12863,6 +12863,329 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-10-05-1341"
+    },
+    "0e5f1a42a07836a7": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The post covers Boise State's coaching staff discussing the upcoming matchup against Fresno State with local media.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "15ef796193fc3b8b": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "colorado-state/football": "about",
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece ranks and discusses all eight Pac-12 football programs' performances from the first week of conference play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "2d473c722c31506f": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The recruiting notes and team rankings cover only Mountain West programs (UNLV, New Mexico, San Jose State, Wyoming, etc.), none of which are covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "3120098abe626597": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The weekly power rankings give a result, next matchup and analytical comment for all eight Pac-12 football programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-06-0142"
+    },
+    "36ede6ccbbbcf2c9": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The rankings and commentary cover only Mountain West teams (North Dakota State, New Mexico, Air Force, UNLV, San Jose State, Nevada, Wyoming, Hawaii, UTEP), none of which are covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "4203da6acd3be04b": {
+      "subjects": {
+        "washington-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps WSU's 26-6 loss to Fresno State with detailed stats on both teams' offenses and defenses.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "625dd48c038b311d": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The Week 5 awards cover UNLV, New Mexico, San Jose State and North Dakota State players, none of which are covered schools' programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "642be0426e7e6925": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The title states this covers Oregon State coach JaMarcus Shephard discussing the win at Colorado State and the upcoming matchup with San Diego State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-06-0142"
+    },
+    "7335fbdd682aba00": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The weekly awards give dedicated write-ups to Oregon State's Braden Atkinson and Jesse Legree, Boise State's Jake Ripp, and San Diego State's Jaylon Hawkins.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "81cbbc2d034bb6d0": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary frames San Diego State's depleted, mumps-hit squad as a heavy underdog entering the game against Oregon State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-06-0142"
+    },
+    "8c9a600c1eee4e90": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary state Oregon State's coach is offering MMR booster shots to players ahead of hosting a mumps-affected San Diego State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-06-0142"
+    },
+    "b052d5bacde70812": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews WSU's road game at Utah State while recapping WSU's loss to Fresno State in detail, including both opponents' stats.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-06-0142"
+    },
+    "b1d7b2b79c4fe2ec": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is entirely about Air Force quarterback Liam Szarka's season-ending injury and his backups, with no Pac-12 school appearing.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "bcb4dfff3bf844bf": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article is entirely about WSU coach Kirby Moore taking over offensive playcalling duties from Matt Miller.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "ca3affc0585ca15f": {
+      "subjects": {
+        "texas-state/womens-tennis": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Texas State's singles and doubles results at the River State Shoot-Out tennis tournament.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "d804e63fc661f634": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary states Oregon State's running back corps should be closer to full strength for the game against San Diego State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-06-0142"
+    },
+    "d8066449f0830832": {
+      "subjects": {
+        "colorado-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is a reader survey built entirely around Colorado State coach Jim Mora firing defensive coordinator Tyson Summers during the CSU game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "e8a1d89a35675f3f": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps San Diego State's comeback win over Texas State in detail, with player quotes and game stats.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "f25620ac6014af44": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "fresno-state/womens-soccer": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Washington State women's soccer's 4-0 win over Fresno State with goal-by-goal detail and player quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ben Walker"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-06-0142"
+    },
+    "fcf5bfb15249c153": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The FCS ballot and recaps cover only FCS programs (Idaho, Montana State, South Dakota State, etc.), none of which are covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "14 min read",
+      "lock": "free",
+      "run": "run_2026-10-06-0142"
     }
   },
   "runs": {
@@ -14707,6 +15030,41 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 27.3358784999582,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-06-0142": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-06T01:39:19.182594+00:00",
+      "items": 20,
+      "verdict_counts": {
+        "publish": 15,
+        "drop": 5
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 4,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 4
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "b1d7b2b79c4fe2ec",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 42.466821099980734,
       "tokens": null,
       "tokens_source": null
     }
