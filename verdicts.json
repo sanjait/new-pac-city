@@ -13240,6 +13240,228 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-10-06-1339"
+    },
+    "1af59dc184fce7cd": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews WSU's upcoming road game at Utah State, with substantial detail on Utah State's roster and a detailed recap of WSU's prior loss to Fresno State.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Fresno State's trick-play and score detail is substantive but serves mainly as background for WSU's story, so involves vs. mentions was close.",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-07-0141"
+    },
+    "221a8615e809838a": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The summary names the Oregon State football duo of Atkinson and Legree as the subject of this feel-great-team column.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Bill Oram"
+      ],
+      "run": "run_2026-10-07-0141"
+    },
+    "29c0f4fb46394f31": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Full analysis of Washington State's quarterback decision among its three options ahead of Friday's game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-07-0141"
+    },
+    "2b3fdcb2180a1ce0": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Washington State hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Covers a Washington State hockey loss to Washington, but hockey is not a program in Washington State's registry row and Washington is not one of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-07-0141"
+    },
+    "514772d9b385340e": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "about",
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "colorado-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Bowl-projection roundup gives each of eight covered schools its own dedicated projection and comment, alongside legacy Pac-12 schools outside the nine.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Several of the covered schools get only a short paragraph each, bordering between about and involves for that team's entry.",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-07-0141"
+    },
+    "72b6d54f4ad1255d": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force football",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Wyoming football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The link roundup's substantive items are Air Force and Wyoming football, neither covered; Colorado State appears only in a one-line aside question.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-07-0141"
+    },
+    "76231f3de058b310": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a recruit's decommitment from Oregon State football, which is recruiting news for the program.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-07-0141"
+    },
+    "8e887d52c341e18f": {
+      "subjects": {
+        "texas-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of Texas State's Pac-12-opener collapse against San Diego State, with specific plays and stats for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-07-0141"
+    },
+    "b51ecbc89af650cc": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece is a sustained historical retrospective on a 2001 Boise State-Fresno State football game and its lasting impact on both programs, tied to their 2026 rematch.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "8 min read",
+      "lock": "free",
+      "run": "run_2026-10-07-0141"
+    },
+    "d69ec1d595bc87ad": {
+      "subjects": {
+        "boise-state/womens-soccer": "about",
+        "san-diego-state/womens-soccer": "involves",
+        "gonzaga/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Boise State women's soccer wins over San Diego State and Gonzaga, with specific scoring and play detail for each opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-07-0141"
+    },
+    "d811f587efe2233c": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Weekly roundup covers the NFL performance of several former Washington State football players, which is athletics-relevant alumni coverage.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-07-0141"
+    },
+    "df4e7bc70535aacd": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Obituary centers on Dennis Franchione's tenure and program-record status as a Texas State football head coach.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-07-0141"
+    },
+    "eac07ee2427160c6": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature follows a player's path onto the Texas State women's soccer roster and her role on the team this season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-07-0141"
     }
   },
   "runs": {
@@ -15146,6 +15368,53 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 8.173691500036512,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-07-0141": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-07T01:39:21.065620+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 11,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 1,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "2b3fdcb2180a1ce0",
+          "source": "The Daily Evergreen",
+          "phrase": "Washington State hockey",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "72b6d54f4ad1255d",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force football",
+          "kind": "not-ours"
+        },
+        {
+          "id": "72b6d54f4ad1255d",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming football",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 31.13458910002373,
       "tokens": null,
       "tokens_source": null
     }
