@@ -13462,6 +13462,72 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-10-07-0141"
+    },
+    "079021d35e82f896": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece is entirely about Washington State's offensive coaching change, the new QB competition, and the depth chart ahead of the Utah State game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-07-1340"
+    },
+    "1c7e811bedab3f72": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "involves",
+        "washington-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "This Week 5 roundup gives Oregon State, Boise State, Fresno State, Colorado State, and Texas State each their own substantive recap, with San Diego State's comeback and Washington State's offensive struggles also detailed.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-07-1340"
+    },
+    "2d70724e0425d75e": {
+      "subjects": {
+        "colorado-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "One full segment of the podcast is devoted to Colorado State firing its defensive coordinator at halftime, a real subject beyond the other non-covered teams discussed.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-07-1340"
+    },
+    "f8cbc09a9dc320b2": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary alone establish Chad Johnson's alumni visit to Oregon State's football program and his praise for receiver Jesse Legree.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-07-1340"
     }
   },
   "runs": {
@@ -15415,6 +15481,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 31.13458910002373,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-07-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-07T13:39:19.443338+00:00",
+      "items": 4,
+      "verdict_counts": {
+        "publish": 4
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 7.74868040002184,
       "tokens": null,
       "tokens_source": null
     }
