@@ -13528,6 +13528,179 @@
         "James Crepea"
       ],
       "run": "run_2026-10-07-1340"
+    },
+    "13ae7b8e292aee65": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Arizona Wildcats",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "West Virginia Mountaineers",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece is a retrospective on Arizona and West Virginia football and Rich Rodriguez's career at neither covered school; Oregon State appears only once in a passing rushing-yardage stat line.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "12 min read",
+      "lock": "free",
+      "run": "run_2026-10-08-0141"
+    },
+    "20022337625c0d11": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "utah-state/womens-soccer": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State women's soccer traveling to face Utah State, with quotes from the WSU coach and both teams' records.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ben Walker"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-08-0141"
+    },
+    "3683447ae6d8c55e": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers a College of Health lecture series at the Hallie Ford Center, which is not athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Michaela Bauer"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-08-0141"
+    },
+    "398a909a577d3806": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Weighs which quarterback Washington State football should start against Utah State, ahead of Friday's game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-10-08-0141"
+    },
+    "4cee282906979d87": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary cover an Oregon State football player's season and his stated priorities as a blocker.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-08-0141"
+    },
+    "57175517cfe30d00": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State football cornerback moving into a starting role amid injuries.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-08-0141"
+    },
+    "692ae149eeec7375": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers ASOSU student-government statute amendments on student fees, which is campus governance, not athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Gabriel Robinson"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-08-0141"
+    },
+    "bbfac15818b89631": {
+      "subjects": {
+        "fresno-state/womens-soccer": "about",
+        "boise-state/womens-soccer": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Fresno State women's soccer hosting Boise State, with records and recent results for both.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-08-0141"
+    },
+    "da9ac6b2f91c5ca9": {
+      "subjects": {
+        "boise-state": "about",
+        "fresno-state": "about",
+        "texas-state": "involves",
+        "san-diego-state": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The digest covers a Boise State-Fresno State conference-title matchup, the death of former Texas State coach Dennis Franchione, and a San Diego State win.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "None of the blurbs names a sport for the Boise-Fresno matchup or Franchione's coaching tenure, so I kept these at department level rather than inferring football from the conference-title framing.",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-08-0141"
+    },
+    "dfe4b46c9eceed23": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary state Oregon State football is considering a jersey patch sponsor for the season's second half.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-08-0141"
+    },
+    "fec24b7e9b16155d": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece recounts the Fresno State-Boise State football rivalry's history ahead of their Oct. 10 game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-08-0141"
     }
   },
   "runs": {
@@ -15505,6 +15678,47 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 7.74868040002184,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-08-0141": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-08T01:39:39.636763+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "drop": 3,
+        "publish": 8
+      },
+      "hidden_per_source": {
+        "Press Break": 1,
+        "The Daily Barometer": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "13ae7b8e292aee65",
+          "source": "Press Break",
+          "phrase": "Arizona Wildcats",
+          "kind": "not-ours"
+        },
+        {
+          "id": "13ae7b8e292aee65",
+          "source": "Press Break",
+          "phrase": "West Virginia Mountaineers",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 25.9052600999712,
       "tokens": null,
       "tokens_source": null
     }
