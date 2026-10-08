@@ -13701,6 +13701,141 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-10-08-0141"
+    },
+    "5b8963f24ddeb5d3": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "San Diego State's win and offensive struggles are the subject, with the upcoming Oregon State matchup and a Pac-12 standings discussion of Boise State and Fresno State each given substantive, specific treatment.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-08-1341"
+    },
+    "62a13c137b80bda1": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Boise State is invoked repeatedly as the column's central recurring example in its Group of 6 vs. Power 4 argument; Washington State and Oregon State appear only in a single incidental aside.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Boise State is used as illustrative evidence for a general conference-politics argument rather than being written about in its own right, so involves vs. mentions is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-08-1341"
+    },
+    "7d9a028b0325134b": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos football under Dennis Franchione",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The tribute is about Dennis Franchione's tenure at New Mexico, a program outside the nine; Texas State appears only as a passing stop in his coaching timeline.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "19 min read",
+      "run": "run_2026-10-08-1341"
+    },
+    "801fe0f1fa7d96a5": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "North Dakota State at UNLV, San Jose State vs. Wyoming, Nevada vs. UTEP best bets",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "All three betting picks are Mountain West matchups outside the nine schools; Oregon State appears only once, in an incidental list of UTEP's opponents.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-08-1341"
+    },
+    "aa86d5ba90d61351": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "colorado-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Projects bowl placements for six of the nine schools' football programs, each given individual treatment, inside a piece explicitly built around the new Pac-12's bowl tie-in structure.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-08-1341"
+    },
+    "b098c460d9154367": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary together identify an Oregon State baseball recruiting commitment and name it as the fourth pitcher in the 2027 class.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-08-1341"
+    },
+    "bb504ad053450a21": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary identify an Oregon State linebacker's unavailability for an upcoming game and give his season tackle total.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-08-1341"
+    },
+    "e2da92a6b4ec966f": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Washington State's offensive line performance and quarterback struggles this season are the subject, broken down with PFF grades and play-by-play detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-08-1341"
     }
   },
   "runs": {
@@ -15719,6 +15854,46 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 25.9052600999712,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-08-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-08T13:39:42.240875+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 6,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "7d9a028b0325134b",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico Lobos football under Dennis Franchione",
+          "kind": "not-ours"
+        },
+        {
+          "id": "801fe0f1fa7d96a5",
+          "source": "Mountain West Connection",
+          "phrase": "North Dakota State at UNLV, San Jose State vs. Wyoming, Nevada vs. UTEP best bets",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 15.269962300080806,
       "tokens": null,
       "tokens_source": null
     }
