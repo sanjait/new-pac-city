@@ -14032,6 +14032,270 @@
       "extent": "1 min read",
       "lock": "paywall",
       "run": "run_2026-10-09-0142"
+    },
+    "25ba6311f662bb8f": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary establishes San Diego State football arriving shorthanded for Saturday's matchup at Oregon State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-09-1341"
+    },
+    "29903952b08142b6": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The matchup previewed is Wyoming at San Jose State, both outside the nine, with no covered school discussed.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-09-1341"
+    },
+    "410c612c9fec4c8c": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The 2-minute drill breaks down keys to victory for Washington State football's Friday game against Utah State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-09-1341"
+    },
+    "46b7b673fc0597da": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary establishes an Oregon State football cornerback depth report ahead of the San Diego State game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-09-1341"
+    },
+    "4b85512917560b65": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The piece is entirely about Air Force football's QB situation and Commander-in-Chief Trophy chase, against Army and Navy, none of which are covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-09-1341"
+    },
+    "62e23d506c4cd8ba": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The full text is a feature on San Diego State men's soccer leaning on young players through a winless streak.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jesus Garcia"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-09-1341"
+    },
+    "64c4a9fae6608e11": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews Washington State football's quarterback decision ahead of Friday's game at Utah State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-09-1341"
+    },
+    "7a12ec9efea4a5be": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary establishes the Boise State coach commenting on Fresno State's home-field toughness ahead of Saturday's game between the two.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-10-09-1341"
+    },
+    "b1701fa89f9e5ba2": {
+      "subjects": {
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The podcast episode is framed around debating the Pac-12 against the Mountain West, making the conference itself the subject.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The description names no specific Pac-12 program and the Pac-12-as-subject treatment is thin, so the conference-level call is close.",
+      "byline": [
+        "Derek Raridon",
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-09-1341"
+    },
+    "b1722ffe429d72fb": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "washington-state/football": "involves",
+        "utah-state/football": "involves",
+        "fresno-state/football": "involves",
+        "texas-state/football": "involves",
+        "conference": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The weekly transfer roundup gives real statistical treatment to incoming transfers at seven of the nine schools alongside Mountain West programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-09-1341"
+    },
+    "c6ad3bb6ebff32a3": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The analysis individually ranks and discusses every PAC-12 football program's five-year FPI trajectory to argue whether realignment helped them.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Toby McMahon"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-09-1341"
+    },
+    "cdccb99d03f5f165": {
+      "subjects": {
+        "utah-state/womens-soccer": "about",
+        "washington-state/womens-soccer": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Utah State women's soccer defeating Washington State 2-0 to stay unbeaten in conference play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "20 min read",
+      "run": "run_2026-10-09-1341"
+    },
+    "d4f82c45cb7b00d1": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The preview covers only Air Force and Northern Illinois football, neither a covered school, with no mention of any of the nine.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sean OToole"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-09-1341"
+    },
+    "dee14c3954d1c8e4": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary establishes an Oregon State football safety's comeback season, which is athletics coverage of a covered program.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-09-1341"
+    },
+    "ec9a1e197378aaf3": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column argues a predicted outcome, forecasting a Utah State win over Washington State football with a final score.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-09-1341"
     }
   },
   "runs": {
@@ -16126,6 +16390,67 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 27.307280999957584,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-09-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-09T13:39:19.088338+00:00",
+      "items": 15,
+      "verdict_counts": {
+        "publish": 12,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "29903952b08142b6",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "id": "29903952b08142b6",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "4b85512917560b65",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "d4f82c45cb7b00d1",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "d4f82c45cb7b00d1",
+          "source": "Mountain West Connection",
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 31.86369319993537,
       "tokens": null,
       "tokens_source": null
     }
