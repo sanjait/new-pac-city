@@ -13836,6 +13836,202 @@
       "extent": "5 min read",
       "lock": "paywall",
       "run": "run_2026-10-08-1341"
+    },
+    "1dd6e4fae9ffea0e": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The entire piece is about Boise State football's season and playoff positioning.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Utah State gets a couple of sentences with specific rushing stats from the game against Boise State, close to involves, but the treatment mirrors the non-covered opponents (Memphis, Western Michigan, South Dakota) recapped alongside it, so it was left out as a mention.",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-09-0142"
+    },
+    "2993f04d2d223b84": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A Mountain West roundup about non-covered schools (UNLV, New Mexico, North Dakota State, Wyoming, Grand Canyon); its only covered-school mention, Colorado State, appears solely as the opponent in a one-line coaching note.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-09-0142"
+    },
+    "79beba4175948509": {
+      "subjects": {
+        "gonzaga": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The text discusses Gonzaga's Kraziness in the Kennel preseason event but never states whether it concerns the men's or women's program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-10-09-0142"
+    },
+    "89b6d6d7c4e095de": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves",
+        "washington-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Headlined on Oregon State's bowl math, the column then gives individual bowl-projection analysis to nearly every one of the conference's football programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-09-0142"
+    },
+    "8a1e736a38e53278": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is about Washington high school football and a mental-health initiative; Washington State appears only as biographical background for a deceased alum and a Seahawks player.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Manley"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-09-0142"
+    },
+    "95b945afb89b09f7": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Boise State men's club soccer",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Boise State's registry row has no soccer program, and this story is specifically about the club (non-varsity) team.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Landon Myers"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-09-0142"
+    },
+    "b918f97b5e39e8fc": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State women's basketball recruiting commitment from a 2027 center.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-09-0142"
+    },
+    "c791d36ac9df5f63": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Headline and lead focus on Washington State's play-calling change, and the Hotline's weekly picks give individual game analysis to several other covered schools.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Six of the nine schools appear across this national picks column, not an exclusively conference slate, so whether that counts as \"most\" for adding the conference key is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-09-0142"
+    },
+    "d4bdb60edfaec14f": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of San Diego State men's soccer's draw against Cal Poly in its Pac-12 home opener.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Leyla Akcaoglu"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-09-0142"
+    },
+    "d54896577718fbe8": {
+      "subjects": {
+        "oregon-state/baseball": "about",
+        "washington-state/baseball": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State baseball home series against Washington State announced for April.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-09-0142"
+    },
+    "d82f4c89cb66675e": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full profile of the Gonzaga women's basketball team and roster ahead of its season-opening Fan Fest.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-09-0142"
+    },
+    "e72043af4f89b5cc": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers former Gonzaga point guard Kevin Pangos's retirement and move into coaching, which is in-scope coverage of an alum's career.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-09-0142"
     }
   },
   "runs": {
@@ -15894,6 +16090,42 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 15.269962300080806,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-09-0142": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-09T01:39:46.693127+00:00",
+      "items": 12,
+      "verdict_counts": {
+        "publish": 9,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1,
+        "The Spokesman-Review": 1,
+        "The Arbiter": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "95b945afb89b09f7",
+          "source": "The Arbiter",
+          "phrase": "Boise State men's club soccer",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 27.307280999957584,
       "tokens": null,
       "tokens_source": null
     }
