@@ -1,11 +1,11 @@
 {
-  "started_at": "2026-10-09T01:03:42.397354+00:00",
-  "finished_at": "2026-10-09T01:03:49.815011+00:00",
+  "started_at": "2026-10-09T13:03:14.839064+00:00",
+  "finished_at": "2026-10-09T13:03:23.381491+00:00",
   "outcome": "published",
   "detail": null,
   "feeds_ok": 60,
   "feeds_total": 60,
-  "items": 579,
-  "content": "a461eb6a161e0ef9",
-  "previous_content": "d56f1c1a3e83440a"
+  "items": 581,
+  "content": "76ece49b0201191b",
+  "previous_content": "a461eb6a161e0ef9"
 }
