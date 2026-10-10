@@ -14296,6 +14296,223 @@
       "extent": "2 min read",
       "lock": "paywall",
       "run": "run_2026-10-09-1341"
+    },
+    "029d29d8d37763cb": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is entirely about Washington State football, comparing head coach Kirby Moore's start to his two predecessors using team stats.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "1178348af119222b": {
+      "subjects": {
+        "boise-state/mens-basketball": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The Boise State men's basketball item about Lamar Washington's court-related absence is one of several topics each given real treatment in this digest.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The qualifying passage is only two sentences inside a multi-topic digest mostly about non-covered Mountain West teams, so whether it figures substantively is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "24d652c661ff2e9c": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "colorado-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Washington State volleyball's straight-sets loss to Colorado State with set-by-set stats for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "2b3399af711ae374": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The live-updates thread covers Washington State football's game at Utah State, including pregame context and in-game plays for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "3 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "4a52797e850644b7": {
+      "subjects": {
+        "utah-state/cross-country": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The brief reports that Utah State hosted its home cross country invitational, naming Utah State cross country as the subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Elise Bliss"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "58763614c8f2e181": {
+      "subjects": {
+        "boise-state/mens-golf": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Boise State golfer Reese Knox's individual title at the Oregon State Invitational, making Boise State men's golf the subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "58d99cdf9110e4e7": {
+      "subjects": {
+        "oregon-state/womens-soccer": "about",
+        "san-diego-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Oregon State women's soccer's 2-2 draw with San Diego State, with goals, saves and quotes from both sides.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "6837465e644b544b": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "gonzaga/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Texas State volleyball's four-set win over Gonzaga with set-by-set detail for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Lucas Castillo"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "8eadcf1fcc80fa2f": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "utah-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Washington State soccer's 2-0 loss to Utah State, with goal and save detail for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ben Walker"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "a6af6a8fb0e37b6e": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary name Oregon State hosting San Diego State at Reser Stadium with a point spread, establishing a football matchup between two covered programs.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-10-0141"
+    },
+    "c572e46177333959": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about",
+        "boise-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Utah State volleyball's four-set loss to Boise State with set scores, stats and coach quotes about both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Quinton Papa"
+      ],
+      "extent": "19 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "cd8f8aac6558a010": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Fresno State football hosting Boise State for the Pac-12 lead, with stats for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Muratalla"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "ddcb32554e1bf761": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about",
+        "boise-state/womens-volleyball": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Fresno State volleyball's home match against Boise State, covering both teams' records.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ashley Mills"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-10-0141"
+    },
+    "f44b22e198148fc6": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Boise State's football matchup at Fresno State with stats and keys to the game for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-10-0141"
     }
   },
   "runs": {
@@ -16451,6 +16668,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 31.86369319993537,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-10-0141": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-10T01:39:24.684264+00:00",
+      "items": 14,
+      "verdict_counts": {
+        "publish": 14
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 33.459094700054266,
       "tokens": null,
       "tokens_source": null
     }
