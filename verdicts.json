@@ -14513,6 +14513,219 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-10-10-0141"
+    },
+    "050c4eaa27befd1c": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "san-diego-state/football": "about",
+        "oregon-state/football": "about",
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The scheduling brief lists three Pac-12 matchups covering six of the nine schools with kickoff times, TV and odds for each.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-10-1342"
+    },
+    "3e4d1b172798dadf": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece builds toward Boise State's Milk Can rivalry game against Fresno State with full roster, injury and narrative detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Petterson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-10-1342"
+    },
+    "4db3df7befea2115": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "An analysis column arguing whether Caden Pinnick should keep starting at quarterback for Washington State after the Utah State loss.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Utah State's scoring plays are described only to illustrate WSU's turnovers rather than analyzed for their own sake, so whether that rises to 'involves' is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-10-1342"
+    },
+    "60a80eaee4b40a13": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Boise State blog's full preview of the Milk Can rivalry game against Fresno State, with injury reports, roster notes and a final score prediction.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-10-1342"
+    },
+    "6a09003a98b83964": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The piece previews Hawaii hosting Arizona State, neither of which is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "Hawaii Warriors",
+          "kind": "not-ours"
+        }
+      ],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-10-1342"
+    },
+    "9b9d1804a45572c6": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of WSU's 17-16 loss to Utah State, centered on the Cougars' second-half offensive collapse.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-10-1342"
+    },
+    "a0ee938edeb1ce73": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The listed games (Wyoming-San Jose State, Nevada-UTEP, North Dakota State-UNLV, Air Force-NIU, Hawaii-Arizona State) involve none of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-10-1342"
+    },
+    "ca5637e07b8d4df5": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "An instant-reactions recap of WSU's loss to Utah State that includes a dedicated section analyzing the Aggies' own offensive numbers.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-10-1342"
+    },
+    "cc30bcf53130d326": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A 'Difference makers' recap naming one standout defender from each team in the same game: Utah State's Cunningham and Washington State's Leaupepetele.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-10-1342"
+    },
+    "cdf89216ac4d979b": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary name Oregon State hosting San Diego State in a football game at Reser Stadium, enough to establish both the program and the sport.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-10-1342"
+    },
+    "e0c4795fef8be2c9": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "about",
+        "san-diego-state/football": "about",
+        "oregon-state/football": "about",
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Three full matchup previews cover six of the nine schools with rosters, stats and score predictions for each game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-10-1342"
+    },
+    "e0eca179632c10c9": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "All five previewed games (San Jose State-Wyoming, Nevada-UTEP, North Dakota State-UNLV, Air Force-NIU, Arizona State-Hawaii) are among schools outside the nine covered.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-10-10-1342"
+    },
+    "ffdd0325fbfdaf5c": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The column argues about Mountain West preseason All-Conference eligibility for GCU, Nevada, UNLV, New Mexico and Wyoming players; a former Utah State guard is named only in passing as his old school.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-10-1342"
     }
   },
   "runs": {
@@ -16692,6 +16905,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 33.459094700054266,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-10-1342": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-10T13:39:26.726674+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 9,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 4
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "6a09003a98b83964",
+          "source": "Mountain West Connection",
+          "phrase": "Hawaii Warriors",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 25.777499800082296,
       "tokens": null,
       "tokens_source": null
     }
