@@ -14726,6 +14726,102 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-10-10-1342"
+    },
+    "2dcf4cd3ffdb0660": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece argues Washington State should bench quarterback Caden Pinnick, drawing substantively on the Utah State loss as evidence.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-11-0140"
+    },
+    "3e1ab4cfcbe53df8": {
+      "subjects": {
+        "utah-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full text recaps Utah State's comeback football win over Washington State, detailing both teams' performance.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "66 min read",
+      "run": "run_2026-10-11-0140"
+    },
+    "c7c5d7a408a92d11": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full text previews Saturday's football matchup between San Diego State and Oregon State, detailing both teams' offenses.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Connor Larson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-11-0140"
+    },
+    "d61c24ea5f0fef73": {
+      "subjects": {
+        "colorado-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports fan reaction to Colorado State football's mid-game firing of coach Tyson Summers, making the program the subject.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-11-0140"
+    },
+    "f43a19b6c1d5082a": {
+      "subjects": {
+        "oregon-state": "about",
+        "san-diego-state": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a live Oregon State-San Diego State athletic contest at Reser Stadium, though no sport is named.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "No sport is stated in the headline or summary, so coverage is recorded at the department level rather than a specific team.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-11-0140"
+    },
+    "fb034e7d7b56cd18": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The columnist argues Washington State must bench quarterback Pinnick after the Utah State loss, which is described in substantive detail.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-10-11-0140"
     }
   },
   "runs": {
@@ -16939,6 +17035,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 25.777499800082296,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-11-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-11T01:39:20.312385+00:00",
+      "items": 6,
+      "verdict_counts": {
+        "publish": 6
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 16.874690699973144,
       "tokens": null,
       "tokens_source": null
     }
