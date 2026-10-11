@@ -14822,6 +14822,312 @@
       "extent": "4 min read",
       "lock": "free",
       "run": "run_2026-10-11-0140"
+    },
+    "0ac9ecb40399627a": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A play-by-play recap of Fresno State's Milk Can loss to Boise State from the Fresno State student paper.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "18093c66b1aa66dd": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A fan recap breaking down Boise State's win over Fresno State with player stat lines.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "19ff9e12d008d3cd": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "USU Golf Club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is explicitly about USU's student golf club, a casual club-sport organization distinct from the varsity golf program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Elissa Ross"
+      ],
+      "extent": "44 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "1ebf4bc77f735af1": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a recap of Oregon State's 66-14 football win over San Diego State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-11-1341"
+    },
+    "3d59321fa3b75ab7": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a player-focused recap of Oregon State's football rout of San Diego State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-11-1341"
+    },
+    "448b70772f5cd827": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a piece on San Diego State coach Sean Lewis's remarks after the team's football loss to Oregon State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-11-1341"
+    },
+    "496c79e946b21868": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A short report that USU's varsity men's basketball team opened its season by beating Denver in a scrimmage.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Elise Bliss"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "4bfa94d477c39cbf": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish live coverage of an Oregon State assistant coach's postgame press conference after the San Diego State game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-11-1341"
+    },
+    "4e54a4aa26c567cd": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A reported feature on Gonzaga women's basketball's Fan Fest intrasquad scrimmage and roster competition.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-11-1341"
+    },
+    "5eb47e2a5ca4a787": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Washington State's football loss to Utah State, with player and coach quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "KellerRay Hutsell Zandell"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "80e8fbfaeeb89dfa": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a video recap of Fresno State's loss to Boise State and a halftime Ring of Honor induction for a Fresno State legend.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-10-11-1341"
+    },
+    "92ac7335414f65c1": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece is about San Jose State's and Wyoming's football game and the Mountain West race; neither school is one of the nine covered.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "98fb75affe28912b": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Utah State Hockey Club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The story is about the Utah State Hockey Club, an explicitly club-level sport outside the registry's varsity programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Elissa Ross"
+      ],
+      "extent": "54 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "9ab06af9499d8565": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A gamethread opened ahead of the Boise State at Fresno State football game, which is schedule information readers want.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "bbd035847738fdc8": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a stat-driven recap of an Oregon State receiver's performance against San Diego State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-11-1341"
+    },
+    "d3ac8f3b30744818": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a recap of Oregon State's lopsided football win over San Diego State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-11-1341"
+    },
+    "d9a9e8e05649b2ea": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A gamethread opened ahead of a Boise State football game; Western Michigan is not a covered opponent but Boise State's own game is.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "e016697f50a1d478": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Boise State's 38-31 win over Fresno State in the Milk Can rivalry game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-11-1341"
+    },
+    "edcb78aa3e551397": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A numbered 'lingering thoughts' column arguing conclusions about WSU football after its loss to Utah State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-11-1341"
     }
   },
   "runs": {
@@ -17059,6 +17365,62 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 16.874690699973144,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-11-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-11T13:39:51.980541+00:00",
+      "items": 19,
+      "verdict_counts": {
+        "publish": 16,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "The Utah Statesman": 2,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 6
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "19ff9e12d008d3cd",
+          "source": "The Utah Statesman",
+          "phrase": "USU Golf Club",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "92ac7335414f65c1",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "92ac7335414f65c1",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "id": "98fb75affe28912b",
+          "source": "The Utah Statesman",
+          "phrase": "Utah State Hockey Club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 41.74813590000849,
       "tokens": null,
       "tokens_source": null
     }
