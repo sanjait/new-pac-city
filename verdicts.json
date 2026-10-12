@@ -15313,6 +15313,194 @@
       ],
       "extent": "6 min read",
       "run": "run_2026-10-12-0141"
+    },
+    "0c7b0198032b3702": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish commentary on Fresno State's football loss to Boise State in the Milk Can rivalry game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-10-12-1340"
+    },
+    "1c7f9b117f22f022": {
+      "subjects": {
+        "oregon-state": "about",
+        "san-diego-state": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a recap of an Oregon State win over San Diego State, but neither states which sport, so only the department-level key is supported.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-12-1340"
+    },
+    "1cb8314f8593b53b": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary identify highlights and stats from Fresno State's football loss to Boise State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-10-12-1340"
+    },
+    "2d243b8c3d2c1ede": {
+      "subjects": {
+        "oregon-state/mens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The full text profiles an Oregon State men's soccer transfer and his impact on the team this season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-12-1340"
+    },
+    "3a3d3044b6d4d5fe": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a look back at a Fresno State football bowl win, which is enough without the full article.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-10-12-1340"
+    },
+    "6d723e837d075b30": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A former Fresno State player discusses the team's football loss to Boise State, which the headline and summary establish plainly.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-10-12-1340"
+    },
+    "6ec33e04398b5092": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "An opinion piece urging Fresno State fans to stay optimistic after the Boise State loss, weighing Oregon State's and San Diego State's roles in the conference race.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-12-1340"
+    },
+    "77a1fc4881fdcf50": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A labeled column argues that Oregon State's athletic department has mishandled football players' conduct-code violations and roster status.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The piece centers on legal and conduct matters rather than competition, which sits close to a non-athletics campus story even though it turns on the football program's own roster and discipline decisions.",
+      "unrecognized": [],
+      "byline": [
+        "Noel Hendrickson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-12-1340"
+    },
+    "7c194606084d89f4": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about",
+        "san-diego-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A league-wide Pac-12 football roundup giving full game-recap treatment to six of the nine schools' teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-10-12-1340"
+    },
+    "95d9723317f0c240": {
+      "subjects": {
+        "oregon-state/womens-volleyball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The full text is about the Oregon State women's volleyball team's roster turnover and new contributors.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-12-1340"
+    },
+    "ca26d9c9f9b1f37c": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is about Boise State's poll rise after its win, and treats Oregon State's own ranking and standings tie substantively.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-12-1340"
+    },
+    "ec5c1bb5c861f885": {
+      "subjects": {},
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The recap covers only Mountain West teams (Wyoming, San Jose State, Nevada, UTEP, NDSU, UNLV, Air Force, Hawaii), none of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "11 min read",
+      "run": "run_2026-10-12-1340"
     }
   },
   "runs": {
@@ -17647,6 +17835,36 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 27.852558200014755,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-12-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-12T13:38:51.251593+00:00",
+      "items": 12,
+      "verdict_counts": {
+        "publish": 11,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 4
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 22.767282200002228,
       "tokens": null,
       "tokens_source": null
     }
