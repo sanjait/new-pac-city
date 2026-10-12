@@ -15128,6 +15128,191 @@
       "extent": "6 min read",
       "lock": "paywall",
       "run": "run_2026-10-11-1341"
+    },
+    "2445d47a1843017d": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece covers a banned-books read-in library event at Oregon State, not athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Gabriel Robinson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-12-0141"
+    },
+    "34396d8676990804": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece is a full recap of Fresno State's loss to Boise State, with both teams' performances detailed.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-12-0141"
+    },
+    "5c3b4e2576afdec9": {
+      "subjects": {
+        "texas-state/womens-soccer": "about",
+        "oregon-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of a tied women's soccer match between Texas State and Oregon State, with both teams' scoring detailed.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jackson Grettler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-12-0141"
+    },
+    "68c72919a69c3813": {
+      "unrecognized": [
+        {
+          "phrase": "UCLA",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The game and its history are between UCLA and Oregon, neither a covered school; Washington State appears only once in a passing historical aside.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "6 min read",
+      "lock": "free",
+      "run": "run_2026-10-12-0141"
+    },
+    "70082e95f3d56e2e": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary say Oregon State is drawing poll votes; the October date makes football the likely poll, though the sport isn't stated outright.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Sport isn't named in the headline or summary; football is inferred only from the October date rather than stated.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-12-0141"
+    },
+    "7c8b16e354a49516": {
+      "subjects": {
+        "washington-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Analysis of Washington State football's loss to Utah State, with Utah State's win detailed as the opponent; the upcoming Oregon State game is only a brief forward mention.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-12-0141"
+    },
+    "974bb9b19402e548": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary state Oregon State is favored by over two touchdowns against Washington State, establishing both the program and the football context.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-12-0141"
+    },
+    "97586de01ad44070": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "texas-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of a WSU volleyball win over Texas State, with both teams' performances detailed.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-12-0141"
+    },
+    "a5d1b1033d3fb521": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece profiles Gonzaga freshman center Sam Funches and his place in the team's frontcourt.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-12-0141"
+    },
+    "ce5ae8ce25594736": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A conference-wide CFP power-rankings piece giving a dedicated comment to nearly every one of the nine schools' football teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-12-0141"
+    },
+    "d983a0e3a7df4a3a": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State's blowout win over San Diego State, with substantial detail on both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-12-0141"
     }
   },
   "runs": {
@@ -17421,6 +17606,47 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 41.74813590000849,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-12-0141": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-12T01:39:52.918181+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "drop": 2,
+        "publish": 9
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "68c72919a69c3813",
+          "source": "Press Break",
+          "phrase": "UCLA",
+          "kind": "not-ours"
+        },
+        {
+          "id": "68c72919a69c3813",
+          "source": "Press Break",
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 27.852558200014755,
       "tokens": null,
       "tokens_source": null
     }
