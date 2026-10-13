@@ -15501,6 +15501,418 @@
       ],
       "extent": "11 min read",
       "run": "run_2026-10-12-1340"
+    },
+    "11eb48e09c968595": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary report Oregon State football parting ways with cornerback Exodus Ayers.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-13-0142"
+    },
+    "17fc84853696bce7": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary identify an Oregon State baseball recruiting commitment from a junior college pitcher.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-13-0142"
+    },
+    "328c0c70ef2b0648": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves",
+        "washington-state/football": "involves",
+        "fresno-state/football": "involves",
+        "texas-state/football": "involves",
+        "boise-state/football": "involves",
+        "utah-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Two columnists predict game-by-game outcomes for Oregon State's remaining Pac-12 football schedule against six conference opponents.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Nikolas Munoz",
+        "Leo Diamond"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "33611e2b38be0919": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece examines how KenPom and other analytic models rank Gonzaga men's basketball ahead of the season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-13-0142"
+    },
+    "363fbafee03e9800": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary name a new starting quarterback for Washington State's trip to play Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-13-0142"
+    },
+    "55be03300b13e28d": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline names a Reser Stadium sellout for Oregon State's game against Washington State, with 'Stadium' establishing it as a football game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-13-0142"
+    },
+    "57394b8db7231642": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary report an Oregon State linebacker's possible season-ending injury and linemen returning ahead of the Washington State game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-13-0142"
+    },
+    "5b60b170a01361a6": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column argues Oregon State football should discipline players Aiden Sullivan and Exodus Ayers over pending criminal charges.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Noel Hendrickson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "6a6fe6dd0bba40df": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about",
+        "gonzaga/mens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The recap covers San Diego State men's soccer defeating Gonzaga 1-0 for its first conference win.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Andres Piceno"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "6ce1f8551aee3323": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "ice hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Washington State ice hockey, a Pac-8 club program, is not a sport listed in Washington State's registry row.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "72b18c5fe55c0be9": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves",
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary cover the Oregon State football coach discussing the San Diego State win and the Washington State matchup.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-13-0142"
+    },
+    "735767bd83a44d05": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The power-rankings column ranks and comments on every Pac-12 football team's Week 6 result and upcoming matchup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-13-0142"
+    },
+    "7b57527a00da1d8b": {
+      "subjects": {
+        "oregon-state/womens-volleyball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature covers how Oregon State's women's volleyball roster has been retooled with new players this season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "a6e29326065fc046": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The profile covers Utah State football defensive back Brevin Hamblin earning Pac-12 Defensive Player of the Week.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Quinton Papa"
+      ],
+      "extent": "39 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "a8a92a2603e9da92": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The 'first look' previews Washington State's road football game against Oregon State, covering both teams' recent play.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-13-0142"
+    },
+    "c8061c77d0c1e72b": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and 'sneak peek' summary preview Washington State's struggling offense ahead of the Oregon State matchup.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-13-0142"
+    },
+    "d393f72abbec4510": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports Washington State naming a new starting quarterback ahead of its game against Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "dd3ede0cbc7d2428": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The Players of the Week honorees named are all from UNLV, Nevada, Air Force and Wyoming, none of which are covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "e1a5614d2d3a7d46": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The power-rankings column devotes an individually written entry to every Pac-12 football team's Week 6 performance.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "e8cc853027adecbe": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The stock-market column grades individual Fresno State players' performances in Saturday's loss to Boise State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "eda5e71141c2ec32": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is about a dispute between OSU and UO's academic administrations over engineering-program funding, with no athletics content.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Marina Kandas"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "f2c4f45b6eade178": {
+      "subjects": {
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The roundup recaps Boise State's win over Fresno State and Oregon State's rout of San Diego State in dedicated paragraphs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "f5e165fd94717ba8": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature profiles San Diego State men's soccer players discussing their Latin heritage and connection to the sport.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Andres Piceno"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-13-0142"
+    },
+    "f67837a6746a9055": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "This FCS Top 25 ballot column is about non-conference teams like Northern Arizona and Montana; Oregon State appears only as a one-line aside about Montana's losses.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "13 min read",
+      "lock": "free",
+      "run": "run_2026-10-13-0142"
+    },
+    "f87f0f0bc436af77": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "utah-state/football": "about",
+        "fresno-state/football": "involves",
+        "washington-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The awards piece names Pac-12 player-of-the-week winners from Boise State, Oregon State and Utah State, with players from three other conference schools also considered.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-13-0142"
     }
   },
   "runs": {
@@ -17865,6 +18277,43 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 22.767282200002228,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-13-0142": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-13T01:39:24.171122+00:00",
+      "items": 25,
+      "verdict_counts": {
+        "publish": 21,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 1,
+        "Mountain West Connection": 1,
+        "The Daily Barometer": 1,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 7
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "6ce1f8551aee3323",
+          "source": "The Daily Evergreen",
+          "phrase": "ice hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 51.382048600004055,
       "tokens": null,
       "tokens_source": null
     }
