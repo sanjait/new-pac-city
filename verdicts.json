@@ -16217,6 +16217,160 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-10-14-0142"
+    },
+    "1dac4b4c97b215b6": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The podcast description devotes a segment to Boise State reclaiming the Milk Can from Fresno State, both covered programs figuring substantively.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-14-1340"
+    },
+    "61e0a3eb19a70089": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on WSU's defense and its statistical performance ahead of the Oregon State game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-14-1340"
+    },
+    "815185a616268ffa": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The body text discusses only Wyoming football and James Madison's conference move, neither a covered program; a covered school appears only in an unelaborated teaser headline for a future post.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "A subheading mentions a 'Cougs QB change' that could be Washington State, but the body never elaborates on it, leaving nothing substantive to judge.",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-14-1340"
+    },
+    "8a13d7645f8c1a9f": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "This reports on Oregon State's campus mental-health crisis-response reorganization, which has no connection to OSU athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Andres Bedoya-Bunch"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-14-1340"
+    },
+    "8ec55c3b06423ef0": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "colorado-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A rivalry-trophy ranking gives full paragraphs to Boise State-Fresno State's Milk Can, Colorado State's Bronze Boot, and Utah State's Bridger's Battle.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-14-1340"
+    },
+    "a9a17e55623ce886": {
+      "subjects": {
+        "texas-state/mens-golf": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story reports Texas State men's golf results and individual scores from the Testudo Cup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-14-1340"
+    },
+    "c01a33fa66df55ef": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on WSU's defense and its statistical performance ahead of the Oregon State game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-14-1340"
+    },
+    "c23efa923b66f180": {
+      "subjects": {
+        "texas-state/womens-golf": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story reports Texas State women's golf results and individual scores from the Ron Moore Intercollegiate.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-14-1340"
+    },
+    "d233b982e0d5dc89": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "utah-state/football": "involves",
+        "washington-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A Week 6 roundup gives dedicated paragraphs to Oregon State, Boise State, Utah State, Washington State and San Diego State football results, framed around conference standings.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-14-1340"
+    },
+    "e6eda9341f5a515d": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A generic fan-survey template with disconnected teaser fragments names no specific covered program as subject or substantive figure.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-14-1340"
     }
   },
   "runs": {
@@ -18657,6 +18811,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 43.70229210000252,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-14-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-14T13:39:07.110491+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 7,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2,
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 21.34498099999837,
       "tokens": null,
       "tokens_source": null
     }
