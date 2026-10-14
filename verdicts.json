@@ -15913,6 +15913,310 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-10-13-0142"
+    },
+    "027fed7500a51c72": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary recaps Fresno State's loss to Boise State and previews its upcoming matchup with San Diego State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-10-14-0142"
+    },
+    "045e013962ad4381": {
+      "subjects": {
+        "texas-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers how the Protect College Sports Act's eligibility, roster-size, and realignment provisions would affect the Texas State athletics department broadly.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cody Dotson",
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "2fdf2b3f0b0da880": {
+      "subjects": {
+        "texas-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Texas State baseball's full 2027 schedule release, including its Pac-12 debut.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "497921780cb3afc2": {
+      "subjects": {
+        "oregon-state/mens-basketball": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Ralph Miller's Oregon State championships get real comparative treatment as one of several coaches weighed against Dana Altman for the conference's all-time Mount Rushmore.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The piece is centered on Dana Altman at Oregon, not a covered school, so whether Oregon State's brief comparative mention rises to involves rather than a passing mention is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "6 min read",
+      "lock": "free",
+      "run": "run_2026-10-14-0142"
+    },
+    "7170878b635a4b76": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Palouse Ice Rink",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Washington State ice hockey, played at the Palouse Ice Rink against Eastern Washington, is not a program listed in WSU's row.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "8048f494f65cc76a": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "An OSU Hillel chapter's new building lease is not athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Samson Naleway"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "8403b1e5cdb26ea1": {
+      "subjects": {
+        "oregon-state/mens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles transfer forward Wyatt Borso's impact on Oregon State men's soccer this season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "8e31b62e82ae726d": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary previews OSU's nation-leading passing offense against Washington State's pass defense.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-14-0142"
+    },
+    "999192daae99d583": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A forestry fire-testing facility construction story is not athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Gabriel Robinson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "ad121c60d88a9add": {
+      "subjects": {
+        "gonzaga": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A coach shares expectations for Gonzaga's men's and women's teams as the season begins, without the text naming a specific sport.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-10-14-0142"
+    },
+    "ae6ebbd9a0adbdfd": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A weekly roundup of former WSU football players' NFL performances, covered as alumni career news.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "b982706e8f64f103": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The weekly Pac-12 football power rankings place and tier all eight football-playing covered schools, with recruiting notes tied to several.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "bf1745af8b872289": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles Texas State women's soccer's international roster and recruiting approach.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "c2cd86b0c3e94e35": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A curriculum-reform story about OSU's Core Education program is not athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Lucy Gilchrist"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "cc15cc8ca69459a6": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The ranked teams (New Mexico, UNLV, Air Force, Wyoming, San Jose State, Nevada, Hawaii, UTEP, NIU) belong to the post-realignment Mountain West, none of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "cc359a68332712da": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A campus cultural-center renaming announcement has nothing to do with OSU athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Roy Keller"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "cd2ec89bab4e5cb3": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews SDSU's Homecoming rivalry matchup against Fresno State, with substantive detail on both teams' recent performances.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "ce8d251be470fd89": {
+      "subjects": {
+        "san-diego-state/womens-soccer": "about",
+        "colorado-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Victoria Miller's hat trick leading SDSU women's soccer past Colorado State in Pac-12 play.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Noah Meyer"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "dd7196d315ee8abf": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A science-writers conference hosted at OSU is not athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Andres Bedoya-Bunch"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-14-0142"
+    },
+    "eea4c903db60ac45": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "OSU student vendor booths at a local farmers market is not athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Shayna Boettner"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-14-0142"
     }
   },
   "runs": {
@@ -18314,6 +18618,45 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 51.382048600004055,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-14-0142": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-14T01:39:49.547308+00:00",
+      "items": 20,
+      "verdict_counts": {
+        "publish": 12,
+        "drop": 8
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 1,
+        "The Daily Barometer": 6,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "7170878b635a4b76",
+          "source": "The Daily Evergreen",
+          "phrase": "Palouse Ice Rink",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 43.70229210000252,
       "tokens": null,
       "tokens_source": null
     }
