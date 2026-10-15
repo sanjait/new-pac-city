@@ -16641,6 +16641,159 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-10-15-0141"
+    },
+    "01772fb19b143100": {
+      "subjects": {
+        "conference": "about",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A weekly bowl-projection piece frames the whole Pac-12's bowl picture and gives Oregon State, Boise State and Fresno State specific projection commentary.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Texas State and San Diego State appear only as a repeated bowl-slot name or a one-word aside, so whether they clear 'involves' is a close call; they were left out as mentions.",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-15-1341"
+    },
+    "1f42af06ea8a570a": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on the new rivalry trophy created for the Washington State-Oregon State football series ahead of their Saturday game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "9 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-15-1341"
+    },
+    "437594269cfd5345": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "colorado-state/football": "involves",
+        "texas-state/football": "involves",
+        "washington-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column argues whether the Pac-12 is better than the Mountain West top-to-bottom, citing six of the nine schools' records as evidence.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The individual school mentions are brief comparative evidence inside a conference-level argument, so whether each rises to 'involves' rather than incidental could be read either way.",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-15-1341"
+    },
+    "766dcbd3e9acf379": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "oregon-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A match recap of Texas State's volleyball loss to Oregon State, with stats and quotes centered on the Bobcats and Oregon State's performance.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cooper Yarbough"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-15-1341"
+    },
+    "8623a28ea2d14312": {
+      "subjects": {
+        "san-diego-state/volleyball": "about",
+        "gonzaga/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A match recap of San Diego State's volleyball sweep over Gonzaga, with stats and quotes for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Joel Gaitan"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-15-1341"
+    },
+    "a7de845ad2b25fa3": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary together establish Oregon State football's player-availability report ahead of the WSU game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-15-1341"
+    },
+    "d4e5049a45f9491f": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A midseason stats-and-outlook piece entirely about San Diego State football, with upcoming conference opponents only named in brief schedule asides.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-15-1341"
+    },
+    "db052a2c1fe7eb63": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "washington-state/football": "involves",
+        "boise-state/football": "involves",
+        "utah-state/football": "involves",
+        "fresno-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A transfer-portal roundup gives real individual stat-line treatment to players who transferred into six of the nine schools' football programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-15-1341"
+    },
+    "f4d63628bf7885ce": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "A football betting column entirely about Mountain West teams (Nevada, UNLV, Air Force, Hawaii, New Mexico), none of which is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-15-1341"
     }
   },
   "runs": {
@@ -19148,6 +19301,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 44.4536900000021,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-15-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-15T13:39:08.334974+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 8,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 19.797989599988796,
       "tokens": null,
       "tokens_source": null
     }
