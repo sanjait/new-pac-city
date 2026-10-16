@@ -16794,6 +16794,201 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-10-15-1341"
+    },
+    "05306a8a89fe1210": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature covers the creation of a new rivalry trophy for the Washington State-Oregon State football series ahead of Saturday's game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-10-16-0140"
+    },
+    "12f8d7305b02abae": {
+      "subjects": {
+        "colorado-state/football": "involves",
+        "texas-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The post names a specific game tonight between Colorado State and Texas State, covered scheduling information, amid otherwise-uncovered Mountain West rankings.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Most of the piece concerns Mountain West teams outside our coverage, with the Colorado State-Texas State matchup getting only a single passing clause.",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-16-0140"
+    },
+    "19c81c5f253a729c": {
+      "subjects": {
+        "utah-state/cross-country": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Utah State cross country hosting and winning the Steve T. Reeder Memorial Invitational on Oct. 9.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Elissa Ross"
+      ],
+      "extent": "36 min read",
+      "run": "run_2026-10-16-0140"
+    },
+    "2d3c294fd950078e": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story covers a campus voter-registration event with a visiting astronaut, not Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Samson Naleway"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-16-0140"
+    },
+    "3cd01d6d63096f5a": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The report on CFP expansion to 24 teams discusses conference-level and league-wide negotiations without naming any of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-16-0140"
+    },
+    "4e75843a19773af2": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary describes a $15 million donor-funded expansion of Goss Stadium, Oregon State baseball's home venue.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-16-0140"
+    },
+    "6017860c7d5a7e8f": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The columnist argues his hopes for WSU's new starting quarterback Eshelman ahead of Saturday's game at Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-10-16-0140"
+    },
+    "68cff6d27a35405f": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary states Oregon State women's basketball leads all Pac-12 teams with nine televised games this season.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-16-0140"
+    },
+    "865d34a98fc4bdaf": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The piece previews a Washington State hockey series, and hockey is not a program listed in Washington State's row.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Washington State hockey plays a real conference schedule (Pac-8), but it is absent from the registry's WSU program list, so it is treated as a club sport out of scope.",
+      "unrecognized": [],
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-16-0140"
+    },
+    "8dd7948716dde994": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Saturday's Washington State-Oregon State football game, detailing both teams' recent form and key players.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "KellerRay Hutsell Zandell"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-16-0140"
+    },
+    "9b641b6aba98f8c2": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The commentary argues that Oregon State's rise and Washington State's fall reflect the decisions each football program made hiring first-year coaches.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-16-0140"
+    },
+    "d636f5672082bb51": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is a profile of Boise State running back Dylan Riley leading the nation in rushing this season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-16-0140"
+    },
+    "fb7d0b1734f4336f": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary establishes the subject as Oregon State's tight end, who leads Pac-12 tight ends in receiving.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-16-0140"
     }
   },
   "runs": {
@@ -19328,6 +19523,35 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 19.797989599988796,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-16-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-16T01:39:03.813618+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 10,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "The Seattle Times": 1,
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 31.883121799997753,
       "tokens": null,
       "tokens_source": null
     }
