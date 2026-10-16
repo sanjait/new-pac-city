@@ -16989,6 +16989,201 @@
         "James Crepea"
       ],
       "run": "run_2026-10-16-0140"
+    },
+    "101354bbc68e09fd": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "about",
+        "utah-state/football": "about",
+        "colorado-state/football": "about",
+        "boise-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Gives team-by-team midseason records, trajectories, and bowl projections for most of the covered football programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-16-1341"
+    },
+    "3ade1060a6e7e145": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Reports an OSU-Cascades campus closure following a shooting tragedy, a campus-operations matter with no athletics content.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jenna Benson"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-16-1341"
+    },
+    "3f8a8d065ad4955c": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature profile of Washington State's new starting quarterback ahead of Saturday's game at Oregon State, which figures substantively as the upcoming opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "14 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-16-1341"
+    },
+    "4933f411b5f6aed6": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "utah-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "oregon-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Argues for more Friday night games using real viewership figures from several covered teams' games and proposes a Friday slate built around them.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-16-1341"
+    },
+    "6c2fd3a741323355": {
+      "subjects": {
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Podcast episode summary frames the gap between the Pac-12 and Mountain West as its topic, making the conference itself the subject.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The teaser names no specific program and gives almost no substantive detail beyond the framing questions, so whether a bare conference-level mention earns inclusion is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Derek Raridon",
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-16-1341"
+    },
+    "767b246c672d528f": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary identify a Washington State scouting preview ahead of its football game against Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-16-1341"
+    },
+    "b0a15debeec14f29": {
+      "subjects": {
+        "texas-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State's record-setting rushing performance in its conference win over Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Luke Landa"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-16-1341"
+    },
+    "b0a4b751908d9a9c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Profiles Nevada's running back duo, a Mountain West school outside the covered nine, with only passing comparisons to Boise State and San Diego State backs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Derek Raridon"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-16-1341"
+    },
+    "b0f54bbdec58366a": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "texas-state/football": "about",
+        "washington-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Lists Week 7 matchups, TV coverage, and odds for three games spanning six covered football programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-16-1341"
+    },
+    "d2efd23c23991a86": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about",
+        "washington-state/football": "about",
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full previews with stats, storylines, and score predictions for three Week 7 games among six covered football programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-16-1341"
+    },
+    "e003b07db169cc0a": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "Analyzes strength-of-schedule and FPI correlations across Mountain West teams in the aggregate without naming any covered program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Toby McMahon"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-16-1341"
     }
   },
   "runs": {
@@ -19552,6 +19747,41 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 31.883121799997753,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-16-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-16T13:38:58.431995+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 8,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "b0a4b751908d9a9c",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 22.801436800014926,
       "tokens": null,
       "tokens_source": null
     }
