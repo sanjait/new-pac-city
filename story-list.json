@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-10-15T13:03:18.360709+00:00",
+  "generated_at": "2026-10-16T01:03:21.244890+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Mountaintop View 10-15-26",
+        "link": "https://www.mwcconnection.com/mountain-west-football/94256/mountain-west-pac-12-football-basketball-rams-bobcats",
+        "link_kind": "item",
+        "date": "2026-10-15T13:00:00+00:00",
+        "summary": "Mountain West power rankings: New Mexico takes top spot; Wyoming moves up after SJSU upset Chris Murray of NevadaSportsNet posts his weekly power rankings for Mountain West football, the Lobos have now taken the top spot. Murray also posted about the odds that the MWC puts multiple teams in the big dance. ‘Cats look to [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "12f8d7305b02abae",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2026-27 Pac-12 Women’s Basketball Broadcast Schedule Information Announced",
+        "link": "http://pac-12.com/news/2026/10/14/2026-27-pac-12-womens-basketball-broadcast-schedule-information-announced.aspx",
+        "link_kind": "item",
+        "date": "2026-10-15T10:57:00+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/P12_WBB_BroadcastSchedule_16x9_v2.png\" /><br /><br />The Pac-12 today announced broadcast schedule information for the 2026-27 women’s basketball season, continuing the launch of a new era for the conference with a fan-first approach focused on national exposure, accessibility and showcasing its programs and student-athletes throughout the season.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "9f7d321bdda7205f",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Checking in on the Art Briles Experiment",
         "link": "https://pressbreak.substack.com/p/checking-in-on-the-art-briles-experiment",
@@ -185,20 +213,6 @@
         "medium": "text"
       },
       {
-        "title": "UNLV stuns North Dakota State! Boise State takes back the Milk Can from Fresno State! Bison 1660 radio interview! Award race check-in! MW/PAC-12 games of the week! HP Ep. #174 OUT NOW!",
-        "link": "https://www.mwcconnection.com/podcast/94141/mountain-west-pac-12-podcast-unlv-north-dakota-state-boise-fresno-award-races-radio-bison-1660",
-        "link_kind": "item",
-        "date": "2026-10-13T14:00:00+00:00",
-        "summary": "Welcome back everyone to the Hike’s Peak podcast, thank you for coming back to the mountain! Last week we talked about how this was going to be the craziest week of the year, and it certainly delivered. In the most stunning upset of the Mountain West season, UNLV became the first team to beat North [&#8230;]",
-        "author": "Jack Thompson",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "1dac4b4c97b215b6",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Players of the Week - Oct. 13, 2026",
         "link": "http://pac-12.com/news/2026/10/13/fall-sports-pac-12-players-of-the-week-oct-13-2026.aspx",
         "link_kind": "item",
@@ -280,20 +294,6 @@
         "source": "Press Break",
         "id": "b51ecbc89af650cc",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Pac-12 Players of the Week - Oct. 6, 2026",
-        "link": "http://pac-12.com/news/2026/10/6/fall-sports-pac-12-players-of-the-week-oct-6-2026.aspx",
-        "link_kind": "item",
-        "date": "2026-10-06T12:58:00+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/6/12_Standout_Performances_Oct6_16x9.png\" /><br /><br />The Pac-12 today announced its Players of the Week for Women's Soccer, Men's Soccer and Volleyball, highlighting several key performances from the week that was.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "9c7b398e0a0c08e5",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -551,6 +551,90 @@
     ],
     "Boise State": [
       {
+        "title": "Riley Selected to Associated Press Midseason All-America Second Team",
+        "link": "https://broncosports.com/news/2026/10/15/football-riley-selected-to-associated-press-midseason-all-america-second-team",
+        "link_kind": "item",
+        "date": "2026-10-15T23:30:00+00:00",
+        "summary": "<img alt=\"Dylan Riley rush vs. Utah State, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/cropped_KH_FBvsUSU_141.jpg\" /><br /><br />Running back leads FBS in rushing yards, all-purpose yards",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "92337a2fc3df5db9",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Attacking Adversity",
+        "link": "https://broncosports.com/news/2026/10/15/b-1-features-attacking-adversity",
+        "link_kind": "item",
+        "date": "2026-10-15T21:00:00+00:00",
+        "summary": "<img alt=\"B1 Feature James Montgomery\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/BSU26_B1_Feature_Template_WEB.png\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "16392464e851bafd",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Boise State Women's Basketball Announces Pac-12 TV Selections",
+        "link": "https://broncosports.com/news/2026/10/15/boise-state-womens-basketball-announces-pac-12-tv-selections",
+        "link_kind": "item",
+        "date": "2026-10-15T19:00:00+00:00",
+        "summary": "<img alt=\"Gordy Presnell laughing.\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/PresnellGordy2526Nevada-01.JPG\" /><br /><br />Boise State women's basketball will make two appearances on The CW this season, the Pac-12 announced Thursday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "2e670a4e697c66bd",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Taufa Added to Rimington Trophy Watchlist",
+        "link": "https://broncosports.com/news/2026/10/15/football-taufa-added-to-rimington-trophy-watchlist",
+        "link_kind": "item",
+        "date": "2026-10-15T17:00:00+00:00",
+        "summary": "<img alt=\"Stewart Taufa vs. Memphis, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/cropped_MC_FB_vs_Memphis_0335.jpg\" /><br /><br />Center has helped Boise State to top-10 rushing attack in the nation",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "5d0d2778be92cff0",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "The Jet: Dylan Riley tops nation’s rushing leaders through six games",
+        "link": "https://www.arbiteronline.com/2026/10/15/the-jet-dylan-riley-tops-nations-rushing-leaders-through-six-games/",
+        "link_kind": "item",
+        "date": "2026-10-15T16:22:10+00:00",
+        "summary": "<p>For the second time in three years, a Boise State running back is the nation’s leading rusher. In 2024, Ashton Jeanty led the nation in rushing at the Football Bowl Subdivision (FBS) level, the highest level of NCAA Division I football, finishing the season with 2,601 yards, just 27 short of Barry Sanders’ single-season FBS [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/10/15/the-jet-dylan-riley-tops-nations-rushing-leaders-through-six-games/\">The Jet: Dylan Riley tops nation’s rushing leaders through six games</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "author": "Jake Zamora",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Arbiter",
+        "id": "d636f5672082bb51",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Madsen, Riley Named to Pony Express Award Watch List",
+        "link": "https://broncosports.com/news/2026/10/15/football-madsen-riley-named-to-pony-express-award-watch-list",
+        "link_kind": "item",
+        "date": "2026-10-15T16:00:00+00:00",
+        "summary": "<img alt=\"Maddux Madsen, Dylan Riley celebration vs. Utah State, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/KH_FBvsUSU_076.jpg\" /><br /><br />Award is presented annually to the best tandem in college football",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "dcfb1f0111acf66b",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "NFL Broncos: Week Six",
         "link": "https://broncosports.com/news/2026/10/14/football-nfl-broncos-week-six",
         "link_kind": "item",
@@ -734,20 +818,6 @@
         "medium": "text"
       },
       {
-        "title": "Gameday Availability Report",
-        "link": "https://broncosports.com/news/2026/10/10/football-gameday-availability-report",
-        "link_kind": "item",
-        "date": "2026-10-11T01:30:00+00:00",
-        "summary": "<img alt=\"Fresno State Availability Report\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/7/FB25_Availability_Report_WEB.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "959bdbdf0f70a905",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Milk Can Retrieval: #23 Boise State @ Fresno State Game Preview",
         "link": "https://firstkickwasgood.com/2026/10/09/milk-can-retrieval-23-boise-state-fresno-state-game-preview/",
         "link_kind": "item",
@@ -818,34 +888,6 @@
         "medium": "text"
       },
       {
-        "title": "Broncos Head to Fresno to Take on Bulldogs",
-        "link": "https://broncosports.com/news/2026/10/8/football-broncos-head-to-fresno-to-take-on-bulldogs",
-        "link_kind": "item",
-        "date": "2026-10-08T22:00:00+00:00",
-        "summary": "<img alt=\"Boise State Football Week 6 at Fresno State\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/8/FB26-Game-Preview-WK6-FSU.jpg\" /><br /><br />Boise State will take on Fresno State in its first Pac-12 road contest on Saturday, Oct. 10. Kickoff is scheduled for 8:30 p.m. MT at Valley Children's Stadium.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "45e3d201acd71d08",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Playing Every Snap Like It’s Your Last",
-        "link": "https://broncosports.com/news/2026/10/8/b-1-features-playing-every-snap-like-its-your-last",
-        "link_kind": "item",
-        "date": "2026-10-08T21:00:00+00:00",
-        "summary": "<img alt=\"Tyler Ethridge B1 Feature\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/8/BSU26_B1_Feature_Template_WEB.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "95cdbec27fa4b589",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Five games in, Boise State football has its eyes on another playoff run",
         "link": "https://www.arbiteronline.com/2026/10/08/no-23-boise-state-eyes-another-playoff-run/",
         "link_kind": "item",
@@ -856,20 +898,6 @@
         "channel_url": "",
         "source": "The Arbiter",
         "id": "1dd6e4fae9ffea0e",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Week Six Availability Report",
-        "link": "https://broncosports.com/news/2026/10/7/football-week-six-availability-report",
-        "link_kind": "item",
-        "date": "2026-10-08T03:00:00+00:00",
-        "summary": "<img alt=\"Fresno State Availability Report\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/7/FB25_Availability_Report_WEB.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "8141e02a54a92c9e",
         "sport": "football",
         "medium": "text"
       },
@@ -1002,20 +1030,6 @@
         "medium": "text"
       },
       {
-        "title": "Boise State athletics restores department rubbish into rare collectibles",
-        "link": "https://www.arbiteronline.com/2026/10/02/boise-state-athletics-restores-department-rubbish-into-rare-collectibles/",
-        "link_kind": "item",
-        "date": "2026-10-02T22:47:02+00:00",
-        "summary": "<p>Forty-year-old football turf, outdated banners and well-worn lockers and stools may sound like junk, but Boise State is turning their trash into treasure. The athletic department’s recent partnership with CollectU creates opportunities for fans to purchase rare items, building a business on Bronco Nation’s nostalgia.&#160; &#8220;To turn retired equipment and materials into one-of-a-kind collectibles, we&#8217;re [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/10/02/boise-state-athletics-restores-department-rubbish-into-rare-collectibles/\">Boise State athletics restores department rubbish into rare collectibles</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
-        "author": "Emilia Rose Nowinski",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Arbiter",
-        "id": "10891376887a230d",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Women's Basketball Unveils Pac-12 Schedule",
         "link": "https://broncosports.com/news/2026/10/2/womens-basketball-womens-basketball-unveils-pac-12-schedule",
         "link_kind": "item",
@@ -1072,20 +1086,6 @@
         "extent": "59 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Men’s tennis captures Dar Walters championship",
-        "link": "https://www.arbiteronline.com/2026/09/28/mens-tennis-captures-dar-walters-championship/",
-        "link_kind": "item",
-        "date": "2026-09-29T02:22:18+00:00",
-        "summary": "<p>Boise State men’s tennis claimed its first Dar Walters Fall Classic Blue Draw championship since 2019 this past weekend, with Izan Orgiles and Julius Seifert capturing the Blue Draw title after defeating Montana 2-1. Orgiles and Seifert opened the championship match with a dominant performance in doubles, defeating Montana’s Matt Upton and Darrshan Suresh Kumar [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/09/28/mens-tennis-captures-dar-walters-championship/\">Men&#8217;s tennis captures Dar Walters championship</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
-        "author": "Jake Zamora",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Arbiter",
-        "id": "b8a037c5d2d2b29d",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "(Video) Pre Utah State Press Conference With Boise State Coaches Danielson, Potter, and Chinander",
@@ -1290,23 +1290,51 @@
         "id": "c6eddc1f5aa00442",
         "sport": "wbb",
         "medium": "text"
-      },
-      {
-        "title": "Boise State Announces Regular Season Nonconference Schedule",
-        "link": "https://broncosports.com/news/2026/8/31/mens-basketball-boise-state-announces-regular-season-nonconference-schedule",
-        "link_kind": "item",
-        "date": "2026-08-31T17:00:00+00:00",
-        "summary": "<img alt=\"MBB Nonconference Schedule\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/31/MBB26_-_Noncon_WEB.jpg\" /><br /><br />Boise State men's basketball announced its 2026 regular season nonconference schedule on Monday. The slate features 15 games against teams from 11 states.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "5c6ea15f627ad7ce",
-        "sport": "mbb",
-        "medium": "text"
       }
     ],
     "Colorado State": [
+      {
+        "title": "Game Program: Colorado State at Texas State",
+        "link": "https://csurams.com/news/2026/10/15/football-game-program-colorado-state-at-texas-state",
+        "link_kind": "item",
+        "date": "2026-10-15T19:25:00+00:00",
+        "summary": "<img alt=\"Game Program at Texas State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/FB26_-_Game_Poster_tx_st_16x9.jpg\" /><br /><br />Colorado State faces Texas State for the first time on a Thursday night in the Lone Star State.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "6f014125f1c58f13",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Women’s Hoops Featured Six Times on National Television",
+        "link": "https://csurams.com/news/2026/10/15/womens-basketball-womens-hoops-featured-six-times-on-national-television",
+        "link_kind": "item",
+        "date": "2026-10-15T19:00:00+00:00",
+        "summary": "<img alt=\"WBB Huddle\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/020726_vs__Wyoming-114.jpg\" /><br /><br />Expanded Pac-12 television package increases national television opportunities",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "fa0251fa1b5ae350",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Game Day: at Texas State",
+        "link": "https://csurams.com/news/2026/10/15/football-game-day-at-texas-state",
+        "link_kind": "item",
+        "date": "2026-10-15T16:00:00+00:00",
+        "summary": "<img alt=\"Game Day at Texas State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/gameday-_txst_16x9.jpg\" /><br /><br />Colorado State faces Texas State for the first time on a Thursday night in the Lone Star State.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "3f3dcdd06d4b6428",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "CSU at a crossroads: Texas State preview, Pac-12 concerns, and Brady Hull joins the show",
         "link": "https://bleav.com/shows/ramnation-radio/episodes/csu-at-a-crossroads-texas-state-preview-pac-12-concerns-and-brady-hull-joins-the-show/",
@@ -1490,34 +1518,6 @@
         "channel_url": "",
         "source": "Colorado State Athletics",
         "id": "bdcdd27619526cff",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Game Day: vs. Oregon State",
-        "link": "https://csurams.com/news/2026/10/3/football-game-day-vs-oregon-state",
-        "link_kind": "item",
-        "date": "2026-10-03T15:00:00+00:00",
-        "summary": "<img alt=\"Game Day vs. Oregon State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/2/gameday-_osu16x9.jpg\" /><br /><br />It is Homecoming & Family Weekend as the Rams host the Beavers in the inaugural Pac-12 game.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "1494be847fdba894",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Setting the Stage: Spreading the Love",
-        "link": "https://csurams.com/news/2026/10/2/football-setting-the-stage-spreading-the-love",
-        "link_kind": "item",
-        "date": "2026-10-02T21:00:00+00:00",
-        "summary": "<img alt=\"Terrence Smith Jr.\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/30/Smith.jpg\" /><br /><br />Rams trying to create pressure when needed",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "4a4dc11c1205af79",
         "sport": "football",
         "medium": "text"
       },
@@ -1857,38 +1857,38 @@
         "extent": "53 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "A new era begins: Joel and Mike discuss Jim Mora, the Border War and a different-looking CSU football program",
-        "link": "https://bleav.com/shows/ramnation-radio/episodes/a-new-era-begins-joel-and-mike-discuss-jim-mora-the-border-war-and-a-different-looking-csu-football-program/",
-        "link_kind": "item",
-        "date": "2026-08-31T22:21:00+00:00",
-        "summary": "<p>This RamNation Radio episode is brought to you by <a href=\"https://bit.ly/38QRcaN\">Pedersen Toyota</a>, your Local Toyota Dealer Serving Fort Collins, Loveland, Windsor and Timnath for more than 50 years. It is also made possible by <a href=\"https://bit.ly/3kBuSnX\">Ginger and Baker</a> — our favorite restaurant(s) in all of Fort Collins, and <a href=\"https://bit.ly/3syDFAy\">Ram Zone (powered by the CSU Bookstore)</a> — the best place to get all your Ram gear.</p>\n<p>With kickoff finally here, Joel and Mike look ahead to Jim Mora’s CSU debut and a Border War matchup that could immediately set the tone for a new era of Rams football. They break down an offseason of massive change in Fort Collins, from CSU’s move to the Pac-12 and new Adidas uniforms to a revamped roster and an athletic department that appears more committed than ever to building a winning football program. The guys discuss what they’ll be watching for against Wyoming, including CSU’s still-unannounced starting quarterback, whether 60+ new players can come together quickly, the battle in the trenches, and whether Mora’s emphasis on discipline and attention to detail will finally produce a cleaner, tougher football team. They also make their predictions for the Border War and define what would make Mora’s first season a success. Plus, after last week’s memorable conversation with Jim McElwain, Joel and Mike look back at some of their favorite guests and moments from six years of RamNation Radio.</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
-        "author": "info@milehighsports.com (Mile High Sports)",
-        "duration": 4322,
-        "channel_url": "",
-        "source": "RamNation Radio",
-        "id": "c0b9077df42fc9be",
-        "extent": "1h 12m",
-        "sport": "football",
-        "medium": "audio"
-      },
-      {
-        "title": "Rams Set for Challenging Non-Conference Schedule",
-        "link": "https://csurams.com/news/2026/8/31/mens-basketball-rams-set-for-challenging-non-conference-schedule",
-        "link_kind": "item",
-        "date": "2026-08-31T21:00:00+00:00",
-        "summary": "<img alt=\"2026-27 Men's Basketball Non-Conference\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/31/MBB26_NonConSchedule_16x9.png\" /><br /><br />Colorado to face up to seven NCAA Tournament teams in non-conference slate",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "802118a68a579e77",
-        "sport": "mbb",
-        "medium": "text"
       }
     ],
     "Fresno State": [
+      {
+        "title": "Bulldogs announce television game",
+        "link": "https://gobulldogs.com/news/2026/10/15/womens-basketball-bulldogs-announce-television-game",
+        "link_kind": "item",
+        "date": "2026-10-15T19:06:00+00:00",
+        "summary": "<img alt=\"basketball tip off \" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/24/26-02-11-JC-WBB-vs-Boise_State-50.jpg\" /><br /><br />FRESNO, Calif. - The Fresno State women's basketball team will have one televised game this 2026-27 season, as announced by the conference on Thursday morning.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Fresno State Athletics",
+        "id": "7e43540926de2666",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Fresno State Heads to San Diego",
+        "link": "https://redwavereport.podbean.com/e/fresno-state-heads-to-san-diego/",
+        "link_kind": "item",
+        "date": "2026-10-15T13:06:53+00:00",
+        "summary": "<p>The boys are back after a close loss to Boise State to recap the game and see what went right and what went wrong. Then they get you ready for the upcoming matchup in San Diego. Thank you for listening and enjoy the show. </p>",
+        "author": "",
+        "duration": 3333,
+        "channel_url": "",
+        "source": "The Red Wave Report",
+        "id": "cb3250d6fe911d64",
+        "extent": "56 min",
+        "sport": "all",
+        "medium": "audio"
+      },
       {
         "title": "One old oil can, 100 years of rivalry",
         "link": "https://fscollegian.com/2026/10/one-old-oil-can-100-years-of-rivalry/",
@@ -2812,6 +2812,20 @@
     ],
     "Gonzaga": [
       {
+        "title": "Women's Basketball Announces 2026-27 Television Schedule",
+        "link": "https://gozags.com/news/2026/10/15/womens-basketball-announces-2026-27-television-schedule",
+        "link_kind": "item",
+        "date": "2026-10-15T19:00:00+00:00",
+        "summary": "<img alt=\"lauren whittaker \" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/82_1F2A2765.jpg\" /><br /><br />SPOKANE, Wash. – Gonzaga women's basketball will make seven national television appearances during the 2026-27 regular season as the Bulldogs enter their inaugural season in the Pac-12 Conference. The schedule features three games on The CW, three on USA Network and one on CBS Sports Network, along with eight games on SWX.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "0e0f128620f802af",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Tickets on Sale This Week for UCLA-Gonzaga Clash at Acura West Coast Hoops Showdown",
         "link": "https://gozags.com/news/2026/10/14/mens-basketball-tickets-on-sale-this-week-for-ucla-gonzaga-clash-at-acura-west-coast-hoops-showdown",
         "link_kind": "item",
@@ -3454,23 +3468,79 @@
         "id": "bffa54d278fbde90",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "Gonzaga returning to Climate Pledge Arena for nonleague games in 2026-27 and 2027-28",
-        "link": "http://www.spokesman.com/stories/2026/sep/01/gonzaga-returning-to-climate-pledge-arena-for-nonl/",
-        "link_kind": "item",
-        "date": "2026-09-01T00:00:00+00:00",
-        "summary": "<p>Nonconference games at Climate Pledge Arena have been a fixture of Gonzaga’s schedules four of the last five seasons and the tradition will continue with a pair of matchups against Big Ten schools in 2026-27 and 2027-28.</p><p>The Zags will return to Seattle next year – and take a brief hiatus from their Pac-12 Conference schedule – to play Oregon on Jan. 30, <a href=\"https://bracketeer.org/nonconference/big10\" target=\"_blank\">according to Rocco Miller of Bracketeer.org</a>. It will be the second game of a neutral-neutral series with Dana Altman’s program that started with Gonzaga’s 91-82 victory over the Ducks last season at Portland’s Moda Center.</p><p>A date hasn’t been set, but Gonzaga will make a pit stop at Climate Pledge during the 2027-28 season to play UCLA in a nonconference game, according to Miller. The West Coast powers renewed their rivalry this offseason, agreeing to another neutral-neutral series that will start this fall when the Zags travel to play the Bruins Dec. 5 at the Honda Center in Anaheim.</p><p>It’s been a mixed bag for Gonzaga in five games at Climate Pledge. Mark Few’s teams dropped the first three games they played in the building, losing 91-82 to Alabama in 2021, 76-63 to Connecticut in 2023 and 90-89 to Kentucky in an overtime matchup in 2024. The Zags finally broke their Climate Pledge spell last season with an 82-72 win over UCLA and returned roughly a month later to beat Seattle U 71-50 in West Coast Conference play.</p><p>With Oregon on the 2026-27 schedule, the Zags are guaranteed to play 10 nonconference games against high-major opponents and could face 11 if they advance to the championship game at the Players Era Festival in Las Vegas. Gonzaga will have at least two nonleague games wedged into its Pac-12 schedule, with a Feb. 20 meeting against Duke at Little Caesars Arena in Detroit.</p><p>Of the 18 players that played minutes in last year’s Gonzaga-Oregon matchup, just two are back on their respective rosters this season: the Zags’ Braden Huff and Ducks’ Sean Stewart.</p><p>Altman’s reloaded roster features freshman Tajh Ariza, the son of former NBA star Trevor Ariza and a four-star high school prospect who was considered one of the top 40 recruits in the country.</p><p>The Ducks lose top scorers Nate Bittle and Jackson Shelstad, but bring in a large group of high-impact transfers including San Francisco’s Tyrone Riley IV, Alabama’s Taylor Bol Bowen, Boise State’s Andrew Meadow, San Diego State’s Pharaoh Compton, Arizona’s Dwayne Aristode, Kentucky’s Jasper Johnson and Boston College’s Fred Payne.</p><p>Before last season’s meeting in Portland, Few had only matched up with his alma mater two other times since his Gonzaga tenure started in 1999. The Zags lost 70-64 to the Ducks during the Far West Classic in 1999 but edged Oregon 73-72 in overtime when the teams met in the Battle 4 Atlantis semifinals in 2019.</p><p>Last year’s matchup coincided with the season-high scoring performance of Gonzaga point guard Braeden Smith, who had 21 points on 7 of 10 shooting. Huff added 20 points while Graham Ike had 17 points and 11 rebounds. Oregon’s Bittle, a former GU recruit, led all scorers with 28 points to go with nine rebounds.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "e4230341d8b560d0",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Oregon State": [
+      {
+        "title": "Out of this world: Astronaut visits campus for voter turnout event",
+        "link": "https://dailybaro.orangemedianetwork.com/33398/daily-barometer-news/out-of-this-world-astronaut-visits-campus-for-voter-turnout-event/",
+        "link_kind": "item",
+        "date": "2026-10-15T23:30:01+00:00",
+        "summary": "Register, get your ballot and vote. This was the message Captain Wendy Lawrence, a retired astronaut and Navy pilot, brought to students at Oregon State University Monday night.  The event, organized by the Voter Turnout Club, was meant to drive voter registration and increase turnout for the United States midterm elections on Nov. 3. “(Voting)...",
+        "author": "Samson Naleway, Copy Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "2d3c294fd950078e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State's Eric Olsen ran sprints on his honeymoon",
+        "link": "https://www.oregonlive.com/beavers/2026/10/eric-olsen-went-to-mexico-for-his-honeymoon-and-still-ran-sprints-to-be-prepared-to-play-for-oregon-state.html",
+        "link_kind": "item",
+        "date": "2026-10-15T22:11:40+00:00",
+        "summary": "The Beavers tight end leads Pac-12 tight ends in receiving and wouldn't even skip workouts on his honeymoon in Mexico.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "fb7d0b1734f4336f",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers Selected for League-Most 9 Televised Games",
+        "link": "https://osubeavers.com/news/2026/10/15/womens-basketball-beavers-selected-for-league-most-9-televised-games",
+        "link_kind": "item",
+        "date": "2026-10-15T19:00:00+00:00",
+        "summary": "<img alt=\"Detail WBB\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/detail_.jpg\" /><br /><br />Oregon State women's basketball will play at least nine nationally televised games as part of their 2026-27 season with the Pac-12 Television Partners announcing selections on Thursday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "94aee95131693fc4",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Goss Stadium to add seats, videoboard in $15M expansion",
+        "link": "https://www.oregonlive.com/beavers/2026/10/anonymous-donor-fuels-15-million-right-field-makeover-at-oregon-states-goss-stadium.html",
+        "link_kind": "item",
+        "date": "2026-10-15T18:37:17+00:00",
+        "summary": "An anonymous $15 million donation will fund permanent bleacher seating, a new videoboard, and a Knights clubhouse at Goss Stadium, with construction set for 2027-2028.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "4e75843a19773af2",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State women’s basketball will play most TV games among Pac-12 teams",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-womens-basketball-will-play-most-televised-games-among-pac-12-teams.html",
+        "link_kind": "item",
+        "date": "2026-10-15T18:00:00+00:00",
+        "summary": "Oregon State women's basketball leads all Pac-12 teams with nine televised games this season, airing on CW and USA Network.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "68cff6d27a35405f",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Oregon State offensive line may be back to full strength against WSU",
         "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-offensive-line-may-be-back-to-full-strength-against-washington-state.html",
@@ -3692,34 +3762,6 @@
         "channel_url": "",
         "source": "The Oregonian",
         "id": "8e31b62e82ae726d",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "A year of Core Education: Student, instructor feedback leads to improvements in new curriculum",
-        "link": "https://dailybaro.orangemedianetwork.com/33324/daily-barometer-news/a-year-of-core-education-student-instructor-feedback-leads-to-improvements-in-new-curriculum/",
-        "link_kind": "item",
-        "date": "2026-10-13T21:59:44+00:00",
-        "summary": "In summer 2025, after more than 30 years of using the Baccalaureate Core system, Oregon State University switched to a new system: Core Education. Core Ed took away some long-held requirements within Bacc Core, including that of a physical activity course. Under the new system, there is an emphasis on career preparation, and students are...",
-        "author": "Lucy Gilchrist, Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "c2cd86b0c3e94e35",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Forestry and flames: OSU’s fire testing facility nears completion",
-        "link": "https://dailybaro.orangemedianetwork.com/33281/daily-barometer-news/forestry-and-flames-osus-fire-testing-facility-nears-completion/",
-        "link_kind": "item",
-        "date": "2026-10-13T21:30:19+00:00",
-        "summary": "As one of Oregon State University&#8217;s newest construction projects approaches completion, the university once again aims to be on the cutting edge of forest research. The TallWood Design Institute, a collaboration between OSU’s College of Forestry, College of Engineering and the University of Oregon’s College of Design, is constructing a fire testing facility on OSU’s...",
-        "author": "Gabriel Robinson, Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "999192daae99d583",
         "sport": "all",
         "medium": "text"
       },
@@ -4174,34 +4216,6 @@
         "medium": "text"
       },
       {
-        "title": "Beavers to open Pac-12 play at home against Washington State",
-        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-baseball-opens-pac-12-play-against-washington-state-hosts-texas-tech.html",
-        "link_kind": "item",
-        "date": "2026-10-08T18:21:13+00:00",
-        "summary": "The Beavers will host the Cougars for a three-game series at Goss Stadium from April 16-18, the school announced Thursday.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "d54896577718fbe8",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State women’s basketball add commitment from 2027 center",
-        "link": "https://www.oregonlive.com/recruiting/2026/10/oregon-state-womens-basketball-adds-commitment-from-2027-center.html",
-        "link_kind": "item",
-        "date": "2026-10-08T17:01:13+00:00",
-        "summary": "Harcourt chose OSU over offers from UCF, Texas State, George Washington and Hofstra, among others.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "b918f97b5e39e8fc",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State Football Looks To Sustain Momentum Against San Diego State",
         "link": "https://traffic.megaphone.fm/TDSPT7754234279.mp3",
         "link_kind": "enclosure",
@@ -4332,20 +4346,6 @@
         "extent": "56 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Women’s Basketball Announces Non-Conference Slate",
-        "link": "https://osubeavers.com/news/2026/8/31/womens-basketball-womens-basketball-announces-non-conference-slate",
-        "link_kind": "item",
-        "date": "2026-08-31T22:29:00+00:00",
-        "summary": "<img alt=\"Fans\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2022/9/22/Floor_vsOregon_KM_8Crdo.jpg\" /><br /><br />Season tickets for the 2026-27 season are on sale and renewals are open. Fans can log in to their account online or call the ticket office (541-737-2050) to renew or purchase new season tickets at beavertickets.com.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "49c314dac81c1099",
-        "sport": "wbb",
-        "medium": "text"
       }
     ],
     "San Diego State": [
@@ -4417,6 +4417,20 @@
         "source": "The Daily Aztec",
         "id": "cd2ec89bab4e5cb3",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "SDSU Men's Hoops: Zach White sits down with Jon Schaeffer",
+        "link": "https://goaztecs.com/news/2026/10/13/sdsu-mens-hoops-zach-white-sits-down-with-jon-schaeffer",
+        "link_kind": "item",
+        "date": "2026-10-13T17:54:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "5a8b7426b3e3ff17",
+        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -4675,6 +4689,20 @@
         "medium": "text"
       },
       {
+        "title": "SDSU Men's Hoops: Latrell Davis sits down with Jon Schaeffer 2026",
+        "link": "https://goaztecs.com/news/2026/10/5/sdsu-mens-hoops-latrell-davis-sits-down-with-jon-schaeffer-2026",
+        "link_kind": "item",
+        "date": "2026-10-05T17:53:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "c47df666dbe99bdf",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "San Diego State Hits the Road for Pac-12 Play with Saturday Game at Oregon State",
         "link": "https://goaztecs.com/news/2026/10/5/san-diego-state-hits-the-road-for-pac-12-play-with-saturday-game-at-oregon-state",
         "link_kind": "item",
@@ -4770,6 +4798,20 @@
         "source": "San Diego State Athletics",
         "id": "7b40a2d65b879e6e",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "SDSU Men's Hoops: Chance Gladden sits down with Jon Schaeffer 2026",
+        "link": "https://goaztecs.com/news/2026/10/1/sdsu-mens-hoops-chance-gladden-sits-down-with-jon-schaeffer-2026",
+        "link_kind": "item",
+        "date": "2026-10-01T17:51:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "66c028755fc4adda",
+        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -5340,34 +5382,6 @@
         "id": "97d0f71f44bf7b74",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "San Diego State Begins Inaugural Pac-12 Season with Non-Conference Game vs. Portland State",
-        "link": "https://goaztecs.com/news/2026/08/31/san-diego-state-begins-inaugural-pac-12-season-with-non-conference-game-vs-portland-state",
-        "link_kind": "item",
-        "date": "2026-08-31T22:44:45+00:00",
-        "summary": "SDSU welcomes Portland State at 6:30 p.m. PT Saturday at Snapdragon Stadium.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "1eb5e5fc271c9e14",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "SDSU Athletics and Palomar Expand Partnership with Jersey Patch for Aztec Football",
-        "link": "https://goaztecs.com/news/2026/08/31/sdsu-athletics-and-palomar-expand-partnership-with-jersey-patch-for-aztec-football",
-        "link_kind": "item",
-        "date": "2026-08-31T19:15:00+00:00",
-        "summary": "Palomar expands role as official specialty insurance and volunteerism partner with first-of-its-kind jersey patch on Aztec football’s uniforms.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "ecd5fc13de1ef435",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
@@ -5748,23 +5762,37 @@
         "id": "fefbca32dad90547",
         "sport": "mbb",
         "medium": "text"
-      },
-      {
-        "title": "Texas State to Face North Texas in USLBM Coast to Coast Challenge",
-        "link": "https://txst.com/news/2026/8/31/mens-basketball-texas-state-to-face-north-texas-in-uslbm-coast-to-coast-challenge.aspx",
-        "link_kind": "item",
-        "date": "2026-08-31T16:00:00+00:00",
-        "summary": "<img alt=\"Kaden Gumbs\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/31/251115_MBB_TSU_In_game_1010.jpg\" /><br /><br />FORT WORTH, Texas - Texas State men's basketball will face North Texas in the USLBM Coast to Coast Challenge presented by Visit Fort Worth on Sunday, Dec. 13 at Dickies Arena, announced by Total Sports Consulting on Monday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "c99a9fc67ee5e585",
-        "sport": "mbb",
-        "medium": "text"
       }
     ],
     "Utah State": [
+      {
+        "title": "Women’s Basketball Announces Nationally Televised Games for 2026-27",
+        "link": "https://utahstateaggies.com/news/2026/10/15/womens-basketball-womens-basketball-announces-nationally-televised-games-for-2026-27.aspx",
+        "link_kind": "item",
+        "date": "2026-10-15T19:00:00+00:00",
+        "summary": "<img alt=\"Utah State junior guard Aaliyah Gayles dribbles up the court during USU's 77-69 win over Omaha\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/16/DSC00538.jpg\" /><br /><br />LOGAN, Utah – The Pac-12 Conference announced broadcast schedule information for the 2026-27 women's basketball season, bringing Utah State's national television appearances to a program-record three for the 2026-27 season.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "6f89b6e8b5542a33",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Utah State hosts the 2026 Steve T. Reeder Memorial Invitational",
+        "link": "https://usustatesman.com/utah-state-hosts-the-2026-steve-t-reeder-memorial-invitational-2/",
+        "link_kind": "item",
+        "date": "2026-10-15T18:20:38+00:00",
+        "summary": "<p>On the sunny morning of Oct. 9, Utah State University Cross Country hosted the 10th annual Steve T. Reeder Memorial&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/utah-state-hosts-the-2026-steve-t-reeder-memorial-invitational-2/\">Utah State hosts the 2026 Steve T. Reeder Memorial Invitational</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
+        "author": "Elissa Ross",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Utah Statesman",
+        "id": "19c81c5f253a729c",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Aggies Announce 23 Nationally Televised Games for 2026-27",
         "link": "https://utahstateaggies.com/news/2026/10/14/mens-basketball-aggies-announce-23-nationally-televised-games-for-2026-27.aspx",
@@ -6062,20 +6090,6 @@
         "medium": "text"
       },
       {
-        "title": "Aggies Defeat Texas State in Inaugural PAC-12 Matchup",
-        "link": "https://usustatesman.com/aggies-defeat-texas-state-in-inaugural-pac-12-matchup/",
-        "link_kind": "item",
-        "date": "2026-10-02T05:24:55+00:00",
-        "summary": "<p>Utah State Women’s Soccer defeated the Texas State Bobcats 2-1 in their inaugural Pac-12 matchup. Not only was this the&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/aggies-defeat-texas-state-in-inaugural-pac-12-matchup/\">Aggies Defeat Texas State in Inaugural PAC-12 Matchup</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
-        "author": "Rory McNeill",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Utah Statesman",
-        "id": "730f3e95e0d91dec",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Announces 2026-27 Men’s Basketball Schedule",
         "link": "https://utahstateaggies.com/news/2026/9/30/mens-basketball-pac-12-announces-2026-27-mens-basketball-schedule.aspx",
         "link_kind": "item",
@@ -6193,6 +6207,79 @@
     ],
     "Washington State": [
       {
+        "title": "‘Let’s go win the rock’: Behind the new WSU-Oregon State rivalry trophy",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/lets-go-win-the-rock-behind-the-new-wsu-oregon-state-rivalry-trophy/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-10-15T23:42:54+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/tzr_141704.jpg?d=1200x630\"><br/>Last year, WSU grad Jesse Lyon thought about the WSU/OSU rivalry. What ties these schools together? 15 months later, the result is here: The rivalry rock.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "05306a8a89fe1210",
+        "sport": "football",
+        "medium": "text",
+        "also": [
+          "The Spokesman-Review"
+        ]
+      },
+      {
+        "title": "College Football Playoff expansion: 24-team field is reportedly coming",
+        "link": "https://www.seattletimes.com/sports/washington-huskies-football/college-football-playoff-expansion-24-team-field-is-reportedly-coming/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-10-15T22:32:03+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10152026_tzr_tzr_152042.jpg?d=1200x630\"><br/>The College Football Playoff is on the brink of expanding to 24 teams for next season whether fans are in favor or not.",
+        "author": "Jon Wilner",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "3cd01d6d63096f5a",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Amped for Eshelman debut and, gulp, rooting for Brown too",
+        "link": "https://jimmoorethego2guy.substack.com/p/amped-for-eshelman-debut-and-gulp",
+        "link_kind": "item",
+        "date": "2026-10-15T15:17:43+00:00",
+        "summary": "Cougs and Dawgs going with different QBs, and I&#8217;m hoping for great things in Corvallis and escalating turmoil on Montlake.",
+        "author": "Jim Moore",
+        "duration": null,
+        "channel_url": "",
+        "source": "Jim Moore's Substack",
+        "id": "6017860c7d5a7e8f",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Cougars sharpen their claws for Viking territory",
+        "link": "https://dailyevergreen.com/200316/sports/cougars-sharpen-their-claws-for-viking-territory/",
+        "link_kind": "item",
+        "date": "2026-10-15T15:00:33+00:00",
+        "summary": "Washington State hockey travels to Bellingham this weekend for a two-game series against Western Washington, looking to rewrite their four consecutive losses to the Vikings from last season. The Cougs (8-3, 2-2 Pac-8) enter the weekend in the win column, coming off a sweep over Eastern Washington. WSU has had a promising start this season...",
+        "author": "Zach McFarlane",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "865d34a98fc4bdaf",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Take home the rock: WSU takes on the Beavers in Coravallis",
+        "link": "https://dailyevergreen.com/200198/sports/bring-home-the-rock-wsu-takes-on-the-beavers-in-coravallis/",
+        "link_kind": "item",
+        "date": "2026-10-15T15:00:03+00:00",
+        "summary": "The Cougs (1-5, 0-2) are heading to Oregon State to take on the Beavers (4-2, 2-0). There is a ton of history to this matchup, with the two being the only remaining teams of the original Pac-12. The stakes have been raised even higher in this season’s matchup, as a new rock trophy is set...",
+        "author": "KellerRay Hutsell Zandell",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "8dd7948716dde994",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Cougar Football Hour 10-14-26 (Kirby Moore, Jamarey Smith & Brandyn Thompson)",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/72ff94b1-8eff-4780-a954-d889c300d684.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -6206,6 +6293,20 @@
         "extent": "59 min",
         "sport": "football",
         "medium": "audio"
+      },
+      {
+        "title": "On Oregon State's rise, Washington State's fall and life on the edge in the sport's new era | Commentary",
+        "link": "http://www.spokesman.com/stories/2026/oct/15/on-oregon-states-rise-washington-states-fall-and-l/",
+        "link_kind": "item",
+        "date": "2026-10-15T00:00:00+00:00",
+        "summary": "<p>They were together in the fight for survival, together in the salvage operation and together in the rebirth of Pac-12 football six weeks ago.</p><p>But when Oregon State and Washington State take the field Saturday afternoon in Corvallis, the connection won’t go much deeper than history and conference affiliation.</p><p>The Beavers are riveting, relevant and ascendant.</p><p>The Cougars are dull, immaterial and spiraling.</p><p>Their respective trajectories reflect life on the margins of major college football, where traditions are modest, resources limited and fates unpredictable.</p><p>Nobody expected the Beavers (4-2) to be one of the best stories in the sport under first-year coach JaMarcus Shephard, produce one of the game’s brightest young stars and emerge as a Pac-12 title contender with a path, albeit narrow, into the College Football Playoff.</p><p>Nobody expected the Cougars (1-5) to quickly sink to the bottom of the rebuilt conference under first-year coach Kirby Moore, with an inept offense, overburdened defense and the slimmest of chances to qualify for a bowl berth.</p><p>Washington State looks like a bad team in the new Pac-12.</p><p>Oregon State looks like a good team in the old Pac-12.</p><p>It’s easy enough to imagine alternate outcomes, with the Beavers flailing and the Cougars roaring.</p><p>The difference? A series of decisions made on each campus late last fall.</p><p>The Beavers had fired Trent Bray weeks earlier, following a dismal two-year stretch that coincided with the Pac-12’s transition period. The Cougars needed a coach after Jimmy Rogers bolted for Iowa State.</p><p>The schools took gigantic risks in handing the keys to rookie coaches. Neither spent much money. (Shephard and Moore are two of the lowest-paid coaches in the conference.) Both were desperate.</p><p>WSU wanted stability after churning through four coaches in seven years. OSU wanted energy and hope after slogging through the gloom of the Bray era. Both wanted leaders who could generate immediate success in the rebuilt conference.</p><p>How would success be defined? By three words: College Football Playoff.</p><p>Everything about the Pac-12, from the membership composition to the conference schedule to the resource allocation, was based on claiming the playoff berth reserved for the top team in the Group of Six.</p><p>Why? Because CFP appearances generate relevance and build brands and position schools outside the Big Ten and SEC for whatever comes next, whether it’s another round of realignment or a super league.</p><p>The sport’s status quo is unlikely to last into the 2030s. Every school in the ACC and Big 12 wants to jump into the Big Ten and SEC. Every school in the Pac-12 wants to move into the Big 12 and ACC.</p><p>The industry is hard-wired for ascent.</p><p>That’s why the Pac-12’s grant-of-rights contract binding the schools together expires in 2031.</p><p>That’s why WSU and OSU had to get their hires right.</p><p>The Cougars considered Bryan Harsin, the former Boise State coach, but are believed to have offered the job to Moore and nobody else. He was, it seems, their first choice.</p><p>The Beavers pursued North Dakota State’s Tim Polasek and Montana State’s Brent Vigen. Was Shephard the third choice? Only a handful of current and former school executives know, but he wasn’t the obvious first pick. That’s clear.</p><p>Sometimes, you get lucky. And when that luck combines with skill, breakthrough seasons follow.</p><p>Shephard has made all the right moves with staff and personnel decisions, particularly quarterback Braden Atkinson, a transfer from Mercer, and receiver Jesse Legree, a low-profile recruit from Baltimore.</p><p>He also hit with offensive coordinator Mitch Dalen, who learned his craft from Alabama coach Kalen DeBoer, and defensive playcaller Mike MacIntyre, a former national Coach of the Year (at Colorado).</p><p>And crucially, he hired a general manager, Eron Hodges, with an eye for roster construction.</p><p>Were the Cougars unlucky? Did they whiff with Moore? It’s too soon to declare a misfire.</p><p>But clearly, Moore has not made all the right decisions with his staff and roster. Last week, he stripped offensive coordinator Matt Miller of his playcalling duties. This week, Moore changed quarterbacks. If that doesn’t work, he’s out of options until December.</p><p>As currently constructed, the Cougars look overwhelmed, outmanned and out of their league – even though it is, in so many regards, their league.</p><p>They are winless against FBS competition and don’t appear capable of derailing the Beavers, who have won four consecutive games by an average of 36 points.</p><p>On the field, at least, WSU and OSU have gone their separate ways.</p><p>Their trajectories might cross again in one year, or in five. They could cross multiple times before the decade ends. On the sport’s margins, the only thing more fleeting than failure is success.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "9b641b6aba98f8c2",
+        "sport": "football",
+        "medium": "text"
       },
       {
         "title": "Washington State Faces Oregon State Saturday on USA",
@@ -6304,20 +6405,6 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "c01a33fa66df55ef",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "'Let's go win the rock': Behind the formation of the new WSU-Oregon State rivalry trophy",
-        "link": "http://www.spokesman.com/stories/2026/oct/14/lets-go-win-the-rock-behind-the-formation-of-the-n/",
-        "link_kind": "item",
-        "date": "2026-10-14T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Noah Dunham stared straight ahead, a blank look on his face. Washington State’s center looked confused.</p><p>“A rivalry rock?” Dunham said.</p><p>Turns out, Dunham hadn’t yet heard of the latest addition to the Washington State and Oregon State football series, which is set to play installment No. 112 on Saturday afternoon in Corvallis. The Cougars and Beavers have played almost every year since 1903, making this one of the longest-running series in college football, an annual battle between two Pac-12 legacy schools for bragging rights.</p><p>This weekend, though, that’s not the only thing WSU and OSU will be competing for. Thanks to the work of a few alumni association members from both schools, they will be playing for a new rivalry rock, a two-part formation, the top half glossy basalt and the bottom half white granite, potentially as old as 100 million years. Totaling about 50 pounds, the stones hail from a place called Biggs Junction, an unincorporated community in northern Oregon along the Columbia River – in fact, just about halfway between Corvallis’ Reser Stadium and Pullman’s Gesa Field, the programs’ football stadiums.</p><p>The rock formation doesn’t have a name yet, and it isn’t official in the way most rivalry trophies are, meaning the winner of Saturday’s game won’t hoist it at midfield. In the rock’s debut year, it’s likely to find a home in the winner’s alumni association building, underscoring the fact that for now, it’s more of an alumni and fan-sponsored push than a school-sanctioned tradition. Those who made it possible hope it becomes more official in the years ahead.</p><p>For now, though, it’s just that: a rivalry rock. It’s made from the land that surrounds both WSU and OSU, a nod to the Pacific Northwest background in which both schools find some level of identity. The brains behind the operation, WSU grad Jesse Lyon and Oregon State grad Ian Madin, were hoping to unveil it last year, but they decided against it while both schools remained in limbo ahead of the rebuilt Pac-12’s launch this year.</p><p>Now it’s here in all its glory.</p><p>“It’s really quite thrilling,” said Madin, a 1986 master’s graduate from OSU and the geologist who helped cut the rocks into shape. “I had sort of forgotten about it. I’ve heard things for a long time, and I’ve got a whole bunch of other things, irons in the fire and stuff. So when I got a little note from Jesse the other day, I was kinda like, ‘Oh, that’s so cool!’ I’m really excited to see how that goes.”</p><p>One summer afternoon last year, Lyon was sitting on his porch in Portland, where he’s found a home after graduating from WSU in 1992. He was pondering the WSU/OSU series, what it means for both schools, how it could look in the future as the reimagined Pac-12 took shape.</p><p>What ties these schools together? Lyon thought.</p><p>So he headed online and began doing some research, looking into rivalry trophies around the country: The most iconic, like the axe for the winner of the Stanford/Cal matchup, to the most peculiar, like the Iron Skillet for the victor between rivals TCU and SMU. As Lyon looked further into the issue, he realized that some of these trophies didn’t start out as school-sponsored initiatives. Some started organically, between fans, before flourishing as official trophies years down the road.</p><p>Well, Lyon began to think, why wouldn’t that be possible for WSU and OSU? So he dove deeper into his research, trying to think what would make a good rivalry trophy, something that embodies both institutions. He considered centering it around the schools’ land-grant identities. It sounded good, he thought, but agriculture only accounts for a fraction of what students at each school study. Besides, lots of universities around the country are land-grant, not just WSU and OSU. He wanted something more exclusive to the Cougs and Beavs.</p><p>Then, after sifting through a couple other ideas he didn’t love, he came to a realization. Lyon grew up in the Spokane area, where in social studies and geology classes, schoolchildren always learn about one key feature about their area.</p><p>“Oh,” Lyon said to himself, like the idea should have been obvious all along. “The Missoula floods.”</p><p>The Missoula floods, Lyon realized, went beyond just their basic meaning. The floods, a sequence of devastating deluges caused by glacial lake outbursts that swept across the Pacific Northwest about 14,000 years ago, shaped much of the area into the way it looks today. They didn’t just wipe out much of Eastern Washington. They also did the same to the Corvallis area.</p><p>That’s about when Lyon felt the idea gaining traction. Tens of thousands of years ago, WSU and OSU were victims of a catastrophe. Three years ago, they suffered another unfortunate fate, left behind as the Pac-12 Conference imploded around them, leaving only the Cougars and Beavers in the league. The parallels hit Lyon like a Mack truck.</p><p>“So I’m like, wouldn’t that be cool to do something around that?” Lyon said. “So I started kinda playing around with the idea that there could be something with the two survivors of these terrible events.”</p><p>Lyon then contacted the Pacific Northwest Sculptors, an arts organization based in Portland. He passed along his idea, and the organization responded by connecting Lyon with Madin, a retired geologist who lives in Lake Oswego, a nearby suburb. Madin, it turns out, had been doing art for the past six years or so, and he had never done a commissioned piece. This would be his first big piece, a work for an organization, not for a neighbor or a friend.</p><p>“I was just kinda like, ‘Oh, this is such a cool opportunity,’ ” Madin added. “First off, they’re speaking my language because they want these rocks that are specific to Oregon and Washington. Full disclosure, I’m not a football fan. But I went to OSU, and I’ve got lots of colleagues and friends from WSU, and I’ve been up there lots. I’m quite familiar with it, and they’re both organizations that I love to be associated with.”</p><p>He doesn’t call himself a football fan, but he understood why such a thing could be important to WSU and OSU fans. Growing up, Madin went to the Big Game, the annual rivalry matchup between Stanford and Cal, the latter of which his father taught at. “I think that’s a fun concept,” Madin said, “even if I’m not particularly interested in going and watching games anymore.”</p><p>So after consulting with a few officials and getting the green light from Cougs First, a business network of WSU alumni, Lyon proceeded on with the project. Before long, Lyon joined OSU alumni association member Dan Jarman at Madin’s home in Lake Oswego, where his house is surrounded by a perimeter of rocks he collects, some 350 of the stones piled up. “They’re waiting their turn to go have something made out of them,” Madin said.</p><p>Turns out, Madin had just the rocks that would be perfect for this project. He found a few Missoula flood erratics, boulders transported hundreds of miles by the floods. “It was kinda like, ‘Oh, this is perfect,’ ” Madin said. Then, when he found the basalt rocks that came from Biggs Junction and all three men realized the symbolism the combination would provide, they agreed: This was, in fact, perfect.</p><p>So Madin set up shop and began work on the stones in his workshop. He enlisted the help of a friend who had done similar work, much of it on Orcas Island out in San Juan County in Washington, and the two men laid out their plans. They used an iPhone app called Scaniverse to make a 3D model of the rocks, then a computer program called SketchUp for more detailed work.</p><p>Then, for about four hours per day for several months, Madin shaped the rocks into the way they look today. He used a wet grinder, an angle grinder with a water feed, to keep things cool and keep down the clouds of dust, which can accumulate and become unhealthy to be around.</p><p>He would use saw blades to take off big chunks of the granite, then move to a grinding wheel, which he used to smooth out the marks made by the saw blades. Then came the polishing pads, complete with diamond grit. Each pad is a bit finer than the last, and each one removes the scratches left by the previous one. With every step, Madin made the rocks’ surface smoother and shinier.</p><p>On the piece of basalt, Madin took care to leave the texture the way he found it: One side is a fractured surface, which reminds the geologist of mountains, and the other is smoother, almost like the plains on the Palouse. “Some characteristics of both states,” Madin said.</p><p>Madin also had to drill a hole in both rocks to make room for a pin that connects them, which is the way the trophy will be presented, but they’re separate for transport purposes. Once that was complete, within a few months, Madin and everyone behind the operation had their finished product: a new rivalry trophy for Washington State and Oregon State.</p><p>“We’re the two survivors,” Lyon said. “Here’s our survival trophy.”</p><p>Several of his teammates hadn’t caught wind of the rock, but don’t count WSU safety Jaylen Thomas as part of that group. On Monday afternoon, when a question about the trophy came his way, a smile washed over his face.</p><p>“I actually just saw the picture,” Thomas said.</p><p>Thomas is a transfer from San Jose State, which has a rivalry with Fresno State, playing every year for the Valley Trophy, a silver letter V. In his two seasons with the Spartans, Thomas never won the trophy, so he’s pumped to try and win the rock.</p><p>A few minutes earlier, in the same media session, WSU linebacker Keith Brown treated the question the same way that Dunham did. A rivalry rock? He hadn’t caught wind of the news.</p><p>Within only a few seconds, Brown was smiling, just like his teammate. The idea may have sounded a little funny, a little off-the-wall, but Brown considers himself a competitor. If there’s something on the line, he wants to go take it, whatever it looks like.</p><p>“Hey,” Brown said with a grin, “let’s go win the rock.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "1f42af06ea8a570a",
         "sport": "football",
         "medium": "text"
       },
@@ -6522,20 +6609,6 @@
         "medium": "text"
       },
       {
-        "title": "Wazzu football drops third straight in narrow loss to Utah State",
-        "link": "https://dailyevergreen.com/200140/sports/wazzu-football-drops-third-straight-in-narrow-loss-to-utah-state/",
-        "link_kind": "item",
-        "date": "2026-10-11T05:58:42+00:00",
-        "summary": "Washington State falls to 1-5 and is now 0-2 in conference play after a 17-16 loss against Utah State. The Cougars were up 16-3 at halftime and were executing the best they had in weeks. That changed in the second half, when WSU let up 14 unanswered against the Aggies, turning the ball over twice...",
-        "author": "KellerRay Hutsell Zandell",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "5eb47e2a5ca4a787",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "After troubling loss, is Caden Pinnick right QB to start for WSU football?",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/after-troubling-loss-is-caden-pinnick-right-qb-to-start-for-wsu-football/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -6709,34 +6782,6 @@
         "source": "The Spokesman-Review",
         "id": "edcb78aa3e551397",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Cougar volleyball drops third straight match",
-        "link": "https://dailyevergreen.com/200119/sports/cougar-volleyball-drops-third-straight-match/",
-        "link_kind": "item",
-        "date": "2026-10-09T22:00:55+00:00",
-        "summary": "In the battle between the top two Pac-12 defenses Thursday, Colorado State (12-3, 5-0 Pac-12) held Washington State (6-8, 1-3 Pac-12) to its second-lowest hitting percentage this season en route to a straight-sets win.  The Rams held the Cougars&#8217; offense to a .098 rate in Fort Collins, Colorado. The Rams also notched 11 blocks. And...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "24d652c661ff2e9c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "WSU soccer falls 2-0 to the Aggies",
-        "link": "https://dailyevergreen.com/200117/sports/soccer/wsu-soccer-falls-2-0-to-the-aggies/",
-        "link_kind": "item",
-        "date": "2026-10-09T20:48:24+00:00",
-        "summary": "The No. 17 Utah State Aggies handed the Cougs their first conference loss. The Aggies struck first in the 15th minute when sophomore Kunie Hirai scored a penalty kick. The ball landed in the bottom left of the goal. The penalty kick got awarded after an illegal tackle in the box.  Junior Mia Mullenmeister scored for...",
-        "author": "Ben Walker, Evergreen reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "8eadcf1fcc80fa2f",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -7281,20 +7326,6 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "ecef0e463b69bf71",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Washington State's offense has yet to arrive in new era of Pac-12 | Jacob Thorpe",
-        "link": "http://www.spokesman.com/stories/2026/oct/03/washington-states-offense-has-yet-to-arrive-in-new/",
-        "link_kind": "item",
-        "date": "2026-10-03T00:00:00+00:00",
-        "summary": "<p>This absolutely cannot happen. And it’s happening at the worst possible time.</p><p>Washington State’s football team is bad right now. Worse, it is boring.</p><p>The home crowd – an especially hardy bunch whose members often undertake long journeys just to get to Pullman for the game because they love their Cougs – were loud with their displeasure after the home offense began the game with three feeble drives.</p><p>The Cougars have been bad before, but that was the price paid for playing on the sport’s biggest stage, against its best teams. Fans waited out the bad years with the knowledge that when the Cougars were good, winning the Pac-10 in 1997 and 2002, they were among the nation’s best.</p><p>This was not part of the deal. The absolute only silver lining in WSU’s forced relegation to mid-major status was that the Cougars would for the first time not have to survive as the smallest fish in a big pond. That their peers would face similar challenges. And that WSU’s superior tradition and experience at the top would set up the Cougars to be one of the lead schools in the rebuilt Pac-12.</p><p>That rebuilt Pac-12, a joint salvation project between WSU and Oregon State, formally kicked off for the Cougars on Saturday night. Now the Cougars are 0-1 all-time in a conference they built and look ready to settle into a familiar place in the standings.</p><p>How can fans accept this? How long can they continue to care?</p><p>The disingenuous, or possibly just naïve counterpoint would be to say that Fresno State might be good! They entered the game with a 3-1 record and, … I’m sorry, I can’t do it. This is not Pat Hill or Jeff Tedford or Kalen DeBoer’s Fresno State. This team came into the game an underdog to a WSU team that’s only offense is a kicker who finally seems to be getting over his yips.</p><p>Make no mistake, the conference hierarchy is being established now. WSU’s natural comparison and rival, Oregon State, isn’t dealing with any of this. The Beavers look great! Beyond that, they are rewriting the rules around talent acquisition in this new era.</p><p>WSU, which beat OSU 32-8 the last time they played, has no ability to manufacture explosive plays with wide receiver Tony Freeman out for the season.</p><p>OSU, on the other hand is headlined by freshman wide receiver Jessee Legree who is tied for the national lead in receiving touchdowns with Ohio State’s Jeremiah Smith, the best college wide receiver since Randy Moss.</p><p>Legree has nine receiving touchdowns so far this season, which is three times as many as every WSU player combined.</p><p>This kid is obviously an anomaly, but he’s also a reason OSU is likely to finish near the top of the standings this first year in its new conference. His coaches will be able to tell donors and players that this is a program to invest in. Just look! “Come to Corvallis where you’ll play against mighty Boise State for glory and, if you’re good enough, get big money offers from the schools who passed on you out of high school.”</p><p>What is WSU supposed to say?</p><p>“Come to Pullman. We still don’t win many games, but you’ve got a great shot at playing time! And the fans won’t boo much longer, they’re almost hoarse.”</p><p>What is the solution? I don’t know, I don’t get paid as much as the people who are supposed to find the answers to that. Conference rival Colorado State fired its defensive coordinator in the middle of a game on Saturday, and I can’t imagine anything the Rams defense was doing was as embarrassing as those last five minutes of the WSU game.</p><p>But what I do feel qualified to say is there is no structural reason for WSU to look this pathetic. This should be getting easier. The Cougars are in a conference again.</p><p>After the original Pac-12 disbanded WSU was in the wilderness for two years. Each year the Cougars made a bowl game, one year reaching as high as No. 18 in the College Football Playoff rankings.</p><p>They set themselves up well to start this new era in pole position with rivals they chose. If they can’t give fans something to cheer for soon, they will win this new Pac-12 about as often as they won the old one.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "ca327f73a633bff1",
         "sport": "football",
         "medium": "text"
       },
@@ -7986,20 +8017,6 @@
         "medium": "text"
       },
       {
-        "title": "Washington State Cougars drop in Pac-12 power rankings despite win",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/washington-state-cougars-drop-in-pac-12-power-rankings-despite-win/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-09-20T18:49:21+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/tzr_114324.jpg?d=1200x630\"><br/>The Pac-12 looked like it was headed for a bleak Saturday before coming up with some strong late performances. Here's how the conference is ranked.",
-        "author": "Jon Wilner",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "ae0e54adc1fd4471",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "WSU Football: \"Second Punt return for a TD today!\" Chris King | Duquesne Call of the Game | 9/19/26",
         "link": "https://wsucougars.com/news/2026/09/20/wsu-football-second-punt-return-for-a-td-today-chris-king-duquesne-call-of-the-game-91926",
         "link_kind": "item",
@@ -8112,20 +8129,6 @@
         "channel_url": "",
         "source": "Washington State Athletics",
         "id": "7c0991f2916bc659",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU Cougars dominate all phases on way to win against Duquesne",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-cougars-dominate-all-phases-on-way-to-win-against-duquesne/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-09-19T23:07:28+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09192026_TZR_Duquesne_WSU-09192026-Spokesman-02_tzr.jpg?d=1200x630\"><br/>After floundering in their first two games, the Cougars clicked in all phases to earn coach Kirby Moore his first win as WSU coach. Here's how it happened.",
-        "author": "Greg Woods",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "fa36344845e87fef",
         "sport": "football",
         "medium": "text"
       },
@@ -8855,21 +8858,6 @@
         "source": "Palouse Playbook",
         "id": "6b4c91b75c2a01e3",
         "extent": "52 min",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "🍎 Apple Cup Preview: Who Wins WSU vs Washington? | Palouse Playbook x Locked On Huskies",
-        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/Apple-Cup-Preview-Who-Wins-WSU-vs-Washington---Palouse-Playbook-x-Locked-On-Huskies-e3o5csd",
-        "link_kind": "item",
-        "date": "2026-08-31T20:36:14+00:00",
-        "summary": "<p>🍎 The Apple Cup is here!On this special crossover episode of Palouse Playbook, Gavin Hite is joined by Roman Tomashoff of Locked On Huskies to break down one of college football&#39;s best rivalries as Washington State and Washington prepare to battle once again.We discuss:✅ WSU vs UW Apple Cup preview ✅ DeMond Williams and the Huskies&#39; outlook ✅ Caden Pinnick and Washington State&#39;s offense ✅ Why UW&#39;s defense could be one of the country&#39;s best units ✅ The biggest matchup advantages for both teams ✅ Players to watch on each side of the ball ✅ Season expectations for Washington and Washington State ✅ Apple Cup predictions and final score projectionsRoman provides a detailed look inside the Huskies program, including breakout players, defensive standouts, the impact of Jed Fish, and Washington&#39;s expectations entering the season. Gavin counters with Washington State&#39;s strengths, including a deep defensive front, veteran leadership, and how the Cougars can pull off the upset.Whether you&#39;re a Washington State Cougars fan, Washington Huskies fan, or simply love college football rivalries, this episode has everything you need before kickoff.🏈 Which team wins the Apple Cup?Drop your prediction in the comments!👇 Subscribe for year-round Washington State football coverage: 🔴 Recruiting 🔴 Game previews 🔴 Game recaps 🔴 Transfer Portal news 🔴 Pac-12 coverage 🔴 WSU Football analysisSpecial thanks to Roman Tomashoff and Locked On Huskies for joining the show.<a href=\"https://www.youtube.com/hashtag/applecup\">#AppleCup</a> <a href=\"https://www.youtube.com/hashtag/gocougs\">#GoCougs</a> <a href=\"https://www.youtube.com/hashtag/wsufootball\">#WSUFootball</a> <a href=\"https://www.youtube.com/hashtag/washingtonstate\">#WashingtonState</a> <a href=\"https://www.youtube.com/hashtag/washingtonhuskies\">#WashingtonHuskies</a> <a href=\"https://www.youtube.com/hashtag/uwfootball\">#UWFootball</a> <a href=\"https://www.youtube.com/hashtag/collegefootball\">#CollegeFootball</a> <a href=\"https://www.youtube.com/hashtag/pac12\">#Pac12</a> <a href=\"https://www.youtube.com/hashtag/bigten\">#BigTen</a> <a href=\"https://www.youtube.com/hashtag/cadenpinnock\">#CadenPinnock</a> <a href=\"https://www.youtube.com/hashtag/demondwilliams\">#DeMondWilliams</a> <a href=\"https://www.youtube.com/hashtag/cougars\">#Cougars</a> <a href=\"https://www.youtube.com/hashtag/huskies\">#Huskies</a> <a href=\"https://www.youtube.com/hashtag/palouseplaybook\">#PalousePlaybook</a> <a href=\"https://www.youtube.com/hashtag/lockedonhuskies\">#LockedOnHuskies</a></p>",
-        "author": "Up West Sports",
-        "duration": 1589,
-        "channel_url": "",
-        "source": "Palouse Playbook",
-        "id": "b800cf42a5628720",
-        "extent": "26 min",
         "sport": "all",
         "medium": "audio"
       }
