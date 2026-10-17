@@ -17416,6 +17416,136 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-10-17-0140"
+    },
+    "30282a0746f114dd": {
+      "subjects": {
+        "oregon-state": "about",
+        "washington-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a same-day Oregon State-Washington State matchup with each team's win/loss streak at stake, though the specific sport is not named.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-17-1340"
+    },
+    "4622064f9549359a": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The piece previews Hawaii at New Mexico, both Mountain West teams outside the nine covered schools, with no covered program appearing.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-17-1340"
+    },
+    "8c6cbe62fd2776fa": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "All five previewed Week 7 games (Wyoming-NIU, Air Force-UNLV, NDSU-Nevada, SJSU-UTEP, Hawaii-New Mexico) are Mountain West matchups among teams outside the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-10-17-1340"
+    },
+    "8f572872a1871918": {
+      "subjects": {
+        "texas-state/womens-soccer": "about",
+        "colorado-state/womens-soccer": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Texas State women's soccer defeating Colorado State, with both teams' performances substantively covered.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-17-1340"
+    },
+    "97783b89de2ddfe2": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece argues New Mexico's NCAA at-large odds are underrated; Boise State, Utah State and San Diego State appear only in a passing historical note about realignment.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-17-1340"
+    },
+    "9ff04b083224b5ad": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A full report-card analysis of Boise State football that substantively discusses Oregon State and Texas State as threats to its playoff path.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Texas State gets only one paragraph of specific analysis, making the involves call for it closer than Oregon State's.",
+      "byline": [
+        "Aiden Petterson"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-17-1340"
+    },
+    "a571d3616515d2c2": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The headline and summary describe an Oregon State basketball exhibition loss to Michigan with specific player point/rebound stats, though men's vs. women's is not stated.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-17-1340"
+    },
+    "c235a5a06c0afb0b": {
+      "subjects": {
+        "texas-state/football": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Texas State's bowl chances get a full dedicated section amid the piece's wider Mountain West bowl-eligibility survey.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-17-1340"
     }
   },
   "runs": {
@@ -20060,6 +20190,52 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 28.01380909999716,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-17-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-17T13:39:05.056718+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 5,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "c235a5a06c0afb0b",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c235a5a06c0afb0b",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c235a5a06c0afb0b",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 16.038952499977313,
       "tokens": null,
       "tokens_source": null
     }
