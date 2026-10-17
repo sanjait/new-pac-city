@@ -17184,6 +17184,238 @@
       ],
       "extent": "7 min read",
       "run": "run_2026-10-16-1341"
+    },
+    "0fb3c2d3924884ce": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The piece is entirely about Air Force's win over Northern Illinois and its upcoming game with UNLV, neither of which is a covered program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sean OToole"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-17-0140"
+    },
+    "30363322c7358a70": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The bylined column argues a tweak to the expanded playoff format that the title says would specifically benefit Oregon State's football postseason chances.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Only the title ties this playoff-format column to Oregon State specifically; the one-line summary alone does not.",
+      "byline": [
+        "Bill Oram"
+      ],
+      "run": "run_2026-10-17-0140"
+    },
+    "5289f2fe7e31cf08": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about",
+        "gonzaga/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Fresno State volleyball's five-set win over Gonzaga in detail, set by set.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-17-0140"
+    },
+    "6883a656a5417162": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A keys-to-the-game breakdown of the Washington State vs. Oregon State football matchup, with matchups and stats for both sides.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-17-0140"
+    },
+    "6e91dd7e333139e1": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary together name both teams' football programs and establish that this previews their Saturday matchup.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-17-0140"
+    },
+    "71aa715b9abf81a7": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full preview of WSU's chances against Oregon State built around QB Owen Eshelman's first start, covering both teams' personnel in depth.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-17-0140"
+    },
+    "75757edb97c51472": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A broadcaster's argued prediction that Oregon State will beat Washington State decisively, citing the talent gap between the two football programs.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-17-0140"
+    },
+    "7caccf84a32d31a1": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A game pick arguing Oregon State will beat Washington State, with a predicted final score.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-17-0140"
+    },
+    "8721868b4afecd7e": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A recruiting brief reporting a pitcher's commitment to Oregon State baseball.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-17-0140"
+    },
+    "8fa8a19a8591ac23": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A scheduling brief announcing tipoff time and ticket info for the Oregon State men's basketball rivalry game at Moda Center.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Ryan Clarke"
+      ],
+      "run": "run_2026-10-17-0140"
+    },
+    "a85f2d880c36cf87": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Fresno State's game against San Diego State for the Old Oil Can trophy, with stats for both teams and recap detail on the prior loss to Boise State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Beth Musto"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-17-0140"
+    },
+    "cbf378cf15125eb1": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full preview of WSU's offensive keys against Oregon State ahead of Saturday's game, covering both teams' personnel in depth.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-17-0140"
+    },
+    "cf429768d55230d3": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary describe a cornerback depth problem for Oregon State football ahead of its next game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-17-0140"
+    },
+    "e104e4ff21f380ef": {
+      "subjects": {
+        "texas-state/football": "about",
+        "utah-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Amid a mixed newsletter roundup, the Texas State football tribute to Coach Franchione and the $4.5M donation to Utah State athletics are each full, complete items about a covered program.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The title promises Boise State transfer and Colorado State/Texas State preview content that never appears in the body given, so this is judged only on what actually ran.",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-17-0140"
     }
   },
   "runs": {
@@ -19782,6 +20014,52 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 22.801436800014926,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-17-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-17T01:39:03.618887+00:00",
+      "items": 14,
+      "verdict_counts": {
+        "drop": 1,
+        "publish": 13
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 6
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "0fb3c2d3924884ce",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "30363322c7358a70",
+          "source": "The Oregonian",
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        },
+        {
+          "id": "8fa8a19a8591ac23",
+          "source": "The Oregonian",
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 28.01380909999716,
       "tokens": null,
       "tokens_source": null
     }
