@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-10-16T13:03:13.465843+00:00",
+  "generated_at": "2026-10-17T01:03:16.195018+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Mountaintop View 10-16-26: Texas State, Utah State Donation, CFB Playoff, Boise State Transfer, Colorado State/Texas State Preview",
+        "link": "https://www.mwcconnection.com/mountain-west-news/94335/mountaintop-view-10-16-26-texas-state-utah-state-donation-cfb-playoff-boise-state-transfer-colorado-state-texas-state-preview",
+        "link_kind": "item",
+        "date": "2026-10-16T13:00:00+00:00",
+        "summary": "Texas State is honoring a former coach I love that @TXSTATEFOOTBALL is honouring Coach Franchione today with a helmet sticker and a moment of silence right before the national anthem at tonight’s game. 🐾⭐️🥺💔 https://t.co/bLr7ErAnHE— 𝙺𝚎𝚕𝚕𝚢 𝙳𝚊𝚖𝚙𝚑𝚘𝚞𝚜𝚜𝚎 (@kdamp) October 15, 2026 New Mexico will be without their best player for “a while” Jaxton Eck will [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "e104e4ff21f380ef",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Air Force Football: Firewall Necessary",
+        "link": "https://www.mwcconnection.com/air-force-falcons-football/94320/air-force-football-firewall-necessary",
+        "link_kind": "item",
+        "date": "2026-10-16T11:03:32+00:00",
+        "summary": "As we approach the mid-point of the 2026 season, the Air Force Falcons are positioned a lot better than they were this time a year ago. Despite an early loss to North Dakota State and a victory over Nevada that yielded some warning signs, this is a team in the thick of the Mountain West [&#8230;]",
+        "author": "Sean OToole",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "0fb3c2d3924884ce",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "2026 Pac-12 Week 7: Game Time, TV Schedule, Odds, Predictions",
         "link": "https://www.mwcconnection.com/pac-12-discussion/90931/pac-12-football-games-week-7-fanduel-odds-games-predictions",
@@ -139,34 +167,6 @@
         "channel_url": "",
         "source": "Press Break",
         "id": "6d56c2ff71bf19ed",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "AZTECS MIDSEASON NIGHTMARES CONTINUE",
-        "link": "https://www.mwcconnection.com/san-diego-state-football/94132/aztecs-struggle-continue-at-mid-point",
-        "link_kind": "item",
-        "date": "2026-10-14T19:00:00+00:00",
-        "summary": "OFFENSE IS BEING OFFENSIVE; DEFENSE IS JUST CHICKENWIRE&#160; RIGHT NOW COACHES MAY BE LOOKING AT THE DOOR Recap and a look ahead to see if the Aztecs can save the season Halfway through the inaugural season of the new Pac-12 and San Diego State Coach Sean Lewis is now resorting to pulling his beard hairs. [&#8230;]",
-        "author": "Jeffrey Carter",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "d4e5049a45f9491f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "2026 MW/PAC-12 All-Transfer Team: Week Six",
-        "link": "https://www.mwcconnection.com/mountain-west-transfer-portal/94209/2026-mountain-west-pac-12-all-transfer-team-week-six-unlv-oregon-state-fresno-utep-nevada-niu",
-        "link_kind": "item",
-        "date": "2026-10-14T18:00:00+00:00",
-        "summary": "Welcome back to the Transfer Portal Team of the Week! Find out the top performances from incoming transfers across both conferences! Just eight games total last week between the two leagues, but still plenty of top-of-the-line performances to highlight! Enjoy! Mountain West Quarterback Tyler Hughes Class: RS Senior Previous stops: William &#38; Mary (FCS) &#124;&#124; [&#8230;]",
-        "author": "Jack Thompson",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "db052a2c1fe7eb63",
         "sport": "all",
         "medium": "text"
       },
@@ -550,6 +550,20 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "Boise State Hosts Washington in Second Exhibition Contest",
+        "link": "https://broncosports.com/news/2026/10/16/mens-basketball-boise-state-hosts-washington-in-second-exhibition-contest",
+        "link_kind": "item",
+        "date": "2026-10-16T18:30:00+00:00",
+        "summary": "<img alt=\"Dovydas Butka vs. Idaho in an exhibition game at Idaho Central Arena\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/16/MC_MBvsUoI_0106.jpg\" /><br /><br />Playing its second exhibition contest on Saturday, Boise State will host Washington at Idaho Central Arena, located in downtown Boise.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "e6d250eda3051b99",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Riley Selected to Associated Press Midseason All-America Second Team",
         "link": "https://broncosports.com/news/2026/10/15/football-riley-selected-to-associated-press-midseason-all-america-second-team",
@@ -1276,20 +1290,6 @@
         "extent": "59 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Women's Basketball Announces Nonconference Schedule",
-        "link": "https://broncosports.com/news/2026/9/1/womens-basketball-announces-nonconference-schedule",
-        "link_kind": "item",
-        "date": "2026-09-01T20:00:00+00:00",
-        "summary": "<img alt=\"Basketball going through the hoop.\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/31/Hoop2526SanDiegoState-01.jpg\" /><br /><br />Boise State women's basketball head coach Gordy Presnell announced the Broncos' 2026-27 nonconference schedule, featuring 15 games and 11 contests at ExtraMile Arena, Tuesday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "c6eddc1f5aa00442",
-        "sport": "wbb",
-        "medium": "text"
       }
     ],
     "Colorado State": [
@@ -1861,6 +1861,34 @@
     ],
     "Fresno State": [
       {
+        "title": "Fresno State football faces San Diego State for the Old Oil Can",
+        "link": "https://fscollegian.com/2026/10/fresno-state-football-faces-san-diego-state-for-the-old-oil-can/",
+        "link_kind": "item",
+        "date": "2026-10-17T00:28:55+00:00",
+        "summary": "Following a loss against Boise State, Fresno State football is set to face San Diego State in its 64th all-time meeting. In Week 6, the Bulldogs finished with 346 yards of offense, while Boise State totaled 512 yards, forcing Fresno State to surrender the Milk Can trophy for the first time since 2021. The Bulldogs...",
+        "author": "Beth Musto, Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "a85f2d880c36cf87",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Fresno State Volleyball finally breaks through",
+        "link": "https://fscollegian.com/2026/10/fresno-state-volleyball-finally-breaks-through/",
+        "link_kind": "item",
+        "date": "2026-10-16T19:10:39+00:00",
+        "summary": "After five straight conference losses, Fresno State volleyball finally broke through. The Bulldogs earned their first Pac-12 victory yesterday night, defeating Gonzaga in a five-set thriller, 3-2, at the Charlotte Y. Martin Center in Spokane, Washington. Fresno State took the match 25-19, 16-25, 21-25, 26-24 and 16-14, improving to 6-11 overall and 1-5 in Pac-12...",
+        "author": "Paloma Schuller, Enterprise Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "5289f2fe7e31cf08",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Bulldogs announce television game",
         "link": "https://gobulldogs.com/news/2026/10/15/womens-basketball-bulldogs-announce-television-game",
         "link_kind": "item",
@@ -2222,20 +2250,6 @@
         "channel_url": "",
         "source": "The Collegian",
         "id": "fec24b7e9b16155d",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Fresno State looks for first Pac-12 win over Boise State in soccer",
-        "link": "https://fscollegian.com/2026/10/fresno-state-looks-for-first-pac-12-win-over-boise-state/",
-        "link_kind": "item",
-        "date": "2026-10-07T20:03:40+00:00",
-        "summary": "Fresno State women’s soccer looks to snap a three-game losing streak Thursday when it faces the Boise State Broncos at Bulldog Soccer Stadium. The Bulldogs enter with a 1-10-2 overall record and are 0-2 in conference play after falling 4-0 to Washington State on Oct. 4. So far, Fresno State has struggled not only to...",
-        "author": "Cristian Ceballos, Daily Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "bbfac15818b89631",
         "sport": "all",
         "medium": "text"
       },
@@ -2791,21 +2805,6 @@
         "source": "The Red Wave Report",
         "id": "50dfe921e217fdb3",
         "extent": "1h 3m",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Fresno State NEW QB + USC Preview",
-        "link": "https://podcasters.spotify.com/pod/show/beware-of-bulldogspodcast/episodes/Fresno-State-NEW-QB--USC-Preview-e3o6kso",
-        "link_kind": "item",
-        "date": "2026-09-01T16:42:41+00:00",
-        "summary": "<p>Wild day! Fresno State has named its starting QB along with the 2-Deep for this Friday vs USC. We are also previewing the USC game! Fresno State Football is here. Tell your friends to tune in!</p>",
-        "author": "Beware of Bulldogs Podcast",
-        "duration": 5290,
-        "channel_url": "",
-        "source": "Beware of Bulldogs",
-        "id": "21c053b5401b40d1",
-        "extent": "1h 28m",
         "sport": "all",
         "medium": "audio"
       }
@@ -3454,23 +3453,107 @@
         "id": "32a1bca9daf6892e",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "Gonzaga scheduled to host Incarnate Word in fifth known home nonconference game",
-        "link": "http://www.spokesman.com/stories/2026/sep/02/gonzaga-scheduled-to-host-incarnate-word-for-fifth/",
-        "link_kind": "item",
-        "date": "2026-09-02T00:00:00+00:00",
-        "summary": "<p>Fans will have the opportunity to see Gonzaga no fewer than five times at McCarthey Athletic Center this season during the team’s nonconference schedule.</p><p>Gonzaga’s fifth known home nonconference game will take place on either Nov. 10 or 11 against Incarnate Word, according to Rocco Miller of Bracketeer.com. A tipoff time and television details for the Incarnate Word matchup, as well as Gonzaga’s four other home nonleague games, will be announced at a later date.</p><p>The Zags are squeezing the Incarnate Word game into the schedule between the Nov. 7 home opener against New Mexico State and a Nov. 14 matchup against LSU and first-year coach Will Wade at Numerica Veterans Arena.</p><p>It will be  only the second meeting between Gonzaga and Incarnate Word, which lost 103-68 at the Kennel during the 2017-18 season. Rui Hachimura and Zach Norvell Jr. scored a combined 35 points off Gonzaga’s bench, with Josh Perkins adding 16 more points for the home team.</p><p>Incarnate Word is losing its top six scorers, including three players who averaged double digits, from last year’s team that finished 12-19 overall and ninth in the Southland Conference with a record of 7-15.</p><p>The Cardinals are 39-59 in three seasons under coach Shane Heirman, whose staff includes former Auburn, UTEP and Central Michigan coach Tony Barbee and former San Jose State coach Dave Wojcik, a longtime friend of Mark Few who once recruited ex-Zag standout Brandon Clarke to play for the Spartans in the Mountain West.</p><p>Aside from Incarnate Word and New Mexico State, the Zags are also scheduled to host Montana State (Nov. 17), NAIA Eastern Oregon (Dec. 2) and Cornell (Dec. 31) in home nonconference games.</p><p>The official nonconference schedule and full Pac-12 Conference schedule will be released within the next few weeks.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "bffa54d278fbde90",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Oregon State": [
+      {
+        "title": "Oregon State vs. Washington State preview: Will Dahlen’s offense keep rolling against Bray’s defense?",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-beavers-vs-washington-state-cougars-preview-will-mitch-dahlens-offense-keep-rolling-against-trent-brays-defense.html",
+        "link_kind": "item",
+        "date": "2026-10-16T19:00:00+00:00",
+        "summary": "Previewing Saturday's game between OSU and WSU",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "6e91dd7e333139e1",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Leaf doesn't see WSU keeping pace with Beavers on Saturday",
+        "link": "https://www.oregonlive.com/beavers/2026/10/ryan-leaf-doesnt-see-oregon-state-washington-state-being-a-close-game.html",
+        "link_kind": "item",
+        "date": "2026-10-16T18:50:05+00:00",
+        "summary": "Broadcaster Ryan Leaf predicts Oregon State will decisively defeat Washington State, citing the Beavers' elite passing offense and a significant talent gap between the two programs.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "75757edb97c51472",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Big League Chew inventor has a tweak for the College Football Playoff that would be good for both Oregon and Oregon State | Bill Oram",
+        "link": "https://www.oregonlive.com/ducks/2026/10/think-there-are-too-many-teams-in-the-college-football-playoff-heres-why-24-may-not-be-enough-bill-oram.html",
+        "link_kind": "item",
+        "date": "2026-10-16T18:10:31+00:00",
+        "summary": "Plans to expand the playoff to 24 teams has drawn backlash. Rob Nelson says it doesn't go far enough.",
+        "author": "Bill Oram",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "30363322c7358a70",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Tipoff time, ticket info announced for Oregon vs. Oregon State men’s basketball at Moda Center",
+        "link": "https://www.oregonlive.com/collegebasketball/2026/10/tipoff-time-ticket-info-announced-for-oregon-vs-oregon-state-mens-basketball-at-moda-center.html",
+        "link_kind": "item",
+        "date": "2026-10-16T17:11:09+00:00",
+        "summary": "The Ducks and Beavers are making the trip up I-5 in November for their rivalry matchup.",
+        "author": "Ryan Clarke",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "8fa8a19a8591ac23",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers to Face Ducks at Moda Center",
+        "link": "https://osubeavers.com/news/2026/10/16/mens-basketball-beavers-to-face-ducks-at-moda-center",
+        "link_kind": "item",
+        "date": "2026-10-16T17:02:00+00:00",
+        "summary": "<img alt=\"Moda Center\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2020/1/27/1915_DamCity_4040.jpg\" /><br /><br />CORVALLIS  – The Oregon State men's basketball team will face Oregon at Moda Center in Portland on Nov. 19 in the NES West Coast Classic, the teams announced on Friday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "9e56990e2a74e8d8",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State baseball adds commitment from Clackamas pitcher",
+        "link": "https://www.oregonlive.com/recruiting/2026/10/oregon-state-baseball-adds-commitment-from-clackamas-pitcher.html",
+        "link_kind": "item",
+        "date": "2026-10-16T15:21:26+00:00",
+        "summary": "King was previously committed to Washington.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "8721868b4afecd7e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "OSU cornerback depth tested ahead of Washington State game",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-starting-cornerback-out-vs-washington-state.html",
+        "link_kind": "item",
+        "date": "2026-10-16T15:15:36+00:00",
+        "summary": "Oregon State went from the healthiest it has been in weeks to a potentially dire situation at cornerback.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "cf429768d55230d3",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Scouting the Cougars: 5 questions, prediction with a Washington State reporter",
         "link": "https://www.oregonlive.com/beavers/2026/10/scouting-the-cougars-5-questions-prediction-with-a-washington-state-reporter.html",
@@ -3734,20 +3817,6 @@
         "channel_url": "",
         "source": "The Oregonian",
         "id": "087f24f728301d0d",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "CAPS, DPS, health services adjust after OSU Assist changes",
-        "link": "https://dailybaro.orangemedianetwork.com/33331/daily-barometer-news/caps-dps-health-services-adjust-after-osu-assist-changes/",
-        "link_kind": "item",
-        "date": "2026-10-14T01:25:11+00:00",
-        "summary": "Three months after Oregon State University dissolved OSU Assist as a standalone team, the campus departments formerly involved say student support continues through a more distributed approach. The change took effect July 6, when OSU Assist&#8217;s functions were integrated into other campus partners rather than continuing as an independent response program. The program, launched in...",
-        "author": "Andres Bedoya-Bunch, Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "8a13d7645f8c1a9f",
         "sport": "all",
         "medium": "text"
       },
@@ -4174,20 +4243,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State vs. San Diego State preview: Who will start 2-0 in Pac-12?",
-        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-beavers-vs-san-diego-state-preview-who-will-start-2-0-in-pac-12.html",
-        "link_kind": "item",
-        "date": "2026-10-09T19:00:00+00:00",
-        "summary": "Oregon State (3-2) hosts San Diego State (2-3) at Reser Stadium on Oct. 10, with both teams seeking a 2-0 Pac-12 record. OSU is favored by 13.5 points.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "a6af6a8fb0e37b6e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State Football Looks To Sustain Momentum Against San Diego State",
         "link": "https://traffic.megaphone.fm/TDSPT7754234279.mp3",
         "link_kind": "enclosure",
@@ -4335,6 +4390,20 @@
         "extent": "1h 10m",
         "sport": "all",
         "medium": "audio"
+      },
+      {
+        "title": "San Diego State Football Announces Promotions for Homecoming Weekend",
+        "link": "https://goaztecs.com/news/2026/10/16/san-diego-state-football-announces-promotions-for-homecoming-weekend",
+        "link_kind": "item",
+        "date": "2026-10-16T01:18:56+00:00",
+        "summary": "San Diego State has officially announced its promotions for the Aztec’s Homecoming game against The Team Up North.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "87d2605dc87e3e87",
+        "sport": "football",
+        "medium": "text"
       },
       {
         "title": "Aztecs National TV Schedule Released",
@@ -6179,6 +6248,62 @@
     ],
     "Washington State": [
       {
+        "title": "WSU football will need to keep pace on offense to upset Oregon State",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-football-will-need-to-keep-pace-on-offense-to-upset-oregon-state/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-10-17T00:36:20+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10162026_tzr_tzr_173245.jpg?d=1200x630\"><br/>To upset surging Oregon State, WSU will have to find a way to slow down the Beavers’ offense, which ranks first in the nation with 376 passing yards per game.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "cbf378cf15125eb1",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Why Oregon State will beat Washington State | The pick",
+        "link": "http://www.spokesman.com/stories/2026/oct/16/why-oregon-state-will-beat-washington-state-the-pi/",
+        "link_kind": "item",
+        "date": "2026-10-16T00:00:00+00:00",
+        "summary": "<p>PORTLAND – In his first season as Washington State’s defensive coordinator, Trent Bray has gotten just about as much as he can out of his group. The Cougars rank among the conference’s best defenses, and they’ve generated three interceptions, including two pick-sixes.</p><p>Plus, in WSU’s road game against Oregon State on Saturday afternoon, Bray will get a chance for a homecoming. An OSU alum and longtime coach, including head coach for one-plus seasons, he’s quite familiar with the Beavers’ program.</p><p>But this WSU defense has never faced an offense quite like Oregon State’s, which is why we’re picking the Beavers to keep things rolling and hand the Cougars their fourth straight loss. OSU QB Braden Atkinson and star freshman wideout Jesse Legree still have not been slowed down, not even in their team’s two Power 4 losses to open the season, which is what makes this such a tall task for WSU.</p><p>Entering as 18.5-point underdogs, the Cougars might have a chance to pull an upset, thanks to head coach Kirby Moore’s decision to bench quarterback Caden Pinnick in favor of redshirt freshman Owen Eshelman, whose accuracy and big arm rank among his best traits. A lively offense might be what the Cougs have needed all along.</p><p>But that’s a lot to ask of a 20-year-old making his first career collegiate start, playing his first meaningful snaps at the college level. It’s hard to keep pace with this OSU offense, to match wits with the Beavers’ high-flying offense. There’s a reason why Atkinson leads the country with 376 passing yards per game.</p><p>WSU might not win Saturday’s game, but that doesn’t have to mean Moore’s decision to start Eshelman would be a mistake. The redshirt freshman could need some experience to settle into the role. Getting thrown into the fire in Corvallis would certainly help to that end. <strong>Final score:</strong> Oregon State 35, WSU 20</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "7caccf84a32d31a1",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU's keys to victory against Oregon State | Two-minute drill",
+        "link": "http://www.spokesman.com/stories/2026/oct/16/wsus-keys-to-victory-against-oregon-state-two-minu/",
+        "link_kind": "item",
+        "date": "2026-10-16T00:00:00+00:00",
+        "summary": "<h2>Washington State at Oregon State</h2><h3>Saturday, 3 p.m.<strong>&nbsp;</strong></h3><p><strong>Line:</strong> Oregon State favored by 18½</p><p><strong>TV:</strong> USA Network&nbsp;<strong>Radio:</strong> 920-AM</p><h3><strong>Key matchup</strong></h3><p><strong>WSU secondary against OSU receiver Jesse Legree:&nbsp;</strong>Nobody has the power to swing Saturday’s game quite like OSU freshman wideout Jesse Legree, who leads the country with 12 receiving touchdowns, winning Pac-12 Freshman of the Week honors all six weeks of the season thus far. He’s speedy and reliable, without a single drop on 54 targets, a remarkable accomplishment. The Cougars’ secondary will have its hands full, particularly cornerbacks Jalil Tucker and Khamari Terrell, the latter of whom will likely get the Legree matchup.</p><p>Six teams have tried to slow quarterback Braden Atkinson, Legree and the Beavers’ offense. Six have failed. What does that mean for WSU’s chances on defense? To give themselves a shot, the Cougars’ pass-rushing duo of Matyus McLain and Linus Zunk will have to generate pressure on Atkinson. Only one problem: OSU’s offensive line has been responsible for just two sacks.</p><p>To generate meaningful pass rush, the Cougars might target the two weak spots on the Beavs’ offensive line: Right tackle Teko Shoats, who has been dinged for 10 pressures, according to Pro Football Focus; and right guard Tyler Voltin, who has given up two sacks. For WSU, that puts the onus on McLain and Zunk, plus interior linemen like Kaden Beatty and Jirah Leaupepetele, the latter of whom generated a solo sack last weekend against Utah State.</p><h3>How the Cougs win…</h3><p>To spring an upset, WSU would have to see one of two things happen: Significantly limit Oregon State’s offense or get a big day from QB Owen Eshelman and the offense. If either happens, odds might skew the way of the Cougs’ offense, which has been rotten this season — but with Eshelman coming in for Caden Pinnick, whose turnovers and inability to stretch the field hampered his offense, the visitors might be able to surprise the Beavers.</p><p>If Eshelman can hit on a few passes early, it might open things up for WSU’s rushing game, which is still trying to break out in a consistent way. Tailbacks Maxwell Woods and Kirby Vorhees haven’t gotten many chances on the ground, much of that a credit to their offense’s bad habit of quick three-and-outs, but with enough carries, they might have a chance to keep their offense on the field.</p><h3>How the Beavers win…</h3><p>Oregon State can win this game the same way it has each of its last four: By unleashing a surging offense. Atkinson and Legree could be in for a big day against the WSU defense, whose one weakness has been the big play, which accounted for one of the touchdowns Utah State used to beat the Cougars last weekend.</p><p>The Cougs have defended the run well, especially in short-yardage situations, but they’ve never done so against a passing offense as potent as the Beavs’. That could mean opportunities for OSU running backs AJ Newberry and Cornell Hatcher Jr., who have combined for 475 rushing yards and six scores on the ground.</p><h3>Key stat: 0</h3><p>That’s how many times Legree has been held to under 100 receiving yards this fall. It’s also the amount of times Atkinson has passed for fewer than 300 yards. WSU might be able to find a way to pull an upset while allowing those trends to continue, but doesn’t look likely.</p><h3>Quotable</h3><p>“I want to win out,” WSU linebacker Keith Brown said. “ I think we have the talent to win out. I wanna do that. I wanna go out my senior year with multiple wins under our belt, and yeah, just continue to try and get better every single day and and put our best foot forward.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "6883a656a5417162",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "To spring an upset on Oregon State, WSU and QB Owen Eshelman might have to keep pace on offense",
+        "link": "http://www.spokesman.com/stories/2026/oct/16/to-spring-an-upset-on-oregon-state-wsu-and-qb-owen/",
+        "link_kind": "item",
+        "date": "2026-10-16T00:00:00+00:00",
+        "summary": "<p>PORTLAND — When he thinks back, Keith Brown can still remember the first time he started a game at the college level. This was five years ago, Washington State’s veteran linebacker recalls, back when he was playing for Oregon and the Ducks walked into Columbus to take on a top-five Ohio State club.</p><p>A true freshman, Brown made two tackles in that game, helping his Ducks upset the third-ranked Buckeyes.</p><p>“You&#8217;re just kinda excited when it happens,” Brown said earlier this week. “At least for me, when it happened for me, I felt like I was so prepared for the game that I wasn&#8217;t nervous. Owen&#8217;s a true competitor. He&#8217;s very locked in, so I&#8217;m sure it&#8217;s the same for him.”</p><p>That would be redshirt freshman Owen Eshelman, <a href=\"https://www.spokesman.com/stories/2026/oct/15/esh-has-that-moxie-how-wsu-qb-owen-eshelman-earned/\" target=\"_blank\">who is taking over at quarterback for WSU</a>, which is set to take on Oregon State at 3 p.m. Saturday on USA Network in Corvallis, where the Beavers opened as 17.5-point favorites. It’ll be the first-ever start for Eshelman, who is taking over for signal-caller Caden Pinnick, whose struggles in the passing game contributed in a big way to the Cougars’ floundering offense.</p><p>To help WSU (1-5, 0-2 Pac-12) earn its first FBS win of the year and end a three-game slide, Eshelman and the Cougars’ offense will have to be much better than they have been all year. The Cougs are averaging just 12.6 points per game, which is just seven spots up from last in the country, and their minus-6 turnover margin ranks No. 129, meaning only four other teams in the nation have a worse mark.</p><p>Those are all key reasons why WSU coach Kirby Moore decided to bench Pinnick and pivot to Eshelman, who has played just two snaps in his college career, which came in garbage time against FCS Duquesne earlier this season. Listed at 6-foot-3 and 204 pounds, Eshelman’s best qualities center around his live arm and sharp accuracy, which could unlock a gear that WSU has yet to find in its offense.</p><!--[embed id=12334]--><p>A former three-star product of Norman North High in Oklahoma, Eshelman takes over at a tough spot for WSU. Off to their worst six-game start since 2010, the Cougars need a string of wins to save their bowl streak, which stands at 10 times in the last 11 full seasons. Moore has already made a couple changes to turn around this offense, including taking over playcalling duties ahead of his team’s previous game, a road loss to Utah State last weekend.</p><p>The only problem for the Cougars: They’re taking on a Beaver team that ranks among the hottest in the country. Thanks in large part to quarterback Braden Atkinson and freshman wideout Jesse Legree, Oregon State (4-2, 2-0) ranks fifth nationwide with 522 yards per game of total offense, coming off a 66-14 home dismantling of San Diego State. In short: The Beavs’ offense is electric, and the Cougs’ defense will get perhaps its tallest task of the season.</p><p>“He&#8217;s a really good player,” Moore said of Legree, who leads the country with 12 receiving touchdowns, including three apiece in his last two outings. “You see him with the ball in space, obviously taking the top off a number of times as well. I think it&#8217;s about playing team defense. Obviously, communication is gonna be really important: Where he&#8217;s at, whether he&#8217;s in the slot, whether he&#8217;s outside, left, right. The pass rush has to help out the coverage. The coverage has gotta help out the pass rush. I think Coach (Trent) Bray is doing a good job right now with our guys, making sure they&#8217;re all on the same page.”</p><p>It’s also a homecoming for Bray, an Oregon State alum who has coached 11 years at his alma mater, including the full 2024 season and part of the 2025 campaign before being fired amid the Beavers’ 0-7 start to the season. In fact, the OSU connections on this WSU team number far more: Receiver Darrius Clemons and cornerback Jalil Tucker each transferred from Oregon State, true freshman Lance McGee was committed there before flipping to the Cougars and chief of staff Dan Van De Riet worked with the Beavers’ program in different capacities for 20 years.</p><p>Plus, this year, WSU and OSU won’t just be playing for bragging rights. <a href=\"https://www.spokesman.com/stories/2026/oct/14/lets-go-win-the-rock-behind-the-formation-of-the-n/\" target=\"_blank\">The schools will also be playing for a new trophy, a new rivalry rock</a>, which has yet to be named. The trophy isn’t official — it’s more of a fan and alumni-sponsored push than a school-sanctioned tradition — and the winner won’t hoist it at midfield like other trophies. But it does add a layer of intrigue to the WSU and OSU series, which will play installment No. 112 on Saturday afternoon.</p><p>“Hey,” Brown said earlier this week, “let&#8217;s go win the rock.”</p><p>To do that, the Cougars will have to find a way to slow down Atkinson and the Beavers’ offense, which nobody outside two Power 4 opponents have done so far. Atkinson, who ranks first nationwide with 376 passing yards per game, has tossed 21 touchdowns against just 2 interceptions. He’s thrown seven of his scores on deep passes, according to Pro Football Focus, highlighting the way he’s able to stretch the field.</p><p>It’s not exactly promising news for this WSU defense, which has played exceptionally well all season and kept the team in games, a remarkable feat in the face of the Cougs’ scuffling offense. But if the Cougars have shown one weakness on defense, it’s that they’re susceptible to allowing explosive plays, like a long touchdown pass against Utah State last weekend and a 75-yard touchdown rush against Kansas State last month.</p><p>Even if Bray and the Washington State defense can produce a few key stops, there’s also the matter of Eshelman and the WSU offense. Can the Cougs score enough to keep pace? In his first real college action, can Eshelman get it going through the air? Even if he throws an interception, though, his offense might be better for the bold approach. With Pinnick at the controls, WSU’s offense never looked capable of stretching the field.</p><p>Eshelman might have that capability. But it’s still a challenge for WSU, on both sides of the ball.</p><p>“There’s definitely some similarities in terms of playmaking ability,” Moore said, comparing Eshelman and Pinnick’s styles. “I think the big thing is we gotta continue to work on accuracy with the football, and when something’s there, we gotta take advantage of it and be more efficient on first and second down. Had opportunities there to drive in the red zone and didn’t take advantage of it, and then on third down, we gotta make sure we do a good job of taking care of the football. And sometimes it’s OK to punt. We’ve had some turnovers in those situations the last few games that have put our defense in bad positions.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "71aa715b9abf81a7",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "‘Let’s go win the rock’: Behind the new WSU-Oregon State rivalry trophy",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/lets-go-win-the-rock-behind-the-new-wsu-oregon-state-rivalry-trophy/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -6252,7 +6377,7 @@
         "medium": "text"
       },
       {
-        "title": "Take home the rock: WSU takes on the Beavers in Coravallis",
+        "title": "Take home the rock: WSU takes on the Beavers in Corvallis",
         "link": "https://dailyevergreen.com/200198/sports/bring-home-the-rock-wsu-takes-on-the-beavers-in-coravallis/",
         "link_kind": "item",
         "date": "2026-10-15T15:00:03+00:00",
@@ -6285,7 +6410,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/15/esh-has-that-moxie-how-wsu-qb-owen-eshelman-earned/",
         "link_kind": "item",
         "date": "2026-10-15T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Right away, coaches couldn’t help but notice the confidence, the poise that Owen Eshelman walked around with. He asked a slew of questions. He was involved in everything. He wanted to know the why behind calls and plays and formations.</p><p>This was in the spring of 2024, back when Eshelman was a high school junior, years away from landing at Washington State. He was on a visit to South Dakota State, where coaches were still evaluating him, making the 10-hour trek up from Oklahoma without even a scholarship offer in hand. As the Jackrabbits ran through a practice, a lively session only a few months after they had secured a second straight national championship, Eshelman wasn’t exactly standing off to the side.</p><p>Instead, Eshelman found his way to the Jackrabbits’ huddles, trying to learn the plays and get to know the players. He didn’t look overwhelmed the way many recruits on visits do, didn’t look anxious, wasn’t intimidated by the facility or coaches or tradition.</p><p>The impression that Eshelman made went more like this: <em>Hey, I belong here. Even though I’m a 17-year-old on a visit, I’m gonna learn what these guys are doing at practice.</em></p><p>That was not lost on Danny Freund, then the Jackrabbits’ offensive coordinator, who was one of the lead recruiters on the lively-armed quarterback from central Oklahoma.</p><p>“He’s a guy in the locker room that everybody’s gonna play for because of the type of kid he is. So that’s one thing,” said Freund, who worked as WSU’s offensive coordinator last season, now with the same gig at North Dakota. “When I think about that position, you wanna have guys that the team is gonna play for, and you kinda have that it factor. Well, Esh has that moxie to him and that competitiveness and that personality, where I think guys will gravitate towards him.”</p><p>Two years and some change later, that’s one of the main reasons why Washington State is elevating Eshelman to the team’s starting quarterback role, putting trust in a redshirt freshman to try and revive a moribund offense. When Saturday afternoon arrives and WSU visits Oregon State, the Cougars’ quarterback won’t be Caden Pinnick, who started each of the team’s first six games. It will be Eshelman, who has just two snaps of college experience to his name.</p><p>Is Eshelman ready for such a task, to jump into the middle of the season and kickstart a rudderless WSU offense? We won’t know until 3 p.m. Saturday, when WSU matches wits with OSU, which boasts one of the country’s most electric offenses. Earlier this week, the Cougars (1-5, 0-2 Pac-12) decided to bench Pinnick, whose turnover problems were hampering his offense to the tune of just 12.6 points per game, opening the door for Eshelman and the live arm that made him such a captivating prospect out of Oklahoma.</p><p>Eshelman may not have much game experience, but a few things are clear about him. He’s listed at 6-foot-3 and 204 pounds, giving him solid size for the position. He might have the best arm in the Cougars’ quarterback room, which he showed off during the last two spring ball and fall camps, lasering the ball to all kinds of receivers. And while he’s closer to a pocket-passer than his predecessor, he’s plenty mobile too, quick to elude pressure and make plays on the run. He didn’t collect more than 1,300 rushing yards as a high school senior by accident.</p><p>There’s plenty more to Eshelman’s story, though: He hails from Norman, Oklahoma, where South Dakota State extended him his only offer out of Norman North High. He was planning to enroll at SDSU, but when former coach Jimmy Rogers left for the same job at WSU, Eshelman followed him there. Then last winter, when Rogers decamped for the job at Iowa State, Eshelman stayed put in Pullman.</p><p>That’s the short version of how Eshelman earned the opportunity to become the Cougars’ starting quarterback. To understand the full version, you have to understand Eshelman and his makeup, the traits that put him in that position to begin with.</p><p>“Owen’s one of the most competitive people I think I’ve ever been around, and he’s a great human being,” said Justin Jones, Eshelman’s head coach at Norman North. “Even as a young guy at 15, you could see the DNA there and what he was gonna bring to the table. Owen’s not gonna flinch. He’s very calm, cool and collected.”</p><!--[photo id=928794]--><h3>• • •</h3><p>The first time Eshelman played quarterback at the varsity level, he didn’t have to jump into action cold. He just had to move positions. One Friday night in the fall of 2022, Norman North was locked in a 6A playoff battle with Owasso, a perennial powerhouse in the classification. The Timberwolves were hanging around.</p><p>Then, in the second quarter, disaster struck: Quarterback Kamden Sixkiller, who would go on to land at McNeese State before transferring to Campbell, went down with an injury. It was devastating news for the Timberwolves, who had lost their first-team all-state pick. Who would fill in?</p><p>“I looked over the sidelines and told him he’s gotta go,” Jones said of Eshelman. “So he trotted out there and did it.”</p><p>At that point in the game, Eshelman was playing safety, where he had started each of the first 10 games of the season, playing with a physical approach. That helped him get identified by Chris Meyers, then the Jackrabbits’ recruiting coordinator, now at USC. Earlier that year, Norman North pulled off an upset of another powerhouse, Jenks, thanks to Eshelman’s game-sealing interception. “Esh was such a great athlete,” said Rocky Moore, the Timberwolves’ QB coach, “and just someone that you’re like, man, it would be a miss on our part as a staff if he wasn’t on the field in some capacity.”</p><p>All the same, Eshelman switched mid-game from safety to quarterback. By the time the game wrapped up, Eshelman had filled in admirably considering the circumstances, throwing for 303 yards and three touchdowns, plus two interceptions. Norman North fell in a one-score loss, ending the Timberwolves’ season, a disappointing ending to Eshelman’s first action at QB. But the tone was set: Eshelman had looked good, so good that coaches would make him Norman North’s full-time starter each of his final two seasons.</p><p>“We don’t win the game, but he gave us a chance,” Moore said, “and the kid didn’t blink.”</p><!--[photo id=934836 align=left]--><p>Which seems to beg the question: How? How does a teenager get thrown into the fire that way and perform so well? At the time, Eshelman was about 15 years old, still growing into the size that serves him so well now. What kind of 15-year-old can pull something like that off?</p><p>“The thing that keeps Esh ready is the way he prepares,” Moore said. “Whether he’s the starter or not, he’s gonna prepare himself that way. That’s just the way he was raised. That’s the standard that he lives by, and that’s not a cute piece for a story. That’s the truth about him.”</p><p>“His wiring has always been really helpful in that regard,” added Ryan Eshelman, Owen’s father. “I think even-keeled was a word that was used, not big swings in either direction, and so I think that confidence comes from preparation, and you just prepare and you prepare and you prepare, and that’s what enables you to step out and do your job in that regard.”</p><p>At every stop in his career, Eshelman’s preparation has struck everyone he’s been around, from his parents to his coaches, at Norman North and South Dakota State and WSU. Earlier this week, Cougar coach Kirby Moore noted that Eshelman’s preparation had always impressed him, that Eshelman’s work behind the scenes had helped him earn this opportunity. “He’s prepared like he’s the starter,” Moore said. Last year, Freund noticed the same, gushing about the results that could come “when you combine that work ethic with the talent that he has,” Freund said.</p><p>That year, Eshelman was a true freshman at WSU, not particularly close to seeing the field. He was one of five scholarship QBs on the team. He wasn’t traveling to road games, which is typical of signal-callers in his position. Eshelman’s talent was clear to anyone who had seen him play, but because of the natural progression of young quarterbacks at the college level, it wasn’t clear when he would get his shot.</p><p>Even in those days, Eshelman prepared like the day would come tomorrow. Coaches were surprised by his note-taking, the way he wrote everything down, in team meetings and position meetings and individual meetings. He steeped himself in details. He wanted an explanation behind everything, coaches said, but he wasn’t questioning authority. He just wanted to know the reason behind the names of playcalls, behind decisions of all kinds, so he could be as prepared as possible.</p><p>In those days, Eshelman was still raw, far more of an enticing prospect than a finished product. But the talent oozed out of him like sap off a maple tree. During fall camp last year, Freund remembers, former WSU quarterback Zevi Eckhaus took notice. “He would always say, ‘Esh is gonna be really good, bro. Like he’s gonna be really good.’ He just kinda knew,” Freund said. “That’s why I think everybody’s really excited about his potential.”</p><p>Rep by rep, Eshelman began to see the results. During this year’s spring practices and fall camp, Eshelman was squarely in the mix for the starting role, rotating in consistently for reps with the Cougars’ first-teamers. At one spring practice in Spokane, Eshelman unloaded a perfect fade pass to wideout Noah Westbrook, who hauled it in over his shoulder in the corner of the end zone. During one fall camp practice in August, he recorded one of his best throws as a Cougar, lofting a perfect deep pass to receiver Tony Freeman for a touchdown at Rogers Practice Field.</p><p>Eshelman wasn’t perfect, not by any stretch of the imagination. He missed throws and took avoidable sacks. Prepared as he was, he’s still a second-year freshman, and he made mistakes accordingly. In one fall camp scrimmage, he came inches away from throwing an interception. In Eshelman’s play, there was plenty of evidence that he was still learning the ropes of playing FBS football.</p><p>Still, two things were becoming clear. One: Eshelman had an enticing skillset, a booming arm and credible athleticism with his legs. Two: He was flourishing as a compelling leader, his teammates rallying around him with ease. His preparation was bleeding into his leadership, into his ability to keep his teammates pointed in the right direction, even as a redshirt freshman.</p><p>“Owen really took a good leadership role. He’s really vocal,” offensive lineman Ashton Tripp said after one fall camp practice. “So I’d say that’s a good positive.”</p><p>“Owen has a very steady demeanor. He doesn’t get too high, doesn’t get too low,” Moore said after a spring practice. “We always talk about emotional consistency. There’s a lot of highs and lows in athletics play-to-play, and I think that’s the demeanor that you have to have.”</p><p>“It’s real. It’s not fake with him,” Freund added. “It’s very, very genuine. As you guys start talking to him more, you’ll feel where there’s a natural leadership and instinct that he has. That was the biggest thing that we noticed in recruiting.”</p><p>Recruiting is what brought Eshelman from Norman to Pullman. But earlier this year, he was recruited once again, this time by a familiar face.</p><!--[photo id=919389]--><h3>• • •</h3><p>Last December, when Rogers decided to leave WSU for the same job at Iowa State, he upended just about everything with the Cougars’ program. He left them without a head coach, without two coordinators, without several star players who played key roles on that team: defenders Isaac Terrell and Bryson Lamb, Max Baloun and Sullivan Schlimgen.</p><p>As Rogers made the transition to Iowa State, he had to overhaul a roster, hitting the transfer portal to find players to plug holes. Former ISU signal-caller Rocco Becht had already followed coach Matt Campbell to Penn State, so Rogers needed a quarterback.</p><p>He reached out to Eshelman, according to multiple sources with knowledge of the situation, asking if he’d be interested in coming with him to Iowa State. Eshelman politely declined the opportunity, sources said.</p><p>“It stayed true to the kind of person he is,” Rocky Moore said.</p><p>The timeline of events, according to those in position to know, helped Eshelman decide to stay at WSU. Not long after taking the job at Iowa State, Rogers and his new staff began the process of filling out their roster, which means they made some of their moves within the first week or so.</p><p>Eshelman didn’t hear from ISU coaches until a bit later in that process, according to those sources. Plus, he was beginning to like what was going on in Pullman, where Moore had recently taken over and began filling out his staff and roster, doing so with an offensive-minded approach.</p><p>Iowa State got a commitment from its quarterback, Jaylen Raynor, on Jan. 3. Eshelman re-signed with WSU on the same day.</p><p>“Bigger and shinier wasn’t necessarily a selling point, you know?” Ryan said. “You see it all the time where somebody leaves to go somewhere else and it’s just not as good as what they left behind. So I think he just weighed it all and just felt like, ‘This feels like home, and I see a great future for me here.’ ”</p><h3>• • •</h3><p>There’s no use in sugarcoating it: There’s a bit of pressure on Eshelman this weekend. Washington State is known for producing prestigious quarterbacks, from Jack Thompson and Mark Rypien to Ryan Leaf to Drew Bledsoe, from Luke Falk and Gardner Minshew to Cam Ward and John Mateer. Who knows what the future holds, but in earning the Cougars’ QB1 designation, Eshelman takes the torch from those who laid the foundation.</p><p>Beyond all that, though, there’s the immediate. The Cougars could use a win this weekend to help turn their season around, to build some semblance of confidence in their fanbase, which has grown irritated with the way their team’s offense has floundered. Can Eshelman do his part to reverse that trend?</p><p>That’s a tale yet to be spun, but this won’t be the first time Eshelman has found himself in this kind of spot. Remember his first time playing the position at the high school level, when Norman North’s quarterback sustained an injury and prompted Eshelman to take his place? Four years later, he isn’t exactly taking over because of injury, but he is being asked to jump into action in a pinch.</p><p>To pull an upset on Oregon State, which opened as a 17.5-point favorite, Eshelman and the Cougars’ offense might have to score some points. The Beavers’ offense is one of the best in the country, spearheaded by quarterback Braden Atkinson and receiver Jesse Legree, and WSU will have to keep pace with that production.</p><p>To those who know him best, that’s where Eshelman’s preparation comes in handy. Before this opportunity came along, he wasn’t going through the motions with each passing game, knowing he wasn’t going to see the field. He was practicing like he would start the next game. Now he actually will.</p><p>It registers as a remarkable trait for a 20-year-old, a young man still learning how to navigate the world, much less an FBS football program. Is it a natural trait he has? Or a characteristic he learned from his parents?</p><p>“I think that may come the most natural for him,” said Libby Eshelman, Owen’s mother. “One of the things that we have worked to instill in our kids is where their identity comes from, and I think Owen has grabbed a hold of that. He loves football, and he does love to win. He loves the experience. But he knows at the end of the day, that does not define him, and I think that allows him to play more freely.”</p><p>“People are not always kind to quarterbacks, and so as a mom, I’m excited for him,” Libby added. “But I have some butterflies for him too.”</p><p>Nobody would fault Eshelman for having some, too. He’ll be prepared, though, the same way he was in previous games this fall. He wasn’t leading the huddle in those settings. He wasn’t leading that huddle at South Dakota State on his visit years ago, either, but he prepared like he was. Maybe his secret recipe was obvious all along.</p>",
+        "summary": "<p>PULLMAN – Right away, coaches couldn’t help but notice the confidence, the poise that Owen Eshelman walked around with. He asked a slew of questions. He was involved in everything. He wanted to know the why behind calls and plays and formations.</p><p>This was in the spring of 2024, back when Eshelman was a high school junior, years away from landing at Washington State. He was on a visit to South Dakota State, where coaches were still evaluating him, making the 10-hour trek up from Oklahoma without even a scholarship offer in hand. As the Jackrabbits ran through a practice, a lively session only a few months after they had secured a second straight national championship, Eshelman wasn’t exactly standing off to the side.</p><p>Instead, Eshelman found his way to the Jackrabbits’ huddles, trying to learn the plays and get to know the players. He didn’t look overwhelmed the way many recruits on visits do, didn’t look anxious, wasn’t intimidated by the facility or coaches or tradition.</p><p>The impression that Eshelman made went more like this: <em>Hey, I belong here. Even though I’m a 17-year-old on a visit, I’m gonna learn what these guys are doing at practice.</em></p><p>That was not lost on Danny Freund, then the Jackrabbits’ offensive coordinator, who was one of the lead recruiters on the lively-armed quarterback from central Oklahoma.</p><p>“He’s a guy in the locker room that everybody’s gonna play for because of the type of kid he is. So that’s one thing,” said Freund, who worked as WSU’s offensive coordinator last season, now with the same gig at North Dakota. “When I think about that position, you wanna have guys that the team is gonna play for, and you kinda have that <em>it</em> factor. Well, Esh has that moxie to him and that competitiveness and that personality, where I think guys will gravitate towards him.”</p><p>Two years and some change later, that’s one of the main reasons why Washington State is elevating Eshelman to the team’s starting quarterback role, putting trust in a redshirt freshman to try and revive a moribund offense. When Saturday afternoon arrives and WSU visits Oregon State, the Cougars’ quarterback won’t be Caden Pinnick, who started each of the team’s first six games. It will be Eshelman, who has just two snaps of college experience to his name.</p><p>Is Eshelman ready for such a task, to jump into the middle of the season and kickstart a rudderless WSU offense? We won’t know until 3 p.m. Saturday, when WSU matches wits with OSU, which boasts one of the country’s most electric offenses. Earlier this week, the Cougars (1-5, 0-2 Pac-12) decided to bench Pinnick, whose turnover problems were hampering his offense to the tune of just 12.6 points per game, opening the door for Eshelman and the live arm that made him such a captivating prospect out of Oklahoma.</p><p>Eshelman may not have much game experience, but a few things are clear about him. He’s listed at 6-foot-3 and 204 pounds, giving him solid size for the position. He might have the best arm in the Cougars’ quarterback room, which he showed off during the last two spring ball and fall camps, lasering the ball to all kinds of receivers. And while he’s closer to a pocket-passer than his predecessor, he’s plenty mobile too, quick to elude pressure and make plays on the run. He didn’t collect more than 1,300 rushing yards as a high school senior by accident.</p><p>There’s plenty more to Eshelman’s story, though: He hails from Norman, Oklahoma, where South Dakota State extended him his only offer out of Norman North High. He was planning to enroll at SDSU, but when former coach Jimmy Rogers left for the same job at WSU, Eshelman followed him there. Then last winter, when Rogers decamped for the job at Iowa State, Eshelman stayed put in Pullman.</p><p>That’s the short version of how Eshelman earned the opportunity to become the Cougars’ starting quarterback. To understand the full version, you have to understand Eshelman and his makeup, the traits that put him in that position to begin with.</p><p>“Owen’s one of the most competitive people I think I’ve ever been around, and he’s a great human being,” said Justin Jones, Eshelman’s head coach at Norman North. “Even as a young guy at 15, you could see the DNA there and what he was gonna bring to the table. Owen’s not gonna flinch. He’s very calm, cool and collected.”</p><!--[photo id=928794]--><h3 style=\"text-align: center;\">• • •</h3><p>The first time Eshelman played quarterback at the varsity level, he didn’t have to jump into action cold. He just had to move positions. One Friday night in the fall of 2022, Norman North was locked in a 6A playoff battle with Owasso, a perennial powerhouse in the classification. The Timberwolves were hanging around.</p><p>Then, in the second quarter, disaster struck: Quarterback Kamden Sixkiller, who would go on to land at McNeese State before transferring to Campbell, went down with an injury. It was devastating news for the Timberwolves, who had lost their first-team all-state pick. Who would fill in?</p><p>“I looked over the sidelines and told him he’s gotta go,” Jones said of Eshelman. “So he trotted out there and did it.”</p><p>At that point in the game, Eshelman was playing safety, where he had started each of the first 10 games of the season, playing with a physical approach. That helped him get identified by Chris Meyers, then the Jackrabbits’ recruiting coordinator, now at USC. Earlier that year, Norman North pulled off an upset of another powerhouse, Jenks, thanks to Eshelman’s game-sealing interception. “Esh was such a great athlete,” said Rocky Moore, the Timberwolves’ QB coach, “and just someone that you’re like, man, it would be a miss on our part as a staff if he wasn’t on the field in some capacity.”</p><p>All the same, Eshelman switched mid-game from safety to quarterback. By the time the game wrapped up, Eshelman had filled in admirably considering the circumstances, throwing for 303 yards and three touchdowns, plus two interceptions. Norman North fell in a one-score loss, ending the Timberwolves’ season, a disappointing ending to Eshelman’s first action at QB. But the tone was set: Eshelman had looked good, so good that coaches would make him Norman North’s full-time starter each of his final two seasons.</p><p>“We don’t win the game, but he gave us a chance,” Moore said, “and the kid didn’t blink.”</p><!--[photo id=934836 align=left]--><p>Which seems to beg the question: How? How does a teenager get thrown into the fire that way and perform so well? At the time, Eshelman was about 15 years old, still growing into the size that serves him so well now. What kind of 15-year-old can pull something like that off?</p><p>“The thing that keeps Esh ready is the way he prepares,” Moore said. “Whether he’s the starter or not, he’s gonna prepare himself that way. That’s just the way he was raised. That’s the standard that he lives by, and that’s not a cute piece for a story. That’s the truth about him.”</p><p>“His wiring has always been really helpful in that regard,” added Ryan Eshelman, Owen’s father. “I think even-keeled was a word that was used, not big swings in either direction, and so I think that confidence comes from preparation, and you just prepare and you prepare and you prepare, and that’s what enables you to step out and do your job in that regard.”</p><p>At every stop in his career, Eshelman’s preparation has struck everyone he’s been around, from his parents to his coaches, at Norman North and South Dakota State and WSU. Earlier this week, Cougar coach Kirby Moore noted that Eshelman’s preparation had always impressed him, that Eshelman’s work behind the scenes had helped him earn this opportunity. “He’s prepared like he’s the starter,” Moore said. Last year, Freund noticed the same, gushing about the results that could come “when you combine that work ethic with the talent that he has,” Freund said.</p><p>That year, Eshelman was a true freshman at WSU, not particularly close to seeing the field. He was one of five scholarship QBs on the team. He wasn’t traveling to road games, which is typical of signal-callers in his position. Eshelman’s talent was clear to anyone who had seen him play, but because of the natural progression of young quarterbacks at the college level, it wasn’t clear when he would get his shot.</p><p>Even in those days, Eshelman prepared like the day would come tomorrow. Coaches were surprised by his note-taking, the way he wrote everything down, in team meetings and position meetings and individual meetings. He steeped himself in details. He wanted an explanation behind everything, coaches said, but he wasn’t questioning authority. He just wanted to know the reason behind the names of playcalls, behind decisions of all kinds, so he could be as prepared as possible.</p><p>In those days, Eshelman was still raw, far more of an enticing prospect than a finished product. But the talent oozed out of him like sap off a maple tree. During fall camp last year, Freund remembers, former WSU quarterback Zevi Eckhaus took notice. “He would always say, ‘Esh is gonna be really good, bro. Like he’s gonna be really good.’ He just kinda knew,” Freund said. “That’s why I think everybody’s really excited about his potential.”</p><p>Rep by rep, Eshelman began to see the results. During this year’s spring practices and fall camp, Eshelman was squarely in the mix for the starting role, rotating in consistently for reps with the Cougars’ first-teamers. At one spring practice in Spokane, Eshelman unloaded a perfect fade pass to wideout Noah Westbrook, who hauled it in over his shoulder in the corner of the end zone. During one fall camp practice in August, he recorded one of his best throws as a Cougar, lofting a perfect deep pass to receiver Tony Freeman for a touchdown at Rogers Practice Field.</p><p>Eshelman wasn’t perfect, not by any stretch of the imagination. He missed throws and took avoidable sacks. Prepared as he was, he’s still a second-year freshman, and he made mistakes accordingly. In one fall camp scrimmage, he came inches away from throwing an interception. In Eshelman’s play, there was plenty of evidence that he was still learning the ropes of playing FBS football.</p><p>Still, two things were becoming clear. One: Eshelman had an enticing skillset, a booming arm and credible athleticism with his legs. Two: He was flourishing as a compelling leader, his teammates rallying around him with ease. His preparation was bleeding into his leadership, into his ability to keep his teammates pointed in the right direction, even as a redshirt freshman.</p><p>“Owen really took a good leadership role. He’s really vocal,” offensive lineman Ashton Tripp said after one fall camp practice. “So I’d say that’s a good positive.”</p><p>“Owen has a very steady demeanor. He doesn’t get too high, doesn’t get too low,” Moore said after a spring practice. “We always talk about emotional consistency. There’s a lot of highs and lows in athletics play-to-play, and I think that’s the demeanor that you have to have.”</p><p>“It’s real. It’s not fake with him,” Freund added. “It’s very, very genuine. As you guys start talking to him more, you’ll feel where there’s a natural leadership and instinct that he has. That was the biggest thing that we noticed in recruiting.”</p><p>Recruiting is what brought Eshelman from Norman to Pullman. But earlier this year, he was recruited once again, this time by a familiar face.</p><!--[photo id=919389]--><h3 style=\"text-align: center;\">• • •</h3><p>Last December, when Rogers decided to leave WSU for the same job at Iowa State, he upended just about everything with the Cougars’ program. He left them without a head coach, without two coordinators, without several star players who played key roles on that team: defenders Isaac Terrell and Bryson Lamb, Max Baloun and Sullivan Schlimgen.</p><p>As Rogers made the transition to Iowa State, he had to overhaul a roster, hitting the transfer portal to find players to plug holes. Former ISU signal-caller Rocco Becht had already followed coach Matt Campbell to Penn State, so Rogers needed a quarterback.</p><p>He reached out to Eshelman, according to multiple sources with knowledge of the situation, asking if he’d be interested in coming with him to Iowa State. Eshelman politely declined the opportunity, sources said.</p><p>“It stayed true to the kind of person he is,” Rocky Moore said.</p><p>The timeline of events, according to those in position to know, helped Eshelman decide to stay at WSU. Not long after taking the job at Iowa State, Rogers and his new staff began the process of filling out their roster, which means they made some of their moves within the first week or so.</p><p>Eshelman didn’t hear from ISU coaches until a bit later in that process, according to those sources. Plus, he was beginning to like what was going on in Pullman, where Moore had recently taken over and began filling out his staff and roster, doing so with an offensive-minded approach.</p><p>Iowa State got a commitment from its quarterback, Jaylen Raynor, on Jan. 3. Eshelman re-signed with WSU on the same day.</p><p>“Bigger and shinier wasn’t necessarily a selling point, you know?” Ryan said. “You see it all the time where somebody leaves to go somewhere else and it’s just not as good as what they left behind. So I think he just weighed it all and just felt like, ‘This feels like home, and I see a great future for me here.’ ”</p><h3 style=\"text-align: center;\">• • •</h3><p>There’s no use in sugarcoating it: There’s a bit of pressure on Eshelman this weekend. Washington State is known for producing prestigious quarterbacks, from Jack Thompson and Mark Rypien to Ryan Leaf to Drew Bledsoe, from Luke Falk and Gardner Minshew to Cam Ward and John Mateer. Who knows what the future holds, but in earning the Cougars’ QB1 designation, Eshelman takes the torch from those who laid the foundation.</p><p>Beyond all that, though, there’s the immediate. The Cougars could use a win this weekend to help turn their season around, to build some semblance of confidence in their fanbase, which has grown irritated with the way their team’s offense has floundered. Can Eshelman do his part to reverse that trend?</p><p>That’s a tale yet to be spun, but this won’t be the first time Eshelman has found himself in this kind of spot. Remember his first time playing the position at the high school level, when Norman North’s quarterback sustained an injury and prompted Eshelman to take his place? Four years later, he isn’t exactly taking over because of injury, but he is being asked to jump into action in a pinch.</p><p>To pull an upset on Oregon State, which opened as a 17.5-point favorite, Eshelman and the Cougars’ offense might have to score some points. The Beavers’ offense is one of the best in the country, spearheaded by quarterback Braden Atkinson and receiver Jesse Legree, and WSU will have to keep pace with that production.</p><p>To those who know him best, that’s where Eshelman’s preparation comes in handy. Before this opportunity came along, he wasn’t going through the motions with each passing game, knowing he wasn’t going to see the field. He was practicing like he would start the next game. Now he actually will.</p><p>It registers as a remarkable trait for a 20-year-old, a young man still learning how to navigate the world, much less an FBS football program. Is it a natural trait he has? Or a characteristic he learned from his parents?</p><p>“I think that may come the most natural for him,” said Libby Eshelman, Owen’s mother. “One of the things that we have worked to instill in our kids is where their identity comes from, and I think Owen has grabbed a hold of that. He loves football, and he does love to win. He loves the experience. But he knows at the end of the day, that does not define him, and I think that allows him to play more freely.”</p><p>“People are not always kind to quarterbacks, and so as a mom, I’m excited for him,” Libby added. “But I have some butterflies for him too.”</p><p>Nobody would fault Eshelman for having some, too. He’ll be prepared, though, the same way he was in previous games this fall. He wasn’t leading the huddle in those settings. He wasn’t leading that huddle at South Dakota State on his visit years ago, either, but he prepared like he was. Maybe his secret recipe was obvious all along.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -7121,23 +7246,6 @@
         "source": "The Seattle Times",
         "id": "d9c73cfdc9c6184e",
         "sport": "football",
-        "medium": "text",
-        "also": [
-          "The Spokesman-Review"
-        ]
-      },
-      {
-        "title": "Gap between WSU, conference leaders looks massive | Pac-12 power rankings Week 6",
-        "link": "http://www.spokesman.com/stories/2026/oct/05/gap-between-wsu-conference-leaders-looks-massive-p/",
-        "link_kind": "item",
-        "date": "2026-10-05T00:00:00+00:00",
-        "summary": "<p><em>Editor’s note: The Pac-12 football power rankings are published each Sunday and consider both the latest results and seasonlong performance. Call it an objectively subjective look at the state of the conference. If you’re unhappy with the order, email us at the address below … or play better. For comparative purposes, we have included the placement of each team in last week’s rankings.</em></p><p>One week into round-robin play, it’s abundantly clear: The Pac-12 is a three-team race.</p><p>Boise State, Oregon State and Fresno State are the class of the conference, and it doesn’t appear to be particularly close. The gap between the top three and bottom five feels like a chasm.</p><p>Washington State doesn’t have enough offense to secure a bowl berth, much less contend for a spot in the Pac-12 championship game.</p><p>Colorado State doesn’t have enough defense. (Nor do the Rams have a defensive coordinator at the moment).</p><p>San Diego State? The Aztecs are lacking the most essential ingredient: healthy bodies.</p><p>Texas State doesn’t do anything well enough, which is doubly true when it comes to holding second-half leads.</p><p>Utah State does everything poorly.</p><p>That’s it. Remove those five flawed teams, and you have three remaining.</p><p>They aren’t created equal, not by any stretch: The Beavers lead with their offense, the Bulldogs with their defense and the Broncos with both, which explains their status as the frontrunner for both the Pac-12 title and a berth in the College Football Playoff.</p><p>But the beauty of the rebuilt Pac-12’s small size is the pure round-robin schedule. We don’t have to imagine how one contender would fare against another or delay judgment until the conference championship game.</p><p>In the Big 12, Utah and BYU don’t play Texas Tech.</p><p>In the SEC, Alabama and Georgia don’t play Texas.</p><p>In the Big Ten, Oregon doesn’t play Indiana.</p><p>But the Pac-12 doesn’t have that problem with eight teams and seven league games.</p><p>Everyone plays everyone, allowing us to identify the defining dates:</p><p>Oct. 10: Boise State at Fresno State</p><p>Oct. 31: Oregon State at Fresno State</p><p>Nov. 14: Oregon State at Boise State</p><p>Advantage to the Bulldogs, right? They host the other two while Oregon State is on the road for both.</p><p>Not necessarily.</p><p>Oregon State has played well away from home, with blowout victories at UTEP and Colorado State and a competitive loss at Houston.</p><p>Boise State can win anywhere.</p><p>Here are the victory projections for each team against the other two, according to the gambling and analytics website TeamRankings.com:</p><p>• Boise State: 66.3% at Fresno State and 77.4% against Oregon State</p><p>• Fresno State: 36.7% against Boise State and 59% against Oregon State</p><p>• Oregon State: 22.6% at Boise State and 41% at Fresno State</p><p>Our hunch: The Broncos win both, the Beavers split and the Bulldogs get swept.</p><p>As the late, great philosopher Bill Walton said often, “Offense wins championships.”</p><p><strong>To the power rankings &#8230;</strong></p><p><em>(All times Pacific)</em></p><h3>1. Boise State (4-1/1-0)</h3><p><strong>Result:</strong> beat Utah State 37-18</p><p><strong>Next up:</strong> at Fresno State (7:30 p.m. on the CW)</p><p><strong>Comment:</strong> No team in the conference has better balance than the Broncos – not only offense-defense balance but also run-pass balance: They are averaging 227 rushing yards and 212 passing yards per game and likely will need every bit of both Saturday night against the Bulldogs, who allow just 16 points per game. (Last week: 1)</p><h3>2. Oregon State (3-2/1-0)</h3><p><strong>Result:</strong> won at Colorado State 56-26</p><p><strong>Next up:</strong> vs. San Diego State (3 p.m. on USA Network)</p><p><strong>Comment:</strong> Receiver Jesse Legree falls into the same where-did-they-find-that-guy category as former Oregon State stars like Brandin Cooks and Jacquizz Rodgers. (The answer is Baltimore). But as the heart of conference play ramps up and opponents develop a better sense for OSU’s scheme and formations, we wonder: How will the Beavers adjust to the adjustments? (Last week: 2)</p><h3>3. Fresno State (4-1/1-0)</h3><p><strong>Result:</strong> won at Washington State 26-6</p><p><strong>Next up:</strong> vs. Boise State (7:30 p.m. on The CW)</p><p><strong>Comment:</strong> The Bulldogs were set up to fail in the season opener at USC, which had already played (San Jose State) and was far sharper. Since that 39-0 loss, Fresno State is allowing 10.8 points per game. (Last week: 3)</p><h3>4. Colorado State (2-3/0-1)</h3><p><strong>Result:</strong> lost to Oregon State 56-26</p><p><strong>Next up:</strong> idle</p><p><strong>Comment:</strong> It’s not often that a coordinator is stripped of his playcalling duties during a game. But if you had asked us to name the three Pac-12 head coaches most likely to make that type of in-game decision, Jim Mora Jr. would have been among our group. (Granted, relieving Tyson Summers of his responsibilities was a competitive imperative). (Last week: 4)</p><h3>5. San Diego State (2-3/1-0)</h3><p><strong>Result:</strong> beat Texas State 31-29</p><p><strong>Next up:</strong> at Oregon State (3 p.m. on USA Network)</p><p><strong>Comment:</strong> An indisputably impressive victory for the Aztecs considering their two tailbacks were injured, more than a dozen players were unavailable due to the mumps outbreak and quarterback Jayden Denegal has struggled under any and every condition this season. And yet, the Aztecs rallied from a 14-point deficit thanks to their defense and special teams. (Last week: 7)</p><h3>6. Texas State (2-3/0-1)</h3><p><strong>Result:</strong> lost at San Diego State 31-29</p><p><strong>Next up:</strong> idle</p><p><strong>Comment:</strong> The Bobcats were outscored 52-21 after halftime in losses to UTSA and San Diego State, dropping the former by five points and the latter by two. Had they held on, the season would have an entirely different look and feel. But one of the defining features of mediocre teams is the inability to close out games. (Last week: 5)</p><h3>7. Washington State (1-4/0-1)</h3><p><strong>Result:</strong> lost to Fresno State 26-6</p><p><strong>Next up:</strong> at Utah State (Friday at 6 p.m. on The CW)</p><p><strong>Comment:</strong> From here, it’s clear that first-year coach Kirby Moore, a former receiver and offensive coordinator, has no answers. He announced Monday that he will take over the offensive playcalling duties. It’s clear that if Moore doesn’t fix the offensive offense in the next 19 games, Washington State will be in the market for a new coach. Time is short when attempting to prove you belong in the Power Four. (Last week: 6)</p><h3>8. Utah State (1-4/0-1)</h3><p><strong>Result:</strong> lost at Boise State 37-18</p><p><strong>Next up:</strong> vs. Washington State (Friday at 6 p.m. on The CW)</p><p><strong>Comment:</strong> One team will collect its second victory of the season Friday night in Logan, but the process could be tough on the eyes and set the sport back years. First team to 11 wins. (Last week: 8)</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "3120098abe626597",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -7270,20 +7378,6 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "0827bb88a98f66d0",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "5 lingering thoughts from WSU's loss to Fresno State | Rewind",
-        "link": "http://www.spokesman.com/stories/2026/oct/04/5-lingering-thoughts-from-wsus-loss-to-fresno-stat/",
-        "link_kind": "item",
-        "date": "2026-10-04T00:00:00+00:00",
-        "summary": "<p>PULLMAN – At some point in the Gesa Field locker room, not long after his Washington State team managed just six points in an anemic loss to Fresno State on Saturday evening, Kirby Moore got his players together and left them with a message.</p><p>“We talked about, naturally, there’s gonna be noise, and rightfully so,” Moore said. “We gotta have a better product on the field. We all agree that we’re a better football team than that. The leadership group’s gotta step up, and the only way I know how to improve is to go back to work.”</p><p>Plenty of that will be in order for the Cougars, who are now 1-4 overall and 0-1 in Pac-12 play to begin Moore’s tenure. With this 26-6 setback, WSU’s offense now ranks near the bottom in the country in several key departments. With this sampling, keep in mind that there are 138 FBS teams this season.</p><p>• 11.8 points per game, No. 130</p><p>• 27% on third down, No. 133</p><p>• 287 yards per game, No. 133</p><p>• 18 sacks allowed, No. 129</p><p>• 11 red zone attempts, No. 125</p><p>Here are two more statistics that might best capture the Cougars’ struggles on offense. They’re averaging 2.8 yards per rush, which is No. 128 nationally. They’re also averaging 5.6 yards per pass attempt, which is two spots up from dead last in the country.</p><p>The eye-test backs up those trends. Quarterback Caden Pinnick, who threw an interception to bring him to six total turnovers on the season, hasn’t shown much acumen with the deep ball. Credit WSU coaches for game-planning around that, but they also aren’t getting much out of their running game, which could play a key role in opening up the field for their quarterback.</p><p>In short, that’s how you end up with this WSU offense, which has now gone without an offensive touchdown twice in one season. For the Cougars, that’s the first time that has happened since 2008, the first season of former coach Paul Wulff’s tenure. Wulff actually did visit Moore and coaches back in August, but in terms of on-field results, that’s not company anyone with WSU’s program wants to keep.</p><p>Here are five lingering thoughts from WSU’s loss to Fresno State.</p><p><strong>1. Caden Pinnick’s pocket presence leaves a lot to be desired:</strong> Pinnick’s list of issues is quite lengthy, but this problem ranks somewhere near the top: He doesn’t look entirely comfortable in the pocket, whether or not he’s seeing pressure. He may have taken five sacks, but Pro Football Focus only dinged the Cougars’ offensive line for one, which does a great job of crystallizing the issue.</p><p>On one play late in the first quarter, Fresno State brought a blitzer up to the line of scrimmage a few seconds before the snap, and Pinnick seemed to be aware of that. The WSU player he was lined up against, tight end Jack Pedersen, even pointed to him. But defensive back Loyall Mouzon came unblocked just the same, and even with a second to get the ball out to running back Maxwell Woods in the flat, Pinnick elected to hold on to the ball and take the sack.</p><p><span class=\"print_trim\"><!--[video id=6361]--></span></p><p>At the beginning of the third quarter, Pinnick also put on display what is becoming a bigger and bigger issue: He won’t throw the ball away. On this play, he does well to fake a handoff and make one defender miss, but he’s out of the pocket so he has a chance to throw it away and avoid a loss. Instead, he takes a sack for a loss of 10 yards. The Cougars punted three plays later.</p><p><span class=\"print_trim\"><!--[video id=6363]--></span></p><p>Let’s fast forward to the end of the third quarter, when WSU was facing a 13-6 deficit. Backed up deep in their own territory, the Cougars go with a shotgun dropback for Pinnick, who gets great protection from his O-line. He chose to scramble from the pocket, which looked unnecessary, and checked it down for a short gain.</p><p>On that play, it wasn’t just Pinnick’s decision to bail from a clean pocket that presented a problem. That choice spawned another: Pedersen was called for holding. That’s the kind of penalty that quarterbacks put their blockers at risk of when they scramble from the pocket, causing blockers to become more visible to officials.</p><p><span class=\"print_trim\"><!--[video id=6362]--></span></p><p><strong>2. Matyus McLain turned in his best game yet:</strong> In his fifth game at the FBS level, the defensive end McLain looked like the best version of himself. For the game, he totaled four tackles, including a half-sack and two tackles for loss, playing a key role in the Cougar defense keeping the team in the game.</p><p>Late in the first quarter, McLain shot through the line of scrimmage and dragged down running back Rayshon Luke for a loss of four. Then, late in the third frame, he made back-to-back huge plays: He brought down Fresno State QB Jayden Mandal for his half-sack, sharing it with defensive tackle Jirah Leaupepetele.</p><p>Only moments later, he dropped back in coverage and made a key third-down tackle in space, highlighting the athleticism that makes him so dangerous in the pass-rush department.</p><!--[embed id=12293]--><p><strong>3. Jack Stevens is back in business:</strong> It wasn’t long ago when WSU kicker Jack Stevens was mired in a long streak of misses, entering last week’s game against Arizona 1-for-5 on field goals. There was a lot wrong with the Cougars’ entire field goal operation, which caused one last week to get blocked, and a lot has changed since.</p><p>The most important centers on Stevens, who connected on two field goals in Saturday’s game, including a careerlong 50-yarder to tie the game right before halftime. He looked psyched afterwards. You can tell his confidence is returning, which could aid a struggling WSU offense.</p><p>Credit WSU coaches for making changes up front. They removed usual right tackle Jaylin Caldwell, whose failure to block anyone last week resulted in a blocked field goal, as well as offensive lineman Arion Williams, who were a part of that blocked field goal. They subbed in linemen Kyle Martin and Nick Bakken, which helped facilitate a cleaner operation.</p><p><strong>4. Why did WSU almost completely abandon the running game in the second half?</strong> For the game, Cougar running backs Kirby Vorhees, Maxwell Woods and Leo Pulalasi combined for 45 yards on 12 carries. In the second half, those numbers dropped significantly: Those three combined for just 13 yards on five carries. As a team, the Cougars posted negative-4 rushing yards in the second half.</p><p>You read that right: In the second half of Saturday’s game, WSU’s stable of running backs – whose retention was hailed as one of Moore’s top offseason accomplishments – got only five tries to run the ball. The Cougars almost entirely shelved the running game, resulting in 18 passes for 70 total yards.</p><p>What’s even weirder is that Woods, who turned in a 7-yard carry early in the game, played only 12 snaps. In the second quarter, he ran backwards to look for more space, which became a 4-yard loss. Maybe that explains his low snap count, but considering his shiftiness and speed, there has to be a bigger role in the Cougs’ offense for Woods – and Vorhees and Pulalasi.</p><p><strong>5. Did Julian Dugger or Owen Eshelman deserve a few garbage-time snaps?</strong> Pinnick never came out of Saturday’s game, not even in the final three minutes, when the game was out of reach. He had thrown an interception on the previous series, and with only minutes left in a blowout, it seemed possible for WSU coaches to give snaps to one of their other quarterbacks, Dugger or Eshelman.</p><p>Instead, Moore rolled with Pinnick, explaining that decision this way: “With where we were at, just the rhythm. Wanted to keep him going with the first group from an offensive line standpoint. But I think everything on offense, we gotta reevaluate.”</p><p>It’s clear that Moore wants to stick with his guy, wants to ensure that Pinnick feels like QB1. But Pinnick could still have been QB1 even if coaches gave the game’s final snaps to another quarterback, if only to demonstrate to fans that, yes, they are interested in trying new things.</p><p>As WSU prepares for its next game, a road test at Utah State on Friday, it’ll be fascinating to see how Moore talks about the way he’s handling Pinnick and the team’s QB situation.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "47f7e17296a12422",
         "sport": "football",
         "medium": "text"
       },
@@ -7973,20 +8067,6 @@
         "extent": "27 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "5 thoughts from WSU football’s rout over Duquesne",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/5-thoughts-from-wsu-footballs-rout-over-duquesne/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-09-21T01:40:18+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09202026_tzr_tzr_183809.jpg?d=1200x630\"><br/>Washington State finally broke out in the second half of a 48-7 rout of Duquesne on Saturday. Here are five thoughts from the game and what it means for the Cougars moving forward.",
-        "author": "Greg Woods",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "2c32a20f997d5518",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "Cougar Postgame Notes - Duquesne",
@@ -8803,34 +8883,6 @@
         "extent": "29 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Cougar Football Hour Returns to Zeppoz, Moves to Wednesday Nights",
-        "link": "https://wsucougars.com/news/2026/09/1/cougar-football-hour-returns-to-zeppoz-moves-to-wednesday-nights",
-        "link_kind": "item",
-        "date": "2026-09-01T21:18:26+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "86b9bbe132c2a667",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Is it crazy to think we have a shot in the Apple Cup?",
-        "link": "https://jimmoorethego2guy.substack.com/p/is-it-crazy-to-think-we-have-a-shot",
-        "link_kind": "item",
-        "date": "2026-09-01T15:33:29+00:00",
-        "summary": "Cougs are 23 1/2-point underdogs, but the football gods have to like our chances, don&#8217;t they? Karma&#8217;s a bitch, right?",
-        "author": "Jim Moore",
-        "duration": null,
-        "channel_url": "",
-        "source": "Jim Moore's Substack",
-        "id": "5442a9d7900e7dcf",
-        "sport": "all",
-        "medium": "text"
       }
     ]
   }
