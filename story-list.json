@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:03:13.856307+00:00",
+  "generated_at": "2026-10-18T01:03:19.220473+00:00",
   "teams": {
     "conference": [
       {
@@ -551,6 +551,20 @@
     ],
     "Boise State": [
       {
+        "title": "10 players and one coach represent Boise State in NFL Week Six",
+        "link": "https://www.arbiteronline.com/2026/10/16/10-players-and-one-coach-represent-boise-state-in-nfl-week-six/",
+        "link_kind": "item",
+        "date": "2026-10-16T19:42:41+00:00",
+        "summary": "<p>In 1970, linebacker Steve Svitak became the first player to be drafted out of Boise State after being selected in the seventh round of the NFL Draft by the then-Oakland Raiders.&#160; In 2026, left tackle Kage Casey was selected by the Denver Broncos with the 111th overall pick, marking the most recent Bronco draftee to [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/10/16/10-players-and-one-coach-represent-boise-state-in-nfl-week-six/\">10 players and one coach represent Boise State in NFL Week Six</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "author": "Jake Zamora",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Arbiter",
+        "id": "97811ec241201878",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Boise State Hosts Washington in Second Exhibition Contest",
         "link": "https://broncosports.com/news/2026/10/16/mens-basketball-boise-state-hosts-washington-in-second-exhibition-contest",
         "link_kind": "item",
@@ -988,20 +1002,6 @@
         "medium": "text"
       },
       {
-        "title": "Broncos make a statement in Pac-12 debut with a forceful 37-18 win over Utah State",
-        "link": "https://www.arbiteronline.com/2026/10/04/broncos-make-a-statement-in-pac-12-debut-with-a-forceful-37-18-win-over-utah-state/",
-        "link_kind": "item",
-        "date": "2026-10-04T19:14:08+00:00",
-        "summary": "<p>No. 22 Boise State opened Pac-12 play in high spirits, scoring touchdowns on their first three drives to build a 21-0 lead before letting their defense take them the rest of the way. Quarterback Maddux Madsen was an offensive powerhouse, completing 17 of 21 passes for 244 yards. The Broncos defense was additionally impressive, collecting [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/10/04/broncos-make-a-statement-in-pac-12-debut-with-a-forceful-37-18-win-over-utah-state/\">Broncos make a statement in Pac-12 debut with a forceful 37-18 win over Utah State</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
-        "author": "Emilia Rose Nowinski",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Arbiter",
-        "id": "10bff180a66dc465",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "(Video) Post Utah State Press Conference With QB Madsen, LB Ripp, and Coach Danielson",
         "link": "https://firstkickwasgood.com/2026/10/03/video-post-utah-state-press-conference-with-qb-madsen-lb-ripp-and-coach-danielson/",
         "link_kind": "item",
@@ -1245,20 +1245,6 @@
         "source": "Boise State Athletics",
         "id": "1ca1900d56f01b86",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Women's Basketball Season Tickets on Sale",
-        "link": "https://broncosports.com/news/2026/9/2/boise-state-womens-basketball-season-tickets-on-sale",
-        "link_kind": "item",
-        "date": "2026-09-02T19:00:00+00:00",
-        "summary": "<img alt=\"Season Tickets on Sale graphic featuring Libby Hutton\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/WBB26_-_SZNTIX_Web__1_.jpg\" /><br /><br />Season tickets for the upcoming Boise State women's basketball season are now on sale.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "7cfe4ad90cc2242c",
-        "sport": "wbb",
         "medium": "text"
       }
     ],
@@ -1769,34 +1755,6 @@
         "extent": "1h 8m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Farokhmanesh Rounds Out Staff",
-        "link": "https://csurams.com/news/2026/9/2/mens-basketball-farokhmanesh-rounds-out-staff",
-        "link_kind": "item",
-        "date": "2026-09-02T22:00:00+00:00",
-        "summary": "<img alt=\"Ali Farokhmanesh\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/DSC04990.jpg\" /><br /><br />Former Rams complete men's basketball staff",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "a10caf683afa4182",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Colorado State, Wyoming Extend Rivalry Across Four Sports",
-        "link": "https://csurams.com/news/2026/9/2/mens-basketball-colorado-state-wyoming-extend-rivalry-across-four-sports",
-        "link_kind": "item",
-        "date": "2026-09-02T17:00:00+00:00",
-        "summary": "<img alt=\"Border War Renewed 28-36\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/ATH26_-_Border_War_H_H_title_slide_16x9.jpg\" /><br /><br />The Rams and Cowboys to meet every year from 2028-2036",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "c23ef1365c900b35",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Fresno State": [
@@ -2732,21 +2690,6 @@
         "id": "96134dd0ef674183",
         "sport": "wbb",
         "medium": "text"
-      },
-      {
-        "title": "Fresno State Takes On USC",
-        "link": "https://redwavereport.podbean.com/e/fresno-state-takes-on-usc/",
-        "link_kind": "item",
-        "date": "2026-09-02T14:06:32+00:00",
-        "summary": "<p>The boys are back for a new Football Season as the Fresno State Bulldogs take on the Trojans of USC. Join them as they break down the depth chart and match up against the USC Trojans. Thank you for listening and enjoy the show. </p>",
-        "author": "",
-        "duration": 3773,
-        "channel_url": "",
-        "source": "The Red Wave Report",
-        "id": "50dfe921e217fdb3",
-        "extent": "1h 3m",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Gonzaga": [
@@ -3396,6 +3339,48 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "The moment Oregon State recognized Sweet Home and Mason Flores at Saturday's game",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-honors-sweet-home-mason-flores-at-reser-stadium.html",
+        "link_kind": "item",
+        "date": "2026-10-17T22:41:57+00:00",
+        "summary": "Oregon State honored Sweet Home High School and Mason Flores, a player who died from a JV game injury, with several Sweet Home players attending the game at Reser Stadium.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "2ee69cfeec181ff2",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Mater Dei standout Gavin Honore commits to Oregon State",
+        "link": "https://www.oregonlive.com/recruiting/2026/10/oregon-state-adds-commitment-from-three-star-2027-receiver.html",
+        "link_kind": "item",
+        "date": "2026-10-17T20:28:27+00:00",
+        "summary": "Oregon State filled a recent opening at receiver with its highest-ranked recruit in the class of 2027.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "a4074ce3a6a91719",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Beavers vs. Washington State Cougars: Live updates today",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-beavers-vs-washington-state-cougars-live-updates-today.html",
+        "link_kind": "item",
+        "date": "2026-10-17T20:05:42+00:00",
+        "summary": "Follow live updates from Reser Stadium as the Beavers take on the Cougars.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "f6f30626a938bedb",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "What time, TV channel is Oregon State vs. Washington State today? Odds, streaming, how to watch",
         "link": "https://www.oregonlive.com/beavers/2026/10/what-time-tv-channel-is-oregon-state-vs-washington-state-today-odds-streaming-how-to-watch.html",
@@ -4193,20 +4178,6 @@
         "channel_url": "",
         "source": "The Oregonian",
         "id": "d3ac8f3b30744818",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State crushes San Diego State 66-14 in Pac-12 rout: Live updates recap",
-        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-beavers-vs-san-diego-state-live-updates-today.html",
-        "link_kind": "item",
-        "date": "2026-10-10T19:33:57+00:00",
-        "summary": "Oregon State routed San Diego State 66-14, far exceeding the 14.5-point spread, leading wire-to-wire in a dominant Pac-12 home performance.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "f43a19b6c1d5082a",
         "sport": "all",
         "medium": "text"
       },
@@ -5461,23 +5432,23 @@
         "id": "bfd59f6c57739ada",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "The Climb Episode 6 · \"Next Level\"",
-        "link": "https://goaztecs.com/news/2026/09/2/the-climb-episode-6-next-level",
-        "link_kind": "item",
-        "date": "2026-09-02T16:41:47+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "8687dfe9b05af086",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "Bobcats drop third consecutive game, swept by Aztecs",
+        "link": "https://universitystar.com/36782/sports/bobcats-drop-third-consecutive-game-swept-by-aztecs/",
+        "link_kind": "item",
+        "date": "2026-10-17T23:39:49+00:00",
+        "summary": "Starting their west coast road trip, the Texas State Bobcats took on the San Diego State Aztecs for the first time in 22 years, where the Aztecs straight set swept the Bobcats (25-21, 25-19, 25-19) Saturday afternoon at Peterson Gym. Texas State (7-12, 2-16 Pac-12) posted its best hitting percentage in its last three matches...",
+        "author": "Cash Arenas, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "482be7b6c81329ab",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "TXST Soccer earns first conference win vs Colorado State",
         "link": "https://universitystar.com/36777/sports/txst-soccer-earns-first-conference-win-vs-colorado-state/",
@@ -5657,20 +5628,6 @@
         "channel_url": "",
         "source": "The University Star",
         "id": "bf1745af8b872289",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Norshie scores twice as ‘Cats draw with Oregon State",
-        "link": "https://universitystar.com/36613/sports/norshie-scores-twice-as-cats-draw-with-oregon-state/",
-        "link_kind": "item",
-        "date": "2026-10-12T00:10:28+00:00",
-        "summary": "Senior defender Nina Norshie scored two goals as the Texas State Bobcats tied the Oregon State Beavers in a 3-3 game Sunday afternoon at Paul Lorenz Field in Corvallis, Oregon. Norshie scored both goals within the opening 10 minutes, marking her first multi-goal game of the season. Junior defender Jenny Ngankem scored Texas State’s (7-3-3,...",
-        "author": "Jackson Grettler, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "5c3b4e2576afdec9",
         "sport": "all",
         "medium": "text"
       },
@@ -6300,6 +6257,20 @@
     ],
     "Washington State": [
       {
+        "title": "Cougars reverse sweep Broncos to get back to .500",
+        "link": "https://dailyevergreen.com/200422/sports/cougars-reverse-sweep-broncos-to-get-back-to-500/",
+        "link_kind": "item",
+        "date": "2026-10-17T03:00:26+00:00",
+        "summary": "Down 0-2 in sets Thursday against Boise State (12-7, 4-2 Pac-12), Washington State (8-8, 3-3 Pac-12) looked prime for its fourth conference loss.  The Cougars had not completed a reverse sweep since Oct. 12, 2024, and the Broncos won the previous two sets, 25-22 each time. However, the Cougars wasted no time chipping away at...",
+        "author": "Conner Orr, Deputy Campus Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "06a4af3274e011b6",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "WSU football will need to keep pace on offense to upset Oregon State",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-football-will-need-to-keep-pace-on-offense-to-upset-oregon-state/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -6311,6 +6282,34 @@
         "source": "The Seattle Times",
         "id": "cbf378cf15125eb1",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Eshelman takes over at QB as Cougars travel to Beavers | Live updates",
+        "link": "http://www.spokesman.com/stories/2026/oct/17/eshelman-takes-over-at-qb-as-cougars-travel-to-bea/",
+        "link_kind": "item",
+        "date": "2026-10-17T00:00:00+00:00",
+        "summary": "<h3>Key moments</h3><h3>Dugger finds end zone</h3><p><strong>3rd, 4:15 - OSU 34, WSU 16:</strong> Julian Dugger takes a QB draw for a 3-yard touchdown.</p><p>The 2-point attempt fails.</p><!--[embed id=12340]--><hr/><h3>Legree goes over 100</h3><p><strong>3rd, 9:01 - OSU 34, WSU 10:</strong> Legree catches a short pass and scores a 5-yard touchdown.</p><p>The Heisman candidate has totaled 103 receiving yards on six catches with a pair of touchdowns.</p><hr/><h3>Eshelman throws first career touchdown</h3><p><strong>2nd, 1:53 - OSU 27, WSU 10:</strong> Owen Eshelman finds Branden Ganashamoorthy open for a 40-yard touchdown.</p><!--[embed id=12339]--><hr/><h3>Beavs score long TD</h3><p><strong>2nd, 3:59 - OSU 27, WSU 3:</strong> AJ Newberry takes a screen 88 yards for a touchdown.</p><p>Newberry is up to 159 scrimmage yards.</p><!--[embed id=12338]--><hr/><h3>Beavers tack on another field goal</h3><p><strong>2nd, 7:38 - OSU 20, WSU 3:</strong> Ojeda adds a 46-yard field goal for Oregon State.</p><hr/><h3>Cougars settle for field goal</h3><p><strong>2nd, 11:12 - OSU 17, WSU 3</strong>: Jack Stevens makes a 19-yard field goal after Washington State&#8217;s offense stalls near the goal line.</p><hr/><h3>Beavers add on</h3><p><strong>1st, 1:23 - OSU 17, WSU 0:</strong> Caleb Ojeda makes a 48-yard field goal to extend Oregon State&#8217;s lead.</p><hr/><h3>Legree makes his presence felt</h3><p><strong>1st, 4:46 - OSU 14, WSU 0:</strong> Star freshman receiver Jesse Legree explodes for a 90-yard touchdown reception.</p><!--[embed id=12337]--><hr/><h3>Oregon State on the board first</h3><p><strong>1st, 7:13 - OSU 7, WSU 0:</strong> Jake Reichle dives into the end zone for a 1-yard touchdown. After a three-and-out on its first possession, Oregon State marches down the field for an 11-play scoring drive.</p><!--[embed id=12336]--><h3>Pregame</h3><p>With its season spiraling, Washington State football turns to <a href=\"https://www.spokesman.com/stories/2026/oct/15/esh-has-that-moxie-how-wsu-qb-owen-eshelman-earned/\" target=\"_blank\">redshirt freshman Owen Eshelman</a> to replace Caden Pinnick at quarterback.</p><p>Eshelman and the Cougars (1-5) travel to face fellow <a href=\"https://www.spokesman.com/stories/2026/oct/16/to-spring-an-upset-on-oregon-state-wsu-and-qb-owen/\" target=\"_blank\">Pac-12 Conference holdover Oregon State</a> (4-2) on the road.</p><p><a href=\"https://www.spokesman.com/stories/2026/oct/14/lets-go-win-the-rock-behind-the-formation-of-the-n/\" target=\"_blank\">Both teams</a> are on opposite trajectories.</p><p>Washington State is still in search of its first FBS and conference win of the season. Meanwhile, after putting a scare into Houston and Texas Tech, <a href=\"https://www.spokesman.com/stories/2026/oct/16/why-oregon-state-will-beat-washington-state-the-pi/\" target=\"_blank\">Oregon State has won four games in a row</a> and is tied with Boise State for first in the conference.</p><p><a href=\"https://www.spokesman.com/stories/2026/oct/13/short-fields-and-tough-spots-wsus-defense-has-made/\" target=\"_blank\">The Cougars&#8217; defense</a>, though stout, will have its work cut out for it against star <a href=\"https://www.spokesman.com/stories/2026/oct/16/wsus-keys-to-victory-against-oregon-state-two-minu/\" target=\"_blank\">freshman receiver Jesse Legree</a>.</p><p>The game is scheduled to kick off at 3 p.m. on USA Network.</p><p><strong>Series history</strong></p><p>Washington State holds a 58-49-3 advantage against Oregon State. The Pac-12 holdovers played twice last season, with the home team winning both matchups. The Beavers held on 10-7 at Reser Stadium on Nov. 1, 2025, before the Cougars won 32-8 four weeks later.</p><p><strong>Notable stat</strong></p><p>Oregon State freshman Jesse Legree has been held under 100 receiving yards zero times this season.</p><h3>Game preview</h3><!--[teaser id=1364327]--><!--[teaser id=1364349]--><!--[teaser id=1364350]--><h3>More on the Cougs</h3><!--[teaser id=1364259]--><!--[teaser id=1364190]--><!--[teaser id=1364115]--><!--[teaser id=1364026]-->",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "e66600b98f3b8785",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU soccer travels to Spokane to play Gonzaga",
+        "link": "https://dailyevergreen.com/200409/sports/wsu-soccer-travels-to-spokane-to-play-gonzaga/",
+        "link_kind": "item",
+        "date": "2026-10-16T17:00:40+00:00",
+        "summary": "WSU soccer (5-4-3, 2-1 Pac 12) is back in action against The Gonzaga Bulldogs (6-6-2, 1-2 Pac 12). The Cougs are 11-2-2 all- time against the Bulldogs. Last October the Cougs ended level with Gonzaga.  Offensive prevails  The Cougs have scored seven goals in three Pac-12 games.  Freshman Delaney Hawkins accounted for three of those goals....",
+        "author": "BEN WALKER, Evergreen reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "ace1229fb6cba7dc",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -6755,34 +6754,6 @@
         "source": "Washington State Athletics",
         "id": "b2073e5f928ec873",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Carlson flies under Eagles’ radar as Cougars win game one",
-        "link": "https://dailyevergreen.com/200218/sports/carlson-flies-under-eagles-radar-as-cougars-win-game-one/",
-        "link_kind": "item",
-        "date": "2026-10-11T17:00:38+00:00",
-        "summary": "Washington State captain Cole Carlson scored twice as Washington State defeated Eastern Washington 5-3 Friday night to open their series this weekend. The victory marked WSU’s third consecutive win over Eastern dating back to last season, continuing the new era of success against their neighbors to the north. Carlson led the offensive effort recording two...",
-        "author": "Zach McFarlane",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "7170878b635a4b76",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "WSU volleyball snaps three-match slide with four-set victory over Texas State",
-        "link": "https://dailyevergreen.com/200138/sports/wsu-volleyball-snaps-three-match-slide-with-four-set-victory-over-texas-state/",
-        "link_kind": "item",
-        "date": "2026-10-11T14:00:42+00:00",
-        "summary": "Three Cougar players had over 10 kills Saturday as Washington State (7-8, 2-3 Pac-12) defeated Texas State (7-10, 2-4 Pac-12) in four sets in San Marcos, Texas. Outside hitters Eliana Ti’a and Emerson Matthews led the Cougs with 16 and 15 kills, respectively. Opposite Kate Hayhurst recorded 11. After WSU posted a .125 hitting percentage...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "97586de01ad44070",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -7281,10 +7252,7 @@
         "source": "The Seattle Times",
         "id": "bcb4dfff3bf844bf",
         "sport": "football",
-        "medium": "text",
-        "also": [
-          "The Spokesman-Review"
-        ]
+        "medium": "text"
       },
       {
         "title": "After ghastly offensive showing, WSU must make big changes to save season | Analysis",
@@ -8820,20 +8788,6 @@
         "medium": "text"
       },
       {
-        "title": "Can the Cougs pull off a miracle?",
-        "link": "https://jimmoorethego2guy.substack.com/p/can-the-cougs-pull-off-a-miracle",
-        "link_kind": "item",
-        "date": "2026-09-04T20:35:38+00:00",
-        "summary": "Not likely, but in my make believe world, it would sure be nice if they do. Go Cougs, dammit!",
-        "author": "Jim Moore",
-        "duration": null,
-        "channel_url": "",
-        "source": "Jim Moore's Substack",
-        "id": "bdf2adbda6280556",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "It's Apple Cup week!! (Episode 253)",
         "link": "https://podcastvseveryone.podbean.com/e/its-apple-cup-week-episode-253/",
         "link_kind": "item",
@@ -8876,49 +8830,6 @@
         "id": "bbacb7ff80d5c2e7",
         "extent": "57 min",
         "sport": "football",
-        "medium": "audio"
-      },
-      {
-        "title": "WSU Football: The Cougar Football Hour with Kirby Moore | Boeing Apple Cup Washington Week | 9/2/26",
-        "link": "https://wsucougars.com/news/2026/09/2/wsu-football-the-cougar-football-hour-with-kirby-moore-boeing-apple-cup-washington-week-9226",
-        "link_kind": "item",
-        "date": "2026-09-02T23:00:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "a68cc8e257172742",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Cougars Open 2026 With Boeing Apple Cup in Seattle",
-        "link": "https://wsucougars.com/news/2026/09/2/cougars-open-2026-with-boeing-apple-cup-in-seattle",
-        "link_kind": "item",
-        "date": "2026-09-02T21:36:07+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "baabba11af9b2bc5",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "BECU Inside WSU Athletics with Jon Haarlow | S2, E3 | Guests: Korey Schroeder, Alex Brink",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/422c999a-cbb3-4549-a0bc-cf42247e0277.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-09-02T20:00:00+00:00",
-        "summary": "<p>Join us for the latest Inside WSU Athletics Podcast presented by BECU with Director of Athletics Jon Haarlow alongside the Voice of the Cougs Chris King! </p><p><br></p><p>This episode, our guests include:</p><p>Volleyball Head Coach | Korey Schroeder </p><p>Former QB and Radio/TV Analyst | Alex Brink</p>",
-        "author": "",
-        "duration": 2743,
-        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
-        "source": "Washington State Cougars Podcast",
-        "id": "c48ea189ed1b84fd",
-        "extent": "46 min",
-        "sport": "all",
         "medium": "audio"
       }
     ]
