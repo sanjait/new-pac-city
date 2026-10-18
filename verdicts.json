@@ -17546,6 +17546,127 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-10-17-1340"
+    },
+    "06a4af3274e011b6": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "boise-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article details WSU's reverse-sweep volleyball win over Boise State set by set.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-18-0140"
+    },
+    "2ee69cfeec181ff2": {
+      "subjects": {
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The tribute to Mason Flores took place during Oregon State's football game at Reser Stadium, making the game the substantive setting.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The subject is a memorial for an outside high school player rather than Oregon State's own play, so whether football substantively figures here is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-18-0140"
+    },
+    "482be7b6c81329ab": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "san-diego-state/volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recounts set-by-set detail of Texas State's volleyball loss to San Diego State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-18-0140"
+    },
+    "97811ec241201878": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece surveys ten former Boise State players' NFL Week Six performances, which is alum coverage the program produced.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-18-0140"
+    },
+    "a4074ce3a6a91719": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary states Oregon State signed its highest-ranked 2027 receiver commit, which is football recruiting.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-18-0140"
+    },
+    "ace1229fb6cba7dc": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "gonzaga/womens-soccer": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews WSU's upcoming soccer match against Gonzaga using season stats.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "BEN WALKER"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-18-0140"
+    },
+    "e66600b98f3b8785": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece chronicles the Oregon State-Washington State football game's scoring plays in sequence.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-18-0140"
+    },
+    "f6f30626a938bedb": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary confirms a live football matchup between Oregon State and Washington State at Reser Stadium.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-18-0140"
     }
   },
   "runs": {
@@ -20236,6 +20357,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 16.038952499977313,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-18-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-18T01:39:03.507978+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 8
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 19.21945529995719,
       "tokens": null,
       "tokens_source": null
     }
