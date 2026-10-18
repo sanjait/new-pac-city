@@ -17667,6 +17667,267 @@
         "James Crepea"
       ],
       "run": "run_2026-10-18-0140"
+    },
+    "13172ad08803f7f0": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Labelled Analysis, arguing WSU's football program matured despite the loss to Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-18-1341"
+    },
+    "21374bff45b6f545": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary identify a postgame quote piece from WSU coach Kirby Moore after the football loss to Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-18-1341"
+    },
+    "29d62b996f29c1aa": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Bylined column on the Beavers' football turnaround, naming former coach Trent Bray and the win over Washington State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Bill Oram"
+      ],
+      "run": "run_2026-10-18-1341"
+    },
+    "2ac16772850a6830": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers former Gonzaga guard Julian Strawther's NBA injury, which counts as athletics-relevant to the program that produced him.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-18-1341"
+    },
+    "39eae5bfbde23725": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Game recap focused on WSU quarterback Owen Eshelman and receiver Ganashamoorthy in the football loss to Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-18-1341"
+    },
+    "41f72100477704a7": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary report AJ Newberry's Oregon State football rushing/receiving record.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-18-1341"
+    },
+    "7fb254e7c324c51b": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary report an Oregon State football injury update on cornerback TJ Crandall.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-18-1341"
+    },
+    "99731459786107f1": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Instant-reaction recap of WSU's football loss to Oregon State, covering both teams' performance.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-18-1341"
+    },
+    "a9d10604d149c924": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary recap Oregon State's football win over Washington State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-18-1341"
+    },
+    "ab826a1de3f18e71": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A fan poll ranking Mountain West teams (New Mexico, North Dakota State, UNLV); no covered school is named.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-18-1341"
+    },
+    "b9bc8281afb46058": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary identify a postgame press conference from OSU football coach JaMarcus Shephard after beating WSU.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-18-1341"
+    },
+    "ba370dee184d82a6": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Lists Week 7 Mountain West games (NIU-Wyoming, UNLV-Air Force, Nevada-North Dakota State, San Jose State-UTEP, New Mexico-Hawaii); none involves a covered school.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-18-1341"
+    },
+    "d68b83b66f5c8b30": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Game-stat recap of Oregon State football players Braden Atkinson and AJ Newberry against Washington State; the feed's Washington State tag is not evidence against this.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-18-1341"
+    },
+    "dcb53b046bbb0bca": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Bylined takeaways piece looking back at Oregon State's football win over Washington State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Bill Oram"
+      ],
+      "run": "run_2026-10-18-1341"
+    },
+    "e22afafbf481e6ba": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full game recap of Oregon State's 48-30 football win over Washington State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Nicholas Spink"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-18-1341"
+    },
+    "e9cefec4f8cffb38": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Opinion-driven game account grading WSU coach Kirby Moore's decisions in the football loss to Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-18-1341"
+    },
+    "f278dae492541cec": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary describe Oregon State's offensive output against Washington State in football.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-18-1341"
     }
   },
   "runs": {
@@ -20381,6 +20642,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 19.21945529995719,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-18-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-18T13:39:22.700866+00:00",
+      "items": 17,
+      "verdict_counts": {
+        "publish": 15,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 8
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "ab826a1de3f18e71",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 31.855096300016157,
       "tokens": null,
       "tokens_source": null
     }
