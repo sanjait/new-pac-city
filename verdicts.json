@@ -17928,6 +17928,117 @@
         "James Crepea"
       ],
       "run": "run_2026-10-18-1341"
+    },
+    "089f575490667402": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A player-grading column on Fresno State's own players after the San Diego State game; the opponent appears only as context for one illustrative play.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-10-19-0141"
+    },
+    "18e9a74f6b966fcb": {
+      "kind": "recap",
+      "verdict": "hold",
+      "reason": "Headline names an Oregon State win over Washington State but no sport is stated and the summary is empty markup, so the program can't be confirmed.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Same unstated-sport problem as the companion Oregon State/Washington State item in this batch; could reasonably be football but that is not established by the text.",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Bryce Powell"
+      ],
+      "run": "run_2026-10-19-0141"
+    },
+    "2a1c1cf241bd73d5": {
+      "unrecognized": [
+        {
+          "phrase": "Ducks",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The link slug identifies these as Oregon's coaches addressing a tragedy after their win; Oregon State's win is noted only in passing in that same slug, not as a subject.",
+      "evidence_basis": "title+summary",
+      "subjects": {},
+      "byline": [
+        "Nik Streng"
+      ],
+      "run": "run_2026-10-19-0141"
+    },
+    "5a968149b372bd17": {
+      "unrecognized": [
+        {
+          "phrase": "hockey team",
+          "kind": "unlisted-program"
+        },
+        {
+          "phrase": "wakeboarding",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is about Texas State's club sports organizations, which are out of scope; the covered football game is only the backdrop for their halftime recognition.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "byline": [
+        "Carisa Arellano",
+        "Jesykah Resendez"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-19-0141"
+    },
+    "878902578e6afb3f": {
+      "kind": "recap",
+      "verdict": "hold",
+      "reason": "Title and summary confirm an Oregon State win over Washington State but name no sport, and the fetcher could not retrieve the body.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Football is the likely sport given the rivalry and season timing, but nothing in the title or summary states it, so naming a program would be a guess.",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-19-0141"
+    },
+    "8c1f3f2851de9e56": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full game recap of Fresno State's 26-23 loss to San Diego State, with both teams' scoring plays and stats.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-19-0141"
+    },
+    "a880271d100e0756": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Bye week and AP/coaches poll votes are football-specific terms that establish the program from the summary alone.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-19-0141"
     }
   },
   "runs": {
@@ -20676,6 +20787,55 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 31.855096300016157,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-19-0141": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-19T01:39:14.900626+00:00",
+      "items": 7,
+      "verdict_counts": {
+        "publish": 3,
+        "hold": 2,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "The Oregonian": 2,
+        "The University Star": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "2a1c1cf241bd73d5",
+          "source": "The Oregonian",
+          "phrase": "Ducks",
+          "kind": "not-ours"
+        },
+        {
+          "id": "5a968149b372bd17",
+          "source": "The University Star",
+          "phrase": "hockey team",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "5a968149b372bd17",
+          "source": "The University Star",
+          "phrase": "wakeboarding",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 16.25341310002841,
       "tokens": null,
       "tokens_source": null
     }
