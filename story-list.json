@@ -1,35 +1,7 @@
 {
-  "generated_at": "2026-10-18T13:03:27.261729+00:00",
+  "generated_at": "2026-10-19T01:03:29.149405+00:00",
   "teams": {
     "conference": [
-      {
-        "title": "MWCConnection Reacts Results: Top Mountain West Teams",
-        "link": "https://www.mwcconnection.com/colorado-state-rams-football/94397/new-mexico-lobos-football-mountain-west-best-teams",
-        "link_kind": "item",
-        "date": "2026-10-17T16:00:00+00:00",
-        "summary": "This post is brought to you by FanDuel, a proud partner of SBNation. Lobos are the top team in the MW. There is still a long way to go this season, but some Mountain West teams are starting to separate themselves. Following North Dakota State’s loss last week, New Mexico has emerged as the unquestioned [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "ab826a1de3f18e71",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "2026 Mountain West Week 7: Game Time, TV Schedule, Odds, Predictions",
-        "link": "https://www.mwcconnection.com/mountain-west-discussion/90934/mountain-west-football-games-week-7-fanduel-odds-games-predictions",
-        "link_kind": "item",
-        "date": "2026-10-17T15:00:00+00:00",
-        "summary": "The college football season is in full swing, and with it, the shift towards mostly conference games. This week, 8 Mountain West teams play all Saturday long. Check out the Week 5 action, with all the info you need for the games below. Share your thoughts in the comments! Saturday, October 17th NIU vs Wyoming [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "ba370dee184d82a6",
-        "sport": "all",
-        "medium": "text"
-      },
       {
         "title": "Which “Bubble Teams” in the MW, PAC-12 Will Find Their Way To Bowl Season?",
         "link": "https://www.mwcconnection.com/mountain-west-discussion/94390/which-bubble-teams-in-the-mw-pac-12-will-find-their-way-to-bowl-season",
@@ -139,6 +111,34 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "b0f54bbdec58366a",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Dominic Kelly and Hurschel Turner Jr., Nevada’s Two-Man RB Wrecking Crew",
+        "link": "https://www.mwcconnection.com/nevada-wolfpack-football/94324/dominic-kelly-hurschel-turner-jr-nevada-wolf-pack-running-backs-analysis",
+        "link_kind": "item",
+        "date": "2026-10-15T20:00:00+00:00",
+        "summary": "The Mountain West has had its fair share of dominant running backs in its history, as the position has been the highlight of the conference several times over the years. Some of the more recent examples of dominant half-backs are Boise State’s Ashton Jeanty (2022-24), SDSU’s Donnel Pumphrey (2013-16), Wyoming’s Brian Hill (2014-16) and UNLV’s [&#8230;]",
+        "author": "Derek Raridon",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "b0a4b751908d9a9c",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Should The Mountain West & Pac-12 Feature More Marquee Games on Friday Nights?",
+        "link": "https://www.mwcconnection.com/mountain-west-discussion/94322/should-the-mountain-west-pac-12-feature-more-marquee-games-on-friday-nights",
+        "link_kind": "item",
+        "date": "2026-10-15T19:00:00+00:00",
+        "summary": "Friday night college football. The “fixins” in the sandwich between Thursday Night NFL football and the Saturday CFB gauntlet. Famous for after-dark thrillers and wacky moments, Friday night college football has carved a special niche in the hearts of college football fans. But for the Mountain West and PAC-12, are Fridays the key to this [&#8230;]",
+        "author": "Dan Allison",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "4933f411b5f6aed6",
         "sport": "all",
         "medium": "text"
       },
@@ -551,6 +551,20 @@
     ],
     "Boise State": [
       {
+        "title": "Broncos Move up Two Positions in Both National Polls",
+        "link": "https://broncosports.com/news/2026/10/18/football-broncos-move-up-to-no-xx-in-ap-poll-no-xx-in-coaches-poll",
+        "link_kind": "item",
+        "date": "2026-10-18T19:05:00+00:00",
+        "summary": "<img alt=\"Terrious Favors Touchdown\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/18/KH_FBvsFresno_108.jpg\" /><br /><br />Boise State is the only Group of Six team represented in either poll.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "83ebbbf7719e6414",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Broncos Score 109 in Win Over Washington",
         "link": "https://broncosports.com/news/2026/10/17/mens-basketball-broncos-score-109-in-win-over-washington",
         "link_kind": "item",
@@ -786,20 +800,6 @@
         "channel_url": "",
         "source": "Boise State Athletics",
         "id": "79aad497ce15d54f",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "No. 23 Broncos Take Down Fresno State",
-        "link": "https://broncosports.com/news/2026/10/11/football-no-23-broncos-take-down-fresno-state",
-        "link_kind": "item",
-        "date": "2026-10-11T07:55:00+00:00",
-        "summary": "<img alt=\"Dylan Riley Rushing\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/11/DSC01729.JPG\" /><br /><br />Boise State won its fifth consecutive contest. The Broncos have notched a five-game winning streak in two of the three full seasons under Spencer Danielson.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "2a89d77ee9041e53",
         "sport": "football",
         "medium": "text"
       },
@@ -1246,20 +1246,6 @@
         "extent": "59 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Boise State Announces Exhibition Games",
-        "link": "https://broncosports.com/news/2026/9/3/mens-basketball-boise-state-announces-exhibition-games",
-        "link_kind": "item",
-        "date": "2026-09-03T17:00:00+00:00",
-        "summary": "<img alt=\"Aginaldo Neto vs. Idaho at Idaho Central Arena \" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/3/KH_MBBvsIdaho_065.JPG\" /><br /><br />Boise State men's basketball announced its 2026 exhibition games on Thursday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "1ca1900d56f01b86",
-        "sport": "mbb",
-        "medium": "text"
       }
     ],
     "Colorado State": [
@@ -1773,6 +1759,34 @@
     ],
     "Fresno State": [
       {
+        "title": "Fresno State football’s losing streak continues as Aztecs reclaim the Old Oil Can",
+        "link": "https://fscollegian.com/2026/10/fresno-state-footballs-losing-streak-continues-as-aztecs-reclaim-the-old-oil-can/",
+        "link_kind": "item",
+        "date": "2026-10-18T15:00:17+00:00",
+        "summary": "Fresno State fell to San Diego State 26-23 on the road, dropping the Bulldogs to 4-3 overall and 1-2 in Pac-12 play, while San Diego State improved to 3-4 overall and 2-1 in conference play. The Bulldogs continued their first-half struggles this game, falling behind 10-0 in the first quarter. San Diego State banged in...",
+        "author": "Cristian Ceballos, Daily Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "8c1f3f2851de9e56",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Bulldog Stock Market: Who’s rising and falling after San Diego State University?",
+        "link": "https://fscollegian.com/2026/10/bulldog-stock-market-whos-rising-and-falling-after-san-diego-state-university/",
+        "link_kind": "item",
+        "date": "2026-10-18T15:00:17+00:00",
+        "summary": "Fresno State went to San Diego looking to bring the Old Oil Can back to the Valley. Instead, the Bulldogs are coming home empty-handed. Fresno State fell to San Diego State 26-23 last night at Snapdragon Stadium, dropping to 4-3 overall and 1-2 in Pac-12 play. But this one was there for the taking. The...",
+        "author": "Paloma Schuller, Enterprise Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "089f575490667402",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Bulldogs edged by San Diego State on late field goal",
         "link": "https://gobulldogs.com/news/2026/10/17/football-bulldogs-edged-by-san-diego-state-on-late-field-goal",
         "link_kind": "item",
@@ -2110,20 +2124,6 @@
         "medium": "text"
       },
       {
-        "title": "Fresno State Volleyball prepares for upcoming matchup against Boise State",
-        "link": "https://fscollegian.com/2026/10/fresno-state-volleyball-prepares-for-upcoming-matchup-against-boise-state/",
-        "link_kind": "item",
-        "date": "2026-10-09T18:01:28+00:00",
-        "summary": "Fresno State women’s volleyball will return home Saturday to face Boise State, looking to rebound from a five-set loss to Oregon State. The Bulldogs enter the matchup with a 5-10 overall record and are still searching for their first conference win of the season at 0-4 in Pac-12 play. Fresno State has lost four consecutive...",
-        "author": "Ashley Mills, Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "ddcb32554e1bf761",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Danielson says Fresno State 'fanbase is relentless'",
         "link": "https://www.yourcentralvalley.com/sports/danielson-says-fresno-state-fanbase-is-relentless/",
         "link_kind": "item",
@@ -2163,20 +2163,6 @@
         "source": "Fresno State Athletics",
         "id": "8d92b54e78ea7c1c",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "From the Valley to the Treasure Valley",
-        "link": "https://fscollegian.com/2026/10/from-the-valley-to-the-treasure-valley/",
-        "link_kind": "item",
-        "date": "2026-10-08T00:10:16+00:00",
-        "summary": "The Fresno State and Boise State rivalry dates all the way back to 2001. It first became an official NCAA college football rivalry when the Broncos joined the Western Athletic Conference along with the Bulldogs. In their first ever official rivalry game, the Broncos beat the ‘Dogs 35-30 at Bulldog Stadium, which would later be...",
-        "author": "Sam Quintero, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "fec24b7e9b16155d",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -2690,20 +2676,6 @@
         "extent": "16 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Bulldogs announce non conference schedule",
-        "link": "https://gobulldogs.com/news/2026/9/3/womens-basketball-bulldogs-announce-non-conference-schedule",
-        "link_kind": "item",
-        "date": "2026-09-03T20:00:00+00:00",
-        "summary": "<img alt=\"basketball in basket north gym \" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/26-08-06-KL-WBB-Practice-23.JPG\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Fresno State Athletics",
-        "id": "96134dd0ef674183",
-        "sport": "wbb",
-        "medium": "text"
       }
     ],
     "Gonzaga": [
@@ -3368,6 +3340,76 @@
     ],
     "Oregon State": [
       {
+        "title": "10 takeaways from Oregon State’s win over Washington State",
+        "link": "https://www.oregonlive.com/beavers/2026/10/10-takeaways-from-oregon-states-win-over-washington-state.html",
+        "link_kind": "item",
+        "date": "2026-10-18T23:53:40+00:00",
+        "summary": "Takeaways from the latest Beavers win",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "878902578e6afb3f",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Watch: BEAVERS WIN Highlights Over Washington State",
+        "link": "https://osubeavers.com/news/2026/10/18/football-watch-beavers-win-highlights-over-washington-state",
+        "link_kind": "item",
+        "date": "2026-10-18T19:45:00+00:00",
+        "summary": "<img alt=\"WSU game highlights 2\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/18/wsu_2.png\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "c5e8847df17d7e85",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State draws closer to top 25 in polls entering bye week",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-draws-closer-to-top-25-in-polls-entering-bye-week.html",
+        "link_kind": "item",
+        "date": "2026-10-18T19:25:12+00:00",
+        "summary": "The Beavers gained votes in both the AP and coaches polls.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "a880271d100e0756",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Photo Gallery: The Beavs defeat the Cougs",
+        "link": "https://dailybaro.orangemedianetwork.com/33432/daily-barometer-sports/photo-gallery-the-beavs-defeat-the-cougs/",
+        "link_kind": "item",
+        "date": "2026-10-18T18:54:13+00:00",
+        "summary": "&#160; &#160;",
+        "author": "Bryce Powell, Photographer",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "18e9a74f6b966fcb",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Dan Lanning, JaMarcus Shephard address Silver Rail shooting",
+        "link": "https://www.oregonlive.com/ducks/2026/10/oregon-coaches-honor-bend-school-shooting-victims-after-ducks-and-beavers-pick-up-big-wins.html",
+        "link_kind": "item",
+        "date": "2026-10-18T18:30:29+00:00",
+        "summary": "Dan Lanning and JaMarcus Shephard picked up big wins on Saturday. But their thoughts remained with the people of Bend.",
+        "author": "Nik Streng",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "2a1c1cf241bd73d5",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Beavers roll past Washington State, extend winning streak to five",
         "link": "https://dailybaro.orangemedianetwork.com/33424/daily-barometer-sports/daily-barometer-sports-football/beavers-roll-past-washington-state-extend-winning-streak-to-five/",
         "link_kind": "item",
@@ -3900,20 +3942,6 @@
         "medium": "text"
       },
       {
-        "title": "ASOSU Judicial Council discusses Senate proxies, sealed writs",
-        "link": "https://dailybaro.orangemedianetwork.com/33341/daily-barometer-news/asosu-judicial-council-discusses-senate-proxies-sealed-writs/",
-        "link_kind": "item",
-        "date": "2026-10-14T20:37:40+00:00",
-        "summary": "This Monday, the Associated Students of Oregon State University’s Judicial Council met to reach conclusions regarding Senate proxies and sealed writs. The JC, which interprets ASOSU’s statutes and constitution, serves as the student government’s Judicial Branch, making it a vital part of the checks and balances in the system of student representation. The JC met...",
-        "author": "Gabriel Robinson, Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "8e799d46bdbc05cf",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State Football: Defense Meets The Media (Oct. 14, 2026)",
         "link": "https://osubeavers.com/news/2026/10/14/oregon-state-football-defense-meets-the-media-oct-14-2026",
         "link_kind": "item",
@@ -4168,20 +4196,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State Stays Home To Host WSU Saturday At Reser",
-        "link": "https://osubeavers.com/news/2026/10/12/football-oregon-state-stays-home-to-host-wsu-saturday-at-reser",
-        "link_kind": "item",
-        "date": "2026-10-12T16:51:00+00:00",
-        "summary": "<img alt=\"Oregon State vs SDSU\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/12/10102026_FB_San_Diego_State_KnappLogan_SullivanAiden_HickleTakari_4529.jpg\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "7fc1f1f94e3d31f6",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Washington State's offense hits new lows ahead of OSU clash: Sneak peek",
         "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-hosts-struggling-washington-state-in-pac-12-matchup-sneak-peek.html",
         "link_kind": "item",
@@ -4206,34 +4220,6 @@
         "channel_url": "",
         "source": "The Oregonian",
         "id": "1c7f9b117f22f022",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State favored by more than 2 touchdowns against Washington State",
-        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-favored-by-more-than-2-touchdowns-against-washington-state.html",
-        "link_kind": "item",
-        "date": "2026-10-11T18:50:10+00:00",
-        "summary": "Oregon State is favored for a fifth straight game.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "974bb9b19402e548",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State receives votes in polls for first time since 2023",
-        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-receives-votes-in-polls-for-first-time-since-2023.html",
-        "link_kind": "item",
-        "date": "2026-10-11T18:48:34+00:00",
-        "summary": "Oregon State is beginning to draw votes in the national polls.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "70082e95f3d56e2e",
         "sport": "all",
         "medium": "text"
       },
@@ -4353,35 +4339,34 @@
         "extent": "55 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "The 2026 College Football Season Begins",
-        "link": "https://traffic.megaphone.fm/TDSPT3889887996.mp3",
-        "link_kind": "enclosure",
-        "date": "2026-09-03T21:31:00+00:00",
-        "summary": "The Oregon State football program will begin their 2026-2027 campaign on Saturday morning with a road game against the Houston Cougars. After a very long offseason in which JaMarcus Shephard was introduced as the program's latest head coach, what should the expectations be for the Beavers' new season? \n\nYour host Matt Bagley gives his thoughts on Oregon State's potential in the first year of the rebuild. Bagley also makes some predictions for the greater Pac-12 season ahead and who we could see contend for the college football championship at the end of the year. Plus, the return of five games to watch in the Week One slate.\n\nYou'll also hear audio from Shephard's media availability ahead of the Houston game, as the clock ticks toward kickoff. Go Beavs.\n\nMusic by audionautix.com. All music produced by Jason Shaw on AudionautiX is released under Creative Commons Attribution 4.0 International License.",
-        "author": "",
-        "duration": 3371,
-        "channel_url": "https://cms.megaphone.fm/channel/TDSPT5511450634",
-        "source": "State of the Beavs",
-        "id": "5a605eab06b288e7",
-        "extent": "56 min",
-        "sport": "football",
-        "medium": "audio"
       }
     ],
     "San Diego State": [
       {
-        "title": "San Diego State Welcomes The Team Up North in the Battle of the Old Oil Can",
-        "link": "https://goaztecs.com/news/2026/10/17/san-diego-state-set-to-take-on-the-team-up-north-in-the-battle-of-the-old-oil-can-1",
+        "title": "Football v The Team Up North",
+        "link": "https://goaztecs.com/news/2026/10/18/football-v-fresno-state-101826",
         "link_kind": "item",
-        "date": "2026-10-17T19:00:00+00:00",
-        "summary": "The kickoff between the Aztecs (2-4, 1-1 Pac-12) and Bulldogs (4-2, 1-1 Pac-12) is set for 7:30 p.m. PT Saturday at Snapdragon Stadium.",
+        "date": "2026-10-18T06:58:07+00:00",
+        "summary": "17 October 2026: San Diego State football beat Fresno State 26-23 Saturday night at Snapdragon Stadium.",
         "author": "",
         "duration": null,
         "channel_url": "",
         "source": "San Diego State Athletics",
-        "id": "1ce5a5a8bdbdc3a5",
+        "id": "c4e8e8848eb339f1",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Last Minute Field Goal Lifts Aztecs Past Fresno State 26-23",
+        "link": "https://goaztecs.com/news/2026/10/18/last-minute-field-goal-lifts-aztecs-past-fresno-state-26-23",
+        "link_kind": "item",
+        "date": "2026-10-18T06:14:03+00:00",
+        "summary": "SDSU outgained the Bulldogs 384-276 and racked up 204 rushing yards.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "d7d3e185b409bcf4",
         "sport": "football",
         "medium": "text"
       },
@@ -5506,6 +5491,20 @@
     ],
     "Texas State": [
       {
+        "title": "Club sports organizations work towards more awareness, togetherness",
+        "link": "https://universitystar.com/36801/sports/club-sports-organizations-work-towards-more-awareness-togetherness/",
+        "link_kind": "item",
+        "date": "2026-10-18T20:34:33+00:00",
+        "summary": "The athletic community at Texas State University doesn’t just include its sponsored Division I sports programs. Underneath those with an almost job-like commitment to Texas State Athletes, there are others on campus whose passion for sport is met with constraints. On Thursday, Oct. 15 during the Texas State football game against Colorado State, 25 sport...",
+        "author": "Carisa Arellano and Jesykah Resendez",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "5a968149b372bd17",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Bobcats drop third consecutive game, swept by Aztecs",
         "link": "https://universitystar.com/36782/sports/bobcats-drop-third-consecutive-game-swept-by-aztecs/",
         "link_kind": "item",
@@ -5684,20 +5683,6 @@
         "channel_url": "",
         "source": "The University Star",
         "id": "045e013962ad4381",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "World’s game: How TXST went international",
-        "link": "https://universitystar.com/36629/sports/worlds-game-how-txst-went-international/",
-        "link_kind": "item",
-        "date": "2026-10-13T16:30:57+00:00",
-        "summary": "How far would you go to chase your dream? For players such as freshman Nerea Sanchez, junior Helen Alormenu and many others, chasing that dream meant leaving home and starting a new life thousands of miles away in San Marcos, playing collegiate soccer at Texas State. The Bobcats currently roster nine international players from countries...",
-        "author": "Kaden Cuyler, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "bf1745af8b872289",
         "sport": "all",
         "medium": "text"
       },
@@ -6384,6 +6369,48 @@
         "extent": "1h 56m",
         "sport": "all",
         "medium": "audio"
+      },
+      {
+        "title": "WSU Football: Kirby Moore | Oregon State Postgame | 10/17/26",
+        "link": "https://wsucougars.com/news/2026/10/18/wsu-football-kirby-moore-oregon-state-postgame-101726",
+        "link_kind": "item",
+        "date": "2026-10-18T04:21:26+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "95a77852e25aa686",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU Football: Owen Eshelman | Branden Ganashamoorthy | Keith Brown | Oregon St. Postgame | 10/17/26",
+        "link": "https://wsucougars.com/news/2026/10/18/wsu-football-owen-eshelman-branden-ganashamoorthy-keith-brown-oregon-st-postgame-101726",
+        "link_kind": "item",
+        "date": "2026-10-18T04:17:38+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "2ced5796c7bcf41d",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Eshelman, Offense Display Growth in Loss to Oregon State",
+        "link": "https://wsucougars.com/news/2026/10/18/eshelman-offense-display-growth-in-loss-to-oregon-state",
+        "link_kind": "item",
+        "date": "2026-10-18T02:39:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "269df4f996df9ca3",
+        "sport": "football",
+        "medium": "text"
       },
       {
         "title": "Owen Eshelman stands out, but WSU football falls to high-flying Oregon State",
