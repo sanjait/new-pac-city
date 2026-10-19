@@ -18039,6 +18039,174 @@
         "James Crepea"
       ],
       "run": "run_2026-10-19-0141"
+    },
+    "12cd7e2d7f216287": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Profiles San Jose State quarterback Daniel Rolovich in a win over UTEP; neither school is among the nine covered.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-19-1340"
+    },
+    "1b117ba03891e2e9": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers a fatal rappelling accident at a UTSA-Navy football game; neither school is among the nine covered, and the text makes no connection to Washington State despite the feed assignment.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "The Associated Press"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-19-1340"
+    },
+    "2ec5e37bde66e69c": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Washington State men's basketball's exhibition loss to New Mexico.",
+      "evidence_basis": "title+full-text",
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-19-1340"
+    },
+    "386a5e988340c8b1": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A recurring history feature recalls a Fresno State-San Diego State football game decided on a leaping defensive play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-19-1340"
+    },
+    "59eb24704cd3fc3f": {
+      "subjects": {
+        "texas-state/football": "about",
+        "colorado-state/football": "about",
+        "oregon-state/football": "about",
+        "washington-state/football": "about",
+        "san-diego-state/football": "about",
+        "fresno-state/football": "about",
+        "conference": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recaps of three Pac-12 games (Texas State-Colorado State, Oregon State-Washington State, San Diego State-Fresno State) plus conference standings.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-10-19-1340"
+    },
+    "83f89387130e8a32": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Argues which coaching decisions cost WSU its loss to Oregon State, with real treatment of OSU's offensive performance.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-19-1340"
+    },
+    "890f70c2820e6648": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Boise State's rise in the AFCA and AP football polls is the subject.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-19-1340"
+    },
+    "97ac68d50e37faa0": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Recaps five Mountain West games (Wyoming-NIU, Air Force-UNLV, Nevada-North Dakota State, San Jose State-UTEP, Hawaii-New Mexico), none involving a covered program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "13 min read",
+      "run": "run_2026-10-19-1340"
+    },
+    "b32f49b9870cab33": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "An opinion column about OSU library budget cuts and tuition increases, with no mention of Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Danielle Amacher"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-19-1340"
+    },
+    "b33c61b3d2dacf6f": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "involves",
+        "san-diego-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A weekly roundup giving real treatment to Oregon State's win over Washington State and San Diego State's win over Fresno State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-19-1340"
+    },
+    "e86059d6eb8ca075": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "san-diego-state/football": "involves",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A former Fresno State player discusses the team's loss to San Diego State and its upcoming game against Oregon State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-19-1340"
     }
   },
   "runs": {
@@ -20836,6 +21004,31 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 16.25341310002841,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-19-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-19T13:39:27.234345+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "drop": 4,
+        "publish": 7
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2,
+        "The Seattle Times": 1,
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 24.137411699979566,
       "tokens": null,
       "tokens_source": null
     }
