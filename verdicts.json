@@ -18207,6 +18207,260 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-10-19-1340"
+    },
+    "09bf1c27736e5b01": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about",
+        "washington-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps a five-set Fresno State volleyball win over Washington State with set-by-set detail on both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-20-0141"
+    },
+    "0dea164d6c9152c8": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "An opinion column arguing that Utah State's football offense has serious problems, with brief statistical asides on other teams that are incidental.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "32 min read",
+      "run": "run_2026-10-20-0141"
+    },
+    "3073bcd7c669f378": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A campus political-protest story about Oregon State students and Corvallis residents; nothing concerns Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Samson Naleway"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-20-0141"
+    },
+    "3d015124b1bc18b8": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Cougar hockey (ACHA, Pac-8)",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Covers WSU's club ACHA hockey team, a program not in Washington State's covered row.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-20-0141"
+    },
+    "3e7c42c7d3353235": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about",
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Breaks down the NBA roster situation of every former Gonzaga and Washington State player, which is athletics coverage of each program's alumni.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "9 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-20-0141"
+    },
+    "47aa3b202baf1d6a": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Gonzaga's preseason AP poll debut and ranking history; a one-line aside about Utah State receiving a vote is incidental.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-20-0141"
+    },
+    "4f0eb123f355a7fe": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps WSU's loss to Oregon State with substantial game detail on both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "KellerRay Hutsell Zandell"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-20-0141"
+    },
+    "5c674e540dbb47ec": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Profiles an SDSU receiver's breakout performance in the SDSU-Fresno State rivalry game, with Fresno State as the opponent given real game detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tyler Bowne"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-20-0141"
+    },
+    "7a68264dbb0ff263": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "An FCS Top 25 ballot covering only FCS programs outside the nine schools; none of the nine appear as subject or substantial figure.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "13 min read",
+      "lock": "free",
+      "run": "run_2026-10-20-0141"
+    },
+    "7b912b2d0a59e57d": {
+      "subjects": {
+        "boise-state/womens-volleyball": "about",
+        "washington-state/womens-volleyball": "involves",
+        "gonzaga/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State volleyball's back-to-back losses to Washington State and Gonzaga with set-by-set detail on both opponents.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jarrett Lorenz"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-20-0141"
+    },
+    "8bb4ddd304ea0f96": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "fresno-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps WSU volleyball's five-set loss to Fresno State with set-by-set detail on both teams; a standings aside about Boise State and Gonzaga is incidental.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-20-0141"
+    },
+    "ba8de22e82d53036": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps SDSU's win over Fresno State with game detail on both teams' performances.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Connor Larson"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-20-0141"
+    },
+    "c5853ba37fd987eb": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A column arguing against firing Washington State's football coach amid the team's struggles.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-10-20-0141"
+    },
+    "d07b0e7be3b72c32": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports WSU football injury news and quarterback-competition notes; the upcoming Boise State opponent is named only in passing.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-20-0141"
+    },
+    "d0c4c2bb94962a3c": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A game preview of WSU hosting Boise State, scouting both teams ahead of the matchup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-20-0141"
+    },
+    "f4cae453947f7cba": {
+      "subjects": {
+        "boise-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps a Boise State men's basketball exhibition win with a non-covered Big Ten opponent appearing only as the game's other side.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-20-0141"
     }
   },
   "runs": {
@@ -21029,6 +21283,38 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 24.137411699979566,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-20-0141": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-20T01:39:29.692852+00:00",
+      "items": 16,
+      "verdict_counts": {
+        "publish": 13,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "The Daily Evergreen": 1,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "3d015124b1bc18b8",
+          "source": "The Daily Evergreen",
+          "phrase": "Cougar hockey (ACHA, Pac-8)",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 38.73958080000011,
       "tokens": null,
       "tokens_source": null
     }
