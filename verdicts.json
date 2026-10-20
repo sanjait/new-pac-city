@@ -18461,6 +18461,106 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-10-20-0141"
+    },
+    "02ee7cb3aaa5f325": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Colorado State appears only as a one-sentence recruiting-offer count inside a conference-wide roundup with no team-specific detail.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The offer-count line for Colorado State is a specific stat, so mentions versus involves is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-20-1340"
+    },
+    "038f3b078b92619c": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece is entirely about Washington State's injury situation ahead of this weekend's game against Boise State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-20-1340"
+    },
+    "396a2ebf94645374": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Every team in this Mountain West power ranking — New Mexico, North Dakota State, Air Force, UNLV, Wyoming, San Jose State, Hawaii, Nevada, UTEP, and Northern Illinois — is outside the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-20-1340"
+    },
+    "7175461c4bf9b2b3": {
+      "subjects": {
+        "texas-state/football": "about",
+        "oregon-state/football": "about",
+        "washington-state/football": "about",
+        "san-diego-state/football": "about",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Dedicated Player-of-the-Week entries cover Texas State, Oregon State, Washington State, and San Diego State athletes, with Colorado State and Fresno State named as the opponents in those games.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-20-1340"
+    },
+    "8b1a8db275ecd83b": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "colorado-state/football": "about",
+        "fresno-state/football": "about",
+        "san-diego-state/football": "about",
+        "boise-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Eight of the nine schools (all but football-less Gonzaga) each get a dedicated paragraph recapping their game, so conference is added alongside them.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-20-1340"
+    },
+    "b985750ba13c7472": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Every honored player and team — Air Force, UNLV, Wyoming, Northern Illinois, North Dakota State, Nevada, San Jose State, UTEP, New Mexico, and Hawaii — is outside the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-20-1340"
     }
   },
   "runs": {
@@ -21315,6 +21415,29 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 38.73958080000011,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-20-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-20T13:38:45.261425+00:00",
+      "items": 6,
+      "verdict_counts": {
+        "drop": 3,
+        "publish": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 10.93027000001166,
       "tokens": null,
       "tokens_source": null
     }
