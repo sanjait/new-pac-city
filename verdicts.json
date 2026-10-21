@@ -18561,6 +18561,251 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-10-20-1340"
+    },
+    "182d5ba11ba63c4c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is explicitly about a Washington State club hockey player, and hockey is not in the program registry.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "184e7e3ed9fd70bd": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "about",
+        "washington-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "This Pac-12 midseason awards column gives dedicated treatment to most of the nine schools' football programs across its award categories.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Several schools appear only in brief 'also considered' lines, making the about/involves/mentions line for Texas State and Fresno State close; Fresno State's mentions were judged too thin to include.",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-21-0141"
+    },
+    "20372cfb044c9467": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about",
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article is about the eligibility of Gonzaga men's and women's basketball players following a court injunction.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-21-0141"
+    },
+    "408688d8340dedac": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is directly about Fresno State men's basketball's television schedule for its debut Pac-12 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "5a32625e554c8ee1": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature profiles SDSU football kicker Cooper DiLeva's path to the starting job.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Iain Henderson"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "637126d944d0f03f": {
+      "subjects": {
+        "texas-state/football": "about",
+        "utah-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews the Texas State-Utah State football matchup with detailed statistical breakdowns of both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "65ea0201f6645468": {
+      "subjects": {
+        "san-diego-state/volleyball": "about",
+        "texas-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story recaps an SDSU volleyball sweep of Texas State, with Texas State's defense and performance also discussed in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Joel Gaitan"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "7d670e041da0ad28": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is framed around and extensively recounts Paul George's Fresno State basketball career as the backdrop to his NBA debut.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "928b0c42e69b40f6": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "This Mountain West link roundup gives substantive separate treatment to Oregon State football's surprise season and Utah State's offensive struggles.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The roundup format and brief per-team paragraphs make the involves-vs-mentions line close for each team discussed.",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "b36c9887a57b6acb": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews WSU women's basketball's upcoming season and conference schedule.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Talyn Bell"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "b96108b6e394ef5f": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The feature is about three incoming SDSU women's basketball freshmen ahead of the new season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tyler Ross"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "b9709044c1a4b860": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "powerlifting club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is explicitly about Texas State's powerlifting club, a club sport not in the program registry.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Lucas Castillo"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "d8ba11eab818b921": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is campus news about OSU's sexual misconduct reporting process, with no athletics content.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Michaela Bauer"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-21-0141"
+    },
+    "f0458731419dd7e2": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece analyzes WSU QB Owen Eshelman's first start in the loss to Oregon State and previews the upcoming Boise State game.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Boise State appears only as the framing for an upcoming game rather than a game already covered, making involves versus mentions close.",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-21-0141"
+    },
+    "fb45013ae2e76fe4": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is about a Halloween-themed natural history museum event, with no athletics content.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kit Kron"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-21-0141"
     }
   },
   "runs": {
@@ -21438,6 +21683,44 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 10.93027000001166,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-21-0141": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-21T01:39:16.329216+00:00",
+      "items": 15,
+      "verdict_counts": {
+        "drop": 4,
+        "publish": 11
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 1,
+        "The University Star": 1,
+        "The Daily Barometer": 2
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "182d5ba11ba63c4c",
+          "source": "The Daily Evergreen",
+          "phrase": "hockey",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "b9709044c1a4b860",
+          "source": "The University Star",
+          "phrase": "powerlifting club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 32.06752140005119,
       "tokens": null,
       "tokens_source": null
     }
