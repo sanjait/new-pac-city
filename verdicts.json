@@ -18806,6 +18806,107 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-10-21-0141"
+    },
+    "1babf4154683ef5f": {
+      "subjects": {
+        "oregon-state": "about",
+        "texas-state": "about",
+        "colorado-state": "about",
+        "san-diego-state": "about",
+        "fresno-state": "about",
+        "washington-state": "involves",
+        "boise-state": "involves",
+        "conference": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A weekly roundup giving Oregon State, Texas State, Colorado State, San Diego State and Fresno State their own subject paragraphs, with most of the nine schools appearing.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-21-1340"
+    },
+    "39725cc6db5ce898": {
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Entirely about New Mexico's defense ahead of its North Dakota State game, neither a covered program.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-21-1340"
+    },
+    "57ebee8accfd264e": {
+      "subjects": {
+        "washington-state": "about",
+        "oregon-state": "involves",
+        "boise-state": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full analysis of WSU quarterback Owen Eshelman's start against Oregon State, with the upcoming Boise State matchup discussed in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-21-1340"
+    },
+    "a56ef53def156032": {
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "A recap of New Mexico's win over Hawai'i and preview of North Dakota State, neither a covered program.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-21-1340"
+    },
+    "e25b3b65aa4b26e2": {
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Podcast description covers Mountain West games and a generic 'PAC-12 Lightning Round' without naming any specific covered program.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-21-1340"
+    },
+    "e4602d8f45cb7861": {
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A fan-survey post with a generic 'best case to be ranked' prompt and no specific team or program named in the text.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-21-1340"
     }
   },
   "runs": {
@@ -21721,6 +21822,42 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 32.06752140005119,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-21-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-21T13:38:54.477869+00:00",
+      "items": 6,
+      "verdict_counts": {
+        "publish": 2,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 4
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "39725cc6db5ce898",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        },
+        {
+          "id": "a56ef53def156032",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 11.046025600051507,
       "tokens": null,
       "tokens_source": null
     }
