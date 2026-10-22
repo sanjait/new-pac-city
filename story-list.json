@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-10-21T13:03:20.869240+00:00",
+  "generated_at": "2026-10-22T01:03:44.124544+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "This Week in Pac-12 Football - Week 8",
+        "link": "http://pac-12.com/news/2026/10/21/this-week-in-pac-12-football-week-8.aspx",
+        "link_kind": "item",
+        "date": "2026-10-21T16:30:00+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/This_week_in_v2.png\" /><br /><br />This Week in Pac-12 Football - Week 8 of the 2026 season",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "fb74ebed3e08180c",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Mountaintop View 10-21-26: Lobos vs NDSU, Nevada new logos",
+        "link": "https://www.mwcconnection.com/mountain-west-athletics/94566/mountaintop-view-10-21-26-lobos-vs-ndsu-nevada-new-logos",
+        "link_kind": "item",
+        "date": "2026-10-21T13:00:00+00:00",
+        "summary": "MWC Week 8 football preview A whip around the conference to get you set for week 8. Boise State visits Wazzu with much at stake The Broncos look to keep the momentum rolling. Lobos-Bison Preview Perhaps the biggest G6 matchup of the weekend. Nevada has new logos A pair of Texas State players honored On [&#8230;]",
+        "author": "Adam Evarts",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "8f12cc50e33c405c",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Ahead of NDSU, What Does New Mexico’s Defense Look Like Without Jaxton Eck?",
         "link": "https://www.mwcconnection.com/new-mexico-lobos-football/94543/ahead-of-ndsu-what-does-new-mexicos-defense-look-like-without-jaxton-eck",
@@ -168,20 +196,6 @@
         "source": "Mountain West Connection",
         "id": "8b1a8db275ecd83b",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountain West Connection Football: Week 7 Players of the Week",
-        "link": "https://www.mwcconnection.com/mountain-west-football/94484/mountain-west-connection-football-week-7-players-of-the-week",
-        "link_kind": "item",
-        "date": "2026-10-19T15:00:00+00:00",
-        "summary": "Week 7 brought another wild weekend of Mountain West football, with explosive rushing performances, a record-setting defensive effort and one of the strangest special-teams plays of the season. Air Force continued its rise as a conference contender by defeating UNLV 41-31, while Wyoming erupted for 41 points against Northern Illinois. North Dakota State bounced back [&#8230;]",
-        "author": "Dominic Gutierrez",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "b985750ba13c7472",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -381,20 +395,6 @@
         "medium": "text"
       },
       {
-        "title": "Pac-12 Unveils 2026-27 Men's Basketball Schedule",
-        "link": "http://pac-12.com/news/2026/9/30/pac-12-unveils-2026-27-mens-basketball-schedule.aspx",
-        "link_kind": "item",
-        "date": "2026-09-30T09:57:00+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/30/Pac12_BBall_Intro_Announcement_WebCover_16x9_v3.png\" /><br /><br />The Pac-12 today announced its 2026-27 men’s basketball conference schedule, officially setting the stage for the first season of the league’s next era.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "91370f2d49352337",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Tuesday: What Should Be The Identity of The New Pac-12 Conference?",
         "link": "https://pressbreak.substack.com/p/pac-12-tuesday-what-should-be-the",
         "link_kind": "item",
@@ -550,6 +550,90 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "NFL Broncos: Week Seven",
+        "link": "https://broncosports.com/news/2026/10/21/football-nfl-broncos-week-seven",
+        "link_kind": "item",
+        "date": "2026-10-21T22:00:00+00:00",
+        "summary": "<img alt=\"NFL Broncos Week Six webslider\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/20/FB26_Broncos_In_NFL_W7.jpg\" /><br /><br />Boise State represented in five Sunday games",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "aba9f0b1c4c9b082",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Danielson Tabbed to Bear Bryant Award Midseason Watch List",
+        "link": "https://broncosports.com/news/2026/10/21/football-danielson-tabbed-to-bear-bryant-award-midseason-watch-list",
+        "link_kind": "item",
+        "date": "2026-10-21T20:00:00+00:00",
+        "summary": "<img alt=\"Danielson Action\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/21/KH_FBvsUSU_084__1_.jpg\" /><br /><br />Danielson is the only Pac-12 coach that earned the midseason recognition.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "fe76193a81c553ec",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Boise State Women's Basketball Single-Game Tickets on Sale",
+        "link": "https://broncosports.com/news/2026/10/21/boise-state-womens-basketball-single-game-tickets-on-sale",
+        "link_kind": "item",
+        "date": "2026-10-21T18:00:00+00:00",
+        "summary": "<img alt=\"WBB Single-Game Tickets graphic featuring Morgan Maldonado\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/20/WBB26_Single_Game_Tickets_Web.jpg\" /><br /><br />Single-game tickets for the upcoming Boise State women's basketball season are now on sale.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "b077952564a4e162",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Madsen Tabbed Semifinalist for Witten Collegiate Man of the Year",
+        "link": "https://broncosports.com/news/2026/10/21/football-madsen-tabbed-semifinalist-for-witten-collegiate-man-of-the-year",
+        "link_kind": "item",
+        "date": "2026-10-21T17:00:00+00:00",
+        "summary": "<img alt=\"Maddux Madsen carrying Dan Paul Hammer\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/20/cropped_KH_FBvsFresno_055.jpg\" /><br /><br />Fifth year quarterback recognized for exemplary leadership on and off the field",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "99e36aa9e09a93df",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Boise State Single-Game Nonconference Tickets on Sale",
+        "link": "https://broncosports.com/news/2026/10/21/mens-basketball-boise-state-single-game-nonconference-tickets-on-sale",
+        "link_kind": "item",
+        "date": "2026-10-21T17:00:00+00:00",
+        "summary": "<img alt=\"ExtraMile Arena Fans\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/25/112525_ExtraMile_Arena.jpg\" /><br /><br />Single-game tickets for Boise State's home nonconference slate are currently on sale to the public and are available to purchase.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "b88d1773e1b80887",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Madsen Selected as Finalist for Campbell Trophy",
+        "link": "https://broncosports.com/news/2026/10/21/football-madsen-selected-as-finalist-for-campbell-trophy",
+        "link_kind": "item",
+        "date": "2026-10-21T16:00:00+00:00",
+        "summary": "<img alt=\"Maddux Madsen dropping back to pass\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/20/cropped_DSC03933.jpg\" /><br /><br />Award is presented to nation's premier scholar-athlete",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "0ce8d896926e191a",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Women’s volleyball faces two conference losses in three days",
         "link": "https://www.arbiteronline.com/2026/10/19/womens-volleyball-faces-two-conference-losses-in-three-days/",
@@ -719,34 +803,6 @@
         "medium": "text"
       },
       {
-        "title": "Boise State to Unveil Bronze Statue Honoring Kellen Moore on October 31",
-        "link": "https://broncosports.com/news/2026/10/14/football-boise-state-to-unveil-bronze-statue-honoring-kellen-moore-on-october-31",
-        "link_kind": "item",
-        "date": "2026-10-14T22:11:00+00:00",
-        "summary": "<img alt=\"Statue to Honor Kellen Moore\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/30/KellenWebsliderFINAL.jpg\" /><br /><br />Exact time will be announced soon",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "5f89949ce3a0a6b0",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Offensive Line Earns Spot on Joe Moore Award Midseason Honor Roll",
-        "link": "https://broncosports.com/news/2026/10/14/football-boise-state-offensive-line-earns-spot-on-joe-moore-award-midseason-honor-roll",
-        "link_kind": "item",
-        "date": "2026-10-14T21:45:00+00:00",
-        "summary": "<img alt=\"Boise State Offensive Line at Fresno State, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/cropped_KH_FBvsFresno_170.jpg\" /><br /><br />Award is presented annually to nation's most outstanding offensive line unit",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "3143f3e4a0dd16a6",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Boise State Scheduled to Play 22 Televised Games",
         "link": "https://broncosports.com/news/2026/10/14/mens-basketball-boise-state-scheduled-to-play-22-televised-games",
         "link_kind": "item",
@@ -788,34 +844,6 @@
         "extent": "19 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Danielson Named to Dodd Trophy Midseason Watch List",
-        "link": "https://broncosports.com/news/2026/10/13/football-danielson-named-to-dodd-trophy-midseason-watch-list",
-        "link_kind": "item",
-        "date": "2026-10-13T19:00:00+00:00",
-        "summary": "<img alt=\"Danielson Action\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/13/KH_FBvsFresno_160.jpg\" /><br /><br />Danielson is the only Pac-12 coach recognized on the list.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "25d13255e2c87b02",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Remains No. 23 in AP Poll, Enters Coaches Poll at No. 24",
-        "link": "https://broncosports.com/news/2026/10/11/football-boise-state-remains-no-23-in-ap-poll-enters-coaches-poll-at-no-24",
-        "link_kind": "item",
-        "date": "2026-10-11T19:02:00+00:00",
-        "summary": "<img alt=\"Boise State Football 2026 Game 6 vs Fresno State at Valley Children’s Stadium. Photo by Kenna Harbison\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/11/KH_FBvsFresno_223.jpg\" /><br /><br />Broncos ranked in both polls for first time since 2025 preseason",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "79aad497ce15d54f",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "Got Milk? Broncos bring Milk Can trophy back to The Blue in statement victory",
@@ -1222,6 +1250,49 @@
     ],
     "Colorado State": [
       {
+        "title": "Colorado State Insider Podcast with Brian Roth -- Season 10, Episode 11",
+        "link": "https://csurams.com/news/2026/10/21/football-colorado-state-insider-podcast-with-brian-roth-season-10-episode-11",
+        "link_kind": "item",
+        "date": "2026-10-21T22:05:00+00:00",
+        "summary": "<img alt=\"CSU Insider Podcast\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2023/8/23/RamWire_Insider_2.png\" /><br /><br />The Colorado State Insider Podcast looks back at the Texas State game with Rams Radio analyst Marty Lenz and previews Saturday's match-up with San Diego State. Plus, Aztecs radio voice John Schaeffer joins the show, along with a look around Colorado State Athletics.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "bd0d9cdda7044aa3",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Prepared for the Moment",
+        "link": "https://csurams.com/news/2026/10/21/football-prepared-for-the-moment",
+        "link_kind": "item",
+        "date": "2026-10-21T19:00:00+00:00",
+        "summary": "<img alt=\"Kenny McClendon\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/20/McClendon.jpg\" /><br /><br />McClendon settles into his role leading defense",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "6126f56207198b1a",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "CSU Insider | Texas State Recap & San Diego State Preview | October 21, 2026",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/7c059871-0f97-48c7-b42e-d986296c35ee.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-10-21T06:00:00+00:00",
+        "summary": "<p>(S10, E11) This week on the Colorado State Insider Podcast, we start with a look around Colorado State Athletics, catching up on the latest news and results from Rams teams. Then, Rams Radio analyst Marty Lenz joins Brian to look back at the Texas State loss to break down what we saw from the Rams.</p><p>Plus, John Schaeffer, the radio voice of the San Diego State Aztecs, joins the podcast for an inside look at San Diego State and what Colorado State can expect in Saturday’s matchup at Canvas Stadium.</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3555,
+        "channel_url": "https://art19.com/shows/the-colorado-state-insider",
+        "source": "The Colorado State Insider",
+        "id": "e4cb3f54837540cd",
+        "extent": "59 min",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
         "title": "Game Week: vs. San Diego State",
         "link": "https://csurams.com/news/2026/10/20/football-game-week-vs-san-diego-state",
         "link_kind": "item",
@@ -1373,34 +1444,6 @@
         "channel_url": "",
         "source": "Colorado State Athletics",
         "id": "a8448a6e9ca21a35",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Colorado State Insider Podcast with Brian Roth -- Season 10, Episode 10",
-        "link": "https://csurams.com/news/2026/10/13/football-colorado-state-insider-podcast-with-brian-roth-season-10-episode-10",
-        "link_kind": "item",
-        "date": "2026-10-13T21:28:00+00:00",
-        "summary": "<img alt=\"CSU Insider Podcast\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2023/8/23/RamWire_Insider_2.png\" /><br /><br />The Colorado State Insider Podcast previews Thursday night's match-up with Texas State as Bobcats radio voice Cameron Parker joins the show. Plus, we look back at the week that was for CSU volleyball and women's soccer.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "44135256a450d08d",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Memorable Moments: Raising The Trophy 15 Times",
-        "link": "https://csurams.com/news/2026/10/13/football-memorable-moments-raising-the-trophy-15-times",
-        "link_kind": "item",
-        "date": "2026-10-13T21:00:00+00:00",
-        "summary": "<img alt=\"Memorable Moments: Week 6\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/HUipcnlaoAA1WlD.jpg\" /><br /><br />The program has doubled up on five occasions",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "452c392ba28a4b5a",
         "sport": "football",
         "medium": "text"
       },
@@ -2520,20 +2563,6 @@
         "medium": "audio"
       },
       {
-        "title": "Murf Gray named Pirates 2026 Minor League Player of the Year",
-        "link": "https://www.yourcentralvalley.com/bulldog-sports/murf-gray-named-pirates-2026-minor-league-player-of-the-year/",
-        "link_kind": "item",
-        "date": "2026-09-23T05:00:58+00:00",
-        "summary": "Madera native and former Diamond 'Dog Murf Gray has been named the Pittsburgh Pirates' Minor League Player of the Year by Baseball America. Murf batted .305 with 32 home runs across three levels of minor league ball this season. He got his start in Single-A in Bradenton, and eventually worked his way up to Double-AA [...]",
-        "author": "Angelique Martinez",
-        "duration": null,
-        "channel_url": "",
-        "source": "YourCentralValley",
-        "id": "cf7f7ba9bb30a0f0",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Fresno State Men’s Basketball announces 2026-27 non-conference schedule",
         "link": "https://gobulldogs.com/news/2026/9/21/mens-basketball-fresno-state-mens-basketball-announces-2026-27-non-conference-schedule",
         "link_kind": "item",
@@ -3311,6 +3340,91 @@
     ],
     "Oregon State": [
       {
+        "title": "Questions Following Oregon State Football's 5-2 Start To 2026",
+        "link": "https://traffic.megaphone.fm/TDSPT8131394355.mp3",
+        "link_kind": "enclosure",
+        "date": "2026-10-21T21:28:00+00:00",
+        "summary": "Oregon State are one win away from reaching bowl eligibility in JaMarcus Shephard's first season as head coach after a 48-30 victory against the Washington State Cougars. Of course, we dive into a recap of the action from that contest as Jesse Legree, AJ Newberry, and the rest of the Beavers continue to spearhead a monumental turnaround. Hear audio from Takari Hickle and Trey Glasper about that result.\n\nHowever, it's also important to note that after the contest, Shephard was quick to offer condolences to the families of the victims of last weeks' tragic shooting in Bend at Silver Rail Elementary.  Hear Shephard's comments, and why they matter to the state and the college football community at-large.\n\nAfter that, your host Matt Bagley dives into three questions that have arisen in our minds about the Beavers' season following the hot start.\n\nAll that, and the five college football games you should watch this week as the Beavers get a bye week to prepare for a road matchup with Fresno State to close the month of October. Go Beavs. \n\nMusic by audionautix.com. All music produced by Jason Shaw on AudionautiX is released under Creative Commons Attribution 4.0 International License.",
+        "author": "",
+        "duration": 2414,
+        "channel_url": "https://cms.megaphone.fm/channel/TDSPT5511450634",
+        "source": "State of the Beavs",
+        "id": "7bba6b3a1b301331",
+        "extent": "40 min",
+        "sport": "football",
+        "medium": "audio"
+      },
+      {
+        "title": "Oregon State Men's Basketball Media Day",
+        "link": "https://osubeavers.com/news/2026/10/21/oregon-state-mens-basketball-media-day",
+        "link_kind": "item",
+        "date": "2026-10-21T19:56:00+00:00",
+        "summary": "<img alt=\"Media Day Cover\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/21/Media_Day_Cover.png\" /><br /><br />Head Coach Justin Joyner:",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "de5ceabf8de23822",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Beavs best DII opponent in fall exhibition game",
+        "link": "https://dailybaro.orangemedianetwork.com/33482/daily-barometer-sports/daily-barometer-sports-softball/beavs-best-dii-opponent-in-fall-exhibition-game/",
+        "link_kind": "item",
+        "date": "2026-10-21T19:52:45+00:00",
+        "summary": "In the third game of five scheduled fall ball games, the Oregon State Beavers softball team faced their toughest opponent of the bunch, Division II Western Oregon University at Kelly Field on Tuesday. While the score was not officially kept, the final was 13-3 in favor of the Beavs, with the majority of their runs...",
+        "author": "Aiden Kiichle, Sports Writer",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "55857c4538a28bd9",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Plank Named to Silver Waves Media Top 100 Assistants",
+        "link": "https://osubeavers.com/news/2026/10/21/mens-basketball-plank-named-to-silver-waves-media-top-100-assistants",
+        "link_kind": "item",
+        "date": "2026-10-21T18:00:00+00:00",
+        "summary": "<img alt=\"Men's Basketball\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2022/4/13/22MBB_Nicholls_Ball_029.jpg\" /><br /><br />CORVALLIS  – Oregon State associate head coach Michael Plank has been named to the Silver Waves Media Top 100 Most Influential/Impactful Assistant Coaches, the organization announced this week.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "e83f919dc878c7bc",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "ASOSU Student Advisory Board votes in favor of updated bylaws",
+        "link": "https://dailybaro.orangemedianetwork.com/33480/daily-barometer-news/asosu-student-advisory-board-votes-in-favor-of-updated-bylaws/",
+        "link_kind": "item",
+        "date": "2026-10-21T17:36:16+00:00",
+        "summary": "The Student Advisory Board of Associated Students of Oregon State University voted unanimously to approve amended bylaws at a meeting on Oct. 15. The Board met to discuss a set of bylaws proposed to the SAB of ASOSU by Senior Student Government Advisor Keri Simonet. ASOSU President Christina Young-Valdovinos made a motion to have a...",
+        "author": "Michaela Bauer, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "6d352d9a788a6517",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Can OSU basketball follow football's path to a comeback?",
+        "link": "https://www.oregonlive.com/beavers/2026/10/if-football-can-do-it-why-cant-basketball-oregon-state-mens-hoops-eyes-resurgence-under-coach-justin-joyner.html",
+        "link_kind": "item",
+        "date": "2026-10-21T16:26:47+00:00",
+        "summary": "New OSU men's basketball coach Justin Joyner is rebuilding the Beavers with transfers, blending lessons from Michigan and Saint Mary's to forge a competitive team.",
+        "author": "Scott Sepich",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "02bdbc5b9afb20f3",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Night at the Museum will bring a Halloween twist to natural history",
         "link": "https://dailybaro.orangemedianetwork.com/33478/daily-barometer-news/night-at-the-museum-will-bring-a-halloween-twist-to-natural-history/",
         "link_kind": "item",
@@ -3844,34 +3958,6 @@
         "medium": "text"
       },
       {
-        "title": "OSU-Cascades campus to be closed following elementary school shooting",
-        "link": "https://dailybaro.orangemedianetwork.com/33401/daily-barometer-news/osu-cascades-campus-to-be-closed-following-elementary-school-shooting/",
-        "link_kind": "item",
-        "date": "2026-10-16T03:29:24+00:00",
-        "summary": "The Oregon State University Cascades campus announced a closure for Friday following a shooting Thursday afternoon at a Bend elementary school. “Recognizing members of our community who are coping with loss or need to be with their families during this time, we will close the OSU-Cascades campus tomorrow, Friday, with the exception of those designated...",
-        "author": "Jenna Benson, Editor-in-Chief",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "3ade1060a6e7e145",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Out of this world: Astronaut visits campus for voter turnout event",
-        "link": "https://dailybaro.orangemedianetwork.com/33398/daily-barometer-news/out-of-this-world-astronaut-visits-campus-for-voter-turnout-event/",
-        "link_kind": "item",
-        "date": "2026-10-15T23:30:01+00:00",
-        "summary": "Register, get your ballot and vote. This was the message Captain Wendy Lawrence, a retired astronaut and Navy pilot, brought to students at Oregon State University Monday night.  The event, organized by the Voter Turnout Club, was meant to drive voter registration and increase turnout for the United States midterm elections on Nov. 3. “(Voting)...",
-        "author": "Samson Naleway, Copy Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "2d3c294fd950078e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State's Eric Olsen ran sprints on his honeymoon",
         "link": "https://www.oregonlive.com/beavers/2026/10/eric-olsen-went-to-mexico-for-his-honeymoon-and-still-ran-sprints-to-be-prepared-to-play-for-oregon-state.html",
         "link_kind": "item",
@@ -3942,20 +4028,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State denies Heyward's buyout, defamation claims",
-        "link": "https://www.oregonlive.com/beavers/2026/10/osu-denies-keith-heywards-claims-in-ongoing-legal-dispute.html",
-        "link_kind": "item",
-        "date": "2026-10-14T22:27:26+00:00",
-        "summary": "OSU denied Heyward's breach of contract and defamation claims, asserting he owes a $50,000 buyout after leaving to coach at Cal.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "24f06f384eaf533f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State Selected To Joe Moore Award Watch List",
         "link": "https://osubeavers.com/news/2026/10/14/football-oregon-state-selected-to-joe-moore-award-watch-list",
         "link_kind": "item",
@@ -3967,20 +4039,6 @@
         "source": "Oregon State Athletics",
         "id": "2698f858119e1160",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State’s defense is quietly doing something remarkable this season",
-        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-states-defense-is-quietly-doing-something-remarkable-this-season.html",
-        "link_kind": "item",
-        "date": "2026-10-14T20:44:58+00:00",
-        "summary": "The Beavers are allowing 50 fewer yards and seven fewer points per game than last season, with coordinator Mike MacIntyre drawing credit for the turnaround.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "fa32bc6e65f10399",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -4009,20 +4067,6 @@
         "source": "Oregon State Athletics",
         "id": "ea121fd513f9afab",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State basketball's TV schedule is out — here's when and where to watch the Beavers this season",
-        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-basketball-game-times-broadcast-info-announced.html",
-        "link_kind": "item",
-        "date": "2026-10-14T18:00:00+00:00",
-        "summary": "Oregon State men's basketball has released game times and broadcast details, with 22 games on linear TV and most early home games tipping off at 6:30 p.m.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "087f24f728301d0d",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -4201,6 +4245,34 @@
       }
     ],
     "San Diego State": [
+      {
+        "title": "How women’s soccer’s Kailey Carlen rose from freshman starter to sophomore leader",
+        "link": "https://thedailyaztec.com/129504/sports/how-womens-soccers-kailey-carlen-rose-from-freshman-starter-to-sophomore-leader/",
+        "link_kind": "item",
+        "date": "2026-10-21T20:17:06+00:00",
+        "summary": "Kailey Carlen arrived at San Diego State determined to prove herself. As a true freshman in 2025, she started all 20 matches, played every minute of the season and recorded seven shutouts.  Now, as a sophomore, Carlen earned the trust of her upperclassmen teammates and grew more confident as a leader.  “I’ve earned a lot...",
+        "author": "Brielle Miller, Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "f61d0b1fa8850c24",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "SDSU club sports receives first funding increase since 2009",
+        "link": "https://thedailyaztec.com/129492/news/sdsu-club-sports-receives-first-funding-increase-since-2009/",
+        "link_kind": "item",
+        "date": "2026-10-21T17:06:04+00:00",
+        "summary": "For the first time in 17 years, San Diego State’s club sports program is set to receive a substantial budget increase expected to reach athletes across two dozen teams — a change many players say will ease the financial strain of competing.  The funding boost comes from a rise in SDSU’s mandatory Instructionally Related Activities...",
+        "author": "Lily Fadell, Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "530e38e6e75d6290",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "#361: SDSU BBall Preview–What's the Ceiling for New Look Aztecs?",
         "link": "https://sonsofmontezuma.libsyn.com/361-sdsu-bball-previewwhats-the-ceiling-for-new-look-aztecs",
@@ -4583,20 +4655,6 @@
         "medium": "text"
       },
       {
-        "title": "Football looks to bounce back against rival Fresno State on Homecoming",
-        "link": "https://thedailyaztec.com/129359/sports/football-looks-to-bounce-back-against-rival-fresno-state-on-homecoming/",
-        "link_kind": "item",
-        "date": "2026-10-13T18:27:35+00:00",
-        "summary": "Coming off a 66-14 loss in Corvallis, San Diego State (2-4) returns to Snapdragon Stadium to face longtime rival Fresno State (4-2) for Homecoming.  The matchup gives the Aztecs an immediate opportunity to respond after a performance head coach Sean Lewis called an “embarrassing effort.” Following the loss, Lewis apologized to SDSU fans and supporters...",
-        "author": "Brielle Miller, Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "cd2ec89bab4e5cb3",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "SDSU Men's Hoops: Zach White sits down with Jon Schaeffer",
         "link": "https://goaztecs.com/news/2026/10/13/sdsu-mens-hoops-zach-white-sits-down-with-jon-schaeffer",
         "link_kind": "item",
@@ -4608,20 +4666,6 @@
         "source": "San Diego State Athletics",
         "id": "5a8b7426b3e3ff17",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Hat trick from Aztecs’ Victoria Miller pushes SDSU past Colorado State",
-        "link": "https://thedailyaztec.com/129355/sports/hat-trick-from-aztecs-victoria-miller-pushes-sdsu-past-colorado-state/",
-        "link_kind": "item",
-        "date": "2026-10-13T15:00:33+00:00",
-        "summary": "In just five minutes of game time, San Diego State junior forward Victoria Miller’s hat trick led the Aztecs to a 3-1 victory over Colorado State. With goals in the 62nd, 64th and 67th minutes, Miller is the first Aztec to have a hat trick since 2021, when Denise Castro accomplished the same feat against...",
-        "author": "Noah Meyer, Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "ce8d251be470fd89",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -5422,6 +5466,20 @@
     ],
     "Texas State": [
       {
+        "title": "WATCH: TXST Football Media Availability vs Utah State (102026)",
+        "link": "https://txst.com/news/2026/10/21/watch-txst-football-media-availability-vs-utah-state-102026.aspx",
+        "link_kind": "item",
+        "date": "2026-10-21T18:48:00+00:00",
+        "summary": "<img alt=\"Football Gold Helmet with Pac-12 Logo\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/21/20261015_FB_COLORADO_REC-2.jpg\" /><br /><br />HC GJ Kinne, LB TJ Burkhalter, OL Mikel Udengwu",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "1bc29155cf84591a",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "WATCH: TXST MBB Media Availability",
         "link": "https://txst.com/news/2026/10/20/mens-basketball-watch-txst-mbb-media-availability.aspx",
         "link_kind": "item",
@@ -5758,20 +5816,6 @@
         "medium": "text"
       },
       {
-        "title": "WATCH: TXST Football Media Availability vs San Diego State (092926)",
-        "link": "https://txst.com/news/2026/9/29/watch-txst-football-media-availability-vs-san-diego-state-092926.aspx",
-        "link_kind": "item",
-        "date": "2026-09-30T00:48:00+00:00",
-        "summary": "<img alt=\"FB Celebration vs UIW\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/29/260926_FB_UIW_GD_INGAME-16.jpg\" /><br /><br />HC GJ Kinne, OC Landon Keopple, DC Will Windham",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "6c6ed60934bc5a69",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Johnson Announces Three Staff Additions Ahead of 2026-27 Season",
         "link": "https://txst.com/news/2026/9/15/mens-basketball-johnson-announces-three-staff-additions-ahead-of-2026-27-season.aspx",
         "link_kind": "item",
@@ -5801,6 +5845,21 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "Bye Week News",
+        "link": "https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/Bye-Week-News-e3qr69a",
+        "link_kind": "item",
+        "date": "2026-10-21T04:58:05+00:00",
+        "summary": "<p>We talked about the PAC-12 football games during the bye week, the basketball exhibition at St. Mary’s, and other results in the USU Olympic Sports.</p>",
+        "author": "The Scotsman Show",
+        "duration": 1197,
+        "channel_url": "",
+        "source": "The Scotsman Show",
+        "id": "b833287fd1db5b70",
+        "extent": "20 min",
+        "sport": "all",
+        "medium": "audio"
+      },
       {
         "title": "Utah State Football Continues Pac-12 Play at Texas State on Saturday Night",
         "link": "https://utahstateaggies.com/news/2026/10/19/utah-state-football-continues-pac-12-play-at-texas-state-on-saturday-night.aspx",
@@ -6257,6 +6316,34 @@
     ],
     "Washington State": [
       {
+        "title": "Tackling will be key for WSU football in clash with No. 21 Boise State",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/tackling-will-be-key-for-wsu-football-in-clash-with-no-21-boise-state/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-10-22T00:23:42+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10212026_tzr_tzr_172019.jpg?d=1200x630\"><br/>The Washington State defense faces a tough test Saturday against a Boise State offense that averages 234 yards rushing per game, ninth in the country.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "8b9909d32610b9b8",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Cougar volleyball set to face Rams, Bobcats",
+        "link": "https://dailyevergreen.com/200526/sports/cougar-volleyball-set-to-face-rams-bobcats/",
+        "link_kind": "item",
+        "date": "2026-10-21T18:42:53+00:00",
+        "summary": "After a five-set loss to Fresno State Saturday, Washington State (8-9, 3-4 Pac-12) remains at home for a two-match stand against Colorado State (14-3, 7-0 Pac-12) and Texas State (7-12, 2-6 Pac-12).  The Cougars play the Rams at 7:30 p.m. Thursday and the Bobcats at 11 a.m. Saturday.  The Cougs sit in fifth in the...",
+        "author": "Conner Orr, Deputy Campus Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "c2f7cb7839c3119b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Owen Eshelman is the TRUTH (Episode 265)",
         "link": "https://podcastvseveryone.podbean.com/e/owen-eshelman-is-the-truth-episode-265/",
         "link_kind": "item",
@@ -6286,6 +6373,20 @@
         "medium": "text"
       },
       {
+        "title": "How does WSU's defense match up with No. 21 Boise State's rushing attack? Look no further than tackling",
+        "link": "http://www.spokesman.com/stories/2026/oct/21/how-does-wsus-defense-match-up-with-no-21-boise-st/",
+        "link_kind": "item",
+        "date": "2026-10-21T00:00:00+00:00",
+        "summary": "<p>PULLMAN – When Khamari Terrell makes a tackle in space, for a brief moment, he enters a world all by himself. Washington State’s veteran cornerback will usually lower his head, staring down into the turf, maybe closing his eyes, closing himself off to the chaos unfolding around him.</p><p>Then he usually takes his hands and slaps himself on the helmet. Once. Twice. Lets his energy seep off him like condensation off a glass of ice water.</p><p>Then he rejoins the action, ready to make another play for the Cougars, for whom he’s playing his fifth and final season of college football.</p><p>“I think it’s big, especially in college, just knowing that the corners have to tackle every game,” Terrell said earlier this week. “Especially this week, I’m gonna make it noticed that you’re not gonna be able to just run to my side and just think that you’re gonna get a big gain or anything.”</p><p>Terrell and the WSU defense will get a chance to prove it this weekend, when No. 21 Boise State comes to town for a showdown, the teams’ first clash in Pullman since 2017, the night the late Tyler Hilinski came off the bench to lead the Cougars to a triple-overtime comeback.</p><p>Here’s the short version of why Terrell and his fellow defensive backs, like cornerback Jalil Tucker and safety Jaylen Thomas, will have to come up big for their team: The Broncos own one of the country’s best rushing attacks, spearheaded by junior tailback Dylan Riley, who ranks second nationwide with 139 rushing yards per game. As a team, the Broncos’ 234 rushing yards per contest ranks ninth in the country.</p><p>That figures to put quite the strain on this WSU defense, which was gashed last weekend, giving up 48 points to Oregon State’s prolific offense in a three-score loss. But for the Cougars, as they prepare for their next outing, it’s not all about preventing scoring. It’s about one of Terrell’s favorite parts of the game: tackling.</p><p>All things considered, WSU (1-6, 0-3 Pac-12) has done a fine job of that this season. The Cougars have earned a Pro Football Focus tackling grade of 61.4, which ranks No. 93 nationwide, fifth in the Pac-12. They’ve turned in some gems of tackling outings, including in their loss to Fresno State earlier this season, when they missed just three total tackles.</p><!--[embed id=12354]--><p>In fact, some of the WSU defenders who have logged the most snaps are also the ones who have tackled the best. Veteran linebacker Keith Brown, who leads the team with 418 snaps, has missed only six tackles. Terrell, who has played 339 snaps, has whiffed only three times. And redshirt freshman nickelback Jamarey Smith, who has 313 snaps, has missed only one tackle all season.</p><p>So from a 30,000-foot view, the Cougars have done well to tackle, and their coaches deserve credit for that: Defensive coordinator Trent Bray, cornerbacks coach Brandyn Thompson and defensive line coach Eti Ena, among others. Past Cougar teams have not tackled particularly well – Jake Dickert’s 2024 team finished the season ranked fifth-to-last in PFF’s tackling grades, while Jimmy Rogers’ 2025 club finished dead last – so for the program, this represents a key step in the right direction.</p><p>“Game to game, you gotta be prepared to tackle,” Terrell said, “especially going against a team that runs a lot. So just be physical and just shut down the side of the field and just stop the run, so they won’t try to keep running to that side.”</p><p>The only problem at hand: Boise State’s playmakers have excelled at forcing missed tackles. In six games, Riley has forced 28 whiffs, which ranks second in the Pac-12. Riley has forced 18. They have excelled in space, and while the Cougars have usually done well to tackle in those types of settings, they aren’t coming off a particularly encouraging outing on that front.</p><p>In WSU’s loss to Oregon State last weekend, the Cougs missed 18 tackles, one off their most of the season, which came in a season-opening loss to Washington back in early September. In Corvallis, safety Jeremiah Bernard led the way with five whiffs, while fellow safety Jaylen Thomas followed with three and two players missed two tackles apiece: Linebacker Isaiah Hung and cornerback Kai Rapolla.</p><p>How will those two realities clash on Saturday afternoon on the Palouse? If the Cougars can’t make tackles in space, they might be in for a long day, and as 14-point underdogs, they’re expected to meet that fate anyway. But it’s an interesting conversation because of one key development: Bray’s unit has done a stellar job of stacking up runs up the middle.</p><p>That’s where some of the Cougars’ best defenders play, from defensive tackles like Leaupepetele and Kaden Beatty to defensive ends Matyus McLain and Linus Zunk, which is why opponents haven’t enjoyed much success running up the middle this season. Even Brown, a linebacker, has graded out as the Cougars’ best run defender, with a mark of 79.9.</p><!--[embed id=12355]--><p>It’s on the outsides where the Cougs have had less luck, at least in their most recent showing. To turn that fortune around – to reverse the fortune of this entire season – WSU defenders will have to clean that up. Maybe that’s where Terrell, a veteran cornerback, could come in handy.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "640ff3b4ff9c7f06",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "WSU MBB: David Riley and Student-Athletes | 2026 Media Day Press Conference | 10/20/26",
         "link": "https://wsucougars.com/news/2026/10/20/wsu-mbb-david-riley-and-student-athletes-2026-media-day-press-conference-102026",
         "link_kind": "item",
@@ -6297,6 +6398,20 @@
         "source": "Washington State Athletics",
         "id": "8cdec8bd82306fd4",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "WSU WBB: Kamie Ethridge and Student-Athletes | 2026 Media Day Press Conference | 10/20/26",
+        "link": "https://wsucougars.com/news/2026/10/20/wsu-wbb-kamie-ethridge-and-student-athletes-2026-media-day-press-conference-102026",
+        "link_kind": "item",
+        "date": "2026-10-20T18:39:20+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "c45800a9d4ced475",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -6900,34 +7015,6 @@
         "medium": "text"
       },
       {
-        "title": "Cougars sharpen their claws for Viking territory",
-        "link": "https://dailyevergreen.com/200316/sports/cougars-sharpen-their-claws-for-viking-territory/",
-        "link_kind": "item",
-        "date": "2026-10-15T15:00:33+00:00",
-        "summary": "Washington State hockey travels to Bellingham this weekend for a two-game series against Western Washington, looking to rewrite their four consecutive losses to the Vikings from last season. The Cougs (8-3, 2-2 Pac-8) enter the weekend in the win column, coming off a sweep over Eastern Washington. WSU has had a promising start this season...",
-        "author": "Zach McFarlane",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "865d34a98fc4bdaf",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Take home the rock: WSU takes on the Beavers in Corvallis",
-        "link": "https://dailyevergreen.com/200198/sports/bring-home-the-rock-wsu-takes-on-the-beavers-in-coravallis/",
-        "link_kind": "item",
-        "date": "2026-10-15T15:00:03+00:00",
-        "summary": "The Cougs (1-5, 0-2) are heading to Oregon State to take on the Beavers (4-2, 2-0). There is a ton of history to this matchup, with the two being the only remaining teams of the original Pac-12. The stakes have been raised even higher in this season’s matchup, as a new rock trophy is set...",
-        "author": "KellerRay Hutsell Zandell",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "8dd7948716dde994",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Cougar Football Hour 10-14-26 (Kirby Moore, Jamarey Smith & Brandyn Thompson)",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/72ff94b1-8eff-4780-a954-d889c300d684.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -7430,20 +7517,6 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "cc30bcf53130d326",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Washington State collapses in shocking loss to Utah State | Recap and highlights",
-        "link": "http://www.spokesman.com/stories/2026/oct/09/wsu-heads-to-utah-state-to-try-and-turn-around-sea/",
-        "link_kind": "item",
-        "date": "2026-10-09T00:00:00+00:00",
-        "summary": "<p>LOGAN, Utah — Kirby Moore kept his usual poker face on the sideline, trying to tune everything out, focusing on his playsheet. Things were falling apart around him at Maverik Stadium, where Utah State had just taken the lead on his Washington State team, so the hosts’ band played and the fans bellowed and the navy-clad Aggies celebrated this late-game swing.</p><p>Here on Friday night, WSU had been in control for so long, but Utah State had just wrested it back. In his first time with full playcalling duties, Moore studied his call sheet, trying to find the right combination of plays to help his Cougars bounce back.</p><p>Either Moore couldn’t do so, or the Cougs couldn’t execute the calls, or it was some brutal mixture of the two that led to WSU’s 17-16 loss to Utah State. Either way, it’s the third straight setback for WSU, which will have some major questions to answer after a second straight anemic outing on offense in a season replete with them.</p><p>For the game, the Cougars lost two turnovers, both of which led to Aggie touchdowns. Quarterback Caden Pinnick was responsible for one, a fumble, while tight end Jack Pedersen lost his own fumble in the fourth quarter. It’s the worst loss of the season for WSU, which committed 13 penalties for 133 yards in this loss, a key reason why the Cougars failed to score in the second half and couldn’t take down a Utah State team that entered with just one win.</p><!--[video id=6369]--><p>Late in the fourth frame, the Cougs had two chances to drive down the field and take the lead, and they failed to do so both times. They had to punt the ball away on both occasions, even on their second drive, when the Aggies elected to punt the ball away on fourth-and-inches near midfield.</p><p>Utah State, which scored one touchdown on a pass in the third frame and another on a short rush in the fourth, held WSU to only 64 total yards in the second half. For the game, Pinnick completed 23 of 36 passes for just 156 yards, underscoring the way his lack of a convincing deep ball has hampered his offense.</p><p>Headed into this game, it was uncertain whether Pinnick would start this game, following his two-turnover outing the previous weekend against Fresno State. After that game, Moore said everything would be up for reevaluation with his offense, but he wound up rolling out all the same starters, including the quarterback.</p><p>In Friday’s game, WSU (1-5, 0-2 Pac-12) did give one play to fellow quarterback Julian Dugger, who carved out a five-yard gain. He then came out of the game, never to return.</p><p>Complicating things for WSU was an injury to left tackle Ashton Tripp, who came out of the game in the first quarter and returned with his left foot in a boot, wearing warmup gear. Washington transfer Maximus McCree took his place for the rest of the game.</p><p>WSU broke its drought of five straight quarters without a touchdown in the second frame, when running back Leo Pulalasi took a shotgun handoff and darted to his left, taking advantage of key blocks from offensive lineman Jonny Lester and Noah Dunham to burst into the open field, jetting all the way to the end zone, a 54-yard saunter.</p><p>On the sideline, Pulalsi took off his helmet and unleashed a primal scream, celebrating his first touchdown in nearly two calendar years. In his four years in Pullman, Pulalasi has found himself near the end of the Cougars’ running back rotation.</p><p>Utah State drew back within one score in the third quarter, when Brosterhous stepped up in the pocket and laced one to the corner of the end zone for receiver Eli Wood, who leapt to make an acrobatic catch. He fell out of bounds immediately. Replay showed that Wood bobbled the ball on his way out of bounds, and if the play were reviewed by officials, it’s possible they would have seen enough to overturn it.</p><p>But officials did not review it, and the touchdown stood. With that score, the Aggies trimmed the Cougars’ lead to 16-10.</p><p>Then in the fourth quarter, after Pedersen fumbled deep in his team’s own territory, Utah State took over with great field position. Three plays later, USU running back Javen Jacobs plunged into the end zone, handing the hosts a 17-16 lead.</p><p>WSU returns to action next Saturday, traveling to face Oregon State in Corvallis, where the Cougars have not won since 2018.</p><p><a href=\"https://stats.statbroadcast.com/broadcast/?id=676502&amp;vislive=wast\" target=\"_blank\">BOX SCORE</a></p><!--[teaser id=1363911]--><!--[teaser id=1363902]--><hr/><h3><span style=\"text-decoration: underline;\">Key moments</span></h3><h3>Utah State runs clock out, comes back to beat WSU</h3><p><strong>4th, 0:00 – USU 17, WSU 16:</strong> A disappointing first season for coach Kirby Moore has somehow gotten worse. Utah State picks up a first down and runs the clock out to beat WSU in Logan, Utah.</p><p>The Cougars were shutout in the second half. Both touchdowns it gave up were on short fields after turnovers.</p><p>WSU drops to 1-5, and 0-2 in the Pac-12. It may be some time before things get better with Oregon State and Boise State next on WSU&#8217;s schedule.</p><hr/><h3>So much for that</h3><p><strong>4th, 1:43 – USU 17, WSU 16:</strong> Caden Pinnick is sacked on first down and on third down completes a pass, but its called back for holding. WSU punts to the USU 29 with all three timeouts. Defense needs another stop.</p><hr/><h3>One more try for WSU</h3><p><strong>4th, 2:40 – USU 17, WSU 16:</strong> The defense did its job. Caden Pinnick and the Cougars trot onto the field at their own 25 after a three-and-out. WSU has all three timeouts.</p><hr/><h3>Cougars forced to punt</h3><p><strong>4th, 5:13 – USU 17, WSU 16:</strong> Caden Pinnick&#8217;s short pass on third-and-5 is swatted down at the line of scrimmage. Max Dean punts 40 yards to the USU 38, where the Cougars defense needs to come up with a quick stop.</p><hr/><h3>Aggies take the lead</h3><p><strong>4th, 6:22 – USU 17, WSU 16:</strong> Utah State takes its first lead of the night on a 2-yard run from Javen Jacobs. The Aggies quickly took advantage of the turnover setting up the score on a 17-yard pass from Grady Brosterhous to Javon Robinson.</p><p>Both of Utah State&#8217;s touchdowns have come quickly after a WSU turnover. Cougars will now have to press for a response.</p><!--[embed id=12319]--><hr/><h3>Another costly fumble</h3><p><strong>4th, 7:55 – WSU 16, USU 10:</strong> For the second time tonight the Cougars have fumbled on their own side of the field. Tight end Jack Pedersen gave up the ball on third down in a group of USU defenders. The Aggies recovered at the WSU 19. The original ruling of down by contact was overturned by replay review.</p><p>WSU had a big 19-yard run from Leo Pulalasi wiped out by holding on first down setting the drive back.</p><p>The Aggies have a great chance to take the lead.</p><hr/><h3>Penalty bails out WSU</h3><p><strong>4th, 10:09 – WSU 16, USU 10:</strong> Aggies were driving deep into WSU territory when coach Broncos Mendenhall was called for an unsportsmanlike conduct penalty that set up a third-and-20 and ultimately pushed his team out of field goal range.</p><p>Cougars gets the ball back at their own 12 after a punt.</p><p>Mendenhall was asking for a pass interference against WSU and appeared to say, &#8220;come on&#8221; to the sideline official who then threw the flag.</p><p>Utah State receiver Demick Starling had a big catch for 41 yards to start the threatening drive.</p><hr/><h3>Another chance for the Aggies</h3><p><strong>4th, 13:19 – WSU 16, USU 10:</strong> Cougars get the ball back as the defense continues to stand strong, but WSU&#8217;s next drive stalls just out of field goal range and Max Dean&#8217;s punt goes into the end zone for a touchback.</p><p>Cougars have largely dominated this game, but Utah State has a chance to drive and take the lead for the first time.</p><hr/><h3>More self-inflicted wounds</h3><p><strong>3rd, 3:17 – WSU 16, USU 10:</strong> Penalties continue to hurt the Cougars offense as an illegal formation wipes out a 37-yard run from Maxwell Wood. On the next play Caden Pinnick missed a wide open Leo Pulalasi on a play that would have gone for a big gain.</p><p>WSU is forced to punt after Pinnick is sacked for a loss of 9 on third down. Utah State takes back over at its 22. </p><hr/><h3>Aggies right back in it</h3><p><strong>3rd, 7:08 – WSU 16, USU 10:</strong> Utah State takes advantage of the turnover as Eli Wood makes a sensational catch in the side of the end zone on a 27-yard pass from Grady Brosterhous. Wood adjusted his body and just got a toe in as he bobbled the pass. </p><p>Brosterhous has largely struggled completing 7 of 20 attempts for 84 yards, but gave his receiver the chance to make a huge play.</p><p>Big drive coming up for the Cougars offense.</p><!--[embed id=12318]--><hr/><h3>Bad time for a turnover</h3><p><strong>3rd, 8:59 – WSU 16, USU 3:</strong> Caden Pinnick fakes a reverse on a designed keeper and the ball pops free in a mass of Utah State defenders. Aggies take over in WSU territory.</p><p>Unfortunate timing for the Cougars, who were trying to convert on third and short. WSU&#8217;s defense will need to stand strong and not let the Aggies build any momentum.</p><!--[embed id=12317]--><hr/><h3>Nothing going to open second half</h3><p><strong>3rd, 13:26 – WSU 16, USU 3:</strong> Cougars go three-and-out to open the second half. Pinnick took a shot on a wheel route when he had tight end Trey Leckner open on a drag route. Then Leo Pulalasi was strung out on a run to the left side for no gain when he could have cut up field for positive yardage. And then Aggies blew up a wide receiver screen for a loss of 4.</p><p>Utah State takes over near midfield after a short punt.</p><hr/><h3>Cougars up at halftime</h3><p>Washington State holds a 16-3 lead over Utah State thanks to some solid defense and a big play from Leo Pulalasi.</p><p>The Cougars running back broke off a 54-yard touchdown run late in the second quarter. Jack Stevens also has three field goals for WSU.</p><p>WSU has held Utah State quarterback Grady Brosterhous to 4-for-16 passing for 51 yards. Utah State is 2 of 8 on third downs and were stopped on a fourth down conversion attempt.</p><p>WSU will receive to start the second half.</p><hr/><h3>Two more punts</h3><p><strong>2nd, 1:36 – WSU 16, USU 3:</strong> Cougars unable to extend their lead after getting the ball back. Aggies have one more shot from their own 25 before halftime.</p><hr/><h3>Pulalasi breaks it open</h3><p><strong>2nd, 3:32 – WSU 16, USU 3:</strong> The Cougars hardly had any traction with their running backs, but Leo Pulalasi just changed that in one play, running through a big hole on a zone run to the left side for a 54-yard touchdown.</p><p>The Cougars were stopped on the drive when Caden Pinnick was sacked on third down, but David Kabongo was called for unsportsmanlike conduct and Pulalasi made him pay on the next play.</p><p>Pinnick had been asked to do almost everything himself leading up to the big run. Cougars now in control and will get the ball after halftime.  </p><!--[embed id=12316]--><hr/><h3>Cougars get fourth down stop</h3><p><strong>2nd, 5:49 – WSU 9, USU 3:</strong> After two straight three-and-outs, WSU gets the ball back at midfield. Utah State goes for it on fourth-and-3 and QB Grady Brosterhous is flushed from the pocket and tries to run for the first, but steps out of bounds just shy of the line to gain.</p><hr/><h3>Stevens good from deep</h3><p><strong>2nd, 11:10 – WSU 9, USU 3:</strong> Kicker Jack Stevens has officially put his early-season struggles behind him as he boots a 50-yard field goal for his third of the night.</p><p>Cougars set back by multiple procedural penalties on that drive, now up to 6 penalties for 50 yards in the game. Caden Pinnick did well to extend the drive with a third-down scramble that ended in a personal foul to set WSU up in opposing territory.</p><!--[embed id=12315]--><hr/><h3>Field goal battle continues</h3><p><strong>2nd, 14:38 – WSU 6, USU 3:</strong> Kian Afrookhteh&#8217;s second attempt is good, this time from 48 yards. Aggies picked up a big gain through the air at the end of the third quarter, but Grady Grosterhous fires three straight incompletions to end the drive.</p><p>The Utah State QB is 2-for-8 for 39 yards. </p><!--[embed id=12314]--><hr/><h3> Stevens converts again</h3><p><strong>1st, 1:02 – WSU 6, USU 0:</strong> Cougars offense looks crips on a 54-yard drive that stalls on a holding penalty. Jack Stevens hits a 43-yard field goal to extend WSU&#8217;s lead.</p><p>The Cougars were effective in the quick passing game, converting on two third downs. Quarterback Caden Pinnick looks more comfortable with a few completions under his belt. He has completed 6 of 8 attempts for 53 yards and picks up a couple of nice gains with his legs eluding pressure in the pocket.</p><p>WSU&#8217;s conventional running game isn&#8217;t gaining much traction. Pinnnick leads with three carries for 17 yards and backup QB Julian Dugger came in to run for a gain of six. WSU&#8217;s three running backs have four attempts for minus-1 yard.</p><hr/><h3>Utah State misses field goal</h3><p><strong>1st, 10:22 – WSU 3, USU 0:</strong> Aggies come up empty after a solid drive as Kian Afrookhteh pulls a 39-yard attempt from the left hash.</p><p>Utah State picked up 32 yards and a pass interference penalty. Rushing back Javen Jacobs handled three carries for 23 yards, but his draw on third-and-7 from the WSU 21 was wrapped up by Keith Brown for no gain.</p><hr/><h3>Cougars settle for field goal, take lead</h3><p><strong>1st, 13:26 – WSU 3, USU 0:</strong> Cougars manage just three yards after the fumble recovery: A Tank Hawkins rush for 2 yards, incomplete pass to an open Braden Ganashamoorthy and 1-yard run by Maxwell Woods.</p><p>Jack Stevens converts the 40-yard attempt to get on the board, but WSU should have done more with that opportunity.</p><!--[embed id=12313]--><hr/><h3>Utah State fumbles opening kick</h3><p>Perfect start for the Cougars, who after winning the toss and deferring to the second half, pounce on a fumble by return man Noah White at the USU 25. Cougars have great field position for head coach Kirby Moore&#8217;s first drive as playcaller.</p><!--[embed id=12312]--><hr/><h3>Pinnick repping with starters</h3><p>Washington State seems content with keeping Caden Pinnick as its starting quarterback. Coach Kirby Moore indicated earlier this week that everything would be up for reevaluation when asked about a change at QB.</p><p>Pinnick has been taking first-team reps during warmups ahead of tonight&#8217;s game at Utah State. Pinnick has started every game this season for the Cougars, completing 87 of 142 attempts for 796 yards, three touchdowns and five interceptions.</p><!--[embed id=12311]--><!--[embed id=12310]--><hr/><h3>Pregame</h3><p>Washington State is hoping its first season in the new-look Pac-12 doesn&#8217;t turn into one to forget.</p><p>The Cougars (1-4, 0-1 Pac-12) have had plenty to work on during a short week following Saturday&#8217;s dreary 26-6 loss to Fresno State in Pullman.</p><p>After the worst offensive output of the season, first-year head coach Kirby Moore <a href=\"https://www.spokesman.com/stories/2026/oct/05/wsu-coach-kirby-moore-to-take-over-playcalling-dut/\" target=\"_blank\">is taking over playcalling duties</a> for tonight&#8217;s game at Utah State (1-4, 0-1), kicking off at 6 p.m. on The CW (KSKN). </p><p>The Cougars and Aggies have had similarly disappointing starts to the season. Utah State earned its lone win against Troy on Sept. 26, lost to FCS Idaho State to open the season and dropped its Pac-12 opener to Boise State 37-18 last week.</p><p>Utah State is favored by 5½ points. A loss for either team would shade their outlook for the rest of the season.</p><!--[embed id=12309]--><!--[embed id=12306]--><!--[embed id=12307]--><!--[embed id=12308]--><p><strong>Tale of the tape</strong></p><!--[photo id=934254]--><p><strong>Series history</strong></p><p>Washington State holds a <a href=\"https://www.winsipedia.com/washington-state/vs/utah-state\" target=\"_blank\">4-2 all-time record over Utah State</a>, taking the last two meetings in Pullman in 2024 and in the Famous Idaho Potato Bowl in 2025. The Aggies rallied to beat the Cougars in 2021, opening a lackluster September that, along with a refusal to comply with state COVID-19 mandates, would lead to coach Nick Rolovich&#8217;s firing.</p><h3>Preview</h3><!--[teaser id=1363803]--><!--[teaser id=1363809]--><!--[teaser id=1363808]--><h3>More on the Cougs</h3><!--[teaser id=1363738]--><!--[teaser id=1363664]--><!--[teaser id=1363568]-->",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "2b3399af711ae374",
         "sport": "football",
         "medium": "text"
       },
@@ -8192,20 +8265,6 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "1e22e14e58c1ff60",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Why Oregon vs. USC tilt could become dying breed | Bowl projections",
-        "link": "https://www.seattletimes.com/sports/washington-huskies-football/why-oregon-vs-usc-tilt-could-become-dying-breed-bowl-projections/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-09-25T17:00:00+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09222026_tzr_tzr_132032.jpg?d=1200x630\"><br/>Oregon and USC square off this weekend in a key early-season game. If the college playoffs expand, the urgency of such matchups will be much less.",
-        "author": "Jon Wilner",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "779499a8ddabbcab",
         "sport": "football",
         "medium": "text"
       },
@@ -8997,20 +9056,6 @@
         "extent": "1h 53m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Cougars Fall to Washington in Apple Cup, 24-10",
-        "link": "https://wsucougars.com/news/2026/09/7/cougars-fall-to-washington-in-apple-cup-24-10",
-        "link_kind": "item",
-        "date": "2026-09-07T00:02:19+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "9b92bc71d95e755c",
-        "sport": "football",
-        "medium": "text"
       }
     ]
   }
