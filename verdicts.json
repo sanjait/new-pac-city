@@ -18907,6 +18907,145 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-10-21-1340"
+    },
+    "02bdbc5b9afb20f3": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary alone identifies OSU men's basketball coach Justin Joyner rebuilding the team through transfers.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Sepich"
+      ],
+      "run": "run_2026-10-22-0140"
+    },
+    "530e38e6e75d6290": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story's subject is SDSU's club sports funding increase, which is out of scope; intercollegiate athletics appears only as fee-structure context.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Lily Fadell"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-22-0140"
+    },
+    "55857c4538a28bd9": {
+      "subjects": {
+        "oregon-state/softball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Oregon State softball's fall exhibition win over Western Oregon in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-22-0140"
+    },
+    "640ff3b4ff9c7f06": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews WSU's tackling matchup against Boise State's rushing attack ahead of Saturday's game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-22-0140"
+    },
+    "6d352d9a788a6517": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story covers ASOSU student-government bylaws with no mention of athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Michaela Bauer"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-22-0140"
+    },
+    "8b9909d32610b9b8": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews WSU's tackling matchup against Boise State's rushing attack ahead of Saturday's game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-22-0140"
+    },
+    "8f12cc50e33c405c": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "washington-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The conference whip-around previews Boise State's visit to Washington State, giving both covered programs real treatment amid an otherwise non-covered roundup.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The Boise State-Washington State note is a single short blurb in a multi-item roundup, close to the line between involves and a passing mention.",
+      "unrecognized": [],
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-22-0140"
+    },
+    "c2f7cb7839c3119b": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "colorado-state/womens-volleyball": "involves",
+        "texas-state/womens-volleyball": "involves",
+        "boise-state/womens-volleyball": "involves",
+        "fresno-state/womens-volleyball": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews WSU volleyball's matches against Colorado State and Texas State while recapping detailed statistical performances against Boise State and Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-22-0140"
+    },
+    "f61d0b1fa8850c24": {
+      "subjects": {
+        "san-diego-state/womens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature profiles San Diego State women's soccer goalkeeper Kailey Carlen's growth into a team leader.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-22-0140"
     }
   },
   "runs": {
@@ -21858,6 +21997,34 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 11.046025600051507,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-22-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-22T01:39:32.162734+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 7,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Aztec": 1,
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 22.843689000001177,
       "tokens": null,
       "tokens_source": null
     }
