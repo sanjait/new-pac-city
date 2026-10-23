@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-10-22T13:03:49.779652+00:00",
+  "generated_at": "2026-10-23T01:03:42.481576+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "APM Music and Pac-12 Conference Announce League-Wide Music Partnership",
+        "link": "http://pac-12.com/news/2026/10/22/apm-music-and-pac-12-conference-announce-league-wide-music-partnership.aspx",
+        "link_kind": "item",
+        "date": "2026-10-22T13:06:58+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/Pac_12_APM_Music_Lockup_16x9.png\" /><br /><br />The Pac-12 Conference and APM Music announced a new conference-wide music partnership that provides all Pac-12 member institutions and the league office with streamlined access to APM’s music catalog.\n\nThe agreement marks the first conference-wide music deal brokered by APM in college athletics. APM has existing league-wide partnerships with Major League Baseball, the National Hockey League, the National Women’s Soccer League, and League One Volleyball.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "c839b95c23fe0282",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Mountaintop View 10-22-26",
+        "link": "https://www.mwcconnection.com/mountain-west-news/94608/mountain-west-pac-12-wyoming-nevada-bison-lobos",
+        "link_kind": "item",
+        "date": "2026-10-22T13:00:00+00:00",
+        "summary": "Mountain West power rankings: New Mexico, North Dakota State battle for league&#8217;s top spot Chris Murray of NevadaSportsNet posts his weekly football power rankings. I have a feeling who will be in 1st place this time next week: the winner of the massive clash between the Lobos and Bison. In case you missed it, here [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "0f685d6e00ee6ac8",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "AZTECS WILL FACE A DECISION ABOUT STARTING QUARTERBACK AGAINST COLORADO STATE",
         "link": "https://www.mwcconnection.com/san-diego-state-football/94508/aztecs-backup-quarterback-could-be-the-future-of-the-team",
@@ -143,20 +171,6 @@
         "medium": "text"
       },
       {
-        "title": "The Good, the Bad, the Ugly: Week 7",
-        "link": "https://www.mwcconnection.com/the-good-the-bad-the-ugly/94125/the-good-the-bad-the-ugly-week-7",
-        "link_kind": "item",
-        "date": "2026-10-20T15:00:00+00:00",
-        "summary": "This week’s Mountain West and PAC-12 action saw some rivalries renewed, with Washington State traveling to Corvallis to take on Oregon State. In the Mountain West, we saw some key conference battles, with UNLV looking to stay undefeated in conference play as the Rebels traveled to Air Force and North Dakota State looking to get [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "1babf4154683ef5f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Players of the Week - Oct. 20, 2026",
         "link": "http://pac-12.com/news/2026/10/20/fall-sports-pac-12-players-of-the-week-oct-20-2026.aspx",
         "link_kind": "item",
@@ -294,20 +308,6 @@
         "source": "Press Break",
         "id": "f67837a6746a9055",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Pac-12 Football Players of the Week - Oct. 12, 2026",
-        "link": "http://pac-12.com/news/2026/10/12/pac-12-football-players-of-the-week-oct-12-2026.aspx",
-        "link_kind": "item",
-        "date": "2026-10-12T11:58:00+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/12/Braden_Atkinson_POTW_Week_6_2_.jpg\" /><br /><br />The Pac-12 today announced its football weekly awards for Week 6 of the 2026 season, as selected by the league's media, with 3 of the 4 winners repeating from Week 5 -  including a 6th straight win for the Freshman of the Week.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "127c0ddce0519039",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -550,6 +550,34 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "No. 21/22 Broncos Set to Travel to Washington State",
+        "link": "https://broncosports.com/news/2026/10/22/football-broncos-set-to-travel-to-washington-state",
+        "link_kind": "item",
+        "date": "2026-10-22T22:00:00+00:00",
+        "summary": "<img alt=\"Week 8 Preview\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/FB26_Game_Preview_WK8_WAZZU.jpg\" /><br /><br />Boise State will look to claim its sixth consecutive victory when it travels to Washington State on Saturday, Oct. 24. Kickoff is scheduled for 4 p.m. MT at Gesa Field.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "e9b174bfb122788d",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "A Servant's Heart",
+        "link": "https://broncosports.com/news/2026/10/22/b-1-features-a-servants-heart",
+        "link_kind": "item",
+        "date": "2026-10-22T21:00:00+00:00",
+        "summary": "<img alt=\"B1 Feature Web Slider\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/21/B1_Feature_Slider.jpg\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "812624fc65956381",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Idaho Public Television unveils Idaho’s ‘Gridiron Innovations’",
         "link": "https://www.arbiteronline.com/2026/10/21/idaho-public-television-unveils-idahos-gridiron-innovations/",
@@ -801,34 +829,6 @@
         "source": "Boise State Athletics",
         "id": "2e670a4e697c66bd",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Taufa Added to Rimington Trophy Watchlist",
-        "link": "https://broncosports.com/news/2026/10/15/football-taufa-added-to-rimington-trophy-watchlist",
-        "link_kind": "item",
-        "date": "2026-10-15T17:00:00+00:00",
-        "summary": "<img alt=\"Stewart Taufa vs. Memphis, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/cropped_MC_FB_vs_Memphis_0335.jpg\" /><br /><br />Center has helped Boise State to top-10 rushing attack in the nation",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "5d0d2778be92cff0",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Madsen, Riley Named to Pony Express Award Watch List",
-        "link": "https://broncosports.com/news/2026/10/15/football-madsen-riley-named-to-pony-express-award-watch-list",
-        "link_kind": "item",
-        "date": "2026-10-15T16:00:00+00:00",
-        "summary": "<img alt=\"Maddux Madsen, Dylan Riley celebration vs. Utah State, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/KH_FBvsUSU_076.jpg\" /><br /><br />Award is presented annually to the best tandem in college football",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "dcfb1f0111acf66b",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -1265,6 +1265,35 @@
     ],
     "Colorado State": [
       {
+        "title": "Four straight losses, one last glimmer of hope: Can CSU turn it around?",
+        "link": "https://bleav.com/shows/ramnation-radio/episodes/four-straight-losses-one-last-glimmer-of-hope-can-csu-turn-it-around/",
+        "link_kind": "item",
+        "date": "2026-10-22T22:02:00+00:00",
+        "summary": "<p>What started with so much promise has turned into a nightmare for CSU football. After opening 2-0, the Rams have dropped four straight, surrendering an astonishing 222 points along the way. Joel and Mike discuss the historically bad defense, Jim Mora's accountability for the ongoing struggles, and whether new defensive coordinator Kenny McClendon can realistically turn things around. But there's still reason for hope. Quarterback Hauss Hejny returns to the lineup Saturday against a San Diego State team that may present CSU's best opportunity in weeks to get back in the win column. The guys break down the matchup, the Aztecs' vulnerabilities, and why Joel is surprisingly optimistic about CSU's chances. Plus, with bowl eligibility slipping away, what will it take to salvage the season and restore some confidence in the direction of the program?</p>\n<p>This RamNation Radio episode is brought to you by <a href=\"https://bit.ly/38QRcaN\">Pedersen Toyota</a>, your Local Toyota Dealer Serving Fort Collins, Loveland, Windsor and Timnath for more than 50 years. It is also made possible by <a href=\"https://bit.ly/3kBuSnX\">Ginger and Baker</a> — our favorite restaurant(s) in all of Fort Collins, and <a href=\"https://bit.ly/3syDFAy\">Ram Zone (powered by the CSU Bookstore)</a> — the best place to get all your Ram gear.</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+        "author": "info@milehighsports.com (Mile High Sports)",
+        "duration": 3821,
+        "channel_url": "",
+        "source": "RamNation Radio",
+        "id": "02fe254c035e12bf",
+        "extent": "1h 4m",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
+        "title": "Memorable Moments: Moving Up the Ladder",
+        "link": "https://csurams.com/news/2026/10/22/football-memorable-moments-moving-up-the-ladder",
+        "link_kind": "item",
+        "date": "2026-10-22T21:00:00+00:00",
+        "summary": "<img alt=\"mm\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/31/mmweek7.jpg\" /><br /><br />Multiple assistants have later guided the program",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "748097c97a4154f2",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Colorado State Insider Podcast with Brian Roth -- Season 10, Episode 11",
         "link": "https://csurams.com/news/2026/10/21/football-colorado-state-insider-podcast-with-brian-roth-season-10-episode-11",
         "link_kind": "item",
@@ -1461,20 +1490,6 @@
         "source": "Colorado State Athletics",
         "id": "ada67cb560cb96b1",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Game Week: at Texas State",
-        "link": "https://csurams.com/news/2026/10/13/football-game-week-at-texas-state",
-        "link_kind": "item",
-        "date": "2026-10-13T22:23:00+00:00",
-        "summary": "<img alt=\"Game Week at Texas State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/13/FB26_-_Game_WeekTXST.png\" /><br /><br />Colorado State heads to Texas for the second time in three weeks.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "a8448a6e9ca21a35",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -1804,6 +1819,34 @@
     ],
     "Fresno State": [
       {
+        "title": "Fresno State Swim and Dive invites fans to ‘Pack the Pool’",
+        "link": "https://fscollegian.com/2026/10/fresno-state-swim-and-dive-invites-fans-to-pack-the-pool/",
+        "link_kind": "item",
+        "date": "2026-10-22T23:29:51+00:00",
+        "summary": "The Fresno State Swim and Dive team is calling on all fans to “Pack the Pool” this Friday. The Swim and Dive team will be hosting their first dual meet of the season against California State University Bakersfield, tomorrow at 6 p.m at the Fresno State Aquatics Center. A dual meet is a competition between...",
+        "author": "Juan Muratalla, Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "c427d4d67d71c917",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Fresno State Women's Basketball Preseason Show",
+        "link": "https://gobulldogs.com/news/2026/10/22/fresno-state-womens-basketball-preseason-show",
+        "link_kind": "item",
+        "date": "2026-10-22T17:31:00+00:00",
+        "summary": "<img alt=\"WBB Local Media Day \" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/2026-10-21-NC-BBALL-LOCAL-MEDIA-DAY-10.jpg\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Fresno State Athletics",
+        "id": "158288d45819cc08",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Walberg honest about NIL challenges, Schoonover excited 'to wear that Valley V",
         "link": "https://www.yourcentralvalley.com/sports/walberg-honest-about-nil-challenges-schoonover-excited-to-wear-that-valley-v/",
         "link_kind": "item",
@@ -2039,20 +2082,6 @@
         "channel_url": "",
         "source": "The Collegian",
         "id": "fe25e77c58bbab1f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Fresno State men’s basketball to return to Selland Arena for Alabama State matchup",
-        "link": "https://fscollegian.com/2026/10/fresno-state-mens-basketball-to-return-to-selland-arena-for-alabama-state-matchup/",
-        "link_kind": "item",
-        "date": "2026-10-14T22:04:42+00:00",
-        "summary": "Following the Fresno State men&#8217;s basketball team return to the historic Selland Arena last season, the Bulldogs will once again head downtown to face Alabama State in a nonconference game on Friday, Nov. 20. The Bulldogs previously played at Selland Arena for 37 years from 1966 to 2003 as their primary home venue, before moving...",
-        "author": "Cristian Ceballos, Daily Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "e11442cdad95ed1c",
         "sport": "all",
         "medium": "text"
       },
@@ -2707,6 +2736,20 @@
         "source": "Gonzaga Athletics",
         "id": "fd9a25d4a248c01a",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Calling Hogs and Zags: Parker Jefferson's family allegiances add meaning to Gonzaga-Arkansas exhibition",
+        "link": "http://www.spokesman.com/stories/2026/oct/22/calling-hogs-and-zags-parker-jeffersons-family-all/",
+        "link_kind": "item",
+        "date": "2026-10-22T00:00:00+00:00",
+        "summary": "<p>Parker Jefferson was indoctrinated into Arkansas fandom years before he could tie his own shoes, dribble a basketball or even put together a coherent sentence.</p><p>There wasn&#8217;t really a choice for someone whose parents met as college athletes in Fayetteville, Ark., outfitted their children in Arkansas apparel – the novelty rubber Razorback hog noses were always a hit – and routinely made the five-hour drive from the Dallas area to their college town to visit family and attend football and basketball games.</p><p>Yes, Jefferson could probably perform a perfect rendition of the iconic Arkansas &#8220;Woo Pig Sooie&#8221; rally cry, but he&#8217;ll have to abstain when the sophomore forward and his Gonzaga teammates take the floor for Saturday&#8217;s 1 p.m. PT exhibition (SEC Network+) between the Bulldogs and Razorbacks.</p><p>&#8220;I can remember having them laying on my lap when kids are too young to even move their arms and legs,&#8221; mother Carrie Jefferson said Thursday during a phone interview. &#8220;Kind of like you&#8217;d play peek-a-boo with a kid, I&#8217;d raise their arms and go &#8216;Woooooo Pig Sooie.&#8217; My kids have literally been learning how to &#8216;Call the Hogs&#8217; since they were infants.&#8221;</p><p>Saturday&#8217;s meeting is nothing more than an exhibition, unless you&#8217;re one of the estimated three- to four-dozen family members or friends seated in the Jeffersons&#8217; section at Bud Walton Arena.</p><p>On Wednesday, the Gonzaga forward reported the official headcount was 22. The next day, his mother offered a correction: that&#8217;s only how many tickets Parker managed to gather from Gonzaga teammates and coaches willing to offload some of their own. The actual number could be closer to 40, Carrie confirmed, with nearly 20 relatives, former Arkansas women&#8217;s basketball teammates and other acquaintances expected to purchase their own seats or use season tickets.</p><p>&#8220;Man, I had to basically scramble to get as many (tickets) as I could,&#8221; Parker said.</p><p>It&#8217;s an especially meaningful occasion for Carrie, who was born roughly 75 miles south in the small town of Charleston, Ark., where Parker&#8217;s grandparents still reside. With no professional sports in the state and no major college programs that could compare with Arkansas, Carrie was raised on Razorbacks football and basketball, idolizing Hall of Fame hoops coaches Eddie Sutton (1975-85) and Nolan Richardson (1985-2002).</p><p>&#8220;I was really little then &#8230; I really didn&#8217;t understand there was a men&#8217;s and women&#8217;s. I was just saying, I was going to grow up and play for Nolan Richardson,&#8221; Carrie said. &#8220;So it was pretty cool to then go there and get to be around Nolan. So when you&#8217;re raised in Arkansas, you&#8217;re just a Razorback fan. It&#8217;s kind of by default.&#8221;</p><p>Carrie suspects it could be emotional watching her son jog through the tunnel and onto the court Saturday afternoon. She enjoys telling people she &#8220;opened&#8221; Bud Walton Arena 33 years ago, and it&#8217;s not far from the truth. Carrie&#8217;s freshman season in &#8216;93 began just weeks after construction finished on the 19,368-seat building that now sits in the heart of campus. She and Arkansas teammates would finish practice at Barnhill Arena, strap on hardhats and wander over to the construction site, where workers were still bolting seats into the ground.</p><p>&#8220;We got to kind of be involved in the process of designing our locker room and that kind of thing,&#8221; said Carrie, who had the opportunity to watch daughter Kaylee play at Bud Walton during her tenure at Sam Houston State. &#8220;It&#8217;s just such a nostalgic thing. &#8230; I can&#8217;t even describe it. I literally feel like I can still feel the sweat I poured out there.&#8221;</p><p>Fayetteville is also where Carrie met Jefferson&#8217;s father, Mike, an offensive lineman on the Razorbacks&#8217; football team who hailed from Germany before moving to Louisville, Ky. Carrie and Mike met at a popular college bar, where they were introduced by Mike&#8217;s football teammate and began dating after an Arkansas Athletes Outreach event. Jefferson&#8217;s parents are now separated, but both plan to be in attendance for Saturday&#8217;s exhibition.</p><p>Parker attended games at Bud Walton as a kid and returned in 2022 as a prospective Arkansas basketball player. Eric Musselman offered a scholarship to the three-star prospect – then rated as one of the top 45 centers in the country – and easily persuaded Jefferson to take an official visit as a high school sophomore.</p><p>But any chance of Jefferson following in his parents&#8217; footsteps fizzled when Musselman left for USC. Jefferson passed up on an offer from the Trojans to sign at Minnesota before reopening his recruitment when Gophers coach Ben Johnson was fired. One month later, he was committed to Gonzaga.</p><p>&#8220;Obviously it was good for the storyline and having parents there,&#8221; Jefferson said. &#8220;It was a cool thing that I was getting recruited by them, but my parents were never pushing it on me.&#8221;</p><p>Jefferson and his mother have traded stories about their varying experiences as college athletes.</p><p>&#8220;We&#8217;re so spoiled now, the student-athletes. They were barely even getting a pack of ramen noodles from their coaches,&#8221; Parker laughed.</p><p>Carrie concurred.</p><p>&#8220;Every recruiting visit we went on, we&#8217;d see the protein shake bar or whatever different places had,&#8221; she said. &#8220;I would be like, oh my gosh I would&#8217;ve killed for an extra peanut butter and jelly sandwich sometimes. They would just roll their eyes at me and I was like, you guys don&#8217;t even understand.&#8221;</p><p>Carrie and her Arkansas teammates resided in dorms at the top of a large hill and often navigated tricky winter conditions to make practices at Bud Walton, located at the base of the slick and icy slope.</p><p>&#8220;Coach (Gary) Blair would be like, well you ladies figure out a way to get to practice,&#8221; she said. &#8220;There were great memories of us getting out and sledding down the hill.&#8221;</p><p>In 1995, Carrie and the Razorbacks qualified for the school&#8217;s fifth NCAA Tournament. She played one minute off the bench in a first-round win over San Francisco at Seattle&#8217;s Alaska Airlines Arena, but didn&#8217;t log any time during a second-round loss to Washington.</p><p>Parker, who redshirted in 2025-26, expects a good mix of Gonzaga and Arkansas colors in the Jeffersons&#8217; section on Saturday but hopes to see more navy blue No. 32 jerseys than cardinal red T-shirts. Two of Jefferson&#8217;s younger cousins have custom-printed shirts with both logos and hearts underneath. A former Arkansas women&#8217;s basketball teammate told Carrie she planned to wear a Gonzaga hat with a Razorback shirt.</p><p>&#8220;I think they might still be calling the Hogs, who knows, but they&#8217;ll probably, definitely, hopefully be in some blue and red,&#8221; he said.</p><p>Carrie relayed her biggest concern before picking up older son Michael on Thursday and driving to Fayetteville from the family&#8217;s home in Waxahachie, Texas.</p><p>&#8220;Somebody&#8217;s just going to have to forgive me if I raise my arms and start calling the Hogs,&#8221; she said. &#8220;It&#8217;s just something you learn as a little kid.&#8221;</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "9ee4722990fd734c",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -3368,20 +3411,6 @@
         "medium": "text"
       },
       {
-        "title": "How former WSU standout Efe Abogidi has navigated setbacks, obstacles during pro career: 'It's been a journey, man'",
-        "link": "http://www.spokesman.com/stories/2026/sep/13/former-washington-state-standout-efe-abogidi-has-n/",
-        "link_kind": "item",
-        "date": "2026-09-13T00:00:00+00:00",
-        "summary": "<p>LAS VEGAS – Efe Abogidi wasn’t quite pulling all-nighters, but two years ago during a transitional phase in his career it wasn’t uncommon for the former Washington State forward to stay awake until 2 or 3 a.m. in Adelaide, Australia.</p><p>The risk of falling asleep was potentially missing an important phone call or message from his agent who could be relaying a contract offer from the NBA or G League halfway across the globe. So Abogidi would strain to keep his eyes open, usually dozing off around 3 in the morning if nothing materialized.</p><p>“When it’s nighttime in Australia, it’s daytime here,” said Abogidi, who’d just completed a productive 2024-25 season with the Central Districts Lions of Australia’s second-tier NBL1, averaging 17 points and 10.5 rebounds. “I’ll be on my phone late waiting for my agent to give me the news of what team’s going to pick me up in the G League. I knew I could still play at the professional level, especially in the NBA and the G League. I just needed an opportunity to do that.”</p><p>After helping guide Kyle Smith’s Washington State teams to a 36-28 record over two seasons, Abogidi’s basketball career was rocked by an injury when he tore his ACL on Jan. 3, 2023, playing for the now-defunct NBA G League Ignite.</p><p>Roughly two months into his professional career, Abogidi faced a daunting recovery timeline of 18 months. He was able to complete some  rehabilitation work in Spokane, where his girlfriend was living at the time, but as an immigrant with visa restrictions, Abogidi was eventually forced to move home to Australia.</p><p>Once he received a green light to play, Abogidi quickly signed a contract with Central Districts Lions in Adelaide, posting solid numbers while refining his game and extending his shooting range out to the perimeter. Abogidi earned a spot on the NBL Central All-Star Five and posted a 30-point, 20-rebound double-double in his most impressive game of the season against the South Adelaide Panthers.</p><p>“I’m a very resilient person,” Abogidi said. “I’ve been through a lot in basketball, especially with my health. When it comes to injury, I’m very experienced in getting myself back so having confidence wasn’t an issue for me. The main issue was, how long is it going to take for me to get healthy and get back on the floor.</p><p>“So whenever I’m healthy and back to being ready to play basketball again, confidence isn’t a big issue for me.”</p><p>After weeks in limbo, one of those late nights – or early mornings – in Adelaide finally came with some news.</p><p>Abogidi picked up a phone call from his agent, who relayed the following message: “Do you want to hear the good news or the bad news?’’</p><p>“I was like, OK, any news is good news,” Abogidi said. “He said, ‘OK, it’s going to be a standard contract in the G League.’ I was like, that’s not bad news, that’s good news.”</p><p>The Rio Grande Valley Vipers, a Texas-based affiliate of the Houston Rockets, were offering a one-year deal for Abogidi to return to the G League two years after his ACL setback. It was a seamless fit for the forward, who played in 44 games for Rio Grande, averaging 13 points, 6.4 rebounds and one block. He shot 51.1% from the field and continued to knock down 3s at a consistent rate, making 34.8% of his attempts from behind the arc.</p><p>It’s been mostly good news for Abogidi’s pro hoops career ever since.</p><p>“I believe in myself. I’m very talented in basketball so the biggest obstacle for me was just being healthy,” Abogidi said. “So when I felt healthy, I know I’ll come back on this stage again and play basketball again, I’m still going to be on top of my field. So I wasn’t worried. I’m a very resilient person. This isn’t a big deal for me, so here I am now.”</p><p>Post-ACL, Abogidi started to think about career longevity in a way he hadn’t before. An explosive athlete known for his rim-rocking dunks at WSU, he could still elevate for the occasional highlight, as seen in a G League Tip-Off Tournament game when he split two Austin Spurs defenders midair for a two-handed jam. But someone who made just 24 3s over 64 games at WSU worked diligently to add an outside shot to his game, then proceeded to knock down 65 3s over 44 games in the G League.</p><!--[photo id=932118]--><p>“I’m still athletic, I’m still one of the most athletic guys in the gym,” Abogidi said. “Now I can shoot the ball and extend my game. I can’t rely on my athleticism a lot. I’ve still got to think about my longevity. It’s been a journey.”</p><p>Abogidi’s road to an NBA roster spot took another positive turn earlier this year when, after his G League season ended, the forward picked up an NBA Summer League invitation from the Denver Nuggets.</p><p>“I’m hoping for the best. I can’t predict the future now,” Abogidi said during Summer League. “So whatever happens with the Nuggets, I’m just hoping for the best at this point.”</p><p>In three Summer League appearances, Abogidi averaged seven points and two rebounds while connecting on 60% of his shots from the field and 42.9% from the 3-point line. Abogidi’s playing shifts were limited in Las Vegas – he averaged 9.7 minutes over three games – but the time he spent on the court elicited positive feedback from Nuggets Summer League coach J.J. Barea, a former NBA champion point guard with the Dallas Mavericks.</p><p>“I’m giving him confidence, if it’s open let it fly,” Barea said. “He got some good blocks, some good rebounds and then he made some open shots so great job by him.”</p><p>The NBA won’t be the next stop for Abogidi, who resided in Olympia with his girlfriend before Summer League, but the former WSU standout feels his career is trending in a positive direction. After averaging 11.5 ppg over two games for Nigeria’s national team during FIBA World Cup qualifiers against Cameroon and Cape Verde, Abogidi signed a one-year contract with Obradoiro CAB, a club that competes in Spain’s top professional league.</p><p>“Initially, I kind of fell off the radar,” Abogidi said. “I took my time getting my rehab. Got a couple surgeries, getting myself back on track again. That was a really traumatic experience for me.”</p><p>The NBA remains a long shot, but now three years removed from his ACL setback, Abogidi still believes it’s within reach.</p><p>“It’s been a journey, man. It’s been a journey,” he said. “Got injured, had to leave the country, go back to Australia, get healthy, come back here. It’s been a journey for me.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "abeac3c5af73b8ee",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Women's Basketball to host Numerica FanFest on Oct. 10",
         "link": "https://gozags.com/news/2026/9/9/womens-basketball-to-host-numerica-fanfest-on-oct-10",
         "link_kind": "item",
@@ -3397,6 +3426,20 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "Beavers return key players as they enter new Pac-12 era",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-womens-basketball-is-entering-a-new-era-and-the-beavers-have-a-lot-to-prove.html",
+        "link_kind": "item",
+        "date": "2026-10-22T19:33:16+00:00",
+        "summary": "Oregon State women's basketball enters year 17 under Scott Rueck with four returning scorers, new freshmen, and renewed stability after joining the new Pac-12.",
+        "author": "Scott Sepich",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "a5b56a9eb0a6fc3e",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Beavers Set to Host California in Saturday Exhibition",
         "link": "https://osubeavers.com/news/2026/10/21/mens-basketball-beavers-set-to-host-california-in-saturday-exhibition",
@@ -4030,20 +4073,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State's Eric Olsen ran sprints on his honeymoon",
-        "link": "https://www.oregonlive.com/beavers/2026/10/eric-olsen-went-to-mexico-for-his-honeymoon-and-still-ran-sprints-to-be-prepared-to-play-for-oregon-state.html",
-        "link_kind": "item",
-        "date": "2026-10-15T22:11:40+00:00",
-        "summary": "The Beavers tight end leads Pac-12 tight ends in receiving and wouldn't even skip workouts on his honeymoon in Mexico.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "fb7d0b1734f4336f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Beavers Selected for League-Most 9 Televised Games",
         "link": "https://osubeavers.com/news/2026/10/15/womens-basketball-beavers-selected-for-league-most-9-televised-games",
         "link_kind": "item",
@@ -4055,34 +4084,6 @@
         "source": "Oregon State Athletics",
         "id": "94aee95131693fc4",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Goss Stadium to add seats, videoboard in $15M expansion",
-        "link": "https://www.oregonlive.com/beavers/2026/10/anonymous-donor-fuels-15-million-right-field-makeover-at-oregon-states-goss-stadium.html",
-        "link_kind": "item",
-        "date": "2026-10-15T18:37:17+00:00",
-        "summary": "An anonymous $15 million donation will fund permanent bleacher seating, a new videoboard, and a Knights clubhouse at Goss Stadium, with construction set for 2027-2028.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "4e75843a19773af2",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State women’s basketball will play most TV games among Pac-12 teams",
-        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-womens-basketball-will-play-most-televised-games-among-pac-12-teams.html",
-        "link_kind": "item",
-        "date": "2026-10-15T18:00:00+00:00",
-        "summary": "Oregon State women's basketball leads all Pac-12 teams with nine televised games this season, airing on CW and USA Network.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "68cff6d27a35405f",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -4303,6 +4304,20 @@
       }
     ],
     "San Diego State": [
+      {
+        "title": "Aztecs look to hold onto positive momentum ahead of matchup with dynamic Colorado State offense",
+        "link": "https://thedailyaztec.com/129520/sports/aztecs-look-to-hold-onto-positive-momentum-ahead-of-matchup-with-dynamic-colorado-state-offense/",
+        "link_kind": "item",
+        "date": "2026-10-22T22:05:49+00:00",
+        "summary": "The grueling road of new Pac-12 matchups rolls on for the San Diego State Aztecs (3-4) as they ship up to Fort Collins, Colorado, to take on the Colorado State Rams (2-4). Fresh off their 26-23 victory over the rival Fresno State Bulldogs, the Aztecs rose to a 2-1 Pac-12 record. The Rams don’t carry...",
+        "author": "Iain Henderson, Senior Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "ae4866c5f1beae74",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Men's Hoops Exhibition Games to be Broadcast on San Diego Sports 760",
         "link": "https://goaztecs.com/news/2026/10/21/mens-hoops-exhibition-games-to-be-broadcast-on-san-diego-sports-760",
@@ -5505,38 +5520,37 @@
         "id": "f1ff63e9cdca18c1",
         "sport": "football",
         "medium": "text"
-      },
+      }
+    ],
+    "Texas State": [
       {
-        "title": "Monday, Sept. 7 Press Conference",
-        "link": "https://goaztecs.com/news/2026/09/7/monday-sept-7-press-conference",
+        "title": "Game Preview: TXST vs Utah State",
+        "link": "https://txst.com/news/2026/10/22/football-game-preview-txst-vs-utah-state.aspx",
         "link_kind": "item",
-        "date": "2026-09-07T21:17:31+00:00",
-        "summary": "San Diego State head football coach Sean Lewis was joined by Gavriel Lightfood and Jaylon Hawkins to preview the Aztec's upcoming matchup against UCLA and recap their win against Portland State.",
+        "date": "2026-10-22T22:05:00+00:00",
+        "summary": "<img alt=\"Brad Jackson Touchdown\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/261610_FB_COLORADOSTATE_KP-JACKSON-TD-46.jpg\" /><br /><br />Texas State (3-3, 1-1 Pac-12) vs Utah State (2-4, 1-1 Pac-12)\n\nSaturday, Oct. 24, 2026\nUFCU Stadium (28,000) | San Marcos, Texas\nKickoff: 6:30 p.m. CT",
         "author": "",
         "duration": null,
         "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "37fe378b7c3b4917",
+        "source": "Texas State Athletics",
+        "id": "54c5bf71dffedc97",
         "sport": "football",
         "medium": "text"
       },
       {
-        "title": "#348: SDSU Wins Big in Season Opener vs Portland State",
-        "link": "https://sonsofmontezuma.libsyn.com/348-sdsu-wins-big-in-season-opener-vs-portland-state",
+        "title": "WATCH: TXST WBB Media Availability",
+        "link": "https://txst.com/news/2026/10/22/womens-basketball-watch-txst-wbb-media-availability.aspx",
         "link_kind": "item",
-        "date": "2026-09-07T20:16:00+00:00",
-        "summary": "<p class=\"wp-block-paragraph\">A Labor Day special recap of SDSU's start of the season victory over Portland State. The Aztecs nearly covered the enormous spread by winning 53-20 and keep the home winning streak alive.</p> <figure class= \"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"> <div class=\"wp-block-embed__wrapper\"> </div> </figure>",
+        "date": "2026-10-22T21:35:00+00:00",
+        "summary": "<img alt=\"TXST WBB Media Day\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/Screenshot_2026-10-22_at_1.37.57_PM.png\" /><br /><br />",
         "author": "",
-        "duration": 3367,
+        "duration": null,
         "channel_url": "",
-        "source": "Sons of Montezuma",
-        "id": "4e7cb3088444170f",
-        "extent": "56 min",
-        "sport": "all",
-        "medium": "audio"
-      }
-    ],
-    "Texas State": [
+        "source": "Texas State Athletics",
+        "id": "f1a55ab5fe65e6d6",
+        "sport": "wbb",
+        "medium": "text"
+      },
       {
         "title": "WATCH: TXST Football Media Availability vs Utah State (102026)",
         "link": "https://txst.com/news/2026/10/21/watch-txst-football-media-availability-vs-utah-state-102026.aspx",
@@ -5622,7 +5636,7 @@
         "medium": "text"
       },
       {
-        "title": "Torrance Burgess Jr. Named Pac-12 Offensive Player of the Week.",
+        "title": "Torrance Burgess Jr. Named Pac-12 Offensive Player of the Week",
         "link": "https://txst.com/news/2026/10/19/football-torrance-burgess-jr-named-pac-12-offensive-player-of-the-week.aspx",
         "link_kind": "item",
         "date": "2026-10-19T21:17:00+00:00",
@@ -5857,20 +5871,6 @@
         "source": "Texas State Athletics",
         "id": "ba8d2a8bb6657364",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Game Preview: TXST at San Diego State",
-        "link": "https://txst.com/news/2026/10/1/football-game-preview-txst-at-san-diego-state.aspx",
-        "link_kind": "item",
-        "date": "2026-10-01T21:49:00+00:00",
-        "summary": "<img alt=\"TXST Football Family Weekend vs UIW\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/30/260926_FB_UIW_GD_INGAME-6.jpg\" /><br /><br />Texas State (2-2, 0-0 Pac-12) at San Diego State (1-3, 0-0 Pac-12)\n\nSaturday, Oct. 3, 2026\nSnapdragon Stadium (35,000) | San Diego, California\nKickoff: 9:30 p.m. CT / 7:30 p.m. PT",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "9be4cfec9d6593b7",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -6388,7 +6388,7 @@
     ],
     "Washington State": [
       {
-        "title": "“Egg on your face:” WSU baseball removes AI-generated graphic after backlash",
+        "title": "WSU baseball removes AI-generated graphic after backlash",
         "link": "https://dailyevergreen.com/200570/sports/egg-on-your-face-wsu-baseball-removes-ai-generated-graphic-after-backlash/",
         "link_kind": "item",
         "date": "2026-10-22T07:00:38+00:00",
@@ -6427,6 +6427,20 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "8b9909d32610b9b8",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Ahead of WSU and Boise State's first Pac-12 clash, a look back at the first seven matchups",
+        "link": "http://www.spokesman.com/stories/2026/oct/22/ahead-of-the-first-pac-12-clash-a-look-back-at-the/",
+        "link_kind": "item",
+        "date": "2026-10-22T00:00:00+00:00",
+        "summary": "<p>PULLMAN – When Washington State takes the field this weekend against No. 21 Boise State, the Cougars will be in for a lot of firsts.</p><p>It’ll be WSU’s first time hosting Boise State since 2017, when the late Tyler Hilinski came off the bench to lead a wild comeback. It’ll be the first time that Cougar coach Kirby Moore has faced the Broncos, for whom he played in the early 2010s. It will also be quarterback Owen Eshelman’s first home start after taking over the reins last weekend.</p><p>But what about the previous matchups between the Cougs and Broncos, who will be meeting for the first time as Pac-12 foes? The teams have only clashed seven times before. WSU owns a 5-2 record in the matchup.</p><p>Here is a look back at all seven games, in chronological order.</p><p><strong>1997: WSU wins a blowout in Pullman, 58-0</strong></p><p>In former WSU quarterback Ryan Leaf’s senior season, the Cougars started 7-0 and wound up in the Rose Bowl. They laid the foundation for that magical season in late September, when they handed the Broncos a 58-0 loss, to this day BSU’s largest loss in program history and still the last time the program has been shut out in one game.</p><p>All told, Leaf completed 17 of 30 passes for 289 yards and three touchdowns, and the Cougars churned out 209 more yards and two touchdowns on the ground. Michael Black piled up 17 carries for 141 yards and two total touchdowns, while receiver Kevin McKenzie caught six passes for 101 yards and two touchdowns.</p><p>Also notable from that game: WSU kicker Rian Lindell connected on a 57-yard field goal. That put the Cougs up 17-0 in the second quarter.</p><p>The game also featured this interesting twist: Boise State kicker Todd Belcastro, a product of Mead High in Spokane, was not recruited by WSU and coach Mike Price. Ahead of the game, he gave this quote to the Idaho Statesman: “I hate the Cougars. I really do. I’m going to wear my Washington hat on the sideline Saturday after we win. I’m going to sign a football, put the score on it, and hand it to Price.”</p><p><strong>1998: WSU follows up with a close win in Boise</strong></p><p>In the following year, the Cougars traveled to the blue turf in Boise, where they emerged with a 33-21 win. The visitors were down 7-6 at halftime, but thanks to a 27-point second half, they won by a relatively comfortable margin.</p><p>In the fourth quarter, WSU went up by two scores on a touchdown pass from Steve Birnbaum to Leaford Hackett. Moments later, the Broncos drew within one score on a fumble recovery for a touchdown, only for the Cougars to put the game away with an explosive 79-yard touchdown rush from DeJuan Gillmore.</p><p>“They were blitzing us on just about every play in the first quarter,” said WSU coach Mike Price, whose team moved to 2-0 with that win. “That was keeping the quarterback off balance. He wasn’t able to get his feet set and make the plays we had to make.”</p><p><strong>2000: Cougars eke out close win at Martin Stadium</strong></p><p>In the final minute of a 35-35 game, WSU’s offense found itself at the Boise State 1-yard line.</p><p>“There was no doubt that we were going to go for it,” WSU coach Mike Price said.</p><p>The Cougars made their coach look wise, scoring on a short rush by Adam Hawkins, putting the hosts up by the final margin of 42-35. They could have kicked a field goal, but decided against it, giving their defense some extra wiggle room for the Broncos’ final drive.</p><p>In that one, WSU quarterback Jason Gesser completed 21 of 30 passes for 290 yards and two touchdowns, playing through concussion symptoms from the third quarter on.</p><p><strong>2001: WSU spoils BSU coach Dan Hawkins’ debut with 41-20 victory</strong></p><p>In this one, the visiting Cougars at one point ran off 28 points to secure what turned into a blowout 41-20 win, handing the Broncos a loss in new coach Dan Hawkins’ first home game at the helm of the program.</p><p>Some highlights from this game: Linebacker Raonall Smith returned an interception 54 yards for an interception, Jason Gesser found James Price for a 55-yard touchdown and, in the third quarter, Collin Henderson took a lateral from Gesser in the backfield, then threw it to Nakoa McElrath, who scored on a 71-yard play to give the Cougs a 41-13 lead.</p><p><strong>2016: Cougars’ late rally not enough in 31-28 loss</strong></p><p>WSU and Boise State didn’t meet again for another 15 years, but the game was worth the wait. In the third quarter, the Broncos went up 24-7, only for the Cougars to come roaring back, scoring three touchdowns to pull within three in the final moments.</p><p>But it wasn’t enough for WSU, which fell in a 31-28 defeat, quarterback Luke Falk’s final desperation heave going incomplete. For the game, Falk completed 55 of 71 passes for 480 yards, four touchdowns and one interception, which turned into a long pick-six by BSU cornerback Tyler Horton.</p><p>With under a minute to go in the fourth frame, BSU inexplicably kept throwing. The Cougars made former Shadle Park High star quarterback Brett Rypien pay, getting an interception from Charleston White in the end zone.</p><p>That gave the Cougs new life in the final minute, but with a few seconds to play, Falk had to launch one deep. It hit the blue turf, sealing the Broncos’ win.</p><!--[embed id=12358]--><p>“It’s like a boxer if he’s really good at hitting the bag, and then all of a sudden he fights a boxing match and he won’t throw any blows. That’s who we are,” the late WSU coach Mike Leach said. “We have to be a tougher football team and right now we’re not. Right now we’ve got a bunch of good, nice, jolly guys who will work their asses off, at times, but as soon as anybody hits them or there’s any adversity, we fold.”</p><p><strong>2017: Hilinski comes off the bench to lead wild triple-overtime comeback</strong></p><p>Where to start with WSU’s 47-44 triple-overtime win in 2017? The Cougars found themselves trailing 31-10 with a shade under 11 minutes to go, only to come back to tie it and send the game to overtime, doing so on a crazy series of scoring plays.</p><p>Early in the fourth frame, BSU lineman Curtis Weaver recovered a Luke Falk fumble and returned it for a touchdown. Falk was injured on the play and did not return to the game, paving the way for the late backup Tyler Hilinski to come off the bench and lead the rest of the comeback.</p><p>The Cougars drew within two scores on a 17-yard pass from Hilinski to Jamire Calvin. That’s about when things got weird. Later, Rypien stumbled and tried a shovel pass, which was promptly picked off by WSU linebacker Peyton Pelluer, who returned it for a touchdown. That trimmed the Broncos’ lead to 31-24.</p><p>Things got even crazier from there. With about three minutes left, WSU punted, but the ball caromed off a Boise State player and was recovered by the Cougs. A few plays later, Hilinski found running back Jamal Morrow for the game-tying touchdown.</p><!--[embed id=12357]--><p>Then, after the teams played to a draw after two overtimes, the Cougars forced the Broncos into a field goal in the third. They won on their possession, thanks to a 22-yard pass from Hilinski to Morrow, who jetted to the end zone and dove across the pylon for the winning score.</p><p>A few months later, Hilinski died by suicide, making this win extra special for his family and WSU.</p><p><strong>2024: Ashton Jeanty boosts Heisman case in BSU’s 45-24 win over WSU</strong></p><p>In the teams’ most recent clash, things were interesting in the fourth quarter, when quarterback John Mateer unleashed a deep touchdown pass to receiver Kyle Williams, helping the visiting Cougars claw within 24-17.</p><p>But thanks to Boise State’s runaway fourth frame, that’s as close as they got, good for a 45-24 BSU win.</p><p>In this one, Bronco running back Ashton Jeanty torched the Cougar defense for 259 yards rushing for four touchdowns, helping his case for the Heisman Trophy, finishing second in that race.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "c84622966f1d048a",
         "sport": "football",
         "medium": "text"
       },
@@ -6646,7 +6660,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/20/two-rookie-coaches-two-wildly-different-paths-pac-/",
         "link_kind": "item",
         "date": "2026-10-20T00:00:00+00:00",
-        "summary": "<p>The midpoint of the inaugural football season for the new Pac-12 does not exist, at least not in a clean, easily identifiable fashion.</p><p>Half the teams have played seven games; half have played six.</p><p>Half have played three conference matchups; half have played two.</p><p>But against the full sweep of a competition calendar that runs from Labor Day weekend (for everyone) through Thanksgiving weekend (for all but two teams), the end of Week 7 marks a reasonable middle.</p><p>With that, the Hotline presents our Pac-12 midseason report, in which we highlight the best and worst, key themes and standout performers.</p><p><strong>Top storyline: CFP relevance.</strong> Two teams, Boise State and Oregon State, remain in pursuit of a berth in the College Football Playoff. The Broncos (5-1) have a quality loss at Oregon and key wins over Memphis and Western Michigan. If they win out, a bid should follow. The Beavers (5-2) have a trickier path but will be in play if they finish with two losses. The conference could not have realistically asked for more at this point.</p><p><strong>Best coach: Oregon State&#8217;s JaMarcus Shephard.</strong> The rookie coach has made a series of master-class moves with his staff and roster and could land on the short list for national Coach of the Year if the Beavers keep winning. Also considered: Boise State&#8217;s Spencer Danielson</p><p><strong>Hottest seat: Washington State&#8217;s Kirby Moore.</strong> The rookie coach has made a series of deeply flawed decisions with his staff and roster. We don&#8217;t expect Moore to get fired after the season, although if the current trajectory continues, you could make the case for dismissal. Also considered: San Diego State&#8217;s Sean Lewis</p><p><strong>Best offensive player: Oregon State WR Jesse Legree.</strong> The freshman has been a revelation and is generating second-tier Heisman Trophy support. He leads the country in receiving yards and touchdowns &#8212; not bad for a three-star prospect. Also considered: Oregon State QB Braden Atkinson, Boise State TB Dylan Riley and Texas State TB Torrance Burgess</p><p><strong>Best defensive player: San Diego State LB Sione Hala.</strong> The senior leads the Pac-12 and is fifth in the country in tackles (68) and recorded sacks against both James Madison and Oregon State. He also forced a fumble against Fresno State that led to an Aztecs field goal in what became a three-point win. Also considered: Oregon State edge Takari Hickle and Fresno State lineman Dylan Hampsten.</p><p><strong>Top transfer: Oregon State QB Braden Atkinson.</strong> The Mercer transfer threw 34 touchdown passes last year for an FCS team that won nine games, so he&#8217;s not exactly a rookie. But Atkinson&#8217;s field vision and downfield accuracy mesh perfectly with Legree&#8217;s skills. Also considered: Nobody</p><p><strong>Best game: San Diego State 31, Texas State 29.</strong> The Oct. 3 affair in Snapdragon Stadium featured a series of momentum shifts, 40 points in the second half, just two turnovers and a stellar individual effort from Texas State quarterback Brad Jackson. Also considered: Boise State 38, Fresno State 31</p><p><strong>Best win: Boise State 38, Memphis 20.</strong> If the Pac-12&#8217;s best team is drawn into a resume showdown with the American&#8217;s best team for a playoff berth, the Broncos&#8217; Week 2 head-to-head win over a top American team could loom large. Also considered: Boise State over Western Michigan and Texas State over North Texas</p><p><strong>Worst loss: Idaho State 29, Utah State 17.</strong> Double-digit home losses to FCS opponents are always ugly. Add 11 penalties and four turnovers, and this was an all-systems failure for the Aggies. Also considered: None. (We didn&#8217;t have the stomach to continue the research.)</p><p><strong>Best performance: Oregon State WR Jesse Legree.</strong> The freshman&#8217;s breakout game came in Week 2, when he sliced and diced Texas Tech&#8217;s secondary for 240 yards receiving and two touchdowns. Also considered: Boise State TB Dylan Riley (Memphis), Texas State TB Torrance Burgess (North Texas) and San Diego State TB Javion Kinnard (James Madison)</p><p><strong>Worst luck: San Diego State.</strong> Misfortune during the football season typically takes the form of injuries, officiating blunders or players short-circuiting in some fashion. When was the last time a team was derailed by the mumps? Probably the 1950s. Goodness, gracious.</p>",
+        "summary": "<p>The midpoint of the inaugural football season for the new Pac-12 does not exist, at least not in a clean, easily identifiable fashion.</p><p>Half the teams have played seven games; half have played six.</p><p>Half have played three conference matchups; half have played two.</p><p>But against the full sweep of a competition calendar that runs from Labor Day weekend (for everyone) through Thanksgiving weekend (for all but two teams), the end of Week 7 marks a reasonable middle.</p><p>With that, the Hotline presents our Pac-12 midseason report, in which we highlight the best and worst, key themes and standout performers.</p><p><strong>Top storyline: CFP relevance.</strong> Two teams, Boise State and Oregon State, remain in pursuit of a berth in the College Football Playoff. The Broncos (5-1) have a quality loss at Oregon and key wins over Memphis and Western Michigan. If they win out, a bid should follow. The Beavers (5-2) have a trickier path but will be in play if they finish with two losses. The conference could not have realistically asked for more at this point.</p><p><strong>Best coach: Oregon State’s JaMarcus Shephard.</strong> The rookie coach has made a series of master-class moves with his staff and roster and could land on the short list for national Coach of the Year if the Beavers keep winning. Also considered: Boise State’s Spencer Danielson</p><p><strong>Hottest seat: Washington State’s Kirby Moore.</strong> The rookie coach has made a series of deeply flawed decisions with his staff and roster. We don’t expect Moore to get fired after the season, although if the current trajectory continues, you could make the case for dismissal. Also considered: San Diego State’s Sean Lewis</p><p><strong>Best offensive player: Oregon State WR Jesse Legree.</strong> The freshman has been a revelation and is generating second-tier Heisman Trophy support. He leads the country in receiving yards and touchdowns – not bad for a three-star prospect. Also considered: Oregon State QB Braden Atkinson, Boise State TB Dylan Riley and Texas State TB Torrance Burgess</p><p><strong>Best defensive player: San Diego State LB Sione Hala.</strong> The senior leads the Pac-12 and is fifth in the country in tackles (68) and recorded sacks against both James Madison and Oregon State. He also forced a fumble against Fresno State that led to an Aztecs field goal in what became a three-point win. Also considered: Oregon State edge Takari Hickle and Fresno State lineman Dylan Hampsten.</p><p><strong>Top transfer: Oregon State QB Braden Atkinson.</strong> The Mercer transfer threw 34 touchdown passes last year for an FCS team that won nine games, so he’s not exactly a rookie. But Atkinson’s field vision and downfield accuracy mesh perfectly with Legree’s skills. Also considered: Nobody</p><p><strong>Best game: San Diego State 31, Texas State 29.</strong> The Oct. 3 affair in Snapdragon Stadium featured a series of momentum shifts, 40 points in the second half, just two turnovers and a stellar individual effort from Texas State quarterback Brad Jackson. Also considered: Boise State 38, Fresno State 31</p><p><strong>Best win: Boise State 38, Memphis 20.</strong> If the Pac-12’s best team is drawn into a resume showdown with the American’s best team for a playoff berth, the Broncos’ Week 2 head-to-head win over a top American team could loom large. Also considered: Boise State over Western Michigan and Texas State over North Texas</p><p><strong>Worst loss: Idaho State 29, Utah State 17.</strong> Double-digit home losses to FCS opponents are always ugly. Add 11 penalties and four turnovers, and this was an all-systems failure for the Aggies. Also considered: None. (We didn’t have the stomach to continue the research.)</p><p><strong>Best performance: Oregon State WR Jesse Legree.</strong> The freshman’s breakout game came in Week 2, when he sliced and diced Texas Tech’s secondary for 240 yards receiving and two touchdowns. Also considered: Boise State TB Dylan Riley (Memphis), Texas State TB Torrance Burgess (North Texas) and San Diego State TB Javion Kinnard (James Madison)</p><p><strong>Worst luck: San Diego State.</strong> Misfortune during the football season typically takes the form of injuries, officiating blunders or players short-circuiting in some fashion. When was the last time a team was derailed by the mumps? Probably the 1950s. Goodness, gracious.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -7632,20 +7646,6 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "ca5637e07b8d4df5",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Utah State linebacker Asher Cunningham makes game-changing plays | Difference makers",
-        "link": "http://www.spokesman.com/stories/2026/oct/09/utah-state-linebacker-asher-cunningham-makes-game-/",
-        "link_kind": "item",
-        "date": "2026-10-09T00:00:00+00:00",
-        "summary": "<h3>Asher Cunningham</h3><p>The <span class=\"print_trim\">junior</span> middle linebacker made the most important plays for Utah State, forcing two turnovers – the second one led to the Aggies’ go-ahead touchdown midway through the fourth quarter. Cunningham stripped Cougars tight end Jack Pedersen just before his knee hit the turf on a third-down play with under eight minutes left, then the linebacker pounced on the ball deep in WSU territory, setting Utah State up to take its first lead. Cunningham also laid a hard hit on WSU quarterback Caden Pinnick in the third quarter, knocking the ball free. It was recovered by the Aggies, and they scored a touchdown five plays later to flip the game’s momentum. An Elon transfer, Cunningham finished with a game-high and career-high 17 tackles, half a sack and two tackles for loss in the run game. <span class=\"print_trim\">The 6-2, 240-pounder now has 52 tackles for the season, which will likely land him in the top 20 nationally after the weekend’s slate of games.</span></p><h3>Jirah Leaupepetele</h3><p>A nose tackle’s efforts often go unappreciated. But the 349-pound Leaupepetele deserves some recognition after his <span class=\"print_trim\">gap-plugging</span> effort for a Cougars defense that didn’t surrender much on inside running plays. Leaupepetele overpowered blockers for two solo stops at the line of scrimmage. The junior Eastern Washington transfer also recorded his first full sack of the season during the third quarter, pushing through the Utah State line to wrap up Grady Brosterhous on a second-and-13, effectively stopping a key possession for the Aggies, who trailed by six points and appeared to have momentum. With under three minutes remaining in the game, on a critical third-and-short, Leaupepetele stood up his blocker and brought down Aggies running back Javen Jacobs just before the line to gain, forcing a punt and keeping WSU alive. <span class=\"print_trim\">Leaupepetele tied for third on the team with five total tackles.</span></p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "cc30bcf53130d326",
         "sport": "football",
         "medium": "text"
       },
@@ -9080,36 +9080,6 @@
         "source": "Palouse Playbook",
         "id": "2de7ab846a086acc",
         "extent": "9 min",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "LIVE: WSU Loses Apple Cup While Defense Shines",
-        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/LIVE-WSU-Loses-Apple-Cup-While-Defense-Shines-e3og3v1",
-        "link_kind": "item",
-        "date": "2026-09-07T19:59:51+00:00",
-        "summary": "<p>We break down our thoughts on the Apple Cup here.</p>",
-        "author": "Up West Sports",
-        "duration": 1723,
-        "channel_url": "",
-        "source": "Palouse Playbook",
-        "id": "e5f841a44e5ddd86",
-        "extent": "29 min",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Apple Cup postgame live stream (Episode 254)",
-        "link": "https://podcastvseveryone.podbean.com/e/apple-cup-postgame-live-stream-episode-254/",
-        "link_kind": "item",
-        "date": "2026-09-07T15:32:39+00:00",
-        "summary": "<p>Don't forget to subscribe to the newsletter! Episodes direct to your inbox, plus other written musings from Jeff. <a href='http://podcastvseveryone.com/'>podcastvseveryone.com</a></p>\n<p>Trying something new this week with a postgame live stream that started about 20 minutes after the game ended and was broadcast exclusively to our premium subscribers. It featured initial quick thoughts about the game, both from Jeff and from the premium members.</p>\n<p>If you want to get in on some of that action, head to <a href='http://podcastvseveryone.com/upgrade'>podcastvseveryone.com/upgrade</a> and join us!</p>\nNotes\n<p>Podcast music by Randy England. <a href='https://www.instagram.com/randyenglandmusic/'>You can find more of his work on Instagram</a>.</p>\n<p>You can also subscribe to the show on your favorite podcast services:</p>\n<ul>\n<li>\n<p><a href='https://podcasts.apple.com/us/podcast/podcast-vs-everyone/id1449847880?mt=2'>Apple Podcasts</a>  </p>\n</li>\n<li>\n<p><a href='https://open.spotify.com/show/5mN2nUMA3KH095WAYYiOaf'>Spotify</a> </p>\n</li>\n<li>\n<p><a href='https://www.youtube.com/@PodVsEveryone'>YouTube</a></p>\n</li>\n<li>\n<p>Or, manually add this feed to your podcast app of choice: <a href='https://feed.podbean.com/podcastvseveryone/feed.xml'>https://feed.podbean.com/podcastvseveryone/feed.xml</a></p>\n</li>\n</ul>",
-        "author": "",
-        "duration": 1653,
-        "channel_url": "",
-        "source": "Podcast Vs. Everyone",
-        "id": "1ab815485cd6b45b",
-        "extent": "28 min",
         "sport": "all",
         "medium": "audio"
       }
