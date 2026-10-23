@@ -19218,6 +19218,97 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-10-22-1341"
+    },
+    "0f685d6e00ee6ac8": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The power-rankings roundup covers Mountain West teams outside the nine covered schools (Wyoming, Nevada, Air Force, New Mexico, Hawaii, North Dakota State) with no mention of a covered program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-23-0140"
+    },
+    "9ee4722990fd734c": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature is about Gonzaga forward Parker Jefferson and his family's Arkansas ties ahead of Saturday's exhibition against the Razorbacks.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-23-0140"
+    },
+    "a5b56a9eb0a6fc3e": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish Oregon State women's basketball entering a new season under Scott Rueck with returning scorers, enough to judge without the full text.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Sepich"
+      ],
+      "run": "run_2026-10-23-0140"
+    },
+    "ae4866c5f1beae74": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews SDSU football's upcoming game at Colorado State, with the Rams' offense and defense analyzed at length as the opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Iain Henderson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-23-0140"
+    },
+    "c427d4d67d71c917": {
+      "subjects": {
+        "fresno-state/womens-swimming-and-diving": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is about Fresno State's swim and dive team hosting a fan event before its season-opening dual meet; the registry lists only a women's swimming-and-diving program for Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Muratalla"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-23-0140"
+    },
+    "c84622966f1d048a": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece recounts the history of WSU-Boise State football matchups ahead of their first meeting as Pac-12 foes, treating both programs as subjects.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-23-0140"
     }
   },
   "runs": {
@@ -22244,6 +22335,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 22.34842379996553,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-23-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-23T01:39:26.191035+00:00",
+      "items": 6,
+      "verdict_counts": {
+        "drop": 1,
+        "publish": 5
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 15.422906200052239,
       "tokens": null,
       "tokens_source": null
     }
