@@ -19309,6 +19309,110 @@
       "extent": "7 min read",
       "lock": "paywall",
       "run": "run_2026-10-23-0140"
+    },
+    "23d997f0a33ed74c": {
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is a general college-football discussion of bowl games under a 24-team CFP, naming no specific one of the nine schools and treating 'PAC/MW' only as a generic aside backed by Mountain West-specific history.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The dedicated 'What This Means For PAC, MW' section comes close to making the conference itself a subject, but its statistics and specifics are drawn from the Mountain West's own history rather than the new Pac-12.",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-23-1341"
+    },
+    "2c012bfd93570b2e": {
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The podcast description covers Nevada's new logos and generic AP preseason men's basketball poll reactions without naming any of the nine schools' programs.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Derek Raridon",
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-23-1341"
+    },
+    "3962b033b517b351": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews the WSU-Boise State matchup by recounting their full head-to-head series, with both teams as the subject throughout.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-23-1341"
+    },
+    "5e772f2756116245": {
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The midseason standings roundup covers only Mountain West teams (New Mexico, North Dakota State, Air Force, Wyoming, San Jose State, UNLV, Nevada, Hawaii, UTEP, Northern Illinois), none of which is one of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-23-1341"
+    },
+    "7909b1c9c34ac90e": {
+      "unrecognized": [
+        {
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece is an opinion take on Nevada's new university and athletics logos, and Nevada is not one of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "byline": [
+        "Derek Raridon"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-23-1341"
+    },
+    "c8915529c5dd513c": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A roundup of backup-quarterback situations gives real, specific treatment to Washington State's Owen Eshelman and Utah State's Grady Brosterhous among several programs covered.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-23-1341"
+    },
+    "d2986a0dbe3ae29f": {
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The statistical analysis of FPI, SOR, SOS, GC and AVGWP across 136 FBS teams discusses conferences and mid-major programs only generically and names none of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Toby McMahon"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-10-23-1341"
     }
   },
   "runs": {
@@ -22362,6 +22466,36 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 15.422906200052239,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-23-1341": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-23T13:39:30.415496+00:00",
+      "items": 7,
+      "verdict_counts": {
+        "drop": 5,
+        "publish": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 5
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "7909b1c9c34ac90e",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 12.402599400025792,
       "tokens": null,
       "tokens_source": null
     }
