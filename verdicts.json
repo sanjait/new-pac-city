@@ -19413,6 +19413,296 @@
       ],
       "extent": "9 min read",
       "run": "run_2026-10-23-1341"
+    },
+    "1547d138eb03ba15": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece covers an Oregon State Transportation Services bike-commuter rewards program, not the school's athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Lucy Gilchrist"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "31875d8ca65ed73a": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story covers an ASOSU student-government Senate meeting on sustainability funding and budget rules, not athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Gabriel Robinson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "390f92d2cfa9e6fd": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary identify Oregon State football receiver Jesse Legree's 2027 re-signing.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Liana Handler"
+      ],
+      "run": "run_2026-10-24-0142"
+    },
+    "3c489704ad0d776a": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "gonzaga/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story recaps Texas State women's volleyball's five-set road loss to Gonzaga.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Azul Rios"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "5156ae1015e519f5": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports Oregon State football receiver Jesse Legree's decision to return for the 2027 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Leo Diamond"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "567e3a240bbfa537": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is a feature on Boise State football's game-day tee-dog tradition, covering her training and performance at Boise State games.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The subject is a mascot rather than on-field play, so whether this counts as 'about' the football program itself is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Aidan Mattingly"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "616f78f34eb4e8d7": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is about Gonzaga men's basketball player Izan Almansa's NCAA eligibility clearance ahead of the Arkansas exhibition.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-24-0142"
+    },
+    "635ccb35756aa5e3": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Washington State's chances to upset Boise State in football, including depth and injury concerns.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-24-0142"
+    },
+    "77aa3ddcf6af47b1": {
+      "subjects": {
+        "texas-state/womens-golf": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story recaps Texas State women's golfer Grace Quintanilla's co-championship win at the Jim West Challenge.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "92acba30aca83bf1": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "colorado-state/football": "involves",
+        "utah-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column gives dedicated bowl-eligibility and projection treatment to Washington State, Oregon State, and six other new Pac-12 football programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "930bc953cbfad3d8": {
+      "subjects": {
+        "boise-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column is a game picker's prediction for the Boise State-Washington State football matchup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-24-0142"
+    },
+    "a1df57017a72c347": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Gonzaga men's basketball's upcoming exhibition matchup and what the program hopes to get from it.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-24-0142"
+    },
+    "ae8e1876b0ebc666": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Washington State's keys to beating Boise State in Saturday's football game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-24-0142"
+    },
+    "b23f6c358433a912": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "colorado-state/football": "involves",
+        "utah-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The analysis column gives dedicated bowl-math treatment to Washington State, Oregon State, and six other new Pac-12 football programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-24-0142"
+    },
+    "c2a9129803760d0f": {
+      "subjects": {
+        "texas-state/softball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports Texas State softball's newly released 2027 schedule, including its inaugural Pac-12 conference slate.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cody Dotson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "d518d051d9b1c71c": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The fetched text is a links digest of navigation headlines, ads, and comment-policy boilerplate with no substantive discussion of any single covered program's football.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The title and summary flag a Washington State-Boise State matchup, but the body never develops it beyond a one-line tease.",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "f58d8b0c826309db": {
+      "subjects": {
+        "texas-state/womens-soccer": "about",
+        "gonzaga/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story recaps Texas State women's soccer's 4-2 win over Gonzaga, led by Victoria Meza's two goals.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cooper Yarbough"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-24-0142"
+    },
+    "faa384b2f53115d8": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece covers an Aston Martin Formula One corporate panel and car display on campus, not Texas State athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-24-0142"
     }
   },
   "runs": {
@@ -22496,6 +22786,35 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 12.402599400025792,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-24-0142": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-24T01:40:00.651105+00:00",
+      "items": 18,
+      "verdict_counts": {
+        "drop": 4,
+        "publish": 14
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 2,
+        "Mountain West Connection": 1,
+        "The University Star": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 37.82191070006229,
       "tokens": null,
       "tokens_source": null
     }
