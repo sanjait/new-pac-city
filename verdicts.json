@@ -19703,6 +19703,121 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-10-24-0142"
+    },
+    "08642f30849b7c3f": {
+      "subjects": {
+        "boise-state/football": "about",
+        "washington-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full previews name Boise State, Washington State, Colorado State, San Diego State, Texas State, and Utah State as the subjects of three separate matchups.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-24-1340"
+    },
+    "37b8d67b9beec27c": {
+      "subjects": {
+        "boise-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Boise State blog's preview of the Boise State-Washington State rivalry game, with Boise State the subject and Washington State the substantively-treated opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-24-1340"
+    },
+    "394df2dddbb7fc4d": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece argues for restructuring the CFP schedule nationally and names no covered school; New Mexico's coach appears only in passing and New Mexico is not one of the nine.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-24-1340"
+    },
+    "450df638ca0ea018": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is entirely about Air Force football, which is not a covered program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sean OToole"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-24-1340"
+    },
+    "6cc74db2e71c04d4": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "None of the five NBA alums profiled is tied to one of the nine covered schools in the text given; the one school named, Nevada, is not covered.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-24-1340"
+    },
+    "c7783f483082275a": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The preview covers only Hawaii and Northern Illinois, neither a covered program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-24-1340"
+    },
+    "ddbc9aff6a1430d6": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Previews Air Force-Wyoming, Hawaii-NIU, San Jose State-Nevada, and NDSU-New Mexico, none of which are among the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-24-1340"
+    },
+    "e2ac2b2e898b8e24": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "All four previewed matchups (Air Force-Wyoming, Hawaii-NIU, Nevada-San Jose State, New Mexico-NDSU) are between schools outside the nine.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-10-24-1340"
     }
   },
   "runs": {
@@ -22815,6 +22930,29 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 37.82191070006229,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-24-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-24T13:38:43.415517+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 2,
+        "drop": 6
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 6
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 14.115473699988797,
       "tokens": null,
       "tokens_source": null
     }
