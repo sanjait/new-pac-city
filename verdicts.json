@@ -19818,6 +19818,181 @@
       ],
       "extent": "9 min read",
       "run": "run_2026-10-24-1340"
+    },
+    "0a30a744ac7698ad": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "san-diego-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of WSU and SDSU's 1-1 women's soccer draw, with player names throughout indicating the women's programs and both teams' coaches quoted.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-25-0140"
+    },
+    "28108bf48c24b915": {
+      "subjects": {
+        "fresno-state/womens-soccer": "about",
+        "oregon-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State's 2-0 women's soccer win over Fresno State, with both teams' records, goals and player quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Adriana Franco Rico"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-25-0140"
+    },
+    "46be60eb896d1a5d": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers former Gonzaga wing Tyon Grant-Foster's selection in the G League Draft, with his Gonzaga season detailed as the program that produced him.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-25-0140"
+    },
+    "56315450bc57953c": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Gonzaga's 76-72 exhibition loss to Arkansas, with Gonzaga as the subject throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-25-0140"
+    },
+    "5ec3ea7c8eb8670a": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports on Gonzaga wing Davis Fogle's injury status and absence from the Arkansas exhibition, with Gonzaga's roster as the subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-25-0140"
+    },
+    "7296564f8faa336a": {
+      "subjects": {
+        "san-diego-state/mens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of SDSU's 2-2 draw with Utah Valley, with male player names throughout indicating men's soccer and SDSU's record and quotes as the subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Manny Sanchez"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-25-0140"
+    },
+    "75dec76f7bf0c947": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "colorado-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Colorado State's 3-0 volleyball sweep of Washington State, with set-by-set detail and player quotes from both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-25-0140"
+    },
+    "75f280e48d6e1ce4": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Headline and summary identify Jesse Legree's athletic return to Oregon State as a recruit-turned-talent story under a named columnist's byline.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The sport is never stated in the headline or summary, so only the department-level key is supportable.",
+      "unrecognized": [],
+      "byline": [
+        "Bill Oram"
+      ],
+      "run": "run_2026-10-25-0140"
+    },
+    "7843b4cbd3b480c7": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full game account of Boise State's 31-10 football win over Washington State, with complete box score, stats and postgame analysis for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-25-0140"
+    },
+    "9c5de44775054c50": {
+      "subjects": {
+        "boise-state": "about",
+        "washington-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The post is a live gamethread naming Boise State and Washington State as today's opponents, making both the subject of their matchup.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The text never names a sport, so department-level keys stand in for what is clearly a specific game between the two.",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-25-0140"
+    },
+    "cd013d2a3b8c28bf": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Feature on SDSU women's basketball's returning players ahead of the upcoming season, with the program's roster as the subject throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tyler Bowne"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-25-0140"
     }
   },
   "runs": {
@@ -22953,6 +23128,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 14.115473699988797,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-25-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-25T01:39:01.233684+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 11
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 24.82883489993401,
       "tokens": null,
       "tokens_source": null
     }
