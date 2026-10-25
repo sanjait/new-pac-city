@@ -19993,6 +19993,206 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-10-25-0140"
+    },
+    "2d0b353582bbd9c6": {
+      "subjects": {
+        "boise-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Profiles Boise State football players Boen Phelps and Dylan Riley for their roles in the win over WSU.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-25-1340"
+    },
+    "310c0696d7795971": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "washington-state/womens-volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State volleyball's four-set loss to Washington State set by set.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Lucas Castillo"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-25-1340"
+    },
+    "3de1a127d583dc6a": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Breaks down the big plays that undid Washington State football's defense in the Boise State loss.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-25-1340"
+    },
+    "51a9c59ad8f9b8b2": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Argues what coach Kirby Moore must do to motivate a bowl-eliminated Washington State football team.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-25-1340"
+    },
+    "62dd7f5746dd8be9": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Instant-reaction breakdown of Washington State football's loss to Boise State, drive by drive.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-25-1340"
+    },
+    "787bf126fea398f1": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Argues what coach Kirby Moore must do to motivate a bowl-eliminated Washington State football team.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-10-25-1340"
+    },
+    "7d06ea8f45c69736": {
+      "subjects": {
+        "boise-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State's 31-10 football win over Washington State play by play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-25-1340"
+    },
+    "aa7ce78dc2360eec": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "washington-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "utah-state/football": "involves",
+        "texas-state/football": "involves",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Lists Week 8 kickoff times, TV and odds for six of the nine conference football teams.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-25-1340"
+    },
+    "bc1ad5d02ac5d1ff": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Byline column arguing Washington State football showed spirit but remains behind the conference's elite.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Oregon State's five-game win streak is cited only as a point of comparison, not given substantive treatment, so it was left out of subjects rather than marked involves.",
+      "byline": [
+        "Jacob Thorpe"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-25-1340"
+    },
+    "cf658b1897ffddfa": {
+      "subjects": {
+        "texas-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State football's 20-17 homecoming win over Utah State with quotes and stats.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rhianna Aleman"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-25-1340"
+    },
+    "df7e67f3c6d59ff4": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is centered on whether Oregon State's football team deserves a national ranking.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-25-1340"
+    },
+    "ebfcddd4113a040e": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Fresno State men's basketball's preseason exhibition loss with box-score detail.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-25-1340"
     }
   },
   "runs": {
@@ -23152,6 +23352,26 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 24.82883489993401,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-25-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-25T13:39:01.150241+00:00",
+      "items": 12,
+      "verdict_counts": {
+        "publish": 12
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {},
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 26.57907130010426,
       "tokens": null,
       "tokens_source": null
     }
