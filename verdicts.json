@@ -20331,6 +20331,181 @@
       "extent": "5 min read",
       "lock": "free",
       "run": "run_2026-10-26-0140"
+    },
+    "3af707c1094cf351": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story recaps WSU men's basketball's exhibition win with box-score detail on the Cougars' own players.",
+      "evidence_basis": "title+full-text",
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-26-1340"
+    },
+    "4b593fa89e0c353b": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece specifically reports where Boise State and Oregon State football landed in both major polls, with vote totals for each.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-26-1340"
+    },
+    "63fbd1e7aa33ff57": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece dissects WSU's offensive-line failures specifically in the Boise State loss, with pressure and blocking stats from that game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-26-1340"
+    },
+    "78d688756d0f7c69": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The whole piece is an appreciation of New Mexico Lobos football, a school outside the nine this site covers.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-26-1340"
+    },
+    "928877b76aff9636": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "boise-state/football": "about",
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recaps with stats are given for three separate games, each pairing two covered football programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-26-1340"
+    },
+    "c82e499096480a76": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Every game recapped is between Mountain West schools outside the nine this site covers.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "13 min read",
+      "run": "run_2026-10-26-1340"
+    },
+    "cf9378cb15f488af": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "handball",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is about Utah State's handball club, which the registry marks as a club sport outside what this site covers.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cambria Thurgood"
+      ],
+      "extent": "73 min read",
+      "run": "run_2026-10-26-1340"
+    },
+    "fbbbb2b115191f0c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece analyzes a Nevada-San Jose State game; neither school is among the nine this site covers.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-26-1340"
     }
   },
   "runs": {
@@ -23537,6 +23712,109 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 21.50969219999388,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-26-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-26T13:38:59.342450+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 4,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3,
+        "The Utah Statesman": 1
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "4b593fa89e0c353b",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "78d688756d0f7c69",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c82e499096480a76",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c82e499096480a76",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c82e499096480a76",
+          "source": "Mountain West Connection",
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c82e499096480a76",
+          "source": "Mountain West Connection",
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c82e499096480a76",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c82e499096480a76",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c82e499096480a76",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c82e499096480a76",
+          "source": "Mountain West Connection",
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "cf9378cb15f488af",
+          "source": "The Utah Statesman",
+          "phrase": "handball",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "fbbbb2b115191f0c",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "fbbbb2b115191f0c",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 18.663209500024095,
       "tokens": null,
       "tokens_source": null
     }
