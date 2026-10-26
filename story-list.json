@@ -1,7 +1,105 @@
 {
-  "generated_at": "2026-10-26T01:03:14.080488+00:00",
+  "generated_at": "2026-10-26T13:03:20.918990+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Pac-12 Fall Qualifier Concludes in Spokane with ITA Conference Masters Tickets Punched",
+        "link": "http://pac-12.com/news/2026/10/26/womens-tennis-pac-12-fall-qualifier-concludes-in-spokane-with-ita-conference-masters-tickets-punched.aspx",
+        "link_kind": "item",
+        "date": "2026-10-25T21:35:48+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/26/WTEN_Doubles_Fall_Champs_SDSU.png\" /><br /><br />The inaugural Pac-12 Fall Qualifiers for men's and women's tennis concluded Sunday in Spokane, Washington, at the Stevens Center on the campus of Gonzaga University. Men's and women's singles and doubles champions all punched their ticket to the ITA Conference Masters, which will take place Nov. 5-8, in Rome, Georgia.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "a7c638654ae7bc46",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "The Mountain West/PAC-12 in the Rankings",
+        "link": "https://www.mwcconnection.com/college-football-rankings/94857/the-mountain-west-pac-12-in-the-rankings",
+        "link_kind": "item",
+        "date": "2026-10-25T19:58:22+00:00",
+        "summary": "This weekend we saw one of the biggest Group of Six games of the year when New Mexico hosted North Dakota State in front of a sold out crowd. Was the Lobos win enough to see them enter the rankings? Was Boise State able to gain any ground after defeating Washington State in Pullman? Was [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "4b593fa89e0c353b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "COLORADO STATE TOPS AZTECS 56-49 FOR THEIR FIRST CONFERENCE WIN",
+        "link": "https://www.mwcconnection.com/pac-12-football/94835/rams-top-aztecs-56-49-boise-texas-state-win",
+        "link_kind": "item",
+        "date": "2026-10-25T17:00:00+00:00",
+        "summary": "BOISE STATE HANDLES WASHINGTON STATE 31-10 TEXAS STATE HOLDS OFF UTAH STATE 20-17 Top teams still intact with Boise State, Oregon State and Texas State all in position at the precipice of the conference standings Rams and Aztecs put on offensive show in Fort Collins in front of 33,720 fans Colorado State knew how to [&#8230;]",
+        "author": "Jeffrey Carter",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "928877b76aff9636",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2026 Mountain West Football Week 8 Recap",
+        "link": "https://www.mwcconnection.com/hawaii-warriors-football/94766/2026-mountain-west-football-week-8-recap",
+        "link_kind": "item",
+        "date": "2026-10-25T16:00:00+00:00",
+        "summary": "Week 8 of the 2026 season is in the books, and it was yet another chaotic week in the college football world. It wasn’t quite as ridiculous in the Mountain West, as three of the four spread favorites emerged victorious, but you wouldn’t be able to tell the lack of chaos from simply looking at [&#8230;]",
+        "author": "Chase Dulude",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "c82e499096480a76",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "When the Pack Hunts Together: Appreciating New Mexico’s Magic",
+        "link": "https://www.mwcconnection.com/new-mexico-lobos-football/94848/when-the-pack-hunts-together-appreciating-new-mexicos-magic",
+        "link_kind": "item",
+        "date": "2026-10-25T15:12:05+00:00",
+        "summary": "For many youngin’s today, they have very little knowledge of the 1997 UNM football team beyond what the history books have written, family members have said, or more recently, what the news has said due to then head coach Dennis Franchione’s passing. The magic of the 1997 season was something one had to experience in [&#8230;]",
+        "author": "Adam Evarts",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "78d688756d0f7c69",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Two Lukes, two coaches and what one game in Reno reveals",
+        "link": "https://www.mwcconnection.com/san-jose-state-spartans-football/94797/a-tale-of-two-lukes-what-one-game-says-and-what-it-doesnt",
+        "link_kind": "item",
+        "date": "2026-10-25T14:00:00+00:00",
+        "summary": "Revenge games come with a built-in assumption. The people who got hurt remember it and the people who did the hurting have to answer for it. That assumption mostly belongs to the rest of us. Coaches rarely say the word. It’s really the press, the fans and the comment sections who say it for them. [&#8230;]",
+        "author": "Vic Aquino",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "fbbbb2b115191f0c",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "MWCConnection Reacts Results: Rank the Beavers.",
+        "link": "https://www.mwcconnection.com/colorado-state-rams-football/94763/oregon-state-beavers-football-rankings-jesse-legree",
+        "link_kind": "item",
+        "date": "2026-10-24T16:49:43+00:00",
+        "summary": "This post is brought to you by FanDuel, a proud partner of SBNation. Beavers should be ranked. While Oregon State hasn’t beaten a great team up until this point, they are still one of the most exciting teams in all of college football. The Beavers have started getting votes in the polls but are not [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "df7e67f3c6d59ff4",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Colorado State Clinches as Inaugural Pac-12 Volleyball Championship Host",
         "link": "http://pac-12.com/news/2026/10/24/womens-volleyball-colorado-state-clinches-as-inaugural-pac-12-championship-host.aspx",
@@ -13,6 +111,20 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "585e0c5103151f2d",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2026 Pac-12 Week 8: Game Time, TV Schedule, Odds, Predictions",
+        "link": "https://www.mwcconnection.com/pac-12-discussion/91030/pac-12-football-games-week-8-fanduel-odds-games-predictions",
+        "link_kind": "item",
+        "date": "2026-10-24T14:00:00+00:00",
+        "summary": "The college football season is up and running. We are now entering into conference play for the Pac-12. Check out the Week 5 action with all the info you need for the games this weekend. Share your thoughts in the comments and enjoy the games! Saturday, October 24th Boise State vs Washington State (3:00 PM [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "aa7ce78dc2360eec",
         "sport": "all",
         "medium": "text"
       },
@@ -55,104 +167,6 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "c7783f483082275a",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Open Your Calendars: The Ideal Schedule For The New 24-Team Playoff",
-        "link": "https://www.mwcconnection.com/pac-12-discussion/94759/open-your-calendars-the-ideal-schedule-for-the-new-24-team-playoff",
-        "link_kind": "item",
-        "date": "2026-10-23T17:38:50+00:00",
-        "summary": "Got room in your calendars? A 24-team College Football Playoff means there will be an uptick from 11 playoff games to a whopping 23 playoff games (at least), meaning something is going to have to give with the current college football schedule. What’s the right move? Here is how it could all line up for [&#8230;]",
-        "author": "Dan Allison",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "394df2dddbb7fc4d",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountain West in the NBA: Only 5 alums suiting up ahead of 2026-27 season",
-        "link": "https://www.mwcconnection.com/mountain-west-basketball/94742/mountain-west-nba-5-alums-2026-27-season-sanders-nance",
-        "link_kind": "item",
-        "date": "2026-10-23T17:00:00+00:00",
-        "summary": "While we are 10 days away from the start of the 2026-27 college basketball season, the new NBA season also tipped off this week. In past iterations of Mountain West in the NBA, we have detailed several different alums representing current Mountain West programs. However, as we continue to be reminded, the cupboard is fairly [&#8230;]",
-        "author": "Matt Hanifan",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "6cc74db2e71c04d4",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Air Force Football: Ground Operation Midnight",
-        "link": "https://www.mwcconnection.com/air-force-falcons-football/94688/air-force-football-ground-operation-midnight",
-        "link_kind": "item",
-        "date": "2026-10-23T16:00:00+00:00",
-        "summary": "We have reached that point in the season where there is a large enough sample size to either confirm what you believed to be true— or in some cases reinforce how little we really know about a team. For Air Force, we are starting to see data behind emotion. The offseason held a lot more [&#8230;]",
-        "author": "Sean OToole",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "450df638ca0ea018",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "2026 Mountain West Football Week 8 Game Preview & Predictions",
-        "link": "https://www.mwcconnection.com/air-force-falcons-football/94699/2026-mountain-west-football-week-8-game-preview-predictions",
-        "link_kind": "item",
-        "date": "2026-10-23T14:00:00+00:00",
-        "summary": "Week 8 of the 2026 season is here, and we have an exciting week of games to look at. All four games are taking place between two evenly matched teams: a battle of unexpected contenders, a battle of bottom-feeders, a battle of inconsistent mediocrity, and a final battle of the favorites to make the conference [&#8230;]",
-        "author": "Chase Dulude",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "e2ac2b2e898b8e24",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Mountaintop View 10-23-26: Air Force/Wyoming, New Mexico Uniforms, Coaching Openings, Washington State/Boise State, Nevada/SJSU, Hawaii Travel",
-        "link": "https://www.mwcconnection.com/mountain-west-news/94691/college-football-week-8-boise-state-san-jose-washington-ncaa",
-        "link_kind": "item",
-        "date": "2026-10-23T13:00:00+00:00",
-        "summary": "Homefield advantage has been crucial in the Wyoming/Air Force football rivalry New Mexico will be sporting one of the best uniform combos in college football this weekend Will New Mexico and UNLV be looking for new head coaches Washington State is determined to slow down Boise State’s rushing attack A look at this week’s showdown [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "d518d051d9b1c71c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Nevada’s New Logos are Overall Good, But There are Some Clear Criticisms",
-        "link": "https://www.mwcconnection.com/mountain-west-discussion/94674/nevada-new-logos-wolf-pack-mountain-west-discussion-brian-sandoval-column",
-        "link_kind": "item",
-        "date": "2026-10-22T20:00:00+00:00",
-        "summary": "When you go through a rebranding and/or redesign, whether that be a business or a team, there is an incredible amount of pressure on everyone involved. You still want to appease your current fanbase and not change too much, but also want to make the new branding feel unique enough to push for the new [&#8230;]",
-        "author": "Derek Raridon",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "7909b1c9c34ac90e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "With A 24-Team CFP, What Is The Future For Bowl Games?",
-        "link": "https://www.mwcconnection.com/pac-12-discussion/94669/with-a-24-team-cfp-what-is-the-future-for-bowl-games",
-        "link_kind": "item",
-        "date": "2026-10-22T18:34:11+00:00",
-        "summary": "Bowl Season. A time of college football cheer and bringing the family together around the television to watch Hawaii and California play each other in the wee hours of a cold holiday night. Now, as of October 2026, Bowl Season is starting to feel more like doomsday. A 24-team playoff bracket is likely to drastically [&#8230;]",
-        "author": "Dan Allison",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "23d997f0a33ed74c",
         "sport": "all",
         "medium": "text"
       },
@@ -5176,21 +5190,6 @@
         "id": "42d18ffbc95e4eb8",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "#349: Pac-12 vs B1G - San Diego State vs UCLA Week-2 Preview",
-        "link": "https://sonsofmontezuma.libsyn.com/349-pac-12-vs-b1g-san-diego-state-vs-ucla-week-2-preview",
-        "link_kind": "item",
-        "date": "2026-09-11T04:59:00+00:00",
-        "summary": "<p>SDSU Football heads to the Rose Bowl for week #2 matchup vs UCLA. The Sons of Montezuma take a look at some game film and discuss how the Aztecs can get out of Pasadena with a B1G win! </p>",
-        "author": "",
-        "duration": 2352,
-        "channel_url": "",
-        "source": "Sons of Montezuma",
-        "id": "eb0d12fe31863690",
-        "extent": "39 min",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Texas State": [
@@ -5589,6 +5588,20 @@
     ],
     "Utah State": [
       {
+        "title": "USU handball team starts first semester as a registered club sport",
+        "link": "https://usustatesman.com/usu-handball-team-starts-first-semester-as-a-registered-club-sport/",
+        "link_kind": "item",
+        "date": "2026-10-26T12:46:40+00:00",
+        "summary": "<p>Utah State University’s Campus Recreation has lots of club sports for students to get involved in. Club sports range anywhere&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/usu-handball-team-starts-first-semester-as-a-registered-club-sport/\">USU handball team starts first semester as a registered club sport</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
+        "author": "Cambria Thurgood",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Utah Statesman",
+        "id": "cf9378cb15f488af",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Aggie Football Drops 20-17 Heartbreaker at Texas State",
         "link": "https://utahstateaggies.com/news/2026/10/24/aggie-football-drops-20-17-heartbreaker-at-texas-state.aspx",
         "link_kind": "item",
@@ -5956,20 +5969,6 @@
         "medium": "text"
       },
       {
-        "title": "A look into the 2026 women’s basketball season",
-        "link": "https://usustatesman.com/a-look-into-the-2026-womens-basketball-season/",
-        "link_kind": "item",
-        "date": "2026-10-05T12:55:13+00:00",
-        "summary": "<p>In preparation for the upcoming Women’s Basketball season, Utah State University’s Women’s Basketball held its media day to allow fans&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/a-look-into-the-2026-womens-basketball-season/\">A look into the 2026 women&#8217;s basketball season</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
-        "author": "Rory McNeill",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Utah Statesman",
-        "id": "7f487dc4c2849800",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Utah State Football Drops Pac-12 Opener at No. 22 Boise State 37-18",
         "link": "https://utahstateaggies.com/news/2026/10/3/utah-state-football-drops-pac-12-opener-at-boise-state-37-18.aspx",
         "link_kind": "item",
@@ -6072,6 +6071,38 @@
     ],
     "Washington State": [
       {
+        "title": "WSU football’s loss to Boise State made offensive-line problem clear",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-footballs-loss-to-boise-state-made-offensive-line-problem-clear/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-10-26T01:37:48+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10252026_tzr_tzr_183530.jpg?d=1200x630\"><br/>There are lots of ways to dissect the reasons why WSU’s margin for victory has been so thin this season, but the main ones center around the team’s offensive line.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "63fbd1e7aa33ff57",
+        "sport": "football",
+        "medium": "text",
+        "also": [
+          "The Spokesman-Review"
+        ]
+      },
+      {
+        "title": "PAC-12 CHAOS! Colorado State Wins 56–49, Boise State Rolls WSU | Pac Pulse Week 8",
+        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/PAC-12-CHAOS--Colorado-State-Wins-5649--Boise-State-Rolls-WSU--Pac-Pulse-Week-8-e3r2pf4",
+        "link_kind": "item",
+        "date": "2026-10-25T21:30:32+00:00",
+        "summary": "<p>Week 8 delivered plenty of Pac-12 chaos.</p><p>Colorado State survived San Diego State in a wild <strong>56–49 shootout</strong>, Boise State pulled away from Washington State for a <strong>31–10 win in Pullman</strong>, and Texas State edged Utah State <strong>20–17</strong>.</p><p>On this episode of <strong>Pac Pulse</strong>, we break down:</p><p>🏈 Boise State’s dominant rushing performance against WSU<br>🏈 Owen Eshelman’s second start for the Cougars<br>🏈 Colorado State and San Diego State combining for 105 points<br>🏈 Texas State’s narrow victory over Utah State<br>🏈 Every Week 9 conference matchup, kickoff time and TV network</p><p><strong>Week 8 Finals:</strong><br>Boise State 31, Washington State 10<br>Colorado State 56, San Diego State 49<br>Texas State 20, Utah State 17</p><p><strong>Coming up in Week 9:</strong><br>Colorado State at Utah State<br>Washington State at San Diego State<br>Texas State at Boise State<br>Oregon State at Fresno State</p><p>Which Week 8 result surprised you most? And which team gets the biggest win next Saturday? Drop your picks in the comments.</p><p>Subscribe to <strong>Up West Playbook</strong> for weekly Pac-12 football reactions, breakdowns, previews and <strong>Pac Pulse</strong> episodes.</p><p>#Pac12 #CollegeFootball #WashingtonState #BoiseState #ColoradoState #SanDiegoState #TexasState #UtahState #PacPulse</p><p></p>",
+        "author": "Up West Sports",
+        "duration": 1019,
+        "channel_url": "",
+        "source": "Palouse Playbook",
+        "id": "19abf5b321aef2d1",
+        "extent": "17 min",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
         "title": "Cougar Postgame Notes - Boise State",
         "link": "https://wsucougars.com/news/2026/10/25/cougar-postgame-notes-boise-state",
         "link_kind": "item",
@@ -6148,6 +6179,20 @@
         "medium": "audio"
       },
       {
+        "title": "WSU Football: Kirby Moore and Student-Athletes | Boise State Postgame Press Conference | 10/24/26",
+        "link": "https://wsucougars.com/news/2026/10/25/wsu-football-kirby-moore-and-student-athletes-boise-state-postgame-press-conference-102426",
+        "link_kind": "item",
+        "date": "2026-10-25T14:24:08+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "eefc0dc04fd4290c",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Washington State Falls in Battle with Boise State 31-10",
         "link": "https://wsucougars.com/news/2026/10/25/washington-state-falls-in-battle-with-boise-state-31-10",
         "link_kind": "item",
@@ -6176,17 +6221,17 @@
         "medium": "text"
       },
       {
-        "title": "Why loss to Boise State made Cougars' offensive line problem clear | Rewind",
-        "link": "http://www.spokesman.com/stories/2026/oct/25/after-loss-to-boise-state-wsu-has-an-offensive-lin/",
+        "title": "Washington State beats rival Washington in men's basketball exhibition",
+        "link": "http://www.spokesman.com/stories/2026/oct/25/washington-state-beats-rival-washington-in-mens-ba/",
         "link_kind": "item",
         "date": "2026-10-25T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Not five seconds had passed after Owen Eshelman’s pick fell into the hands of Boise State defender Boen Phelps when the reality began to set in for Washington State.</p><p><em>This one is probably a loss.</em></p><p>All things considered, Eshelman played a solid game on Saturday night, completing 21 of 40 passes for 191 yards and the one pick. He led one touchdown drive, a long series that tied the game shortly before halftime, and he laced a couple passes that reminded everyone of his long-term potential.</p><p>In a vacuum, Eshelman’s one interception shouldn’t be a backbreaker for WSU. He’s a redshirt freshman, and mistakes are going to happen. But the Cougars’ margin for victory has been  so razor-thin all season that Eshelman’s one bad error  all but sealed things for the Broncos, who followed with three straight touchdowns in a 31-10 win at Gesa Field, handing WSU its fifth straight setback.</p><p>There are a lots of ways to dissect the reasons why WSU’s margin for victory has been so thin this season, but the main ones center around the team’s offensive line: left tackle Ashton Tripp, left guard Jonny Lester, center Noah Dunham, right guard Nick Bakken and right tackle Jaylin Caldwell. That group had a big hand in many of the reasons the Cougs’ offense couldn’t get off the ground in Saturday’s game: Eshelman took four sacks, he had little time to make decisions even when he wasn’t brought down, and in perhaps an even more costly development, the hosts’ rushing attack had zero legs.</p><p>In recent weeks, WSU has made two key changes to its offense – head coach Kirby Moore is now calling plays and Eshelman has replaced Caden Pinnick at quarterback – and things haven’t looked consistently better for that group. The Cougars’ running back trio hasn’t generated anything meaningful. And their quarterback is still running for his life, no matter who it is.</p><p>That brings into focus WSU’s offensive line, which has been the common denominator for their offense’s woes, from a season-opening loss at rival Washington to a road setback to Utah State to a home defeat to No. 21 Boise State. The Cougs’ front five hasn’t protected their quarterbacks enough to give them time to make good decisions, and they haven’t been able to generate much consistent push up front, leading to running backs getting stuffed in short-yardage situations.</p><p>That much has been going on for most of this season, but it zoomed into focus after the Cougars’ loss on Saturday night. In that game, Eshelman was pressured 16 times, according to Pro Football Focus. Here’s the breakdown on where those came from: five from Caldwell, four from Bakken (one sack), three from Dunham and two apiece from Lester (one sack) and Tripp, who returned to action after missing one-plus games with an ankle injury he suffered early on against Utah State.</p><p>As a result, Eshelman took 22 dropbacks under pressure, per PFF. That’s only marginally fewer than the 29 dropbacks on which he was kept clean. He was under heavy pressure just about all night, which limited the passes he was able to make, which in turn hampered the Cougars’ entire offensive operation.</p><p>Let’s take a look at a few plays in particular to paint this picture. The first came late in the first quarter, on the first play of WSU’s second drive of the game. Eshelman goes to hand the ball off to running back Kirby Vorhees, but he’s met immediately by BSU edge rusher Jayden Virgin-Morgan, who used a simple stunt to surge into the backfield and make the tackle.</p><!--[embed id=12370]--><p>About 12 minutes of game time later, Boise State pulls out the same trick to get pressure on Eshelman. This time it’s defender Bol Bol who comes on the same type of stunt, getting into the backfield and flushing Eshelman from the pocket. The Cougs’ QB does a nice job to escape and get a chunk of yards, but he only needed to because of the pressure that Bakken can’t pick up.</p><!--[embed id=12371]--><p>Then, about midway through the fourth quarter, the Broncos get the Cougars again with the same stunt. This time, Dunham and Bakken don’t identify it, allowing Bol to make his way into the backfield again, this time getting to Eshelman for a sack.</p><!--[embed id=12372]--><p>But other times, the Cougars’ offensive linemen just couldn’t block their matchups on running plays, a key reason why tailbacks Vorhees and Leo Pulalasi combined for only 20 yards on 10 carries. In seven games against FBS competition this season, the Cougars are averaging 15 carries for 48 yards from their running backs – Vorhees, Pulalasi and Maxwell Woods, who did not get any carries in Saturday’s game – whose retention was regarded as one of Moore’s top offseason accomplishments.</p><p>But those three haven’t generated anything resembling credible offense, and it’s in large part due to their offensive line’s inability to create space up front. To the Cougs’ credit, they did so on two key occasions on Saturday: Once when Vorhees plunged a yard into the end zone and once when Eshelman used a QB keeper to convert a fourth-and-short play.</p><p>But those plays were exceptions to the rule. More often, WSU’s front five have not found ways to move their matchups and find space for their tailbacks. On Saturday, the biggest culprit was Caldwell, who was routinely beaten off the line. On one play, he doesn’t block anyone, and on another, he’s just beaten.</p><!--[embed id=12373]--><!--[embed id=12374]--><p>For the season, WSU has earned a PFF run-blocking grade of just 50.3, which ranks No. 129 of 138 FBS teams. That shines a light on the larger dynamic at play: Three of the Cougars’ five offensive linemen – Tripp, Dunham and Lester – were recruited to play in an Air Raid-adjacent system, which prioritizes pass-blocking over gritty run-blocking in the trenches. These three aren’t at WSU to do the latter, which is one reason why the team’s running backs haven’t gotten anything consistent going all season.</p><p>Plus, between Pinnick and Eshelman, neither have had much time to pass. Pinnick was more guilty of running himself into sacks – even with only six games to his name, Pinnick is still tied for the nationwide lead with 11 QB-fault sacks, per PFF – but both have been pressured far too much. In six of their seven FBS games, the Cougars have permitted double-digit QB pressures, underscoring how consistent the problem has been.</p><p>“Well, there’s five guys, so there’s a lot of different factors,” Moore said, “and all five being on the same page, and they could all have one-on-one matchups. Boise’s got good players. Give them credit. I think there’s a couple different factors there. Obviously, had a short yardage one where (it was) third-and-1 we didn’t get it. And then there was pressure on the quarterback with some of the dropback opportunities, and so we gotta do a better job.”</p>",
+        "summary": "<p>SEATTLE – For the first time since 1917, the men’s basketball teams from Washington State and Washington won’t meet in the regular season. But the Cougars still got a shot at their bitter rivals in a preseason matchup, and made the most of it.</p><p>WSU topped UW 84-80 in an exhibition on Sunday at Alaska Airlines Arena – a preseason boost for a Cougars team that was coming off a 28-point exhibition loss at New Mexico on Oct. 18.</p><p>The 7,011 in attendance were treated to a free-throw shootout. The teams combined for 87 foul shots. WSU went 31 of 46 from the line and the Huskies shot 30 of 41 from the stripe. The teams both shot 22 of 56 from the field. WSU’s 9-for-26 mark from 3-point range – compared to UW’s 6-for-23 – gave the visitors the edge.</p><p>The Cougars trailed by 10 points midway through the first half, but used an 8-2 run to get back in it and took a 38-37 lead into halftime. The Huskies opened a seven-point lead about seven minutes into the second period before a Casey Jones 3 keyed a 13-2 WSU run that put the Cougars up by four.</p><p>WSU’s Ronnie Harrison scored back-to-back buckets on a tip-in and a dunk with just over five minutes left to break a tie. The Cougars led by as many as eight points with under a minute left before a UW rally, but WSU got a game-winning block from Harrison on LeJuan Watts’ game-tying 3-point attempt with six seconds left.</p><p>Harrison, a senior transfer forward from East Texas A&amp;M, led the Cougs with 23 points and 11 rebounds, shooting 8 of 9 from the floor. Guard Lazerek Houston, a Central Missouri transfer, added 15 points. Oregon transfer guard Jamari Phillips chipped in 12 points. Providence transfer guard Jaylen Harrell scored 11 points and Jones, a former Eastern Washington standout, had 10 for the new-look Cougars, who had to entirely rebuild their roster this offseason.</p><p>Watts, a former WSU and EWU star who spent last season at Texas Tech, led the Huskies with 28 points, shooting 7 of 12 from the field and 12 of 13 from the foul line. Gonzaga transfer Steele Venters had three points for UW.</p><p>The Cougs open their regular season Nov. 2 at home against Davidson.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
         "source": "The Spokesman-Review",
-        "id": "8de8b22b93b2cc10",
-        "sport": "football",
+        "id": "3af707c1094cf351",
+        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -6528,20 +6573,6 @@
         "medium": "text"
       },
       {
-        "title": "Cougar volleyball set to face Rams, Bobcats",
-        "link": "https://dailyevergreen.com/200526/sports/cougar-volleyball-set-to-face-rams-bobcats/",
-        "link_kind": "item",
-        "date": "2026-10-21T18:42:53+00:00",
-        "summary": "After a five-set loss to Fresno State Saturday, Washington State (8-9, 3-4 Pac-12) remains at home for a two-match stand against Colorado State (14-3, 7-0 Pac-12) and Texas State (7-12, 2-6 Pac-12).  The Cougars play the Rams at 7:30 p.m. Thursday and the Bobcats at 11 a.m. Saturday.  The Cougs sit in fifth in the...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "c2f7cb7839c3119b",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Owen Eshelman is the TRUTH (Episode 265)",
         "link": "https://podcastvseveryone.podbean.com/e/owen-eshelman-is-the-truth-episode-265/",
         "link_kind": "item",
@@ -6582,20 +6613,6 @@
         "source": "The Spokesman-Review",
         "id": "640ff3b4ff9c7f06",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Top Takeaways: The Cougs come up empty in Bellingham",
-        "link": "https://dailyevergreen.com/200661/sports/top-takeaways-the-cougs-come-up-empty-in-bellingham/",
-        "link_kind": "item",
-        "date": "2026-10-20T23:51:03+00:00",
-        "summary": "After balancing their conference record with a sweep over the Eagles, the Cougs were brought back to earth by the Western Vikings over the weekend. Western swept the Cougs in two games in Bellingham and secured their sixth straight win over the Cougs. Game one was a 4-1 marathon, and game two was a 4-2...",
-        "author": "SMITH SLYE, Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "d8dcae5f542ddb02",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -8071,20 +8088,6 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "67e6d77073122ac3",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Three thoughts from WSU Cougars’ loss to Arizona",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/three-thoughts-from-wsu-cougars-loss-to-arizona/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-09-28T03:33:30+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09272026_tzr_tzr_203148.jpg?d=1200x630\"><br/>Washington State couldn't hold onto a two-score lead against Arizona. Here are three thoughts from the Cougars' loss Saturday.",
-        "author": "Greg Woods",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "640477a5c6bec6c7",
         "sport": "football",
         "medium": "text"
       },
