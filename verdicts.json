@@ -20193,6 +20193,144 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-10-25-1340"
+    },
+    "331e53de5c7fca8f": {
+      "subjects": {
+        "texas-state/womens-soccer": "about",
+        "washington-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State's road draw with Washington State, told from the Bobcats' perspective.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Crystal Creek"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-26-0140"
+    },
+    "4c204eecc7ee706d": {
+      "kind": "news",
+      "verdict": "hold",
+      "reason": "Title and summary name Oregon State and a theme of career-long loyalty but never state which sport Shuler and Lake play.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The story is plainly about Oregon State athletes, but which program is never stated in the headline or summary, so it can't be keyed even at department level.",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Scott Sepich"
+      ],
+      "run": "run_2026-10-26-0140"
+    },
+    "4f9a92ae78d171e8": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State men's basketball's exhibition win over Cal, with player and coach quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-26-0140"
+    },
+    "7fe5d3adec354c9f": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Postgame analysis of Gonzaga's exhibition loss, focused on the Bulldogs' roster, eligibility news, and point-guard rotation.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-26-0140"
+    },
+    "8de8b22b93b2cc10": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Postgame breakdown of Washington State's offensive-line struggles against Boise State, with specific plays and PFF pressure data.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-26-0140"
+    },
+    "93db7f5c0f2fe5ac": {
+      "subjects": {
+        "boise-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full-game recap of Boise State's 31-10 win over Washington State with both teams' performances covered in depth.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-26-0140"
+    },
+    "bd151e0a04c42fd9": {
+      "subjects": {
+        "oregon-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State volleyball's five-set comeback win over Utah State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-26-0140"
+    },
+    "d0ea2b70f28c7836": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish Oregon State football moving in the AP and coaches polls after its bye week.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-26-0140"
+    },
+    "f3eeb91755a7ca20": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Opinion column arguing that Washington State's football team is simply bad this season, with the author's own analysis throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "5 min read",
+      "lock": "free",
+      "run": "run_2026-10-26-0140"
     }
   },
   "runs": {
@@ -23372,6 +23510,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 26.57907130010426,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-26-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-26T01:38:54.849094+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 8,
+        "hold": 1
+      },
+      "hidden_per_source": {
+        "The Oregonian": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 21.50969219999388,
       "tokens": null,
       "tokens_source": null
     }
