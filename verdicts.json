@@ -20506,6 +20506,362 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-10-26-1340"
+    },
+    "116ba7e1e4e5baa2": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The brief reports the betting line and against-the-spread history for Oregon State's football game against Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea | The Oregonian/OregonLive"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-10-27-0142"
+    },
+    "13e224540f6e9841": {
+      "subjects": {
+        "texas-state/womens-tennis": "about",
+        "san-diego-state/womens-tennis": "involves",
+        "boise-state/womens-tennis": "involves",
+        "utah-state/womens-tennis": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The recap covers Texas State women's tennis results in detail against named Boise State, San Diego State and Utah State opponents at the Pac-12 Fall Qualifier.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cooper Yarbough"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-27-0142"
+    },
+    "18fd1b60e0963a57": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The retrospective centers on a specific past Fresno State football game and its quarterback's performance.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-10-27-0142"
+    },
+    "3a3d462d98bba491": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece is an FCS football poll column discussing teams entirely outside the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "12 min read",
+      "lock": "free",
+      "run": "run_2026-10-27-0142"
+    },
+    "48cca43bd0b52e1d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The report covers an Oregon State football injury-return update ahead of the Fresno State game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea | The Oregonian/OregonLive"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-10-27-0142"
+    },
+    "4ae2e90d8dae3a9e": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The interview is with Fresno State's head men's basketball coach about the team's approaching inaugural Pac-12 season.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-10-27-0142"
+    },
+    "7411ff6f481bd7c0": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline names Oregon State's bye week and upcoming trip to Fresno State, which together establish a football game-week story.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The specific sport is inferred from 'bye week' and 'trip to' phrasing rather than stated outright.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-27-0142"
+    },
+    "7a9edfe3dd1bfb96": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece covers Washington State men's basketball's exhibition win over Washington, with Cougars coach and player quotes throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "University of Washington Huskies",
+          "kind": "not-ours"
+        }
+      ],
+      "byline": [
+        "Percy Allen"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-27-0142"
+    },
+    "819f0463cfa09120": {
+      "subjects": {},
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The recap covers a WSU hockey game against Montana Tech, and hockey is not among Washington State's listed registry programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "Cougar hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "ambiguous": "WSU hockey carries the Cougars name and is covered as a varsity-style team, but hockey is absent from Washington State's registry row.",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-27-0142"
+    },
+    "90a08abc8e9add87": {
+      "subjects": {
+        "utah-state/mens-tennis": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports a Utah State men's tennis player's historic qualification for the NCAA individual championships.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Elissa Ross"
+      ],
+      "extent": "68 min read",
+      "run": "run_2026-10-27-0142"
+    },
+    "93c47552eca057e4": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The weekly Pac-12 football power rankings column gives a dedicated, substantive entry to each of the conference's eight football-playing schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-27-0142"
+    },
+    "9aa5c8bf5abfa061": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The report details Washington State football's injury and offensive-line issues following its loss to Boise State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-27-0142"
+    },
+    "ab3249be020022eb": {
+      "subjects": {
+        "utah-state/womens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature profiles Utah State women's soccer players recruited from the local Cache Valley area.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "63 min read",
+      "run": "run_2026-10-27-0142"
+    },
+    "c1cba8fb2d858696": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The first-look piece previews Washington State football's road game at San Diego State and reviews the prior Boise State loss in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-27-0142"
+    },
+    "c1ec58e254575826": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Oregon State's Halloween road football game at Fresno State, breaking down both rosters.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea | The Oregonian/OregonLive"
+      ],
+      "extent": "2 min read",
+      "lock": "free",
+      "run": "run_2026-10-27-0142"
+    },
+    "d12c30c49a1286f0": {
+      "subjects": {
+        "boise-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Boise State men's basketball ahead of its first season in the Pac-12.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Worwood"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-27-0142"
+    },
+    "db32780ac467f38d": {
+      "subjects": {
+        "washington-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The report details Washington State football's injury situation and offensive-line problems from the Boise State loss.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-27-0142"
+    },
+    "dcb97a10efb6b1c1": {
+      "subjects": {
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The roundup's one substantive item explains Washington State football's offensive-line problems from the Boise State loss.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-27-0142"
+    },
+    "f028a013f0764230": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The brief reports the 2027 Apple Cup date move affecting Washington State football's schedule.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "Washington Huskies",
+          "kind": "not-ours"
+        }
+      ],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-27-0142"
+    },
+    "fbfd43ca335f5019": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports Washington State football's 2027 Apple Cup date change, a schedule move for the Cougars.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "Washington Huskies",
+          "kind": "not-ours"
+        }
+      ],
+      "byline": [
+        "Percy Allen"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-27-0142"
+    },
+    "ff313f1b706904aa": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature profiles a Utah State football punter and his path to the program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Quinton Papa"
+      ],
+      "extent": "42 min read",
+      "run": "run_2026-10-27-0142"
     }
   },
   "runs": {
@@ -23815,6 +24171,62 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 18.663209500024095,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-27-0142": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-27T01:39:42.975682+00:00",
+      "items": 21,
+      "verdict_counts": {
+        "publish": 19,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Press Break": 1,
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 2
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "7a9edfe3dd1bfb96",
+          "source": "The Spokesman-Review",
+          "phrase": "University of Washington Huskies",
+          "kind": "not-ours"
+        },
+        {
+          "id": "819f0463cfa09120",
+          "source": "The Daily Evergreen",
+          "phrase": "Cougar hockey",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "f028a013f0764230",
+          "source": "The Spokesman-Review",
+          "phrase": "Washington Huskies",
+          "kind": "not-ours"
+        },
+        {
+          "id": "fbfd43ca335f5019",
+          "source": "The Seattle Times",
+          "phrase": "Washington Huskies",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 56.771214299835265,
       "tokens": null,
       "tokens_source": null
     }
