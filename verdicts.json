@@ -20862,6 +20862,131 @@
       ],
       "extent": "42 min read",
       "run": "run_2026-10-27-0142"
+    },
+    "34ef58ea8675ab17": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Each of the four honorees named is given a full paragraph recognizing their performance for a covered football program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-27-1340"
+    },
+    "5422c22e62633a77": {
+      "subjects": {
+        "texas-state/mens-golf": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The whole piece recaps Texas State men's golf's performance and final team standing at the Quebin Cup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-27-1340"
+    },
+    "7f58bf8c9a7c2fbf": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Every player of the week named (Wyoming, New Mexico, Nevada, Hawai'i) plays for a Mountain West school outside the nine covered programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-27-1340"
+    },
+    "8811e608406aa2c9": {
+      "subjects": {
+        "texas-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A recruiting-decommit roundup for Mountain West and Pac-12 schools names Texas State as a leader in this week's new offers.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Texas State is named only once, in passing among offer leaders, with no further detail, so whether that rises above a mention is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-27-1340"
+    },
+    "b646a8b48426e4ec": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Every ranked team (New Mexico, North Dakota State, Wyoming, Air Force, Nevada, San Jose State, Hawai'i, Northern Illinois) is a Mountain West school outside the nine covered programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-27-1340"
+    },
+    "dbe729c51c65f73d": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Washington State hockey is not a program listed in the registry's Washington State row.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach McFarlane"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-27-1340"
+    },
+    "dc71c1b9dc245e68": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "texas-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A weekly power-ranking piece gives each of seven covered football programs its own game analysis, with Fresno State the only one not substantively covered.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-10-27-1340"
     }
   },
   "runs": {
@@ -24227,6 +24352,49 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 56.771214299835265,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-27-1340": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-27T13:39:08.785051+00:00",
+      "items": 7,
+      "verdict_counts": {
+        "publish": 4,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2,
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "7f58bf8c9a7c2fbf",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "id": "b646a8b48426e4ec",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "dbe729c51c65f73d",
+          "source": "The Daily Evergreen",
+          "phrase": "hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 14.69082699995488,
       "tokens": null,
       "tokens_source": null
     }
