@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-10-27T13:03:32.693852+00:00",
+  "generated_at": "2026-10-28T01:03:13.301777+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Mountaintop View 10-27-26",
+        "link": "https://www.mwcconnection.com/mountain-west-news/94893/mountain-west-pac-12-football-basketball-wyoming-boise",
+        "link_kind": "item",
+        "date": "2026-10-27T13:00:00+00:00",
+        "summary": "Pokes Insider: Finding the winning formula Ryan Thorburn from Pokes Insider at gowyo dot com recaps the latest from Wyoming football as they head into the bye week. After a dreadful start, the Pokes are starting to look like one of the better teams in the Mountain West. Spencer Danielson on vacant jobs: NIU AD [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "7c0bebdffffe0a42",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Pac-12 Players of the Week - Oct. 27, 2026",
+        "link": "http://pac-12.com/news/2026/10/27/pac-12-players-of-the-week-oct-27-2026.aspx",
+        "link_kind": "item",
+        "date": "2026-10-27T12:57:00+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/Pac12_Standout_Performances_CoverSlide_16x9_3_.png\" /><br /><br />The Pac-12 today announced its Players of the Week for Women's Soccer, Men's Soccer and Volleyball, highlighting several key performances from the week that was.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "37a8e44d8ce134da",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Press Break FCS Top 25 Week 9: Thoughts on Playoffs Committee Top 10",
         "link": "https://pressbreak.substack.com/p/press-break-fcs-top-25-week-9-thoughts",
@@ -171,20 +199,6 @@
         "medium": "text"
       },
       {
-        "title": "When the Pack Hunts Together: Appreciating New Mexico’s Magic",
-        "link": "https://www.mwcconnection.com/new-mexico-lobos-football/94848/when-the-pack-hunts-together-appreciating-new-mexicos-magic",
-        "link_kind": "item",
-        "date": "2026-10-25T15:12:05+00:00",
-        "summary": "For many youngin’s today, they have very little knowledge of the 1997 UNM football team beyond what the history books have written, family members have said, or more recently, what the news has said due to then head coach Dennis Franchione’s passing. The magic of the 1997 season was something one had to experience in [&#8230;]",
-        "author": "Adam Evarts",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "78d688756d0f7c69",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Colorado State Clinches as Inaugural Pac-12 Volleyball Championship Host",
         "link": "http://pac-12.com/news/2026/10/24/womens-volleyball-colorado-state-clinches-as-inaugural-pac-12-championship-host.aspx",
         "link_kind": "item",
@@ -266,20 +280,6 @@
         "source": "Press Break",
         "id": "7a68264dbb0ff263",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Pac-12 Football Players of the Week - Oct. 19, 2026",
-        "link": "http://pac-12.com/news/2026/10/19/pac-12-football-players-of-the-week-oct-19-2026.aspx",
-        "link_kind": "item",
-        "date": "2026-10-19T11:58:00+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/Wallin_Kai.jpg\" /><br /><br />The Pac-12 today announced its football weekly awards for Week 7 of the 2026 season, as selected by the league's media, with 3 different schools represented and a 7th straight win for the Freshman of the Week.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "c79e434c8415e450",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -888,20 +888,6 @@
         "medium": "text"
       },
       {
-        "title": "10 players and one coach represent Boise State in NFL Week Six",
-        "link": "https://www.arbiteronline.com/2026/10/16/10-players-and-one-coach-represent-boise-state-in-nfl-week-six/",
-        "link_kind": "item",
-        "date": "2026-10-16T19:42:41+00:00",
-        "summary": "<p>Today, Boise State has 10 players and one coach represented in the NFL. Here’s how their 2026 seasons have shaped up heading into Week Six.</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/10/16/10-players-and-one-coach-represent-boise-state-in-nfl-week-six/\">10 players and one coach represent Boise State in NFL Week Six</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
-        "author": "Jake Zamora",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Arbiter",
-        "id": "97811ec241201878",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Boise State Hosts Washington in Second Exhibition Contest",
         "link": "https://broncosports.com/news/2026/10/16/mens-basketball-boise-state-hosts-washington-in-second-exhibition-contest",
         "link_kind": "item",
@@ -1249,6 +1235,34 @@
     ],
     "Colorado State": [
       {
+        "title": "Game Week: at Utah State",
+        "link": "https://csurams.com/news/2026/10/27/football-game-week-at-utah-state",
+        "link_kind": "item",
+        "date": "2026-10-27T23:06:00+00:00",
+        "summary": "<img alt=\"Game Week at Utah State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/FB26_-_Game_Week_-_USU.png\" /><br /><br />Colorado State continues Pac-12 action at long-time rival Utah State.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "d078f8565ef1ceb6",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Butler’s Game Reaches Desired Target",
+        "link": "https://csurams.com/news/2026/10/27/ramwire-butlers-game-reaches-desired-target",
+        "link_kind": "item",
+        "date": "2026-10-27T19:00:00+00:00",
+        "summary": "<img alt=\"Jase\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/26/jbmm1.jpg\" /><br /><br />Comfort and confidence define second season",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "6318f7fd564a4ae1",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "Monday Presser: Depth of Roster Has Been Tested",
         "link": "https://csurams.com/news/2026/10/26/football-monday-presser-depth-of-roster-has-been-tested",
         "link_kind": "item",
@@ -1400,20 +1414,6 @@
         "channel_url": "",
         "source": "Colorado State Athletics",
         "id": "bd0d9cdda7044aa3",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Prepared for the Moment",
-        "link": "https://csurams.com/news/2026/10/21/football-prepared-for-the-moment",
-        "link_kind": "item",
-        "date": "2026-10-21T19:00:00+00:00",
-        "summary": "<img alt=\"Kenny McClendon\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/20/McClendon.jpg\" /><br /><br />McClendon settles into his role leading defense",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "6126f56207198b1a",
         "sport": "football",
         "medium": "text"
       },
@@ -1758,6 +1758,48 @@
     ],
     "Fresno State": [
       {
+        "title": "2026 Bulldogs in the NFL: Week 7",
+        "link": "https://gobulldogs.com/news/2026/10/27/football-2026-bulldogs-in-the-nfl-week-7",
+        "link_kind": "item",
+        "date": "2026-10-28T01:29:00+00:00",
+        "summary": "<img alt=\"NFL: Kansas City Chiefs at Las Vegas Raiders\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/img_tag_reuters.com_2026_newsml_MT1USATODAY30027950_466674398_zT9IC.jpg\" /><br /><br />Rumbling out of the Dog House – Week 7 of the NFL is done and dusted. See how the former Bulldogs showed out.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Fresno State Athletics",
+        "id": "0ccec556d7636154",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "A first look at Walberg’s starting five as Bulldogs prepare for historic new season",
+        "link": "https://fscollegian.com/2026/10/a-first-look-at-walbergs-starting-five-as-bulldogs-prepare-for-historic-new-season/",
+        "link_kind": "item",
+        "date": "2026-10-27T22:00:07+00:00",
+        "summary": "On Oct. 24, the Fresno State men’s basketball team faced off against the Cal State Fullerton Titans in an exhibition preseason matchup. The Bulldogs fell to the Titans 96-78 in what was a very competitive game despite the final score. At the exhibition, head coach Vance Walberg unveiled his new starting five for the 2026-27...",
+        "author": "Sam Quintero, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "72980703b026388e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "‘Why not us?’: How Fresno State stunned Oregon State in 2001",
+        "link": "https://fscollegian.com/2026/10/why-not-us-how-fresno-state-stunned-oregon-state-in-2001/",
+        "link_kind": "item",
+        "date": "2026-10-27T18:35:23+00:00",
+        "summary": "Long before Fresno State and Oregon State shared a conference, the Bulldogs sent a message to the college football world at the Beaver’s expense. On Sept. 2, 2001, a nationally televised audience would watch No. 10 Oregon State walk into the Bulldog Stadium with championship expectations.  It left with a 44-24 loss.  The Beavers weren’t just...",
+        "author": "Paloma Schuller, Enterprise Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "c875db45a0dee355",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Great Moment in Bulldog History: Fresno State's 41-40 win over Boise in 2013",
         "link": "https://www.yourcentralvalley.com/bulldog-sports/great-moment-in-bulldog-history-fresno-states-41-40-win-over-boise-in-2013/",
         "link_kind": "item",
@@ -2010,20 +2052,6 @@
         "medium": "text"
       },
       {
-        "title": "Bulldog Stock Market: Who’s rising and falling after San Diego State University?",
-        "link": "https://fscollegian.com/2026/10/bulldog-stock-market-whos-rising-and-falling-after-san-diego-state-university/",
-        "link_kind": "item",
-        "date": "2026-10-18T15:00:17+00:00",
-        "summary": "Fresno State went to San Diego looking to bring the Old Oil Can back to the Valley. Instead, the Bulldogs are coming home empty-handed. Fresno State fell to San Diego State 26-23 last night at Snapdragon Stadium, dropping to 4-3 overall and 1-2 in Pac-12 play. But this one was there for the taking. The...",
-        "author": "Paloma Schuller, Enterprise Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "089f575490667402",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Bulldogs edged by San Diego State on late field goal",
         "link": "https://gobulldogs.com/news/2026/10/17/football-bulldogs-edged-by-san-diego-state-on-late-field-goal",
         "link_kind": "item",
@@ -2034,20 +2062,6 @@
         "channel_url": "",
         "source": "Fresno State Athletics",
         "id": "cacf28eb6276b6e7",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Fresno State football faces San Diego State for the Old Oil Can",
-        "link": "https://fscollegian.com/2026/10/fresno-state-football-faces-san-diego-state-for-the-old-oil-can/",
-        "link_kind": "item",
-        "date": "2026-10-17T00:28:55+00:00",
-        "summary": "Following a loss against Boise State, Fresno State football is set to face San Diego State in its 64th all-time meeting. In Week 6, the Bulldogs finished with 346 yards of offense, while Boise State totaled 512 yards, forcing Fresno State to surrender the Milk Can trophy for the first time since 2021. The Bulldogs...",
-        "author": "Beth Musto, Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "a85f2d880c36cf87",
         "sport": "football",
         "medium": "text"
       },
@@ -2362,20 +2376,6 @@
         "medium": "text"
       },
       {
-        "title": "Bulldogs host No. 23 Boise State on Homecoming",
-        "link": "https://gobulldogs.com/news/2026/10/5/football-bulldogs-host-no-23-boise-state-on-homecoming",
-        "link_kind": "item",
-        "date": "2026-10-06T01:38:00+00:00",
-        "summary": "<img alt=\"Team on red mile\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/5/260912Athletics059.JPG\" /><br /><br />Fresno State (4-1, 1-0 Pac-12) vs No. 23 Boise State (4-1, 1-0 Pac-12)",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Fresno State Athletics",
-        "id": "b9a681bd359bff7e",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Great Moment in Bulldog History: Bulldogs make FBS history after LA Bowl win",
         "link": "https://www.yourcentralvalley.com/sports/great-moment-in-bulldog-history-bulldogs-make-fbs-history-after-la-bowl-win/",
         "link_kind": "item",
@@ -2532,20 +2532,6 @@
         "medium": "text"
       },
       {
-        "title": "Bulldog Wrap: 'Dogs beat Rice, gear up for Pac-12 opener",
-        "link": "https://www.yourcentralvalley.com/bulldog-sports/bulldog-wrap-dogs-beat-rice-gear-up-for-pac-12-opener/",
-        "link_kind": "item",
-        "date": "2026-09-28T23:15:07+00:00",
-        "summary": "FRESNO, Calif. (KSEE/KGPE)- Fresno State (3-1) is coming off a 38-24 win over Rice. The Bulldogs open Pac-12 play this Saturday at Washington State (1-3). \"Conference season is here and whomever has the best season is gonna play for a bright and shiny object and you know you should be excited to do that kind of [...]",
-        "author": "Angelique Martinez",
-        "duration": null,
-        "channel_url": "",
-        "source": "YourCentralValley",
-        "id": "b5a56f89e8834231",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Fresno State takes on the Rice Owls",
         "link": "https://redwavereport.podbean.com/e/fresno-state-takes-on-the-rice-owls/",
         "link_kind": "item",
@@ -2605,6 +2591,62 @@
       }
     ],
     "Gonzaga": [
+      {
+        "title": "Arkansas Exhibition Takeaways",
+        "link": "https://houseofkrause.substack.com/p/arkansas-exhibition-takeaways",
+        "link_kind": "item",
+        "date": "2026-10-27T19:00:40+00:00",
+        "summary": "Gonzaga basketball dropped its first exhibition of the season, 76-72 at No.",
+        "author": "Tuck Clarry",
+        "duration": null,
+        "channel_url": "",
+        "source": "House of Krause",
+        "id": "db51ec7d8256647b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga, LCSC made late push to schedule charity exhibition that will benefit Spokane wildfire victims",
+        "link": "http://www.spokesman.com/stories/2026/oct/27/gonzaga-lcsc-made-late-push-to-schedule-charity-ex/",
+        "link_kind": "item",
+        "date": "2026-10-27T00:00:00+00:00",
+        "summary": "<p>With Gonzaga still in need of a second exhibition game last month, fourth-year assistant coach RJay Barsh made a familiar phone call right down the road.</p><p>Lewis-Clark State had always been game to make the two-hour trip north from Lewiston, visiting on three occasions under ninth-year coach Austin Johnson. It provides a unique opportunity for LCSC’s players to experience a top-15 college basketball heavyweight inside the Kennel and doubles as a chance for select members of Johnson’s roster to see friends and family in the Spokane area. For Gonzaga, it’s a solid tuneup against a competitive NAIA program that’s won 72% of its games under Johnson, a two-time NABC NAIA Coach of the Year.</p><p>Just one problem this year. The Warriors were completely booked. The NAIA has stringent scheduling limits and the Warriors didn’t have the flexibility to sneak another exhibition game onto their calendar.</p><p>Barsh had a potential solution, suggesting Gonzaga and Lewis-Clark State pitch the matchup as a charity exhibition that would raise money for Spokane wildfire victims. Johnson got to work on a petition that was submitted and subsequently approved by the NAIA.</p><p>The game is scheduled to tip off 6 p.m. Wednesday at McCarthey Athletic Center and will air locally on KHQ.</p><p>A generous and selfless gesture from LCSC’s coach followed. Johnson told Gonzaga to keep the $5,000 check the Warriors would receive from the exhibition and donate it to the Karen Worthy Memorial Wildfire Grant, a fund Bulldogs coach Mark Few helped launch to help families impacted by the Spokane Complex fires.</p><p>The amount isn’t insignificant to an NAIA program like LCSC – “a lot of money for us,” Johnson assured – but the Warriors’ coach had a personal connection to the wildfires and was happy to reroute the money to a good cause.</p><p>Johnson’s in-laws evacuated their Indian Trail home and watched numerous structures in their neighborhood disappear in the flames. Former LCSC forward Jared Tikker, an executive director of John Stockton’s Warehouse facility and the cousin of Johnson’s wife, Kelli, was forced to leave his home in Five Mile. Johnson’s close friend Jeremy Groth, the men’s basketball coach at Spokane Colleges, wasn’t as fortunate and lost his home in the fires.</p><p>“That’s one of the ways we’re getting the game is we promised the NAIA, we’re losing money, we’re spending money on gas and meals to go up there,” Johnson said. “We’re not making money. For me, it wasn’t just about getting the GU game, it was this can also be a good, positive thing.”</p><p>The objective for LCSC once the ball is tipped is the same as it was when the teams last played in 2024. No injuries, put together a few competitive stretches and give 40 minutes of effort, regardless of how lopsided the score gets.</p><p>“Last time we played them, we lost by 38, which that’s not something we do at LC State,” Johnson said. “So obviously you walk off the court and you feel like you are the worst team ever. I went back and looked and they have 14 or 15 wins by 38 or more since we played them. In retrospect, you look back and say maybe it isn’t that bad.”</p><p>LCSC has drawn the short stick over the years, often being the first opponent to get a glimpse of Gonzaga’s All-American frontcourt pairings before they’re introduced to the rest of the country in high-profile, nationally televised nonconference games.</p><p>Graham Ike and Braden Huff combined to score 45 points the last time the teams met in 2024, fueling the Zags to a 96-58 victory. Three years earlier, LCSC got an early preview of the Drew Timme-Chet Holmgren pairing that would help Gonzaga secure a top overall seed five months later at the NCAA Tournament. In 2019, Filip Petrusev and Anton Watson hurt the Warriors for 50 points in a 116-62 rout for the Zags.</p><p>On Wednesday night, LCSC will have to go through 7-1 Massamba Diop to score in the paint and deal with Huff’s polished post game when the Zags are on offense. Izan Almansa’s rebounding presents another issue off Few’s bench.</p><p>“Obviously they’re really good, because they haven’t asked us this year about what we’re going to do on ball screen coverage or this or that,” Johnson said. “So I don’t think I’m too worried about our X’s and O’s this year.”</p><p>Johnson knows his team can’t match up from a size or athleticism standpoint, but he’ll be encouraged if the Warriors manufacture 8-12 total minutes of “really, really competitive basketball.” He has fond memories of the trip in 2019. Well, the opening minutes of it. LCSC and Gonzaga were tied at 11-11 before Few switched to a pressing defense, sparking a 28-2 Bulldogs run.</p><p>“For us, we want to play hard,” Johnson said. “Not that Mark Few probably lays awake at night thinking about the LC State Warriors or anything like that, but I’d like to think one of the reasons we get asked back is we’re going to try to run some decent stuff. We want this to be good for them, too. I’d like to think we’ve been competitive enough to give them a look, but also they can try different rotations.”</p><p>LCSC’s Dylan Skaife, a junior who played under former GU forward Sean Mallon at Ferris High, is coming off an all-conference season with the Warriors. The sharpshooting guard, Johnson’s top returning scorer at 12.5 points per game, was the only Warrior to start in all 32 games last season and led the Cascade Conference in 3-pointers made with 90. That number also ranks fourth in a single season at LCSC.</p><p>“Can really shoot it, is our returning leading scorer, is off to a good start this year,” Johnson said. “I expect big things from him.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "37c16633a96a8b41",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "For No. 11 Gonzaga, clearance from the courts looms large | Wilner's Preseason Top 25",
+        "link": "http://www.spokesman.com/stories/2026/oct/27/for-no-11-gonzaga-clearance-from-the-courts-looms-/",
+        "link_kind": "item",
+        "date": "2026-10-27T00:00:00+00:00",
+        "summary": "<p>Projecting the fate of basketball teams across the Division I landscape, extraordinarily difficult in the transfer portal era, is more challenging by an order of magnitude this fall because of unresolved eligibility lawsuits.</p><p>Days before the 2026-27 season openers, the coaches don&#8217;t even know who&#8217;s playing and who&#8217;s sitting in the aftermath of the NCAA&#8217;s controversial five-for-five ruling in the spring.</p><p>&#8220;We have a court system in the U.S. and that&#8217;s going to impact our game this year,&#8221; Arizona coach Tommy Lloyd said last week at the Big 12&#8217;s preseason media event. &#8220;You just wish cooler heads would prevail, and give these kids the opportunity they deserve.&#8221;</p><p>Well, sure, but college basketball has never been a place for cool heads, logical decisions and thoughtful strategy.</p><p>As a result, we&#8217;re left to guess at the roster composition for myriad preseason favorites that are awaiting final decisions from the courts.</p><p>Alas, onward and upward.</p><p>Here&#8217;s my preseason Associated Press ballot (with comments added):</p><p><strong>1. Florida:</strong> An easy call given the loaded list of returnees and coach Todd Golden&#8217;s deft touch. The frontcourt is sublime with Alex Condon, Thomas Haugh and Rueben Chinyelu, and the backcourt should be one of the best in the SEC. If they stay healthy, the 2025 national champs could make it two titles in three years.</p><p><strong>2. Illinois:</strong> Despite the departure of star point guard Keaton Wagler, the Illini were not one-hit wonders with their run to the Final Four. Guard Andrej Stojakovic and forward David Mirkovic lead a veteran core that adds Providence transfer Stefan Vaaks.</p><p><strong>3. Duke:</strong> Proven playmakers, elite recruits and one superstar transfer, John Blackwell (from Wisconsin), form what should be another title contender for coach Jon Scheyer. (Editor&#8217;s note: These rankings are specific to the regular season and not based on teams finding new and preposterous ways to blow leads in the NCAA Tournament.)</p><p><strong>4. UConn:</strong> Yes, the Huskies were hit hard by attrition with the departures of Tarris Reed and Alex Karaban and with Solo Ball taking a medical redshirt. But the most important piece is back: coach Dan Hurley. Add guards Silas Demary and Braylon Mullins and we&#8217;re quite confident the sum will exceed the parts.</p><p><strong>5. Tennessee:</strong> With an elite transfer class that includes VCU&#8217;s Terrence Hill, Wake Forest’s Juke Harris and Notre Dame’s Jalen Haralson &#8212; it might be the best in the land &#8212; the Volunteers are set for another commendable but fruitless attempt to become a basketball school.</p><p><strong>6. Michigan State:</strong> The return of star guard Jeremy Fears cemented Michigan State’s status as a Big Ten favorite alongside Illinois. Whether the Spartans return to the Final Four for the first time since 2019 depends on the production level from everyone else.</p><p><strong>7. Arizona:</strong> The Wildcats might have the best frontline west of Gainesville, Florida, with Ivan Kharchenkov, Motiejus Krivas and RJ Godfrey, the Clemson transfer whose eligibility remains uncertain. But for the Wildcats to replicate their 2025-26 success, the unproven backcourt must blossom&nbsp;– and Arizona won&#8217;t have Jaden Bradley to light the path.</p><p><strong>8. Louisville:</strong> The Cardinals possess the No. 2-ranked transfer class in the country (behind St. John&#8217;s) with Oregon point guard Jackson Shelstad, Kansas big man Flory Bidunga, Arkansas wing Karter Knox and Iowa forward Alvaro Folgueiras. If Seth Trimble (North Carolina) remains eligible, coach Pat Kelsey will have everything needed for a deep run in March.</p><p><strong>9. Arkansas:</strong> As usual, coach John Calipari landed a stellar freshman class with four five-star prospects, including the No. 1 wing in the country, Jordan Smith. But anyone who watched the Razorbacks last season knows defense was not a priority. Unless that changes, the Hogs won&#8217;t reach their lofty potential.</p><p><strong>10. Texas:</strong> Could this be the year Sean Miller finally reaches the Final Four? His incoming class of recruits and transfers is one of the best in the land with guards Isaiah Johnson (Colorado) and Mikey Lewis (Saint Mary’s) and forward David Punch (TCU). If the Longhorns are healthy, there are no excuses.</p><p><strong>11. Gonzaga:</strong> With Davis Fogle, Braden Huff and Massamba Diop, the Zags possess a frontline that compares favorably to those at Arizona and Florida. The backcourt? Who knows. Coach Mark Few has several gifted players awaiting clearance from the court system. If the legal outcomes are unfriendly, the journey through the rebuilt Pac-12 could prove arduous.</p><p><strong>12. St. John’s:</strong> Another school with major unresolved eligibility issues, although Baylor transfer Tounde Yessoufou is set to play and could have a massive impact. And unlike the other 364 schools in Division I, the Red Storm have Rick Pitino.</p><p><strong>13. USC:</strong> This placement is based, in part, on Eric Musselman being a Year 3 coach. He led Nevada to the Sweet 16 in his third season in Reno and Arkansas to the Elite Eight in his third season in Fayetteville. Everything is set for success with returnees Rodney Rice, Alijah Arenas and Jacob Cofie, plus blue-chip recruits and a solid collection of transfers.</p><p><strong>14. Houston:</strong> This is the first time the Cougars have not appeared in the Hotline&#8217;s preseason top 10 since we-can&#8217;t-remember-when. Joseph Tugler’s return should spur the harrowing defense, but the offense must be rebuilt around point guard Dedan Thomas, who averaged 15 points for LSU, and returning wings Mercy Miller and Chase McCarty.</p><p><strong>15. Vanderbilt:</strong> Point guard Tyler Tanner&#8217;s decision to withdraw from the NBA draft at the deadline was one of the most significant in the country, offering the Commodores a chance to remain relevant. The transfer class features high-scoring former Washington State guard Ace Glass.</p><p><strong>16. Nebraska:</strong> Many of the low-profile players who led the Cornhuskers to their greatest season are returning, with leading scorer Pryce Sandfort atop that list. But how will everyone associated with the program manage the expectations that are present in Lincoln for the first time in forever?</p><p><strong>17. Alabama:</strong> Coach Nate Oats has proven adept at assimilating disparate parts rapidly. Combine returnee Aden Holloway with uber-recruit Jaxson Richardson and transfer Drew Fielder (Boise State), and the Crimson Tide has a core that can flourish.</p><p><strong>18. Miami:</strong> The momentum continues for second-year coach Jai Lucas, who led the Hurricanes to 26 wins in his rookie year and landed two top transfers in Georgia center Somto Cyril and Villanova guard Acaden Lewis.</p><p><strong>19. Virginia:</strong> The Cavaliers possess the NIL game necessary to compete for elite talent and a top-tier position in the ACC. Leading scorer Thijs De Ridder is returning. Add UC Irvine transfer Jurian Dixon, and coach Ryan Odom has a conference title contender.</p><p><strong>20. Michigan:</strong> Coach Dusty May&#8217;s departure to the NBA was one of several offseason gut punches the 2026 national champions were forced to absorb. (They also lost star recruit Brandon McCoy to a season-ending injury.) Defending a title is never easy. In Michigan&#8217;s case, it will be brutally difficult.</p><p><strong>21. Kansas:</strong> The decision to accept Purdue transfer Trey Kaufman-Renn, who was drafted and played in the NBA summer league, was deplorable. (His eligibility isn&#8217;t guaranteed.) The basketball gods will render judgment, and it won&#8217;t be pleasant for the Jayhawks. Not for nothing: Although Kaufman-Renn&#8217;s return doesn&#8217;t technically violate Big 12 rules, it violates the spirit of the August decision to ban professionals.</p><p><strong>22. Saint Louis:</strong> Most of the key pieces to coach Josh Schertz&#8217;s 29-win machine are back. (So, too, is Schertz.) St. John’s and Gonzaga should be the best of the non-football schools next season, with the Billikens No. 3.</p><p><strong>23. North Carolina:</strong> Michael Malone is a first-rate coach whose adjustment to the college game could take two months. That leaves three for the Tar Heels to excel.</p><p><strong>24. Iowa:</strong> There’s a case for Ben McCollum as the top NCAA Tournament coach in the sport not named Dan Hurley, but these rankings are based on the regular season. And without court maestro Bennett Stirtz, the Hawkeyes might encounter a few potholes.</p><p><strong>25. VCU:</strong> The Atlantic 10 could be the best of the mid-major conferences with VCU and Saint Louis leading the charge to relevance.</p><p><strong>Also considered:</strong> BYU, Indiana, Iowa State, Kentucky, Miami (Ohio), Missouri, New Mexico, Ohio State, Purdue, San Diego State, Santa Clara, Syracuse, TCU, Texas A&amp;M, Texas Tech, UCLA, Utah State, Villanova and Wisconsin</p><p><em>Send suggestions, comments and tips (confidentiality guaranteed) to wilnerhotline@bayareanewsgroup.com or call 408-920-5716</em></p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "a447ede2284c35a1",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Five former Gonzaga players named to NBA G League rosters for 2026-27 season",
+        "link": "http://www.spokesman.com/stories/2026/oct/27/five-former-gonzaga-players-named-to-nba-g-league-/",
+        "link_kind": "item",
+        "date": "2026-10-27T00:00:00+00:00",
+        "summary": "<p>Twelve former Gonzaga players appeared on NBA opening day rosters and five more could be one call away as they open the 2026-27 season in the NBA’s G League.</p><p>Two members of last year’s Gonzaga team, Jalen Warley and Tyon Grant-Foster, will start their professional careers in the G League, along with another trio of former Bulldogs that includes Anton Watson, Nolan Hickman and David Stockton.</p><p>Warley signed with the Indiana Pacers’ G League affiliate, the Noblesville Boom, after agreeing to join the Eastern Conference franchise at NBA Summer League in Las Vegas, where he impressed coaches and front office personnel with his defensive play and versatility.</p><p>Grant-Foster didn’t stick with the San Antonio Spurs after a Summer League assignment, but managed to sign on with the Miami Heat’s G League squad, the Sioux Falls Skyforce, after being selected No. 15 overall during Saturday’s G League draft.</p><p>Entering his third professional season since leaving GU, Watson, a Gonzaga Prep product, is returning to the Los Angeles’ Lakers G League affiliate but will be playing home games in a different arena after the team switched from South Bay, playing in El Segundo, to Coachella Valley in Palm Desert.</p><p>Watson was one of South Bay’s top performers last year, averaging 11.3 points, 5.0 rebounds, 3.0 assists and 1.3 steals over 36 games and 24 starts.</p><p>Hickman is returning to the Capital City Go-Go (Washington Wizards) for the second season since going undrafted in 2025. The former Gonzaga guard was a part-time starter for Capital City last season, starting in 17 of 33 games, and averaged 10.8 ppg and 3.6 apg while shooting 43% from the field and 39.5% from the 3-point line.</p><p>Stockton, who recently agreed to a deal with the Valley Suns (Phoenix Suns), is back for his sixth stint in the G League after spending a year with Piratas de Quebradillas of the Baloncesto Superior Nacional in Puerto Rico. The former GU point guard and son of Gonzaga legend John Stockton played for the Valley Suns in 2024-25 and could share the court this season with Drew Timme, who’s on a two-way deal with Phoenix.</p><p>Timme is one of four ex-Zags who could split their time between the NBA and G League this season. Graham Ike (Golden State Warriors), Ryan Nembhard (Denver Nuggets) and Malachi Smith (Toronto Raptors) also entered the 2026-27 campaign on two-way contracts.</p><p>Guard Hunter Sallis, who played two seasons at Gonzaga before transferring to Wake Forest returns to the G League San Diego Clippers (Los Angeles Clippers), while wing Michael Ajayi, who spent a season in Spokane between stops at Pepperdine and Butler, is on a two-way deal with the Charlotte Hornets after going undrafted in June.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "2581aef11c667595",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "WBB Hosts Westmont in Lone Exhibition Game on Tuesday",
         "link": "https://gozags.com/news/2026/10/26/womens-basketball-wbb-hosts-westmont-in-lone-exhibition-game-on-tuesday",
@@ -3222,34 +3264,6 @@
         "medium": "text"
       },
       {
-        "title": "Wait continues for Gonzaga's Xaivian Lee, Ines Bettencourt after California injunction hearing",
-        "link": "http://www.spokesman.com/stories/2026/sep/29/wait-continues-for-gonzagas-xaivian-lee-ines-bette/",
-        "link_kind": "item",
-        "date": "2026-09-29T00:00:00+00:00",
-        "summary": "<p>A preliminary injunction hearing held Tuesday afternoon in Santa Clara County came with some good news, some bad news and, in many ways, no news at all for a pair of Gonzaga players seeking a fifth year of college eligibility.</p><p>The Glancey v. NCAA lawsuit including Xaivian Lee, a Florida transfer looking to extend his career with Mark Few and the Gonzaga men, and Ines Bettencourt, a returning starter hoping to return for one final season with Lisa Fortier and the Zag women, continued Tuesday afternoon in Northern California, where a Santa Clara County judge heard statements from player plaintiffs and coaches, along with arguments from attorneys representing the NCAA.</p><p>Lee, Bettencourt and more than 70 other player plaintiffs involved in the case are seeking a preliminary injunction that would grant them a fifth year of eligibility, extending their clocks months after the NCAA passed its new 5-in-5 eligibility model.</p><p>No ruling was made Tuesday and another hearing was scheduled for Oct. 20, according to Ryan Downton, one of the attorneys representing the player plaintiffs.</p><p>“There was not enough time for all of the players and coaches to testify today, so the hearing will resume on October 20,” Downton wrote in an email to The Spokesman-Review. “The TRO (temporary restraining order) remains in place pending the next hearing.”</p><p>Tuesday’s no-decision could be interpreted as either a negative or positive development.</p><p>Although players now have to wait at least three weeks for clarity, the TRO issued by the Superior Court of Santa Clara on Aug. 7 gives them eligibility until a judge makes a final ruling. Specifically, it allows Lee and Bettencourt to practice with their respective teams and participate in the upcoming Kraziness in the Kennel and Numerica Fan Fest events scheduled the next two weekends.</p><p>The second injunction hearing will take place four days before the Gonzaga men travel to Fayetteville, Arkansas, for a preseason exhibition against Arkansas and seven days before the Zag women host Westmont College for their only preseason exhibition on Oct. 27.</p><p>A preliminary injunction would signify an important step for Lee and Bettencourt, but the NCAA is expected to counter with an appeal and push for a stay motion, which would reverse both players’ eligibility until the case is heard by a Court of Appeals.</p><p>Two other incoming Gonzaga men’s basketball transfers seeking a fifth year of eligibility, Javon Bennett (Dayton) and Chauncey Wiggins (Florida State), initially secured eligibility through similar injunctions in Ohio and Georgia, but judges in both cases granted the NCAA’s request for a stay, making both players ineligible for the time being.</p><p>Downton is representing player plaintiffs in a handful of other 5-in-5 cases across the country, including the Ohio lawsuit involving Bennett and Georgia lawsuit involving Wiggins. It’s possible final verdicts on one or multiple cases won’t arrive before Gonzaga opens the season on Nov. 2 against Purdue in Las Vegas.</p><p>A handful of fifth-year hopefuls including BYU’s Jaxon Kohler, a Michigan State transfer, testified in person Tuesday afternoon. St. John’s coach Rick Pitino also attended the injunction hearing in Santa Clara to testify. Reed Bailey, a fifth-year forward who transferred from Indiana to St. John’s this offseason, is one of the player plaintiffs named in the lawsuit.</p><p>“The NCAA should give up on all of these lawsuits and let everyone in the Class of 2022 play this year,” Pitino said during the hearing, according to a post on X from Downton’s firm, the Texas Trial Group.</p><p>Other notable players named in the California suit include former UCLA guards Donovan Dent and Skyy Clark, both of whom transferred to play for LSU and first-year coach Will Wade. If granted an injunction, all three of Lee, Dent and Clark could be on the floor when the Tigers travel to Spokane for a Nov. 14 matchup with Gonzaga at Numerica Veterans Arena.</p><p>Former Saint Mary’s, UConn and UC Santa Barbara guard Aidan Mahaney is also part of the lawsuit, as is fifth-year point guard Moe Odum, who faced the Zags at each of his three college stops: Pacific, Pepperdine and Arizona State.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "84774f3d6a210ebc",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Gonzaga announces jersey patch sponsorship with AI network Altana",
-        "link": "http://www.spokesman.com/stories/2026/sep/29/gonzaga-announces-jersey-patch-sponsorship-with-ai/",
-        "link_kind": "item",
-        "date": "2026-09-29T00:00:00+00:00",
-        "summary": "<p>Gonzaga will be debuting not one but two new patches on its men’s basketball jerseys in 2026-27.</p><p>Along with the Pac-12 Conference logo, Gonzaga players will wear a patch to represent the school’s newly announced partnership with Altana, an artificial intelligence network for supply chain management and trade commerce.</p><p>Gonzaga and other college programs around the country are taking advantage of jersey sponsorships as new revenue streams after receiving approval from the NCAA in January. As of Aug. 1, Division I teams can use up to two patches of no more than 4 square inches for regular-season games.</p><p>“Altana is an exceptional organization that represents innovation and forward thinking, and we are excited to welcome them as a partner of Gonzaga Athletics and Gonzaga Basketball,” Gonzaga Athletic Director Chris Standiford said in a school news release. “As we enter a new era for Gonzaga Athletics and begin competition in the Pac-12, we are grateful for Altana’s support and belief in our student-athletes and our program. We look forward to building a strong partnership together.”</p><p>Altana, founded in 2018 by Evan Smith, Peter Swartz and Raphael Tehranian and based in New York City, claims to be the world’s first AI network for global trade. The company uses AI to suggest efficient trade routes when considering factors like tariffs and regulations on forced labor, for example, according to its website.</p><p>The fast-growing company contracts with retailers shipping product across the globe. It uses AI models fed with public and private data to track each step a product takes in the global supply chain, sometimes down to its raw materials.</p><p>The company has notable partnerships with government agencies such as the U.S. Air Force, U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection, as well as retailers.</p><p>U.S. Customs and Border Protection has contracted with Altana since 2023, using their global supply chain map, or “Atlas,” to help prevent products made with forced labor from entering the United States, according to a news release from Altana at the time of their contract.</p><p>“We’re excited to have Altana represented on our jerseys this season,” Gonzaga coach Mark Few said in the Gonzaga news release. “They’re an incredibly innovative and successful company, and we appreciate their support of Gonzaga Basketball and our student-athletes. It’s an exciting time for our program, and we’re looking forward to representing Altana on the court.”</p><p>Gonzaga becomes the second local Division I school to reach a jersey patch sponsorship in recent months. In June, Washington State announced a five-year, $8.43 million agreement with Colville Tribes to wear the company’s patch on all of its athletic uniforms.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "01d57ae8d3b2480e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Experienced Gonzaga women return Ines Bettencourt after court ruling: 'It's a new energy'",
         "link": "http://www.spokesman.com/stories/2026/sep/29/experienced-gonzaga-women-return-ines-bettencourt-/",
         "link_kind": "item",
@@ -3261,20 +3275,6 @@
         "source": "The Spokesman-Review",
         "id": "2109411808f40c65",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Who is 2027 Gonzaga commit Dooney Johnson?",
-        "link": "http://www.spokesman.com/stories/2026/sep/28/a-glimpse-into-the-competitive-drive-and-winning-m/",
-        "link_kind": "item",
-        "date": "2026-09-28T00:00:00+00:00",
-        "summary": "<p>LAS VEGAS – It wouldn’t have been apparent that Dooney Johnson was dealing with any kind of physical stress last spring when the five-star Gonzaga commit carried Milwaukee Juneau to the school’s first state championship.</p><p>Not when he exploded for 40 points, accounting for 61% of his team’s overall scoring production during a third-round victory against Living Word Lutheran.</p><p>Not a week later when he popped Howard Grove High School for 36 points, 12 rebounds and five assists in the state quarterfinals.</p><p>Certainly not during a championship matchup against Cambridge, when Johnson rattled off 14 consecutive first-half points – and 23 in the game, with seven rebounds – to help Milwaukee Juneau rally back from a first-quarter deficit, win 62-54 and complete a 28-1 season.</p><p>There were no obvious signs of discomfort, just dominance from someone who averaged 27.8 points, 8.5 rebounds, 4.7 assists and 3.4 steals for a Milwaukee Juneau team that won 27 straight games to finish No. 8 in MaxPreps’ postseason national Top 25 rankings.</p><p>Only a few people in Johnson’s close circle knew about the underlying issue he was  facing as he guided the Pioneers to a historic season.</p><p>“We never really put it out there, he won a state title on basically a fractured ankle,” said Johnson’s father Torre, also the head coach at Milwaukee Juneau last season. “Once the state tournament was over, we sat out for a whole month.”</p><p>It’s a window into the competitive drive and winning mindset Gonzaga’s first high school commit in the class of 2027 commit plans to bring to Spokane next fall, after one more prep season at East River High in Orlando, Florida – the school Johnson announced he’d be transferring to last month.</p><p>“I never really sit out during injuries, especially I can still go out there and somewhat play, especially to my full potential,” Dooney told The Spokesman-Review in July while competing for AAU Team Herro at a Nike EYBL (Elite Youth Basketball League) event in Las Vegas. “I always want to be out there for myself, not even just myself but for my team because I know I can push through it and continue to be there and compete at the highest level.”</p><h3 style=\"text-align: center;\">• • • </h3><!--[photo id=933281 align=center size=thumbnail]--><p>Thirteen years ago, Torre Johnson coached the Wisconsin-based Playground Elite AAU program to a 10-and-under national championship in Cocoa Beach, Florida.</p><p>It’s nearly impossible to identify Division I talent at a phase when players are still trying to grasp the game’s fundamentals, but one of Johnson’s fifth-graders was athletically advanced for his age and already a step or two ahead of his peers.</p><p>A basketball-obsessed toddler, Dooney took advantage of every opportunity to tag along to his father’s AAU games and practices. Although Dooney can’t remember his actual introduction to Jalen Suggs, the Gonzaga commit maintained a close relationship to the former Gonzaga guard and father Larry through basketball, and Jalen eventually became a key mentor to the now five-star prospect.</p><p>“Literally just a young fella running around the gym,” Suggs said, looking back at his first memories of Dooney. “Always at all the games, always had a rock in his hands and his dad was amazing. Always showed me the utmost love and really helped me on the mental side of everything as far as handling games, handling pressure, staying locked in and making sure I’m attacking every weekend we have.</p><p>“It’s gone right into Dooney. You see he applies that every game he plays. Super competitor. So for me, it’s just dope seeing him grow from that little kid to now he’s doing his thing and even coming into the Zags, it’s such a full journey. Very full circle.”</p><p>Now in his sixth season with the Orlando Magic, Suggs offered support to Johnson through the college recruiting process and not surprisingly, gave a strong endorsement for the Zags, who went to the national championship in 2021 after the guard’s iconic Final Four buzzer-beater against UCLA.</p><p>“They’re my guys,” Dooney said of Jalen and Larry Suggs. “But it was overall just the school and the coaches, how they treated me.”</p><p>Gonzaga’s playing style and culture were two of the main factors that prompted an early commitment from the Milwaukee native, who collected 11 other high-major offers before his junior high school season.</p><p>“It was a real nice time going there, everyone was nice, brotherhood, the campus was great,” Johnson said. “It was just an all-around brotherhood, it felt good. &#8230; Fast-paced system, really can just be who you are on the floor. Not too many sets, just be who you are and go get a bucket.”</p><p>Suggs and Johnson, the two highest-rated guard commits in Gonzaga history according to 247Sports.com, reconnected this summer. Suggs pulled double duty in Las Vegas, following Orlando’s NBA Summer League team at the Thomas &amp; Mack Center while making time to watch Johnson and Team Herro at Nike EYBL a few miles away at the Vegas Convention Center.</p><p>Gonzaga assistants Brian Michaelson and Zach Norvell Jr. also traded days in Vegas, catching each of Johnson’s four games at the EYBL tournament.</p><p>“We were always pushing the Zags,” Suggs said. “It’s a beautiful place to be, you’re going to play great basketball, they’re going to really win and really treat you like family. That was just another piece. They really want you for the human you are and that’s really what we were trying to preach to him and understanding he can go anywhere and all these schools around the country, all the money, all the names and everything, notoriety, but there’s no place like Gonzaga, there’s no place like Spokane in the country in my opinion.</p><p>“I’m glad he kind of took that. B-Mike and Few did their job showing him the love. I can’t wait to see him in Spokane.”</p><h3 style=\"text-align: center;\">• • • </h3><!--[photo id=933279 align=center size=thumbnail]--><p>Johnson sat idle for a month after celebrating with teammates and lifting the state title on his fractured ankle at the University of Wisconsin’s Kohl Center. With highly-competitive Nike EYBL games approaching, Torre urged his son to take a few more weeks off, fearing the risk of re-injury.</p><p>Those efforts proved unsuccessful.</p><p>“When I asked him to sit out that first EYBL session until he gets his rhythm back, he looked me in my eyes and said, ‘What , Dad, you don’t think I’m going to be able to compete?’ ” Torre recalled. “So at the end of the day like I tell him, he’s the engine, I’m just the driver.”</p><p>Even in a slightly limited capacity, Johnson made his impact on the EYBL circuit, leading Team Herro – the AAU program sponsored by Milwaukee Bucks guard Tyler Herro – to an 18-4 record and semifinal run at the prestigious Peach Jam event based in Augusta, Georgia. The 6-foot-5 Johnson paced Team Herro at 14.9 ppg during the AAU circuit to go with 4.4 rpg, 3.0 apg and 1.1 spg.</p><p>Entering the AAU season, Johnson was mostly concentrated on making defensive strides, vowing to hold the opponent’s “star players or second star players” below their scoring averages and “continue to be a defensive anchor for my team.”</p><p>Chris Herro, Tyler’s father and the coach of Johnson’s 17U Team Herro squad, noticed growth there and in other areas.</p><p>“He’s really become a leader more,” Herro said. “He hit some big shots there for us and you’re getting a dog at the end of the day. He’s going to push them to the next level of competitiveness, which I don’t think Gonzaga’s had in a while. They haven’t had that in a while, that competitive edge. It’s good, I think he’s going to learn from coach Few.”</p><p>Johnson’s distribution and willingness to get teammates involved were other bright spots, particularly coming off a high school season where the guard often needed to score at a high clip for his team to have success.</p><p>The No. 27 prospect in the country, Johnson wasn’t the highest-rated player on his AAU squad, playing alongside Duke commit Kager Knueppel, the 17th-rated player in the country and younger brother of Charlotte Hornets guard Kon Knueppel. Team Herro’s roster also consisted of Iowa State commits Donovan Davis and Jack Konen, Nebraska commit Ty Schlagel and top-100 prospect Deuce McDuffie.</p><p>“He’s grown a lot in the realm of being able to play with other really good players, because that’s part of it,” Chris Herro said. “When you go out of high school, you’ve got to be able to play with other guys and that’s where he’s grown. He’s sharing the ball more, he understands that part of it, so yeah he’s doing well.”</p><p>The Zags are still a year away from deciding how they’ll deploy Johnson, who should be a candidate to get rotation minutes as a freshman, or potentially vie for a starting role for a program that could lose three point guards from the 2026-27 roster.</p><p>The consensus from AAU teammates and coaches is that Johnson is a hybrid point guard – someone who can create for himself and hunt shots as needed or fill more of a pass-first role when the situation calls for it.</p><p>“I’d say about 50/50,” said Davis, a four-star power forward who had recruiting conversations with Gonzaga before committing to Iowa State. “He’s really good at scoring. That’s the thing he’s really known for.”</p><p>Johnson’s big frame, skill level, athleticism and versatility will probably evoke one or two comparisons to the former Gonzaga guard he’s leaned on for advice and mentorship.</p><p>“So versatile, man,” Suggs said of Johnson. “Few’s going to love him in that sense because he can come out here and do everything. He can defend the best player, he’s coming out getting guys involved, he’s a force going downhill; the rim and his jumper and his skill are going to continue to evolve so I think he’s in a great space right now.”</p><h3 style=\"text-align: center;\">• • • </h3><!--[photo id=933283 align=center size=thumbnail]--><p>As a rising prospect who climbed to No. 21 in On3.com’s national rankings this summer, Johnson’s managing a busy schedule as he prepares for his final go-round with high school basketball.</p><p>Just consider his summer calendar. In addition to Nike EYBL stops in Atlanta, Memphis, Kansas City, Las Vegas and Augusta, Johnson traveled to the Pangos All-American Camp in Vegas, the NBPA Top 100 Camp in Rock Hill, South Carolina, the Chris Paul Elite Guard Camp in Vegas, the Nike Academy in Thousand Oaks, California, and the Nike NYvsNY game in New York City.</p><p>Shortly after his move to Florida, Johnson was invited to take part in the USA Basketball Junior National Minicamp from Oct. 9-11 in Colorado Springs, Colorado. A full high school schedule and All-American games in the spring are likely to follow.</p><p>Johnson has plenty on his plate and even more on his calendar before he can pack his things, move to the Inland Northwest and don a Gonzaga uniform for the first time, but judging by conversations with the guard and volume of Zag-centric posts on his Instagram account, that day also can’t arrive soon enough.</p><p>“Just got to be patient, but I’m always ready to go be at Gonzaga,” he said. “Great program, great coaches. Especially coach Few, he was really great when I went there. B-Mike, that’s my guy. So yeah it’s going to be good.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "f94a31c25edf1209",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -3307,6 +3307,77 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "Fresno State cornerback wants ‘all the smoke’ in matchup with Oregon State’s Jesse Legree",
+        "link": "https://www.oregonlive.com/beavers/2026/10/fresno-state-cornerback-says-he-wants-all-the-smoke-in-matchup-with-oregon-states-jesse-legree.html",
+        "link_kind": "item",
+        "date": "2026-10-27T23:52:45+00:00",
+        "summary": "Fresno State’s top cornerback is eager to face off with Oregon State’s freshman phenom.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "99d4cb6f856215c9",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "UCAA, Beavs conclude case, await completion of transcript",
+        "link": "https://dailybaro.orangemedianetwork.com/33523/daily-barometer-sports/daily-barometer-sports-womens-basketball/ucaa-beavs-conclude-case-await-completion-of-transcript/",
+        "link_kind": "item",
+        "date": "2026-10-27T21:32:29+00:00",
+        "summary": "The Oregon State women’s basketball team began an effort to unionize with the United College Athletics Association. Now, the case has been concluded, with the parties awaiting the completion of a transcript.  The case concluded Oct. 19. Once the transcript is completed, the parties will submit post-hearing briefs. Where, the matter will be transferred to...",
+        "author": "Nikolas Munoz, Sports Writer",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "68cd7dbd20d13bae",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Football: Offense Meets The Media (Oct. 27, 2026)",
+        "link": "https://osubeavers.com/news/2026/10/27/oregon-state-football-offense-meets-the-media-oct-27-2026",
+        "link_kind": "item",
+        "date": "2026-10-27T20:37:00+00:00",
+        "summary": "<img alt=\"Oct. 27 Cover\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/261027_COVER.png\" /><br /><br />CORVALLIS, Ore. - Oregon State heads to Fresno State for Halloween Saturday night. Scroll below to hear what Braden Atkinson and Vam Wells had to say prior to the matchup.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "fd3e9c40d5602346",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Beavers vs Fresno State Bulldogs Preview | Dam Podcast",
+        "link": "https://cms.megaphone.fm/channel/CAD1283298451",
+        "link_kind": "item",
+        "date": "2026-10-27T18:17:24+00:00",
+        "summary": "BeaverBlitz staff of Angie Machado, Brenden Slaughter, Spencer Newell and Ryan Harlan team up for midseason superlatives and to preview Saturday's Halloween match-up with the Fresno State Bulldogs. #OregonState #OSU #BeaverBlitz #On3 #CollegeFootball\n\nHosted by Simplecast, an AdsWizz company. See https://pcm.adswizz.com\nfor information about our collection and use of personal data for\nadvertising.",
+        "author": "angie@beaverblitz.com (Dam Podcast)",
+        "duration": 3613,
+        "channel_url": "https://cms.megaphone.fm/channel/CAD1283298451",
+        "source": "Dam Podcast",
+        "id": "26a9e39cdfc13738",
+        "extent": "1h",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
+        "title": "NCAA eligibility trial unlikely before OSU's regular season ends",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-seniors-await-trial-as-ncaa-eligibility-dispute-continues.html",
+        "link_kind": "item",
+        "date": "2026-10-27T17:23:34+00:00",
+        "summary": "It’s increasingly likely Oregon State center Van Wells and safety Jaheim Patterson will be eligible to play for the entirety of at least the regular season.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "b25faba1c96688fc",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "OSU takes on Fresno State in Halloween road test: Sneak Peek",
         "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-heads-to-fresno-state-on-halloween-with-5-2-record-sneak-peek.html",
@@ -3659,20 +3730,6 @@
         "medium": "text"
       },
       {
-        "title": "Night at the Museum will bring a Halloween twist to natural history",
-        "link": "https://dailybaro.orangemedianetwork.com/33478/daily-barometer-news/night-at-the-museum-will-bring-a-halloween-twist-to-natural-history/",
-        "link_kind": "item",
-        "date": "2026-10-20T21:58:11+00:00",
-        "summary": "Have you ever wanted a zombie to teach you about skeletons? The Department of Integrative Biology will hold its annual Halloween-themed Night at the Museum on Thursday. The event will run from 4:30 to 8:30 p.m. at Cordley Hall and Nash Hall, and will feature several of Oregon State University’s natural history collections. During this...",
-        "author": "Kit Kron, Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "fb45013ae2e76fe4",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "AJ Newberry Recognized By Earl Campbell Tyler Rose Award",
         "link": "https://osubeavers.com/news/2026/10/20/football-aj-newberry-recognized-by-earl-campbell-tyler-rose-award",
         "link_kind": "item",
@@ -3699,21 +3756,6 @@
         "id": "64931cb2742046b7",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "Oregon State Beavers vs Washington State Cougars Recap",
-        "link": "https://cms.megaphone.fm/channel/CAD1283298451",
-        "link_kind": "item",
-        "date": "2026-10-19T17:45:45+00:00",
-        "summary": "Angie Machado, Brenden Slaughter and Ryan Harlan of BeaverBlitz.com team up to review the Washington State win and answer listener Dam Questions. #OregonState #OSU #BeaverBlitz #On3 #CollegeFootball\n\nHosted by Simplecast, an AdsWizz company. See https://pcm.adswizz.com\nfor information about our collection and use of personal data for\nadvertising.",
-        "author": "angie@beaverblitz.com (Dam Podcast)",
-        "duration": 2094,
-        "channel_url": "https://cms.megaphone.fm/channel/CAD1283298451",
-        "source": "Dam Podcast",
-        "id": "91a9b2cbcd390696",
-        "extent": "35 min",
-        "sport": "all",
-        "medium": "audio"
       },
       {
         "title": "November Is Almost Here - Get The 2 Pack!",
@@ -3811,20 +3853,6 @@
         "source": "Oregon State Athletics",
         "id": "94aee95131693fc4",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State Selected To Joe Moore Award Watch List",
-        "link": "https://osubeavers.com/news/2026/10/14/football-oregon-state-selected-to-joe-moore-award-watch-list",
-        "link_kind": "item",
-        "date": "2026-10-14T22:08:00+00:00",
-        "summary": "<img alt=\"Offensive Line\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/09192026_Football_Montana_LarkinsWill_WellsVan_VoltinTyler_EluNathan_AndersonJacob_6562.jpg\" /><br /><br />CORVALLIS, Ore. – Oregon State is one of 25 teams on the initial watch list for the Joe Moore Award, which is given annually to the nation's top offensive line.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "2698f858119e1160",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -3974,6 +4002,34 @@
       }
     ],
     "San Diego State": [
+      {
+        "title": "Transfer guard trio elevates Aztecs women’s basketball ahead of first Pac-12 season",
+        "link": "https://thedailyaztec.com/129586/sports/transfer-guard-trio-elevates-aztecs-womens-basketball-ahead-of-first-pac-12-season/",
+        "link_kind": "item",
+        "date": "2026-10-27T18:46:41+00:00",
+        "summary": "Prior to this new season in a new conference, San Diego State women&#8217;s basketball added three guards to its roster through the transfer portal.  Eva DeChent, Alayna Kraus and Nayli Padilla have all filled holes left from last season’s departures and have exceeded head coach Stacie Terry-Hutson&#8217;s expectations.  “They’ve been great additions, and I expect...",
+        "author": "Ava Bocek, Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "4ed355890e2c632b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs’ 20 turnovers prove fault in exhibition loss to USC",
+        "link": "https://thedailyaztec.com/129579/sports/basketball/aztecs-20-turnovers-prove-fault-in-exhibition-loss-to-usc/",
+        "link_kind": "item",
+        "date": "2026-10-27T14:00:03+00:00",
+        "summary": "Fresh off a hard-fought loss in Arizona, San Diego State men’s basketball hosted the USC Trojans in an exhibition game on Oct. 23 at Viejas Arena, a chance to gain valuable experience before the regular season opens in less than 10 days. The Aztecs have 12 new players on this year’s roster, but the mission...",
+        "author": "Jason Testa, Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "fa31f488df6f12d6",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "#363: SDSU Finds Their QB1, But Lose the Game—and Aztecs Basketball Loses to USC",
         "link": "https://sonsofmontezuma.libsyn.com/363-sdsu-finds-their-qb1-but-lose-the-gameand-aztecs-basketball-loses-to-usc",
@@ -4202,34 +4258,6 @@
         "medium": "text"
       },
       {
-        "title": "‘Right where they need to be’: Women’s basketball’s trifecta of freshmen forwards look to make their mark",
-        "link": "https://thedailyaztec.com/129480/sports/right-where-they-need-to-be-womens-basketballs-trifecta-of-freshmen-forwards-look-to-make-their-mark/",
-        "link_kind": "item",
-        "date": "2026-10-20T17:35:34+00:00",
-        "summary": "One year after a Mountain West regular season championship and a tied school record of 27 wins, San Diego State women’s basketball sought reinforcements to help capitalize on last season’s success. Enter the imposing freshman class for the 2026-27 season, featuring three forwards all standing 6’1 or taller.  Mayenabasi Akpan, Mairead Hearty and Dionne Madjo...",
-        "author": "Tyler Ross, Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "b96108b6e394ef5f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Cooper DiLeva reflects on the community that pushed him to become a Division I kicker",
-        "link": "https://thedailyaztec.com/129448/sports/cooper-dileva-reflects-on-the-community-that-pushed-him-to-become-a-division-i-kicker/",
-        "link_kind": "item",
-        "date": "2026-10-20T15:10:45+00:00",
-        "summary": "With the transfer portal being such a hot topic within the game, the sense of importance and value for players transferring with hopes of capitalizing on opportunities has morphed.  The portal serves many roles for players, but somewhere within the chaos are stories such as senior San Diego State kicker Cooper DiLeva’s.  DiLeva’s journey to...",
-        "author": "Iain Henderson, Senior Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "5a32625e554c8ee1",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "#360: The Aztecs Beat The Bulldogs—Did They Just Save the Season & Sean Lewis?",
         "link": "https://sonsofmontezuma.libsyn.com/360-the-aztecs-beat-fresno-did-they-just-save-the-season-and-sean-lewis",
         "link_kind": "item",
@@ -4243,20 +4271,6 @@
         "extent": "56 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Jaylon Hawkins’ increased role pays dividends against “The Team Up North”",
-        "link": "https://thedailyaztec.com/129453/sports/jaylon-hawkins-increased-role-pays-dividends-against-the-team-up-north/",
-        "link_kind": "item",
-        "date": "2026-10-19T22:14:11+00:00",
-        "summary": "Three Pac-12 Special Teams Player of the Week awards, three kickoff return touchdowns and now the longest touchdown reception of the San Diego State Aztecs’ season so far — all honors that redshirt freshman wide receiver Jaylon Hawkins holds through the first seven games of this season. This past Saturday’s rivalry matchup between the Aztecs...",
-        "author": "Tyler Bowne, Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "5c674e540dbb47ec",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "Monday, Oct. 19 Press Conference",
@@ -5265,6 +5279,20 @@
     ],
     "Texas State": [
       {
+        "title": "WATCH: TXST Football Media Availability vs Boise State (102726)",
+        "link": "https://txst.com/news/2026/10/27/watch-txst-football-media-availability-vs-boise-state-102726.aspx",
+        "link_kind": "item",
+        "date": "2026-10-27T22:30:00+00:00",
+        "summary": "<img alt=\"Ty Stamey Touchdown\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/261610_FB_COLORADOSTATE_KP-STAMEY-TD-66.jpg\" /><br /><br />HC GJ Kinne, TE Ty Stamey, DL Phillip Bradford",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "13f172c032a176b0",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "TXST men’s golf concludes fall slate at Quebin Cup",
         "link": "https://universitystar.com/36926/sports/txst-mens-golf-concludes-fall-slate-at-quebin-cup/",
         "link_kind": "item",
@@ -5587,20 +5615,6 @@
         "medium": "text"
       },
       {
-        "title": "WATCH: TXST Football Media Availability vs Colorado State (101126)",
-        "link": "https://txst.com/news/2026/10/11/watch-txst-football-media-availability-vs-colorado-state-101126.aspx",
-        "link_kind": "item",
-        "date": "2026-10-11T22:16:00+00:00",
-        "summary": "<img alt=\"GJ Kinne on the sideline during Texas State's football game against UIW\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/11/MRR-05251.jpg\" /><br /><br />HC GJ Kinne, AHC/STC/Safeties Tanner Burns, Co-DC/Linebackers Matthew Gregg",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "cb0cb76a4131f193",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Texas State Announces Inaugural Pac-12 Women's Basketball Conference Schedule",
         "link": "https://txst.com/news/2026/10/2/womens-basketball-texas-state-announces-inaugural-pac-12-schedule.aspx",
         "link_kind": "item",
@@ -5658,6 +5672,35 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "Mason Falslev Named to Jerry West Award Watch List",
+        "link": "https://utahstateaggies.com/news/2026/10/27/mens-basketball-mason-falslev-named-to-jerry-west-award-watch-list.aspx",
+        "link_kind": "item",
+        "date": "2026-10-27T18:00:00+00:00",
+        "summary": "<img alt=\"Mason Falslev\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/Mason_Falslev3.jpg\" /><br /><br />Utah State senior guard Mason Falslev was named to the 2026-27 Jerry West Shooting Guard of the Year Top 20 Preseason Watch List, it was announced by the Naismith Basketball Hall of Fame on Tuesday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "4a1aa27788090cd0",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Aggie basketball picks up win in exhibition showcase vs Santa Clara",
+        "link": "https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/Aggie-basketball-picks-up-win-in-exhibition-showcase-vs-Santa-Clara-e3r5flk",
+        "link_kind": "item",
+        "date": "2026-10-27T06:01:00+00:00",
+        "summary": "<p>• We first talked about Aggies in the Pros</p><p>• We then talked about the struggles of football, soccer, and volleyball this week.</p><p>• We ended with some good news regarding the USU basketball exhibition win over Santa Clara. Thistle approves! </p>",
+        "author": "The Scotsman Show",
+        "duration": 1704,
+        "channel_url": "",
+        "source": "The Scotsman Show",
+        "id": "00f440a9382c416b",
+        "extent": "28 min",
+        "sport": "all",
+        "medium": "audio"
+      },
       {
         "title": "Utah State Football Continues Pac-12 Action at Home Versus Colorado State",
         "link": "https://utahstateaggies.com/news/2026/10/26/utah-state-football-continues-pac-12-action-at-home-versus-colorado-state.aspx",
@@ -6141,6 +6184,34 @@
       }
     ],
     "Washington State": [
+      {
+        "title": "How WSU football has handled ‘the noise’ amid dismal 1-7 season",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/how-wsu-football-has-handled-the-noise-amid-dismal-1-7-season/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-10-28T00:52:44+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10272026_tzr_tzr_174721.jpg?d=1200x630\"><br/>At 1-7, two key questions loom for WSU football: How are the players handling the criticism? And without a bowl game to play for, what keeps them motivated?",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "60b87e991f6a63a3",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "During a 1-7 season, what keeps WSU players motivated to keep playing?",
+        "link": "http://www.spokesman.com/stories/2026/oct/27/during-a-1-7-season-what-keeps-wsu-players-motivat/",
+        "link_kind": "item",
+        "date": "2026-10-27T00:00:00+00:00",
+        "summary": "<p>PULLMAN – Trey Leckner admits that when he was younger, years before he began to flourish as Washington State’s premier pass-catching tight end, the noise could get to him sometimes. He was in high school, at Glacier Peak over in Snohomish, and he internalized some of the criticism.</p><p>That type of noise doesn’t bother him much these days, he said, in large part because of the journey it took for him to arrive at WSU. He redshirted his true freshman year in 2023, then began to ascend toward the back half of the following year, then earned a starting role in 2025. He missed the first four games of this season, his redshirt junior campaign.</p><p>When you watch him play, you wouldn’t know it. He caught a key fourth-down conversion over the weekend, in WSU’s 31-10 loss to Boise State, giving him these numbers in four games: 12 catches for 98 yards, including an 18-yard reception. He’s been the same kind of downfield threat that made him such an enticing prospect years ago.</p><p>“I think just getting older and being in the locker room,” Leckner said earlier this week, “being around a lot of really good players, obviously through 2023 and on. Just picking their brain and having good mentors, whether it’s players or coaches. Just being around it for so long.”</p><p>Leckner’s veteran presence is surely coming in handy this season, a 1-7 campaign for WSU, which is still looking for its first FBS win of the season. Head coach Kirby Moore and the Cougars had few issues cruising past FCS Duquesne in mid-September, but since then, they’ve dropped five in a row.</p><p>They’ve tried changing play-callers. They’ve tried changing quarterbacks. The Cougs’ offense has enjoyed some improvement since Moore benched Caden Pinnick for Owen Eshelman at quarterback, but in two games with that move, it hasn’t resulted in wins for WSU.</p><p>The only sure thing this WSU season has yielded is criticism: From fans, from media, from college football observers at large. The Cougs’ is a high-profile program, even in their new era within the reimagined Pac-12, which means they hear about it when things are going as poorly as they are now. They may sign up for it when they agree to such a platform, sure, especially when they accept such big paydays in the new NIL era. But that doesn’t mean they’re immune to criticism.</p><!--[embed id=12376]--><p>Ahead of WSU’s next game, a road matchup with San Diego State, that brings up two key questions: How do these Cougars handle the noise? And without a bowl game to play for, what keeps them motivated?</p><p>“Regardless (of) what the prize is or whatever that we’re playing for, I want to win. I know all the guys in the locker room want to win, and the coaches want to win,” Leckner said. “So I think just the will to win. I think we have all the seniors, all the seniors that are still playing. We wanna send them out on a good note, and we wanna build momentum going into next year.”</p><p>This WSU team rosters 14 seniors, including key pieces like linebacker Keith Brown, offensive linemen Jonny Lester and Jaylin Caldwell, receivers Daniel Blood and Darrius Clemons, defensive end Linus Zunk, defensive tackles Paul Hutson III and Damarjhe Lewis and tight end Jack Pedersen, plus cornerbacks Khamari Terrell and Jalil Tucker. All of those guys have played important roles for this team.</p><p>All three players who spoke to the media on Monday – Leckner, defensive end Matyus McLain and nickelback Jamarey Smith – agreed they’re motivated to keep playing for their seniors. They want to finish things right, especially for Brown, who is playing his sixth and final season of college football.</p><p>Fun fact about Brown: He’s played 482 snaps this season, which is the 12th most in the country among linebackers. It’s the third-most in the Pac-12. That underscores how reliable he has been this season, particularly in WSU’s last two games, making 15 tackles against Oregon State and nine against Boise State.</p><p>“Playing for the guys, playing for the seniors,” McLain said. “This is their last four games ever, could be ever. Playing for guys like Linus, Keith Brown. Gotta keep playing for those guys, and then just the guys in the locker room. You just gotta keep playing for everybody around you.”</p><p>Technically speaking, WSU isn’t <em>entirely</em> out of the bowl game picture. If they were to win out and end the regular season 5-7, they could make a bowl if there aren’t enough 6-6 teams to fill all the bowl slots. But the Cougars would also need to meet certain Academic Progress Rate standards, and they would need to decide if such a thing would benefit the program to begin with.</p><p>But that’s a long way off for WSU, which needs to beat an FBS team first before anything else can happen. The Cougars’ next task is a road tilt with the Aztecs, who are favored to win the game, making the Cougs an underdog they way they often have been this season.</p><p>“No offense to you guys, but you guys, the media people aren’t in our corner like our coaches are, and like we are for each other,” McLain said. “So really leaning on the brotherhood and the people in this building for the support that you need throughout that is really what it is.”</p><!--[embed id=12377]--><p>“I kinda block it out,” Smith said. “I worry about just what we have going on in the building and preparing week-by-week. Things that happened last week, to me, don’t really matter now. We’re on to San Diego State, bigger and better things. So just trying to prepare for that and dominate each and every week.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "1095abc0954f0dfd",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Washington State Cougars’ Kirby Moore to ‘explore’ offensive-line changes",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/washington-state-cougars-kirby-moore-to-explore-offensive-line-changes/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
@@ -7214,20 +7285,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State quarterback Braden Atkinson's stellar season continues | Difference makers",
-        "link": "http://www.spokesman.com/stories/2026/oct/17/oregon-state-quarterback-braden-atkinsons-stellar-/",
-        "link_kind": "item",
-        "date": "2026-10-17T00:00:00+00:00",
-        "summary": "<h3>OSU QB Braden Atkinson</h3><p>The sophomore transfer continued his remarkable debut season at the FBS level, completing 23 of 38 passes for 347 yards with three touchdowns and no turnovers. Atkinson, who won the Jerry Rice Award (FCS freshman of the year) at Mercer last season, entered the game leading the FBS in passing yards and TD throws, and he boosted his numbers on the season to 2,604 yards and 24 TDs with only two interceptions. Atkinson connected on seven completions of 15 yards or more, including a 90-yard scoring bomb in the first half to star freshman receiver Jesse Legree. Atkinson completed eight straight passes during one stretch in the second half, two for TDs, as the Beavers put the game away.</p><h3>OSU RB AJ Newberry</h3><p>A senior Vanderbilt transfer, Newberry had the most productive game of his collegiate career, producing 225 yards from scrimmage and a touchdown. The 6-foot-1, 200-pound Texas native was a problem for Cougar tacklers, averaging 9.5 yards on 11 carries for 105 yards on the ground, with long rushes of 30, 26 and 19 yards. He was also a threat in the passing game, recording five receptions for 120 yards. On a screen pass late in the second quarter, Newberry outraced everyone and hurdled the last WSU tackler on his way to an 88-yard touchdown, which extended Oregon State’s lead to 27-3, an insurmountable deficit for a Cougars team that found some offensive success with a new quarterback, but is still searching for consistency.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "d68b83b66f5c8b30",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "‘Let’s go win the rock’: Behind the new WSU-Oregon State rivalry trophy",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/lets-go-win-the-rock-behind-the-new-wsu-oregon-state-rivalry-trophy/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -8133,20 +8190,6 @@
         "medium": "audio"
       },
       {
-        "title": "Washington Huskies, Washington State Cougars score high on Panic Meter",
-        "link": "https://www.seattletimes.com/sports/washington-huskies-football/washington-huskies-washington-state-cougars-score-high-on-panic-meter/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-09-30T18:55:43+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/09/09302026_tzr_tzr_115055.jpg?d=1200x630\"><br/>September proved deeply concerning for the Huskies and the Cougars. So concerning that they score high on the Panic Meter.",
-        "author": "Jon Wilner",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "3c11d02d2f253c80",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Men’s Basketball 2026-27 Pac-12 Slate Unveiled",
         "link": "https://wsucougars.com/news/2026/09/30/mens-basketball-2026-27-pac-12-slate-unveiled",
         "link_kind": "item",
@@ -8814,79 +8857,6 @@
         "extent": "29 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Coug Talk (WSU vs. Kansas State) 9-12-26",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/08553c96-990b-4f88-bcc3-8b038f1d8644.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-09-12T22:45:00+00:00",
-        "summary": "<p>Postgame coverage from WSU's 34-7 loss against Kansas State on 9-12-26.</p>",
-        "author": "",
-        "duration": 4294,
-        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
-        "source": "Washington State Cougars Podcast",
-        "id": "57f9c30bdf6458a6",
-        "extent": "1h 12m",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Cougar Football Replay (WSU vs. Kansas State) 9-12-26",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/1848213b-08d5-4d20-8ab6-ef767377a49f.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-09-12T22:44:00+00:00",
-        "summary": "<p>Full game broadcast from WSU's 34-7 loss against Kansas State on 9-12-26</p>",
-        "author": "",
-        "duration": 15534,
-        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
-        "source": "Washington State Cougars Podcast",
-        "id": "685012835563880e",
-        "extent": "4h 19m",
-        "sport": "football",
-        "medium": "audio"
-      },
-      {
-        "title": "Cougar Tailgate Show (WSU vs. Kansas State) 9-12-26",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/9ae64d8c-63ed-46a5-b3af-20e4fcae81de.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-09-12T22:43:00+00:00",
-        "summary": "<p>Cougar Tailgate Show pregame coverage prior to the WSU vs. Kansas State game on 9-12-26.</p>",
-        "author": "",
-        "duration": 6703,
-        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
-        "source": "Washington State Cougars Podcast",
-        "id": "dd919c44566abc82",
-        "extent": "1h 52m",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "WSU Football: Kirby Moore | Kansas State Postgame | 9/12/26",
-        "link": "https://wsucougars.com/news/2026/09/12/wsu-football-kirby-moore-kansas-state-postgame-91226",
-        "link_kind": "item",
-        "date": "2026-09-12T22:25:46+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "952fda506295f378",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU Football: Caden Pinnick | Jaylen Thomas | Kaden Beatty | Kansas State Postgame | 9/12/26",
-        "link": "https://wsucougars.com/news/2026/09/12/wsu-football-caden-pinnick-jaylen-thomas-kaden-beatty-kansas-state-postgame-91226",
-        "link_kind": "item",
-        "date": "2026-09-12T22:16:25+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "1f9713b97d05a48f",
-        "sport": "football",
-        "medium": "text"
       }
     ]
   }
