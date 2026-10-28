@@ -20987,6 +20987,224 @@
       ],
       "extent": "7 min read",
       "run": "run_2026-10-27-1340"
+    },
+    "1095abc0954f0dfd": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature covers how Washington State football players are staying motivated during a 1-7 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-28-0140"
+    },
+    "2581aef11c667595": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece reports on former Gonzaga players' placements on NBA G League rosters, which is in-scope coverage of alumni pro careers.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-28-0140"
+    },
+    "37c16633a96a8b41": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Gonzaga men's basketball's charity exhibition against Lewis-Clark State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-28-0140"
+    },
+    "4ed355890e2c632b": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece profiles San Diego State women's basketball's new transfer guards ahead of its first Pac-12 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ava Bocek"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-28-0140"
+    },
+    "60b87e991f6a63a3": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature covers how Washington State football players are handling criticism and motivation during a 1-7 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-10-28-0140"
+    },
+    "68cd7dbd20d13bae": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece covers the Oregon State women's basketball team's unionization case status.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Nikolas Munoz"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-10-28-0140"
+    },
+    "72980703b026388e": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece reviews Fresno State men's basketball's exhibition loss and breaks down the new starting five.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-28-0140"
+    },
+    "7c0bebdffffe0a42": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Wyoming football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is a Mountain West newsletter roundup about Wyoming football and an NIU coaching vacancy, with no covered program as subject or substantive figure.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-10-28-0140"
+    },
+    "99d4cb6f856215c9": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary identify a cornerback-vs-receiver matchup preview between Oregon State and Fresno State football ahead of their game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-28-0140"
+    },
+    "a447ede2284c35a1": {
+      "subjects": {
+        "gonzaga/mens-basketball": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Gonzaga gets its own substantive entry, ranked 11th, in this preseason top-25 ballot with commentary.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-10-28-0140"
+    },
+    "b25faba1c96688fc": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary names Oregon State football players by position (center, safety) and reports on their NCAA eligibility trial timing.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-10-28-0140"
+    },
+    "c875db45a0dee355": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece recounts Fresno State's historic 2001 upset of Oregon State football and ties it to their upcoming 2026 rematch.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-10-28-0140"
+    },
+    "db51ec7d8256647b": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The podcast breaks down Gonzaga men's basketball's exhibition loss to Arkansas.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-10-28-0140"
+    },
+    "fa31f488df6f12d6": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps San Diego State men's basketball's turnover-plagued exhibition loss to USC.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jason Testa"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-10-28-0140"
     }
   },
   "runs": {
@@ -24395,6 +24613,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 14.69082699995488,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-10-28-0140": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-10-28T01:39:12.208369+00:00",
+      "items": 14,
+      "verdict_counts": {
+        "publish": 13,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "7c0bebdffffe0a42",
+          "source": "Mountain West Connection",
+          "phrase": "Wyoming football",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 31.900131499860436,
       "tokens": null,
       "tokens_source": null
     }
