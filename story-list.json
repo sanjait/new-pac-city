@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:03:28.938382+00:00",
+  "generated_at": "2026-10-29T13:03:45.775959+00:00",
   "teams": {
     "conference": [
       {
@@ -565,6 +565,20 @@
     ],
     "Boise State": [
       {
+        "title": "Week Nine Availability Report",
+        "link": "https://broncosports.com/news/2026/10/28/football-week-nine-availability-report",
+        "link_kind": "item",
+        "date": "2026-10-29T03:00:00+00:00",
+        "summary": "<img alt=\"Texas State Availability Report Web\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/FB25_Availability_Report_WEB.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "9934e8d62c4c9657",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Bronco Icon Kellen Moore to Raise Blue Chaos Flag",
         "link": "https://broncosports.com/news/2026/10/28/football-bronco-icon-kellen-moore-to-raise-blue-chaos-flag",
         "link_kind": "item",
@@ -605,6 +619,21 @@
         "id": "9a1d149052335fa0",
         "sport": "mbb",
         "medium": "text"
+      },
+      {
+        "title": "Coach Danielson Weekly 10-28-26",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/fe4ff1bc-5f69-43cc-b29e-5ac414d72f03.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-10-28T05:00:00+00:00",
+        "summary": "<p>Coach Danielson Weekly 10-28-26</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3531,
+        "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network",
+        "source": "The Bronco Sports Podcast Network",
+        "id": "1ca677a6bf700f23",
+        "extent": "59 min",
+        "sport": "all",
+        "medium": "audio"
       },
       {
         "title": "Boise State Invites Bronco Nation to Celebrate Halloween on The Blue",
@@ -785,20 +814,6 @@
         "channel_url": "",
         "source": "Boise State Athletics",
         "id": "e9b174bfb122788d",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "A Servant's Heart",
-        "link": "https://broncosports.com/news/2026/10/22/b-1-features-a-servants-heart",
-        "link_kind": "item",
-        "date": "2026-10-22T21:00:00+00:00",
-        "summary": "<img alt=\"B1 Feature Web Slider\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/21/B1_Feature_Slider.jpg\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "812624fc65956381",
         "sport": "football",
         "medium": "text"
       },
@@ -1249,6 +1264,20 @@
     ],
     "Colorado State": [
       {
+        "title": "Rams Dominate in Exhibition Win",
+        "link": "https://csurams.com/news/2026/10/28/womens-basketball-rams-dominate-in-exhibition-win",
+        "link_kind": "item",
+        "date": "2026-10-29T05:05:00+00:00",
+        "summary": "<img alt=\"WBB exhibition 2026\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/WBB_exhibition.jpg\" /><br /><br />CSU shows off strength of new roster",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "264192333a7d3d39",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Colorado State Insider Podcast with Brian Roth -- Season 10, Episode 12",
         "link": "https://csurams.com/news/2026/10/28/football-colorado-state-insider-podcast-with-brian-roth-season-10-episode-12",
         "link_kind": "item",
@@ -1289,6 +1318,21 @@
         "id": "96add5b714393053",
         "extent": "1h 20m",
         "sport": "all",
+        "medium": "audio"
+      },
+      {
+        "title": "The Jim Mora Football Show 10-28-26",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/d7f3d345-4a7f-4cdc-a65d-3fac759b8b0b.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-10-28T05:00:00+00:00",
+        "summary": "<p>The Jim Mora Football Show 10-28-26</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3528,
+        "channel_url": "https://art19.com/shows/the-colorado-state-insider",
+        "source": "The Colorado State Insider",
+        "id": "547a0342ad162c0c",
+        "extent": "59 min",
+        "sport": "football",
         "medium": "audio"
       },
       {
@@ -1802,6 +1846,20 @@
     ],
     "Fresno State": [
       {
+        "title": "Fresno State volleyball encourages fans to pink out for upcoming match against Colorado State",
+        "link": "https://fscollegian.com/2026/10/fresno-state-volleyball-encourages-fans-to-pink-out-for-upcoming-match-against-colorado-state/",
+        "link_kind": "item",
+        "date": "2026-10-29T02:32:12+00:00",
+        "summary": "Fresno State women’s volleyball will take the court Thursday night for its Dig for a Cure match against Colorado State, encouraging fans to wear pink and support the Bulldogs as they continue their first season competing in the Pac-12. The Bulldogs will host Colorado State at 6 p.m. on Thursday, Oct. 29 at the Save...",
+        "author": "Ashley Mills, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "1895fb08e8f58a08",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Fresno State men’s basketball record prediction",
         "link": "https://fscollegian.com/2026/10/fresno-state-mens-basketball-record-prediction/",
         "link_kind": "item",
@@ -1967,20 +2025,6 @@
         "source": "Fresno State Athletics",
         "id": "a8d638622ac40f22",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Fresno State Swim and Dive invites fans to ‘Pack the Pool’",
-        "link": "https://fscollegian.com/2026/10/fresno-state-swim-and-dive-invites-fans-to-pack-the-pool/",
-        "link_kind": "item",
-        "date": "2026-10-22T23:29:51+00:00",
-        "summary": "The Fresno State Swim and Dive team is calling on all fans to “Pack the Pool” this Friday. The Swim and Dive team will be hosting their first dual meet of the season against California State University Bakersfield, tomorrow at 6 p.m at the Fresno State Aquatics Center. A dual meet is a competition between...",
-        "author": "Juan Muratalla, Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "c427d4d67d71c917",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -2608,6 +2652,20 @@
     ],
     "Gonzaga": [
       {
+        "title": "No. 15 Gonzaga Cruises to Exhibition Win over LC State, 91-59",
+        "link": "https://gozags.com/news/2026/10/28/mens-basketball-no-15-gonzaga-cruises-to-exhibition-win-over-lc-state-91-59",
+        "link_kind": "item",
+        "date": "2026-10-29T04:41:00+00:00",
+        "summary": "<img alt=\"Jefferson L C State\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/1F2A7364.JPG\" /><br /><br />SPOKANE, Wash. – In its final tuneup before the regular season, No. 15 Gonzaga eased past Lewis-Clark State, 91-59, in an exhibition inside McCarthey Athletic Center Wednesday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "a1d933f1d07c6dc6",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "Fogle Named to Julius Erving Award Watch List",
         "link": "https://gozags.com/news/2026/10/28/mens-basketball-fogle-named-to-julius-erving-award-watch-list",
         "link_kind": "item",
@@ -2636,7 +2694,10 @@
         "source": "Gonzaga Athletics",
         "id": "e4634f066127286e",
         "sport": "wbb",
-        "medium": "text"
+        "medium": "text",
+        "also": [
+          "The Spokesman-Review"
+        ]
       },
       {
         "title": "WBB Wins Over Westmont in Exhibition Game",
@@ -2653,11 +2714,39 @@
         "medium": "text"
       },
       {
-        "title": "Seeking expedited relief, Gonzaga's Chauncey Wiggins withdraws from Georgia 5-in-5 lawsuit",
+        "title": "Gonzaga distributes 'meaningful minutes' to variety of players during 91-59 exhibition victory",
+        "link": "http://www.spokesman.com/stories/2026/oct/28/gonzaga-distributes-meaningful-minutes-to-variety-/",
+        "link_kind": "item",
+        "date": "2026-10-28T00:00:00+00:00",
+        "summary": "<p>Mark Few would usually zero in on things like field goal percentage, rebounding or turnovers. With NAIA Lewis-Clark State visiting for Wednesday’s exhibition, Gonzaga’s coach was focused on another statistical column when judging whether the team’s final preseason tune-up was ultimately a success.</p><p>No, not final score. Gonzaga was expected to win in runaway fashion and had no issue, cruising past LCSC 91-59 at McCarthey Athletic Center.</p><p>Few’s eyes shifted to another section of the final stat sheet: minutes played. Everybody on Gonzaga’s roster registered at least four, with only one player, point guard Javon Bennett, exceeding 20 during Wednesday’s exhibition rout.</p><p>Another positive? The Zags left the Kennel without any injury concerns and should have everyone who played Wednesday available for Monday’s 4:30 p.m. (TNT/HBO Max) showdown with Purdue at T-Mobile Arena in Las Vegas.</p><p>“I think the best thing is we were able to get everybody in and get them kind of substantial minutes,” said Few, who wasn’t able to disperse playing time as liberally during a tightly contested exhibition loss at Arkansas on Saturday. “The other night, kind of the way it was going, you probably didn’t get as many guys in as you’d like, meaningful minutes. So getting everybody meaningful minutes tonight was probably the best thing.”</p><p>Scoring balance might have been a close second.</p><p>Gonzaga’s leading scorers, Parker Jefferson and Izan Almansa, both finished with 12 points but nine players had at least six. Joining Jefferson and Almansa in the double-digit club were Braden Huff and Bennett, who had 11 points apiece, along with Massamba Diop, who overcame a slow start to add 10.</p><p>Even in a dominant preseason win, though, Few was able to poke holes and identify shortcomings. The Zags were improved but still below-average from the perimeter, making 9 of 27 (33%) four days after a dismal 6 of 28 (214%) showing at Arkansas.</p><p>They won the rebounding column, but Few felt the 41-36 disparity should’ve been more substantial given the height, size and athleticism advantage Gonzaga still had over its NAIA opponent at nearly every position on the floor – even when Few’s reserves were in the game.</p><p>“Rebounding is something, we haven’t been good in the preseason here,” Few said. “Didn’t exactly do a great job tonight. We battled at Arkansas against a really good, big team but it’s something we’ve always got to take to heart because it’s going to be a big key to our season.”</p><p>Davis Fogle returned to Gonzaga’s starting lineup after taking precautionary measures and sitting out with a left leg injury against Arkansas. The sophomore wing played just 16 minutes, but was effective at both ends of the floor, scoring eight points on 4-of-9 shooting to go with two rebounds, two assists and two steals.</p><p>Gonzaga made its first two 3-pointers out of the gates, from starting guards Xaivian Lee and Isiah Harwell, and put together an impressive three-possession stretch minutes later when Diop blocked an LCSC shot into the first row, Harwell collected an offensive rebound before going back up for a dunk and Fogle converted on a steal-and-score sequence to extend a 7-0 run.</p><p>The Zags lost control of the game for a brief stretch after that, making a hockey substitution that saw the five starters replaced by five newcomers: Bennett, Nathan De Sousa, Luca Foster, Almansa and Sam Funches.</p><p>Fueled by seven straight points from Idaho transfer Titus Yearout, the Warriors went on an 8-0 run to close the deficit to 23-18 with 11 minutes, 11 seconds to play. But Gonzaga outscored its opponent 31-9 to close the frame and went into halftime with a 54-27 advantage.</p><p>Yearout led the Lewiston-based Warriors with 12 points, making 4 of 14 shots from the field and 2 of 6 from the 3-point line. Dylan Skaife, a Ferris High School product, scored five points on 2 of 7 from the field and 1 of 6 from the 3-point line.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "93e8aae031d2f036",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga’s bench, led by Izan Almansa, contributes in exhibition blowout",
+        "link": "http://www.spokesman.com/stories/2026/oct/28/gonzagas-bench-led-by-izan-almansa-contributes-in-/",
+        "link_kind": "item",
+        "date": "2026-10-28T00:00:00+00:00",
+        "summary": "<p>Izan Almansa received his eligibility just six days ago, but his intuitive play on the court makes it seem like he’s been in a Gonzaga uniform for a few years.</p><p>The 6-foot-10, 220-pound forward from Spain has been solid off the bench in a pair of exhibition games, including a 12-point effort in the first half of the Zags’ 91-59 exhibition rout over NAIA Lewis-Clark State College on Wednesday at the McCarthey Athletic Center.</p><p>The NCAA cleared Almansa on Friday, just before the team departed for Arkansas. One day later, Almansa was one of the most productive Zags, scoring 14 points in a 76-72 loss to 15th-ranked Arkansas in Fayetteville.</p><p>“It was right before the flight, coach (Stephen) Gentry told me,” Almansa said. “I wasn’t expecting to play. Everyone on the team got so hyped, me too. It was a really good moment.”</p><p>Almansa, who played for the NBA G League Ignite in 2023-24 and spent last season with Real Madrid in Spain’s Liga ACB, is on track to be the first big off the bench behind Braden Huff and Arizona State transfer Massamba Diop.</p><p>“He’s just got a very good feel for the game, so when you have that, everybody plays better with you and the game becomes a little easier for everybody,” head coach Mark Few said. “He knows when to pass, he understands spacing, he knows how to find his own shot.</p><p>“He’s just a really skilled basketball player. Those guys are always great to have on the floor from a coach’s perspective and also to play with.”</p><p>Almansa made 6 of 9 shots, including 1 of 2 3-pointers, against the talented Razorbacks. He hit 4 of 5 field-goal attempts, 2 of 2 on 3s, against LCSC.</p><p>“He’s obviously played against some really good players, some pros, in his time,” Huff said. “He’s super smart, athletic, quick. He’s a lot of fun to play with. I think he gives defenses a different look and he’s also really good on defense. He’ll be another big piece for us.”</p><p>Almansa was part of a GU bench that sputtered when five subs entered at the 14-minute mark of the first half. The Zags’ 11-point lead melted to seven before the starting unit returned.</p><p>The bench’s second run was a different story, outscoring the Warriors 18-2, boosting GU’s halftime lead to 54-27.</p><p>“Everyone was welcoming me great, knowing I wasn’t eligible at first,” said Almansa, whose first name is pronounced E-thun. “So it was a little bit hard, but everybody helped me, gave me a lot of confidence from my coaches, teammates, everybody here.”</p><p>Sophomore forward Parker Jefferson had nice stretches in each half and finished with 12 points, six rebounds, two assists and two blocks.</p><p>“I’m really proud of Parker,” said Huff, who scored 11 points in just 16 minutes. “He gave us good minutes (against Arkansas) and tonight he also did good things out there. I told him, I’ve been there coming off a redshirt year where you’re finally playing. I just told him to be ready regardless of what his role is night in and night out.”</p><p>Dayton transfer Javon Bennett, who had a tough shooting night (1 of 8) vs. Arkansas, chipped in 11 points, including three 3-pointers, and two assists against the visitors from Lewiston. Freshman guard Juwan Ekanga, a 6-6 freshman guard, added seven points, four rebounds and three assists. Gonzaga’s bench produced 47 points.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "c9c7770de342fa73",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga's Chauncey Wiggins withdraws from Georgia 5-in-5 lawsuit, will pursue injunction in Texas",
         "link": "http://www.spokesman.com/stories/2026/oct/28/seeking-expedited-relief-gonzagas-chauncey-wiggins/",
         "link_kind": "item",
         "date": "2026-10-28T00:00:00+00:00",
-        "summary": "<p>Looking to expedite his eligibility process, Gonzaga transfer Chauncey Wiggins has withdrawn his name from a 5-in-5 lawsuit in the state of Georgia and may look to get injunctive relief elsewhere, with the Bulldogs&#8217; opening game just five days away.</p><p>Wiggins initially secured a fifth year of eligibility through a preliminary injunction in Georgia, but the NCAA subsequently filed for a stay that reversed the original decision, making the former Florida State and Clemson player ineligible until oral arguments.</p><p>The Superior Court of Cobb County in Georgia recently set arguments for Jan. 12, 2027, potentially sidelining Wiggins through Gonzaga&#8217;s nonconference schedule and multiple Pac-12 Conference games.</p><p>Wiggins was one of 16 players who chose to withdraw from the case, according to a notice of voluntary dismissal without prejudice filed Tuesday by Cobb County Superior Court Clerk Henry Thompson. The group also included RJ Godfrey, a former teammate of Wiggins&#8217; at Clemson who&#8217;s expected to be a major contributor for former Gonzaga assistant Tommy Lloyd at Arizona this season, should he secure a fifth-year waiver.</p><p>It&#8217;s unclear what Wiggins&#8217; next course of action will be, but the 21-year-old could seek legal relief in another jurisdiction willing to give him an expedited hearing. Wiggins&#8217; attorney Ryan Downton, who&#8217;s also representing Gonzaga&#8217;s Javon Bennett and Xaivian Lee in 5-in-5 lawsuits, did not immediately respond to an E-mail from The Spokesman-Review on Wednesday.</p><p>The wing&#8217;s outside shooting would be a valuable weapon for Gonzaga if he&#8217;s cleared to play. Wiggins made a career-high 72 3&#8217;s last season at Florida State, shooting at a 38.7% clip. He contributed to the 3-point shooting barrage at Kraziness in the Kennel, making 2 of his 5 attempts, but wasn&#8217;t eligible to suit up for Saturday&#8217;s exhibition at Arkansas, watching from the bench in a team sweatsuit as the Zags struggled from distance, finishing just 6 of 28.</p><p>In his lone season at Florida State, Wiggins averaged 13.3 points per game and 3.9 rebounds, shooting 47.9% from the field. He spent the three prior seasons at Clemson, starting in 43 of the 70 games as a sophomore and junior. Wiggins averaged 8.3 ppg during his junior season and 5.4 ppg as a sophomore.</p><p>Wiggins is one of three Zags who&#8217;ve taken legal action against the NCAA to secure a fifth-year of eligibility. Lee and Bennett are eligible for the moment, but both still could face potential obstacles in lawsuits taking place in California and Ohio.</p>",
+        "summary": "<p>Seeking expedited relief in his ongoing eligibility battle, Gonzaga transfer Chauncey Wiggins has withdrawn his name from a 5-in-5 lawsuit in the state of Georgia and will now pursue a legal injunction in Texas with the Bulldogs’ season opener just five days away.</p><p>Wiggins initially secured a fifth year of eligibility through a preliminary injunction in Georgia, but the NCAA subsequently filed for a stay that reversed the decision, making the former Florida State and Clemson player ineligible.</p><p>The Superior Court of Cobb County in Georgia recently set arguments for Jan. 12, 2027, which would’ve sidelined Wiggins through Gonzaga’s nonconference schedule as well as multiple Pac-12 Conference games, with no guarantee he’d receive an injunction.</p><p>Wiggins was one of 16 players who chose to withdraw from the case, according to a notice of voluntary dismissal without prejudice filed Tuesday by Cobb County Superior Court Clerk Henry Thompson. The group also includes RJ Godfrey, one of Wiggins’ former teammates at Clemson and someone expected to be a major contributor for former Gonzaga assistant Tommy Lloyd at Arizona, should he secure a fifth-year waiver.</p><p>Wiggins will continue to seek legal relief in another jurisdiction, applying to join a group of player plaintiffs in the Wheeler v. NCAA case taking place in McLennan County, Texas. Other player plaintiffs in the case – Baylor football player Hosea Wheeler, Texas Tech forward Darrion Williams, Utah State guard Dallin Hall and former Washington State guard Nate Calmese to name a few – were granted a preliminary injunction in September, clearing them to play until at least Dec. 14 when the case goes to trial.</p><p>An intervention hearing will take place at 7:30 a.m. on Thursday in Waco, Texas, to determine whether Wiggins and other members of the Godfrey v. NCAA will be added in the case and whether they’ll be eligible for the injunction that was extended to player plaintiffs in the original lawsuit.</p><p>The wing’s outside shooting would be a valuable weapon for Gonzaga if he’s cleared to play. Wiggins made a career-high 72 3s last season at Florida State, shooting at a 38.7% clip. He contributed to the 3-point shooting barrage at Kraziness in the Kennel, making 2 of his 5 attempts, but wasn’t eligible to suit up for Saturday’s exhibition at Arkansas, watching from the bench in a team sweatsuit as the Zags struggled from distance, finishing just 6 of 28.</p><p>Wiggins didn’t play in GU’s second exhibition on Wednesday against Lewis-Clark State, but fed passes to teammates during pregame warmups and was an active member of the bench during a comfortable win at McCarthey Athletic Center.</p><p>“He’s practicing every day and he’s been great,” Few said. “He’s been great, working out, looks good. Obviously would really help him when we hopefully do get him eligible here.”</p><p>In his lone season at Florida State, Wiggins averaged 13.3 points per game and 3.9 rebounds, shooting 47.9% from the field. He spent the three prior seasons at Clemson, starting in 43 of the 70 games as a sophomore and junior. Wiggins averaged 8.3 ppg during his junior season and 5.4 ppg as a sophomore.</p><p>Wiggins is one of three Zags who’ve taken legal action against the NCAA to secure a fifth year of eligibility. Xaivian Lee and Javon Bennett are eligible for the moment, but both still could face potential obstacles in lawsuits taking place in California and Ohio.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -3185,20 +3274,6 @@
         "medium": "text"
       },
       {
-        "title": "Fogle Steals the Show at Kraziness",
-        "link": "https://gozags.com/news/2026/10/3/mens-basketball-fogle-steals-the-show-at-kraziness",
-        "link_kind": "item",
-        "date": "2026-10-04T01:13:00+00:00",
-        "summary": "<img alt=\"Fogle dunk contest\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/Fogle_web.png\" /><br /><br />SPOKANE, Wash. – In front of a packed house at the annual Numerica Kraziness in the Kennel, Gonzaga's Davis Fogle scored 30 points in the scrimmage and won the dunk contest inside the McCarthey Athletic Center Saturday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "57eb54b0902b1782",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Former Gonzaga forward Kelly Olynyk inks contract with Italian club BC Roma",
         "link": "http://www.spokesman.com/stories/2026/oct/03/former-gonzaga-forward-kelly-olynyk-inks-contract-/",
         "link_kind": "item",
@@ -3223,20 +3298,6 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "872e93f9ae7175db",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Multiple Zags show promise from behind 3-point arc at Kraziness",
-        "link": "http://www.spokesman.com/stories/2026/oct/03/multiple-zags-show-promise-from-behind-3-point-arc/",
-        "link_kind": "item",
-        "date": "2026-10-03T00:00:00+00:00",
-        "summary": "<p>For the first time in at least a decade, Gonzaga’s Kraziness in the Kennel didn’t include a 3-point competition, so the Navy and White teams used an entertaining 20-minute scrimmage to show off their perimeter shooting.</p><p>The Zags, coming off the worst 3-point shooting season (33.3%) in program history, had no issues from distance Saturday at the McCarthey Athletic Center.</p><p>White, which pulled away to win 56-45, canned 11 of 17 behind the arc, paced by sophomore wing Davis Fogle’s 6 of 7. Navy wasn’t far behind, hitting 7 of 15, led by Houston transfer Isiah Harwell’s 4 of 5 on 3s.</p><p>The annual Kraziness event served as the public’s first glimpse at the 2026-27 Zags and fans got to see 3-point accuracy that often was missing on last year’s squad.</p><p>Making snap judgements from a preseason scrimmage isn’t advisable, but it was a promising sign when five different Zags – Harwell, Fogle, Florida transfer guard Xaivian Lee, Braden Huff and Florida State transfer forward Chauncey Wiggins – connected on 3-pointers in the scrimmage’s first 6 minutes and 8 seconds.</p><p>Lee finished 3 of 6 on 3s and the 6-foot-11 Wiggins made 2 of 5.</p><p>Gonzaga head coach Mark Few witnessed improved 3-point shooting throughout summer and fall drills from a revamped roster with just two returning players, Fogle and Huff.</p><p>“We’ve shot it good,” Few said. “Actually (Dayton transfer guard) Javon (Bennett, who sat out with a shoulder injury) shoots it really good, so we missed that today. But ‘X’ (Lee) has shot it good. It was nice to see Isiah step up and make some and obviously Davis has shot it really well.”</p><p>There’s a reason for that. Fogle estimated he put 500-600 shots daily in the offseason, streamlining his form with assistant coach Stephen Gentry.</p><p>“Last year I had a pretty good season, but I knew (perimeter shooting) was going to be a big step in my game, not only for college but just for the next level,” Fogle said. “Me and coach Gentry really started from zero right when season ended. We were just (taking) form shots, mid-range shots, really trying to keep (the ball) on my right side and eliminate all the moving parts.</p><p>“That, along with me coming back in the gym at night and just repping it out every day, it just became more and more comfortable.”</p><p>Fogle actually was one of the team’s better shooters last season at 35% on 3-pointers as a freshman but understood there was room for growth.</p><p>“Literally when the season was over, we started a 21-day program totally rebuilding his shot, down to how he catches the ball,” Gentry said. “The big emphasis was it’s tight to his body, it’s right and he’s really driving the ball. He’ll hear me say all the time: ‘Tight, right and drive.’</p><p>“To his credit, he totally bought in, totally coachable. He’s got a little shooting routine he goes through every single day as his warmup. He probably knows it better than me at this point.”</p><p>The 6-6 Harwell was a five-star recruit on Gonzaga’s radar before he spent his freshman year at Houston. The Cougars didn’t get the best version of Harwell, who lost valuable development time recovering from a torn ACL as a high school senior.</p><p>“At the beginning, I was with Gentry and ‘B-Mike’ (assistant Brian Michaelson) and we had just been shooting,” said Harwell, who made 27.1% on 3s while averaging just under 14 minutes per game at Houston. “Being able to have an actual offseason where I’m not in the training room as much and just being on the court and getting everything going again was nice.”</p><p>Huff, a 33.3% 3-point shooter last season, made 2 of 3 treys. The 6-10 senior, highly productive and wildly efficient inside the arc the last three seasons, was just 2 of 8 on 2-pointers.</p><p>“I took a lot of time working on (3-point shooting),” Huff said. “I just want to first off get more up this year but also make more at a higher clip. It felt good today. I’ve got to get back to making some hooks and floaters. I missed more than I usually do.”</p><p>The season opener against Purdue is roughly a month away, but Gentry, like Few, has seen encouraging signs from Gonzaga’s primary shooting threats.</p><p>“Xaivian is a way better 3-point shooter than last year’s stats,” Gentry said. “He’s got a good stroke. Javon can really shoot it. There’s nothing we’re doing with his shot. It’s ready to go. (French guard Nathan) De Sousa can shoot it, get a little more arc on his shot. Chauncey obviously can shoot it and get it off, crazy quick. (Izan) Almansa can make open 3s.</p><p>“The unique thing is, too, these guys can make 3s off the bounce, which is really important in attacking switching and respecting guys in ball screens. We’ve had some awesome days in practice and today was maybe a little bit higher than usual, but nothing crazy.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "7ef7c827896fe9e7",
         "sport": "all",
         "medium": "text"
       },
@@ -3280,20 +3341,6 @@
         "source": "The Spokesman-Review",
         "id": "1b7515b4434bb9ab",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Braden Huff's return and four other things to watch at Gonzaga's Kraziness in the Kennel",
-        "link": "http://www.spokesman.com/stories/2026/oct/01/braden-huffs-return-and-four-other-things-to-watch/",
-        "link_kind": "item",
-        "date": "2026-10-01T00:00:00+00:00",
-        "summary": "<p>The exact makeup of Gonzaga’s 2026-27 roster remains unclear one month out from the season opener, but the group of players Mark Few and his staff assembled will take the floor for the first time on Saturday at Kraziness in the Kennel.</p><p>The annual preseason showcase, sold out as of Thursday afternoon, will start at 2 p.m. at McCarthey Athletic Center with player introductions followed by hype videos, a 3-point shooting contest, skills contest, intrasquad scrimmage and player/coach speeches. ESPN’s Sean Farnham is emceeing for the third straight year and SWX will carry the live broadcast.</p><p>While it’s often difficult to learn much from an abbreviated scrimmage between teammates in the early stages of October, this year’s Kraziness could be more compelling than years past. We break down five of the reasons below.</p><h3>B-Huff is back</h3><p>Braden Huff may end up owning a few more Gonzaga scoring and efficiency records by the time his college career ends but he already holds one, posting the top two scoring totals in Kraziness history, with 19 points in 2023 as a true freshman and 17 last season.</p><p>Huff’s scoring total won’t necessarily be what fans are focused on when the 6-foot-10 forward takes the floor for the first time since dislocating his kneecap in mid-January, forcing him to miss Gonzaga’s final 17 games in 2025-26.</p><p>The real story will be Huff’s strength, mobility and conditioning nine months removed from the injury that prematurely ended his junior season. The crafty forward who led the country in 2-point field goals before his injury has been back on the floor for at least the last two months without any limitations, but the Zags are still slow-playing his return and it’s unclear how many of the 20 minutes he’ll play during Saturday’s scrimmage.</p><p>Either way, his return to the floor, and to Gonzaga’s roster, is why many think the Zags will have a chance to play deep into the 2027 NCAA Tournament.</p><p>“We’ve been very, very, very conservative with him, especially this summer,” Few told The Spokesman-Review during Naismith Hall of Fame festivities in August. “There’s no need for him to do that. He’s in great shape and looks good.”</p><h3>Who’s actually available?</h3><p>This is a question we might be revisiting before both of Gonzaga’s exhibitions, prior to the Nov. 2 opener against Purdue and throughout the early stages of the regular season.</p><p>Similar to a handful of schools around the country, Gonzaga continues to wait on eligibility lawsuits and international waiver decisions that will determine whether starters and key rotation players can actually compete this season.</p><p>Fifth-year transfers Xaivian Lee (Florida), Javon Bennett (Dayton) and Chauncey Wiggins (Florida State) are currently involved in lawsuits that will determine whether they can suit up, with no real clarity on when verdicts will arrive.</p><p>Lee is currently eligible under a temporary restraining order, but still needs a favorable decision from the Superior Court of Santa Clara County on Oct. 20. Bennett and Wiggins earned preliminary injunctions in Ohio and Georgia, but are now ineligible after courts in both states granted an emergency stay motion, revoking the pair’s eligibility until their individual cases are heard.</p><p>Spanish forward Izan Almansa is the fourth player in limbo as the Real Madrid product waits on the NCAA to process his international eligibility waiver. Slowly but surely, the sport’s governing body is getting to waivers filed by basketball players and recently approved Gonzaga point guard Nathan De Sousa, a native of France, but Almansa’s wait continues into the first week of October.</p><p>All four players are on campus, listed on the web roster Gonzaga published earlier this week and depicted in player posters at the Volkar Center, but Lee, Bennett, Wiggins and Almansa haven’t been formally announced by the school at this point, nor have they been featured in social media photos shared by the basketball program.</p><p>Will the quartet of players participate in Kraziness? Outside of Huff’s return, it’s probably the most intriguing storyline leading into this year’s event. For reference, Tyon Grant-Foster obtained a practice waiver that enabled him to take part in Kraziness last year while the NCAA reviewed his eligibility case. When Grant-Foster’s eligibility waiver was denied the following week, his practice waiver became inactive.</p><h3>Diop’s debut</h3><p>Between unexpected point guard issues, 5-in-5 court cases and looming uncertainty around international transfers, it’s easy to forget Gonzaga’s offseason started with a bang in the transfer portal.</p><p>The Zags won a high-stakes bidding war with Rick Pitino and St. John’s for 7-foot Arizona State transfer Massamba Diop, widely considered to be the top center available during the most recent portal cycle.</p><p>Diop is technically listed at 7-1 and 245 pounds on GU’s new roster and Zag fans will have a chance to see the towering sophomore in person for the first time – or at least for the first time since last November, when he had 11 points, four rebounds and two blocks in a 77-65 loss to his new teammates in Tempe, Arizona.</p><p>“We haven’t had somebody like him,” Few said. “So big, so athletic, lob-catcher, rim-protector. Maybe (Ronny) Turiaf or somebody would be the closest one we’ve had over the years, I’d have to think about that. Great personality, plays with joy but also kind of work in progress.”</p><p>The Zags are hopeful Diop can impact the game on both ends of the floor, but defensive rim protection could be his most valuable asset to this team, considering the offensive firepower they’ll have elsewhere, particularly with Huff and sophomore wing Davis Fogle.</p><h3>First day of school (and Kraziness)</h3><p>The impact of Gonzaga’s freshman class could largely hinge on the eligibility of the four players we mentioned earlier, but all three of Luca Foster, Sam Funches and Juwan Ekanga should get significant run Saturday afternoon in a scrimmage setting.</p><p>While this may not be considered one of Gonzaga’s best freshman classes, it definitely is not among the worst either. Foster, Funches and Ekanga make up a well-rounded group consisting of two top-50 high school prospects that selected Few’s program over a handful of power conference suitors and an intriguing international prospect who’s already played games in France’s top professional league.</p><p>It’s also a good time to remind fans Fogle wasn’t projected to play a high-usage role for the Zags in the lead-up to Kraziness last year, let alone crack the team’s rotation at any point. Injuries and inconsistent play from others at his position eventually made Fogle the team’s sixth man and the freshman wing went on to average double figures the final two months of the season.</p><p>If all three 5-in-5 transfers and Almansa are eligible to compete this year, it’s unlikely Gonzaga would have to lean heavily on its freshman class, but last season reaffirmed how quickly things can change.</p><p>In any event, Saturday’s scrimmage gives Foster, Funches and Ekanga the chance to show how they’ve developed since arriving on campus and perhaps which of the three would be best-equipped to step into Gonzaga’s rotation if the situation calls for it.</p><h3>Roebuck returns</h3><p>The Zags have a solid hit rate when it comes to signing recruits who visit campus during Kraziness weekend.</p><p>They picked up a commitment from Funches within a week of last year’s event, signed four-star guard Dusty Stromer months after his visit in 2022 and, most notably, went 4-for-4 with Jalen Suggs, Chet Holmgren, Julian Strawther and Dominick Harris after the group of four- and five-star prospects traveled to Spokane in 2019.</p><p>Another important recruiting weekend is in store for the Zags, with four-star guard Gene Roebuck returning to the Kennel for his official visit. Roebuck traveled from La Mirada, California, last year for an unofficial visit that coincided with GU’s opener, but the 45th-ranked player in the class of 2027 is returning to Spokane after taking official visits to California and Washington earlier this fall.</p><p>A 6-foot-4, 180-pound combo guard, Roebuck is a consensus four-star prospect according to major recruiting services, the No. 9-ranked guard in the class and No. 4-ranked player in California.</p><p>The Zags currently have one player, five-star guard Dooney Johnson, committed in the 2027 class. Five-star guard Jalen Davis, a Bremerton High School standout, is also scheduled to take an official visit to the Kennel on Nov. 7 for GU’s nonconference game against New Mexico State.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "aa68f662a9c76af3",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -3341,6 +3388,34 @@
     ],
     "Oregon State": [
       {
+        "title": "Oregon State receiver questionable against Fresno State",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-receiver-questionable-against-fresno-state.html",
+        "link_kind": "item",
+        "date": "2026-10-29T02:57:25+00:00",
+        "summary": "Oregon State is in line to be the healthiest it’s been since the start of the season.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "19a32271663b4450",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State baseball adds commitment from 2028 OF",
+        "link": "https://www.oregonlive.com/recruiting/2026/10/oregon-state-baseball-adds-commitment-from-2028-outfielder.html",
+        "link_kind": "item",
+        "date": "2026-10-29T01:22:43+00:00",
+        "summary": "The Beavers now have eight commits in their 2028 class.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "dcdf64dbb1fcb2b6",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Campus officials give opinions on making time for school, work, family",
         "link": "https://dailybaro.orangemedianetwork.com/33530/daily-barometer-news/campus-officials-give-opinions-on-making-time-for-school-work-family/",
         "link_kind": "item",
@@ -3352,34 +3427,6 @@
         "source": "The Daily Barometer",
         "id": "0cb06fcdc737bb80",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State Football: Defense Meets The Media (Oct. 28, 2026)",
-        "link": "https://osubeavers.com/news/2026/10/28/oregon-state-football-defense-meets-the-media-oct-28-2026",
-        "link_kind": "item",
-        "date": "2026-10-28T20:14:00+00:00",
-        "summary": "<img alt=\"Oct. 28, 2026 Cover\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/261028_COVER.png\" /><br /><br />CORVALLIS, Ore. - Oregon State returns to Fresno State Saturday when the Beavers take on the Bulldogs with an 8 p.m. PT kick. The game will air on USA Sports.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "e25d587960122cae",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Braden Atkinson, Jesse Legree Added To Maxwell Award Watch List",
-        "link": "https://osubeavers.com/news/2026/10/28/football-braden-atkinson-jesse-legree-added-to-maxwell-award-watch-list",
-        "link_kind": "item",
-        "date": "2026-10-28T17:01:00+00:00",
-        "summary": "<img alt=\"Jesse Legree and Braden Atkinson\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/10172026_FB_WSU_LegreeJesse_AtkinsonBraden_01990.jpg\" /><br /><br />PHILADELPHIA – Oregon State quarterback Braden Atkinson and wide receiver Jesse Legree have been added to the Maxwell Award watch list, it was announced Wednesday by the Maxwell Football Club.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "45b35126828b5292",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -3422,20 +3469,6 @@
         "source": "The Daily Barometer",
         "id": "68cd7dbd20d13bae",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State Football: Offense Meets The Media (Oct. 27, 2026)",
-        "link": "https://osubeavers.com/news/2026/10/27/oregon-state-football-offense-meets-the-media-oct-27-2026",
-        "link_kind": "item",
-        "date": "2026-10-27T20:37:00+00:00",
-        "summary": "<img alt=\"Oct. 27 Cover\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/261027_COVER.png\" /><br /><br />CORVALLIS, Ore. - Oregon State heads to Fresno State for Halloween Saturday night. Scroll below to hear what Braden Atkinson and Vam Wells had to say prior to the matchup.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "fd3e9c40d5602346",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -3482,20 +3515,6 @@
         "medium": "text"
       },
       {
-        "title": "Fresno State Game Preview: Hear From Shephard, Dahlen And MacIntyre",
-        "link": "https://osubeavers.com/news/2026/10/26/football-fresno-state-game-preview-hear-from-shephard-dahlen-and-macintyre",
-        "link_kind": "item",
-        "date": "2026-10-26T21:01:00+00:00",
-        "summary": "<img alt=\"Oct. 26 presser\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/26/261026_Presser.png\" /><br /><br />CORVALLIS, Ore. - Oregon State has returned from its bye week and is preparing to take on Fresno State Halloween night. Kickoff is slated for 8 p.m. PT on USA Sports on USA Network.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "041055bad795eaa2",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State starting CB cleared to return vs. Fresno State",
         "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-starting-cornerback-cleared-to-return-vs-fresno-state.html",
         "link_kind": "item",
@@ -3535,20 +3554,6 @@
         "source": "The Oregonian",
         "id": "7411ff6f481bd7c0",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State Returns From Bye Week, Visits Fresno State Halloween Night",
-        "link": "https://osubeavers.com/news/2026/10/26/football-oregon-state-returns-from-bye-week-visits-fresno-state-halloween-night",
-        "link_kind": "item",
-        "date": "2026-10-26T17:44:00+00:00",
-        "summary": "<img alt=\"Cornell Hatcher Jr.\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/25/10102026_FB_San_Diego_State_Hatcher_Jr.Cornell_6234.jpg\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "7d21b68b4562f1cb",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -3692,20 +3697,6 @@
         "medium": "text"
       },
       {
-        "title": "Braden Atkinson Named To Manning Award Watch List",
-        "link": "https://osubeavers.com/news/2026/10/23/football-braden-atkinson-named-to-manning-award-watch-list",
-        "link_kind": "item",
-        "date": "2026-10-23T16:02:00+00:00",
-        "summary": "<img alt=\"Atkinson\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/5/Atkinson2.jpg\" /><br /><br />CORVALLIS, Ore. – Oregon State sophomore quarterback Braden Atkinson has been named to the Manning Award, it was announced Friday. The award is given annually to the nation's top quarterback.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "adbe1c36bc79a799",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Beavers return key players as they enter new Pac-12 era",
         "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-womens-basketball-is-entering-a-new-era-and-the-beavers-have-a-lot-to-prove.html",
         "link_kind": "item",
@@ -3763,20 +3754,6 @@
         "medium": "text"
       },
       {
-        "title": "Beavs best DII opponent in fall exhibition game",
-        "link": "https://dailybaro.orangemedianetwork.com/33482/daily-barometer-sports/daily-barometer-sports-softball/beavs-best-dii-opponent-in-fall-exhibition-game/",
-        "link_kind": "item",
-        "date": "2026-10-21T19:52:45+00:00",
-        "summary": "In the third game of five scheduled fall ball games, the Oregon State Beavers softball team faced their toughest opponent of the bunch, Division II Western Oregon University at Kelly Field on Tuesday. While the score was not officially kept, the final was 13-3 in favor of the Beavs, with the majority of their runs...",
-        "author": "Aiden Kiichle, Sports Writer",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "55857c4538a28bd9",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Plank Named to Silver Waves Media Top 100 Assistants",
         "link": "https://osubeavers.com/news/2026/10/21/mens-basketball-plank-named-to-silver-waves-media-top-100-assistants",
         "link_kind": "item",
@@ -3788,62 +3765,6 @@
         "source": "Oregon State Athletics",
         "id": "e83f919dc878c7bc",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "AJ Newberry Recognized By Earl Campbell Tyler Rose Award",
-        "link": "https://osubeavers.com/news/2026/10/20/football-aj-newberry-recognized-by-earl-campbell-tyler-rose-award",
-        "link_kind": "item",
-        "date": "2026-10-20T17:03:00+00:00",
-        "summary": "<img alt=\"AJ Newberry\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/20/10172026_FB_WSU_NewberryAJ_04799.jpg\" /><br /><br />TYLER, Texas – Oregon State senior running back AJ Newberry has been named an honorable mention selection for the Earl Campbell Tyler Rose weekly award, it was announced Tuesday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "eb39470d1748ee01",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Jesse Legree Named Pac-12 Freshman Of The Week For Seventh Straight Time",
-        "link": "https://osubeavers.com/news/2026/10/19/football-jesse-legree-named-pac-12-freshman-of-the-week-for-seventh-straight-time",
-        "link_kind": "item",
-        "date": "2026-10-19T20:01:00+00:00",
-        "summary": "<img alt=\"Jesse Legree\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/10172026_FB_WSU_LegreeJesse_07651.jpg\" /><br /><br />CORVALLIS, Ore. – Oregon State wide receiver Jesse Legree has been named the Pac-12 Conference's Freshman of the Week for the seventh time in 2026, the league announced on Monday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "64931cb2742046b7",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "November Is Almost Here - Get The 2 Pack!",
-        "link": "https://osubeavers.com/news/2026/10/18/football-november-is-almost-here-get-the-2-pack",
-        "link_kind": "item",
-        "date": "2026-10-19T03:07:00+00:00",
-        "summary": "<img alt=\"November 2 Pack\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/18/26mkt_november_twopack_16x92.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "d89386f4025b858c",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Watch: BEAVERS WIN Highlights Over Washington State",
-        "link": "https://osubeavers.com/news/2026/10/18/football-watch-beavers-win-highlights-over-washington-state",
-        "link_kind": "item",
-        "date": "2026-10-18T19:45:00+00:00",
-        "summary": "<img alt=\"WSU game highlights 2\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/18/wsu_2.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "c5e8847df17d7e85",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -6204,6 +6125,21 @@
     ],
     "Washington State": [
       {
+        "title": "Cougar Football Hour 10-28-26 (Kirby Moore, Jaylen Thomas & Greg Burns)",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/dd414e58-d163-45b4-b09b-b65cf6b6806e.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-10-29T03:35:00+00:00",
+        "summary": "<p>Cougar Football Hour from 10-28-26 featuring guests Kirby Moore, Jaylen Thomas &amp; Greg Burns.</p>",
+        "author": "",
+        "duration": 3557,
+        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
+        "source": "Washington State Cougars Podcast",
+        "id": "5b4ef0d6d7461a31",
+        "extent": "59 min",
+        "sport": "football",
+        "medium": "audio"
+      },
+      {
         "title": "Why WSU football’s defense isn’t as bad as 1-7 record suggests",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/why-wsu-footballs-defense-isnt-as-bad-as-1-7-record-suggests/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -6218,6 +6154,20 @@
         "medium": "text"
       },
       {
+        "title": "“A guy from Washington state:” John Olerud statue unveiled at Bailey and Brayton",
+        "link": "https://dailyevergreen.com/200880/sports/a-guy-from-washington-state-john-olerud-statue-unveiled-at-bailey-and-brayton/",
+        "link_kind": "item",
+        "date": "2026-10-28T22:00:49+00:00",
+        "summary": "After 37 years, 17 MLB seasons, two World Series titles and countless Cougar baseball records, John Olerud’s likeness is now immortalized at Bailey-Brayton Field. On Friday, Oct. 24, Cougar baseball unveiled a bronze statue depicting the Washingtonian and his iconic swing right outside of left field. On the concourse just outside the third base dugout,...",
+        "author": "SMITH SLYE, Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "1f0f26af13cc32c9",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Top Takeaways: WSU leaves the Diggers in the dust with 19 goals",
         "link": "https://dailyevergreen.com/200917/sports/top-takeaways-wsu-leaves-the-diggers-in-the-dust-with-19-goals/",
         "link_kind": "item",
@@ -6229,6 +6179,34 @@
         "source": "The Daily Evergreen",
         "id": "6bc7e803bc992bf3",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Cougs in the NFL | Week 7",
+        "link": "https://wsucougars.com/news/2026/10/28/cougs-in-the-nfl-or-week-7",
+        "link_kind": "item",
+        "date": "2026-10-28T21:17:39+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "54b1d11b15b97f18",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU WBB: Kamie Ethridge | Preseason Press Conference | 10/28/26",
+        "link": "https://wsucougars.com/news/2026/10/28/wsu-wbb-kamie-ethridge-preseason-press-conference-102826",
+        "link_kind": "item",
+        "date": "2026-10-28T17:08:48+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "f7e3e478c839f7a1",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -6265,7 +6243,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/28/dropped-interceptions-and-whiffed-sacks-whats-been/",
         "link_kind": "item",
         "date": "2026-10-28T00:00:00+00:00",
-        "summary": "<p>PULLMAN — Matyus McLain might be the happiest guy on Washington State’s team. He smiles everywhere he goes, from the practice field to game settings to press conferences, greeting everyone he sees with a warm grin and a delighted demeanor.</p><p>As the Cougars slog through this season, carrying around a 1-7 record as they continue searching for their first FBS win, it registers as remarkable. How does McLain, one of the team’s top defensive ends, stay in such a good mood?</p><p>It helps to know a bit about McLain’s background. He hails from nearby Priest River, Idaho, where in high school, McLain won a total of two games in his four years of action. The Spartans went 0-8 in 2019 and 0-7 in 2020. In 10 of those losses, Priest River didn’t score. In 2021, the Spartans lost seven games, only winning one by forfeit over Orofino. Priest River went on to win two games in McLain’s senior season, including one over the same Orofino club that had forfeited the year prior.</p><p>“I&#8217;ve lost before. It happens,” McLain said earlier this week. “The only thing you can do is keep going. I&#8217;m not gonna roll over and quit, and I don&#8217;t think anybody else in the locker room is going to do that either. You see the same thing week in, week out. We&#8217;re gonna keep trying harder and harder every single week till we get it right.”</p><p>McLain’s attitude is particularly fascinating because among these Cougars, he might have some of the most reasons to feel frustrated. Over the winter, he transferred from FCS Idaho, looking to use his speed and power to generate sacks for WSU. He looked like a candidate for a breakout year. All the signs were there.</p><p>In eight games, McLain has delivered on some of that promise. He has produced 23 quarterback pressures, according to Pro Football Focus, which is third in the Pac-12. He has also engineered a win rate — which measures how often a defender beats their blocker within 2.5 seconds of the snap — of 17.1%, which is also third in the conference. He’s faced few issues getting into opposing backfields.</p><p>But when he’s gotten there, McLain hasn’t been able to bring down quarterbacks. He has only one sack to his name. His fellow edge rusher, Vanderbilt transfer Linus Zunk, has only two sacks on 17 QB pressures. As a team, WSU has collected only eight sacks, which is tied for No. 130 of 138 FBS teams. Only four other teams in the country have supplied fewer.</p><p>If that sounds rare, it’s because it is. Think about this: In college football, 71 players have totaled at least 20 QB pressures, according to PFF, including McLain and Zunk. Only five have generated one sack or fewer.</p><!--[embed id=12376]--><p>For WSU, it’s been a disappointing string of results, but it also presents a contrast that’s difficult to square: The Cougs are producing all kinds of pressures on quarterbacks, but they aren’t completing those plays with sacks.</p><p>That folds in nicely with the bigger issue with WSU’s defense: The group is having trouble getting turnovers. The Cougs have nabbed only five, which ranks No. 126 nationally. Only seven other teams have fewer turnovers. It hasn’t been a back-breaker for WSU, whose defense is still a plus, but that group is now allowing nearly 387 yards of offense per game — No. 102 nationally, fifth in the Pac-12.</p><p>“Our coach, Andrew Browning, he always talks about it: We&#8217;re not chasing sacks,” McLain said. “We&#8217;re chasing hits, hurries. Chasing that, it’s gonna lead to sacks. I mean, you&#8217;re right. (It’s about) getting there a little faster, but you watch the tape — we&#8217;re all over the D-line. The front seven is everywhere. No question about it. We’ve got it.”</p><p>For WSU, the part that might sting most is that defenders have had chances to bring down quarterbacks, to grab interceptions. In the third quarter of a loss to Boise State last weekend, the Cougars had a chance to do two things: Bring down BSU QB Maddux Madsen for a sack, plus get off the field on third down. If they did that, they would have had a chance to take the lead.</p><p>Instead, Madsen eluded the pressure and dashed upfield for a 17-yard gain, which led to a touchdown moments later. In hindsight, it was the kind of sequence that sums up this entire WSU defense’s season: Some encouraging flashes and serious potential, but it didn’t land.</p><p>In the same game, the Cougs had a few chances to intercept Madsen, who still has not thrown one this fall. One came toward the end of the first half, not long after WSU and QB Owen Eshelman turned in a long scoring drive to tie the game, when Boise State marched into the red zone. Madsen dropped back and laced a pass over the middle, where WSU nickelback Jamarey Smith broke on the route, but BSU receiver Cam Bates got a hand in the mix to prevent Smith from catching it.</p><!--[embed id=12378]--><p>Earlier in the game, back in the first quarter, Madsen tried a pass over the middle, where WSU linebacker DJ Warner was waiting. He reached out and got two hands on the ball, but it fell incomplete. It was a missed opportunity for Warner, who in his first year playing linebacker is still learning the ropes of the coverage side of his job.</p><!--[embed id=12379]--><p>Consider this stat: The Cougars have now dropped six interceptions, which is tied for the most in the country. Smith has dropped three, which is the second-most by one player nationwide.</p><p>You can read that number a couple of ways. Sometimes, a low figure might mean that defenders are simply capitalizing on their opportunities to make interceptions. Other times, it means that defenders aren’t in position to grab interceptions in the first place. There’s plenty of context involved.</p><p>For their parts, the Cougs have collected three interceptions, so they’ve taken advantage of several chances. But they’ve also dropped six, and in a 1-7 season, that figure looms large.</p><p>“We&#8217;ve definitely been in that position numerous times, and it&#8217;s all about, like I said, just executing,” Smith said. “When you get that chance and opportunity, just take it. You work so hard for it, so why not just go for it and take your shot? I&#8217;ve been there for sure, and it&#8217;s just about us having it and executing.”</p>",
+        "summary": "<p>PULLMAN – Matyus McLain might be the happiest guy on Washington State’s team. He smiles everywhere he goes, from the practice field to game settings to press conferences, greeting everyone he sees with a warm grin and a delighted demeanor.</p><p>As the Cougars slog through this season, carrying around a 1-7 record as they continue searching for their first FBS win, it registers as remarkable. How does McLain, one of the team’s top defensive ends, stay in such a good mood?</p><p>It helps to know a bit about McLain’s background. He hails from nearby Priest River, Idaho, where in high school, McLain won a total of two games in his four years of action. The Spartans went 0-8 in 2019 and 0-7 in 2020. In 10 of those losses, Priest River didn’t score. In 2021, the Spartans lost seven games, only winning one by forfeit over Orofino. Priest River went on to win two games in McLain’s senior season, including one over the same Orofino club that had forfeited the year prior.</p><p>“I’ve lost before. It happens,” McLain said earlier this week. “The only thing you can do is keep going. I’m not gonna roll over and quit, and I don’t think anybody else in the locker room is going to do that either. You see the same thing week in, week out. We’re gonna keep trying harder and harder every single week till we get it right.”</p><p>McLain’s attitude is particularly fascinating because among these Cougars, he might have some of the most reasons to feel frustrated. Over the winter, he transferred from FCS Idaho, looking to use his speed and power to generate sacks for WSU. He looked like a candidate for a breakout year. All the signs were there.</p><p>In eight games, McLain has delivered on some of that promise. He has produced 23 quarterback pressures, according to Pro Football Focus, which is third in the Pac-12. He has also engineered a win rate – which measures how often a defender beats their blocker within 2.5 seconds of the snap – of 17.1%, which is also third in the conference. He’s faced few issues getting into opposing backfields.</p><p>But when he’s gotten there, McLain hasn’t been able to bring down quarterbacks. He has only one sack to his name. His fellow edge rusher, Vanderbilt transfer Linus Zunk, has only two sacks on 17 QB pressures. As a team, WSU has collected only eight sacks, which is tied for No. 130 of 138 FBS teams. Only four other teams in the country have supplied fewer.</p><p>If that sounds rare, it’s because it is.  In college football, 71 players have totaled at least 20 QB pressures, according to PFF, including McLain and Zunk. Only five have generated one sack or fewer.</p><!--[embed id=12376]--><p>For WSU, it’s been a disappointing string of results, but it also presents a contrast that’s difficult to square: The Cougs are producing all kinds of pressures on quarterbacks, but they aren’t completing those plays with sacks.</p><p>That folds in nicely with the bigger issue with WSU’s defense: The group is having trouble getting turnovers. The Cougs have nabbed only five, which ranks No. 126 nationally. Only seven other teams have fewer turnovers. It hasn’t been a back-breaker for WSU, whose defense is still a plus, but that group is now allowing nearly 387 yards of offense per game – No. 102 nationally, fifth in the Pac-12.</p><p>“Our coach, Andrew Browning, he always talks about it: We’re not chasing sacks,” McLain said. “We’re chasing hits, hurries. Chasing that, it’s gonna lead to sacks. I mean, you’re right. (It’s about) getting there a little faster, but you watch the tape – we’re all over the D-line. The front seven is everywhere. No question about it. We’ve got it.”</p><p>For WSU, the part that might sting most is that defenders have had chances to bring down quarterbacks, to grab interceptions. In the third quarter of a loss to Boise State last weekend, the Cougars had a chance to do two things: bring down BSU QB Maddux Madsen for a sack, plus get off the field on third down. If they did that, they would have had a chance to take the lead.</p><p>Instead, Madsen eluded the pressure and dashed upfield for a 17-yard gain, which led to a touchdown moments later. In hindsight, it was the kind of sequence that sums up this entire WSU defense’s season: some encouraging flashes and serious potential, but it didn’t land.</p><p>In the same game, the Cougs had a few chances to intercept Madsen, who still has not thrown one this fall. One came toward the end of the first half, not long after WSU and QB Owen Eshelman turned in a long scoring drive to tie the game, when Boise State marched into the red zone. Madsen dropped back and laced a pass over the middle, where WSU nickelback Jamarey Smith broke on the route, but BSU receiver Cam Bates got a hand in the mix to prevent Smith from catching it.</p><!--[embed id=12378]--><p>Earlier in the game, back in the first quarter, Madsen tried a pass over the middle, where WSU linebacker DJ Warner was waiting. He reached out and got two hands on the ball, but it fell incomplete. It was a missed opportunity for Warner, who in his first year playing linebacker is still learning the ropes of the coverage side of his job.</p><!--[embed id=12379]--><p>Consider this stat: The Cougars have now dropped six interceptions, which is tied for the most in the country. Smith has dropped three, which is the second-most by one player nationwide.</p><p>You can read that number a couple of ways. Sometimes, a low figure might mean that defenders are simply capitalizing on their opportunities to make interceptions. Other times, it means that defenders aren’t in position to grab interceptions in the first place. There’s plenty of context involved.</p><p>For their parts, the Cougs have collected three interceptions, so they’ve taken advantage of several chances. But they’ve also dropped six, and in a 1-7 season, that figure looms large.</p><p>“We’ve definitely been in that position numerous times, and it’s all about, like I said, just executing,” Smith said. “When you get that chance and opportunity, just take it. You work so hard for it, so why not just go for it and take your shot? I’ve been there for sure, and it’s just about us having it and executing.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
