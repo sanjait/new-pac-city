@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:03:39.229407+00:00",
+  "generated_at": "2026-10-30T13:03:28.103339+00:00",
   "teams": {
     "conference": [
       {
@@ -13,6 +13,20 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "944bc52c6a8d8265",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Mountaintop View 10-29-26. Conference Realignment, Top MBB Players, Bowl Projections, Maxwell Award, Kellen Moore.",
+        "link": "https://www.mwcconnection.com/pac-12-news/95050/college-football-realignment-basketball-rankings-kellen-moore-maxell-bowl-projections",
+        "link_kind": "item",
+        "date": "2026-10-29T13:00:00+00:00",
+        "summary": "Catch the latest news and links for the day as we get closer to football games. Mountain West additions have been mixed. Chris Murray looks at how the new MW football teams are faring this season. He states that while North Dakota State has proven they belong, the other additions have struggled. UTEP and Northern [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "b7a6a5bf1e5be54a",
         "sport": "all",
         "medium": "text"
       },
@@ -45,6 +59,20 @@
         "medium": "text"
       },
       {
+        "title": "AZTECS WILL FACE A DECISION ABOUT STARTING QUARTERBACK … FOR THE REST OF THE SEASON",
+        "link": "https://www.mwcconnection.com/san-diego-state-football/94936/aztecs-quarterback-decision-saunders-could-be-the-quarterback-or-the-future-do-they-reinstate-denegal-when-he-returns-from-injury",
+        "link_kind": "item",
+        "date": "2026-10-28T20:00:00+00:00",
+        "summary": "The Aztecs will start Stone Saunders against the Cougars. Following a bye week they will have a decision to make against Utah State. Washington State might be just what the doctor ordered. As we wrote a week ago, the Aztecs are in the midst of a quarterback quandary, among other issues. A week ago, the [&#8230;]",
+        "author": "Jeffrey Carter",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "34d26a462360da3a",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Call The Exorcist for The Northwestern State Demons Nation-Long Losing Streak",
         "link": "https://pressbreak.substack.com/p/call-the-exorcist-for-the-northwestern",
         "link_kind": "item",
@@ -59,6 +87,76 @@
         "medium": "text"
       },
       {
+        "title": "2026 MW/PAC-12 All-Transfer Team: Week Eight",
+        "link": "https://www.mwcconnection.com/mountain-west-transfer-portal/94981/2026-mountain-west-pac-12-transfer-portal-team-of-the-week-week-8-new-mexico-niu-wyoming-colorado-state-texas-utah",
+        "link_kind": "item",
+        "date": "2026-10-28T19:00:00+00:00",
+        "summary": "Welcome back to the Transfer Portal Team of the Week! Find out the top performances from incoming transfers across both conferences! With the regular season now two-thirds of the way through, let’s continue building out our roster of incredibly talented newcomers! Enjoy! Mountain West Quarterback Tyler Hughes Class: RS Senior Previous stops: William &#38; Mary [&#8230;]",
+        "author": "Jack Thompson",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "9cb45c4896973ff9",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "3 Mountain West Football Best Bets For Week 9",
+        "link": "https://www.mwcconnection.com/mountain-west-football/95003/3-mountain-west-football-best-bets-for-week-9",
+        "link_kind": "item",
+        "date": "2026-10-28T19:00:00+00:00",
+        "summary": "What goes up, must eventually come down. Our hot streak ended last week, going just 1-2 in our three Mountain West best bets! But we’re back for more! Here are our Week 9 picks for this weekend’s slate! (All odds are courtesy of FanDuel Sportsbook.) Matt’s record: 16-12, +2.2 units Nevada/UCLA u44.5 (-115): Skinny: Quarterback Luke [&#8230;]",
+        "author": "Matt Hanifan",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "51c42a3288fe240f",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Mountain West Basketball 2026-27 Preseason Predictions: All Conference Teams",
+        "link": "https://www.mwcconnection.com/mountain-west-basketball/94987/mountain-west-basketball-2026-27-preseason-predictions-all-conference-teams",
+        "link_kind": "item",
+        "date": "2026-10-28T18:00:00+00:00",
+        "summary": "With the 2026-27 college basketball season right around the corner, we are doing our annual four-part tip-off series. If you missed the first one, where we discussed our Mountain West awards predictions, click here! In part two, we will be diving into our All-Conference teams (three voters … myself included). Let’s dive into it! First [&#8230;]",
+        "author": "Matt Hanifan",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "76628b2c7b0fa108",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Pac-12 Basketball 2026-27 Preseason Predictions: All Conference Teams",
+        "link": "https://www.mwcconnection.com/pac-12-basketball/94986/pac-12-basketball-2026-27-preseason-predictions-all-conference-teams",
+        "link_kind": "item",
+        "date": "2026-10-28T17:00:00+00:00",
+        "summary": "With the 2026-27 college basketball season right around the corner, we are doing our annual four-part tip-off series. If you missed the first one, where we discussed our Pac-12 preseason awards predictions, click here! In part two, we will be diving into our All-Conference teams (three voters … myself included). Let’s dive into it! First [&#8230;]",
+        "author": "Matt Hanifan",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "ddd99ac2f625bb2d",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "College Football Award Watch List for the 2026 Season",
+        "link": "https://www.mwcconnection.com/college-football-awards/94301/peak-perspective-college-football-award-watch-list-for-the-2026-season",
+        "link_kind": "item",
+        "date": "2026-10-28T16:00:00+00:00",
+        "summary": "Around 30–40 players are recognized with national awards each year. Most honor on-field performance, but a handful also recognize excellence off the field. We wanted to highlight the players from the two conferences our site covers who are in the mix for those honors. Unless otherwise noted, the awards listed are specific to a player&#8217;s [&#8230;]",
+        "author": "Aaron Kennedy",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "a822a63aa35cbfd4",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "This Week in Pac-12 Football - Week 9",
         "link": "http://pac-12.com/news/2026/10/28/this-week-in-pac-12-football-week-9.aspx",
         "link_kind": "item",
@@ -70,6 +168,20 @@
         "source": "Pac-12 Conference",
         "id": "122eb6e3bc34b411",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Mountain West & Pac-12 Bowl Projections Week 8: High on the Cowboys.",
+        "link": "https://www.mwcconnection.com/bowl-predictions/94907/mountain-west-pac-12-bowl-projections-week-8-wyoming-cowboys",
+        "link_kind": "item",
+        "date": "2026-10-28T15:00:00+00:00",
+        "summary": "The time has come. The 2026 season is upon us. We are past the time of watch lists and preseason awards and have entered the time of bowl projections. Our team at Mountain West Connection will be releasing our bowl projections each week. This season, both Mountain West and Pac-12 projections will be included in [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "19e371b4b4b0dc5a",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -143,76 +255,6 @@
         "medium": "text"
       },
       {
-        "title": "MWCConnection Reacts Survey: Group of 6 Playoff Autobids?",
-        "link": "https://www.mwcconnection.com/college-football-playoffs/94890/college-football-playoff-group-6-autobids",
-        "link_kind": "item",
-        "date": "2026-10-27T17:00:00+00:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NCAA. Throughout the year we ask questions of the most plugged-in Mountain West fans and fans across the country. Sign up here to participate in the weekly emailed surveys:",
-        "author": "Kyle Thele",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "3f3dedb27b6dd44c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountain West Basketball 2026-27 Preseason Predictions: Awards",
-        "link": "https://www.mwcconnection.com/mountain-west-basketball/94929/mountain-west-basketball-2026-27-awards-preseason-predictions",
-        "link_kind": "item",
-        "date": "2026-10-27T16:00:00+00:00",
-        "summary": "The college basketball season is right around the corner, as the season tips off in less than one week! Every year, we do a traditional, four-part tip-off series, where our cast of panelists vote on awards, all-conference teams and power rankings before the season begins, and more! Here’s the first of our four-part series for [&#8230;]",
-        "author": "Matt Hanifan",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "eadf22192b0fe59b",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "The Good, the Bad, the Ugly: Week 8",
-        "link": "https://www.mwcconnection.com/the-good-the-bad-the-ugly/94862/ncaa-college-football-week-8-ndsu-new-mexico-boise-state-washington",
-        "link_kind": "item",
-        "date": "2026-10-27T15:00:00+00:00",
-        "summary": "Week eight featured some of the most intriguing games of the year in both the Mountain West and PAC-12, with the Group of Six Game of the Week taking place in New Mexico as the Lobos hosted North Dakota State. This weekend’s action certainly didn’t lack excitement, with many contests coming down to the final [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "5741d63e1ec914e9",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "New Mexico downs North Dakota State in G6 GOTY! Wyoming upsets Air Force! Defense banned in Fort Collins, Colorado! Every team’s most important retention for 2027! MW/PAC-12 Games of the Week preview + prediction! HP Ep. #176 OUT NOW!",
-        "link": "https://www.mwcconnection.com/podcast/94925/mountain-west-pac-12-podcast-new-mexico-north-dakota-state-wyoming-air-force-colorado-san-diego-boise-texas",
-        "link_kind": "item",
-        "date": "2026-10-27T14:00:00+00:00",
-        "summary": "Welcome back everyone to the Hike’s Peak podcast thank you for coming back to the mountain! What a week of football that was, headlined by New Mexico taking down North Dakota State in the G6 game of the year. We’ll break down everything you need to know about what went down in that titanic matchup [&#8230;]",
-        "author": "Jack Thompson",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "adb425873d562a38",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountaintop View 10-27-26",
-        "link": "https://www.mwcconnection.com/mountain-west-news/94893/mountain-west-pac-12-football-basketball-wyoming-boise",
-        "link_kind": "item",
-        "date": "2026-10-27T13:00:00+00:00",
-        "summary": "Pokes Insider: Finding the winning formula Ryan Thorburn from Pokes Insider at gowyo dot com recaps the latest from Wyoming football as they head into the bye week. After a dreadful start, the Pokes are starting to look like one of the better teams in the Mountain West. Spencer Danielson on vacant jobs: NIU AD [&#8230;]",
-        "author": "JeremyRodrigues",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "7c0bebdffffe0a42",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Players of the Week - Oct. 27, 2026",
         "link": "http://pac-12.com/news/2026/10/27/pac-12-players-of-the-week-oct-27-2026.aspx",
         "link_kind": "item",
@@ -237,48 +279,6 @@
         "channel_url": "",
         "source": "Press Break",
         "id": "3a3d462d98bba491",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "MWCConnection Recruiting Roundup 10-26-26. Why do players decommit?",
-        "link": "https://www.mwcconnection.com/pac-12-football-recruiting/94518/mountain-west-pac-12-football-recruiting-decommits-texas-state-bobcats",
-        "link_kind": "item",
-        "date": "2026-10-26T18:00:00+00:00",
-        "summary": "It’s another week of the Recruiting Roundup. This week saw several decommits between the Mountain West and Pac-12 schools. Why do decommits happen? There are two main scenarios. First, when the verbally committed player begins getting “better” offers. A player may have committed early and then schools they like more or have more prestige start [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "8811e608406aa2c9",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountain West Football Rankings: Week 8. New Mexico is the unqestioned top team.",
-        "link": "https://www.mwcconnection.com/mountain-west-rankings/94519/mountain-west-football-rankings-week-9-new-mexico-lobos",
-        "link_kind": "item",
-        "date": "2026-10-26T17:00:00+00:00",
-        "summary": "The college football season is firing on all cylinders, and games are happening every weekend. The rankings are back for another week. Read on to see how this week’s slate of games affected each team’s status in the MWCConnection Mountain West rankings. 1) New Mexico (0) The Lobos cemented themselves as the unquestioned top team [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "b646a8b48426e4ec",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "PAC-12 Power Rankings: Week 8",
-        "link": "https://www.mwcconnection.com/pac-12-rankings/94853/pac-12-power-rankings-week-8-ncaa-football-boise-oregon-texas-state",
-        "link_kind": "item",
-        "date": "2026-10-26T16:00:00+00:00",
-        "summary": "Week eight has concluded and with that, teams are starting to reach bowl eligibility and officially be eliminated from bowl contention. Some teams were looking to find their footing after disappointing results the prior week, while others were looking to continue the momentum they had built. Red-hot Oregon State was on a bye this past [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "dc71c1b9dc245e68",
         "sport": "all",
         "medium": "text"
       },
@@ -564,6 +564,20 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "?Broncos Finish Exhibition Play Undefeated",
+        "link": "https://broncosports.com/news/2026/10/29/mens-basketball-broncos-finish-exhibition-play-undefeated",
+        "link_kind": "item",
+        "date": "2026-10-30T05:03:00+00:00",
+        "summary": "<img alt=\"Julian Bowie vs. Bismarck State\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/29/DSC_2129.jpg\" /><br /><br />Surpassing the 100-point threshold for the second-straight game, Boise State defeated Bismarck State, 104-37, on Thursday night at ExtraMile Arena.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "25c0f6ac3158ffd0",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "No. 20/22 Broncos Host Bobcats on Halloween Night",
         "link": "https://broncosports.com/news/2026/10/29/football-no-20-22-broncos-host-bobcats-on-halloween-night",
@@ -1201,20 +1215,6 @@
         "medium": "text"
       },
       {
-        "title": "Boise State Slated to Play 16 Conference Games Beginning in January",
-        "link": "https://broncosports.com/news/2026/9/30/mens-basketball-boise-state-slated-to-play-16-conference-games-beginning-in-january",
-        "link_kind": "item",
-        "date": "2026-09-30T18:00:00+00:00",
-        "summary": "<img alt=\"MBB Pac-12 web slider\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/30/MBB26_PAc-12_Schedule_Web_Slider.jpg\" /><br /><br />In conjunction with the Pac-12, Boise State's 2027 conference schedule was released on Wednesday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "dcb1d289b968f7ce",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Off the Blue - Season 7, Episode 5- Kendall Hastings",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/1231a336-9b15-4d6b-ade5-bce4d642b02a.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -1346,6 +1346,20 @@
         "source": "Colorado State Athletics",
         "id": "8c4545e10e430103",
         "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "orgonson, Booth Named to Pac-12 Impact Players List",
+        "link": "https://csurams.com/news/2026/10/29/mens-basketball-orgonson-booth-named-to-pac-12-impact-players-list",
+        "link_kind": "item",
+        "date": "2026-10-29T18:00:00+00:00",
+        "summary": "<img alt=\"Carey Booth\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/29/DSC00140.jpg\" /><br /><br />Duo represents Colorado State men's basketball as the Rams prepare for their first season in the conference",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "5d4a6f0514e30ddb",
+        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -1917,6 +1931,20 @@
     ],
     "Fresno State": [
       {
+        "title": "Paddle up: Pickleball finds a home at Fresno State",
+        "link": "https://fscollegian.com/2026/10/paddle-up-pickleball-finds-a-home-at-fresno-state/",
+        "link_kind": "item",
+        "date": "2026-10-30T02:10:16+00:00",
+        "summary": "Pickleball was invented in 1965, but the sport has surged in popularity in recent years — and Fresno State students don&#8217;t have to leave campus to get in on the action. The Fresno State Pickleball Club meets at 6 p.m. every Wednesday night for Pickleball After Dark at the Fresno State tennis courts, also known...",
+        "author": "Summer Miller, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "d08db6c2c9f1c995",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "The Pawd: Checkerboard Chats (Chase Perino, Bo Ausmus)",
         "link": "https://gobulldogs.com/news/2026/10/29/football-the-pawd-checkerboard-chats-chase-perino-bo-ausmus",
         "link_kind": "item",
@@ -2139,20 +2167,6 @@
         "source": "Fresno State Athletics",
         "id": "58c8142d8ff3ee95",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Bulldogs’ men’s basketball takes loss in exhibition matchup",
-        "link": "https://fscollegian.com/2026/10/bulldogs-mens-basketball-takes-loss-in-exhibition-matchup/",
-        "link_kind": "item",
-        "date": "2026-10-25T02:26:09+00:00",
-        "summary": "Fresno State’s men&#8217;s basketball team will head into the regular season coming off a 96-78 loss in a preseason exhibition matchup on Oct. 24, at the Save Mart Center, against California State University, Fullerton. While the ‘Dogs fought hard for all 40 minutes, they just couldn’t stop the Titan offense from scoring as they allowed...",
-        "author": "Sam Quintero, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "ebfcddd4113a040e",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -2762,20 +2776,6 @@
         "extent": "1h 1m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Leal elevated to Assistant A.D. for Men's Basketball",
-        "link": "https://gobulldogs.com/news/2026/9/14/leal-elevated-to-assistant-a-d-for-mens-basketball",
-        "link_kind": "item",
-        "date": "2026-09-15T02:36:00+00:00",
-        "summary": "<img alt=\"Nate Leal \" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/14/DSC02393.jpg\" /><br /><br />FRESNO, Calif. – Fresno State men's basketball has announced the promotion of longtime staff member Nate Leal to Assistant Athletic Director for Men's Basketball.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Fresno State Athletics",
-        "id": "ce7994053d001ef5",
-        "sport": "mbb",
-        "medium": "text"
       }
     ],
     "Gonzaga": [
@@ -2888,7 +2888,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/29/gonzaga-unanimously-selected-to-win-pac-12-confere/",
         "link_kind": "item",
         "date": "2026-10-29T00:00:00+00:00",
-        "summary": "<p>New league, same lofty expectations for a Gonzaga program that captured 27 regular-season championships and 23 conference tournament crowns during a 37-year residence in the West Coast Conference.</p><p>The Zags are expected to pick up right where they left off, selected as the unanimous favorite to win a Pac-12 Conference championship next spring by a panel of media members covering the league.</p><p>Gonzaga claimed each of the 17 first-place votes in the preseason poll released Thursday morning, just five days before Mark Few’s team opens the 2026-27 campaign with a juicy nonconference matchup against Matt Painter and Purdue.</p><p>Coming off its fourth straight NCAA Tournament appearance, Utah State was not surprisingly picked to finish second in the new conference, followed by No. 3 San Diego State, No. 4 Colorado State, No. 5 Oregon State, No. 6 Boise State, No. 7 Texas State, No. 8 Washington State and No. 9 Fresno State.</p><p>It continues a long run of preseason No. 1 nods for Gonzaga, which was picked to win the WCC every season since 2001, with the exception of the 2023-24 and 2017-18 seasons.</p><p>The 15th-ranked Zags were the only Pac-12 team to appear in the preseason Associated Press Top 25, but Utah State appeared on one AP ballot at No. 24, enough to earn two points in the poll.</p><p>Unlike other conferences, the Pac-12 did not release preseason all-conference teams, or announced a preseason player of the year, instead naming two players from each of the nine teams to the “2026-27 Men’s Basketball Impact List,” as selected by the league’s coaches.</p><p>Senior forward Braden Huff and sophomore wing Davis Fogle were Gonzaga’s selections – not unexpectedly, with both named to 20-player preseason watch lists for national positional awards this week. Fogle was named to the Julius Erving Small Forward watch list on Wednesday, one day before Huff was included on the watch list for the Karl Malone Power Forward award.</p><p>Huff had a 19-point, 11-rebound double-double in Gonzaga’s exhibition loss at Arkansas on Saturday and scored 11 points in 16 minutes during the team’s 91-59 victory over Lewis-Clark State. Fogle is just weeks removed from scoring 30 points in 20 minutes at Kraziness in the Kennel and had eight points against LCSC after missing the Arkansas exhibition with a left leg injury.</p><p>Washington State placed UNLV transfer Ladji Dembele and East Texas A&amp;M transfer Ronnie Harrison on the Impact List. Harrison reached double figures in each of WSU’s two preseason exhibition games, scoring 23 points on 8 of 9 shooting in the Cougars’ 84-80 victory over cross-state rival Washington on Sunday.</p><p>Others named to the Impact List were Boise State’s Dovydas Butka and Damari Wheeler-Thomas, Colorado State’s Kyle Jorgensen and Jase Butler, Fresno State’s Bradey Henige and Ross Candelino, Oregon State’s Josiah Lake II and Daniel Freitag, San Diego State’s Elzie Harrington and Tae Simmons, Texas State’s Paul Djobet and DJ Hall and Utah State’s Mason Falslev and Dallin Hall.</p>",
+        "summary": "<p>New league, same lofty expectations for a Gonzaga program that captured 27 regular-season championships and 23 conference tournament crowns during a 37-year residence in the West Coast Conference.</p><p>The Zags are expected to pick up right where they left off, selected as the unanimous favorite to win a Pac-12 Conference championship next spring by a panel of media members covering the league.</p><p>Gonzaga claimed each of the 17 first-place votes in the preseason poll released Thursday morning, just five days before Mark Few’s team opens the 2026-27 campaign with a juicy nonconference matchup against Matt Painter and Purdue.</p><p>Coming off its fourth straight NCAA Tournament appearance, Utah State was not surprisingly picked to finish second in the new conference, followed by No. 3 San Diego State, No. 4 Colorado State, No. 5 Oregon State, No. 6 Boise State, No. 7 Texas State, No. 8 Washington State and No. 9 Fresno State.</p><p>It continues a long run of preseason No. 1 nods for Gonzaga, which was picked to win the WCC every season since 2001, with the exception of the 2023-24 and 2017-18 seasons.</p><p>The 15th-ranked Zags were the only Pac-12 team to appear in the preseason Associated Press Top 25, but Utah State appeared on one AP ballot at No. 24, enough to earn two points in the poll.</p><p>Unlike other conferences, the Pac-12 did not release preseason all-conference teams, or announce a preseason player of the year, instead naming two players from each of the nine teams to the “2026-27 Men’s Basketball Impact List,” as selected by the league’s coaches.</p><p>Senior forward Braden Huff and sophomore wing Davis Fogle were Gonzaga’s selections – not unexpectedly, with both named to 20-player preseason watch lists for national positional awards this week. Fogle was named to the Julius Erving Award (small forward) watch list on Wednesday, one day before Huff was included on the watch list for the Karl Malone Award (power forward).</p><p>Huff had a 19-point, 11-rebound double-double in Gonzaga’s exhibition loss at Arkansas on Saturday and scored 11 points in 16 minutes during the team’s 91-59 victory over Lewis-Clark State. Fogle is just weeks removed from scoring 30 points in 20 minutes at Kraziness in the Kennel and had eight points against LCSC after missing the Arkansas exhibition with a left leg injury.</p><p>Washington State placed UNLV transfer Ladji Dembele and East Texas A&amp;M transfer Ronnie Harrison on the Impact List. Harrison reached double figures in each of WSU’s two preseason exhibition games, scoring 23 points on 8 of 9 shooting in the Cougars’ 84-80 victory over cross-state rival Washington on Sunday.</p><p>Others named to the Impact List were Boise State’s Dovydas Butka and Damari Wheeler-Thomas, Colorado State’s Kyle Jorgensen and Jase Butler, Fresno State’s Bradey Henige and Ross Candelino, Oregon State’s Josiah Lake II and Daniel Freitag, San Diego State’s Elzie Harrington and Tae Simmons, Texas State’s Paul Djobet and DJ Hall, and Utah State’s Mason Falslev and Dallin Hall.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -2916,7 +2916,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/29/gonzagas-massamba-diop-closes-strong-parker-jeffer/",
         "link_kind": "item",
         "date": "2026-10-29T00:00:00+00:00",
-        "summary": "<p>If Gonzaga fans didn’t overreact to a 76-72 loss at Arkansas on Saturday, it’s probably safe to apply the same approach to Wednesday’s 91-59 victory over NAIA Lewis-Clark State.</p><p>The 15th-ranked Zags got just about everything they wanted and needed from their final dress rehearsal and now look forward to Monday’s high-profile season opener against Purdue in Las Vegas.</p><p>What the Zags have in front of them is decidedly more exciting than what’s in the rearview mirror, but we’ll still take an opportunity to review three topics and storylines from Wednesday’s exhibition before moving on to Monday’s nationally-televised opener at T-Mobile Arena.</p><h3>Still processing</h3><p>It’s been trial by fire for Massamba Diop through Gonzaga’s exhibition slate.</p><p>Gonzaga’s prized transfer portal pickup encountered foul trouble in both preseason games, was caught trying to trip Razorbacks forward Miika Muurinen in a sequence that resulted in technical fouls for both players and, above all else, is still adjusting to a new role in Mark Few’s system, with mixed results against Arkansas and LCSC.</p><p>The 7-foot-1 Diop conceded the opening tip to 6-foot-9 LCSC forward Dallon Morgan on Wednesday, but subsequently provided one of the game’s top highlights when he turned away Brandon Suber’s layup attempts three minutes into the opening frame, drawing a loud reaction from the home crowd.</p><p>Diop pulled down two defensive rebounds but committed his second and third fouls over a 15-second stretch that, in many ways, characterized his first two outings in a Gonzaga uniform.</p><p>After sitting the final eight minutes of the first half, Diop started in the second and made immediate contributions. The towering center scooped up an offensive rebound while picking himself up off the ground, maneuvered around L-C’s Dylan Skaife and jammed the ball into the basket.</p><p>“I think Massamba’s doing a decent job of protecting the basket for the most part right now, which is kind of what we haven’t had in awhile,” Gonzaga coach Mark Few said. “I think he needs to continue to keep working on rebounding and catching and finishing him. The guards are finding him now. He’s playing with some good guards that can really manipulate ball screens and situations. He’s just got to slow down and catch the ball and finish. I think that’s kind of the next area of growth.”</p><p>Diop’s second-half turnaround was encouraging. The Arizona State transfer had eight of his 10 points after the break, finishing 5 of 7 from the field with five rebounds, one blocked shot and one steal.</p><p>“I think every day you see growth with him,” Braden Huff said. “It’s undeniable, his athleticism and length and his skill. Once we just get him to learn the system and what we need out of him the sky is the limit for him. He’s going to be really good for us.”</p><h3>Jefferson shines</h3><p>Gonzaga picked up scoring and rebounding contributions from many of the usual suspects on Wednesday, but there were also a few surprises on the final stat sheet.</p><p>Parker Jefferson, for example, matched teammate Izan Almansa and LCSC’s Titus Yearout for a game-high 12 points on 6 of 9 shooting. Jefferson also led all players with six rebounds and two blocked shots to go with his two assists and one steal.</p><p>Jefferson enters the regular season as the fourth or fifth member of Gonzaga’s frontcourt rotation behind Huff, Diop, Almansa and potentially freshman center Sam Funches, but the sophomore forward has delivered in both of his exhibition stints, making 3 of 4 free throws at Arkansas with two rebounds and one steal in just under four minutes of action. Jefferson, whose mother Carrie played basketball at Arkansas and father Mike played for the Razorbacks’ offensive line, had a cheering section of nearly 40 family members and friends at Bud Walton Arena.</p><p>In Wednesday’s postgame presser, Gonzaga’s coach praised Jefferson for his connectivity, and not necessarily just on the court.</p><p>“Parker’s done a nice job. I’ll tell you what he’s done a really nice job of is helping us bring the team together,” Few said. “We didn’t have many returnees and he’s done a great job of welcoming everybody in and making them comfortable and just kind of being a great teammate, so obviously it’s nice to be able to reward him with some moments like that.”</p><h3>More than ball</h3><p>More than two months after destructive wildfires displaced thousands of Spokane residents, Gonzaga and LCSC agreed their preseason exhibition could be a good opportunity to raise funds for those rebuilding homes and replacing items lost from the blazes.</p><p>A portion of the money from ticket sales on Wednesday went toward Phase 2 of the Karen Worthy Memorial Grant, a nonprofit created to help those impacted by the Spokane Complex fires rebuild.</p><p>“I think this has been a really great opportunity for me to talk to the guys about, hey these are people that are watching us on TV every game, these are people that are coming to our games, these are people that are wanting to meet you in the restaurants or see you walking around town,” Few said. “I think it was really important that we kind of stepped up and again, kind of raised the awareness. Sometimes when you have events like this, everybody wants to run out and feels horrible about it and wants to give, but then as time goes on it starts waning and dissipating. I want us to kind of make another statement that hey, there’s still need out there right now.”</p><p>LCSC also chipped in to assist with the cause, donating its $5,000 game check to the Karen Worthy Grant. Warriors coach Austin Johnson had extended family members evacuated and one friend who lost his home as a result of fire damage.</p><p>“There’s tons of fees that aren’t really realized when you’re having to rebuild your whole house and home, or just anything that’s taken away with something like this,” Few said. “We’re happy to help and we’re hopeful because our guys are stepping up, myself and our guys are going to make a sizeable dent in this. Hopefully other people will step up and follow along with us. Everybody, there’s still a huge, huge need and the insurances and all this doesn’t cover everything so that’s what we’re trying to do.”</p>",
+        "summary": "<p>If Gonzaga fans didn’t overreact to a 76-72 loss at Arkansas on Saturday, it’s probably safe to apply the same approach to Wednesday’s 91-59 victory over NAIA Lewis-Clark State.</p><p>The 15th-ranked Zags got just about everything they wanted and needed from their final dress rehearsal and now look forward to Monday’s high-profile season opener against Purdue in Las Vegas.</p><p>What the Zags have in front of them is decidedly more exciting than what’s in the rearview mirror, but we’ll still take an opportunity to review three topics and storylines from Wednesday’s exhibition before moving on to Monday’s nationally televised opener at T-Mobile Arena.</p><h3>Still processing</h3><p>It’s been trial by fire for Massamba Diop through Gonzaga’s exhibition slate.</p><p>Gonzaga’s prized transfer portal pickup encountered foul trouble in both preseason games, was caught trying to trip Razorbacks forward Miika Muurinen in a sequence that resulted in technical fouls for both players and, above all else, is still adjusting to a new role in Mark Few’s system, with mixed results against Arkansas and LCSC.</p><p>The 7-foot-1 Diop conceded the opening tip to 6-foot-9 LCSC forward Dallon Morgan on Wednesday, but subsequently provided one of the game’s top highlights when he turned away Brandon Suber’s layup attempt three minutes into the opening frame, drawing a loud reaction from the home crowd.</p><p>Diop pulled down two defensive rebounds but committed his second and third fouls over a 15-second stretch that, in many ways, characterized his first two outings in a Gonzaga uniform.</p><p>After sitting the final eight minutes of the first half, Diop started in the second and made immediate contributions. The towering center scooped up an offensive rebound while picking himself up off the ground, maneuvered around L-C’s Dylan Skaife and jammed the ball into the basket.</p><p>“I think Massamba’s doing a decent job of protecting the basket for the most part right now, which is kind of what we haven’t had in a while,”  Few said. “I think he needs to continue to keep working on rebounding and catching and finishing . The guards are finding him now. He’s playing with some good guards that can really manipulate ball screens and situations. He’s just got to slow down and catch the ball and finish. I think that’s kind of the next area of growth.”</p><p>Diop’s second-half turnaround was encouraging. The Arizona State transfer had eight of his 10 points after the break, finishing 5 of 7 from the field with five rebounds, one blocked shot and one steal.</p><p>“I think every day you see growth with him,” Braden Huff said. “It’s undeniable, his athleticism and length and his skill. Once we just get him to learn the system and what we need out of him, the sky is the limit for him. He’s going to be really good for us.”</p><h3>Jefferson shines</h3><p>Gonzaga picked up scoring and rebounding contributions from many of the usual suspects on Wednesday, but there were also a few surprises on the final stat sheet.</p><p>Parker Jefferson, for example, matched teammate Izan Almansa and LCSC’s Titus Yearout for a game-high 12 points on 6 of 9 shooting. Jefferson also led all players with six rebounds and two blocked shots to go with his two assists and one steal.</p><p>Jefferson enters the regular season as the fourth or fifth member of Gonzaga’s frontcourt rotation behind Huff, Diop, Almansa and potentially freshman center Sam Funches, but the sophomore forward has delivered in both of his exhibition stints, making 3 of 4 free throws at Arkansas with two rebounds and one steal in just under four minutes of action. Jefferson, whose mother Carrie played basketball at Arkansas and father Mike played for the Razorbacks’ offensive line, had a cheering section of nearly 40 family members and friends at Bud Walton Arena.</p><p>In Wednesday’s postgame presser, Gonzaga’s coach praised Jefferson for his connectivity, and not necessarily just on the court.</p><p>“Parker’s done a nice job. I’ll tell you what he’s done a really nice job of is helping us bring the team together,” Few said. “We didn’t have many returnees and he’s done a great job of welcoming everybody in and making them comfortable and just kind of being a great teammate, so obviously it’s nice to be able to reward him with some moments like that.”</p><h3>More than ball</h3><p>More than two months after destructive wildfires displaced thousands of Spokane residents, Gonzaga and LCSC agreed their preseason exhibition could be a good opportunity to raise funds for those rebuilding homes and replacing items lost from the blazes.</p><p>A portion of the money from ticket sales on Wednesday went toward Phase 2 of the Karen Worthy Memorial Grant, a nonprofit created to help those impacted by the Spokane Complex fires rebuild.</p><p>“I think this has been a really great opportunity for me to talk to the guys about, ‘Hey, these are people that are watching us on TV every game, these are people that are coming to our games, these are people that are wanting to meet you in the restaurants or see you walking around town,’ ” Few said. “I think it was really important that we kind of stepped up and again, kind of raised the awareness. Sometimes when you have events like this, everybody wants to run out and feels horrible about it and wants to give, but then as time goes on it starts waning and dissipating. I want us to kind of make another statement that hey, there’s still need out there right now.”</p><p>LCSC also chipped in to assist with the cause, donating its $5,000 game check to the Karen Worthy Grant. Warriors coach Austin Johnson had extended family members evacuated and one friend who lost his home as a result of fire damage.</p><p>“There’s tons of fees that aren’t really realized when you’re having to rebuild your whole house and home, or just anything that’s taken away with something like this,” Few said. “We’re happy to help and we’re hopeful because our guys are stepping up, myself and our guys are going to make a sizable dent in this. Hopefully other people will step up and follow along with us. Everybody, there’s still a huge, huge need and the insurances and all this doesn’t cover everything so that’s what we’re trying to do.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -2930,7 +2930,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/29/gonzaga-women-picked-to-win-new-pac-12-wsu-selecte/",
         "link_kind": "item",
         "date": "2026-10-29T00:00:00+00:00",
-        "summary": "<p>With five starters and five other returners, it is no surprise that the Gonzaga women’s basketball team was tapped to win the Pac-12 Conference championship in a media poll released Thursday.</p><p>The Bulldogs’ top seven scorers return from a team that finished 24-10 and won the West Coast Conference title in its final season in the league.</p><p>Oregon State was picked to finish second in the remodeled conference. The Beavers may have been picked second based on their reputation and penchant for postseason success. In the final year of the original Pac-12 (2023-24), they advanced to the Elite Eight.</p><p>San Diego State, which won the Mountain West championship last year, was picked third followed by Colorado State, Boise State, Washington State, Fresno State, Texas State and Utah State.</p><p>Gonzaga received 16 of 19 first-place votes. Oregon State received one and San Diego State received two.</p><p>Colorado State won the MW Tournament last year and advanced to the NCAA Tournament.</p><p>WSU returns six players who started at various times. The Cougars have much to prove after stumbling to a 9-25 record last year.</p><p>ESPN released its preseason bracketology compiled by Charlie Creme Monday. Gonzaga is picked as the automatic qualifier from the Pac-12 as a 10 seed. Oregon State and San Diego State are picked in the new 76-team field to play play-in games.</p><h3>Players to watch</h3><p>The Pac-12 also released its Preseason Impact List.</p><p>Gonzaga junior forward Lauren Whittaker, the WCC Player and Freshman of the Year last season, and junior guard Allie Turner, a WCC First Team selection a year ago, were two of 18 players named. Each school was allowed to nominate two players.</p><p>Named from WSU are seniors Alex Covill (post) and Eleonora Villa (guard), a WCC Second Team pick last year.</p><p>Former WSU guard Jenna Villa and point guard Kennedie Shuler were selected from Oregon State. Shuler was the WCC Defensive Player of the Year and Villa was a First Team selection.</p><h3>Add to the list</h3><p>Gonzaga’s Whittaker was named to two more watch lists.</p><p>Whittaker, from Christchurch, New Zealand, is on the Naismith Trophy Women’s College Player of the Year preseason list along with the Katrina McClain Award preseason list. On Tuesday she was named to the Becky Hammon Mid-Major Player of the Year preseason list.</p><p>She is one of two Pac-12 players on the Hammon list.</p><p>In her first season playing for the Zags a year ago, Whittaker averaged 19.1 points and 10.2 rebounds per game with 649 points and a school-record 348 rebounds.</p><h3>Coach list</h3><p>Lisa Fortier, who is entering her 13th season as head coach at Gonzaga, has been named to the Kathy Delaney-Smith Coach of the Year preseason watch list.</p><p>Fortier is one of 20 coaches nationally selected to the preseason list. The award is in its fourth season.</p><p>She enters the season four wins away from becoming the all-time winningest Gonzaga coach with a 313-84 overall record. That’s a .788 winning percentage. The winningest coach is Kelly Graves (316-136, .699), who is beginning his 13th season at Oregon.</p>",
+        "summary": "<p>With five starters and five other returners, it is no surprise that the Gonzaga women’s basketball team was tapped to win the Pac-12 Conference championship in a media poll released Thursday.</p><p>The Bulldogs’ top seven scorers return from a team that finished 24-10 and won the West Coast Conference title in its final season in the league.</p><p>Oregon State was picked to finish second in the remodeled conference. The Beavers may have been picked second based on their reputation and penchant for postseason success. In the final year of the original Pac-12 (2023-24), they advanced to the Elite Eight.</p><p>San Diego State, which won the Mountain West championship last year, was picked third followed by Colorado State, Boise State, Washington State, Fresno State, Texas State and Utah State.</p><p>Gonzaga received 16 of 19 first-place votes. Oregon State received one and San Diego State received two.</p><p>Colorado State won the MWC Tournament last year and advanced to the NCAA Tournament.</p><p>WSU returns six players who started at various times. The Cougars have much to prove after stumbling to a 9-25 record last year.</p><p>ESPN released its preseason bracketology compiled by Charlie Creme on Monday. Gonzaga is picked as the automatic qualifier from the Pac-12 as a 10 seed. Oregon State and San Diego State are picked in the new 76-team field to play play-in games.</p><h3>Players to watch</h3><p>The Pac-12 also released its Preseason Impact List.</p><p>Gonzaga junior forward Lauren Whittaker, the WCC Player and Freshman of the Year last season, and junior guard Allie Turner, an All-WCC first-team selection a year ago, were two of 18 players named. Each school was allowed to nominate two players.</p><p>Named from WSU are seniors Alex Covill (post) and Eleonora Villa (guard), an All-WCC second-team pick last year.</p><p>Former WSU guard Jenna Villa and point guard Kennedie Shuler were selected from Oregon State. Shuler was the WCC Defensive Player of the Year and Villa was a first-team selection.</p><h3>Add to the list</h3><p>Gonzaga’s Whittaker was named to two more watch lists.</p><p>Whittaker, from Christchurch, New Zealand, is on the Naismith Trophy Women’s College Player of the Year preseason list along with the Katrina McClain Award preseason list. On Tuesday she was named to the Becky Hammon Mid-Major Player of the Year preseason list.</p><p>She is one of two Pac-12 players on the Hammon list.</p><p>In her first season playing for the Zags a year ago, Whittaker averaged 19.1 points and 10.2 rebounds per game with 649 points and a school-record 348 rebounds.</p><h3>Coach list</h3><p>Lisa Fortier, who is entering her 13th season as head coach at Gonzaga, has been named to the Kathy Delaney-Smith Coach of the Year preseason watch list.</p><p>Fortier is one of 20 coaches nationally selected to the preseason list. The award is in its fourth season.</p><p>She enters the season four wins away from becoming the all-time winningest Gonzaga coach with a 313-84 overall record. That’s a .788 winning percentage. The winningest coach is Kelly Graves (316-136, .699), who is beginning his 13th season at Oregon.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -3546,6 +3546,48 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "Scouting the Bulldogs: 5 questions, prediction with a Fresno State reporter",
+        "link": "https://www.oregonlive.com/beavers/2026/10/scouting-the-bulldogs-5-questions-prediction-with-a-fresno-state-reporter.html",
+        "link_kind": "item",
+        "date": "2026-10-30T13:00:00+00:00",
+        "summary": "Insight into the Bulldogs ahead of Saturday night's game with the Beavers",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "a08df47fb9bf7820",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State receiver downgraded to out vs. Fresno State",
+        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-receiver-downgraded-to-out-vs-fresno-state.html",
+        "link_kind": "item",
+        "date": "2026-10-30T02:24:34+00:00",
+        "summary": "Freauff was listed as questionable on OSU’s availability report on Wednesday and ruled out on Thursday.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "d52faa0472f37ba2",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State’s OL back to full strength vs Fresno State",
+        "link": "https://www.oregonlive.com/beavers/2026/10/anxious-to-play-again-oregon-states-offensive-line-back-to-full-strength-against-fresno-state.html",
+        "link_kind": "item",
+        "date": "2026-10-30T01:23:58+00:00",
+        "summary": "Tackle Josiah Timoteo and backup interior lineman Carter Guillaume could see an increased workload on Saturday at Fresno State",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "5ba989c77a5fd92e",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Will Braden Atkinson stay? OSU working to retain its star QB",
         "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-in-talks-to-keep-quarterback-braden-atkinson-for-2027.html",
@@ -4341,6 +4383,21 @@
     ],
     "San Diego State": [
       {
+        "title": "#364: SDSU Pre-Season Complete | Aztecs vs Wazzu is a Scary Proposition",
+        "link": "https://sonsofmontezuma.libsyn.com/364-sdsu-pre-season-complete-aztecs-vs-wazzu-is-a-scary-proposition",
+        "link_kind": "item",
+        "date": "2026-10-30T05:50:00+00:00",
+        "summary": "<p>Join us as we recap SDSU Basketball's victory over Long Beach State and what we learned now that all the pre-season is complete. Then, we preview Aztecs Football's Halloween matchup vs Washington State with the Win or Lose - Cougars Podcast, SoM writer Ted McGovern returns, as well as our Coach-Carrasco to look at the game film.</p>",
+        "author": "",
+        "duration": 2365,
+        "channel_url": "",
+        "source": "Sons of Montezuma",
+        "id": "68af7689f3fb8616",
+        "extent": "39 min",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
         "title": "Spooky, scary Snapdragon: Aztecs look to scare up a bounce-back win on Halloween night",
         "link": "https://thedailyaztec.com/129633/sports/spooky-scary-snapdragon-aztecs-look-to-scare-up-a-bounce-back-win-on-halloween-night/",
         "link_kind": "item",
@@ -4355,6 +4412,20 @@
         "medium": "text"
       },
       {
+        "title": "Natalia Martinez and Bailey Barnhard Named to Pac-12 Preseason Impact List",
+        "link": "https://goaztecs.com/news/2026/10/29/natalia-martinez-and-bailey-barnhard-named-to-pac-12-preseason-impact-list",
+        "link_kind": "item",
+        "date": "2026-10-29T19:00:00+00:00",
+        "summary": "Juniors Natalia Martinez and Bailey Barnhard were named to the Pac-12 Preseason Impact List, the conference office announced Thursday afternoon. Additionally, the Aztecs were picked to finish third in the Preseason Women’s Basketball Media Poll.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "fa7ab62b102334c1",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "A glimpse into the diverse culture and draw of intramural sports at SDSU",
         "link": "https://thedailyaztec.com/129607/sports/a-glimpse-into-the-diverse-culture-and-draw-of-intramural-sports-at-sdsu/",
         "link_kind": "item",
@@ -4366,6 +4437,34 @@
         "source": "The Daily Aztec",
         "id": "5df670276774c768",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Men’s Hoops’ Harrington and Simmons on Pac-12 Impact List; San Diego State Picked to Finish Third",
+        "link": "https://goaztecs.com/news/2026/10/29/mens-hoops-harrington-and-simmons-on-pac-12-impact-list-san-diego-state-pick-to-finish-third",
+        "link_kind": "item",
+        "date": "2026-10-29T17:09:24+00:00",
+        "summary": "The two sophomores are among 18 players who earned inclusion on the league’s Preseason Impact List.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "715e907af0033091",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Stacie Terry-Hutson Named to Kathy Delaney-Smith Coach of the Year Watch List",
+        "link": "https://goaztecs.com/news/2026/10/29/stacie-terry-hutson-named-to-kathy-delaney-smith-coach-of-the-year-watch-list",
+        "link_kind": "item",
+        "date": "2026-10-29T15:00:00+00:00",
+        "summary": "Terry-Hutson (14th season) was named the 2025-26 Mountain West Coach of the Year after leading the Aztecs to 27 wins, which tied a school record, while going 19-1 in conference play. The San Diego native has led the Aztecs to four straight 20+ win seasons and to the postseason in three of the past four years.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "8fb4b810b38aa27d",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -5514,24 +5613,23 @@
         "id": "a10dd7651932c9d2",
         "sport": "wbb",
         "medium": "text"
-      },
-      {
-        "title": "#350: San Diego State Drops a Golden Opportunity vs UCLA—SoM AFTER DARK",
-        "link": "https://sonsofmontezuma.libsyn.com/350-san-diego-state-drops-a-golden-opportunity-vs-uclavs-jmu-up-next",
-        "link_kind": "item",
-        "date": "2026-09-15T08:10:00+00:00",
-        "summary": "<p>The Aztecs had the Bruins right where they wanted them, until they didn't. A strong 2nd half again for UCLA took down SDSU in a poor offensive showing. We give our reaction and where does Sean Lewis and the team go from here.</p> <p>Also, become a Sons of Monty AFTER DARK Member to finish the full episode and interview with Montell Allen of MBA Sports and SDFNL. The After Dark Membership is Exclusively on YouTube and gives you perks to join like: members only live chats, behind the scenes gameweek videos, early videos, members only livestreams with special guests that pull no punches! </p>",
-        "author": "",
-        "duration": 2392,
-        "channel_url": "",
-        "source": "Sons of Montezuma",
-        "id": "3fc1607de29ebe4e",
-        "extent": "40 min",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Texas State": [
+      {
+        "title": "Bobcats beat UTRGV in exhibition match",
+        "link": "https://universitystar.com/36981/sports/bobcats-beat-utrgv-in-exhibition-match/",
+        "link_kind": "item",
+        "date": "2026-10-30T03:56:11+00:00",
+        "summary": "Senior point guard Crystal Henderson led the Texas State Bobcats to a 76-43 victory in their exhibition opener against the University of Texas Rio Grande Valley Vaqueros Thursday night at Strahan Arena. Henderson, the former Sun Belt Freshman of the Year at Georgia State, finished her Bobcat debut with 19 points and eight assists while...",
+        "author": "Luke Landa, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "19c2e9ee2310e816",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Game Preview: TXST vs No. 20 Boise State",
         "link": "https://txst.com/news/2026/10/29/football-game-preview-txst-vs-no-20-boise-state.aspx",
@@ -5739,20 +5837,6 @@
         "channel_url": "",
         "source": "The University Star",
         "id": "3c489704ad0d776a",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Meza scores brace in ‘Cats dominating win vs Gonzaga",
-        "link": "https://universitystar.com/36866/sports/meza-scores-brace-in-cats-dominating-win-vs-gonzaga/",
-        "link_kind": "item",
-        "date": "2026-10-23T18:11:08+00:00",
-        "summary": "With a crowd of 1,239 attendees, the second largest crowd ever recorded at the Bobcat Soccer Complex, Victoria Meza returned with a bang as her brace contributed to a 4-2 Texas State Bobcats victory over the Gonzaga Bulldogs Thursday night. In a massive game with standing implications against the Bulldogs (7-6-2, 2-2-0 Pac-12), the Bobcats...",
-        "author": "Cooper Yarbough, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "f58d8b0c826309db",
         "sport": "all",
         "medium": "text"
       },
@@ -6476,24 +6560,65 @@
         "extent": "35 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Utah State Football Comes Short of Upset Over #19 Washington",
-        "link": "https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/Utah-State-Football-Comes-Short-of-Upset-Over-19-Washington-e3oqi45",
-        "link_kind": "item",
-        "date": "2026-09-15T06:01:00+00:00",
-        "summary": "<p>• We started by highlighting the monumental 4-0 win over BYU for soccer</p><p>• We then talked about the near upset of the Washington Huskies</p><p>• Lastly we did a sneak peek of the Battle of the Brothers and how we feel about the rest of September as a whole as we seek for our first win.</p>",
-        "author": "The Scotsman Show",
-        "duration": 1845,
-        "channel_url": "",
-        "source": "The Scotsman Show",
-        "id": "ca3c0ffd544c7b3f",
-        "extent": "31 min",
-        "sport": "football",
-        "medium": "audio"
       }
     ],
     "Washington State": [
+      {
+        "title": "Pac 12 spooky showdown: Wazzu faces off against San Diego State on Halloween",
+        "link": "https://dailyevergreen.com/200867/sports/pac-12-spooky-showdown-wazzu-faces-off-against-san-diego-state-on-halloween/",
+        "link_kind": "item",
+        "date": "2026-10-30T07:00:45+00:00",
+        "summary": "The Cougs (1-7,0-3) are on the prowl once again, as they head to San Diego to take on the Aztecs (3-5,2-2) on Halloween. This is not the first time we have seen this matchup, as these two teams faced off last season, ultimately ending in a 36-13 WSU victory.  The Aztecs had struggled to find...",
+        "author": "KellerRay Hutsell Zandell",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "0b9f0322e6c60bff",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "WSU’s Trey Leckner broke his foot twice in one year. He kept attacking his rehab",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsus-trey-leckner-broke-his-foot-twice-in-one-year-he-kept-attacking-his-rehab/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-10-30T01:50:19+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10292026_tzr_tzr_184715.jpg?d=1200x630\"><br/>After months of rehab, Trey Leckner was back at square one this summer when he broke his foot a second time. Discouraged but determined, WSU's tight end returned by early October.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "11189fb85cdcbfb8",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Alex Covill, Eleonora Villa Named to Pac-12 Preseason Impact List",
+        "link": "https://wsucougars.com/news/2026/10/29/alex-covill-eleonora-villa-named-to-pac-12-preseason-impact-list",
+        "link_kind": "item",
+        "date": "2026-10-29T19:00:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "da033ae342fe0a14",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Ronnie Harrison and Ladji Dembele Named to Pac-12 Impact List",
+        "link": "https://wsucougars.com/news/2026/10/29/ronnie-harrison-and-ladji-dembele-named-to-pac-12-impact-list",
+        "link_kind": "item",
+        "date": "2026-10-29T16:57:14+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "b1a0364a396c0fd2",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Cougar Football Hour 10-28-26 (Kirby Moore, Jaylen Thomas & Greg Burns)",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/dd414e58-d163-45b4-b09b-b65cf6b6806e.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
@@ -6514,7 +6639,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/29/at-home-san-diego-st-will-likely-give-wsu-fits-and/",
         "link_kind": "item",
         "date": "2026-10-29T00:00:00+00:00",
-        "summary": "<p><em>Welcome to the Hotline’s weekly picks against the point spread, published Thursdays throughout the regular season with a focus on the most intriguing matchups across the West and the top games nationally. Betting lines are courtesy of VegasInsider.com unless noted otherwise. (Games involving FCS teams not included.) I went 5-6-1 last week and am 50-46-3 for the season (52.1 percent). Picks are for entertainment purposes only … unless they aren’t.</em></p><p>The only thing better than watching a stacked Saturday of college football is watching a stacked Saturday of college football and then indulging in the leftover Halloween treats.</p><p>The Hotline has always favored chocolate bars but acknowledges the merits of the hard and chewy candies. The late, great Mike Leach was onto something when he spoke glowingly about Nerds Clusters during a post-game interview.</p><p>With that in mind, allow us to present college coaches as Halloween candy:</p><p><strong>Arizona’s Brent Brennan:</strong> Snickers. If the coordinators (Seth Doege and Danny Gonzales) are the peanuts and caramel, Brennan’s the chocolate that makes it all work at an elite level.</p><p><strong>Arizona State’s Kenny Dillingham:</strong> Skittles. Relentless energy and extremely popular with the younger generation.</p><p><strong>Boise State’s Spencer Danielson:</strong> 100 Grand. Highly under-appreciated and, in our view, one of the very best.</p><p><strong>BYU’s Kalani Sitake:</strong> Milky Way. Somewhat old school, impossible to dislike and deserving of more support from its manufacturer.</p><p><strong>Cal’s Tosh Lupoi:</strong> Tootsie Rolls. Tough at first but worth the wait (or so Cal fans better hope).</p><p><strong>Colorado’s Deion Sanders:</strong> Candy Corn. Perhaps the most polarizing candy on the market and, some would say, past its prime.</p><p><strong>Oregon’s Dan Lanning:</strong> Reese’s Mini Peanut Butter Cups. Lanning has lost more than 20 pounds this fall due to stress but remains very, very good.</p><p><strong>Oregon State’s JaMarcus Shephard:</strong> Starburst. A rising star in the coaching industry who &#8230; wait for it! &#8230; has burst onto the scene.</p><p><strong>Stanford’s Tavita Pritchard.</strong> Nerds. Duh.</p><p><strong>UCLA’s Bob Chesney:</strong> M&amp;Ms. Always good, regardless of circumstances or location, in all flavors.</p><p><strong>USC’s Lincoln Riley:</strong> 3 Musketeers. Looks impressive on the outside but all fluff in the middle. (This is so obvious that, frankly, the comparison feels a tad trite.)</p><p><strong>Utah’s Morgan Scalley:</strong> KitKat White Creme Wafer. Delicious new version of an absolute legend with distinctive layers.</p><p><strong>Washington’s Jedd Fisch:</strong> Smarties. Like the man who has worked for 12 teams in the past 20 years, Smarties don’t last long.</p><p><strong>Washington State’s Kirby Moore:</strong> Butterfinger. We aren’t sure what to make of it.</p><p>To the picks &#8230;</p><h3>Cal (+7) at NC State</h3><p><strong>Kickoff:</strong> 9 a.m. on ACC Network</p><p><strong>Comment:</strong> The Bears are flying across the country for a second consecutive week but will face an opponent that 1) just lost to Stanford and 2) just fired its coach. No way the Bears get overrun in Raleigh by a leaderless opponent, despite how poorly they have played most weeks. Pick: Cal</p><h3>Arizona (+31/2</h3><p>) at Texas Tech</p><p><strong>Kickoff:</strong> 9 a.m. on ESPN</p><p><strong>Comment:</strong> The Wildcats recently walloped the team (Cincinnati) that thumped the Red Raiders just last week. Although the locations have changed, the trends will stay the same: Texas Tech is worse than advertised; Arizona is better than advertised; and the visitors have Noah Fifita. Pick: Arizona</p><h3>Stanford (+221/2</h3><p>) at Louisville</p><p><strong>Kickoff:</strong> 12:15 p.m. on ACC Network</p><p><strong>Comment:</strong> The Cardinal (color) have lost three road games by 133 points. The Cardinals (bird) aren’t in the same class as Wake Forest or Notre Dame, which hung 50-burgers on Stanford. But they are close enough to that level to win handily. Pick: Louisville</p><h3>Florida (+111/2</h3><p>) vs. Georgia</p><p><strong>Kickoff:</strong> 12:30 p.m. on ABC</p><p><strong>Comment:</strong> The Cocktail Party has been moved indoors, to Atlanta’s Mercedes-Benz Stadium, because of facility renovations in Jacksonville. We think the Bulldogs, who had two weeks to stew over their loss to Auburn, will use this as the proverbial get-right game. Pick: Georgia</p><h3>Arizona State (+16) at BYU</h3><p><strong>Kickoff:</strong> 12:30 p.m. on Fox</p><p><strong>Comment:</strong> For all the improvement the Sun Devils displayed last weekend against Kansas State, their two shortcomings – wobbly quarterback play and limited physicality – are more problematic in Provo than perhaps anywhere else in the Big 12. Also, the Cougars will be ornery after the loss at UCF. Pick: BYU</p><h3>Northwestern (+31/2) at Oregon</h3><p><strong>Kickoff:</strong> 12:30 p.m. on Peacock</p><p><strong>Comment:</strong> Based on how the teams have played in recent weeks, the Wildcats should be favored. Anytime betting lines make absolutely no sense, we take note. Chip Kelly’s return to Eugene, as Northwestern’s playcaller, won’t be enjoyable. Pick: Oregon</p><h3>Utah (-61/2</h3><p>) at Cincinnati</p><p><strong>Kickoff:</strong> 12:45 p.m. on ESPN</p><p><strong>Comment:</strong> Fascinating offsets here: Yes, Utah is making the long trip after a taxing win (over Houston), but the Bearcats are coming off an upset of Texas Tech and the subsequent field-storming. If those factors cancel each other out and we’re left with tactics and personnel as the determinants, the advantage swings to the Utes. Pick: Utah</p><h3>Purdue (+71/2</h3><p>) at Penn State</p><p><strong>Kickoff:</strong> 1:15 p.m. on Big Ten Network</p><p><strong>Comment:</strong> This matchup jumped off the VegasInsider.com screen because the line is something out of a bygone era. The Boilermakers no longer stink, but the Nittany Lions do. Pick: Purdue</p><h3>Washington St. (+21/2</h3><p>) at SDSU</p><p><strong>Kickoff:</strong> 4 p.m. on CBS Sports Network</p><p><strong>Comment:</strong> The Aztecs have been bad on the road but solid at home; the Cougars have been awful everywhere. If the hosts get to 17, they should cover &#8230; handily. Pick: San Diego State</p><h3>Ohio State (-61/2</h3><p>) at USC</p><p><strong>Kickoff:</strong> 4:30 p.m. on NBC</p><p><strong>Comment:</strong> How will the Trojans respond to their dreary performance at Wisconsin? Fairly well, we suspect. How will the Buckeyes perform without quarterback Julian Sayin? That’s far from certain. Sure, they have No. 4 (Jeremiah Smith), but someone has to get him the ball often enough for the nation’s best player to make an impact. Pick: USC</p><h3>Washington (+71/2) at Nebraska</h3><p><strong>Kickoff:</strong> 5 p.m. on Big Ten Network</p><p><strong>Comment:</strong> The Huskers pushed Indiana to the brink a few weeks ago. But if Washington’s quarterback play (Demond Williams or Elijah Brown) is free of turnovers – that’s a big ask, from what we have seen lately – this should be competitive throughout. Pick: Washington</p><h3>Texas St. (+111/2</h3><p>) at Boise St.</p><p><strong>Kickoff:</strong> 7 p.m. on The CW</p><p><strong>Comment:</strong> Texas State’s wobbly defense is no match for the Broncos’ balanced, relentless offense. Close early. Not close late. Pick: Boise</p><h3>Oregon St. (-6) at Fresno St.</h3><p><strong>Kickoff:</strong> 8 p.m. on USA Network</p><p><strong>Comment:</strong> Are the Beavers a true steamroller? Did they spend too much time during the bye week basking in the accolades? This is their toughest test since facing Texas Tech in Week 2. We see a few speed bumps but no barricades. Pick: Oregon State</p><p><strong>Straight-up winners:</strong> California, Arizona, Louisville, Georgia, Brigham Young, Oregon, Utah, Purdue, San Diego State, Ohio State, Nebraska, Boise State and Oregon State</p><p><strong>Five-star special:</strong> Oregon State. In a difficult environment, the Beavers will prove they are a worthy challenger to Boise State in the Pac-12 and a legitimate contender for the playoff.</p>",
+        "summary": "<p><em>Welcome to the Hotline’s weekly picks against the point spread, published Thursdays throughout the regular season with a focus on the most intriguing matchups across the West and the top games nationally. Betting lines are courtesy of VegasInsider.com unless noted otherwise. (Games involving FCS teams not included.) I went 5-6-1 last week and am 50-46-3 for the season (52.1%). Picks are for entertainment purposes only … unless they aren’t.</em></p><p>The only thing better than watching a stacked Saturday of college football is watching a stacked Saturday of college football and then indulging in the leftover Halloween treats.</p><p>The Hotline has always favored chocolate bars but acknowledges the merits of the hard and chewy candies. The late, great Mike Leach was onto something when he spoke glowingly about Nerds Clusters during a post-game interview.</p><p>With that in mind, allow us to present college coaches as Halloween candy:</p><p><strong>Arizona’s Brent Brennan:</strong> Snickers. If the coordinators (Seth Doege and Danny Gonzales) are the peanuts and caramel, Brennan’s the chocolate that makes it all work at an elite level.</p><p><strong>Arizona State’s Kenny Dillingham:</strong> Skittles. Relentless energy and extremely popular with the younger generation.</p><p><strong>Boise State’s Spencer Danielson:</strong> 100 Grand. Highly underappreciated and, in our view, one of the very best.</p><p><strong>BYU’s Kalani Sitake:</strong> Milky Way. Somewhat old school, impossible to dislike and deserving of more support from its manufacturer.</p><p><strong>Cal’s Tosh Lupoi:</strong> Tootsie Rolls. Tough at first but worth the wait (or so Cal fans better hope).</p><p><strong>Colorado’s Deion Sanders:</strong> Candy Corn. Perhaps the most polarizing candy on the market and, some would say, past its prime.</p><p><strong>Oregon’s Dan Lanning:</strong> Reese’s Mini Peanut Butter Cups. Lanning has lost more than 20 pounds this fall due to stress but remains very, very good.</p><p><strong>Oregon State’s JaMarcus Shephard:</strong> Starburst. A rising star in the coaching industry who &#8230; wait for it! &#8230; has burst onto the scene.</p><p><strong>Stanford’s Tavita Pritchard.</strong> Nerds. Duh.</p><p><strong>UCLA’s Bob Chesney:</strong> M&amp;Ms. Always good, regardless of circumstances or location, in all flavors.</p><p><strong>USC’s Lincoln Riley:</strong> 3 Musketeers. Looks impressive on the outside but all fluff in the middle. (This is so obvious that, frankly, the comparison feels a tad trite.)</p><p><strong>Utah’s Morgan Scalley:</strong> KitKat White Creme Wafer. Delicious new version of an absolute legend with distinctive layers.</p><p><strong>Washington’s Jedd Fisch:</strong> Smarties. Like the man who has worked for 12 teams in the past 20 years, Smarties don’t last long.</p><p><strong>Washington State’s Kirby Moore:</strong> Butterfinger. We aren’t sure what to make of it.</p><p>To the picks &#8230;</p><h3>Cal (+7) at NC State</h3><p><strong>Kickoff:</strong> 9 a.m. on ACC Network</p><p><strong>Comment:</strong> The Bears are flying across the country for a second consecutive week but will face an opponent that 1) just lost to Stanford and 2) just fired its coach. No way the Bears get overrun in Raleigh by a leaderless opponent, despite how poorly they have played most weeks. <strong>Pick:</strong> Cal</p><h3>Arizona (+31/2</h3><p>) at Texas Tech</p><p><strong>Kickoff:</strong> 9 a.m. on ESPN</p><p><strong>Comment:</strong> The Wildcats recently walloped the team (Cincinnati) that thumped the Red Raiders just last week. Although the locations have changed, the trends will stay the same: Texas Tech is worse than advertised; Arizona is better than advertised; and the visitors have Noah Fifita. <strong>Pick:</strong> Arizona</p><h3>Stanford (+221/2</h3><p>) at Louisville</p><p><strong>Kickoff:</strong> 12:15 p.m. on ACC Network</p><p><strong>Comment:</strong> The Cardinal (color) have lost three road games by 133 points. The Cardinals (bird) aren’t in the same class as Wake Forest or Notre Dame, which hung 50-burgers on Stanford. But they are close enough to that level to win handily. <strong>Pick:</strong> Louisville</p><h3>Florida (+111/2</h3><p>) vs. Georgia</p><p><strong>Kickoff:</strong> 12:30 p.m. on ABC</p><p><strong>Comment:</strong> The Cocktail Party has been moved indoors, to Atlanta’s Mercedes-Benz Stadium, because of facility renovations in Jacksonville. We think the Bulldogs, who had two weeks to stew over their loss to Auburn, will use this as the proverbial get-right game. <strong>Pick:</strong> Georgia</p><h3>Arizona State (+16) at BYU</h3><p><strong>Kickoff:</strong> 12:30 p.m. on Fox</p><p><strong>Comment:</strong> For all the improvement the Sun Devils displayed last weekend against Kansas State, their two shortcomings – wobbly quarterback play and limited physicality – are more problematic in Provo than perhaps anywhere else in the Big 12. Also, the Cougars will be ornery after the loss at UCF. <strong>Pick:</strong> BYU</p><h3>Northwestern (+31/2) at Oregon</h3><p><strong>Kickoff:</strong> 12:30 p.m. on Peacock</p><p><strong>Comment:</strong> Based on how the teams have played in recent weeks, the Wildcats should be favored. Anytime betting lines make absolutely no sense, we take note. Chip Kelly’s return to Eugene, as Northwestern’s playcaller, won’t be enjoyable. <strong>Pick:</strong> Oregon</p><h3>Utah (-61/2</h3><p>) at Cincinnati</p><p><strong>Kickoff:</strong> 12:45 p.m. on ESPN</p><p><strong>Comment:</strong> Fascinating offsets here: Yes, Utah is making the long trip after a taxing win (over Houston), but the Bearcats are coming off an upset of Texas Tech and the subsequent field-storming. If those factors cancel each other out and we’re left with tactics and personnel as the determinants, the advantage swings to the Utes. <strong>Pick:</strong> Utah</p><h3>Purdue (+71/2</h3><p>) at Penn State</p><p><strong>Kickoff:</strong> 1:15 p.m. on Big Ten Network</p><p><strong>Comment:</strong> This matchup jumped off the VegasInsider.com screen because the line is something out of a bygone era. The Boilermakers no longer stink, but the Nittany Lions do. <strong>Pick:</strong> Purdue</p><h3>Washington St. (+21/2</h3><p>) at SDSU</p><p><strong>Kickoff:</strong> 4 p.m. on CBS Sports Network</p><p><strong>Comment:</strong> The Aztecs have been bad on the road but solid at home; the Cougars have been awful everywhere. If the hosts get to 17, they should cover &#8230; handily. <strong>Pick:</strong> San Diego State</p><h3>Ohio State (-61/2</h3><p>) at USC</p><p><strong>Kickoff:</strong> 4:30 p.m. on NBC</p><p><strong>Comment:</strong> How will the Trojans respond to their dreary performance at Wisconsin? Fairly well, we suspect. How will the Buckeyes perform without quarterback Julian Sayin? That’s far from certain. Sure, they have No. 4 (Jeremiah Smith), but someone has to get him the ball often enough for the nation’s best player to make an impact. <strong>Pick:</strong> USC</p><h3>Washington (+71/2) at Nebraska</h3><p><strong>Kickoff:</strong> 5 p.m. on Big Ten Network</p><p><strong>Comment:</strong> The Huskers pushed Indiana to the brink a few weeks ago. But if Washington’s quarterback play (Demond Williams or Elijah Brown) is free of turnovers – that’s a big ask, from what we have seen lately – this should be competitive throughout. <strong>Pick:</strong> Washington</p><h3>Texas St. (+111/2</h3><p>) at Boise St.</p><p><strong>Kickoff:</strong> 7 p.m. on the CW</p><p><strong>Comment:</strong> Texas State’s wobbly defense is no match for the Broncos’ balanced, relentless offense. Close early. Not close late. <strong>Pick:</strong> Boise</p><h3>Oregon St. (-6) at Fresno St.</h3><p><strong>Kickoff:</strong> 8 p.m. on USA Network</p><p><strong>Comment:</strong> Are the Beavers a true steamroller? Did they spend too much time during the bye week basking in the accolades? This is their toughest test since facing Texas Tech in Week 2. We see a few speed bumps but no barricades. <strong>Pick:</strong> Oregon State</p><p><strong>Straight-up winners:</strong> California, Arizona, Louisville, Georgia, Brigham Young, Oregon, Utah, Purdue, San Diego State, Ohio State, Nebraska, Boise State and Oregon State</p><p><strong>Five-star special:</strong> Oregon State. In a difficult environment, the Beavers will prove they are a worthy challenger to Boise State in the Pac-12 and a legitimate contender for the playoff.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -6528,7 +6653,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/29/inside-wsu-te-trey-leckners-injury-rehab-and-how-h/",
         "link_kind": "item",
         "date": "2026-10-29T00:00:00+00:00",
-        "summary": "<p>PULLMAN – The reaggravation amounted to the worst days. Trey Leckner had missed all of spring ball with a foot injury, and as he angled to return as Washington State’s top pass-catching tight end, he had every reason to believe he could enter his final form in his redshirt junior campaign.</p><p>Then, over the summer, he broke his foot again. He would miss the entirety of fall camp with the injury.</p><p>“That was really hard,” Leckner said.</p><p>In all, Leckner was out almost the entire calendar year: spring ball, summer workouts, fall camp, the beginning of the season. He was expected to miss the first half of the Cougars’ 2026 campaign, which would have meant a return in mid-October, a costly blow for an offense that would prove to be anemic. But Leckner recovered quicker than anyone in the building expected. His first game back came on Oct. 3, in WSU’s home loss to Fresno State.</p><p>Since then, Leckner has caught 12 passes for 92 yards, including four-reception outings against both Utah State earlier this month and Boise State last weekend. That hasn’t led to wins – not much has this season for the Cougars, who are still looking for their first FBS victory – but with his reliable hands and shifty athleticism, Leckner has given new quarterback Owen Eshelman a handy release valve in tight spots.</p><p>The best example came late in the second quarter, midway through the long scoring drive that WSU used to tie the game before halftime. Facing a fourth-and-2 near midfield, the Cougars needed a play to net them a couple yards. It probably wouldn’t come on the ground, where their offensive line has struggled to clear space for their tailbacks. And a standard shotgun dropback pass didn’t seem like a smart idea either.</p><p>So WSU coach Kirby Moore looked at his playsheet and dialed up a short pass from Eshelman to Leckner. In only his second career start, the Cougars’ redshirt freshman quarterback took a quick dropback and laced a pass to Leckner, who had come surging to the right while the rest of his teammates flowed to the left. That meant Leckner was wide open, and after he caught the ball, he only needed to fall forward another yard or so for the first down.</p><p>Ten plays later, WSU running back Kirby Vorhees squeezed into the end zone and the game was tied at 7-all.</p><p>“Obviously I was coming back across the field and I saw the D-end rush up the field,” Leckner said, “so I snapped my eyes around quick, and I knew it was gonna be coming to me on fourth-and-short. So just put my head down and tried to get the first down. And it’s been great playing with Owen. I mean, I think he’s a really good leader. I think since he’s taken over the role, he hasn’t flinched. He hasn’t shown any nervousness or anything like that. So it’s been really good to play with him.”</p><!--[embed id=12381]--><p>It’s tricky business, discussing any encouraging developments with this WSU offense, the unit that ranks among the country’s worst in just about every department you like. The Cougs are scoring only 1.35 points per drive, which ranks No. 135 of 138 FBS teams, a niche stat that does a nice job of painting the whole picture: As Eshelman takes over for Caden Pinnick, he’s looked far sharper and accurate than his predecessor, but many of the same problems exist with this group.</p><p>Washington State still can’t run the ball, averaging only 15 carries for 48 yards from running backs in seven games against FBS competition. The Cougs’ offensive line still can’t clear lanes for those guys, and they still can’t keep their quarterback clean. And even with Moore calling plays, which he has now done on a full-time basis for the last three games, nothing consistent and explosive has washed over their offense.</p><p>That forces you to look at the details, at the finer points with this offense that could help WSU take down San Diego State on the road this weekend. Can the Cougars end their five-game losing streak? They’ll be going up against one of the country’s worst scoring defenses in the Aztecs, who rank No. 135 in total defense (462 yards per game) and No. 133 in scoring defense (36 points per game).</p><p>Can Leckner make an impact against that type of defense? The temptation is to say yes. He’s fluid and reliable. In 13 targets this year, he has 12 receptions, and he has yet to drop a pass. In fact, in his entire career, he has been dinged for only one drop, which came in last winter’s Idaho Potato Bowl. Add it all up and you get these numbers: 52 targets, 41 receptions, 365 yards, four touchdowns, and just one drop.</p><p>He’s doing it all as a bit of a tweener, listed at 6-foot-3 and 243 pounds. He’s not enormous and burly like other tight ends, but he’s also not tiny, either. He’s also carving out this type of career at WSU, which isn’t exactly known for producing prestigious tight ends, at least not in the modern era. Back in 2017, the late Mike Leach was quoted as saying, “God didn’t make very many true tight ends.”</p><p>Leach may not have used tight ends in his time at WSU – in fact, he was famous for refusing to use them at all – but they’ve enjoyed something of a renaissance in recent years, especially in Pullman. Leckner has helped facilitate that, as has former Cougar Cooper Mathers, who set the program’s single-season record for touchdown catches by a TE with six during the 2024 season.</p><p>So how did Leckner become a tight end in the first place? Back in high school, at Glacier Peak in Snohomish, he remembers feeling like he was too slow to be a receiver, but a bit too big to play running back. “So tight end, kinda H-back was that perfect spot for me,” Leckner said, “where I can do everything, kinda be a Swiss Army knife in the offense.”</p><p>Leckner has been all of that and more for WSU. Among Cougars who have at least 75 pass-blocking snaps, he ranks tops on the team with a Pro Football Focus pass-blocking grade of 69. In the run-blocking department, he checks in with a grade of just 45.3, which is far below average.</p><p>Can that number be chalked up to the possibility that he’s still working his way back into shape? Maybe, but he’s finished with similar numbers in each of his previous two years – 48.5 in 2024, 56.1 in 2024 – so it’s more likely he’s just more of a finesse player.</p><p>That has served him well. So has his drive to get back on the field. Earlier this year, when he was working through rehab to do so, he impressed tight ends coach Derham Cato, who has been coaching for more than 15 years. Sometimes when a player is working his way back from injury, he said back in August, he worries about them losing “that mental intensity.”</p><p>“But that has not been the case,” Cato said. “He’s still got his notepad out every meeting. He’s taking notes. He’s dialed. He’s right behind with the guys that aren’t on the sideline every team period, talking to them, right? Just in terms of technique stuff, scheme stuff, responsibility stuff. So he’s done a hell of a job with it.”</p><p>“I’m definitely the type of person where it’s everything or nothing,” Leckner said. “I think, yeah, I have to knock the rust off. Obviously, missing all spring and all fall camp and getting back into the swing of things. I’m definitely still making mistakes that maybe I wouldn’t have made – you know what I mean? – if I had all that time practicing and getting better. But just working the new techniques with my coaches and really just grinding indy, grinding in practice, so I can go out there and execute.”</p>",
+        "summary": "<p>PULLMAN – The reaggravation amounted to the worst days. Trey Leckner had missed all of spring ball with a foot injury, and as he angled to return as Washington State’s top pass-catching tight end, he had every reason to believe he could enter his final form in his redshirt junior campaign.</p><p>Then, over the summer, he broke his foot again. He would miss the entirety of fall camp with the injury.</p><p>“That was really hard,” Leckner said.</p><p>In all, Leckner was out almost the entire calendar year: spring ball, summer workouts, fall camp, the beginning of the season. He was expected to miss the first half of the Cougars’ 2026 campaign, which would have meant a return in mid-October, a costly blow for an offense that would prove to be anemic. But Leckner recovered quicker than anyone in the building expected. His first game back came on Oct. 3, in WSU’s home loss to Fresno State.</p><p>Since then, Leckner has caught 12 passes for 92 yards, including four-reception outings against Utah State earlier this month and Boise State last weekend. That hasn’t led to wins – not much has this season for the Cougars, who are still looking for their first FBS victory – but with his reliable hands and shifty athleticism, Leckner has given new quarterback Owen Eshelman a handy release valve in tight spots.</p><p>The best example came late in the second quarter, midway through the long scoring drive that WSU used to tie the game before halftime. Facing a fourth-and-2 near midfield, the Cougars needed a play to net them a couple yards. It probably wouldn’t come on the ground, where their offensive line has struggled to clear space for their tailbacks. And a standard shotgun dropback pass didn’t seem like a smart idea either.</p><p>So WSU coach Kirby Moore looked at his playsheet and dialed up a short pass from Eshelman to Leckner. In only his second career start, the Cougars’ redshirt freshman quarterback took a quick dropback and laced a pass to Leckner, who had come surging to the right while the rest of his teammates flowed to the left. That meant Leckner was wide open, and after he caught the ball, he only needed to fall forward another yard or so for the first down.</p><p>Ten plays later, WSU running back Kirby Vorhees squeezed into the end zone and the game was tied at 7-all.</p><p>“Obviously I was coming back across the field and I saw the D-end rush up the field,” Leckner said, “so I snapped my eyes around quick, and I knew it was gonna be coming to me on fourth-and-short. So just put my head down and tried to get the first down. And it’s been great playing with Owen. I mean, I think he’s a really good leader. I think since he’s taken over the role, he hasn’t flinched. He hasn’t shown any nervousness or anything like that. So it’s been really good to play with him.”</p><!--[embed id=12381]--><p>It’s tricky business, discussing any encouraging developments with this WSU offense, the unit that ranks among the country’s worst in just about every department you like. The Cougs are scoring only 1.35 points per drive, which ranks No. 135 of 138 FBS teams, a niche stat that does a nice job of painting the whole picture: As Eshelman takes over for Caden Pinnick, he’s looked far sharper and accurate than his predecessor, but many of the same problems exist with this group.</p><p>Washington State still can’t run the ball, averaging only 15 carries for 48 yards from running backs in seven games against FBS competition. The Cougs’ offensive line still can’t clear lanes for those guys, and they still can’t keep their quarterback clean. And even with Moore calling plays, which he has now done on a full-time basis for the last three games, nothing consistent and explosive has washed over their offense.</p><p>That forces you to look at the details, at the finer points with this offense that could help WSU take down San Diego State on the road this weekend. Can the Cougars end their five-game losing streak? They’ll be going up against one of the country’s worst scoring defenses in the Aztecs, who rank No. 135 in total defense (462 yards per game) and No. 133 in scoring defense (36 points per game).</p><p>Can Leckner make an impact against that type of defense? The temptation is to say yes. He’s fluid and reliable. In 13 targets this year, he has 12 receptions, and he has yet to drop a pass. In fact, in his entire career, he has been dinged for only one drop, which came in last winter’s Idaho Potato Bowl. Add it all up and you get these numbers: 52 targets, 41 receptions, 365 yards, four touchdowns, and just one drop.</p><p>He’s doing it all as a bit of a tweener, listed at 6-foot-3 and 243 pounds. He’s not enormous and burly like other tight ends, but he’s also not tiny, either. He’s also carving out this type of career at WSU, which isn’t exactly known for producing prestigious tight ends, at least not in the modern era. Back in 2017, the late Mike Leach was quoted as saying, “God didn’t make very many true tight ends.”</p><p>Leach may not have used tight ends in his time at WSU – in fact, he was famous for refusing to use them at all – but they’ve enjoyed something of a renaissance in recent years, especially in Pullman. Leckner has helped facilitate that, as has former Cougar Cooper Mathers, who set the program’s single-season record for touchdown catches by a TE with six during the 2024 season.</p><p>So how did Leckner become a tight end in the first place? Back in high school, at Glacier Peak in Snohomish, he remembers feeling like he was too slow to be a receiver, but a bit too big to play running back. “So tight end, kinda H-back was that perfect spot for me,” Leckner said, “where I can do everything, kinda be a Swiss Army knife in the offense.”</p><p>Leckner has been all of that and more for WSU. Among Cougars who have at least 75 pass-blocking snaps, he ranks tops on the team with a Pro Football Focus pass-blocking grade of 69. In the run-blocking department, he checks in with a grade of just 45.3, which is far below average.</p><p>Can that number be chalked up to the possibility that he’s still working his way back into shape? Maybe, but he’s finished with similar numbers in each of his previous two years – 48.5 in 2024, 56.1 in 2025 – so it’s more likely he’s just more of a finesse player.</p><p>That has served him well. So has his drive to get back on the field. Earlier this year, when he was working through rehab to do so, he impressed tight ends coach Derham Cato, who has been coaching for more than 15 years. Sometimes when a player is working his way back from injury, he said back in August, he worries about them losing “that mental intensity.”</p><p>“But that has not been the case,” Cato said. “He’s still got his notepad out every meeting. He’s taking notes. He’s dialed. He’s right behind with the guys that aren’t on the sideline every team period, talking to them, right? Just in terms of technique stuff, scheme stuff, responsibility stuff. So he’s done a hell of a job with it.”</p><p>“I’m definitely the type of person where it’s everything or nothing,” Leckner said. “I think, yeah, I have to knock the rust off. Obviously, missing all spring and all fall camp and getting back into the swing of things. I’m definitely still making mistakes that maybe I wouldn’t have made – you know what I mean? – if I had all that time practicing and getting better. But just working the new techniques with my coaches and really just grinding, grinding in practice, so I can go out there and execute.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -6994,34 +7119,6 @@
         "source": "The Spokesman-Review",
         "id": "3af707c1094cf351",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Colorado State sweeps WSU volleyball for second time",
-        "link": "https://dailyevergreen.com/200736/sports/colorado-state-sweeps-wsu-volleyball-for-second-time/",
-        "link_kind": "item",
-        "date": "2026-10-24T18:42:22+00:00",
-        "summary": "Washington State (8-10, 3-5) came within nine points of a set win once Thursday night in its 3-0 loss to Colorado State (15-3, 8-0) in Bohler Gym. The Cougars came close in the first set and often led by four or five points. WSU put the ball in spots the Rams could not dig early...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "75dec76f7bf0c947",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Two penalty goals result in 1-1 draw for WSU against SDSU",
-        "link": "https://dailyevergreen.com/200739/sports/two-penalty-goals-result-in-1-1-draw-for-wsu-against-sdsu/",
-        "link_kind": "item",
-        "date": "2026-10-24T18:38:02+00:00",
-        "summary": "A back-and-forth final five minutes led to a 1-1 result Thursday between Washington State (5-5-4, 2-2-1 Pac-12) and San Diego State (8-3-3, 2-1-2 Pac-12) at Lower Soccer Field. Down 1-0 in the 84th minute, a Maddie Martin foul on SDSU’s Eva Wees on WSU’s side of the ball set up an Aztec free kick from...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "0a30a744ac7698ad",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -8525,20 +8622,6 @@
         "medium": "text"
       },
       {
-        "title": "WSU RB Kirby Vorhees listed as questionable on first Pac-12 availability report",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-rb-kirby-vorhees-listed-as-questionable-on-first-pac-12-availability-report/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-10-02T01:44:57+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10012026_tzr_tzr_184108.jpg?d=1200x630\"><br/>Washington State might not be at full strength at the running back spot on Saturday.",
-        "author": "Greg Woods",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "8448324270706b2f",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 releases women's basketball schedule, setting Gonzaga-WSU clash for season finale",
         "link": "http://www.spokesman.com/stories/2026/oct/02/pac-12-releases-womens-basketball-schedule-setting/",
         "link_kind": "item",
@@ -9203,35 +9286,6 @@
         "source": "Podcast Vs. Everyone",
         "id": "551c3c9683b59c7e",
         "extent": "1h 27m",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "WSU Football: Kirby Moore and Student-Athletes | Duquesne Week Press Conference | 9/14/26",
-        "link": "https://wsucougars.com/news/2026/09/15/wsu-football-kirby-moore-and-student-athletes-duquesne-week-press-conference-91426",
-        "link_kind": "item",
-        "date": "2026-09-15T08:51:53+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "046fcc783c47ee0c",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU vs Duquesne Preview 🚨 Are the Dukes Better Than Their Record? | NEC Blitz Crossover",
-        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/WSU-vs-Duquesne-Preview--Are-the-Dukes-Better-Than-Their-Record---NEC-Blitz-Crossover-e3os6b3",
-        "link_kind": "item",
-        "date": "2026-09-15T05:01:13+00:00",
-        "summary": "<p>Washington State returns home to face Duquesne, but don&#39;t let the Dukes&#39; record fool you.In this episode of the Palouse Playbook Podcast, Gavin is joined by AJ from NEC Blitz to break down Duquesne football, the Northeast Conference, and what Coug fans should expect when the Dukes travel to Pullman.Despite losses to Youngstown State and Air Force, Duquesne remains one of the NEC&#39;s premier programs and could once again contend for an FCS playoff berth. We dive into key players, coaching, the quarterback situation, and why this matchup deserves more respect than many fans may think.🏈 Topics CoveredWSU vs Duquesne previewWhy Duquesne is still an NEC contenderCarson Camp and the Dukes&#39; quarterback roomWalter Payton Award watchlist RB Ness DavisKey offensive weapons to watchDefensive standouts and young rising starsNEC football overview and conference favoritesSimilarities between Duquesne and Washington StateWhy FCS football deserves more attentionCan Duquesne challenge the Cougars in Pullman?⭐ Players to Watch✅ Carson Camp (QB)✅ Ness Davis (RB)✅ Zamir Corral (WR)✅ Ryan Petras (WR)✅ Dallas Harper (DB)✅ DJ Cerizier (DB)✅ Will Martin (Freshman Defender)🔥 Key QuestionsIs Duquesne a legitimate FCS playoff contender?Can the Dukes rebound after a difficult start to the season?How will Washington State respond after a rocky beginning to 2026?Which Duquesne players could impact the game the most?Is this a bigger challenge for the Cougars than fans realize?A huge thanks to AJ and NEC Blitz for joining the show and giving Coug fans an inside look at one of the Northeast Conference&#39;s most successful programs.👇 Let us know in the comments:What&#39;s your score prediction for WSU vs Duquesne?Which Duquesne player concerns you the most heading into Saturday?If you enjoy Washington State football coverage, Pac-12 content, opponent previews, recruiting, and college football analysis, be sure to LIKE, SUBSCRIBE, and turn on notifications so you never miss an episode.#GoCougs #WashingtonState #WSUFootball #DuquesneFootball #CollegeFootball #FCSFootball #PalousePlaybook #Pac12 #NECFootball #CougarFootball #NessDavis #CarsonCamp #CollegeFootballPodcast #CFB #UpWestSports #WashingtonStateCougars #DuquesneDukes #CollegeFootballPreview</p>",
-        "author": "Up West Sports",
-        "duration": 1239,
-        "channel_url": "",
-        "source": "Palouse Playbook",
-        "id": "49e3f0ff652c9ccc",
-        "extent": "21 min",
         "sport": "all",
         "medium": "audio"
       }
