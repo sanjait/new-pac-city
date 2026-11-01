@@ -22647,6 +22647,360 @@
         "James Crepea"
       ],
       "run": "run_2026-11-01-0149"
+    },
+    "01f84a5861f74bd6": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State's 46-45 comeback win over Texas State, including the quarterback change and scoring details.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-1442"
+    },
+    "03bdd5199da64886": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Lists kickoff times and TV coverage for four Week 9 football matchups involving eight of the nine conference schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-1442"
+    },
+    "0a6f6e3272754b98": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Announces a live discussion thread for Boise State's home football game against Texas State.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Nearly all the text is a donation pitch; only one sentence actually names the matchup, so the coverage level is thin enough that a hold call could be defended.",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-1442"
+    },
+    "122fbe253594f0a6": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Breaks down WSU's recurring tackling problems that let San Diego State's running backs churn out yards.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-1442"
+    },
+    "13eca6a001c86bfa": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary are a live-updates recap of Fresno State's 38-22 win over Oregon State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-1442"
+    },
+    "1563009071b8f513": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The listed Week 9 matchups (UConn-Air Force, UTEP-North Dakota State, New Mexico-San Jose State, Nevada-UCLA, NIU-UNLV) are all outside the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-1442"
+    },
+    "1e3b4b1bceceeb24": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary describe Oregon State's offensive and defensive weaknesses in the blowout loss to Fresno State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-1442"
+    },
+    "291d1ecc0e79e801": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A postgame 'Difference makers' breakdown crediting WSU quarterback Owen Eshelman and SDSU running back Javion Kinnard.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-1442"
+    },
+    "356605589534b11f": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A behind-the-scenes feature on how Gonzaga's coaching staff handled roster turnover during the men's basketball offseason.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "11 min read",
+      "run": "run_2026-11-01-1442"
+    },
+    "64ed6ec0a205ee6d": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Gonzaga's men's basketball roster and depth questions heading into the season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-1442"
+    },
+    "6beb6ceeda46ba61": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish postgame remarks from Fresno State's coach about Oregon State football.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-1442"
+    },
+    "8e27be356889e5e8": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary attribute Oregon State's loss at Fresno State to penalties and sacks that hurt its Pac-12 title hopes.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-1442"
+    },
+    "96aa2361348d4727": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State assistant's postgame comments after the loss at Fresno State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-1442"
+    },
+    "a80e6d343a9f43b8": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Instant-reaction breakdown of WSU's run defense and offensive struggles in the loss to San Diego State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-1442"
+    },
+    "b434801b09c211bf": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a TV reporter reacting to Fresno State's dominating win over Oregon State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-11-01-1442"
+    },
+    "c163fca7100727e3": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Coach Mark Few and an assistant reminisce about assembling Gonzaga's 2016-17 men's basketball roster.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "12 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-1442"
+    },
+    "c430511a8bba2063": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Fresno State's student paper recaps the Bulldogs' 38-22 win over Oregon State play by play.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Cebreiros Jr."
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-11-01-1442"
+    },
+    "d81ff96cda6ec4f5": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps WSU's coaching decisions and comeback bid in its sixth straight loss, this one to San Diego State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-01-1442"
+    },
+    "dc237a7d9061359a": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Labelled Analysis, it argues that Kirby Moore's in-game decisions, not just execution, cost WSU the loss to San Diego State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-1442"
+    },
+    "f1744d5d188e96d9": {
+      "subjects": {
+        "texas-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Texas State's student paper recaps the Bobcats' comeback bid falling just short against Boise State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-01-1442"
+    },
+    "f30c28ebdf8f95ac": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary identify the pre-snap penalties that hurt Oregon State's offense in the loss to Fresno State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-1442"
+    },
+    "f7b06aba6ec5c687": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A bylined column arguing that specific WSU player and coaching decisions, more than talent gaps, cost the Cougars the San Diego State game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jacob Thorpe"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-1442"
     }
   },
   "runs": {
@@ -26178,6 +26532,36 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 151.97834510006942,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-01-1442": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-01T14:39:40.353521+00:00",
+      "items": 22,
+      "verdict_counts": {
+        "publish": 21,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 6
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 48.28686170000583,
       "tokens": null,
       "tokens_source": null
     }
