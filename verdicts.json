@@ -21205,6 +21205,1448 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-10-28-0140"
+    },
+    "00fb06c6b81a35a2": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary reports Oregon State's effort to retain its starting quarterback for next season.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "01070255d3449c7f": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary names two 2028 left-handed pitcher commitments to Oregon State baseball.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "02d169be3cdd2fae": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews what Washington State football needs to do to beat San Diego State, detailing the Aztecs' defense.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "04178ec0ed2bf205": {
+      "subjects": {
+        "boise-state": "about",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece centers on Boise State athletics' budget pressures and how pending federal legislation on compensation and eligibility could affect them.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aidan Mattingly"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "05cff48c4319bc69": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews San Diego State's football game against Washington State, discussing both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "0833de98289c27bf": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece reviews individual Gonzaga players' performances in a completed exhibition game against Lewis-Clark State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "0b7fa709657dd4e8": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The article is a feature on WSU tight end Trey Leckner's rehab from two foot fractures and his recent production.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "0b9f0322e6c60bff": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full article previews Saturday's WSU-San Diego State football matchup, covering recent form on both sides.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "KellerRay Hutsell Zandell"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "0cb06fcdc737bb80": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The full text covers campus wellness and academic-support resources with no athletics content.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Michaela Bauer"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "11189fb85cdcbfb8": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is a feature on WSU tight end Trey Leckner's injury comeback and his role in the Cougars' passing offense.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "1784a15d48e1f57a": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews the Fresno State-Oregon State football matchup through three key players on each roster.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "1895fb08e8f58a08": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about",
+        "colorado-state/womens-volleyball": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Fresno State's volleyball program is the subject of a themed-night preview of its upcoming home match against Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ashley Mills"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "19a32271663b4450": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The title raises an injury question ahead of Oregon State's football game against Fresno State.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Fresno State appears only in the title, not the summary, so treating it as involves rather than a mere mention is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "19c2e9ee2310e816": {
+      "subjects": {
+        "texas-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Texas State women's basketball's exhibition win over UTRGV.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Luke Landa"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "1efcd9f973b5f036": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Hawai’i",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece traces June Jones's coaching legacy through Hawai’i and other programs outside the nine schools, with Boise State and Texas State appearing only as passing names in lists.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "6 min read",
+      "lock": "free",
+      "run": "run_2026-11-01-0149"
+    },
+    "1f0f26af13cc32c9": {
+      "subjects": {
+        "washington-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece covers the unveiling of a statue honoring WSU baseball alum John Olerud at Bailey-Brayton Field.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "2003651665fce103": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about",
+        "san-diego-state/mens-basketball": "about",
+        "utah-state/mens-basketball": "about",
+        "colorado-state/mens-basketball": "about",
+        "boise-state/mens-basketball": "about",
+        "fresno-state/mens-basketball": "about",
+        "oregon-state/mens-basketball": "about",
+        "washington-state/mens-basketball": "about",
+        "texas-state/mens-basketball": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The rankings individually assess all nine schools' men's basketball teams ahead of the season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "2771b560ff935311": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The two-minute drill lays out keys to victory for both WSU and San Diego State ahead of Saturday's game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "28844f14065c6923": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Every player ranked plays for a Mountain West school, none of which are among the nine covered programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "30c928391acd6c65": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about",
+        "san-diego-state/womens-basketball": "about",
+        "oregon-state/womens-basketball": "about",
+        "colorado-state/womens-basketball": "about",
+        "washington-state/womens-basketball": "about",
+        "boise-state/womens-basketball": "about",
+        "fresno-state/womens-basketball": "about",
+        "texas-state/womens-basketball": "about",
+        "utah-state/womens-basketball": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Every women's basketball program in the conference receives an individual predicted-finish writeup with specific roster detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "3326375d9b3750e0": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The analysis argues WSU's football defense is generating pressure and turnover chances that its 1-7 record obscures.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "33cc801d3fb8b335": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary gives a basketball preseason prediction for Oregon State without stating which team's gender.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "3407861a16e969ee": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text profiles four international newcomers joining San Diego State men's basketball this season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Samuel Cozart"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "36f6f86e934fafca": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews Washington State men's basketball's rebuilt roster ahead of the season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "3a5b660860cb4d94": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The report covers Gonzaga wing Chauncey Wiggins's shift between eligibility lawsuits ahead of the season opener.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "3ab1acd751623ae9": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Every team ranked is a Mountain West school and none of the nine covered programs appears.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "3b3845b06fa8664d": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The Hotline's national weekly picks column gives dedicated analysis and a prediction to several Pac-12-covered matchups alongside many non-conference games.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Six of the nine covered schools appear, which could call for adding the conference key, but the column is a national roundup rather than a Pac-12 slate, so I left it out.",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "3b8c685933ffc707": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text is a live-update recap of the Washington State-San Diego State football game.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Both teams receive equal, substantive treatment in this head-to-head recap, so marking both as about rather than one as involves is a close call.",
+      "unrecognized": [],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "44bb0c241bdd3808": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece traces Fresno State football's blackout-uniform history and frames it around the upcoming Halloween game against Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "4b80e081e176613b": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about",
+        "utah-state/mens-basketball": "about",
+        "san-diego-state/mens-basketball": "about",
+        "oregon-state/mens-basketball": "about",
+        "colorado-state/mens-basketball": "about",
+        "boise-state/mens-basketball": "about",
+        "texas-state/mens-basketball": "about",
+        "washington-state/mens-basketball": "about",
+        "fresno-state/mens-basketball": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Every men's basketball program in the conference gets a genuine roster-and-outlook writeup in this league-wide season preview.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "9 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "4ca1b43379e15fcd": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about",
+        "washington-state/mens-basketball": "involves",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports Gonzaga's unanimous preseason poll selection and includes a conference-wide predicted order of finish and all-conference honorees.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Washington State gets a short but specific performance mention while the remaining seven schools appear only as a bare list, making the conference tag a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "532bc0a7baf42611": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story concerns a high school coach's license revocation, not Oregon State's athletics.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Nik Streng"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "5361a2858e1d5263": {
+      "subjects": {
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The article is centered on the newly unveiled Pac-12 conference trophy and ranks it against other conferences' trophies.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "552378bf77c6c368": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The essay is a tribute to former Boise State quarterback Kellen Moore's career and legacy.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "555e151bf8e19e65": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The analysis examines WSU football's dropped interceptions and missed sacks behind its 1-7 record.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "59741661560e8f06": {
+      "subjects": {
+        "texas-state/womens-soccer": "about",
+        "boise-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Texas State's senior-night soccer loss to Boise State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cooper Yarbough"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "5a12df4c8ac6819e": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The full text is a weekly roundup of former Washington State football players' NFL performances.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "5ba989c77a5fd92e": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary reports Oregon State's offensive line returning to full strength for its game at Fresno State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "5dc2e0209be386fa": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews WSU women's basketball's season through senior Mackenzie Chatfield and the returning starters.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "5df670276774c768": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "intramural sports",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The full text describes SDSU's recreational intramural leagues, not its varsity athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tyler Ross"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "66485360a7065f72": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about",
+        "gonzaga/womens-basketball": "involves",
+        "san-diego-state/womens-basketball": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary ranks Oregon State, Gonzaga, and San Diego State in the preseason women's basketball poll.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "6bc7e803bc992bf3": {
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The recap covers WSU's club-level Division II hockey team sweeping Montana Tech, and hockey is not listed among washington-state's covered programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "subjects": {},
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "6feb2b4de37553f6": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story recaps Gonzaga women's basketball's completed exhibition win over Westmont, highlighting individual players.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "75340ade7b852d87": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Every matchup previewed involves only Mountain West or other non-covered schools, with none of the nine Pac-12 programs appearing.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "7e1029d7ab45f764": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Rocktober climbing competition",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Rocktober is a Rec Center climbing competition open to students of any experience level, not a program listed in Boise State's row.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Climbing is described as a competitive, judged event rather than clearly intramural, though it is not among Boise State's listed programs.",
+      "byline": [
+        "Phoenix Willard"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "7e78de4220f3643f": {
+      "subjects": {
+        "fresno-state": "about",
+        "fresno-state/football": "involves",
+        "fresno-state/mens-basketball": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A labeled opinion column argues Fresno State athletics as a whole has not converted fan passion into support across its programs, devoting real space to football and basketball specifically.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "85735d120db02320": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story reports Gonzaga center Massamba Diop's preseason watch-list selection and his statistical background.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "869658aa6c60097e": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature examines Gonzaga women's basketball's recruiting philosophy and roster retention under new eligibility rules.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "879adf10456a9b7c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Northwestern State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story's subject throughout is Northwestern State's FCS losing streak, and no covered school is named.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "5 min read",
+      "lock": "free",
+      "run": "run_2026-11-01-0149"
+    },
+    "8860f24b86728488": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews Washington State men's basketball's roster turnover entering the new Pac-12.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "93e8aae031d2f036": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story breaks down Gonzaga's rotation and scoring balance in its completed exhibition win over Lewis-Clark State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "9626c811d6313692": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "boise-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Texas State volleyball's sixth straight loss, this one to Boise State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Carisa Arellano"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "97917be19eadf9d0": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews WSU women's basketball's 2026-27 season built around a mostly-returning roster.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "9cef98cc566600bf": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text profiles San Diego State's new guards ahead of their first Pac-12 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jason Testa"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "9e8cb968f85443aa": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Fresno State Rugby",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The profile covers Ricardo Madrigal's leadership of Fresno State's rugby team, which the piece repeatedly describes as a club sport.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Alexis Pena"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "9f121838d16351f1": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Gonzaga women's basketball's returning roster and depth ahead of its first Pac-12 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "a08df47fb9bf7820": {
+      "subjects": {
+        "oregon-state": "about",
+        "fresno-state": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary frames this as scouting insight on Fresno State ahead of its game with Oregon State, without stating the sport.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "No sport is named in the title or summary, so only department-level keys can be assigned with confidence.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "a0febeccbafece63": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews Texas State men's basketball's retooled roster ahead of its first Pac-12 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryan Keilman"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "a2b310b827e24e6b": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about",
+        "colorado-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The recap covers Fresno State volleyball's three-set loss to Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "a3744f0eeea40584": {
+      "subjects": {
+        "san-diego-state/volleyball": "about",
+        "boise-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps San Diego State's straight-set volleyball loss to Boise State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Joel Gaitan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "a6a793b5e903b262": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is a feature on Gonzaga forward Braden Huff's rehabilitation and return to the team.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "14 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "a7b592b5550d9fe7": {
+      "subjects": {
+        "oregon-state": "about",
+        "fresno-state": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a how-to-watch piece for an Oregon State-Fresno State game, though neither names the sport.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "No sport is named in the title or summary, so only department-level keys can be assigned with confidence.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "ac1ce720e87cca8b": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Saturday's Boise State-Texas State football matchup, including players, trends and a final score prediction.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "b4d651a612e7f872": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece reports on Boise State's press conference and event honoring former quarterback Kellen Moore.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "bb4492d420d86553": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The preview sets up the Fresno State-Oregon State matchup around the individual battle between cornerback Kiontre Harris and receiver Jesse Legree.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "c6717ba3873d2c43": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column discusses Boise State coach Spencer Danielson's decision to stay and Oregon State receiver Jesse Legree's commitment at length.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "4 min read",
+      "lock": "free",
+      "run": "run_2026-11-01-0149"
+    },
+    "c88ff995dd7f4526": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Each matchup previewed features one of the covered football programs, with eight of the nine schools appearing.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "c9c7770de342fa73": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Gonzaga reserve Izan Almansa's and the bench's contributions in the completed exhibition rout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "d08db6c2c9f1c995": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Fresno State Pickleball Club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The article describes the Fresno State Pickleball Club, an on-campus student club open to the community rather than a varsity program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Summer Miller"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "d0ee2a1323f0297d": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Saturday's Fresno State-Oregon State football game, covering both teams' records and top players.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "d52faa0472f37ba2": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary reports an Oregon State receiver's availability status for the game against Fresno State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "d8b36b131693b805": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "utah-state/football": "involves",
+        "gonzaga/mens-basketball": "about",
+        "washington-state/football": "involves",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The roundup specifically flags Pac-12 items naming Colorado State, Utah State and Gonzaga, plus the Washington State-San Diego State matchup named in the title.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The Washington State/San Diego State item is identified mainly by the piece's title, since the one-line body teaser for it names no team.",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "da0a69ecb35ccadd": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews what WSU's offense must do against SDSU's defense to get the Cougars' first FBS win.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "dcac64e35b8f8e56": {
+      "subjects": {
+        "texas-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The full text previews Texas State women's basketball under a new coach entering the Pac-12.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jackson Grettler"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "dcca2dd2e19b6c29": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is a fan poll about the national playoff-format debate and never ties the discussion to any of the nine covered schools specifically.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "dcdf64dbb1fcb2b6": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary reports a 2028 outfielder's commitment to Oregon State baseball.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "dd0e4fb03d5011b5": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps San Diego State men's basketball's exhibition win over Long Beach State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Samuel Cozart"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "dd147b254569f2f3": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece is a full-season record prediction for Fresno State men's basketball, with each conference opponent reduced to a single-clause predicted result.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "dfbd35d869fd837a": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about",
+        "oregon-state/mens-basketball": "about",
+        "utah-state/mens-basketball": "about",
+        "san-diego-state/mens-basketball": "about",
+        "texas-state/mens-basketball": "about",
+        "colorado-state/mens-basketball": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The rankings name specific players from six of the nine covered schools' men's basketball programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "e56f516ccc06b2c5": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is entirely about Air Force's quarterback depth chart, a Mountain West program outside the nine schools this site covers.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sean OToole"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "eb9c0894d0227b15": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Spirit Squad",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The article profiles Boise State's Spirit Squad, which the piece itself notes is not recognized as an official NCAA sport.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "ecce1943dfa41d04": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The Spokesman-Review's recurring pick column argues San Diego State will beat Washington State on Saturday.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "f42629dba0ba22bd": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The report concerns a Texas court's ruling on Gonzaga wing Chauncey Wiggins's eligibility for the Bulldogs' season opener.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "fa9de271c4700434": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about",
+        "washington-state/womens-basketball": "involves",
+        "oregon-state/womens-basketball": "involves",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The notebook reports Gonzaga's preseason poll win alongside notable detail on Washington State and Oregon State's own preseason standing and honorees.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-01-0149"
+    },
+    "fd5ffb70270a545b": {
+      "subjects": {
+        "oregon-state/womens-volleyball": "about",
+        "gonzaga/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The story recaps Oregon State volleyball's five-set win over Gonzaga and its resulting streak.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-01-0149"
+    },
+    "ff05863a711ca3a1": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary covers a freshman Oregon State receiver's commitment to return, a football program story.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
+    },
+    "ff24353eeecc2039": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column argues a betting pick on Washington State football's game against San Diego State, citing the Aztecs' defensive stats.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Moore"
+      ],
+      "extent": "3 min read",
+      "lock": "free",
+      "run": "run_2026-11-01-0149"
+    },
+    "ffc9e100f8551c4b": {
+      "subjects": {
+        "oregon-state": "about",
+        "fresno-state": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The title and summary identify this as a preview of Oregon State's game against Fresno State without naming the sport.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "No sport is named in the title or summary, so only department-level keys can be assigned with confidence.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-01-0149"
     }
   },
   "runs": {
@@ -24647,6 +26089,95 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 31.900131499860436,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-01-0149": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-01T01:41:12.336642+00:00",
+      "items": 88,
+      "verdict_counts": {
+        "publish": 73,
+        "drop": 15
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "Press Break": 2,
+        "Mountain West Connection": 5,
+        "The Oregonian": 1,
+        "The Daily Aztec": 1,
+        "The Daily Evergreen": 1,
+        "The Arbiter": 2,
+        "The Collegian": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 13
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "1efcd9f973b5f036",
+          "source": "Press Break",
+          "phrase": "Hawai’i",
+          "kind": "not-ours"
+        },
+        {
+          "id": "5df670276774c768",
+          "source": "The Daily Aztec",
+          "phrase": "intramural sports",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "6bc7e803bc992bf3",
+          "source": "The Daily Evergreen",
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "7e1029d7ab45f764",
+          "source": "The Arbiter",
+          "phrase": "Rocktober climbing competition",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "879adf10456a9b7c",
+          "source": "Press Break",
+          "phrase": "Northwestern State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "9e8cb968f85443aa",
+          "source": "The Collegian",
+          "phrase": "Fresno State Rugby",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "d08db6c2c9f1c995",
+          "source": "The Collegian",
+          "phrase": "Fresno State Pickleball Club",
+          "kind": "unlisted-program"
+        },
+        {
+          "id": "e56f516ccc06b2c5",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "eb9c0894d0227b15",
+          "source": "The Arbiter",
+          "phrase": "Spirit Squad",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 151.97834510006942,
       "tokens": null,
       "tokens_source": null
     }
