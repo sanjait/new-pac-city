@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-10-31T13:03:32.610285+00:00",
+  "generated_at": "2026-11-01T01:03:13.138977+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "MWCConnection Reacts Results: Fans weigh in on College Football Playoff Expansion",
+        "link": "https://www.mwcconnection.com/college-football-playoffs/95175/college-football-playoff-expansion-conference-champions-group-6",
+        "link_kind": "item",
+        "date": "2026-10-31T13:00:00+00:00",
+        "summary": "This post is brought to you by FanDuel, a proud partner of SBNation. Fans prioritizing conference title winners. The majority of fans in this poll agree with the presumed new playoff format. Five conference champions, the four P4, and the highest-rated from the Group of 6 will get auto bids. Nearly everyone in this poll [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "dcca2dd2e19b6c29",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Carry Your Shield: How Does PAC-12’s New Trophy Stack Up Against Other Conferences?",
         "link": "https://www.mwcconnection.com/pac-12-discussion/95159/carry-your-shield-how-does-pac-12s-new-trophy-stack-up-against-other-conferences",
@@ -168,20 +182,6 @@
         "source": "Mountain West Connection",
         "id": "e56f516ccc06b2c5",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "The Jason Eck Effect: How Belief, Physical Football and a Rebuilt Roster Have Changed New Mexico",
-        "link": "https://www.mwcconnection.com/new-mexico-lobos-football/95026/the-jason-eck-effect-how-belief-physical-football-and-a-rebuilt-roster-have-changed-new-mexico",
-        "link_kind": "item",
-        "date": "2026-10-29T17:00:00+00:00",
-        "summary": "The Lobos are controlling the line of scrimmage, bringing fresh energy to Albuquerque and giving their fans real hope for the future. By Roger A. Holien &#124; Mountain West Connection Coaching football at the University of New Mexico isn&#8217;t for the faint of heart. There is a reason they have had its fair share of [&#8230;]",
-        "author": "Roger A Holien",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "df90043de330833c",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -565,11 +565,53 @@
     ],
     "Boise State": [
       {
+        "title": "Gameday Availability Report",
+        "link": "https://broncosports.com/news/2026/10/31/football-gameday-availability-report",
+        "link_kind": "item",
+        "date": "2026-11-01T01:00:00+00:00",
+        "summary": "<img alt=\"Texas State Availability Report Web\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/FB25_Availability_Report_WEB.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "efafea7b53bb2159",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "(Video) Kellen Moore Statue Unveiling Press Conference",
+        "link": "https://firstkickwasgood.com/2026/10/31/video-kellen-moore-statue-unveiling-press-conference/",
+        "link_kind": "item",
+        "date": "2026-11-01T00:32:03+00:00",
+        "summary": "(Video) Kellen Moore Statue Unveiling Press Conference Kellen Moore&#8217;s Statue will be unveiled at halftime today. We are obviously VERY excited to temporarily have the G.O.A.T. back home. Prior to the game, Mr. Moore himself met with the media to discuss the event. He was followed by Boise State athletic director, Jeramiah Dickey. Please consider [&#8230;]",
+        "author": "MichaelFKWG",
+        "duration": null,
+        "channel_url": "",
+        "source": "First Kick Was Good",
+        "id": "b4d651a612e7f872",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Welcome Home, Kellen",
+        "link": "https://firstkickwasgood.com/2026/10/31/welcome-home-kellen/",
+        "link_kind": "item",
+        "date": "2026-10-31T23:56:13+00:00",
+        "summary": "It&#8217;s been 15 years since Kellen Moore&#8217;s 45-0 thrashing of New Mexico on Senior Night, notably attended by FKWGHunter and a few (tens of) thousand others. Today, Kellen makes a grand return to the place that he molded to his own making and where the sweet memory of his prowess marks the #11 hash marks [&#8230;]",
+        "author": "HunterFKWG",
+        "duration": null,
+        "channel_url": "",
+        "source": "First Kick Was Good",
+        "id": "552378bf77c6c368",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Return of the Jedi: Boise State vs. Texas State Game Preview",
         "link": "https://firstkickwasgood.com/2026/10/30/return-of-the-jedi-boise-state-vs-texas-state-game-preview/",
         "link_kind": "item",
         "date": "2026-10-31T05:45:07+00:00",
-        "summary": "Happy Kellen Moore Statue Day to all who celebrate! (It should be a mandatory holiday, absolutely no exceptions). Let&#8217;s get you up to speed. Game Facts Other facts 1. He&#8217;s Baaaaaaaack Build him a statute! A second statue? The man himself will be in town, and interestingly enough, not the first time that former Tulsa QB [&#8230;]",
+        "summary": "Happy Kellen Moore Statue Day to all who celebrate! (It should be a mandatory holiday, absolutely no exceptions). Let&#8217;s get you up to speed. Game Facts Other facts 1.&#160;He&#8217;s Baaaaaaaack Build him a statue! A second statue? The man himself will be in town, and interestingly enough, not the first time that former Tulsa QB [&#8230;]",
         "author": "HunterFKWG",
         "duration": null,
         "channel_url": "",
@@ -889,20 +931,6 @@
         "medium": "text"
       },
       {
-        "title": "Gameday Availability Report",
-        "link": "https://broncosports.com/news/2026/10/24/football-gameday-availability-report",
-        "link_kind": "item",
-        "date": "2026-10-24T21:00:00+00:00",
-        "summary": "<img alt=\"Washington State \" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/21/Washington_State.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "9b58238d95c1c029",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "The Snake River Rivalry: Boise State @ Washington State Game Preview",
         "link": "https://firstkickwasgood.com/2026/10/24/the-snake-river-rivalry-boise-state-washington-state-game-preview/",
         "link_kind": "item",
@@ -1187,34 +1215,6 @@
         "medium": "text"
       },
       {
-        "title": "(Video) Post Utah State Press Conference With QB Madsen, LB Ripp, and Coach Danielson",
-        "link": "https://firstkickwasgood.com/2026/10/03/video-post-utah-state-press-conference-with-qb-madsen-lb-ripp-and-coach-danielson/",
-        "link_kind": "item",
-        "date": "2026-10-04T04:12:47+00:00",
-        "summary": "(Video) Post Utah State Press Conference With QB Madsen, LB Ripp, and Coach Danielson Following Boise State&#8217;s first win in PAC 12 play, the Boise Sports media got a chance to talk to a few of the guys that made it happen Please consider selecting one of the&#160;monthly&#160;or&#160;yearly&#160;gift donation options (from the three below) to [&#8230;]",
-        "author": "MichaelFKWG",
-        "duration": null,
-        "channel_url": "",
-        "source": "First Kick Was Good",
-        "id": "633faa9473e9a921",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State VS Utah State Gamethread",
-        "link": "https://firstkickwasgood.com/2026/10/03/boise-state-vs-utah-state-gamethread-2/",
-        "link_kind": "item",
-        "date": "2026-10-03T23:15:45+00:00",
-        "summary": "As Boise State returns home to take on the battle cattle of Utah State today, please enjoy this Boise State VS Utah State Gamethread with all your friends here at FKWG. Have thoughts? Keep them clean (for the kids), but make them known in the comments! Please consider selecting one of the monthly or yearly [&#8230;]",
-        "author": "MichaelFKWG",
-        "duration": null,
-        "channel_url": "",
-        "source": "First Kick Was Good",
-        "id": "f9354f3807866504",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Women's Basketball Unveils Pac-12 Schedule",
         "link": "https://broncosports.com/news/2026/10/2/womens-basketball-womens-basketball-unveils-pac-12-schedule",
         "link_kind": "item",
@@ -1290,6 +1290,34 @@
       }
     ],
     "Colorado State": [
+      {
+        "title": "Rams Drop Road Game to Aggies",
+        "link": "https://csurams.com/news/2026/10/31/football-rams-drop-road-game-to-aggies",
+        "link_kind": "item",
+        "date": "2026-11-01T00:40:00+00:00",
+        "summary": "<img alt=\"Cedric Ross\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/31/USU_ross.jpg\" /><br /><br />CSU offense held to season-low total offense",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "35bf3b7011255957",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Game Day: at Utah State",
+        "link": "https://csurams.com/news/2026/10/31/football-game-day-at-utah-state",
+        "link_kind": "item",
+        "date": "2026-10-31T15:36:00+00:00",
+        "summary": "<img alt=\"Game Day Utah State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/31/gameday-_utst_16x9.jpg\" /><br /><br />The Rams face the Aggies in Logan for Halloween.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "33154e888f0f8c37",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Setting the Stage: Explosive Through the Changes",
         "link": "https://csurams.com/news/2026/10/30/football-setting-the-stage-explosive-through-the-changes",
@@ -1529,34 +1557,6 @@
         "source": "Colorado State Athletics",
         "id": "eb18b8ab44447b52",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Rams Snap Skid with First Pac-12 Win",
-        "link": "https://csurams.com/news/2026/10/24/football-rams-snap-skid-with-first-pac-12-win",
-        "link_kind": "item",
-        "date": "2026-10-25T04:57:00+00:00",
-        "summary": "<img alt=\"Tre'Shawn Moore\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/Moore_TD.jpg\" /><br /><br />Moore pick-six flips momentum in game",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "fa2a2a4d8c82dacd",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Game Day: vs. San Diego State",
-        "link": "https://csurams.com/news/2026/10/24/football-game-day-vs-san-diego-state",
-        "link_kind": "item",
-        "date": "2026-10-24T16:04:00+00:00",
-        "summary": "<img alt=\"Game Day vs. SDSU\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/gameday-_sdsu16x9.jpg\" /><br /><br />Colorado State hosts San Diego State.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "289e630bd7460ca5",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -1866,24 +1866,23 @@
         "id": "8ebf096e7d2e4353",
         "sport": "wbb",
         "medium": "text"
-      },
-      {
-        "title": "Is 2-0 CSU for real? We find out as No. 11 BYU visits Canvas",
-        "link": "https://bleav.com/shows/ramnation-radio/episodes/is-2-0-csu-for-real-we-find-out-as-no-11-byu-visits-canvas/",
-        "link_kind": "item",
-        "date": "2026-09-16T23:20:00+00:00",
-        "summary": "<p>CSU is 2-0, scoring points in bunches and suddenly giving Rams fans plenty of reasons to believe. But now comes the real test. Joel and Mike recap a 58-24 rout of Southern Utah that featured 678 yards of offense, another five-touchdown performance from Hauss Hejny and four more takeaways from an increasingly opportunistic defense. They discuss CSU’s explosive new offense, Mel Brown’s huge night, the team-first culture taking shape under Jim Mora and some defensive concerns that need to be fixed quickly. Then it’s on to the biggest test yet: No. 11 BYU comes to a packed Canvas Stadium for a nationally televised showdown on CBS. The guys break down the matchup, what CSU must do to pull the upset, and what a signature win could mean for the trajectory of the Mora era. Why not the Rams?!</p>\n<p>This RamNation Radio episode is brought to you by <a href=\"https://bit.ly/38QRcaN\">Pedersen Toyota</a>, your Local Toyota Dealer Serving Fort Collins, Loveland, Windsor and Timnath for more than 50 years. It is also made possible by <a href=\"https://bit.ly/3kBuSnX\">Ginger and Baker</a> — our favorite restaurant(s) in all of Fort Collins, and <a href=\"https://bit.ly/3syDFAy\">Ram Zone (powered by the CSU Bookstore)</a> — the best place to get all your Ram gear.</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
-        "author": "info@milehighsports.com (Mile High Sports)",
-        "duration": 3297,
-        "channel_url": "",
-        "source": "RamNation Radio",
-        "id": "c9006a1343e47de3",
-        "extent": "55 min",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Fresno State": [
+      {
+        "title": "More than a captain: Ricardo Madrigal’s impact reaches beyond Fresno State Rugby",
+        "link": "https://fscollegian.com/2026/10/more-than-a-captain-ricardo-madrigals-impact-reaches-beyond-fresno-state-rugby/",
+        "link_kind": "item",
+        "date": "2026-10-31T16:00:45+00:00",
+        "summary": "“Once I picked up a rugby ball, I never looked back,” Madrigal said. Picture this. It was a rainy weekend. A local men&#8217;s team welcomed the club to play after Fresno State’s field became an unplayable mud pit. Fresno State was playing against Chico State. During the game Madrigal called out what the team knows...",
+        "author": "Alexis Pena, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "9e8cb968f85443aa",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Bulldogs show skills in exhibition",
         "link": "https://gobulldogs.com/news/2026/10/30/womens-basketball-bulldogs-show-skills-in-exhibition",
@@ -2630,34 +2629,6 @@
         "medium": "text"
       },
       {
-        "title": "Leaupepetele brothers will be on opposite sides Saturday in Pullman",
-        "link": "https://www.yourcentralvalley.com/sports/leaupepetele-brothers-will-be-on-opposite-sides-saturday-in-pullman/",
-        "link_kind": "item",
-        "date": "2026-10-02T07:08:41+00:00",
-        "summary": "(KSEE/KGPE) - If younger brother Jonah, an offensive lineman for Fresno State, is healthy enough to play, he will see a familiar face across the line of scrimmage Saturday night in Pullman, older brother Jirah, a defensive lineman for Washington State.",
-        "author": "Scott Bemis",
-        "duration": null,
-        "channel_url": "",
-        "source": "YourCentralValley",
-        "id": "d5e965538bcb3825",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Bulldog RB Gillick excited to 'show out' back in home state",
-        "link": "https://www.yourcentralvalley.com/sports/bulldog-rb-gillick-excited-to-show-out-back-in-home-state/",
-        "link_kind": "item",
-        "date": "2026-10-02T07:06:05+00:00",
-        "summary": "(KSEE/KGPE) - Hear why Saturday's Fresno State football game at Washington State will provide a little extra motivation for redshirt freshman running back Julius Gillick, and what made his first college touchdown last Saturday against Rice extra special.",
-        "author": "Scott Bemis",
-        "duration": null,
-        "channel_url": "",
-        "source": "YourCentralValley",
-        "id": "422f52ddb3290757",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Fresno State Heads to Washington State",
         "link": "https://redwavereport.podbean.com/e/fresno-state-heads-to-washington-state/",
         "link_kind": "item",
@@ -2761,6 +2732,20 @@
       }
     ],
     "Gonzaga": [
+      {
+        "title": "On BFR, self-belief and the road back to basketball for Gonzaga's Braden Huff: 'He was disciplined'",
+        "link": "http://www.spokesman.com/stories/2026/oct/31/on-bfr-self-belief-and-the-road-back-to-basketball/",
+        "link_kind": "item",
+        "date": "2026-10-31T00:00:00+00:00",
+        "summary": "<p>Before returning to Spokane in August, Braden Huff swung by Achieve Orthopedic Rehab Institute in the Chicago area to drop off a handwritten letter and photograph for Brandi Hosford. He wanted to extend gratitude and appreciation to the physical therapist who logged hundreds of hours working to get the Gonzaga forward back on the court after dislocating his left kneecap.</p><p>It was a high-character move that wasn’t necessarily of character for the easygoing, even-mannered Huff. He signed his name at the bottom of the letter and attached a photo of him and Hosford, who volunteered at the annual basketball camp Huff puts on every summer in his hometown to support a local food pantry.</p><p>Not that Hosford would’ve had any trouble identifying where, or who, the letter came from.</p><p>“It said he was really thankful for rehab and that BFR sucks, but it works really well,” Hosford said earlier this week. “The response that was on it is definitely, totally Braden. “</p><p>BFR, or Blood Flow Restriction, is the specialized rehabilitation technique Hosford used to aid and accelerate Huff’s return to the court. It’s impossible to recap Huff’s rehab journey without at least one mention of the three-letter acronym, as long as the forward isn’t within earshot when you do.</p><p>“You kind of wrap it around your upper thigh and it restricts your blood flow and it feels like you’re lifting super heavy weights when you’re doing lighter and it was no fun,” Huff said. “That was probably my least favorite.”</p><p>“I would be shocked if that didn’t come up,” father Alec Huff said. “He didn’t like that whatsoever.”</p><p>“I knew Braden was going to say that,” Hosford said. “I think he’s got a love/hate relationship with it, right? He loves to hate it, but hates that he loves it.”</p><p>There’s less confusion about Huff’s feelings toward the game that was promptly taken from him in January, when a routine practice play turned into a freak accident, ending an All-American-caliber season 17 games short of the finish line and hurling the forward into an eight-month rehab assignment.</p><p>“You go from kind of 100 to zero,” Huff said.</p><p>The forward’s slow, steady climb back to 100 began the next day. First, the knee surgery. Then the daily physical therapy sessions and dreaded encounters with Blood Flow Restriction. Huff wasn’t able to move on his left leg for a few months but once he ditched his crutches, stationary shooting workouts followed shortly thereafter. Huff made 100 free throws every day with assistant Brian Michaelson before moving to the next phase of his recovery plan.</p><p>“We’ve all spent a lot of time with him and know him and who he is at his core really well,” Michaelson said. “From the minute he went down, it was exactly how we all envisioned him attacking his rehab. He had a great spirit to him, he was disciplined, he was patient.”</p><p>Best of all, he’s been hardened by the adversity.</p><!--[photo id=909575]--><h3>Hard decisions</h3><p>Alec and Stacey Huff got the phone call on the afternoon of Jan. 15. They were making a long, familiar haul from Chicago to Spokane for a game at Washington State the following day. The Huffs don’t have the advantage of proximity residing in the Midwest, but they travel to every major nonconference game and hit a variety of others throughout the year. It’s a running joke that Stacey is the family’s unofficial “travel agent.”</p><p>But the Huffs put future plans on ice when their son called the day before WSU. He didn’t want to alarm them, but there’d been an incident at practice. Gonzaga didn’t have an official diagnosis, but the forward couldn’t bear weight on his left leg and things weren’t looking good for the following day in Pullman, let alone the weeks or months to come.</p><p>“He never wants us to worry too much, so when he called us &#8230; he didn’t really maybe let on to the severity of it initially, but it became pretty clear pretty fast,” Alec said.</p><p>The Zags scaled back the intensity in their final practice before a key West Coast Conference rivalry game in Pullman. Huff was playing post-position defense when he took a normal step and immediately noticed an abnormal sensation in his knee.</p><p>It was a move he’d performed hundreds if not thousands of times in practices and games earlier in the season. He’d taken bigger physical gambles in higher-stakes environments with no repercussions. He brawled with Michigan’s lottery-pick littered frontcourt and hardly emerged with a scratch.</p><p>So how could a non-descript, non-contact play during a glorified walkthrough be what suspended a magnificent junior season?</p><p>“A lot of times a non-contact ACL or some of these non-contact things that happen without any outside forces sometimes, I describe it as like a neural mistime,” head Gonzaga athletic trainer Josh Therrien said. “When you’re walking down the stairs and you think there’s one more and your body’s expecting something and there’s actually not, so you nearly fall. The nervous system is prepared for something to happen and there’s sort of this mistime that happens.”</p><p>When the injury occurred, Huff was leading the country in 2-point field goal efficiency (72.2%) and total field goals made (145). A month earlier, he’d registered a career-high 37 points against Campbell – a clinic in scoring efficiency that saw the forward finish 16 of 18 from the field.</p><p>Postseason all-conference honors were the bare minimum for someone averaging 17.8 points and only gaining steam in WCC play. Huff was squarely in the mix for the WCC Most Outstanding Player honor that ultimately went to close friend and teammate Graham Ike. All-American honors wouldn’t have been a stretch.</p><p>Gonzaga provided a timeline of four to eight weeks, cautiously clinging to hope Huff would be available in some capacity for meaningful games in March. The Zags probably wouldn’t get the version of Huff that dizzied defenders with spin moves, converted floaters at an automatic clip and hit opponents with hook shot after hook shot. But maybe he could provide one quality shift each half. Force NCAA Tournament opponents to consider him in pregame scouting reports. Supply just one of those patented floaters to help the Zags through a cold offensive stretch.</p><p>“Any sports medicine mentors of mine have said never say never, never say always,” said Therrien, who stayed in constant communication with Huff, his parents, agent and GU’s coaches to discuss the best course of action.</p><p>The cloudy conversations became more straightforward when Texas clipped Gonzaga in the NCAA’s Round of 32, giving Huff a clear runway to recover and zero pressure to test his knee anytime soon.</p><p>“I think after that,” Huff said, “there was obviously no rush because there was no more games until this weekend.”</p><!--[photo id=915560]--><h3>Getting behind BFR</h3><p>Therrien worked with Huff’s family to facilitate medical treatment in the Chicago area, allowing the forward to work with a nationally-renowned orthopedic surgeon and recover in the quiet comfort of his Glen Ellyn, Ill., home.</p><p>Huff’s operation was done by Dr. Brian Cole, the head team physician for the NBA’s Chicago Bulls, a managing partner of Midwest Orthopaedics at Rush University Medical Center and potentially one of only a handful of orthopedic surgeons in the country with his own Wikipedia page.</p><p>“We’ve had a previous history and relationship with the surgeon he did see, it just happened to be near his hometown,” Therrien said. “If he was Florida, we probably still would refer to the surgeon we did.”</p><p>Cole had a working relationship with Hosford, who previously knew Huff through her other venture, a training company called Athlete Advantage Performance Labs. Post-surgery, Hosford took the reins on Huff’s rehabilitation, seeing him four times per week, anywhere from two to three hours per day.</p><p>Huff’s anxiety level driving to visits with Hosford varied day to day. Twice a week, she had the Gonzaga forward hooked up to a BFR cuff – which was wrapped around his lower thigh, just above the targeted knee area – from anywhere between 20-45 minutes, with varied rest between sets.</p><p>Medical journals trace the earliest uses of the technique to Japan in the 1960s. The cuff acts like a tourniquet to reduce, or occlude, blood flow to certain parts of the body, promoting muscular growth and cardiovascular function.</p><p>“So essentially you’re simulating an environment of max effort,” Hosford said. “I ran track in college, so at the end of running an all-out 400-meter dash where you’re crossing the finish line and your legs feel so locked you can’t move, the BFR essentially creates that same environment but you can just use bodyweight or really light weights. So it’s great because you’re kind of tricking the body into thinking it’s maxing out without actually needing to.”</p><p>Early on, Hosford ran Huff through a variety of basic exercises with the application of BFR: long arc quads, straight leg raises, bridges, step ups, etc. It eventually progressed to standard weight-room movements like split squats, back squat, step-ups, calf raises, machine-based exercises, knee extensions and hamstring curls.</p><p>Then there were the energy-draining cardio sessions. BFR can be beneficial under VO2 max, a marker that measures volume of oxygen consumed during exercise, so Huff would routinely strap on the cuff before treadmill work, biking segments or sled push/pull workouts.</p><p>“It’s kind of a cheat code where you can you can maintain your body without overworking it between playing games,” Hosford said.</p><p>Late in the summer, Hosford she had news that would perk her client up. Huff was done with the BFR portion of his summer rehab stint&#8230;after one more set of knee extensions. The issue? Huff was adamant he’d completed all four sets. In disbelief, he looked at his dad, looked at another strength coach and then back at Hosford.</p><p>“He goes ‘No, she’s lying,’” Hosford recalled. “I was like ‘No, you have one more set. We always have four sets.’ And he goes, ‘Are there cameras? Where are the facility cameras? I need to pull, we need to see. I’ve already done four sets.’”</p><p>Two weeks later, Huff and Hosford revisited the scene at his summer camp.</p><p>“He’s like, ‘No take me through the whole series of events of how we got there and how you think I missed a set,’” Hosford said, adding that Huff eventually conceded but not before another hard-fought debate.</p><!--[photo id=933722]--><h3><span class=\"print_trim\">No-lose proposition</span><br/><br/></h3><p><span class=\"print_trim\">Huff’s gentle, unassuming personality clashes with a competitive gene likely passed down from his parents.</span></p><p><span class=\"print_trim\">Six years ago during the COVID-19 lockdown, Alec suggested the family get fresh air and go out to the driveway for pickup hoops. Older sister Taylor had grown less inclined to take part in those outings because of the growing skill and height gap between Braden and everyone else in the family. But, provided trash talk stay at a minimum, she was in.</span></p><p><span class=\"print_trim\">Alec proposed a rule: the first to jaw at another family member had to sprint to the end of the driveway and back. He was also the first to break, taking Braden to the hole on an early out of bounds play and subsequently letting his DI-bound son have an earful.</span></p><p><span class=\"print_trim\">“I realize I’m the issue,” Alec said. “So I start sprinting up and down the driveway.”</span></p><p><span class=\"print_trim\">Pickleball, card games, basketball, board games. It’s all the same. Huff doesn’t take loss kindly and doesn’t let go of things easily. During one family trip, Stacey tried to bend the rules in a Monopoly game, suggesting she and another player go in on a property together, enraging her son in the process.</span></p><p><span class=\"print_trim\">“Braden just totally had a fit and gave up, like you can’t do that, you’re cheating,” Alec said. “That’s kind of the way it works in our house. &#8230; That’s just who he is at his core.”</span></p><p><span class=\"print_trim\">So one can only imagine what the family couch looked like on Feb. 4.</span></p><p><span class=\"print_trim\">Gonzaga was at Portland in what most expected would be a WCC walkover. Huff was still in Illinois, watching in the living room with his parents – an experience that was admittedly unusual for all parties. The Pilots raced out to an early lead and pulled off the miracle of miracles, hanging on for an 87-80 win.</span></p><p><span class=\"print_trim\">“He didn’t like watching that one at all,” Alec recalled. “He’s certainly not yelling at his guys, he’s almost just befuddled, like what’s going on here?”</span></p><!--[photo id=936124]--><h3>The final act</h3><p>Progress reports on Huff post-rehab indicate there’s been little to no drop-off in the smooth lefty’s game.</p><p>“B-Huff, when I first came here and watched him work out, probably saw him miss one floater the whole workout,” Gonzaga guard and Houston transfer Isiah Harwell said. “That was crazy to watch.”</p><p>In the category of things even crazier? How Huff held up through low-post duels with a three-time NBA All-Star late in the offseason. Domantas Sabonis, the NBA’s leader in rebounding average (16.2 rpg), dropped by Gonzaga’s facilities to get a few final offseason workouts in and visit with former college coaches before returning to the Sacramento Kings.</p><p>“Not saying I was going crazy, but playing against him, competing against him, I feel like holding my own just felt great,” said Huff, noting Sabonis was also coming off a rehab assignment from his own knee injury. “I think that felt good for my confidence knowing this is a guy who plays at the highest level obviously &#8230; being able to compete against a guy like that and hold my own, feel good about it, I think was good for my confidence.”</p><p>It was an accurate characterization, too.</p><p>“B-Huff did his thing,” teammate Davis Fogle verified.</p><p>There’s no evidence to suggest Huff has skipped a beat on the court – 19 points and 11 rebounds against an athletic Arkansas frontcourt would support the exact opposite – and those around the program believe he’s in the best physical shape he’s been in since arriving in 2022 as a tall, gangly freshman.</p><p>“His leg strength I think is the best it’s ever been and obviously coming back from a leg injury, that’s so important,” assistant coach Brian Michaelson said. “But the way he’s moving, his leg strength, the balance between his legs both being similar in size, similar in strength, those were the things that were really important as he came back from this.”</p><p>Apparent upper-body gains have raised eyebrows, too. During Kraziness in the Kennel, ESPN analyst and event emcee Sean Farnham inquired about practice photos that surfaced last month depicting the forward’s biceps and shoulders as more chiseled than usual. Humbly, Huff tried to cast the images off as “AI.”</p><p>Not entirely true.</p><p>Partial credit goes to Stacey, who kept her son fueled with heaping meal portions during his time in Illinois. Steak, chicken piccata, chicken and biscuits and tuna were all on the menu.</p><p>“It was kind of crazy,” Alec said. “He would go either here or to train downtown and come back and his mother would have like a full dinner for him at noon.”</p><p>But Huff has also made serious strides with strength coach Travis Knight, revealing five years ago he could barely do one weighted pull-up on a resistance-based machine Gonzaga players use. The forward easily knocks out five to seven at a time now, usually performing four or five sets per session.</p><p>“Those got a lot easier,” Huff said. “It’s cool to recall on that growth and see the changes over time.”</p><p>There’s been growth in other areas, too. The once-timid Huff has emerged from his shell to become Gonzaga’s vocal leader, inheriting a key role on a team that has just two returning contributors.</p><p>“I think his body’s matured, definitely matured and he’s got that kind of senior confidence about him,” Gonzaga coach Mark Few said. “He understands he’s got to be more assertive and more vocal.”</p><p>Huff’s next act will be his final one in a Gonzaga jersey. Notably, he received zero preseason AP All-American votes despite posting a better 2025-26 scoring average than 17 of the 24 players who collected at least one vote and a better field goal percentage than all of them.</p><p>That didn’t go unnoticed.</p><p>“All that stuff, you kind of take note of,” Huff said. “Everybody kind of sees all that stuff, whether they admit to it or not.”</p><p>The last 10 months have felt more like 10 years, but Huff now sits roughly 24 hours from his long-awaited return, a 4:30 p.m. tipoff against Purdue at T-Mobile Arena in Las Vegas that should induce a variety of feelings and emotions from the family members, friends, high school coaches and Braden Huff Basketball Camp counselors planning to turn out.</p><p>“For sure it will be emotional,” Alec Huff said. “He’s worked his tail off to get back and the last year was really tough for him. I think he was devastated when that injury happened. &#8230; I guess all of that wraps into yeah, it’ll probably be a little emotional for us but in a good way.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "a6a793b5e903b262",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Pac-12 preview: New-look conference should provide stiff challenges, hostile road arenas",
         "link": "http://www.spokesman.com/stories/2026/oct/31/pac-12-preview-new-look-conference-should-provide-/",
@@ -3412,20 +3397,6 @@
         "source": "Gonzaga Athletics",
         "id": "0e0f128620f802af",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Ohio Supreme Court decision temporarily reinstates eligibility for Gonzaga's Javon Bennett",
-        "link": "http://www.spokesman.com/stories/2026/oct/14/ohio-supreme-court-decision-temporarily-reinstates/",
-        "link_kind": "item",
-        "date": "2026-10-14T00:00:00+00:00",
-        "summary": "<p>For the first time in more than a month, Gonzaga received a piece of encouraging news on the 5-in-5 eligibility front.</p><p>Point guard Javon Bennett, a Dayton transfer trying to secure a fifth college season through the ongoing Borovicanin v. NCAA lawsuit, temporarily regained eligibility after the Ohio Supreme Court stayed a previous decision by the Ohio Court of Appeals.</p><p>For now it means Bennett, who ranked fifth in Atlantic 10 scoring last season while averaging 15.8 points, can suit up for a Gonzaga team that opens its exhibition slate on Oct. 24 against Arkansas at Bud Walton Arena.</p><p>Bennett joined a group of player plaintiffs that filed a lawsuit against the NCAA as part of Borovicanin v. NCAA. The veteran guard was cleared to play through a preliminary injunction on July 9 and subsequently committed to Gonzaga on Aug. 6.</p><p>Less than two weeks later, Bennett and the other players in Borovicanin v. NCAA encountered an obstacle when the NCAA was granted a stay in the lawsuit, temporarily reversing their eligibility until the case was resolved.</p><p>Wednesday’s decision was the latest development in the Ohio 5-in-5 suit, restoring the lower court’s injunction and making the players eligible until more information is collected.</p><p>Along with Bennett, other high-profile college basketball players impacted by the decision include Xavier’s Filip Borovicanin, Cincinnati’s MJ Collins Jr. and St. John’s Keyshawn Hall.</p><p>The stay motion comes one day after Ohio Gov. Mike DeWine signed a controversial executive order permitting colleges in the state to determine whether various 5-in-5 candidates could compete this season. The order would only impact athletes currently enrolled at Ohio institutions and therefore not apply to Bennett, who spent the last three seasons at Dayton.</p><p>With Bennett back in the fold, Gonzaga could have a full fleet of point guards available for next week’s marquee exhibition. French prospect Nathan De Sousa was recently cleared to compete for the Zags this season and fifth-year Florida transfer Xaivian Lee is currently eligible through a temporary restraining order in the state of California.</p><p>Lee’s lawsuit, Glancey v. NCAA<em>,</em> will resume Oct. 20 in Santa Clara, California, although it’s unlikely a final ruling on the case will be made then. Gonzaga women’s player Ines Bettencourt is also one of the plaintiffs listed in the lawsuit.</p><p>One other Gonzaga player, wing Chauncey Wiggins, is currently involved in a 5-in-5 lawsuit. Wiggins initially obtained a fifth season of eligibility through a preliminary injunction, but the NCAA applied for a stay motion in that case, temporarily reversing the decision.</p><p>Wiggins and Lee both competed in Gonzaga’s Kraziness in the Kennel showcase on Oct. 3, but Bennett didn’t participate due to a minor shoulder injury, according to coach Mark Few.</p><p>The 5-foot-10 guard is coming off his most productive offensive season, averaging 15.8 points to go with 2.9 assists and 2.2 rebounds while earning All-Atlantic 10 first-team honors. Bennett made 98 starts over three seasons for the Flyers, helping Anthony Grant’s program earn an NCAA Tournament berth in 2023-24.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "64c024e5cbb25512",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -4119,20 +4090,6 @@
         "medium": "text"
       },
       {
-        "title": "Jesse Legree’s return to Oregon State more than a morale boost for beleaguered Beaver fans | Bill Oram",
-        "link": "https://www.oregonlive.com/beavers/2026/10/jesse-legrees-return-to-oregon-state-more-than-a-morale-boost-for-beleaguered-beaver-fans-bill-oram.html",
-        "link_kind": "item",
-        "date": "2026-10-24T21:48:51+00:00",
-        "summary": "A three-star recruit out of high school, the \"Problem Kid\" has proven that he is a five-star talent.",
-        "author": "Bill Oram",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "75f280e48d6e1ce4",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Legree returning to OSU for 2027",
         "link": "https://dailybaro.orangemedianetwork.com/33502/daily-barometer-sports/daily-barometer-sports-football/legree-returning-to-osu-for-2027/",
         "link_kind": "item",
@@ -4416,24 +4373,65 @@
         "extent": "47 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Oregon State Football is 0-2, But The Culture is Changing",
-        "link": "https://traffic.megaphone.fm/TDSPT7812374743.mp3",
-        "link_kind": "enclosure",
-        "date": "2026-09-16T17:48:00+00:00",
-        "summary": "Two weeks into the new college football season, JaMarcus Shephard's Oregon State Beavers are 0-2. Hanging tough with two ranked power conference teams is certainly better than being blown out, it has become clear in the days since the Texas Tech loss that moral victories are not what the program is chasing. \n\nThis week on State of the Beavs, your host Matt Bagley reacts to the signs of progress that the Beavers showed in their home opener loss to Texas Tech. Also hear comments from Shephard himself and linebacker Dylan Layne, both of whom noted they intend to change the larger perception of the program.\n\nIt's also time to prepare for the non-conference finale against Montana at Reser Stadium this week, and look ahead to the Pac-12 schedule that begins next weekend. Go Beavs.\n\nMusic by audionautix.com. All music produced by Jason Shaw on AudionautiX is released under Creative Commons Attribution 4.0 International License.",
-        "author": "",
-        "duration": 3391,
-        "channel_url": "https://cms.megaphone.fm/channel/TDSPT5511450634",
-        "source": "State of the Beavs",
-        "id": "0bb0334007e754f1",
-        "extent": "57 min",
-        "sport": "football",
-        "medium": "audio"
       }
     ],
     "San Diego State": [
+      {
+        "title": "International newcomers bring pro experience while forging chemistry with the Aztecs",
+        "link": "https://thedailyaztec.com/129653/sports/basketball/international-newcomers-bring-pro-experience-while-forging-chemistry-with-the-aztecs/",
+        "link_kind": "item",
+        "date": "2026-10-31T19:00:19+00:00",
+        "summary": "On the San Diego State men’s basketball roster, players are listed by the high schools and colleges they played at before becoming Aztecs. This season, however, international clubs and programs stand out amongst American high schools and colleges.  This offseason, SDSU brought in four players from overseas. Those players include: forwards Luka Skoric from Croatia...",
+        "author": "Samuel Cozart, Senior Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "3407861a16e969ee",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs Welcome Washington State Today for Halloween Clash",
+        "link": "https://goaztecs.com/news/2026/10/31/aztecs-return-home-to-face-washington-state-for-halloween-clash-1",
+        "link_kind": "item",
+        "date": "2026-10-31T16:20:00+00:00",
+        "summary": "SDSU welcomes Washington State on Halloween. Kickoff is set for 4 p.m. PT Saturday at Snapdragon Stadium.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "50a9130e59f69155",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Meet the guards reshaping Aztec basketball in the Pac-12 era",
+        "link": "https://thedailyaztec.com/129650/sports/basketball/meet-the-guards-reshaping-aztec-basketball-in-the-pac-12-era/",
+        "link_kind": "item",
+        "date": "2026-10-31T16:00:22+00:00",
+        "summary": "This year, San Diego State’s backcourt is almost unrecognizable.  The guards who helped lead the Aztecs to a 22-11 record last year are gone: Reese Dixon-Waters, Miles Byrd, Taj DeGourville and B.J. Davis all left the program, leaving big shoes to fill. With sophomore Elzie Harrington and junior Latrell Davis returning to The Mesa to...",
+        "author": "Jason Testa, Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "9cef98cc566600bf",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "SDSU volleyball falls to Boise State, ending eight-game winning streak",
+        "link": "https://thedailyaztec.com/129667/sports/volleyball/sdsu-volleyball-falls-to-boise-state-ending-eight-game-winning-streak/",
+        "link_kind": "item",
+        "date": "2026-10-31T15:00:04+00:00",
+        "summary": "San Diego State women’s volleyball saw its eight-match winning streak end Thursday night at Peterson Gym, falling to Boise State in straight sets (19-25, 23-25, 21-25).  The Aztecs (13-7) struggled to find their offensive rhythm against the Broncos (14-9), finishing with a .186 hitting percentage compared with Boise State’s .294. Despite several comeback attempts, SDSU...",
+        "author": "Joel Gaitan, Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "a3744f0eeea40584",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Aztec Football Announces Promotions for Halloween Clash with Washington State",
         "link": "https://goaztecs.com/news/2026/10/30/aztec-football-announces-promotions-for-halloween-clash-with-washington-state",
@@ -4661,34 +4659,6 @@
         "medium": "text"
       },
       {
-        "title": "Late penalty helps Utah Valley draw SDSU",
-        "link": "https://thedailyaztec.com/129536/sports/soccer/late-penalty-helps-utah-valley-draw-sdsu/",
-        "link_kind": "item",
-        "date": "2026-10-24T19:20:19+00:00",
-        "summary": "The San Diego State Aztecs (3-7-7) settled for a 2-2 draw against the Utah Valley Wolverines (8-2-3) in a rainy nonconference match Wednesday night at the SDSU Sports Deck.  Although both teams went scoreless in the first half, SDSU midfielder Max Mair opened the scoring in the 51st minute by tapping in a pass that...",
-        "author": "Manny Sanchez, Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "7296564f8faa336a",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Women’s basketball’s key returners create a sense of continuity and comfort ahead of the upcoming season",
-        "link": "https://thedailyaztec.com/129531/sports/womens-basketballs-key-returners-create-a-sense-of-continuity-and-comfort-ahead-of-the-upcoming-season/",
-        "link_kind": "item",
-        "date": "2026-10-24T17:52:33+00:00",
-        "summary": "Name, image and likeness, transfer portal and eligibility restrictions — all hurdles that every collegiate coaching staff must combat on a season-to-season basis. For San Diego State women’s basketball and head coach Stacie Terry-Hutson, the dizziness and unsettling feeling that roster reshuffling creates is neutralized thanks to four key players deciding to stay in San...",
-        "author": "Tyler Bowne, Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "cd013d2a3b8c28bf",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Men’s Hoops fall to Southern California, 85-68, in Home Exhibition Game",
         "link": "https://goaztecs.com/news/2026/10/24/mens-hoops-fall-to-southern-california-85-68-in-home-exhibition-game",
         "link_kind": "item",
@@ -4730,20 +4700,6 @@
         "extent": "1h 12m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Aztecs look to hold onto positive momentum ahead of matchup with dynamic Colorado State offense",
-        "link": "https://thedailyaztec.com/129520/sports/aztecs-look-to-hold-onto-positive-momentum-ahead-of-matchup-with-dynamic-colorado-state-offense/",
-        "link_kind": "item",
-        "date": "2026-10-22T22:05:49+00:00",
-        "summary": "The grueling road of new Pac-12 matchups rolls on for the San Diego State Aztecs (3-4) as they ship up to Fort Collins, Colorado, to take on the Colorado State Rams (2-4). Fresh off their 26-23 victory over the rival Fresno State Bulldogs, the Aztecs rose to a 2-1 Pac-12 record. The Rams don’t carry...",
-        "author": "Iain Henderson, Senior Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "ae4866c5f1beae74",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "Men's Hoops Exhibition Games to be Broadcast on San Diego Sports 760",
@@ -5651,37 +5607,23 @@
         "id": "867ea869f7e5b29c",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "Aztec Football Unveils “Age of the Jaguar” Uniform Design",
-        "link": "https://goaztecs.com/news/2026/09/16/aztec-football-unveils-age-of-the-jaguar-uniform-design",
-        "link_kind": "item",
-        "date": "2026-09-16T19:00:00+00:00",
-        "summary": "SDSU to don new jerseys for Saturday’s home game against James Madison.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "377ffd1f4645f590",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Aztecs Release Non-Conference Schedule",
-        "link": "https://goaztecs.com/news/2026/09/16/aztecs-release-26-27-non-conference-schedule",
-        "link_kind": "item",
-        "date": "2026-09-16T16:51:58+00:00",
-        "summary": "Coming off a 27-win season, which tied a school record, the Aztecs will play a challenging non-conference slate that features five games against teams that made the postseason last year.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "a10dd7651932c9d2",
-        "sport": "wbb",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "Bobcats drop sixth straight game, falls to Boise State",
+        "link": "https://universitystar.com/37000/sports/bobcats-drop-sixth-straight-game-falls-to-boise-state/",
+        "link_kind": "item",
+        "date": "2026-11-01T00:31:35+00:00",
+        "summary": "The Texas State Bobcats dropped a first-set lead against the Boise State Broncos (24-26, 25-17, 25-13, 25-21)  in what marks their sixth consecutive loss in a row this season on Saturday, Oct. 31 at Strahan Arena. The Bobcats (7-15, 2-9 Pac-12) started their Halloween game winning the first set, however the Broncos (15-9, 7-4 Pac-12)...",
+        "author": "Carisa Arellano, Sports Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "9626c811d6313692",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "‘Cats drop a crucial game on senior night vs Boise State",
         "link": "https://universitystar.com/36999/sports/cats-drop-a-crucial-game-on-senior-night-vs-boise-state/",
@@ -5893,20 +5835,6 @@
         "medium": "text"
       },
       {
-        "title": "Quintanilla takes first career victory at Jim West Challenge",
-        "link": "https://universitystar.com/36868/sports/quintanilla-takes-first-career-victory-at-jim-west-challenge/",
-        "link_kind": "item",
-        "date": "2026-10-23T19:15:11+00:00",
-        "summary": "The Texas State women&#8217;s golf squad competed at the Jim West Challenge in San Marcos this past weekend from Oct. 18-19, where sophomore Grace Quintanilla became the co-champion at the Kissing Tree Golf Club. Quintanilla is the first TXST winner of the Jim West Challenge since Sasikarn Somboonsup won in 2019. Overall, she is the...",
-        "author": "Cash Arenas, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "77aa3ddcf6af47b1",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Game Preview: TXST vs Utah State",
         "link": "https://txst.com/news/2026/10/22/football-game-preview-txst-vs-utah-state.aspx",
         "link_kind": "item",
@@ -6076,6 +6004,48 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "Aggie Defense Leads the Way in 31-14 Win Over Colorado State",
+        "link": "https://utahstateaggies.com/news/2026/10/31/football-aggie-defense-leads-the-way-in-31-14-win-over-colorado-state.aspx",
+        "link_kind": "item",
+        "date": "2026-11-01T01:18:00+00:00",
+        "summary": "<img alt=\"Several Utah State football players celebrate with QB McCae Hillstead (2) after a touchdown in the team's 31-14 win over Colorado State\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/31/_TJB1025.jpeg\" /><br /><br />LOGAN, Utah – Utah State football put together another stellar defensive outing, paving the way for a 31-14 win on Halloween afternoon at Maverik Stadium. USU forced a pair of turnovers while holding the Rams to a season-low 263 yards of total offense, the first time CSU has been held below 300 yards this year.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "677e85fa725b2487",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Women’s Basketball Opens 2026-27 Campaign Against Westminster",
+        "link": "https://utahstateaggies.com/news/2026/10/31/womens-basketball-womens-basketball-opens-2026-27-campaign-against-westminster.aspx",
+        "link_kind": "item",
+        "date": "2026-10-31T18:33:00+00:00",
+        "summary": "<img alt=\"Wes Brooks paces the sideline in front of the Aggie bench during the team's Mountain West Tournament game against Grand Canyon\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/Wes_Brooks.jpg\" /><br /><br />TIP-OFF",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "b11b6dede23caf1d",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Utah State Men’s Basketball Opens 2026-27 Season Versus Idaho State Monday",
+        "link": "https://utahstateaggies.com/news/2026/10/31/mens-basketball-utah-state-mens-basketball-opens-2026-27-season-versus-idaho-state-monday.aspx",
+        "link_kind": "item",
+        "date": "2026-10-31T17:00:00+00:00",
+        "summary": "<img alt=\"MBB\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/30/DSC01464.jpg\" /><br /><br />Utah State men's basketball (0-0, 0-0 Pac-12) officially opens its 2026-27 campaign this week as it welcomes the Idaho State Bengals (0-0, 0-0 Big Sky) to the Dee Glen Smith Spectrum on Monday, Nov. 2. Game time is set for 7:30 p.m. The game will be streamed for free on the Pac-12's YouTube channel. Fans can also listen to Utah State's radio broadcast on 610 AM/102.1 FM in Logan and 1280 AM/97.5 FM in Salt Lake City.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "027b485a7c18954e",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Gayles and Thompson Named to Pac-12 Preseason Impact List",
         "link": "https://utahstateaggies.com/news/2026/10/29/womens-basketball-gayles-and-thompson-named-to-pac-12-preseason-impact-list.aspx",
@@ -6543,20 +6513,6 @@
         "medium": "text"
       },
       {
-        "title": "Utah State Football Drops Pac-12 Opener at No. 22 Boise State 37-18",
-        "link": "https://utahstateaggies.com/news/2026/10/3/utah-state-football-drops-pac-12-opener-at-boise-state-37-18.aspx",
-        "link_kind": "item",
-        "date": "2026-10-04T04:13:00+00:00",
-        "summary": "<img alt=\"Utah State's Javen Jacobs runs away from several Boise State defenders during football's 37-18 loss at the Broncos.\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/3/PAN_USUFBvsBoiseState_0980-2.JPG.png\" /><br /><br />BOISE, Idaho – Utah State football fell to Boise State 37-18 in its first-ever Pac-12 game on Saturday night at Albertsons Stadium.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "c0df53076c9b8f50",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Announces 2026-27 Women’s Basketball Schedule",
         "link": "https://utahstateaggies.com/news/2026/10/2/womens-basketball-pac-12-announces-2026-27-womens-basketball-schedule.aspx",
         "link_kind": "item",
@@ -6616,6 +6572,20 @@
     ],
     "Washington State": [
       {
+        "title": "Whoever said ‘bet with your head, not with your heart’ is out of his mind",
+        "link": "https://jimmoorethego2guy.substack.com/p/whoever-said-bet-with-your-head-not",
+        "link_kind": "item",
+        "date": "2026-10-31T16:37:22+00:00",
+        "summary": "Gimme the Cougs as my Smokin&#8217; Lock of the Week.",
+        "author": "Jim Moore",
+        "duration": null,
+        "channel_url": "",
+        "source": "Jim Moore's Substack",
+        "id": "ff24353eeecc2039",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Pro Cougs NFL: Lucas bounces back as Smith-Wade hits career low",
         "link": "https://dailyevergreen.com/200857/sports/pro-cougs-nfl-lucas-bounces-back-as-smith-wade-hits-career-low/",
         "link_kind": "item",
@@ -6627,6 +6597,20 @@
         "source": "The Daily Evergreen",
         "id": "5a12df4c8ac6819e",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Washington State tries to end skid at San Diego State | Live updates",
+        "link": "http://www.spokesman.com/stories/2026/oct/31/washington-state-tries-to-end-skid-at-san-diego-st/",
+        "link_kind": "item",
+        "date": "2026-10-31T00:00:00+00:00",
+        "summary": "<h3><span style=\"text-decoration: underline;\">Key moments</span></h3><h3><strong>Thomas sets up Cougs</strong></h3><p><strong>3rd, 14:12 - SDSU 17, WSU 14:</strong> Jaylen Thomas intercepts SDSU QB Stone Saunders and the Cougars take over possession.</p><!--[embed id=12390]--><hr/><h3><strong>Eshelman throws interception</strong></h3><p><strong>2nd, 1:49 - SDSU 17, WSU 14:</strong> Defensive end Kai Wallin intercepts Eshelman to give the Aztecs another possession before halftime.</p><!--[embed id=12389]--><hr/><h3><strong>Aztecs regain lead</strong></h3><p><strong>2nd, 3:16 - SDSU 17, WSU 14:</strong> Cooper DiLeva makes a 36-yard field as rain begins to fall at Snapdragon Stadium.</p><hr/><h3><strong>Vorhees plunges in for TD</strong></h3><p><strong>2nd, 6:19 - WSU 14, SDSU 14:</strong> A pass interference penalty sets up a 2-yard touchdown for Kirby Vorhees.</p><!--[embed id=12388]--><hr/><h3><strong>Kinnard scores again</strong></h3><p><strong>2nd, 12:32 - SDSU 14, WSU 7: </strong>Kinnard breaks through the WSU defense to score a 10-yard rushing touchdown, his second of the game.</p><!--[embed id=12387]--><hr/><h3><strong>Cougars even score</strong></h3><p><strong>1st, 2:19 - WSU 7, SDSU 7: </strong>Owen Eshelman keeps the ball and rushes up the middle for a 4-yard touchdown.</p><!--[embed id=12386]--><hr/><h3><strong>Aztecs get on the board</strong></h3><p><strong>1st, 7:27 - SDSU 7, WSU 0:</strong> Javion Kinnard makes a defender miss and rushes nine yards into the end zone.</p><!--[embed id=12385]--><hr/><h3>Pregame</h3><p><a href=\"https://www.spokesman.com/stories/2026/oct/28/dropped-interceptions-and-whiffed-sacks-whats-been/\" target=\"_blank\">Washington State</a> gets another crack at earning its first Pac-12 Conference and FBS win of the season, this time <a href=\"https://www.spokesman.com/stories/2026/oct/30/to-knock-off-sdsu-on-road-and-earn-first-fbs-win-w/\" target=\"_blank\">on the road against San Diego State</a>.</p><p>Owen Eshelman and the <a href=\"https://www.spokesman.com/stories/2026/oct/29/inside-wsu-te-trey-leckners-injury-rehab-and-how-h/\" target=\"_blank\">Cougars&#8217; offense</a> should have room to operate after a <a href=\"https://www.spokesman.com/stories/2026/oct/27/during-a-1-7-season-what-keeps-wsu-players-motivat/\" target=\"_blank\">tough game against Boise State</a> last week.</p><p><span>The Aztecs (3-5, 2-2) are giving up about 36 points per game and allowing 462 yards per contest, some of the worst numbers nationwide.</span></p><p><span>For the WSU&#8217;s special teams, they will need to limit the threat of returner Jaylon Hawkins. The Cougar offensive line will also need to hold up against the Aztecs&#8217; defensive front.</span></p><p><span>The game is scheduled to kick off at 4 p.m. on CBS Sports Network.</span></p><p><strong>Series history</strong></p><p>Washington State has won three of the four meetings between the Cougars (1-7, 0-4 Pac-12) and <a href=\"https://www.spokesman.com/stories/2026/oct/30/why-san-diego-state-will-beat-washington-state-the/\" target=\"_blank\">the Aztecs</a>. </p><p><strong>Notatable stat</strong></p><p>Three. <span>That’s the amount of kickoff return touchdowns engineered by <a href=\"https://www.spokesman.com/stories/2026/oct/30/wsus-keys-to-victory-against-san-diego-state-2-min/\" target=\"_blank\">SDSU redshirt freshman wideout Hawkins</a>. He took one back 100 yards against FCS Portland State, one 96 yards against Texas State and one 97 yards against Oregon State.</span></p><h3>Game preview</h3><!--[teaser id=1365195]--><!--[teaser id=1365244]--><!--[teaser id=1365195]--><h3>More on the Cougs</h3><!--[teaser id=1365139]--><!--[teaser id=1365077]--><!--[teaser id=1365025]--><!--[teaser id=1364940]-->",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "3b8c685933ffc707",
+        "sport": "football",
         "medium": "text"
       },
       {
@@ -6728,6 +6712,20 @@
         "medium": "text"
       },
       {
+        "title": "WSU's keys to victory against San Diego State | 2-minute drill",
+        "link": "http://www.spokesman.com/stories/2026/oct/30/wsus-keys-to-victory-against-san-diego-state-2-min/",
+        "link_kind": "item",
+        "date": "2026-10-30T00:00:00+00:00",
+        "summary": "<h3><span class=\"print_trim\">Washington State at San Diego State</span><br/><br/></h3><h3>Saturday, 4 p.m.</h3><p><strong>Line:</strong> SDSU favored by 2½</p><p><strong>TV:</strong> CBS Sports Network <strong>Radio:</strong> 920-AM</p><h3>Key matchup</h3><p><strong>WSU offensive line vs. SDSU defensive line:</strong> If anything became clear from the Cougars’ last game, a home loss to Boise State, it was this: WSU’s offensive line needs serious work. That group now faces an SDSU defensive front that has produced 16 sacks, including 8.5 alone from the linebacker trio of Djibril Rahman, Kai Wallin and Sione Hala. Defensive lineman Malachi Finau has also pocketed a pair of sacks.</p><p>How will the Cougars’ front five of left tackle Ashton Tripp, left guard Jonny Lester, center Noah Dunham, right guard Nick Bakken and right tackle Jaylin Caldwell fare against that group? Last week against Boise State, they were responsible for two of the four sacks against QB Owen Eshelman, who was constantly under duress.</p><p>To properly cash in on the SDSU defense, which ranks No. 135 of 138 FBS teams in total defense (462 yards per game), No. 133 in scoring defense (36 points per game), No. 109 in rush defense (178 ypg) and No. 134 in pass defense (284 ypg), Eshelman will need time in the pocket.</p><h3>How the Cougs win …</h3><p>WSU also can win this game by reversing a couple trends on defense. The Cougars have dropped six interceptions, which is tied for the most in the country, and they’ve also generated only five turnovers, which is No. 126 nationally. Plus, they have only eight sacks, which is No. 131. For a defense that has generally played well, defensive coordinator Trent Bray’s group hasn’t been able to make key plays at key times.</p><p>Opportunities figure to be there for the WSU defense against the San Diego State offense, which is expected to start redshirt freshman Stone Saunders, who will be making only his second career start. He looked sharp in a loss to Colorado State last weekend, but he also threw a pick-six. Can WSU defensive ends Matyus McLain and Linus Zunk create enough pressure to force a turnover?</p><h3>How the Aztecs win …</h3><p>San Diego State can win this one by doing what every FBS team has done against WSU this season: limit its offense. Quarterback Owen Eshelman has looked solid in his first two starts, but this will be only No. 3 for Eshelman, who threw a costly interception in a home loss to Boise State last weekend. The Aztecs might be able to deliver the same treatment by getting pressure on Eshelman in the pocket.</p><p>Plus, if SDSU can shut down WSU’s rushing game, the hosts will be in good shape. Running backs Kirby Vorhees, Leo Pulalasi and Maxwell Woods – the last of whom didn’t get a single carry last weekend – are averaging only 48 yards on 15 carries against FBS opponents this season. If the Aztecs can keep that trend going, look for them to come out on top.</p><h3>Key stat<span class=\"print_trim\">: 3</span></h3><p>That’s the amount of kickoff return touchdowns engineered by SDSU redshirt freshman wideout Jaylon Hawkins. He took one back 100 yards against FCS Portland State, one 96 yards against Texas State and one 97 yards against Oregon State. He’s been electric in the return game, and while the Cougs rank No. 16 nationally with only 16 yards per return allowed, they would be wise to keep Hawkins corralled.</p><h3>Quotable</h3><p>“Regardless (of) what the prize is or whatever that we’re playing for, I want to win. I know all the guys in the locker room want to win, and the coaches want to win,” WSU tight end Trey Leckner said. “So I think just the will to win. I think we have all the seniors, all the seniors that are still playing. We wanna send them out on a good note, and we wanna build momentum going into next year.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "2771b560ff935311",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Why San Diego State will beat Washington State | The pick",
         "link": "http://www.spokesman.com/stories/2026/oct/30/why-san-diego-state-will-beat-washington-state-the/",
         "link_kind": "item",
@@ -6752,20 +6750,6 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "da0a69ecb35ccadd",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU's keys to victory against San Diego State | 2-minute drill",
-        "link": "http://www.spokesman.com/stories/2026/oct/30/wsus-keys-to-victory-against-san-diego-state-2-min/",
-        "link_kind": "item",
-        "date": "2026-10-30T00:00:00+00:00",
-        "summary": "<h3><span class=\"print_trim\">Washington State at San Diego State</span><br/><br/></h3><h3>Saturday, 4 p.m.</h3><p><strong>Line:</strong> SDSU favored by 2½</p><p><strong>TV:</strong> CBS Sports Network <strong>Radio:</strong> 920-AM</p><h3>Key matchup</h3><p><strong>WSU offensive line vs. SDSU defensive line:</strong> If anything became clear from the Cougars’ last game, a home loss to Boise State, it was this: WSU’s offensive line needs serious work. That group now faces an SDSU defensive front that has produced 16 sacks, including 8.5 alone from the linebacker trio of Djibril Rahman, Kai Wallin and Sione Hala. Defensive lineman Malachi Finau has also pocketed a pair of sacks.</p><p>How will the Cougars’ front five of left tackle Ashton Tripp, left guard Jonny Lester, center Noah Dunham, right guard Nick Bakken and right tackle Jaylin Caldwell fare against that group? Last week against Boise State, they were responsible for two of the four sacks against QB Owen Eshelman, who was constantly under duress.</p><p>To properly cash in on the SDSU defense, which ranks No. 135 of 138 FBS teams in total defense (462 yards per game), No. 133 in scoring defense (36 points per game), No. 109 in rush defense (178 ypg) and No. 134 in pass defense (284 ypg), Eshelman will need time in the pocket.</p><h3>How the Cougs win …</h3><p>WSU also can win this game by reversing a couple trends on defense. The Cougars have dropped six interceptions, which is tied for the most in the country, and they’ve also generated only five turnovers, which is No. 126 nationally. Plus, they have only eight sacks, which is No. 131. For a defense that has generally played well, defensive coordinator Trent Bray’s group hasn’t been able to make key plays at key times.</p><p>Opportunities figure to be there for the WSU defense against the San Diego State offense, which is expected to start redshirt freshman Stone Saunders, who will be making only his second career start. He looked sharp in a loss to Colorado State last weekend, but he also threw a pick-six. Can WSU defensive ends Matyus McLain and Linus Zunk create enough pressure to force a turnover?</p><h3>How the Aztecs win …</h3><p>San Diego State can win this one by doing what every FBS team has done against WSU this season: limit its offense. Quarterback Owen Eshelman has looked solid in his first two starts, but this will be only No. 3 for Eshelman, who threw a costly interception in a home loss to Boise State last weekend. The Aztecs might be able to deliver the same treatment by getting pressure on Eshelman in the pocket.</p><p>Plus, if SDSU can shut down WSU’s rushing game, the hosts will be in good shape. Running backs Kirby Vorhees, Leo Pulalasi and Maxwell Woods – the last of whom didn’t get a single carry last weekend – are averaging only 48 yards on 15 carries against FBS opponents this season. If the Aztecs can keep that trend going, look for them to come out on top.</p><h3>Key stat<span class=\"print_trim\">: 3</span></h3><p>That’s the amount of kickoff return touchdowns engineered by SDSU redshirt freshman wideout Jaylon Hawkins. He took one back 100 yards against FCS Portland State, one 96 yards against Texas State and one 97 yards against Oregon State. He’s been electric in the return game, and while the Cougs rank No. 16 nationally with only 16 yards per return allowed, they would be wise to keep Hawkins corralled.</p><h3>Quotable</h3><p>“Regardless (of) what the prize is or whatever that we’re playing for, I want to win. I know all the guys in the locker room want to win, and the coaches want to win,” WSU tight end Trey Leckner said. “So I think just the will to win. I think we have all the seniors, all the seniors that are still playing. We wanna send them out on a good note, and we wanna build momentum going into next year.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "2771b560ff935311",
         "sport": "football",
         "medium": "text"
       },
@@ -7733,20 +7717,6 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "038f3b078b92619c",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "How did WSU QB Owen Eshelman engineer such a strong showing in his first start? Three things stood out most",
-        "link": "http://www.spokesman.com/stories/2026/oct/20/how-did-wsu-qb-owen-eshelman-engineer-such-a-stron/",
-        "link_kind": "item",
-        "date": "2026-10-20T00:00:00+00:00",
-        "summary": "<p>PULLMAN – In the aftermath of quarterback Owen Eshelman’s first start, an electric showing in his Washington State group’s fourth straight loss over the weekend, the reactions came showering in like a typhoon.</p><p><em>He’s actually airing it out!</em></p><p><em>He looks poised in the pocket!</em></p><p><em>Look how sharp the Cougs’ offense looks!</em></p><p>Indeed, Eshelman guided WSU to 30 offensive points, the team’s most all season. That wasn’t enough to prevent the Cougs from falling short again, this time to the tune of a 48-30 final margin, but Eshelman looked accurate. He was willing to look for the deep ball. He executed a couple really well.</p><p>For the Cougars, that represented a firm step in the right direction, an indication that head coach Kirby Moore made the right call pivoting away from Caden Pinnick and swapping in Eshelman. Should coaches have made that move sooner in the season? Probably, and that conversation has been fleshed out in all kinds of ways.</p><p>“We’re not looking in the rearview mirror,” Moore said after Saturday’s game on that topic. “We gotta keep building on where we’re at right now.”</p><p>What isn’t as immediately obvious at first blush is how different the Cougs’ passing attack was with Eshelman at the controls. He aired it out, sure, but how much of a change did that represent for WSU? How did his accuracy bolster the offense? And how did he navigate the pocket?</p><p>As Washington State prepares for its homecoming game, a home showdown with first-place Boise State this weekend, those questions are worth exploring. Do the Cougs have a shot at pulling the upset? They might be 12.5-point underdogs, but Eshelman and the life he brings to his offense could be reason to believe the answer might be yes.</p><p><strong>1. Eshelman looked to push the ball downfield</strong></p><p>Perhaps the most striking part of Eshelman’s performance, the development that might have made you say “wow” right away, came in his readiness to stretch the field vertically. Pinnick wasn’t just  shaky at this in his six starts;  he wasn’t even willing to do it.</p><p>Think about this: In WSU’s loss to Utah State earlier this month, Pinnick attempted only six passes 10 yards or further downfield, according to PFF. That included zero passes 20 yards or deeper. It was clear that he wasn’t comfortable in the pocket. He didn’t trust his eyes, didn’t trust his arm.</p><p>Think about it this way: In the country, 61 QBs have dropped back at least 200 times. Among that group, Pinnick is the only one to attempt fewer than 20 passes of at least 20 yards downfield. His official numbers on those types of throws: 2-for-16 for 78 yards, one touchdown and two interceptions.</p><p>On Saturday, Eshelman tried 16 passes at least 10 yards downfield, connecting on six of them. That isn’t a great completion rate – just 38% – but his willingness to try those opened up a lot for the Cougars’ offense. On one play in the first half, Eshelman lofted one downfield for receiver Branden Ganashamoorthy, who hauled it in for a 40-yard touchdown pass.</p><p>“It was a great look,” Eshelman said after the game about the touchdown pass. “Had a couple different options there, and he ended up popping and was really excited for him on that touchdown, and just the offense was clicking well.”</p><!--[embed id=12349]--><p>Outside of Pinnick’s one FBS touchdown toss, a 46-yard completion to Ganashamoorthy on which an Arizona defender fell down in coverage, that was the Cougars’ longest passing scoring play all season. Eshelman showed great touch on that pass, as well as a layered 24-yard throw, also to Ganashamoorthy. It was obvious he felt confident letting throws like that fly.</p><!--[embed id=12348]--><p>On another play in Saturday’s game, a first-and-10 near the redzone, Eshelman showed the same willingness. He dropped back and spotted an open receiver in Daniel Blood, so Eshelman reared back and put the same kind of nice touch on this pass, finding Blood for a 23-yard gain. Four plays later, QB Julian Dugger came in for a short touchdown plunge.</p><!--[embed id=12350]--><p><strong>2. Eshelman’s pocket presence stood out in a big way</strong></p><p>One of the central problems facing Pinnick, especially in his last handful of starts, was his pocket presence. He often ran himself into sacks. He held onto the ball too long. He didn’t throw it away when he had the opportunity, leading to even more sacks. Sometimes he was too indecisive to avoid a rusher headed right for him.</p><p>Even with one fewer game under his belt, Pinnick is still tied for the nationwide lead in QB-fault sacks with 11, according to PFF.</p><p>Contrast that with the one game of Eshelman, who took just one sack of that variety, according to PFF. He was sacked on two other occasions, which were the fault of the Cougars’ offensive line, which played without injured left tackle Ashton Tripp.</p><p>In fact, some of Eshelman’s best plays came on the ground, when he identified pressure and bailed at the right times. He recorded three rushes of 20-plus yards: a 22-yard scramble, a 41-yard burst and a 19-yard read option, which he took 20 yards into the end zone for his first career rushing touchdown at the college level.</p><!--[embed id=12351]--><!--[embed id=12352]--><p>“Obviously there’s a lot of situational stuff with that, and knowing when it’s OK to punt, knowing when you might need to take a shot,” Eshelman said. “There were definitely some missed opportunities tonight, some times that I thought I did a good job, and we’ll keep working on that and growing in it.”</p><p><strong>3. He didn’t let a slow start bog him down</strong></p><p>How many times did we see this kind of situation unfold with Pinnick at the controls? He’d slog through something of a slow start, which is normal for any quarterback, and that kind of uneven beginning would follow him around the rest of the game.</p><p>At least from an outsider’s perspective, it seemed easy for Pinnick to let slow starts color the rest of his outing, never letting him find a rhythm later in the game.</p><p> Eshelman was hardly perfect in Saturday’s game. He missed on each of his first three passes, costing his team early chances, which was one of the ways Oregon State mounted an early 17-0 lead. He targeted Ganashamoorthy on each of his first three throws, all of which sailed wide of the mark, including a third-down throw that led to a punt.</p><p>But Eshelman didn’t let that throw him off for the rest of the game. He went on to complete 8 of his next 10 passes, including the aforementioned 24-yarder to Ganashamoorthy and a 14-yard toss to tight end Jack Pedersen.</p><p>Also in that stretch, he showed nice patience in the pocket, taking the shorter throws when they were there. That was another part of Eshleman’s game that stood out, to which he even alluded  after the game: He seemed to understand when it’s OK to throw checkdowns and shorter passes.</p><p>That kept the Cougars’ offense moving.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "f0458731419dd7e2",
         "sport": "football",
         "medium": "text"
       },
@@ -9393,49 +9363,6 @@
         "id": "e3b04e9a5283ce76",
         "extent": "59 min",
         "sport": "football",
-        "medium": "audio"
-      },
-      {
-        "title": "Home Opener - Free Student Entry",
-        "link": "https://wsucougars.com/news/2026/09/16/home-opener-free-student-entry",
-        "link_kind": "item",
-        "date": "2026-09-16T23:10:47+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "dd25231fa7ab4ab9",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Cougars Welcome Duquesne For Gesa Field For Home-Opener",
-        "link": "https://wsucougars.com/news/2026/09/16/cougars-welcome-duquesnes-for-gesa-field-for-home-opener",
-        "link_kind": "item",
-        "date": "2026-09-16T22:18:42+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "11d664712f2cfc4a",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "BECU Inside WSU Athletics with Jon Haarlow | S2, E4 | Guests: Josh Graetz, Wayne Phipps",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/bd5e3f2d-77b4-4c87-909f-45dcd465fcd4.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-09-16T20:00:00+00:00",
-        "summary": "<p>Join us for the latest Inside WSU Athletics Podcast presented by BECU with Director of Athletics Jon Haarlow alongside the Voice of the Cougs Chris King! </p><p>This week, our guests include:</p><p>Head Tennis Coach | Josh Graetz</p><p>Director of Track and Cross-Country | Wayne Phipps</p>",
-        "author": "",
-        "duration": 1991,
-        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
-        "source": "Washington State Cougars Podcast",
-        "id": "24bc727a1ca31166",
-        "extent": "33 min",
-        "sport": "all",
         "medium": "audio"
       }
     ]
