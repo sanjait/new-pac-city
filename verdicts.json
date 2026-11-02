@@ -23287,6 +23287,303 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-11-02-0241"
+    },
+    "015ee1c0d19c3ae3": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Washington State's football loss to San Diego State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "KellerRay Hutsell Zandell"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "0a1a7e329306f29e": {
+      "subjects": {
+        "utah-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Utah State's offensive performance in its win over Colorado State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "43 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "2082f4c99e34d145": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An analyst discusses Fresno State's win over Oregon State and the Bulldogs' bye week.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-11-02-1441"
+    },
+    "285237e7fd586153": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Utah State men's basketball's new season under a new head coach.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "19 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "43158da47c148a09": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers the personal history between Gonzaga's roster and the Purdue opener through Mark Few's program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-02-1441"
+    },
+    "547e3467534cb0ed": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Recaps Mountain West games among Air Force, NDSU, UTEP, New Mexico, San Jose State, Nevada, UCLA, UNLV and others, none of them a covered program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "14 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "5e6ed0e30d88e4f4": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Profiles Washington State men's basketball's top players ahead of the season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "6267fddbf64e7130": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Title and summary establish Oregon State's Pac-12 loss at Fresno State, but no specific sport is named.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Could not confirm which Oregon State program from the title and summary alone, so this is recorded at the department level.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-02-1441"
+    },
+    "66615c7b6fcce49a": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Boise State's rise and Oregon State's drop out of the Week 9 AP and Coaches polls.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "6d09f5388aa1b6ee": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State men's basketball's season opener against Davidson.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Owen Sullivan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "8158d2d4fa7e63b3": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Analyzes Washington State football's loss to San Diego State with five takeaways.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "828f757b8ae4c698": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish Fresno State's win over Oregon State in football.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Dylan Morgan"
+      ],
+      "run": "run_2026-11-02-1441"
+    },
+    "9487a7f425011afa": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Fresno State's win over Oregon State with game detail and quotes from Fresno State's coach.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "aca87dae2c8efd3a": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports an Oregon State women's basketball starter is out indefinitely.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The program's gender is spelled out only in the article's URL slug rather than the title or summary text itself.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-02-1441"
+    },
+    "bdf474eb0720bc69": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Gonzaga women's basketball season opener against North Dakota State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-02-1441"
+    },
+    "c909368e38b63fc1": {
+      "subjects": {
+        "gonzaga": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Looks ahead at Gonzaga's season schedule, though the text does not name a specific sport.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-11-02-1441"
+    },
+    "dd888bc99db706c5": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A historical feature on Fresno State beating Oregon State in football in 2001.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-11-02-1441"
+    },
+    "deeef267afaac583": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about",
+        "utah-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps the Halloween weekend's Pac-12 football games across eight of the nine conference schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-11-02-1441"
+    },
+    "e556bcf27e9840aa": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The whole piece analyzes the New Mexico-San Jose State game, neither a covered program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-02-1441"
     }
   },
   "runs": {
@@ -26872,6 +27169,36 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 38.02975660003722,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-02-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-02T14:39:32.618460+00:00",
+      "items": 19,
+      "verdict_counts": {
+        "publish": 17,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 3
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 39.64109080005437,
       "tokens": null,
       "tokens_source": null
     }
