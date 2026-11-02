@@ -23001,6 +23001,292 @@
       "extent": "3 min read",
       "lock": "paywall",
       "run": "run_2026-11-01-1442"
+    },
+    "068603d271249198": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State's point-spread status ahead of its football game against Texas State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-02-0241"
+    },
+    "06c6f60cbb216561": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A player-grading column built entirely around Fresno State football's win over Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-02-0241"
+    },
+    "16c68060d09bdfa1": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Season-opener preview centered on Gonzaga's roster, personnel and gameplan against Purdue.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-02-0241"
+    },
+    "23e5709551fcd1a4": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The podcast description is a scouting discussion of Gonzaga's basketball roster ahead of the season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-11-02-0241"
+    },
+    "2d4577fb6cfff64d": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The obituary devotes extensive coverage to Doornink's WSU football career, making the Cougars program a subject of this alum's story.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Bob Condotta"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-02-0241"
+    },
+    "49e855f0d8703e8c": {
+      "subjects": {
+        "oregon-state/mens-soccer": "about",
+        "gonzaga/mens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State men's soccer clinching the Pac-12 regular-season title with a win over Gonzaga.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-02-0241"
+    },
+    "4f083c2eed33146a": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "san-diego-state/volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Set-by-set recap of Washington State volleyball's four-set loss to San Diego State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-02-0241"
+    },
+    "544a21edbfa6e22a": {
+      "subjects": {
+        "oregon-state/womens-volleyball": "about",
+        "colorado-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Set-by-set recap of Oregon State volleyball's first home loss, to Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-02-0241"
+    },
+    "55f776dbb6f78f30": {
+      "subjects": {
+        "fresno-state/softball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Announces Fresno State softball's full 2027 non-conference and conference schedule.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-02-0241"
+    },
+    "6f2de08964a3821a": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish that Oregon State football dropped out of the national polls.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-02-0241"
+    },
+    "714a1e93da5e81d8": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Matchup preview built around how Gonzaga's frontcourt plans to handle Purdue's center Daniel Jacobsen.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-02-0241"
+    },
+    "807e37fb33c84e78": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Podcast transcript previewing Gonzaga's roster, bench rotation and season outlook.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-02-0241"
+    },
+    "96cb7b05a15d84af": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The obituary devotes extensive coverage to Doornink's WSU football career, making the Cougars program a subject of this alum's story.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Bob Condotta"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-02-0241"
+    },
+    "9b917429ea09379e": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Season-opener preview of Washington State men's basketball's retooled roster and rotation plans.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-02-0241"
+    },
+    "a3a6d28a82cdde85": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A five-point analysis column built on Washington State football's loss to San Diego State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-02-0241"
+    },
+    "bd570679648ae651": {
+      "subjects": {
+        "boise-state/cross-country": "about",
+        "washington-state/mens-cross-country": "involves",
+        "washington-state/womens-cross-country": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Boise State's cross country teams and the eligibility ruling that let four Broncos race are the subject of this championship-meet report.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Whether Washington State's runners, who placed just ahead of or behind Boise State's in several races, rise to 'involves' or sit at 'mentions' was a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-02-0241"
+    },
+    "d660377697eeca8d": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full play-by-play recap of Boise State's comeback football win over Texas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sports Team"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-02-0241"
+    },
+    "e1cc750e63a0d65b": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about",
+        "gonzaga/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Set-by-set recap of Fresno State volleyball's four-set loss to Gonzaga.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-02-0241"
     }
   },
   "runs": {
@@ -26562,6 +26848,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 48.28686170000583,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-02-0241": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-02T02:39:24.592078+00:00",
+      "items": 18,
+      "verdict_counts": {
+        "publish": 18
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 38.02975660003722,
       "tokens": null,
       "tokens_source": null
     }
