@@ -23584,6 +23584,331 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-11-02-1441"
+    },
+    "08f0ab65595bf4d7": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary establishes an Oregon State athlete's injury status heading into Saturday's game, though it does not name the sport.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "'Center' and the Fresno State game context could point to football, but nothing in the headline or summary confirms the sport, so it was kept at department level.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-03-0242"
+    },
+    "0f714cc722e2c3fe": {
+      "subjects": {
+        "oregon-state": "about",
+        "texas-state": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary covers Oregon State's coach discussing the team's loss at Fresno State and previewing the Texas State matchup.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-03-0242"
+    },
+    "24ce48d75a532c19": {
+      "subjects": {
+        "utah-state/cross-country": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles Utah State cross-country runner Natalie Swain's career and records.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cambria Thurgood"
+      ],
+      "extent": "77 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "31452957fd6c3267": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves",
+        "boise-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Fresno State's win over Oregon State and Boise State's comeback win over Texas State in detail.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "378c27126ecd0d5d": {
+      "subjects": {
+        "boise-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State men's basketball closing its exhibition slate with a blowout win.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Worwood"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "6390684025cdb42a": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers the unveiling of a statue honoring Boise State football legend Kellen Moore at the stadium.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "714f15f2405ab836": {
+      "subjects": {
+        "boise-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State women's basketball's season-opening win over Bushnell.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "721c5273242165e5": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Analyzes and predicts attendance for Fresno State men's basketball's home opener.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller",
+        "Sam Quintero"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "75613980c7fae6c0": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State Nike apparel deal and NIL program expansion for its athletes.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-03-0242"
+    },
+    "784273f6ce09bbbd": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Gonzaga men's basketball's season-opening matchup against Purdue.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-03-0242"
+    },
+    "7a6e9e9892dec280": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Summary previews Oregon State men's basketball's season opener under new coach Justin Joyner.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-03-0242"
+    },
+    "86111f3a1041bf4c": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers the OSU Board of Trustees' finance and academic-program discussions; the Goss Stadium bleacher mention is a passing budget item, not the subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "John Pranger"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "88c0b2c2ebd6c6ff": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Live updates and recap of Gonzaga men's basketball's season-opening game against Purdue.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "9 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-03-0242"
+    },
+    "a3c8a5b4f553ed2c": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Fresno State football's upset win over Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "be6c5daf175bd127": {
+      "subjects": {
+        "oregon-state": "about",
+        "texas-state": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Summary previews Oregon State's upcoming matchup against Texas State without naming the sport.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "'Shootout' suggests football, but the title and summary alone don't confirm the sport, so it was kept at department level.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-03-0242"
+    },
+    "bffcd823cb6fdea1": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary reports Oregon State's football coach's position on a Group of Six playoff and CFP access.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-03-0242"
+    },
+    "c4e8907051e46755": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Fresno State men's basketball's season and conference-era opener against Fresno Pacific.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The body mixes pregame preview text with live in-game score updates, making preview vs. recap a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "d6af482d5e83be84": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles San Diego State football receiver Jacob Bostick's comeback from three season-ending injuries.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "dd1044d6eb86987a": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary describes a play-clock officiating error and delay-of-game penalty in Oregon State's football loss to Fresno State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-03-0242"
+    },
+    "efe64950177b8b3f": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "ice hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Recaps an SDSU ice hockey game, and ice hockey is not among San Diego State's listed programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Tyler Sonderholzer"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-03-0242"
+    },
+    "ff0c15f3deb655a3": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps San Diego State football's Halloween win over Washington State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Viviana Ruiz"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-03-0242"
     }
   },
   "runs": {
@@ -27199,6 +27524,47 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 39.64109080005437,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-03-0242": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-03T02:39:43.366809+00:00",
+      "items": 21,
+      "verdict_counts": {
+        "publish": 19,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "The Daily Aztec": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 7
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "31452957fd6c3267",
+          "source": "Mountain West Connection",
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        },
+        {
+          "id": "efe64950177b8b3f",
+          "source": "The Daily Aztec",
+          "phrase": "ice hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 44.79311349987984,
       "tokens": null,
       "tokens_source": null
     }
