@@ -24167,6 +24167,177 @@
         "James Crepea"
       ],
       "run": "run_2026-11-03-1441"
+    },
+    "0d73efda9ffa3756": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Profiles five Fresno State women's basketball players ahead of their season opener.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-04-0240"
+    },
+    "0d8b3492d380175e": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature profile of Texas State women's soccer midfielder Victoria Meza's career and season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Julia Veilleux"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-04-0240"
+    },
+    "1a09d902e229182b": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Recruiting report on five-star prospect Jalen Davis naming Gonzaga among his four finalists.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-04-0240"
+    },
+    "316ddcf4735b5fb3": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Postgame rewind of Gonzaga's season-opening win over Purdue, centered on Xaivian Lee's performance.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-04-0240"
+    },
+    "3b17b9c42096708f": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of Texas State men's basketball's season-opening win over Texas A&M-Corpus Christi.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cooper Yarbough"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-04-0240"
+    },
+    "529b8a0e9c368203": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews San Diego State men's basketball's season opener against Cal State Fullerton.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Iain Henderson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-04-0240"
+    },
+    "563635a95b127f8e": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of Washington State men's basketball's season-opening home loss to Davidson.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Owen Sullivan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-04-0240"
+    },
+    "8a4442ad967e0d85": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Entirely about Nevada's basketball season-opening win over Robert Morris; no new Pac-12 school appears.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-04-0240"
+    },
+    "8c722df7207baa1e": {
+      "subjects": {
+        "san-diego-state/volleyball": "about",
+        "washington-state/womens-volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of SDSU volleyball's four-set win over Washington State, with both teams' play described throughout.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Joel Gaitan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-04-0240"
+    },
+    "cf898041a08470b8": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The lead item in this MWC digest gives substantive treatment to Oregon State's JaMarcus Shephard opposing a Group of Six playoff proposal.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-04-0240"
+    },
+    "fa60492168894ab9": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full game recap of Fresno State men's basketball's season-opening win over Fresno Pacific.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-04-0240"
     }
   },
   "runs": {
@@ -27857,6 +28028,36 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 33.579710100078955,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-04-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-04T02:38:54.165368+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 10,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "8a4442ad967e0d85",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 25.252213699975982,
       "tokens": null,
       "tokens_source": null
     }
