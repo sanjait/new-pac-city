@@ -24338,6 +24338,109 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-11-04-0240"
+    },
+    "38e7943293d1fabb": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A recap of San Diego State women's basketball's season-opening win over Cal State Fullerton, with the Aztecs as the clear subject throughout.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ava Bocek"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-04-1440"
+    },
+    "922875b5b86c8c9e": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Centers on a specific play from Fresno State's win over Oregon State and the conference's handling of the officiating error, making both programs the subject.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-04-1440"
+    },
+    "9a46acc0322e169b": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Beyond the headline the body is only boilerplate survey text about New Mexico's ranking, a team outside the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-04-1440"
+    },
+    "a6b6ff0d4fb9f85a": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers an Oregon State political club's election watch party, not Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Samson Naleway"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-04-1440"
+    },
+    "b72b048e423adc79": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves",
+        "utah-state/football": "about",
+        "san-diego-state/football": "about",
+        "washington-state/football": "involves",
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "colorado-state/football": "about",
+        "conference": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A weekly opinion column giving dedicated treatment to eight of the nine schools' football teams and the conference title races.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-04-1440"
+    },
+    "faa710af9c3ad762": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos football",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece covers New Mexico's first-ever AP Poll ranking and program history; New Mexico is not one of the nine covered schools and no covered program is about or involves.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-04-1440"
     }
   },
   "runs": {
@@ -28058,6 +28161,43 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 25.252213699975982,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-04-1440": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-04T14:38:53.492951+00:00",
+      "items": 6,
+      "verdict_counts": {
+        "publish": 3,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2,
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "9a46acc0322e169b",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        },
+        {
+          "id": "faa710af9c3ad762",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico Lobos football",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 14.65865430003032,
       "tokens": null,
       "tokens_source": null
     }
