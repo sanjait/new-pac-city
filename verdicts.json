@@ -24629,6 +24629,193 @@
         "James Crepea"
       ],
       "run": "run_2026-11-05-0240"
+    },
+    "0c53f7eadacb8cfd": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The headline and summary report Oregon State women's basketball's season-opening loss to Cal Baptist on a game-winning buzzer shot.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-05-1441"
+    },
+    "16f38c47daa7a254": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "boise-state/womens-soccer": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews WSU soccer's regular-season finale against Boise State, with standings and playoff implications for the Cougars.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "BEN WALKER"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-05-1441"
+    },
+    "59fadeea88ea876e": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about",
+        "washington-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The text reports Utah State women's volleyball's 3-2 win over Washington State at the Wayne Estes Center.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dane Johnson"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-05-1441"
+    },
+    "63b91e64f983b2fc": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "texas-state/football": "involves",
+        "colorado-state/football": "involves",
+        "utah-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Boise State is projected to the College Football Playoff throughout, while Oregon State, Fresno State, Texas State, Colorado State, and Utah State each appear repeatedly in the bowl-slot projections.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-05-1441"
+    },
+    "8a26a633cdac2288": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "boise-state/football": "about",
+        "texas-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece covers San Diego State's quarterback decision at length and gives a full recap, with coach quotes and stats, of the Boise State-Texas State game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-05-1441"
+    },
+    "8d23311d6c3591c7": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "texas-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The podcast rundown devotes substantive, if brief, segments to Boise State's near-upset by Texas State and to Fresno State's upset of Oregon State.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Each team gets only a one-sentence teaser in a podcast show-notes summary, so whether coverage rises to involves or stays mere mention is a close call.",
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-05-1441"
+    },
+    "a3a085d7e3fe826d": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline alone names SDSU men's basketball and establishes the piece as a player interview about his upcoming season.",
+      "evidence_basis": "title-only",
+      "unrecognized": [],
+      "byline": [
+        "Connor Larson"
+      ],
+      "run": "run_2026-11-05-1441"
+    },
+    "c24d1677721c57cf": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "All three betting picks concern Mountain West matchups (Air Force-Army, Nevada-New Mexico) among schools outside the nine covered programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-05-1441"
+    },
+    "c778b1a96cd1ef68": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece recounts Gonzaga men's basketball's 23-year season-opening win streak, including Monday's win over Purdue.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-05-1441"
+    },
+    "d527b1c1529f5a59": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline names an Oregon State football player's injury status ahead of the Texas State game, and the summary details the opposing Texas State player's status.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-05-1441"
+    },
+    "e9277ed0a510b37d": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "texas-state/football": "involves",
+        "fresno-state/football": "involves",
+        "washington-state/football": "involves",
+        "colorado-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The weekly observations give a dedicated paragraph each to Oregon State, Boise State, Texas State, Fresno State, Washington State, and Colorado State's performances, plus a note on the conference's new championship trophy.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-05-1441"
     }
   },
   "runs": {
@@ -28422,6 +28609,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 27.062094300054014,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-05-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-05T14:39:14.406367+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 10,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "8d23311d6c3591c7",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 26.24530280008912,
       "tokens": null,
       "tokens_source": null
     }
