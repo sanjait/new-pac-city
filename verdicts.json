@@ -24441,6 +24441,194 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-11-04-1440"
+    },
+    "2e9e961865358250": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece argues that the CFP committee's 25th-place ranking of Boise State is a deliberate snub of the Group of 6, making Boise State football the subject throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-05-0240"
+    },
+    "32a3f2f53cc53e41": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is about Wayne Tinkle's new broadcasting role covering the whole Pac-12; it names Oregon State only to identify him by his former job, not as a subject of OSU athletics coverage.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "A former coach's career move is close to the alum-career exception in the rules, but that exception is written for former players, and nothing here is actually about Oregon State's current program.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-05-0240"
+    },
+    "4d69a149a285a6d9": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "utah-state/womens-soccer": "involves",
+        "boise-state/womens-soccer": "involves",
+        "colorado-state/womens-soccer": "involves",
+        "fresno-state/womens-soccer": "involves",
+        "texas-state/womens-soccer": "involves",
+        "gonzaga": "involves",
+        "oregon-state": "involves",
+        "san-diego-state": "involves",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece lays out WSU's path into the Pac-12 soccer tournament through a full conference standings table naming all nine schools and the results each still needs.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Gonzaga, Oregon State, and San Diego State field both men's and women's soccer and the piece never says which; those three were keyed to the department rather than guessed, since the schedule context (a fall conference race) does not distinguish the two.",
+      "unrecognized": [],
+      "byline": [
+        "BEN WALKER"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-05-0240"
+    },
+    "68faf2cfa1460bbc": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps Washington State women's basketball's season-opening loss to Cal, with player and coach quotes throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Talyn Bell"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-05-0240"
+    },
+    "6b4696356d821e61": {
+      "subjects": {
+        "san-diego-state/womens-soccer": "about",
+        "gonzaga/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps SDSU women's soccer's comeback win over Gonzaga on Senior Night, with both teams' performance and quotes covered in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Lexi Cantrell"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-05-0240"
+    },
+    "864339616a95ba2c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "USU Figure Skating Club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is tagged and written as a club sport (Utah State's figure skating club), and figure skating is not in Utah State's program row.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kylie Jones"
+      ],
+      "extent": "79 min read",
+      "run": "run_2026-11-05-0240"
+    },
+    "90e8705ceb1f0b17": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary is about Oregon State women's basketball's roster size and how the team plans to compensate as the season opens.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-05-0240"
+    },
+    "a229616b7c2dbdac": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece is about Fresno State women's basketball opening its season, its new roster, and its starting five.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-05-0240"
+    },
+    "c00b2ca40f446e5c": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Every team named here gets only a one-line tease pointing to a separate full article (the Wolf Pack's record, a one-line question about Sean Lewis at San Diego State, a bowl-projections link title); none is treated substantively within this piece itself.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-05-0240"
+    },
+    "c20f66c68960b328": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary are about Oregon State's defensive plan for Texas State's quarterback ahead of their game, naming OSU's coordinator by title.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-05-0240"
+    },
+    "c3acd4878dfd6d38": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps SDSU men's basketball's season-opening win, with extensive player and coach quotes; Cal State Fullerton appears only as the opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Connor Larson"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-05-0240"
+    },
+    "f5f55159d568f714": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The summary is Oregon State's offensive coordinator explaining what went wrong in a specific loss, naming the program and the game outcome.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-05-0240"
     }
   },
   "runs": {
@@ -28198,6 +28386,42 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 14.65865430003032,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-05-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-05T02:39:05.248733+00:00",
+      "items": 12,
+      "verdict_counts": {
+        "publish": 9,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "The Oregonian": 1,
+        "The Utah Statesman": 1,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 4
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "864339616a95ba2c",
+          "source": "The Utah Statesman",
+          "phrase": "USU Figure Skating Club",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 27.062094300054014,
       "tokens": null,
       "tokens_source": null
     }
