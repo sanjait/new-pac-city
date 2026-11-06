@@ -24816,6 +24816,206 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-11-05-1441"
+    },
+    "111bda84169bdbbe": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "utah-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps the five-set volleyball match where Utah State completed a reverse sweep over Texas State, with set-by-set detail for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cody Dotson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-06-0241"
+    },
+    "37dc01d6c2f14a3f": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Interview feature on Gardner Minshew's recruitment to and record-setting season at Washington State under Mike Leach.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Thomas Lagrone"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-06-0241"
+    },
+    "3d204d0d9d520491": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Fresno State football's Week 9 matchup against Utah State after a win over Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "run": "run_2026-11-06-0241"
+    },
+    "3dd104be35c34300": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Summary reports Fresno State women's basketball's season-opening blowout win with score and stats.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "run": "run_2026-11-06-0241"
+    },
+    "3f3cc2236e47a2f6": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Title and framing identify this as a roundup of former Washington State players' NFL performances, in-scope alumni coverage.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The body text never states the players attended Washington State; the 'Pro Cougs' framing in the title is what establishes the alumni connection.",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-06-0241"
+    },
+    "4db591426111e9ff": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Oregon State's defensive matchup against Texas State edge rusher Tymere Jackson.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-06-0241"
+    },
+    "5ad176dd0a579ba0": {
+      "subjects": {
+        "boise-state/mens-basketball": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Boise State men's basketball's season-opening result and outlook get a dedicated paragraph within the roundup.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "This is a multi-topic roundup where most blurbs cover non-Pac-12 Mountain West schools, with Boise State hoops getting only one paragraph.",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-06-0241"
+    },
+    "80af1321b73c9b01": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Cougs ice hockey vs Montana (Pac-8 conference)",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Previews a Washington State ice hockey series, and hockey is not a program listed in Washington State's row.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-06-0241"
+    },
+    "b0a5779ca92fb823": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about",
+        "texas-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Utah State volleyball's reverse-sweep win over Texas State with coach and player quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kylie Jones"
+      ],
+      "extent": "45 min read",
+      "run": "run_2026-11-06-0241"
+    },
+    "dfca4d31cd33b4b1": {
+      "subjects": {
+        "boise-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full game recap of Boise State's season-opening win, with box score detail and coach quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-06-0241"
+    },
+    "e492ddebaf1b0128": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers Oregon gubernatorial and local election vote totals, with no athletics content.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Ezekiel Wilday"
+      ],
+      "run": "run_2026-11-06-0241"
+    },
+    "eb054dfd927c04ba": {
+      "subjects": {
+        "texas-state/mens-cross-country": "about",
+        "texas-state/womens-cross-country": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature on Texas State's men's and women's cross country teams and their Pac-12 Championships results.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cody Dotson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-06-0241"
+    },
+    "ff27ddb0fab46986": {
+      "subjects": {
+        "texas-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State women's basketball's season-opening win with player stats and coach quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cooper Yarbough"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-06-0241"
     }
   },
   "runs": {
@@ -28643,6 +28843,47 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 26.24530280008912,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-06-0241": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-06T02:39:49.392656+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 11,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 1,
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {
+        "The Collegian": {
+          "no HTTP status — robots.txt disallows": 2
+        },
+        "The Daily Barometer": {
+          "no HTTP status — robots.txt disallows": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "80af1321b73c9b01",
+          "source": "The Daily Evergreen",
+          "phrase": "Cougs ice hockey vs Montana (Pac-8 conference)",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 27.65747889992781,
       "tokens": null,
       "tokens_source": null
     }
