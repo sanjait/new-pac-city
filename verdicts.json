@@ -25016,6 +25016,147 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-11-06-0241"
+    },
+    "1dde84390124daf6": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "involves",
+        "washington-state/football": "involves",
+        "san-diego-state": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column's lead example and central evidence is Boise State's Halloween night comeback win over Texas State, used to argue for the late-kickoff scheduling strategy.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-06-1440"
+    },
+    "244fdd729bd12090": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The story is squarely about Gonzaga men's basketball player Chauncey Wiggins's lawsuit to secure a fifth year of eligibility.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-06-1440"
+    },
+    "2da173297f8170d5": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The podcast episode reacts to the CFP rankings and New Mexico's first-ever AP ranking, and New Mexico is not among the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Derek Raridon",
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-06-1440"
+    },
+    "735f3144984d10a9": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary identify former Fresno State quarterback Derek Carr's Hall of Fame induction and his comments on his new coaching role, which establishes both the program and that it concerns athletics.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-11-06-1440"
+    },
+    "948a1bac450d4a8c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is a tribute to former Hawaii head coach June Jones, and Hawaii is not one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-06-1440"
+    },
+    "be4475d54fb4a0bb": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece breaks down the Mountain West title race among New Mexico, North Dakota State, UNLV, Air Force and Wyoming, none of which are among the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Toby McMahon"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-06-1440"
+    },
+    "de1d291eebe3e2c9": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "oregon-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves",
+        "washington-state/football": "involves",
+        "conference": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A weekly transfer-portal roundup gives real, individual treatment to incoming transfers at eight of the nine covered football programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-06-1440"
     }
   },
   "runs": {
@@ -28884,6 +29025,76 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 27.65747889992781,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-06-1440": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-06T14:38:43.393744+00:00",
+      "items": 7,
+      "verdict_counts": {
+        "publish": 4,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "948a1bac450d4a8c",
+          "source": "Mountain West Connection",
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        },
+        {
+          "id": "de1d291eebe3e2c9",
+          "source": "Mountain West Connection",
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        },
+        {
+          "id": "de1d291eebe3e2c9",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "id": "de1d291eebe3e2c9",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "de1d291eebe3e2c9",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "de1d291eebe3e2c9",
+          "source": "Mountain West Connection",
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "id": "de1d291eebe3e2c9",
+          "source": "Mountain West Connection",
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 14.12032139999792,
       "tokens": null,
       "tokens_source": null
     }
