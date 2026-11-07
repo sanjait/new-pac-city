@@ -25427,6 +25427,250 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-11-07-0240"
+    },
+    "03f5434f322738c5": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Five in-depth game previews, all between Mountain West teams (New Mexico, Nevada, San Jose State, Northern Illinois, Air Force, Army, Hawaii, UTEP, UNLV, Wyoming) with none from the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "14afe92d02ac6090": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State basketball win over Cal Baptist under coach Justin Joyner, but neither names men's or women's, so the department key is used.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-07-1441"
+    },
+    "241a06be365b9b4a": {
+      "subjects": {
+        "boise-state/mens-basketball": "involves",
+        "utah-state/mens-basketball": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Dedicated paragraphs give real statistical treatment to Boise State's and Utah State's men's basketball season openers.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "2d13d889b7e88cf9": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Every game listed (New Mexico-Nevada, NIU-San Jose State, Air Force-Army, Hawaii-UTEP, Wyoming-UNLV) is a Mountain West matchup with neither team from the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "33e4017fdd93bccb": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "A history piece on the Air Force-Army rivalry, and neither service academy is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Army",
+          "kind": "not-ours"
+        }
+      ],
+      "byline": [
+        "Sean OToole"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "3c94537bff6426d8": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A feature on San Jose State's defensive coordinator and players, and San Jose State is not one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "51ad5e2905e1f522": {
+      "subjects": {
+        "oregon-state": "about",
+        "texas-state": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a how-to-watch piece for tonight's Oregon State vs. Texas State game, but neither names the sport, so the department key is used for each.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-07-1441"
+    },
+    "5465e085452c8a84": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece argues against Nevada hiring Craig Neal, and Nevada is not one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "54e04769c4ea938b": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Washington State women's basketball's loss at Oregon, with quarter-by-quarter scoring and player stats.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-07-1441"
+    },
+    "864d4ef35b18d71e": {
+      "subjects": {
+        "utah-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Utah State women's basketball's loss to LMU, with the head coach quoted extensively.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cambria Thurgood"
+      ],
+      "extent": "30 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "b12c973973f95232": {
+      "subjects": {},
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The game recapped is Purdue losing to Valparaiso, a non-conference matchup; Gonzaga appears only as background context for the coach's prior job and an earlier result.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The whole piece is framed around Gonzaga's result two days earlier and the coach's Gonzaga ties, so whether that counts as Gonzaga figuring substantively is a close call.",
+      "unrecognized": [],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-07-1441"
+    },
+    "c0d181c80065f0a9": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "about",
+        "fresno-state/football": "about",
+        "utah-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "In-depth previews of three games covering six of the nine schools' football programs, with stats, injuries and predictions for each matchup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "d2171728feaeca03": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "A game preview between Hawaii and UTEP, neither of which is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "d867f285894c0c4d": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full preview of Boise State at Colorado State with injury report, key players, and a final score prediction.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-07-1441"
+    },
+    "e0e94c2a80040a37": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Gonzaga women's basketball's loss to Idaho, with Gonzaga's coach and players quoted throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-07-1441"
     }
   },
   "runs": {
@@ -29393,6 +29637,71 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 40.23475890001282,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-07-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-07T14:39:03.110216+00:00",
+      "items": 15,
+      "verdict_counts": {
+        "drop": 7,
+        "publish": 8
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 6,
+        "The Spokesman-Review": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "33e4017fdd93bccb",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "33e4017fdd93bccb",
+          "source": "Mountain West Connection",
+          "phrase": "Army",
+          "kind": "not-ours"
+        },
+        {
+          "id": "3c94537bff6426d8",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "5465e085452c8a84",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "id": "d2171728feaeca03",
+          "source": "Mountain West Connection",
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        },
+        {
+          "id": "d2171728feaeca03",
+          "source": "Mountain West Connection",
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 28.995769400149584,
       "tokens": null,
       "tokens_source": null
     }
