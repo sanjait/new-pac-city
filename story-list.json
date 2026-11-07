@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-06T14:02:59.867624+00:00",
+  "generated_at": "2026-11-07T02:03:05.949810+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Mountaintop View 11-6-26: Mountain West Basketball, Power Rankings, UTEP/Hawaii, Boise State/Colorado State, PAC-12 Weekend Preview, Gonzaga Basketball",
+        "link": "https://www.mwcconnection.com/mountain-west-news/95456/mountaintop-view-11-6-26-mountain-west-basketball-power-rankings-utep-hawaii-boise-state-colorado-state-pac-12-weekend-preview-gonzaga-basketball",
+        "link_kind": "item",
+        "date": "2026-11-06T14:00:00+00:00",
+        "summary": "The Mountain West loses a clear administrative figure Head of Men’s basketball Niko Roberts is leaving for a similar role in the ACC. Mountain West Power Rankings Chris Murray gives his football power rankings, do you agree? UTEP Football is looking for its first Mountain West win Can they get it against Hawaii? UTEP is [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "f56ef7d1ae51b21e",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "No. 22 Utah State, Boise State Share Regular Season Title, Seeding Set for Pac-12 Women's Soccer Championship",
         "link": "http://pac-12.com/news/2026/11/6/no-22-utah-state-boise-state-share-regular-season-title-seeding-set-for-womens-soccer-championship.aspx",
@@ -139,20 +153,6 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "c24d1677721c57cf",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "10 Things I Learned from Week 9 of the 2026 College Football Season.",
-        "link": "https://www.mwcconnection.com/mountain-west-football/95286/mountain-west-pac-12-football-boise-state-broncos-new-mexico-lobos",
-        "link_kind": "item",
-        "date": "2026-11-04T17:00:00+00:00",
-        "summary": "Week 9 has come and gone, with some chaotic and fun games in both the Mountain West and Pac-12 conferences. A lot of interesting things happened. Let’s discuss what we can glean from this past week of college sports. 1) Oregon State’s offense can be neutralized For the past month or so, the Beavers have [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "e9277ed0a510b37d",
         "sport": "football",
         "medium": "text"
       },
@@ -547,23 +547,51 @@
         "id": "b01bf5a14fcbb4b2",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "Pac-12 Tuesday: JaMarcus Shephard and Oregon State Taking “The First Step” Back",
-        "link": "https://pressbreak.substack.com/p/pac-12-tuesday-jamarcus-shephard",
-        "link_kind": "item",
-        "date": "2026-09-22T19:41:52+00:00",
-        "summary": "In the first three games of a new era, Oregon State football has risen out of realignment ashes.",
-        "author": "Kyle Kensing",
-        "duration": null,
-        "channel_url": "",
-        "source": "Press Break",
-        "id": "fb6433f1f9a81fd1",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Boise State": [
+      {
+        "title": "Boise State women’s volleyball swept by Oregon State",
+        "link": "https://www.arbiteronline.com/2026/11/06/boise-state-womens-volleyball-swept-by-oregon-state/",
+        "link_kind": "item",
+        "date": "2026-11-06T22:36:30+00:00",
+        "summary": "<p>Colton Worwood Boise State women’s volleyball was swept by visiting Oregon State in three sets Wednesday night at the Bronco Gymnasium, falling 25-20, 25-20 and 25-19 in a crucial Pac-12 matchup. The Broncos had their chances, especially in the first two sets, but struggled with attack errors and Oregon State&#8217;s strong net play. The Beavers&#8217; [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/06/boise-state-womens-volleyball-swept-by-oregon-state/\">Boise State women&#8217;s volleyball swept by Oregon State</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "author": "Sports Team",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Arbiter",
+        "id": "2e084423e5b813ce",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Broncos Host Butler on USA Network",
+        "link": "https://broncosports.com/news/2026/11/6/mens-basketball-broncos-host-butler-on-usa-network",
+        "link_kind": "item",
+        "date": "2026-11-06T21:00:00+00:00",
+        "summary": "<img alt=\"Pearson Carmichael vs. West Coast Baptist\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/Carmichael__Pearson__8_.jpg\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "c3e3dcf01e2b7e1c",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Boise State women’s soccer captures first Pac-12 Regular Season Championship",
+        "link": "https://www.arbiteronline.com/2026/11/06/boise-state-womens-soccer-captures-first-pac-12-regular-season-championship/",
+        "link_kind": "item",
+        "date": "2026-11-06T16:38:09+00:00",
+        "summary": "<p>Boise State women’s soccer secured a share of the Pac-12 Regular Season Championship Thursday night, defeating Washington State 1-0 at home to cap off a strong conference campaign.</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/06/boise-state-womens-soccer-captures-first-pac-12-regular-season-championship/\">Boise State women&#8217;s soccer captures first Pac-12 Regular Season Championship</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "author": "Jake Zamora",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Arbiter",
+        "id": "39efab3daa0d6ca9",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "No. 20/21/25 Broncos and Rams Clash in Colorado on Saturday",
         "link": "https://broncosports.com/news/2026/11/5/football-broncos-and-rams-clash-on-saturday-in-colorado",
@@ -635,11 +663,11 @@
         "medium": "text"
       },
       {
-        "title": "Boise State men’s hoops routs West Coast Baptist in season opener",
+        "title": "Men’s basketball routs West Coast Baptist in season opener",
         "link": "https://www.arbiteronline.com/2026/11/05/boise-state-mens-hoops-routs-west-coast-baptist-in-season-opener/",
         "link_kind": "item",
         "date": "2026-11-05T17:47:14+00:00",
-        "summary": "<p>ExtraMile Arena was raining buckets Wednesday night, as the Boise State Broncos eviscerated the West Coast Baptist Eagles 132-53 to open the 2026-27 regular season.&#160; The Broncos’ 132 points set the single-game program record, with their field goals (51), rebounds (67) and margin of victory (79) also marking all-time bests. The stat sheet spoke for [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/05/boise-state-mens-hoops-routs-west-coast-baptist-in-season-opener/\">Boise State men&#8217;s hoops routs West Coast Baptist in season opener</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "summary": "<p>ExtraMile Arena was raining buckets Wednesday night, as the Boise State Broncos eviscerated the West Coast Baptist Eagles 132-53 to open the 2026-27 regular season.</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/05/boise-state-mens-hoops-routs-west-coast-baptist-in-season-opener/\">Men&#8217;s basketball routs West Coast Baptist in season opener</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
         "author": "Jake Zamora",
         "duration": null,
         "channel_url": "",
@@ -1057,20 +1085,6 @@
         "medium": "text"
       },
       {
-        "title": "Behind the pom-poms stands a team of elite athletes",
-        "link": "https://www.arbiteronline.com/2026/10/29/behind-the-pom-poms-stands-a-team-of-elite-athletes/",
-        "link_kind": "item",
-        "date": "2026-10-29T18:37:39+00:00",
-        "summary": "<p>Fans may see the Boise State Spirit Squad as merely cheering on the sidelines, but behind the initial glance is a high-caliber team packed with years of experience.</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/10/29/behind-the-pom-poms-stands-a-team-of-elite-athletes/\">Behind the pom-poms stands a team of elite athletes</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
-        "author": "Emilia Rose Nowinski",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Arbiter",
-        "id": "eb9c0894d0227b15",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Butka, Wheeler-Thomas Named to Pac-12 Preseason Impact List",
         "link": "https://broncosports.com/news/2026/10/29/mens-basketball-butka-wheeler-thomas-named-to-pac-12-preseason-impact-list",
         "link_kind": "item",
@@ -1209,20 +1223,6 @@
         "channel_url": "",
         "source": "Boise State Athletics",
         "id": "6faa2e1c89a1eda6",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Hosts Washington in Second Exhibition Contest",
-        "link": "https://broncosports.com/news/2026/10/16/mens-basketball-boise-state-hosts-washington-in-second-exhibition-contest",
-        "link_kind": "item",
-        "date": "2026-10-16T18:30:00+00:00",
-        "summary": "<img alt=\"Dovydas Butka vs. Idaho in an exhibition game at Idaho Central Arena\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/16/MC_MBvsUoI_0106.jpg\" /><br /><br />Playing its second exhibition contest on Saturday, Boise State will host Washington at Idaho Central Arena, located in downtown Boise.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "e6d250eda3051b99",
         "sport": "mbb",
         "medium": "text"
       },
@@ -1375,6 +1375,20 @@
       }
     ],
     "Colorado State": [
+      {
+        "title": "Setting the Stage: Building a Mentoring Culture",
+        "link": "https://csurams.com/news/2026/11/6/football-setting-the-stage-building-amentoring-culture",
+        "link_kind": "item",
+        "date": "2026-11-06T21:00:00+00:00",
+        "summary": "<img alt=\"Robbie Harrison\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/Robbie_Harrison.jpg\" /><br /><br />Defense seeks the change of doing things better",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "54eddabe296b1fb6",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Memorable Moments: Taking Down the Posts a Thing of the Past",
         "link": "https://csurams.com/news/2026/11/5/football-memorable-moments-taking-down-the-posts-a-thing-of-the-past",
@@ -1599,20 +1613,6 @@
         "channel_url": "",
         "source": "Colorado State Athletics",
         "id": "69e704129930f670",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Memorable Moments: Running it Back with No. 30",
-        "link": "https://csurams.com/news/2026/10/29/football-memorable-moments-running-it-back-with-no-30",
-        "link_kind": "item",
-        "date": "2026-10-29T21:00:00+00:00",
-        "summary": "<img alt=\"mm\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/31/mmweek8.jpg\" /><br /><br />Trio in that number reset the rushing standard",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "603e4aad38f57ffe",
         "sport": "football",
         "medium": "text"
       },
@@ -2023,38 +2023,23 @@
         "extent": "59 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Reality check: What BYU exposed about CSU in a 41-23 loss",
-        "link": "https://bleav.com/shows/ramnation-radio/episodes/reality-check-what-byu-exposed-about-csu-in-a-41-23-loss/",
-        "link_kind": "item",
-        "date": "2026-09-23T00:24:00+00:00",
-        "summary": "<p>CSU got its first look at an elite opponent, and No. 11 BYU provided a sobering measuring stick in a 41-23 win at Canvas Stadium. Joel and Mike break down what went wrong, from BYU’s domination in the trenches and CSU’s continued problems stopping explosive plays to the first-quarter hamstring injury that knocked Hauss Hejny out of the game. They also discuss K’saan Farrar and Darius Curry stepping in at quarterback, CSU’s continued knack for creating turnovers, and Jim Mora’s refusal to use the talent disparity as an excuse. Plus, the guys take a deeper look at the game-day atmosphere, CSU’s aggressive ticket-pricing strategy, the large BYU presence inside Canvas and whether record student turnout has masked a bigger challenge in building the Rams’ broader fan base.</p>\n<p>This RamNation Radio episode is brought to you by <a href=\"https://bit.ly/38QRcaN\">Pedersen Toyota</a>, your Local Toyota Dealer Serving Fort Collins, Loveland, Windsor and Timnath for more than 50 years. It is also made possible by <a href=\"https://bit.ly/3kBuSnX\">Ginger and Baker</a> — our favorite restaurant(s) in all of Fort Collins, and <a href=\"https://bit.ly/3syDFAy\">Ram Zone (powered by the CSU Bookstore)</a> — the best place to get all your Ram gear.</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
-        "author": "info@milehighsports.com (Mile High Sports)",
-        "duration": 3509,
-        "channel_url": "",
-        "source": "RamNation Radio",
-        "id": "c5033643ffe59f17",
-        "extent": "58 min",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Rams Look Forward to Building Stage",
-        "link": "https://csurams.com/news/2026/9/22/womens-basketball-rams-look-forward-to-building-stage",
-        "link_kind": "item",
-        "date": "2026-09-22T20:12:00+00:00",
-        "summary": "<img alt=\"WBB Team\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/22/WBB_start.jpg\" /><br /><br />Williams and crew trust a plan which has worked",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "8ebf096e7d2e4353",
-        "sport": "wbb",
-        "medium": "text"
       }
     ],
     "Fresno State": [
+      {
+        "title": "First road trip takes Bulldogs to Boulder",
+        "link": "https://gobulldogs.com/news/2026/11/6/womens-basketball-first-road-trip-takes-bulldogs-to-boulder",
+        "link_kind": "item",
+        "date": "2026-11-06T21:20:00+00:00",
+        "summary": "<img alt=\"WBB bench \" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/26-11-04-DS-WBB-vs_UC_Merced__80_.JPG\" /><br /><br />MEDIA COVERAGE",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Fresno State Athletics",
+        "id": "fb31117825108a6e",
+        "sport": "wbb",
+        "medium": "text"
+      },
       {
         "title": "'I actually get to enjoy this' - Carr headlines Hall Class",
         "link": "https://www.yourcentralvalley.com/sports/i-actually-get-to-enjoy-this-carr-headlines-hall-class/",
@@ -2947,6 +2932,34 @@
     ],
     "Gonzaga": [
       {
+        "title": "New Mexico State has proven production, experience in shifty guard DJ Dudley | Key matchup",
+        "link": "http://www.spokesman.com/stories/2026/nov/06/new-mexico-state-has-proven-production-experience-/",
+        "link_kind": "item",
+        "date": "2026-11-06T00:00:00+00:00",
+        "summary": "<p>New Mexico State had a good pulse on DJ Dudley before the Aggies visited Louisiana Tech last season for a Conference USA matchup on Feb. 4.</p><p>New Mexico State coach Jason Hooten watched film of the four games Dudley played before he squared off with the Aggies: a 25-point effort against Jacksonville State, 20-point efforts against Kennesaw State and UTEP and a 21-point game against Sam Houston State.</p><p>Those performances moved Dudley to the top of New Mexico State’s scouting report – if he wasn’t already there – and potentially put him near the top of Hooten’s offseason wish list. Dudley entered the transfer portal a few months later and committed to the Aggies on April 23, giving the fourth-year coach experience and production in his reconstructed backcourt.</p><p>Dudley is no longer on Hooten’s scouting report, but he’ll be at the top of opposing ones this season, including the scouting report No. 15 Gonzaga (1-0) is finalizing before Saturday’s 2 p.m. (KHQ) home opener against New Mexico State (1-0) at McCarthey Athletic Center.</p><p>“We took him because he was an all-conference guy who averaged 15 (points), helped his team go to the conference championship game,” Hooten said during a phone interview earlier this week. “He’s got that experience, he’s kind of been there and done that. Just really my biggest thing with him is taking that next step and having that level of consistency to where you can depend on him to be a guy you can ride a little bit.”</p><p>Dudley was an All-Conference USA First Team selection in 2025-26 and not surprisingly appeared on the 10-player Preseason All-Conference USA Team released last month.</p><p>A 6-foot-3 guard, Dudley averaged 13.8 points, 2.8 rebounds and 2.0 assists last season, shooting 43.1% from the field while making 36.2% from the 3-point line on 4.8 attempts per game. He averaged 14.8 ppg in C-USA games, reaching the 20-point threshold seven times in league play.</p><p>“Definitely a shot-maker, a guy that can play one on one and get a basket maybe when you need one,” Hooten said. “Trying to get him better and every coach is different. You play for a different coach, different style, different expectations. So he’s trying to learn those things. Good player and we’re going to have to have him now even more with Gabe out for the year.”</p><p>A native of Okinawa, Japan, Dudley is well-traveled. After playing high school basketball at LA (Los Angeles) Premier Prep, he started his college career at New Jersey-based Rider University in 2023-24 before transferring to Hutchinson Community College in Kansas and then Louisiana Tech.</p><p>Dudley’s junior season didn’t end on a good note – the guard had just five points on 2 of 16 shooting in a Conference USA title game loss to the Kennesaw State team Gonzaga faced in the opening round of the NCAA Tournament – but he’s off to a strong start at NMSU, scoring 22 points in Tuesday’s opener against Western New Mexico.</p><p>Dudley should be a good early-season test for Gonzaga’s Isiah Harwell, a quality perimeter defender who’s expected to take on most of the team’s top defensive assignments after spending a year with Kelvin Sampson at Houston.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "0fe6cdf5830f20ae",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Compromised New Mexico State team grateful for Gonzaga opportunity: 'It's really hard to get these games anymore'",
+        "link": "http://www.spokesman.com/stories/2026/nov/06/compromised-new-mexico-state-team-grateful-for-gon/",
+        "link_kind": "item",
+        "date": "2026-11-06T00:00:00+00:00",
+        "summary": "<p>Jason Hooten still sends out feelers during the offseason, but most of his phone calls to high-major programs soliciting interest in a nonconference game with New Mexico State culminate with the same response.</p><p>More often than not, something along the lines of “thanks, but no thanks.”</p><p>“It’s really, really hard to get these games anymore,” the Aggies’ fourth-year coach said earlier this week ahead of Saturday’s 2 p.m. (KHQ) meeting between No. 15 Gonzaga (1-0) and New Mexico State (1-0) at McCarthey Athletic Center.</p><p>Looking to turn a profit for their athletic department and capitalize on the few opportunities that exist to raise revenue-sharing dollars, New Mexico State and other midmajor programs are still incentivized to schedule so-called “buy games.”</p><p>The dilemma Hooten and coaching peers have encountered in recent years? Teams in the Big Ten, SEC, Big 12, ACC and Big East have become much less inclined to schedule them.</p><p>The NCAA’s NET rating, a tool used to sort and select the NCAA Tournament field, generally doesn’t reward high-major programs for blowout victories over capable midmajor opponents, but a narrow win or loss could damage the resume in a significant way. It’s better to play it safe and schedule teams projected to fall between 200-350 in the NET than those in the 100-200 range.</p><p>Since Hooten took over at New Mexico State in 2023-24, the Aggies have played three high-major opponents in total. Last season, they failed to get one on the schedule. So New Mexico State’s coach was equally surprised and relieved when Gonzaga agreed to squeeze the Aggies in, setting up just the second meeting between the schools.</p><p>“We were at a point in time where we needed a game like this financially,” Hooten said. “&#8230; I want to thank those guys for playing us, because it’s been really hard for us over the last two years since things have changed with the NET, it’s hard for these high majors to schedule good mid majors anymore.</p><p>“So it was awesome on their part to want to do this, because it was something we really needed. On the flip side, obviously a tough challenge for us. It’s a game that will definitely improve your team and these are the kind of games where if you don’t already know what to work on and improve on, you definitely will after a game like this probably.”</p><p>Gonzaga will see at least 10 high-major opponents in nonconference play, but outside of those higher-profile tests, Saturday’s game against New Mexico State could be the most challenging. The NET ratings aren’t out yet but the Aggies currently sit No. 131 at KenPom, slightly better than Montana State (No. 132) and significantly higher than Cornell (No. 205), Incarnate Word (No. 324) and NAIA Eastern Oregon teams visiting the Kennel over the next two months.</p><p>Picked to finish sixth in the preseason Conference USA poll, New Mexico State is also somewhat compromised coming out of a closer-than-expected 73-66 season-opening victory over Division II Western New Mexico on Tuesday.</p><p>The Aggies lost senior guard Gabe Warren, the team’s most consistent player during preseason practices and scrimmages, to a season-ending ACL injury after just nine minutes, and navigated the opener with seventh-year senior guard KK Robinson on a minutes restriction.</p><p>Robinson, who played two seasons at Arkansas, one at Texas A&amp;M and one at Arkansas-Little Rock before missing consecutive seasons with double ACL injuries, is still working up to full speed and will be limited on Saturday against Gonzaga.</p><p>“We have so much to work on and improve on,” Hooten said. “I knew it was going to be a tough game (against Western New Mexico), just because in our scrimmages we had a little bit of everything but still we just hadn’t had our whole team together,” Hooten said. “So you’re trying to mix and match offense and you’re trying to mix and match positions. It’s kind of been wild and bizarre.”</p><p>Hooten, who spent 13 seasons coaching Sam Houston State, has a relationship with Gonzaga assistant Stephen Gentry, who previously worked under former Stephen F. Austin coach Brad Underwood in the Southland Conference.</p><p>“They’re tall and big and just really, really skilled,” Hooten said of Gonzaga. “I think coach Few has always done that. He’s always done a good job of recruiting really talented and skilled players, because they play the game the right way and they’re probably always one of the top offensive teams in the country.”</p><p>It will be a big task for New Mexico State’s starting frontcourt, 6-8 forward Mark Lavrenov and 6-9 forward Leopold Levillain, who’s operating at the ‘5’ spot for the Aggies this season. Levillain is a transfer from Long Beach State who previously played for the U-21 team at Cholet Basket in France. Gonzaga guard Nathan De Sousa had extensive experience with Cholet’s youth and senior teams before making the transition to college basketball.</p><p>Lavrenov averaged 9.9 points and 7.0 rebounds last season at Sacramento State and posted a double-double of 17 points and 10 rebounds against Western New Mexico. Lavrenov will likely match up with Gonzaga’s Braden Huff, who could be looking for a bounce-back game after finishing just 4 of 11 from the field in Monday’s opener against Purdue.</p><p>“It will be a great challenge for Mark to get to play against great size and length,” Hooten said. “Guys that are very established on that level. I know Mark though. Mark’s a tough kid and he plays really, really hard and passionate. I know he’ll be ready enough for the challenge.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "8805d0c915327c65",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "WBB Stays Home to Host Idaho on Friday",
         "link": "https://gozags.com/news/2026/11/5/womens-basketball-wbb-stays-home-to-host-idaho-on-friday",
         "link_kind": "item",
@@ -3628,34 +3641,6 @@
         "medium": "text"
       },
       {
-        "title": "Gonzaga distributes 'meaningful minutes' to variety of players during 91-59 exhibition victory",
-        "link": "http://www.spokesman.com/stories/2026/oct/28/gonzaga-distributes-meaningful-minutes-to-variety-/",
-        "link_kind": "item",
-        "date": "2026-10-28T00:00:00+00:00",
-        "summary": "<p>Mark Few would usually zero in on things like field goal percentage, rebounding or turnovers. With NAIA Lewis-Clark State visiting for Wednesday’s exhibition, Gonzaga’s coach was focused on another statistical column when judging whether the team’s final preseason tune-up was ultimately a success.</p><p>No, not final score. Gonzaga was expected to win in runaway fashion and had no issue, cruising past LCSC 91-59 at McCarthey Athletic Center.</p><p>Few’s eyes shifted to another section of the final stat sheet: minutes played. Everybody on Gonzaga’s roster registered at least four, with only one player, point guard Javon Bennett, exceeding 20 during Wednesday’s exhibition rout.</p><p>Another positive? The Zags left the Kennel without any injury concerns and should have everyone who played Wednesday available for Monday’s 4:30 p.m. (TNT/HBO Max) showdown with Purdue at T-Mobile Arena in Las Vegas.</p><p>“I think the best thing is we were able to get everybody in and get them kind of substantial minutes,” said Few, who wasn’t able to disperse playing time as liberally during a tightly contested exhibition loss at Arkansas on Saturday. “The other night, kind of the way it was going, you probably didn’t get as many guys in as you’d like, meaningful minutes. So getting everybody meaningful minutes tonight was probably the best thing.”</p><p>Scoring balance might have been a close second.</p><p>Gonzaga’s leading scorers, Parker Jefferson and Izan Almansa, both finished with 12 points but nine players had at least six. Joining Jefferson and Almansa in the double-digit club were Braden Huff and Bennett, who had 11 points apiece, along with Massamba Diop, who overcame a slow start to add 10.</p><p>Even in a dominant preseason win, though, Few was able to poke holes and identify shortcomings. The Zags were improved but still below-average from the perimeter, making 9 of 27 (33%) four days after a dismal 6 of 28 (214%) showing at Arkansas.</p><p>They won the rebounding column, but Few felt the 41-36 disparity should’ve been more substantial given the height, size and athleticism advantage Gonzaga still had over its NAIA opponent at nearly every position on the floor – even when Few’s reserves were in the game.</p><p>“Rebounding is something, we haven’t been good in the preseason here,” Few said. “Didn’t exactly do a great job tonight. We battled at Arkansas against a really good, big team but it’s something we’ve always got to take to heart because it’s going to be a big key to our season.”</p><p>Davis Fogle returned to Gonzaga’s starting lineup after taking precautionary measures and sitting out with a left leg injury against Arkansas. The sophomore wing played just 16 minutes, but was effective at both ends of the floor, scoring eight points on 4-of-9 shooting to go with two rebounds, two assists and two steals.</p><p>Gonzaga made its first two 3-pointers out of the gates, from starting guards Xaivian Lee and Isiah Harwell, and put together an impressive three-possession stretch minutes later when Diop blocked an LCSC shot into the first row, Harwell collected an offensive rebound before going back up for a dunk and Fogle converted on a steal-and-score sequence to extend a 7-0 run.</p><p>The Zags lost control of the game for a brief stretch after that, making a hockey substitution that saw the five starters replaced by five newcomers: Bennett, Nathan De Sousa, Luca Foster, Almansa and Sam Funches.</p><p>Fueled by seven straight points from Idaho transfer Titus Yearout, the Warriors went on an 8-0 run to close the deficit to 23-18 with 11 minutes, 11 seconds to play. But Gonzaga outscored its opponent 31-9 to close the frame and went into halftime with a 54-27 advantage.</p><p>Yearout led the Lewiston-based Warriors with 12 points, making 4 of 14 shots from the field and 2 of 6 from the 3-point line. Dylan Skaife, a Ferris High School product, scored five points on 2 of 7 from the field and 1 of 6 from the 3-point line.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "93e8aae031d2f036",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Gonzaga’s bench, led by Izan Almansa, contributes in exhibition blowout",
-        "link": "http://www.spokesman.com/stories/2026/oct/28/gonzagas-bench-led-by-izan-almansa-contributes-in-/",
-        "link_kind": "item",
-        "date": "2026-10-28T00:00:00+00:00",
-        "summary": "<p>Izan Almansa received his eligibility just six days ago, but his intuitive play on the court makes it seem like he’s been in a Gonzaga uniform for a few years.</p><p>The 6-foot-10, 220-pound forward from Spain has been solid off the bench in a pair of exhibition games, including a 12-point effort in the first half of the Zags’ 91-59 exhibition rout over NAIA Lewis-Clark State College on Wednesday at the McCarthey Athletic Center.</p><p>The NCAA cleared Almansa on Friday, just before the team departed for Arkansas. One day later, Almansa was one of the most productive Zags, scoring 14 points in a 76-72 loss to 15th-ranked Arkansas in Fayetteville.</p><p>“It was right before the flight, coach (Stephen) Gentry told me,” Almansa said. “I wasn’t expecting to play. Everyone on the team got so hyped, me too. It was a really good moment.”</p><p>Almansa, who played for the NBA G League Ignite in 2023-24 and spent last season with Real Madrid in Spain’s Liga ACB, is on track to be the first big off the bench behind Braden Huff and Arizona State transfer Massamba Diop.</p><p>“He’s just got a very good feel for the game, so when you have that, everybody plays better with you and the game becomes a little easier for everybody,” head coach Mark Few said. “He knows when to pass, he understands spacing, he knows how to find his own shot.</p><p>“He’s just a really skilled basketball player. Those guys are always great to have on the floor from a coach’s perspective and also to play with.”</p><p>Almansa made 6 of 9 shots, including 1 of 2 3-pointers, against the talented Razorbacks. He hit 4 of 5 field-goal attempts, 2 of 2 on 3s, against LCSC.</p><p>“He’s obviously played against some really good players, some pros, in his time,” Huff said. “He’s super smart, athletic, quick. He’s a lot of fun to play with. I think he gives defenses a different look and he’s also really good on defense. He’ll be another big piece for us.”</p><p>Almansa was part of a GU bench that sputtered when five subs entered at the 14-minute mark of the first half. The Zags’ 11-point lead melted to seven before the starting unit returned.</p><p>The bench’s second run was a different story, outscoring the Warriors 18-2, boosting GU’s halftime lead to 54-27.</p><p>“Everyone was welcoming me great, knowing I wasn’t eligible at first,” said Almansa, whose first name is pronounced E-thun. “So it was a little bit hard, but everybody helped me, gave me a lot of confidence from my coaches, teammates, everybody here.”</p><p>Sophomore forward Parker Jefferson had nice stretches in each half and finished with 12 points, six rebounds, two assists and two blocks.</p><p>“I’m really proud of Parker,” said Huff, who scored 11 points in just 16 minutes. “He gave us good minutes (against Arkansas) and tonight he also did good things out there. I told him, I’ve been there coming off a redshirt year where you’re finally playing. I just told him to be ready regardless of what his role is night in and night out.”</p><p>Dayton transfer Javon Bennett, who had a tough shooting night (1 of 8) vs. Arkansas, chipped in 11 points, including three 3-pointers, and two assists against the visitors from Lewiston. Freshman guard Juwan Ekanga, a 6-6 freshman guard, added seven points, four rebounds and three assists. Gonzaga’s bench produced 47 points.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "c9c7770de342fa73",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Arkansas Exhibition Takeaways",
         "link": "https://houseofkrause.substack.com/p/arkansas-exhibition-takeaways",
         "link_kind": "item",
@@ -3825,6 +3810,90 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "ASOSU Senate kills bill requiring budget reviews",
+        "link": "https://dailybaro.orangemedianetwork.com/33665/daily-barometer-news/asosu-senate-kills-bill-requiring-budget-reviews/",
+        "link_kind": "item",
+        "date": "2026-11-07T00:21:03+00:00",
+        "summary": "Oregon State University’s student government has killed a bill that would have required a budgetary review of any financial legislation. At the Oct. 27 meeting, the Associated Students of Oregon State University’s Senate voted 6-1, with nine abstentions, to shut down the “Mandatory Budgets Committee Review Act.” The act would have required that any legislation...",
+        "author": "Gabriel Robinson, ASOSU Beat Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "d4b0a7a6c7ca0d5c",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Undergraduate enrollment soars, graduate programs decline, citing visa delays, cancellations",
+        "link": "https://dailybaro.orangemedianetwork.com/33661/daily-barometer-news/undergraduate-enrollment-soars-graduate-programs-decline-citing-visa-delays-cancellations/",
+        "link_kind": "item",
+        "date": "2026-11-06T23:01:42+00:00",
+        "summary": "For the 13th year, Oregon State University remains the state&#8217;s largest university, including representation from all 36 of Oregon&#8217;s counties, 50 states and more than 100 countries.  This fall, OSU experienced its largest enrollment on record, just over what it was in 2024. Around 10,000 new students enrolled in classes for the fall term, according...",
+        "author": "Campbell Grove, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "4870289b4bdafb13",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Kaku-ixt mana ina haws and El Centro celebrate Día de Los Muertos",
+        "link": "https://dailybaro.orangemedianetwork.com/33656/daily-barometer-news/kaku-ixt-mana-ina-haws-and-el-centro-celebrate-dia-de-los-muertos/",
+        "link_kind": "item",
+        "date": "2026-11-06T22:23:13+00:00",
+        "summary": "On Monday, students from Oregon State’s kaku-ixt mana ina haws and El Centro, formerly known as the Centro Cultural Ceasar Chavez, held their annual Día de Los Muertos, or Day of the Dead, celebration with sweets, drinks and activities. The event was held at the kaku-ixt mana ina haws Native American and Pacific Islander student...",
+        "author": "John Pranger, Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "ba79e294ae80f961",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Beavers vs. Texas State Bobcats preview: Pac-12’s top 2 QBs set to air it out",
+        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-beavers-vs-texas-state-bobcats-preview-pac-12s-top-2-qbs-set-to-air-it-out.html",
+        "link_kind": "item",
+        "date": "2026-11-06T20:00:00+00:00",
+        "summary": "Breaking down Saturday's matchup of Oregon State and Texas State",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "59ba7c78765ab1b4",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Scouting the Bobcats: 5 questions, prediction with a Texas State reporter",
+        "link": "https://www.oregonlive.com/beavers/2026/11/scouting-the-bobcats-5-questions-prediction-with-a-texas-state-reporter.html",
+        "link_kind": "item",
+        "date": "2026-11-06T18:05:24+00:00",
+        "summary": "Insight into the Bobcats ahead of Saturday's game.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "a42cc760134c53b1",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Key OSU defender sidelined for Saturday's game vs. Bobcats",
+        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-starting-safety-out-vs-texas-state.html",
+        "link_kind": "item",
+        "date": "2026-11-06T15:22:40+00:00",
+        "summary": "Oregon State safety Sailasa Vadrawale III will miss Saturday's game against Texas State, along with receiver Eddie Freauff, as the Beavers prepare for the matchup.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "4e6307dda2b48fd6",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Post-election night ballot results provide insight on potential winning candidates",
         "link": "https://dailybaro.orangemedianetwork.com/33649/city-daily-barometer/ballot-results-provide-insight-on-winning-candidates/",
@@ -4220,20 +4289,6 @@
         "medium": "text"
       },
       {
-        "title": "Competition and cultivation discussed at Board of Trustees meeting",
-        "link": "https://dailybaro.orangemedianetwork.com/33561/daily-barometer-news/competition-and-cultivation-discussed-at-board-of-trustees-meeting/",
-        "link_kind": "item",
-        "date": "2026-11-02T19:10:38+00:00",
-        "summary": "Editor&#8217;s note: This article incorrectly stated a set date for the HECC to vote on UO&#8217;s College of Engineering proposal. No such decisions have been made. The Oregon State University Board of Trustees met Oct. 21-23 to discuss the university’s financial plans regarding shifting expenditures, competition and priorities in higher education. Executive Director of the...",
-        "author": "John Pranger, Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "86111f3a1041bf4c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "What JaMarcus Shephard said about Oregon State’s loss at Fresno State, matchup with Texas State",
         "link": "https://www.oregonlive.com/beavers/2026/11/live-updates-jamarcus-shephard-recaps-oregon-states-loss-at-fresno-state-previews-matchup-with-texas-state.html",
         "link_kind": "item",
@@ -4500,20 +4555,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State Beavers vs. Fresno State Bulldogs preview: OSU’s win streak, spot atop the Pac-12 on the line",
-        "link": "https://www.oregonlive.com/beavers/2026/10/oregon-state-beavers-vs-fresno-state-bulldogs-preview-osus-win-streak-spot-atop-the-pac-12-on-the-line.html",
-        "link_kind": "item",
-        "date": "2026-10-30T19:00:00+00:00",
-        "summary": "Previewing Saturday night's game between Oregon State and Fresno State.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "ffc9e100f8551c4b",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State to Host Weber State in Season Opener",
         "link": "https://osubeavers.com/news/2026/10/30/mens-basketball-oregon-state-to-host-weber-state-in-season-opener",
         "link_kind": "item",
@@ -4760,6 +4801,48 @@
     ],
     "San Diego State": [
       {
+        "title": "Women’s basketball capitalizes on a rowdy crowd in a hard-fought victory against North Texas",
+        "link": "https://thedailyaztec.com/129783/sports/womens-basketball-capitalizes-on-a-rowdy-crowd-in-a-hard-fought-victory-against-north-texas/",
+        "link_kind": "item",
+        "date": "2026-11-07T00:00:41+00:00",
+        "summary": "The San Diego State Aztecs (2-0) continued their winning ways with a 73-57 victory against the North Texas Mean Green (1-1) at Viejas Arena on Thursday morning.  After a 30-30 deadlock at halftime and allowing a 9-0 run by North Texas to open the third quarter, the Aztecs&#8217; second-half response proved to be the deciding...",
+        "author": "Tyler Ross, Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "a97ccf4eb4888fd8",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Natalia Martinez steps up in new role amid Naomi Panganiban’s absence",
+        "link": "https://thedailyaztec.com/129778/sports/natalia-martinez-steps-up-in-new-role-amid-naomi-panganibans-absence/",
+        "link_kind": "item",
+        "date": "2026-11-06T22:43:12+00:00",
+        "summary": "San Diego State (2-0) has leaned on junior guard Natalia Martinez offensively after losing Naomi Panganiban to a lower leg injury, sidelining her indefinitely.  Martinez displayed her ability on Thursday by scoring a game-high 25 points against North Texas (1-1) in San Diego State&#8217;s 73-57 win at Viejas Arena. Martinez shot 7-for-11 from the field...",
+        "author": "William Trowbridge, Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "a987c81e85245539",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Through trials and tribulations, Katie Senn continues to pledge her allegiance to SDSU women’s soccer",
+        "link": "https://thedailyaztec.com/129773/sports/through-trials-and-tribulations-katie-senn-continues-to-pledge-her-allegiance-to-sdsu-womens-soccer/",
+        "link_kind": "item",
+        "date": "2026-11-06T18:52:55+00:00",
+        "summary": "Five seasons can bring plenty of change in college athletics — players come and go, and new faces enter the locker room every season. However, for San Diego State women’s soccer, two things have remained consistent: midfielder Katie Senn and her allegiance to the Scarlet and Black. Now in her fifth year as an Aztec,...",
+        "author": "Jesus Garcia, Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "62af3b8fbe8634d5",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Aztecs Rally Past North Texas 73-57",
         "link": "https://goaztecs.com/news/2026/11/5/aztecs-rally-past-north-texas-73-57",
         "link_kind": "item",
@@ -4774,11 +4857,11 @@
         "medium": "text"
       },
       {
-        "title": "WBB v NorthTexas",
+        "title": "WBB v North Texas",
         "link": "https://goaztecs.com/news/2026/11/5/wbb-v-northtexas-110526",
         "link_kind": "item",
         "date": "2026-11-05T22:31:30+00:00",
-        "summary": "05 November 2026:  San Diego State women’s basketball beat Norther Texas 73-57 Thursday morning at Viejas Arena.",
+        "summary": "05 November 2026:  San Diego State women’s basketball beat North Texas 73-57 Thursday morning at Viejas Arena.",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -5042,34 +5125,6 @@
         "medium": "text"
       },
       {
-        "title": "SDSU leans on running attack for Halloween victory against Washington State",
-        "link": "https://thedailyaztec.com/129698/sports/sdsu-leans-on-running-attack-for-halloween-victory-against-washington-state/",
-        "link_kind": "item",
-        "date": "2026-11-02T20:18:36+00:00",
-        "summary": "A ground-and-pound offensive attack propelled San Diego State (4-5) to a 26-20 victory over Washington State (1-8) on Halloween night.  Coming off a 56-49 road loss to Colorado State, the Aztecs sought to find success at home in front of a crowd of almost 20,000 against the Cougars.  The Aztecs relied on the running game...",
-        "author": "Viviana Ruiz, Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "ff0c15f3deb655a3",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Three takeaways from SDSU’s 4-0 shutout loss to Oregon",
-        "link": "https://thedailyaztec.com/129693/sports/three-takeaways-from-sdsus-4-0-shutout-loss-to-oregon/",
-        "link_kind": "item",
-        "date": "2026-11-02T17:10:08+00:00",
-        "summary": "The Oregon Ducks (6-4-1-0) defeated the San Diego State Aztecs (2-7-0-0) by a score of 4-0 Saturday night at Kroc Center Ice Arena.  Senior goalie Liam Dee started for the Aztecs, while Thomas Cafarelli started for the Ducks. After winning 4-3 the previous night on the back of a three-goal third period, an inconsistent 60...",
-        "author": "Tyler Sonderholzer, Senior Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "efe64950177b8b3f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Men's Hoops Open 2026-27 Season Tuesday Versus Cal State Fullerton",
         "link": "https://goaztecs.com/news/2026/11/2/mens-hoops-open-2026-27-season-tuesday-versus-cal-state-fullerton",
         "link_kind": "item",
@@ -5179,20 +5234,6 @@
         "source": "San Diego State Athletics",
         "id": "64d0a7d3ffa25792",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "International newcomers bring pro experience while forging chemistry with the Aztecs",
-        "link": "https://thedailyaztec.com/129653/sports/basketball/international-newcomers-bring-pro-experience-while-forging-chemistry-with-the-aztecs/",
-        "link_kind": "item",
-        "date": "2026-10-31T19:00:19+00:00",
-        "summary": "On the San Diego State men’s basketball roster, players are listed by the high schools and colleges they played at before becoming Aztecs. This season, however, international clubs and programs stand out amongst American high schools and colleges.  This offseason, SDSU brought in four players from overseas. Those players include: forwards Luka Skoric from Croatia...",
-        "author": "Samuel Cozart, Senior Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "3407861a16e969ee",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -6148,6 +6189,34 @@
     ],
     "Texas State": [
       {
+        "title": "TXST narrowly miss Pac-12 tournament despite win over Fresno State",
+        "link": "https://universitystar.com/37098/sports/txst-narrowly-miss-pac-12-tournament-despite-win-over-fresno-state/",
+        "link_kind": "item",
+        "date": "2026-11-06T17:41:16+00:00",
+        "summary": "Three different Bobcats found the goal in Texas State’s 3-1 win over the Fresno State Bulldogs, but it wouldn’t be enough as they narrowly missed the Pac-12 tournament. The Bobcat&#8217;s (10-4-4, 3-3-2 Pac-12) postseason hopes would come to an end at halftime following Gonzaga’s 2-0 victory over Oregon State earlier in the night, leaving the...",
+        "author": "Jackson Grettler, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "487102c9288e6684",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "‘Cats set multiple program records in a blowout victory over Howard Payne",
+        "link": "https://universitystar.com/37096/sports/cats-set-multiple-program-records-in-a-blowout-victory-over-howard-payne/",
+        "link_kind": "item",
+        "date": "2026-11-06T17:36:22+00:00",
+        "summary": "It was a recording breaking night for the Texas State Bobcats as they broke a 14-year scoring record en route to a 135-66 domination against the Howard Payne Yellow Jackets Thursday night at Strahan Arena. The Bobcats (2-0) caught fire with an efficient night, shooting 61% from the field and 44% from behind the arc on...",
+        "author": "Lucas Castillo, Sports Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "421602cd954e25a9",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Bobcats Ink Program Record 135 Points in Victory over Howard Payne",
         "link": "https://txst.com/news/2026/11/5/mens-basketball-bobcats-ink-program-record-135-points-in-victory-over-howard-payne.aspx",
         "link_kind": "item",
@@ -6386,20 +6455,6 @@
         "medium": "text"
       },
       {
-        "title": "Bobcats beat UTRGV in exhibition match",
-        "link": "https://universitystar.com/36981/sports/bobcats-beat-utrgv-in-exhibition-match/",
-        "link_kind": "item",
-        "date": "2026-10-30T03:56:11+00:00",
-        "summary": "Senior point guard Crystal Henderson led the Texas State Bobcats to a 76-43 victory in their exhibition opener against the University of Texas Rio Grande Valley Vaqueros Thursday night at Strahan Arena. Henderson, the former Sun Belt Freshman of the Year at Georgia State, finished her Bobcat debut with 19 points and eight assists while...",
-        "author": "Luke Landa, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "19c2e9ee2310e816",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Game Preview: TXST vs No. 20 Boise State",
         "link": "https://txst.com/news/2026/10/29/football-game-preview-txst-vs-no-20-boise-state.aspx",
         "link_kind": "item",
@@ -6439,20 +6494,6 @@
         "source": "Texas State Athletics",
         "id": "42f7cbd939cdb08b",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Texas State men’s basketball retools roster for Pac-12 debut",
-        "link": "https://universitystar.com/36895/sports/texas-state-mens-basketball-retools-roster-for-pac-12-debut/",
-        "link_kind": "item",
-        "date": "2026-10-29T17:00:39+00:00",
-        "summary": "Texas State men’s basketball head coach Terrence Johnson will lead the retooled Bobcats into their first campaign in the rebuilt Pac-12 Conference. Coming off a 19-11 season in 2025-26 and after 13 years competing in the Sun Belt Conference, which saw the ‘Cats win back-to-back regular season conference titles in 2021 and 2022 with one...",
-        "author": "Ryan Keilman, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "a0febeccbafece63",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -6639,6 +6680,34 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "Women’s Basketball Falls to LMU 70-45",
+        "link": "https://utahstateaggies.com/news/2026/11/6/womens-basketball-womens-basketball-falls-to-lmu-70-45.aspx",
+        "link_kind": "item",
+        "date": "2026-11-06T23:59:00+00:00",
+        "summary": "<img alt=\"Utah State women's basketball guard Lisa Thompson drives into the LMU defense\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/DSC06710.jpg\" /><br /><br />LOGAN, Utah – Utah State women's basketball lost to LMU 70-45 on Friday afternoon at the Dee Glen Smith Spectrum.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "16f79b440e4f6fb7",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Aggies defeat Aztecs to secure first ever Pac-12 championship",
+        "link": "https://usustatesman.com/aggies-defeat-aztecs-to-secure-first-ever-pac-12-championship/",
+        "link_kind": "item",
+        "date": "2026-11-06T07:15:48+00:00",
+        "summary": "<p>The Utah State Aggies took home the victory against San Diego State Thursday night, winning their first-ever Pac-12 regular season&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/aggies-defeat-aztecs-to-secure-first-ever-pac-12-championship/\">Aggies defeat Aztecs to secure first ever Pac-12 championship</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
+        "author": "Rory McNeill",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Utah Statesman",
+        "id": "0bf144c14fbd075b",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Aggies Set for First All-Time Meeting with Omaha",
         "link": "https://utahstateaggies.com/news/2026/11/5/mens-basketball-aggies-set-for-first-all-time-meeting-with-omaha.aspx",
@@ -7006,20 +7075,6 @@
         "medium": "text"
       },
       {
-        "title": "Calvelo becomes first Aggie in over 55 years to advance to NCAA Individuals Championship",
-        "link": "https://usustatesman.com/calvelo-becomes-first-aggie-in-over-55-years-to-advance-to-ncaa-individuals-championship/",
-        "link_kind": "item",
-        "date": "2026-10-26T13:06:15+00:00",
-        "summary": "<p>Utah State University tennis player Xavier Calvelo will attend the NCAA individual championships on Nov. 17-22 as the first national&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/calvelo-becomes-first-aggie-in-over-55-years-to-advance-to-ncaa-individuals-championship/\">Calvelo becomes first Aggie in over 55 years to advance to NCAA Individuals Championship</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
-        "author": "Elissa Ross",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Utah Statesman",
-        "id": "90a08abc8e9add87",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Aggie Football Drops 20-17 Heartbreaker at Texas State",
         "link": "https://utahstateaggies.com/news/2026/10/24/aggie-football-drops-20-17-heartbreaker-at-texas-state.aspx",
         "link_kind": "item",
@@ -7234,6 +7289,35 @@
       }
     ],
     "Washington State": [
+      {
+        "title": "Cougar volleyball set to take on Gonzaga",
+        "link": "https://dailyevergreen.com/201373/sports/cougar-volleyball-set-to-take-on-gonzaga/",
+        "link_kind": "item",
+        "date": "2026-11-06T18:44:09+00:00",
+        "summary": "WSU (9-12, 4-7 Pac-12) heads to Spokane, Washington, to take on Gonzaga (8-16, 3-9 Pac-12) Saturday at 11 a.m. The Cougars come into the match off a 0-2 week, where they lost to Utah State (5-16, 4-7 Pac-12) and San Diego State (15-7, 10-2 Pac-12).  The former was a five-set defeat. The Cougs forced a...",
+        "author": "Conner Orr, Deputy Campus Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "20fbfb1eaa18652d",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Washington State Football Is at a Crossroads | Kirby Moore & What's Next for the Cougs?",
+        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/Washington-State-Football-Is-at-a-Crossroads--Kirby-Moore--Whats-Next-for-the-Cougs-e3rsb96",
+        "link_kind": "item",
+        "date": "2026-11-06T05:48:54+00:00",
+        "summary": "<p>Washington State football is at a crossroads. With just three games remaining, it&#39;s time to take an honest look at where the Cougs stand, what&#39;s gone wrong, and what needs to happen moving forward.</p><p>On this episode of <strong>The Palouse Playbook</strong>, we&#39;re diving into the current state of WSU football and the future of the program under head coach Kirby Moore.</p><p>We&#39;re discussing:</p><p>🏈 <strong>The Kirby Moore Era:</strong> How much time should Cougar fans give the first-year head coach? What has gone right, what needs to change, and where does accountability come into play?</p><p>🏈 <strong>Offensive Struggles:</strong> Breaking down the offensive line, the transition from the Air Raid, play-calling decisions, and what needs to happen to get this offense moving.</p><p>🏈 <strong>The Final Three Games:</strong> Why it&#39;s time to open things up, take chances, experiment with personnel, and give players opportunities to prove themselves.</p><p>🏈 <strong>The Transfer Portal:</strong> What should WSU prioritize this offseason? Can the Cougs retain their core players while adding the talent needed to compete?</p><p>🏈 <strong>Looking Ahead:</strong> The coaching staff, program infrastructure, recruiting, and the long-term vision for Washington State football.</p><p>We&#39;re frustrated with the results, but we&#39;re not giving up on the future. The next three games matter, and there&#39;s plenty of work to do in Pullman.</p><p>What do YOU think about the current state of Washington State football? Is Kirby Moore the right guy to lead this program? What needs to change?</p><p>Let us know in the comments!</p><p><strong>IF YOU&#39;RE INTERESTED IN BEING GREAT, YOU BETTER LOOK HARD INTO WASHINGTON STATE. GO COUGS!</strong></p><p>🔴 Subscribe to The Palouse Playbook for Washington State Cougars football coverage, analysis, recruiting discussions, and everything happening in Pullman.</p><p>#WSUFootball #GoCougs #WashingtonStateFootball #KirbyMoore #Pac12 #CollegeFootball #PalousePlaybook</p>",
+        "author": "Up West Sports",
+        "duration": 1991,
+        "channel_url": "",
+        "source": "Palouse Playbook",
+        "id": "9c6978847260a85e",
+        "extent": "33 min",
+        "sport": "football",
+        "medium": "audio"
+      },
       {
         "title": "WSU Hits The Road For Their First Road Trip Of The Season",
         "link": "https://wsucougars.com/news/2026/11/5/wsu-hits-the-road-for-their-first-road-trip-of-the-season",
@@ -7489,20 +7573,6 @@
         "medium": "audio"
       },
       {
-        "title": "Furious five: Cougar basketball’s most enticing players in 2026",
-        "link": "https://dailyevergreen.com/201056/sports/furious-five-cougar-basketballs-most-enticing-players-in-2026/",
-        "link_kind": "item",
-        "date": "2026-11-02T14:00:55+00:00",
-        "summary": "With only two players back from last season, Washington State’s roster is almost entirely new again. Five of those new faces, a mix of transfers and a standout leader, look ready to carry the Cougs. Year three of the David Riley era is upon us, and for the third straight year the top players are...",
-        "author": "Ibrahim Daniel, Evergreen reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "5e6ed0e30d88e4f4",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "5 key takeaways from WSU football’s loss to San Diego State",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/5-key-takeaways-from-wsu-footballs-loss-to-san-diego-state/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -7682,7 +7752,7 @@
         "link": "http://www.spokesman.com/stories/2026/nov/01/wsu-hoops-ready-to-kick-off-new-season-with-home-m/",
         "link_kind": "item",
         "date": "2026-11-01T00:00:00+00:00",
-        "summary": "<p>Earlier this summer, when David Riley was enjoying a break from coaching the Washington State’s men’s basketball team, he got a ribbing from his brother.</p><p>Noah Riley, a quality control coach and analyst for the NFL’s New York Giants, gave him a hard time: <em>Riley teams are so soft.</em></p><p>Back then, Noah was likely referring to the two problems that have plagued Riley’s first two WSU teams: Turnovers and defense. The Cougars finished last season ranked No. 292 in turnover rate and No. 248 in effective field goal percentage defense, painting a picture of an undisciplined, mistake-prone club.</p><p>Ahead of Riley’s third season at WSU, which begins with a home matchup against Davidson at 6 p.m. Monday, can the Cougars reverse those trends?</p><p>“Well, I think it starts in practice,” said Riley, whose team plays just five home nonconference games this season. “With our teams in the past that have won championships and won a lot of games, there’s been chippy practices, and it’s uncomfortable. And you walk away from practice with just a little bit of uncomfortableness because someone had to lose. I think that’s something that we’ve taken away this year.”</p><p>In the first year of the rebuilt Pac-12, WSU will use a retooled roster with 14 newcomers to try and turn around the problems that afflicted the last two Cougar teams. As they head into Monday’s season opener, they’ll likely start the same group that fueled their team’s second and final exhibition game, a road win over rival Washington last week.</p><p>That will likely mean lots of touches for East Texas A&amp;M transfer wing Ronnie Harrison, who tallied a team-best 23 points and 11 rebounds in that game, plus opportunities for Central Missouri transfer guard Lazerek Houston and Oregon transfer guard Jamari Phillips, each of whom scored in double figures. The rest of the Cougs’ starting lineup figures to include UNLV transfer big man Ladji Dembele and Northwestern transfer forward Tyler Kropp, whose size could make a difference for a WSU team that has struggled to rebound the past two seasons.</p><p>Against Davidson, which was picked to finish eighth of 14 teams in the Atlantic 10 preseason poll, WSU will likely need some more of that recipe. The Cougars played an ugly game to beat the Huskies . The game featured a combined 87 free throws, and neither team shot better than 40% from the field  . But they did make nine 3-pointers. They got five combined from Providence transfer wing Jaylen Harrell and former Eastern Washington wing Casey Jones, who spent the last two years on a church mission.</p><p>From a 30,000-foot view, that’s the main contingent that the Cougars will use to replace several key offseason losses, including several to the transfer portal: Ace Glass (Vanderbilt), forward ND Okafor (Mississippi State) and wing Ri Vavers (Memphis), plus guards Jerone Morton (Kentucky) and Tomas Thrastarson (Seattle U), forward Eemeli Yalaho (NC State) and key reserve Parker Gerrits (Wyoming).</p><p>This WSU team features only two returners, forward Dominik Robinson and walk-on guard Dio Blakely, which means most of the minutes will belong to transfers. A few other names to watch include TCU transfer RJ Jones and French freshman forward Mohamed Sankhe.</p><p> Sankhe totaled  five points and three rebounds in 15 minutes against UW.</p><p>Wake Forest transfer guard Sebastian Akins also figures to make a splash, but because an injury sidelined him for both exhibition games, it’s unclear when he’ll be able to get on the court.</p><p>“We’ve got a lot of new faces, and so it’s been a really busy preseason for us trying to get in some concepts,” Riley said. “I think we simplified a few things to make sure that we’re able to play together and play hard, and I think that’s something that just takes time. And I think we’re learning those lessons.”</p>",
+        "summary": "<p>Earlier this summer, when David Riley was enjoying a break from coaching the Washington State’s men’s basketball team, he got a ribbing from his brother.</p><p>Noah Riley, a quality control coach and analyst for the NFL’s New York Giants, gave him a hard time: <em>Our teams are way tougher.</em></p><p>Back then, Noah was likely referring to the two problems that have plagued Riley’s first two WSU teams: Turnovers and defense. The Cougars finished last season ranked No. 292 in turnover rate and No. 248 in effective field goal percentage defense, painting a picture of an undisciplined, mistake-prone club.</p><p>Ahead of Riley’s third season at WSU, which begins with a home matchup against Davidson at 6 p.m. Monday, can the Cougars reverse those trends?</p><p>“Well, I think it starts in practice,” said Riley, whose team plays just five home nonconference games this season. “With our teams in the past that have won championships and won a lot of games, there’s been chippy practices, and it’s uncomfortable. And you walk away from practice with just a little bit of uncomfortableness because someone had to lose. I think that’s something that we’ve taken away this year.”</p><p>In the first year of the rebuilt Pac-12, WSU will use a retooled roster with 14 newcomers to try and turn around the problems that afflicted the last two Cougar teams. As they head into Monday’s season opener, they’ll likely start the same group that fueled their team’s second and final exhibition game, a road win over rival Washington last week.</p><p>That will likely mean lots of touches for East Texas A&amp;M transfer wing Ronnie Harrison, who tallied a team-best 23 points and 11 rebounds in that game, plus opportunities for Central Missouri transfer guard Lazerek Houston and Oregon transfer guard Jamari Phillips, each of whom scored in double figures. The rest of the Cougs’ starting lineup figures to include UNLV transfer big man Ladji Dembele and Northwestern transfer forward Tyler Kropp, whose size could make a difference for a WSU team that has struggled to rebound the past two seasons.</p><p>Against Davidson, which was picked to finish eighth of 14 teams in the Atlantic 10 preseason poll, WSU will likely need some more of that recipe. The Cougars played an ugly game to beat the Huskies . The game featured a combined 87 free throws, and neither team shot better than 40% from the field  . But they did make nine 3-pointers. They got five combined from Providence transfer wing Jaylen Harrell and former Eastern Washington wing Casey Jones, who spent the last two years on a church mission.</p><p>From a 30,000-foot view, that’s the main contingent that the Cougars will use to replace several key offseason losses, including several to the transfer portal: Ace Glass (Vanderbilt), forward ND Okafor (Mississippi State) and wing Ri Vavers (Memphis), plus guards Jerone Morton (Kentucky) and Tomas Thrastarson (Seattle U), forward Eemeli Yalaho (NC State) and key reserve Parker Gerrits (Wyoming).</p><p>This WSU team features only two returners, forward Dominik Robinson and walk-on guard Dio Blakely, which means most of the minutes will belong to transfers. A few other names to watch include TCU transfer RJ Jones and French freshman forward Mohamed Sankhe.</p><p> Sankhe totaled  five points and three rebounds in 15 minutes against UW.</p><p>Wake Forest transfer guard Sebastian Akins also figures to make a splash, but because an injury sidelined him for both exhibition games, it’s unclear when he’ll be able to get on the court.</p><p>“We’ve got a lot of new faces, and so it’s been a really busy preseason for us trying to get in some concepts,” Riley said. “I think we simplified a few things to make sure that we’re able to play together and play hard, and I think that’s something that just takes time. And I think we’re learning those lessons.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -7822,7 +7892,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/31/washington-state-brings-in-14-new-players-after-ma/",
         "link_kind": "item",
         "date": "2026-10-31T00:00:00+00:00",
-        "summary": "<p>PULLMAN – After David Riley wrapped up his second season at the helm of Washington State’s men’s basketball program in April, he may have felt like he was having deja vu.</p><p>For the second straight year, his entire starting five had departed. For the second straight year, he would have to rebuild an entire roster from scratch. He’d have to do it all via the transfer portal, which had claimed each of the top scorers from his first two WSU teams.</p><p>So headed into his third season, the Cougars’ basketball roster looks almost entirely brand new, as it has each of the two years that preceded it. Gone are Ace Glass and ND Okafor, two staples of last year’s WSU team, as are all but two players from that team.</p><p>Riley spent much of the spring and summer constructing the roster for this 2026-27 team, which kicks off its season Monday at home against Davidson, one of the rare nonconference games at Beasley Coliseum to open the season.</p><p>Before that happens, though, let’s revisit how Riley’s third WSU team came together, the players, the fits and how it all rounded into shape for the Cougars. The good news for Riley: In late March and early April, before the transfer portal officially opened, many of the WSU players who planned on leaving announced their plans to do so. The Cougars knew the players they would have to replace and had more time to scour the portal for new fill-ins.</p><p>That stands in stark contrast to last spring, when the players leaving WSU didn’t make that decision until after the portal opened, leaving coaches with less time to find their replacements.</p><p>WSU’s team includes 14 newcomers, including nine from the transfer portal: Texas A&amp;M transfer wing Ronnie Harrison, Northwestern transfer forward Tyler Kropp, Providence transfer wing Jaylen Harrell, Central Missouri (D-II) transfer guard Lazerek Houston, TCU transfer guard RJ Jones, Wake Forest transfer guard Sebastian Akins, Manhattan transfer forward Fraser Roxburgh, UNLV transfer forward Ladji Dembele and Oregon transfer guard Jamari Phillips.</p><p>Riley’s third roster also includes wing Casey Jones, who last played for Riley at Eastern Washington before taking the next two years off for a church mission, as well as Spanish guard Pedro Sancho Moraga, French forward Mohamed Sankhe Golden State Prep product Roman Stathis, freshman Brayden Kyman and returners Dominik Robinson and Dio Blakely.</p><p>“We’ve got a lot of new faces, and so it’s been a really busy preseason for us, trying to get in some concepts,” Riley said in late October. “I think we simplified a few things to make sure that we’re able to play together and play hard, and I think that’s something that just takes time. And I think we’re learning those lessons. I think we have more aggression, a little more confidence than last year.”</p><p>The Cougars’ first commitment of the offseason came courtesy of Roxburgh, who came over from Manhattan College in New York City, where he started in 31 of 32 games, averaging 11 points and 5.8 rebounds per game. Roxburgh also shot 44% from the field, including 32% from beyond the arc on four attempts per game.</p><p>He figures to play a stretch four role, not unlike that of former forward Simon Hildebrandt, who played for last year’s WSU team. In Roxburgh’s commitment, it became clear that Riley and coaches value some versatility at their small forward or power forward spots.</p><p>“I think when I was still at Eastern, we were looking at him more as a three-four,” Riley said in the spring. “He’s another guy who just brings a ton of versatility to the game. Can pass, can think the game.”</p><p>WSU coaches’ second addition of the offseason came from Houston, who lit up the Division II ranks last season, averaging 20.8 points, four rebounds and five assists on 46.2% shooting, including 37% from 3-point territory. A quick ball-handler and crafty finisher, Houston’s finalists included one of WSU’s future Pac-12 opponents, Boise State.</p><p>“On my visit, it kinda felt like a family,” Houston said. “Just talking to the coaches, it wasn’t awkward. I didn’t feel like I gotta portray myself as somebody else. I felt like I could be myself, talk to them, and I just felt like it was like a good community. And I wanted to be a part of that.”</p><p>Around the same time, Riley picked up commitments from two other players who figure to play cornerstone roles on this team, Akins and Harrison. Akins started his career at Denver before playing last season at Wake Forest, where he averaged 5.3 points in 15.2 minutes per game, starting in eight games.</p><p>Harrison started his career at Tarleton State before spending last season at East Texas A&amp;M, where he averaged 14.7 points and 6.1 rebounds in 30 minutes per game, starting 28 of 30 games. He also shot an efficient 53% inside the arc.</p><p>“Ronnie is a guy that’s super talented,” Riley said. “Bigger than he looks on film. He came up on his visit, and just a big body, strong, really just a confident player that can do a little bit of everything.”</p><p>That’s also around the same time when Riley secured a commitment from Kropp, a transfer from Northwestern, where fans seemed disappointed to lose him. Starting 10 games that season, he averaged 3.1 points and 2.1 rebounds per game.</p><p>Other staples on this WSU team figure to include Phillips and Dembele, who joined Kropp, Houston and Harrison in the Cougars’ starting lineup for their exhibition opener, a 92-64 loss to New Mexico in October. Phillips profiles as a scoring guard, while Dembele provides some physicality underneath and some upside around the arc, where he can shoot it from 3.</p><p>Can that group help Riley put a forgettable season in the rearview mirror? It might help that over the offseason, his brother, Noah, gave David a hard time. “Riley teams are soft,” he would tell him.</p><p>Whether or not that’s true, what can David do to turn around that perception this season?</p><p>“I think it starts in practice,” Riley said. “With our teams in the past that have won championships and won a lot of games, there’s been chippy practices, and it’s uncomfortable. And you walk away from practice with just a little bit of uncomfortableness because someone had to lose. I think that’s something that we’ve taken away this year.”</p>",
+        "summary": "<p>PULLMAN – After David Riley wrapped up his second season at the helm of Washington State’s men’s basketball program in April, he may have felt like he was having deja vu.</p><p>For the second straight year, his entire starting five had departed. For the second straight year, he would have to rebuild an entire roster from scratch. He’d have to do it all via the transfer portal, which had claimed each of the top scorers from his first two WSU teams.</p><p>So headed into his third season, the Cougars’ basketball roster looks almost entirely brand new, as it has each of the two years that preceded it. Gone are Ace Glass and ND Okafor, two staples of last year’s WSU team, as are all but two players from that team.</p><p>Riley spent much of the spring and summer constructing the roster for this 2026-27 team, which kicks off its season Monday at home against Davidson, one of the rare nonconference games at Beasley Coliseum to open the season.</p><p>Before that happens, though, let’s revisit how Riley’s third WSU team came together, the players, the fits and how it all rounded into shape for the Cougars. The good news for Riley: In late March and early April, before the transfer portal officially opened, many of the WSU players who planned on leaving announced their plans to do so. The Cougars knew the players they would have to replace and had more time to scour the portal for new fill-ins.</p><p>That stands in stark contrast to last spring, when the players leaving WSU didn’t make that decision until after the portal opened, leaving coaches with less time to find their replacements.</p><p>WSU’s team includes 14 newcomers, including nine from the transfer portal: Texas A&amp;M transfer wing Ronnie Harrison, Northwestern transfer forward Tyler Kropp, Providence transfer wing Jaylen Harrell, Central Missouri (D-II) transfer guard Lazerek Houston, TCU transfer guard RJ Jones, Wake Forest transfer guard Sebastian Akins, Manhattan transfer forward Fraser Roxburgh, UNLV transfer forward Ladji Dembele and Oregon transfer guard Jamari Phillips.</p><p>Riley’s third roster also includes wing Casey Jones, who last played for Riley at Eastern Washington before taking the next two years off for a church mission, as well as Spanish guard Pedro Sancho Moraga, French forward Mohamed Sankhe Golden State Prep product Roman Stathis, freshman Brayden Kyman and returners Dominik Robinson and Dio Blakely.</p><p>“We’ve got a lot of new faces, and so it’s been a really busy preseason for us, trying to get in some concepts,” Riley said in late October. “I think we simplified a few things to make sure that we’re able to play together and play hard, and I think that’s something that just takes time. And I think we’re learning those lessons. I think we have more aggression, a little more confidence than last year.”</p><p>The Cougars’ first commitment of the offseason came courtesy of Roxburgh, who came over from Manhattan College in New York City, where he started in 31 of 32 games, averaging 11 points and 5.8 rebounds per game. Roxburgh also shot 44% from the field, including 32% from beyond the arc on four attempts per game.</p><p>He figures to play a stretch four role, not unlike that of former forward Simon Hildebrandt, who played for last year’s WSU team. In Roxburgh’s commitment, it became clear that Riley and coaches value some versatility at their small forward or power forward spots.</p><p>“I think when I was still at Eastern, we were looking at him more as a three-four,” Riley said in the spring. “He’s another guy who just brings a ton of versatility to the game. Can pass, can think the game.”</p><p>WSU coaches’ second addition of the offseason came from Houston, who lit up the Division II ranks last season, averaging 20.8 points, four rebounds and five assists on 46.2% shooting, including 37% from 3-point territory. A quick ball-handler and crafty finisher, Houston’s finalists included one of WSU’s future Pac-12 opponents, Boise State.</p><p>“On my visit, it kinda felt like a family,” Houston said. “Just talking to the coaches, it wasn’t awkward. I didn’t feel like I gotta portray myself as somebody else. I felt like I could be myself, talk to them, and I just felt like it was like a good community. And I wanted to be a part of that.”</p><p>Around the same time, Riley picked up commitments from two other players who figure to play cornerstone roles on this team, Akins and Harrison. Akins started his career at Denver before playing last season at Wake Forest, where he averaged 5.3 points in 15.2 minutes per game, starting in eight games.</p><p>Harrison started his career at Tarleton State before spending last season at East Texas A&amp;M, where he averaged 14.7 points and 6.1 rebounds in 30 minutes per game, starting 28 of 30 games. He also shot an efficient 53% inside the arc.</p><p>“Ronnie is a guy that’s super talented,” Riley said. “Bigger than he looks on film. He came up on his visit, and just a big body, strong, really just a confident player that can do a little bit of everything.”</p><p>That’s also around the same time when Riley secured a commitment from Kropp, a transfer from Northwestern, where fans seemed disappointed to lose him. Starting 10 games that season, he averaged 3.1 points and 2.1 rebounds per game.</p><p>Other staples on this WSU team figure to include Phillips and Dembele, who joined Kropp, Houston and Harrison in the Cougars’ starting lineup for their exhibition opener, a 92-64 loss to New Mexico in October. Phillips profiles as a scoring guard, while Dembele provides some physicality underneath and some upside around the arc, where he can shoot it from 3.</p><p>Can that group help Riley put a forgettable season in the rearview mirror? It might help that over the offseason, his brother, Noah, gave David a hard time. “Our teams are way tougher,&#8221; Noah would say, referring to his New York Giants, where he works as a quality control coach.</p><p>Whether or not that’s true, what can David do to turn around that perception this season?</p><p>“I think it starts in practice,” Riley said. “With our teams in the past that have won championships and won a lot of games, there’s been chippy practices, and it’s uncomfortable. And you walk away from practice with just a little bit of uncomfortableness because someone had to lose. I think that’s something that we’ve taken away this year.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -7902,20 +7972,6 @@
         "medium": "text"
       },
       {
-        "title": "To knock off SDSU on road and earn first FBS win, WSU's offense will have to kick into gear",
-        "link": "http://www.spokesman.com/stories/2026/oct/30/to-knock-off-sdsu-on-road-and-earn-first-fbs-win-w/",
-        "link_kind": "item",
-        "date": "2026-10-30T00:00:00+00:00",
-        "summary": "<p>PULLMAN – At the beginning of the week, when the frustration still hung in the hair like a bad smell and several questions lingered unanswered, Kirby Moore returned to what he knew for sure. As he thought back to Washington State’s last game, a home loss to conference power Boise State, he was certain of one thing.</p><p>In his second start at quarterback, Owen Eshelman may have thrown one critical interception, which is when the Cougars began to lose the lead and lose the game. But he also directed one scoring drive and kept things clean otherwise.</p><p>“I thought Owen battled his tail off,” Moore said.</p><p>If the Cougars play their best in their next game, a road matchup with San Diego State set for Saturday afternoon, Eshelman shouldn’t have to. That’s because WSU will be going up against one of the country’s worst defenses in SDSU, which ranks three spots up from last in the country in total defense and five spots up from last in scoring defense.</p><p>The Aztecs (3-5, 2-2 Pac-12) are giving up about 36 points per game, allowing some 462 yards per contest, some of the worst numbers nationwide. Looking to earn its first FBS win of the season and end a five-game slide, WSU (1-7, 0-4) would do well to take advantage of those trends.</p><p>Can Eshelman and the Cougars do so? That much will likely depend on a few factors: Can their offensive line protect Eshelman and clear space for a robust rushing attack? Can Eshelman avoid turnovers? And perhaps most importantly, what can WSU get out of its three-receiver rotation of Branden Ganashamoorthy, Daniel Blood and Tank Hawkins – and will Moore’s group expand things?</p><p>Receiver Darrius Clemons, who exited early from his team’s loss to Utah State earlier this month, is listed as questionable for Saturday’s game. In his absence, the Cougs haven’t exactly expanded their receiver rotation to include other pieces like West Georgia transfer Jordan Dees or walk-on Caleb Northcroft, who would likely be next up. Instead, Moore has asked even more out of his starters, especially Ganashamoorthy, who has played 503 snaps, the third most in the country among receivers. Blood has logged 448, which is No. 21.</p><!--[embed id=12376]--><p>WSU is one of only four teams with two receivers in the top 25, making clear what Moore seemed to indicate earlier in the week: Coaches really only trust those three starters. Is that conducive to a win, especially on the road? The temptation is to say no, but crazier things have happened.</p><p>“We talk about deliberate practice,” Moore said, explaining his use of only three wideouts. “That really starts with bringing great energy, having verbal combat, doing your assignment, making sure you’re not thinking out there, that you’re just reacting. I think we’ve had too many errors from a practice standpoint with guys (not) knowing their assignments, whether it’s motions, details within the position. We’ve got a lot of trust in the guys who are out there on the field. If other guys improve and they’re to the standard, they’ll be out there.”</p><p>Regardless of how that trend pans out, WSU will want more out of its offensive line, and it’ll be interesting to see whether Moore shakes things up at that position group. As currently constructed, the group of left tackle Ashton Tripp, left guard Jonny Lester, center Noah Dunham, right guard Nick Bakken and right tackle Jaylin Caldwell aren’t just giving up sacks. They’re also struggling to run-block, which is making things exceedingly hard on the Cougs’ tailback trio.</p><p>Just how much has that limited the production of Kirby Vorhees, Maxwell Woods and Leo Pulalasi? In seven games against FBS competition, those running backs are averaging only 15 carries for 48 yards. They’ve enjoyed a stray long rush – against Utah State, Pulalasi broke free for a 52-yard touchdown jaunt – but more often, they haven’t seen any running lanes.</p><p>Could that change against San Diego State? Check out the patterns and the possibility seems to emerge. The Aztecs rank No. 109 nationally in rush defense, yielding an average of 178 rushing yards per game. Here’s the kicker to that, too: SDSU is allowing opponents to convert third downs at a 47% clip, which is No. 129 nationally.</p><p>That would be music to the ears of the Cougs, who are converting only 30% of their third downs, ranking six spots up from last in the country in that department. They’ve tried running up the middle to no avail. They’ve tried dropping back, which has often failed thanks to offensive linemen getting blown up. They haven’t found any easy answers.</p><p>Maybe they’ll get one this week in the form of the SDSU defense, which is a week removed from giving up a 50-spot in a 56-49 loss to Colorado State. The Aztecs have also been burned for 66 points against Oregon State, 41 against Toledo and 29 against Texas State, the last result a win. SDSU and third-year coach Sean Lewis have lost two of its last three.</p><p>Meanwhile, the Cougars will get a real challenge from the Aztec offense, which is prepared to start redshirt freshman quarterback Stone Saunders in place of Jayden Denegal, who ranks among the nation’s worst QBs in EPA per dropback. Last week against Colorado State, Saunders completed 23 of 33 passes for 369 yards, two touchdowns and two interceptions, including a pick-six shortly before halftime.</p><p>But there’s another phase of the game that WSU will have to be sharp in: special teams. SDSU redshirt freshman receiver Jaylon Hawkins leads the nation with three kickoff return touchdowns, matching the single-season school record. He took one back apiece in games against FCS Portland State, Texas State and Oregon State.</p><!--[embed id=12377]--><p>The good news for the Cougars: They rank No. 16 nationwide in kickoff return coverage, permitting an average return of only about 16 yards. That should serve them well this weekend. If things go well for them, so it should for their quarterback, too.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "da0a69ecb35ccadd",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "WSU's keys to victory against San Diego State | 2-minute drill",
         "link": "http://www.spokesman.com/stories/2026/oct/30/wsus-keys-to-victory-against-san-diego-state-2-min/",
         "link_kind": "item",
@@ -7926,6 +7982,20 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "2771b560ff935311",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "To knock off SDSU on road and earn first FBS win, WSU's offense will have to kick into gear",
+        "link": "http://www.spokesman.com/stories/2026/oct/30/to-knock-off-sdsu-on-road-and-earn-first-fbs-win-w/",
+        "link_kind": "item",
+        "date": "2026-10-30T00:00:00+00:00",
+        "summary": "<p>PULLMAN – At the beginning of the week, when the frustration still hung in the hair like a bad smell and several questions lingered unanswered, Kirby Moore returned to what he knew for sure. As he thought back to Washington State’s last game, a home loss to conference power Boise State, he was certain of one thing.</p><p>In his second start at quarterback, Owen Eshelman may have thrown one critical interception, which is when the Cougars began to lose the lead and lose the game. But he also directed one scoring drive and kept things clean otherwise.</p><p>“I thought Owen battled his tail off,” Moore said.</p><p>If the Cougars play their best in their next game, a road matchup with San Diego State set for Saturday afternoon, Eshelman shouldn’t have to. That’s because WSU will be going up against one of the country’s worst defenses in SDSU, which ranks three spots up from last in the country in total defense and five spots up from last in scoring defense.</p><p>The Aztecs (3-5, 2-2 Pac-12) are giving up about 36 points per game, allowing some 462 yards per contest, some of the worst numbers nationwide. Looking to earn its first FBS win of the season and end a five-game slide, WSU (1-7, 0-4) would do well to take advantage of those trends.</p><p>Can Eshelman and the Cougars do so? That much will likely depend on a few factors: Can their offensive line protect Eshelman and clear space for a robust rushing attack? Can Eshelman avoid turnovers? And perhaps most importantly, what can WSU get out of its three-receiver rotation of Branden Ganashamoorthy, Daniel Blood and Tank Hawkins – and will Moore’s group expand things?</p><p>Receiver Darrius Clemons, who exited early from his team’s loss to Utah State earlier this month, is listed as questionable for Saturday’s game. In his absence, the Cougs haven’t exactly expanded their receiver rotation to include other pieces like West Georgia transfer Jordan Dees or walk-on Caleb Northcroft, who would likely be next up. Instead, Moore has asked even more out of his starters, especially Ganashamoorthy, who has played 503 snaps, the third most in the country among receivers. Blood has logged 448, which is No. 21.</p><!--[embed id=12376]--><p>WSU is one of only four teams with two receivers in the top 25, making clear what Moore seemed to indicate earlier in the week: Coaches really only trust those three starters. Is that conducive to a win, especially on the road? The temptation is to say no, but crazier things have happened.</p><p>“We talk about deliberate practice,” Moore said, explaining his use of only three wideouts. “That really starts with bringing great energy, having verbal combat, doing your assignment, making sure you’re not thinking out there, that you’re just reacting. I think we’ve had too many errors from a practice standpoint with guys (not) knowing their assignments, whether it’s motions, details within the position. We’ve got a lot of trust in the guys who are out there on the field. If other guys improve and they’re to the standard, they’ll be out there.”</p><p>Regardless of how that trend pans out, WSU will want more out of its offensive line, and it’ll be interesting to see whether Moore shakes things up at that position group. As currently constructed, the group of left tackle Ashton Tripp, left guard Jonny Lester, center Noah Dunham, right guard Nick Bakken and right tackle Jaylin Caldwell aren’t just giving up sacks. They’re also struggling to run-block, which is making things exceedingly hard on the Cougs’ tailback trio.</p><p>Just how much has that limited the production of Kirby Vorhees, Maxwell Woods and Leo Pulalasi? In seven games against FBS competition, those running backs are averaging only 15 carries for 48 yards. They’ve enjoyed a stray long rush – against Utah State, Pulalasi broke free for a 52-yard touchdown jaunt – but more often, they haven’t seen any running lanes.</p><p>Could that change against San Diego State? Check out the patterns and the possibility seems to emerge. The Aztecs rank No. 109 nationally in rush defense, yielding an average of 178 rushing yards per game. Here’s the kicker to that, too: SDSU is allowing opponents to convert third downs at a 47% clip, which is No. 129 nationally.</p><p>That would be music to the ears of the Cougs, who are converting only 30% of their third downs, ranking six spots up from last in the country in that department. They’ve tried running up the middle to no avail. They’ve tried dropping back, which has often failed thanks to offensive linemen getting blown up. They haven’t found any easy answers.</p><p>Maybe they’ll get one this week in the form of the SDSU defense, which is a week removed from giving up a 50-spot in a 56-49 loss to Colorado State. The Aztecs have also been burned for 66 points against Oregon State, 41 against Toledo and 29 against Texas State, the last result a win. SDSU and third-year coach Sean Lewis have lost two of its last three.</p><p>Meanwhile, the Cougars will get a real challenge from the Aztec offense, which is prepared to start redshirt freshman quarterback Stone Saunders in place of Jayden Denegal, who ranks among the nation’s worst QBs in EPA per dropback. Last week against Colorado State, Saunders completed 23 of 33 passes for 369 yards, two touchdowns and two interceptions, including a pick-six shortly before halftime.</p><p>But there’s another phase of the game that WSU will have to be sharp in: special teams. SDSU redshirt freshman receiver Jaylon Hawkins leads the nation with three kickoff return touchdowns, matching the single-season school record. He took one back apiece in games against FCS Portland State, Texas State and Oregon State.</p><!--[embed id=12377]--><p>The good news for the Cougars: They rank No. 16 nationwide in kickoff return coverage, permitting an average return of only about 16 yards. That should serve them well this weekend. If things go well for them, so it should for their quarterback, too.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "da0a69ecb35ccadd",
         "sport": "football",
         "medium": "text"
       },
@@ -10111,20 +10181,6 @@
         "extent": "1h 10m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Cougars Host Former Pac-12 Foe Arizona Saturday on CBS",
-        "link": "https://wsucougars.com/news/2026/09/22/cougars-host-former-pac-12-foe-arizona-saturday-on-cbs",
-        "link_kind": "item",
-        "date": "2026-09-22T23:28:10+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "c1aef04510c77c5c",
-        "sport": "football",
-        "medium": "text"
       }
     ]
   }
