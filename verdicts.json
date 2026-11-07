@@ -25157,6 +25157,276 @@
       ],
       "extent": "6 min read",
       "run": "run_2026-11-06-1440"
+    },
+    "0bf144c14fbd075b": {
+      "subjects": {
+        "utah-state/womens-soccer": "about",
+        "san-diego-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Utah State's championship-clinching win over San Diego State, with the match described throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "20 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "0fe6cdf5830f20ae": {
+      "subjects": {
+        "gonzaga/mens-basketball": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews New Mexico State guard DJ Dudley ahead of his matchup against Gonzaga, which figures substantively as the upcoming opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-07-0240"
+    },
+    "20fbfb1eaa18652d": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "gonzaga/womens-volleyball": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State's match against Gonzaga, with Gonzaga's key players and stats discussed at length.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "2e084423e5b813ce": {
+      "subjects": {
+        "boise-state/womens-volleyball": "about",
+        "oregon-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of a Pac-12 volleyball match between Boise State and Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sports Team"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "39efab3daa0d6ca9": {
+      "subjects": {
+        "boise-state/womens-soccer": "about",
+        "washington-state/womens-soccer": "involves",
+        "utah-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State's title-clinching win over Washington State and discusses Utah State as co-champion.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "421602cd954e25a9": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of a record-setting Texas State men's basketball win over Howard Payne.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Lucas Castillo"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "4870289b4bdafb13": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers OSU enrollment figures, not athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Campbell Grove"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "487102c9288e6684": {
+      "subjects": {
+        "texas-state/womens-soccer": "about",
+        "fresno-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State's win over Fresno State and its effect on the Pac-12 tournament picture.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jackson Grettler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "4e6307dda2b48fd6": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary names an Oregon State safety and receiver as injury-sidelined ahead of Saturday's game against Texas State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-07-0240"
+    },
+    "59ba7c78765ab1b4": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary identify both programs' quarterbacks ahead of Saturday's football matchup.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-07-0240"
+    },
+    "62af3b8fbe8634d5": {
+      "subjects": {
+        "san-diego-state/womens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profile of a San Diego State women's soccer player's five-year career.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jesus Garcia"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "8805d0c915327c65": {
+      "subjects": {
+        "gonzaga/mens-basketball": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Feature on New Mexico State's scheduling struggles built around Saturday's Gonzaga game, with Gonzaga's roster and matchups discussed at length.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-07-0240"
+    },
+    "a42cc760134c53b1": {
+      "subjects": {
+        "texas-state": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a scouting preview of Texas State ahead of Saturday's game, though the specific sport isn't named.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-07-0240"
+    },
+    "a97ccf4eb4888fd8": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of a San Diego State women's basketball win over North Texas.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tyler Ross"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "a987c81e85245539": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature on a San Diego State player's expanded role following a teammate's injury.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "William Trowbridge"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "ba79e294ae80f961": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers a campus cultural celebration, not athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "John Pranger"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "d4b0a7a6c7ca0d5c": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers ASOSU student-government business, not Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Gabriel Robinson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-07-0240"
+    },
+    "f56ef7d1ae51b21e": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A Mountain West link roundup gives the Texas State-at-Oregon State game only a one-sentence aside amid mostly unrelated Mountain West headlines.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The one sentence names championship stakes for Texas State/Oregon State, so a reader could argue it figures substantively rather than in passing.",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-07-0240"
     }
   },
   "runs": {
@@ -29095,6 +29365,34 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 14.12032139999792,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-07-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-07T02:39:09.471268+00:00",
+      "items": 18,
+      "verdict_counts": {
+        "publish": 14,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 3,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 40.23475890001282,
       "tokens": null,
       "tokens_source": null
     }
