@@ -25830,6 +25830,224 @@
         "James Crepea"
       ],
       "run": "run_2026-11-08-0240"
+    },
+    "095e1559ae11c26c": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature on Gonzaga's small-ball lineup adjustments during the New Mexico State game, with coach and player quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-08-1441"
+    },
+    "0e834f0b697898d8": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State safety Vadrawale will miss several games after a practice collision.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-08-1441"
+    },
+    "2987d8522d4bf4ac": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary detail Oregon State's defensive collapse, surrendering 600 total yards, in a 42-21 football loss to Texas State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-08-1441"
+    },
+    "3c5821407c990c4c": {
+      "subjects": {
+        "texas-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State women's basketball's 106-51 blowout win over Chicago State with player stats.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Cody Dotson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-08-1441"
+    },
+    "45d5365e5ae59090": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Gonzaga's 109-68 home-opener win over New Mexico State with player stats and quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-08-1441"
+    },
+    "4942f4be8ff229ce": {
+      "subjects": {
+        "texas-state": "about",
+        "oregon-state": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary confirm Texas State's coach spoke after beating Oregon State, though the specific sport is not named.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-08-1441"
+    },
+    "4b86a74dcf11b42d": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "about",
+        "fresno-state/football": "about",
+        "utah-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Lists Week 10 Pac-12 football matchups, odds, and predictions covering six of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-08-1441"
+    },
+    "575335433cfdec08": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "fresno-state/womens-volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State volleyball's five-set win over Fresno State with stats and quotes from both squads.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Lucas Castillo"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-08-1441"
+    },
+    "6582976913391d0a": {
+      "subjects": {
+        "oregon-state": "about",
+        "texas-state": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary confirm Shephard spoke after Oregon State's loss to Texas State, though the specific sport is not named.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-08-1441"
+    },
+    "6741223f60fff0f9": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State quarterback Atkinson hurt his hand on a throw against Texas State; the opponent is only context for the injury.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-08-1441"
+    },
+    "6c534a4b656ab0dd": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary describe Oregon State's weaknesses exploited by Texas State's ground game in a football rout.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-08-1441"
+    },
+    "85b7b5fc561e2259": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full play-by-play recap of Boise State's 64-38 win over Colorado State with detail on both teams' scoring.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-08-1441"
+    },
+    "88b50548c5d8d501": {
+      "subjects": {
+        "texas-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State's 42-21 road win over Oregon State with detailed stats on both teams' performances.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Luke Landa"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-08-1441"
+    },
+    "b61dadd0b6f398e0": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State allowed a near-8-year-high 386 rushing yards to Texas State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-08-1441"
     }
   },
   "runs": {
@@ -29895,6 +30113,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 24.454526499845088,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-08-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-08T14:39:20.176691+00:00",
+      "items": 14,
+      "verdict_counts": {
+        "publish": 14
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 7
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 30.446517399977893,
       "tokens": null,
       "tokens_source": null
     }
