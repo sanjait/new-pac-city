@@ -25671,6 +25671,165 @@
       "extent": "4 min read",
       "lock": "paywall",
       "run": "run_2026-11-07-1441"
+    },
+    "05537481a5954547": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "It recaps Oregon State men's basketball's 96-68 win over Cal Baptist, improving the team to 2-0 under coach Justin Joyner.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-08-0240"
+    },
+    "5ea5f02e6b974fff": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The three-takeaways piece analyzes individual performances from Gonzaga men's basketball's just-finished win over New Mexico State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-08-0240"
+    },
+    "6235173737bd3791": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is a fan-poll reaction about New Mexico's AP ranking and its win over Nevada, neither of which is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-08-0240"
+    },
+    "80b7fcf712bce54d": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Fresno State men's basketball's road matchup against UC San Diego.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-08-0240"
+    },
+    "846a3ed2c3825396": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "It recaps Gonzaga men's basketball's 109-68 win over New Mexico State, led by Isiah Harwell's career-high scoring.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-08-0240"
+    },
+    "cc7052a711eaf07f": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "It reports Gonzaga men's basketball forward Izan Almansa is sidelined with a leg injury for the New Mexico State game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-08-0240"
+    },
+    "d505cbc632d60160": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about",
+        "oregon-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "It recaps Utah State women's volleyball's three-set sweep of Oregon State, with the Oregon State matchup discussed at length.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kylie Jones"
+      ],
+      "extent": "37 min read",
+      "run": "run_2026-11-08-0240"
+    },
+    "e57b3acd044b15cd": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "It is a gamethread for today's Boise State at Colorado State football game, both covered programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-08-0240"
+    },
+    "e81d0beaff2a045a": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Washington State men's basketball's 83-71 loss to High Point, its second straight season-opening setback.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-08-0240"
+    },
+    "e82c33e63a75cf60": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a live-updates thread for the Oregon State football home game against Texas State at Reser Stadium.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-08-0240"
     }
   },
   "runs": {
@@ -29702,6 +29861,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 28.995769400149584,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-08-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-08T02:39:05.620568+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 9,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "6235173737bd3791",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 24.454526499845088,
       "tokens": null,
       "tokens_source": null
     }
