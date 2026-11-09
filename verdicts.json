@@ -26048,6 +26048,160 @@
         "James Crepea"
       ],
       "run": "run_2026-11-08-1441"
+    },
+    "3c983e72a2d6d581": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Gonzaga women's basketball's 85-58 win over UC Riverside, with box-score detail and coach/player quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-09-0240"
+    },
+    "538d74c2390e0186": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The title's 'score' betting line identifies the upcoming Oregon State-Boise State football matchup as the subject.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-09-0240"
+    },
+    "5705999ffe6cf242": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State's 42-21 loss to Texas State, with both teams' stats and player quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Noel Hendrickson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-09-0240"
+    },
+    "82c45f5b1653a32d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A recruiting commitment to Oregon State's football program, the subject of both title and summary.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-09-0240"
+    },
+    "9e7e714e732bed54": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Title names College GameDay's choice to cover the Boise State-Oregon State football game, which identifies the sport.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Nik Streng"
+      ],
+      "run": "run_2026-11-09-0240"
+    },
+    "af7acc0f29b4b3c1": {
+      "subjects": {
+        "washington-state/womens-soccer": "about",
+        "boise-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of WSU women's soccer's season-ending 1-0 loss to Boise State, with play-by-play detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "BEN WALKER"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-09-0240"
+    },
+    "b14af2c151b302a3": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A recurring graded-player column built around Fresno State's loss to Utah State, with Utah State's quarterback and defense given real treatment.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-11-09-0240"
+    },
+    "bfd8f05dbc5e694c": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Title names OSU women's basketball and the summary describes Villa's scoring performance in the win over Eastern Washington.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-09-0240"
+    },
+    "dcd9d0f4ac5a7f13": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Gonzaga's rout of New Mexico State is the subject, with assist/turnover stats and player performances from that game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-09-0240"
+    },
+    "e1241d1c598058a3": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full account of Boise State's 64-38 win over Colorado State, with both teams' performances detailed throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-09-0240"
     }
   },
   "runs": {
@@ -30137,6 +30291,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 30.446517399977893,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-09-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-09T02:39:18.770971+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 10
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 4
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 23.908429500181228,
       "tokens": null,
       "tokens_source": null
     }
