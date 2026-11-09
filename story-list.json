@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-08T14:03:26.773088+00:00",
+  "generated_at": "2026-11-09T02:03:24.826827+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "ESPN's College GameDay Heading to Boise State for Oregon State Clash",
+        "link": "http://pac-12.com/news/2026/11/8/football-espns-college-gameday-heading-to-boise-state-for-oregon-state-clash.aspx",
+        "link_kind": "item",
+        "date": "2026-11-08T08:00:00+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/GameDay_ESPN_Boise.png\" /><br /><br />ESPN's College GameDay, Built by the Home Depot, has announced it is heading to Boise State (8-1, 5-0 Pac-12) for the No. 25 Broncos' matchup Saturday, Nov. 14, with Oregon State from 7 a.m.-10 a.m. MT live on ESPN and ESPNU.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "e3cb3df173753b3a",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Aztecs Punch Ticket to Pac-12 Men's Soccer Championship Final with 2-1 Comeback Win at CBU",
         "link": "http://pac-12.com/news/2026/11/8/aztecs-punch-ticket-to-pac-12-mens-soccer-championship-final-with-2-1-comeback-win-at-cbu.aspx",
@@ -13,20 +27,6 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "d3c71c2cba035954",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "2026 Pac-12 Week 10: Game Time, TV Schedule, Odds, Predictions",
-        "link": "https://www.mwcconnection.com/pac-12-discussion/94056/pac-12-football-games-week-10-fanduel-odds-games-predictions",
-        "link_kind": "item",
-        "date": "2026-11-07T15:00:00+00:00",
-        "summary": "The college football season is up and running. We are now entering conference play for the Pac-12. Check out the Week 10 action with all the info you need for the games this weekend. Share your thoughts in the comments and enjoy the games! Saturday, November 7th Boise State vs Colorado State (3:00 PM PT) [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "4b86a74dcf11b42d",
         "sport": "all",
         "medium": "text"
       },
@@ -157,6 +157,20 @@
         "medium": "text"
       },
       {
+        "title": "Mountaintop View 11-6-26: Mountain West Basketball, Power Rankings, UTEP/Hawaii, Boise State/Colorado State, PAC-12 Weekend Preview, Gonzaga Basketball",
+        "link": "https://www.mwcconnection.com/mountain-west-news/95456/mountaintop-view-11-6-26-mountain-west-basketball-power-rankings-utep-hawaii-boise-state-colorado-state-pac-12-weekend-preview-gonzaga-basketball",
+        "link_kind": "item",
+        "date": "2026-11-06T14:00:00+00:00",
+        "summary": "The Mountain West loses a clear administrative figure Head of Men’s basketball Niko Roberts is leaving for a similar role in the ACC. Mountain West Power Rankings Chris Murray gives his football power rankings, do you agree? UTEP Football is looking for its first Mountain West win Can they get it against Hawaii? UTEP is [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "f56ef7d1ae51b21e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "No. 22 Utah State, Boise State Share Regular Season Title, Seeding Set for Pac-12 Women's Soccer Championship",
         "link": "http://pac-12.com/news/2026/11/6/no-22-utah-state-boise-state-share-regular-season-title-seeding-set-for-womens-soccer-championship.aspx",
         "link_kind": "item",
@@ -213,62 +227,6 @@
         "medium": "text"
       },
       {
-        "title": "Pac-12 Football Players of the Week - Nov. 2, 2026",
-        "link": "http://pac-12.com/news/2026/11/2/pac-12-football-players-of-the-week-nov-2-2026.aspx",
-        "link_kind": "item",
-        "date": "2026-11-02T11:58:00+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/Rasean_Jones_POTW_Week_9_1_.jpg\" /><br /><br />The Pac-12 today announced its football weekly awards for Week 9 of the 2026 season, as selected by the league's media, with the first dual winner of the season.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "ebc54ec52172acb0",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "This Week in Pac-12 Women's Basketball",
-        "link": "http://pac-12.com/news/2026/11/2/this-week-in-pac-12-womens-basketball.aspx",
-        "link_kind": "item",
-        "date": "2026-11-02T09:31:14+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/Colorado_State_WBB.png\" /><br /><br />Click here for Full Release",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "ec7061e1b888d9f1",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "This Week in Pac-12 Men's Basketball",
-        "link": "http://pac-12.com/news/2026/11/2/this-week-in-pac-12-mens-basketball.aspx",
-        "link_kind": "item",
-        "date": "2026-11-02T07:40:34+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/Braden_Huff_Gonzaga.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "32a54da1bb2026fc",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Beavers Clinch Regular Season Title, Seeding Set for Pac-12 Men's Soccer Championship",
-        "link": "http://pac-12.com/news/2026/11/1/beavers-clinch-regular-season-title-seeding-set-for-pac-12-mens-soccer-championship.aspx",
-        "link_kind": "item",
-        "date": "2026-10-31T21:54:47+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/John_Nicolson_OSU.png\" /><br /><br />With a 2-0 win over Gonzaga on Saturday night in Corvallis, the Oregon State Beavers clinched the regular season title with 13 points and a 4-1-1 league record. As the top seed in the Pac-12 Men's Soccer Championship, the Beavers will be one of two semifinal hosts, as seeding is now set.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "32d279d572d31804",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "June Jones Branched Out A Sprawling Coaching Tree with Impacts All Over Football",
         "link": "https://pressbreak.substack.com/p/june-jones-branched-out-a-sprawling",
         "link_kind": "item",
@@ -294,6 +252,34 @@
         "source": "Pac-12 Conference",
         "id": "8331996d00100740",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Pac-12 Women's Basketball Impact List, Media Poll Revealed",
+        "link": "http://pac-12.com/news/2026/10/29/pac-12-womens-basketball-impact-list-media-poll-revealed.aspx",
+        "link_kind": "item",
+        "date": "2026-10-29T11:57:00+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/29/WBB_PreseasonImpactList_16x9_1_.png\" /><br /><br />The Pac-12 today announced its 2026-27 women's basketball Preseason Media Poll and Preseason Impact List ahead of Monday’s season openers. The Preseason Media Poll was voted on by a panel of the league's media members, with two players named to the Preseason Impact List, as selected by the league's nine head coaches.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "b6b2f5a30084d674",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Pac-12 Men's Basketball Preseason Impact List, Media Poll Unveiled",
+        "link": "http://pac-12.com/news/2026/10/29/pac-12-mens-basketball-preseason-impact-list-media-poll-unveiled.aspx",
+        "link_kind": "item",
+        "date": "2026-10-29T09:57:00+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/29/MBB_PreseasonImpactList_16x9.png\" /><br /><br />The Pac-12 today announced its 2026-27 men's basketball Preseason Media Poll and Preseason Impact List ahead of Monday’s season openers. The Preseason Media Poll was voted on by a panel of the league's media members, with two players named to the Preseason Impact List, as selected by the league's nine head coaches.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "22222a3eead40bbc",
+        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -335,6 +321,20 @@
         "channel_url": "",
         "source": "Press Break",
         "id": "3a3d462d98bba491",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Pac-12 and Elevate advance new commercial enterprise with appointment of the league's first-ever Chief Commercial & Growth Officer",
+        "link": "http://pac-12.com/news/2026/10/20/general-pac-12-and-elevate-advance-new-commercial-enterprise-with-appointment-of-the-leagues-first-ever-chief-commercial-growth-officer.aspx",
+        "link_kind": "item",
+        "date": "2026-10-20T04:58:00+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/19/IMG_3280.png\" /><br /><br />The Pac-12 today announced the appointment of its first-ever Chief Commercial & Growth Officer, completing the executive search led by Elevate, as part of the conference’s new commercial strategy for Pac-12 Enterprises. With Harry Hardy set to officially begin this week, the Pac-12 will continue in advancing and building the league’s commercial platform in order to best activate and scale its business efforts. The appointment of Hardy and partnership with Elevate to develop this commercial plan reinforce the Pac-12’s commitment to building a modern, athlete-first business model.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "78c6f243c72c57b3",
         "sport": "all",
         "medium": "text"
       },
@@ -536,6 +536,62 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "Broncos Collect 19-Point Win Against Butler",
+        "link": "https://broncosports.com/news/2026/11/8/mens-basketball-broncos-collect-19-point-win-against-butler",
+        "link_kind": "item",
+        "date": "2026-11-08T22:38:00+00:00",
+        "summary": "<img alt=\"Aginaldo Neto\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/Neto__AG.jpg\" /><br /><br />Scoring 100 points for the second-consecutive game, Boise State defeated Butler, 100-81, on Sunday afternoon at ExtraMile Arena.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "50192bec3f4aad0a",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Broncos Move up Three Positions in Both National Polls",
+        "link": "https://broncosports.com/news/2026/11/8/football-headline",
+        "link_kind": "item",
+        "date": "2026-11-08T19:05:00+00:00",
+        "summary": "<img alt=\"Broncos Celebration\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/KH_FBvsCSU_058.jpg\" /><br /><br />The rankings mark the seventh consecutive week the Broncos have been represented in the AP Poll, and the fifth straight week for the Coaches Poll",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "66cfd905ea558f6d",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Broncos overpower Colorado State for eighth consecutive victory",
+        "link": "https://www.arbiteronline.com/2026/11/08/broncos-overpower-colorado-state-for-eighth-consecutive-victory/",
+        "link_kind": "item",
+        "date": "2026-11-08T18:03:05+00:00",
+        "summary": "<p>The No. 20 Boise State Broncos continued their dominant stretch Saturday night, securing their eighth consecutive victory with a 64-38 win over Colorado State in Fort Collins. The 64 points marked the most Boise State has ever scored in a road game as a four-year program.  The victory also secured the Broncos’ 29th consecutive winning [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/08/broncos-overpower-colorado-state-for-eighth-consecutive-victory/\">Broncos overpower Colorado State for eighth consecutive victory</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "author": "Jake Zamora",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Arbiter",
+        "id": "e1241d1c598058a3",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "College GameDay Returns to Boise State",
+        "link": "https://broncosports.com/news/2026/11/8/football-college-gameday-returns-to-boise-state",
+        "link_kind": "item",
+        "date": "2026-11-08T16:05:00+00:00",
+        "summary": "<img alt=\"College Gameday\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/FB26-College-Gameday-Announcement-OSU-WEB.jpg\" /><br /><br />Rece Davis hosts the iconic show alongside analysts Kirk Herbstreit, Desmond Howard, Pat McAfee and Nick Saban.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "f12eea406bcb6d74",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Fort Collins Redemption: Boise State at Colorado State Game Recap",
         "link": "https://firstkickwasgood.com/2026/11/07/fort-collins-redemption-boise-state-at-colorado-state-game-recap/",
@@ -817,20 +873,6 @@
         "medium": "text"
       },
       {
-        "title": "Dr. Roger Munger Recognized by National Football Foundation",
-        "link": "https://broncosports.com/news/2026/11/4/dr-roger-munger-recognized-by-national-football-foundation",
-        "link_kind": "item",
-        "date": "2026-11-04T16:00:00+00:00",
-        "summary": "<img alt=\"Madsen Action\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/4/MC_FBvsTS_587.jpg\" /><br /><br />As part of the initiative, each school with a member of the 2026 NFF National Scholar-Athlete Class will receive a $5,000 donation from Fidelity Investments to support the academic support services.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "0ea97d0bf966d5e3",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "From the Spot - Season 12, Episode 7- Pac-12 Regular Season Title on the Line",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/9d9b0409-9aaa-4ad9-92f3-e0a9ecd8e585.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -844,20 +886,6 @@
         "extent": "19 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Broncos Placed No. 25 in First College Football Playoff Rankings",
-        "link": "https://broncosports.com/news/2026/11/3/football-broncos-ranked-no-xx-in-first-cfp-rankings",
-        "link_kind": "item",
-        "date": "2026-11-04T00:15:00+00:00",
-        "summary": "<img alt=\"Derek Ganter Jr. Action\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/3/KE_FBvsTexasState072.JPG\" /><br /><br />The rankings mark the 27th time the Broncos (7-1, 4-0 Pac-12) have been represented in the CFP rankings since it began in 2014.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "7661237a81e1c07c",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "Broncos Open 2026-27 Season Against West Coast Baptist",
@@ -1084,20 +1112,6 @@
         "medium": "text"
       },
       {
-        "title": "College sports bill could reshape Boise State’s financial future",
-        "link": "https://www.arbiteronline.com/2026/10/29/protect-college-sports-act/",
-        "link_kind": "item",
-        "date": "2026-10-29T23:46:00+00:00",
-        "summary": "<p>As Boise State Athletics navigates rising expenses and a new era of student-athlete compensation, legislation advancing through Congress could reshape how the university manages its athletic programs.</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/10/29/protect-college-sports-act/\">College sports bill could reshape Boise State’s financial future</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
-        "author": "Aidan Mattingly",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Arbiter",
-        "id": "04178ec0ed2bf205",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Off the Blue - Season 7, Episode 7- Milly Sharp",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/f09c3eed-b4fa-4700-9e95-57c9d6eca4c8.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -1225,20 +1239,6 @@
         "extent": "59 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Broncos Score 109 in Win Over Washington",
-        "link": "https://broncosports.com/news/2026/10/17/mens-basketball-broncos-score-109-in-win-over-washington",
-        "link_kind": "item",
-        "date": "2026-10-18T06:16:00+00:00",
-        "summary": "<img alt=\"Pearson Carmichael celebrates after making a shot against Washington at Idaho Central Arena\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/17/Carmichael__Pearson__6_.jpg\" /><br /><br />Surpassing the 100-point threshold, Boise State defeated Washington, 109-91, in exhibition action on Saturday night at Idaho Central Arena.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "6faa2e1c89a1eda6",
-        "sport": "mbb",
-        "medium": "text"
       },
       {
         "title": "Boise State Women's Basketball Announces Pac-12 TV Selections",
@@ -1966,6 +1966,20 @@
     ],
     "Fresno State": [
       {
+        "title": "Bulldog Stock Market: Who’s rising and falling after Utah State?",
+        "link": "https://fscollegian.com/2026/11/bulldog-stock-market-whos-rising-and-falling-after-utah-state/",
+        "link_kind": "item",
+        "date": "2026-11-09T00:47:29+00:00",
+        "summary": "Fresno State football carried its momentum from last week&#8217;s victory over Oregon State, falling 17-10 to Utah State on Saturday, Nov. 7. At Maverik Stadium in Logan Utah.  The Bulldogs entered the matchup looking to move one step closer to bowl eligibility but instead suffered their fourth loss of the season, dropping to 5-4 overall...",
+        "author": "Paloma Schuller , Enterprise Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "b14af2c151b302a3",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Bulldogs drop road test to Aggies",
         "link": "https://gobulldogs.com/news/2026/11/7/football-bulldogs-drop-road-test-to-aggies",
         "link_kind": "item",
@@ -2271,20 +2285,6 @@
         "channel_url": "",
         "source": "The Collegian",
         "id": "a3c8a5b4f553ed2c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Will the Red Wave show up? Predicting Fresno State’s home opener attendance",
-        "link": "https://fscollegian.com/2026/11/will-the-red-wave-show-up-predicting-fresno-states-home-opener-attendance/",
-        "link_kind": "item",
-        "date": "2026-11-02T16:00:19+00:00",
-        "summary": "Fresno State’s men&#8217;s basketball team will start their regular season on Nov. 2 at the Save Mart Center against Fresno Pacific University, with tipoff set for 6 p.m.  Led by head coach Vance Walberg, last season, the men’s basketball team averaged an attendance of 4,640 per game.  That number was a slight increase from the...",
-        "author": "Paloma Schuller and Sam Quintero",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "721c5273242165e5",
         "sport": "all",
         "medium": "text"
       },
@@ -2838,24 +2838,37 @@
         "extent": "31 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Fresno State takes on the Rice Owls",
-        "link": "https://redwavereport.podbean.com/e/fresno-state-takes-on-the-rice-owls/",
-        "link_kind": "item",
-        "date": "2026-09-24T14:04:11+00:00",
-        "summary": "<p>The boys are back after another Fresno State victory. They breakdown the last matchup and give you their take on what they saw. Then they take a look at the upcoming opponent in the Rice Owls and break down the matchup. </p>\n<p>As always they turn to the Pac 12 and get you up to date on all the matchups that took place and all the upcoming match ups. Thank you for listening and enjoy the show. </p>",
-        "author": "",
-        "duration": 3288,
-        "channel_url": "",
-        "source": "The Red Wave Report",
-        "id": "b4189812bc18840a",
-        "extent": "55 min",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Gonzaga": [
+      {
+        "title": "WBB Documentary Series Premieres Monday",
+        "link": "https://gozags.com/news/2026/11/8/womens-basketball-wbb-documentary-series-premieres-monday",
+        "link_kind": "item",
+        "date": "2026-11-09T01:15:00+00:00",
+        "summary": "<img alt=\"allie turner\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/image.png\" /><br /><br />SPOKANE, Wash. – Gonzaga women's basketball is giving fans an inside look at the Bulldogs throughout the 2026-27 season with the launch of Without Limits – The 2026-27 Gonzaga Women's Basketball Docuseries, a collaborative project with Gonzaga University that puts student creativity and storytelling at the forefront.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "0621ef188c43443a",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "WBB Dominates UC Riverside in 85-58 Victory",
+        "link": "https://gozags.com/news/2026/11/8/womens-basketball-wbb-dominates-uc-riverside-in-85-58-victory",
+        "link_kind": "item",
+        "date": "2026-11-09T00:29:00+00:00",
+        "summary": "<img alt=\"wbb taylor smith\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/_MG_0340.jpg\" /><br /><br />SPOKANE, Wash. – Gonzaga women's basketball put together a dominant performance Sunday afternoon, rolling past UC Riverside 85-58 at the McCarthey Athletic Center. The Bulldogs improved to 2-1 on the season behind a balanced offensive effort and a strong defensive performance.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "95e3b36305e3d6df",
+        "sport": "wbb",
+        "medium": "text"
+      },
       {
         "title": "No. 15 Gonzaga Rolls Past New Mexico State, 109-68",
         "link": "https://gozags.com/news/2026/11/7/mens-basketball-no-15-gonzaga-rolls-past-new-mexico-state-109-68",
@@ -2868,6 +2881,34 @@
         "source": "Gonzaga Athletics",
         "id": "34fc1a1d1a5381a8",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga's passing gets passing grade in blowout of New Mexico State | Rewind",
+        "link": "http://www.spokesman.com/stories/2026/nov/08/gonzagas-passing-gets-passing-grade-in-blowout-of-/",
+        "link_kind": "item",
+        "date": "2026-11-08T00:00:00+00:00",
+        "summary": "<p>It could be the first of many reminders from Mark Few this season. Even Gonzaga can be vulnerable against an overmatched opponent when things like defense, rebounding and general effort are lagging.</p><p>The 15th-ranked Zags struggled in all three areas during the first half of Saturday’s home opener against New Mexico State, but a halftime message from Few kicked the hosts into gear, allowing them to pull away for a 109-68 victory at McCarthey Athletic Center.</p><p>“It was the effort and more dictating things instead of kind of sitting back and reacting,” Few said. “We talked about being proactive and I thought we were reactive through that first half and even for the first five, six minutes of the second half and we flipped a switch. When we do that, then we’ve got a chance.</p><p>“When it’s the other way, we’re putting ourselves in position where guys can make shots and make plays and get fouls on us and it’s hard to get separation when you’re like that.”</p><p>In today’s rewind, we look at the team’s impressive assist-to-turnover numbers against New Mexico State, how a former Gonzaga assistant pocketed a signature win on Friday and the walk-on guard who had an eventful college debut Saturday afternoon.</p><h3>Quick and under control</h3><p>Gonzaga had varying levels of success distributing the ball in two exhibition games and Monday’s season opener, dishing out 13 assists against Arkansas, 23 against NAIA Lewis-Clark State and 15 against Purdue.</p><p>It’s usually one of two primary statistical columns that dictates whether a team is successful moving the ball. The Zags had been stagnant in the other one, committing exactly 10 turnovers in each of their three previous games.</p><p>On Saturday, there was finally some movement in the turnover column – the right kind – for a team that hit on all cylinders offensively while eclipsing 100 points with 4 minutes, 19 seconds to play.</p><p>Gonzaga left the Kennel pleased with both numbers, delivering 23 assists while committing only six turnovers against an athletic New Mexico State that pressured the ball and occasionally picked up full court.</p><p>The Zags are trying to strike a fine line this season by pushing the tempo while valuing ball security and keeping turnover numbers at a minimum.</p><p>“I stressed that all summer and all fall,” Few said. “We’ve had such incredible offensive teams up here, but what kind of doesn’t get covered was how well those teams took care of the ball. That’s what made the Nembhards so special. They would routinely go 12 assists, one turnover or 10 assists, no turnovers. I think we all started taking it for granted.”</p><!--[photo id=937303]--><p>There’s no Nembhard on this roster, but there is a point guard who hails from the Toronto area and one who, ironically enough, made the same move Andrew Nembhard did by transferring from Florida to Gonzaga.</p><p>Fifth-year addition Xaivian Lee has been Gonzaga’s starting point guard through the exhibitions and both regular-season games. Lee has impressed despite a short runway to learn Gonzaga’s system and personnel after committing in late August. Four days after scoring 18 points against Purdue, Lee put on a passing clinic versus New Mexico State, totaling 10 assists and just one turnover in 28 minutes on the floor.</p><p>Lee and sophomore wing Davis Fogle combined for 16 assists with just one turnover. Nobody on Gonzaga’s roster had more than one turnover and two starters, Braden Huff and Massamba Diop, didn’t account for one.</p><p>“Hopefully this team’s starting to figure it out because we were a little bit turnover prone early,” Few said. “But it’s a huge key, to me it’s the key to being really efficient. That and shot selection on the offensive end.”</p><h3>Purdue beaters</h3><p>Few and Roger Powell have remained close since the former assistant left Gonzaga’s coaching staff four years ago to become the head coach at Valparaiso and it was almost a certainty the two would touch base at some point this week with a common opponent on their early nonconference schedules.</p><p>Four days after Few and Gonzaga squeaked out a 78-72 victory over Purdue in Las Vegas, Powell and Valparaiso visited the Boilermakers at Mackey Arena. Powell phoned Few at some point during the week to discuss strategy and inquire about anything that could help the Beacons in a game they entered as 19½-point underdogs.</p><p>It’s unclear to what extent Few’s advice helped, but it probably didn’t hurt as Valparaiso made one buzzer-beater at the end of the first overtime period and another in the second to claim a victory that could be in the running for the biggest upset of the 2026-27 college basketball season.</p><p>“Roger and I talk all the time and obviously we wanted to share stuff with Purdue,” Few said. “We were all watching it last night, the team watched it, or at least the last two minutes and the overtime.”</p><p>Valparaiso guard Rakim Chaney erupted for 35 points and knocked down a game-tying 3-pointer at the end of the first overtime period before fouling out. Backcourt mate Justus McNair delivered the second clutch shot of the night, sinking a buzzer-beating 3 from the left elbow to send Valpo home with the victory.</p><p>Few emphasized the importance of signature wins for midmajor teams looking to build momentum and gain respect on a national scale. Gonzaga’s coach would know better than most as someone who picked up a handful of those victories early on his Hall of Fame tenure in Spokane.</p><p>“When you’re at that point with your program, you’re making gains, making gains,” Few said. “But you need something like that to kind of show everybody you are making gains. He’s done a wonderful job there and he’s just an incredible human being. Everybody roots for Roger, man. He’s the best.”</p><p>Powell’s first Valparaiso team went just 7-25 in 2023-24, but the Beacons improved in the win column each season, going 15-19 in 2024-25 before finally securing a winning record in 2025-26 with an 18-15 finish. Valparaiso improved to 2-0 this season with Friday’s victory while Purdue dropped to 0-2 for the first time under 21st-year coach Matt Painter.</p><h3>Chipped tooth</h3><p>Even with Gonzaga’s lead at 38 points, walk-on guard Alonzo Metz brought hustle and physicality to the final 2 minutes, 21 seconds of Saturday’s blowout.</p><p>He has a chipped tooth to show for it as well.</p><p>Metz subbed in late and elevated for an offensive rebound 35 seconds into his college debut. After securing the board, the 5-foot-11 guard went back up for a jumper, catching an elbow to his mouth as he watched the ball ricochet off the rim.</p><p>Metz quickly noticed he’d lost a chunk of his middle tooth, recovered it on the hardwood and chucked it toward Gonzaga’s bench. The guard missed one more shot but added another offensive rebound to his personal tally before the final buzzer sounded.</p><p>Gonzaga teammates reacted to the sequence during postgame interviews.</p><p>“It was pretty cool,” Fogle said. “That sucks to happen, but he kept playing. Might look a little funky right now, but he’ll be back.”</p><p>“That fired us up,” Braden Huff said. “I mean it sucks, you’re in there for two minutes and you lose your tooth but he’s a fighter. He got two rebounds in those two minutes and made a bunch of small plays, so excited for him and not necessarily excited for that tooth but he’ll be all right.”</p><p>“Me personally, I love it,” Isiah Harwell said. “I love it, I love it.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "dcd9d0f4ac5a7f13",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Allie Turner, Lauren Whittaker help Gonzaga get back on track with win over UC Riverside 85-58",
+        "link": "http://www.spokesman.com/stories/2026/nov/08/allie-turner-lauren-whittaker-help-gonzaga-get-bac/",
+        "link_kind": "item",
+        "date": "2026-11-08T00:00:00+00:00",
+        "summary": "<p>Course correction made.</p><p>Now that doesn’t mean that everything with the Gonzaga women’s basketball team is peachy and without flaw. But 44 hours after what they called an embarrassing loss, the Bulldogs had their best start of the season.</p><p>Call the Zags’ 85-58 win over the UC Riverside Highlanders before 4,521 at McCarthey Athletic Center a step in the right direction Sunday afternoon.</p><p>For the first time in three games, Gonzaga scored the first basket. And the cold-shooting Highlanders contributed as well, missing their first 16 shots from the field. A basket from forward Lauren Whittaker capped a 14-1 beginning.</p><p>The Bulldogs (2-1) never led in the loss to Idaho on Friday. They never trailed against UCR (1-2).</p><p>“We had a lot better energy,” GU coach Lisa Fortier said. “We rebounded a heckuva lot better. I liked the pace better. It’s nice to be the team that sets the tone versus the team that’s having to respond.”</p><p>Gonzaga’s starting forwards, Whittaker and Taylor Smith, said the correction started in an early practice Saturday.</p><p>“We just took the rest of the day (Friday, after the loss) to get all of our emotions out,” said Smith, who was one of four Zags in double-figure scoring with 12 points, seven rebounds, four assists and two steals. “We talk a lot about the process. So just moving on and bringing good energy to practice … we had a really good practice and prepared well for (Sunday). We started off well and it went from there.”</p><p>Whittaker had her second double-double with 14 points and 14 rebounds to go with five assists and four steals.</p><p>“Knowing that the last two games were a bit rough to start, we knew we had to come out and punch first,” Whittaker said. “Even just simplifying everything to just getting the first bucket. Taking baby steps like that. The team rallied after the Idaho loss.”</p><p>Guard Allie Turner, who didn’t take a shot in the first quarter, matched Whittaker’s 14 points and Teryn Gardner, who came off the bench after starting the first two games, had 11 with five steals.</p><p>Gardner hit a 3-pointer off a pass from Whittaker to give Gonzaga its biggest first-half lead at 28-12 with 4:20 to go in the second quarter.</p><p>Gonzaga’s lead never got below double digits.</p><p>Another Gardner 3-pointer late in the third extended the Bulldogs’ lead to 55-35.</p><p>A third Gardner 3-pointer put the Zags ahead by their largest margin at 78-51 with 2:31 remaining.</p><p>Gonzaga was outrebounded by smaller Idaho on Friday. Sunday the Zags won the boards 49-30.</p><p>They also had 17 steals, forcing most of UCR’s 22 turnovers.</p><p>“Defense has to continue to be a focus for us,” Fortier said. “There’s good offensive players who are gonna try to exploit us.”</p><p>Fortier saw a number of positives and things her team will learn.</p><p>“We need to learn from all the games,” she said. “There’s plenty to learn from this game, but I think we responded really well. The team seemed focused (at practice) and they came out looking like it today. So often it’s how you start.”</p><p>Now Gonzaga hits the road for the first time with stops at Grand Canyon on Friday and Stanford on Sunday before returning home Nov. 18 against Montana.</p><p>“It’s a hard road trip,” Fortier said. “I’ve never been to Grand Canyon before, but I’ve seen the pictures and videos. They get a lot of support and they run a difficult style that was hard for us last year. That’s going to be one thing. And then you go to Stanford and it’s a very different game and they have a different team than they had last year. They’re always extremely skilled, very disciplined, they execute really well and they’re really smart. Two tough places to play and a good chance for us to test ourselves.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "3c983e72a2d6d581",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -3392,20 +3433,6 @@
         "medium": "text"
       },
       {
-        "title": "On BFR, self-belief and the road back to basketball for Gonzaga's Braden Huff: 'He was disciplined'",
-        "link": "http://www.spokesman.com/stories/2026/oct/31/on-bfr-self-belief-and-the-road-back-to-basketball/",
-        "link_kind": "item",
-        "date": "2026-10-31T00:00:00+00:00",
-        "summary": "<p>Before returning to Spokane in August, Braden Huff swung by Achieve Orthopedic Sports Institute in the Chicago area to drop off a handwritten letter and photograph for Brandi Hosford. He wanted to extend gratitude and appreciation to the physical therapist who logged hundreds of hours working to get the Gonzaga forward back on the court after dislocating his left kneecap.</p><p>It was a high-character move that wasn’t necessarily of character for the easygoing, even-mannered Huff. He signed his name at the bottom of the letter and attached a photo of him and Hosford, who volunteered at the annual basketball camp Huff puts on every summer in his hometown to support a local food pantry.</p><p>Not that Hosford would’ve had any trouble identifying where, or who, the letter came from.</p><p>“It said he was really thankful for rehab and that BFR sucks, but it works really well,” Hosford said earlier this week. “The response that was on it is definitely, totally Braden.” </p><p>BFR, or Blood Flow Restriction, is the specialized rehabilitation technique Hosford used to aid and accelerate Huff’s return to the court. It’s impossible to recap Huff’s rehab journey without at least one mention of the three-letter acronym, as long as the forward isn’t within earshot when you do.</p><p>“You kind of wrap it around your upper thigh and it restricts your blood flow and it feels like you’re lifting super heavy weights when you’re doing lighter and it was no fun,” Huff said. “That was probably my least favorite.”</p><p>“I would be shocked if that didn’t come up,” father Alec Huff said. “He didn’t like that whatsoever.”</p><p>“I knew Braden was going to say that,” Hosford said. “I think he’s got a love/hate relationship with it, right? He loves to hate it, but hates that he loves it.”</p><p>There’s less confusion about Huff’s feelings toward the game that was promptly taken from him in January, when a routine practice play turned into a freak accident, ending an All-American-caliber season 17 games short of the finish line and hurling the forward into an eight-month rehab assignment.</p><p>“You go from kind of 100 to zero,” Huff said.</p><p>The forward’s slow, steady climb back to 100 began the next day. First, the knee surgery. Then the daily physical therapy sessions and dreaded encounters with Blood Flow Restriction. Huff wasn’t able to move on his left leg for a few months but once he ditched his crutches, stationary shooting workouts followed shortly after. Huff made 100 free throws every day with assistant Brian Michaelson before moving to the next phase of his recovery plan.</p><p>“We’ve all spent a lot of time with him and know him and who he is at his core really well,” Michaelson said. “From the minute he went down, it was exactly how we all envisioned him attacking his rehab. He had a great spirit to him, he was disciplined, he was patient.”</p><p>Best of all, he’s been hardened by the adversity.</p><!--[photo id=909575]--><h3>Hard decisions</h3><p>Alec and Stacey Huff got the phone call on the afternoon of Jan. 15. They were making a long, familiar haul from Chicago to Spokane for a game at Washington State the following day. The Huffs don’t have the advantage of proximity residing in the Midwest, but they travel to every major nonconference game and hit a variety of others throughout the year. It’s a running joke that Stacey is the family’s unofficial “travel agent.”</p><p>But the Huffs put future plans on ice when their son called the day before WSU. He didn’t want to alarm them, but there’d been an incident at practice. Gonzaga didn’t have an official diagnosis, but the forward couldn’t bear weight on his left leg and things weren’t looking good for the following day in Pullman, let alone the weeks or months to come.</p><p>“He never wants us to worry too much, so when he called us &#8230; he didn’t really maybe let on to the severity of it initially, but it became pretty clear pretty fast,” Alec said.</p><p>The Zags scaled back the intensity in their final practice before a key West Coast Conference rivalry game in Pullman. Huff was playing post-position defense when he took a normal step and immediately noticed an abnormal sensation in his knee.</p><p>It was a move he’d performed hundreds if not thousands of times in practices and games earlier in the season. He’d taken bigger physical gambles in higher-stakes environments with no repercussions. He brawled with Michigan’s lottery-pick littered frontcourt and hardly emerged with a scratch.</p><p>So how could a non-descript, non-contact play during a glorified walkthrough be what suspended a magnificent junior season?</p><p>“A lot of times a non-contact ACL or some of these non-contact things that happen without any outside forces sometimes, I describe it as like a neural mistime,” head Gonzaga athletic trainer Josh Therrien said. “When you’re walking down the stairs and you think there’s one more and your body’s expecting something and there’s actually not, so you nearly fall. The nervous system is prepared for something to happen and there’s sort of this mistime that happens.”</p><p>When the injury occurred, Huff was leading the country in 2-point field goal efficiency (72.2%) and total field goals made (145). A month earlier, he’d registered a career-high 37 points against Campbell – a clinic in scoring efficiency that saw the forward finish 16 of 18 from the field.</p><p>Postseason all-conference honors were the bare minimum for someone averaging 17.8 points and only gaining steam in WCC play. Huff was squarely in the mix for the WCC Most Outstanding Player honor that ultimately went to close friend and teammate Graham Ike. All-American honors wouldn’t have been a stretch.</p><p>Gonzaga provided a timeline of four to eight weeks, cautiously clinging to hope Huff would be available in some capacity for meaningful games in March. The Zags probably wouldn’t get the version of Huff that dizzied defenders with spin moves, converted floaters at an automatic clip and hit opponents with hook shot after hook shot. But maybe he could provide one quality shift each half. Force NCAA Tournament opponents to consider him in pregame scouting reports. Supply just one of those patented floaters to help the Zags through a cold offensive stretch.</p><p>“Any sports medicine mentors of mine have said never say never, never say always,” said Therrien, who stayed in constant communication with Huff, his parents, agent and GU’s coaches to discuss the best course of action.</p><p>The cloudy conversations became more straightforward when Texas clipped Gonzaga in the NCAA’s Round of 32, giving Huff a clear runway to recover and zero pressure to test his knee anytime soon.</p><p>“I think after that,” Huff said, “there was obviously no rush because there was no more games until this weekend.”</p><!--[photo id=915560]--><h3>Getting behind BFR</h3><p>Therrien worked with Huff’s family to facilitate medical treatment in the Chicago area, allowing the forward to work with a nationally-renowned orthopedic surgeon and recover in the quiet comfort of his Glen Ellyn, Illinois, home.</p><p>Huff’s operation was done by Dr. Brian Cole, the head team physician for the NBA’s Chicago Bulls, a managing partner of Midwest Orthopaedics at Rush University Medical Center and potentially one of only a handful of orthopedic surgeons in the country with his own Wikipedia page.</p><p>“We’ve had a previous history and relationship with the surgeon he did see, it just happened to be near his hometown,” Therrien said. “If he was Florida, we probably still would refer to the surgeon we did.”</p><p>Cole had a working relationship with Hosford, who previously knew Huff through her other venture, a training company called Athlete Advantage Performance Labs. Post-surgery, Hosford took the reins on Huff’s rehabilitation, seeing him four times per week, anywhere from two to three hours per day.</p><p>Huff’s anxiety level driving to visits with Hosford varied day to day. Twice a week, she had the Gonzaga forward hooked up to a BFR cuff – which was wrapped around his lower thigh, just above the targeted knee area – from anywhere between 20-45 minutes, with varied rest between sets.</p><p>Medical journals trace the earliest uses of the technique to Japan in the 1960s. The cuff acts like a tourniquet to reduce, or occlude, blood flow to certain parts of the body, promoting muscular growth and cardiovascular function.</p><p>“So essentially you’re simulating an environment of max effort,” Hosford said. “I ran track in college, so at the end of running an all-out 400-meter dash where you’re crossing the finish line and your legs feel so locked you can’t move, the BFR essentially creates that same environment but you can just use bodyweight or really light weights. So it’s great because you’re kind of tricking the body into thinking it’s maxing out without actually needing to.”</p><p>Early on, Hosford ran Huff through a variety of basic exercises with the application of BFR: long arc quads, straight leg raises, bridges, step ups, etc. It eventually progressed to standard weight-room movements like split squats, back squat, step-ups, calf raises, machine-based exercises, knee extensions and hamstring curls.</p><p>Then there were the energy-draining cardio sessions. BFR can be beneficial under VO2 max, a marker that measures volume of oxygen consumed during exercise, so Huff would routinely strap on the cuff before treadmill work, biking segments or sled push/pull workouts.</p><p>“It’s kind of a cheat code where you can maintain your body without overworking it between playing games,” Hosford said.</p><p>Late in the summer, Hosford she had news that would perk her client up. Huff was done with the BFR portion of his summer rehab stint &#8230; after one more set of knee extensions. The issue? Huff was adamant he’d completed all four sets. In disbelief, he looked at his dad, looked at another strength coach and then back at Hosford.</p><p>“He goes ‘No, she’s lying,’ ” Hosford recalled. “I was like ‘No, you have one more set. We always have four sets.’ And he goes, ‘Are there cameras? Where are the facility cameras? I need to pull, we need to see. I’ve already done four sets.’ ”</p><p>Two weeks later, Huff and Hosford revisited the scene at his summer camp.</p><p>“He’s like, ‘No take me through the whole series of events of how we got there and how you think I missed a set,’ ” Hosford said, adding that Huff eventually conceded but not before another hard-fought debate.</p><!--[photo id=933722]--><h3><span class=\"print_trim\">No-lose proposition</span><br/><br/></h3><p><span class=\"print_trim\">Huff’s gentle, unassuming personality clashes with a competitive gene likely passed down from his parents.</span></p><p><span class=\"print_trim\">Six years ago during the COVID-19 lockdown, Alec suggested the family get fresh air and go out to the driveway for pickup hoops. Older sister Taylor had grown less inclined to take part in those outings because of the growing skill and height gap between Braden and everyone else in the family. But, provided trash talk stay at a minimum, she was in.</span></p><p><span class=\"print_trim\">Alec proposed a rule: the first to jaw at another family member had to sprint to the end of the driveway and back. He was also the first to break, taking Braden to the hole on an early out of bounds play and subsequently letting his DI-bound son have an earful.</span></p><p><span class=\"print_trim\">“I realize I’m the issue,” Alec said. “So I start sprinting up and down the driveway.”</span></p><p><span class=\"print_trim\">Pickleball, card games, basketball, board games. It’s all the same. Huff doesn’t take loss kindly and doesn’t let go of things easily. During one family trip, Stacey tried to bend the rules in a Monopoly game, suggesting she and another player go in on a property together, enraging her son in the process.</span></p><p><span class=\"print_trim\">“Braden just totally had a fit and gave up, like you can’t do that, you’re cheating,” Alec said. “That’s kind of the way it works in our house. &#8230; That’s just who he is at his core.”</span></p><p><span class=\"print_trim\">So one can only imagine what the family couch looked like on Feb. 4.</span></p><p><span class=\"print_trim\">Gonzaga was at Portland in what most expected would be a WCC walkover. Huff was still in Illinois, watching in the living room with his parents – an experience that was admittedly unusual for all parties. The Pilots raced out to an early lead and pulled off the miracle of miracles, hanging on for an 87-80 win.</span></p><p><span class=\"print_trim\">“He didn’t like watching that one at all,” Alec recalled. “He’s certainly not yelling at his guys, he’s almost just befuddled, like what’s going on here?”</span></p><!--[photo id=936124]--><h3>The final act</h3><p>Progress reports on Huff post-rehab indicate there’s been little to no drop-off in the smooth lefty’s game.</p><p>“B-Huff, when I first came here and watched him work out, probably saw him miss one floater the whole workout,” Gonzaga guard and Houston transfer Isiah Harwell said. “That was crazy to watch.”</p><p>In the category of things even crazier? How Huff held up through low-post duels with a three-time NBA All-Star late in the offseason. Domantas Sabonis, the NBA’s leader in rebounding average (16.2 rpg), dropped by Gonzaga’s facilities to get a few final offseason workouts in and visit with former college coaches before returning to the Sacramento Kings.</p><p>“Not saying I was going crazy, but playing against him, competing against him, I feel like holding my own just felt great,” said Huff, noting Sabonis was also coming off a rehab assignment from his own knee injury. “I think that felt good for my confidence knowing this is a guy who plays at the highest level obviously &#8230; being able to compete against a guy like that and hold my own, feel good about it, I think was good for my confidence.”</p><p>It was an accurate characterization, too.</p><p>“B-Huff did his thing,” teammate Davis Fogle verified.</p><p>There’s no evidence to suggest Huff has skipped a beat on the court – 19 points and 11 rebounds against an athletic Arkansas frontcourt would support the exact opposite – and those around the program believe he’s in the best physical shape he’s been in since arriving in 2022 as a tall, gangly freshman.</p><p>“His leg strength I think is the best it’s ever been and obviously coming back from a leg injury, that’s so important,” assistant coach Brian Michaelson said. “But the way he’s moving, his leg strength, the balance between his legs both being similar in size, similar in strength, those were the things that were really important as he came back from this.”</p><p>Apparent upper-body gains have raised eyebrows, too. During Kraziness in the Kennel, ESPN analyst and event emcee Sean Farnham inquired about practice photos that surfaced last month depicting the forward’s biceps and shoulders as more chiseled than usual. Humbly, Huff tried to cast the images off as “AI.”</p><p>Not entirely true.</p><p>Partial credit goes to Stacey, who kept her son fueled with heaping meal portions during his time in Illinois. Steak, chicken piccata, chicken and biscuits and tuna were all on the menu.</p><p>“It was kind of crazy,” Alec said. “He would go either here or to train downtown and come back and his mother would have like a full dinner for him at noon.”</p><p>But Huff has also made serious strides with strength coach Travis Knight, revealing five years ago he could barely do one weighted pull-up on a resistance-based machine Gonzaga players use. The forward easily knocks out five to seven at a time now, usually performing four or five sets per session.</p><p>“Those got a lot easier,” Huff said. “It’s cool to recall on that growth and see the changes over time.”</p><p>There’s been growth in other areas, too. The once-timid Huff has emerged from his shell to become Gonzaga’s vocal leader, inheriting a key role on a team that has just two returning contributors.</p><p>“I think his body’s matured, definitely matured and he’s got that kind of senior confidence about him,” Gonzaga coach Mark Few said. “He understands he’s got to be more assertive and more vocal.”</p><p>Huff’s next act will be his final one in a Gonzaga jersey. Notably, he received zero preseason AP All-American votes despite posting a better 2025-26 scoring average than 17 of the 24 players who collected at least one vote and a better field goal percentage than all of them.</p><p>That didn’t go unnoticed.</p><p>“All that stuff, you kind of take note of,” Huff said. “Everybody kind of sees all that stuff, whether they admit to it or not.”</p><p>The last 10 months have felt more like 10 years, but Huff now sits roughly 24 hours from his long-awaited return, a 4:30 p.m. tipoff against Purdue at T-Mobile Arena in Las Vegas on Monday that should induce a variety of feelings and emotions from the family members, friends, high school coaches and Braden Huff Basketball Camp counselors planning to turn out.</p><p>“For sure it will be emotional,” Alec Huff said. “He’s worked his tail off to get back and the last year was really tough for him. I think he was devastated when that injury happened. &#8230; I guess all of that wraps into yeah, it’ll probably be a little emotional for us but in a good way.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "a6a793b5e903b262",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Diop Named to Kareem Abdul-Jabbar Award Watch List",
         "link": "https://gozags.com/news/2026/10/30/mens-basketball-diop-named-to-kareem-abdul-jabbar-award-watch-list",
         "link_kind": "item",
@@ -3549,20 +3576,6 @@
         "medium": "text"
       },
       {
-        "title": "Lisa Fortier Named to Kathy Delaney-Smith Coach of the Year Preseason Watch List",
-        "link": "https://gozags.com/news/2026/10/29/womens-basketball-lisa-fortier-named-to-kathy-delaney-smith-coach-of-the-year-preseason-watch-list",
-        "link_kind": "item",
-        "date": "2026-10-29T16:00:00+00:00",
-        "summary": "<img alt=\"lisa fortier\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/Lisa_Fortier__2_.jpg\" /><br /><br />SPOKANE, Wash. – Gonzaga women's basketball head coach Lisa Fortier has been named to the 2027 Kathy Delaney-Smith Coach of the Year Preseason Watch List, as announced by Her Hoop Stats on Thursday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "7cab9009043815c1",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "No. 15 Gonzaga Cruises to Exhibition Win over LC State, 91-59",
         "link": "https://gozags.com/news/2026/10/28/mens-basketball-no-15-gonzaga-cruises-to-exhibition-win-over-lc-state-91-59",
         "link_kind": "item",
@@ -3602,20 +3615,6 @@
         "source": "Gonzaga Athletics",
         "id": "7c77ccf11129e7c3",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Lauren Whittaker Named to Becky Hammon Award Preseason Watch List",
-        "link": "https://gozags.com/news/2026/10/28/womens-basketball-lauren-whittaker-named-to-becky-hammon-award-preseason-watch-list-2027",
-        "link_kind": "item",
-        "date": "2026-10-28T16:00:00+00:00",
-        "summary": "<img alt=\"lauren whittaker \" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/128_1F2A5872.jpg\" /><br /><br />SPOKANE, Wash. – Gonzaga women's basketball junior Lauren Whittaker has been named to the 2027 Becky Hammon Player of the Year Award Preseason Watch List, Her Hoop Stats announced Wednesday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "e4634f066127286e",
-        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -3760,6 +3759,90 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "Villa’s career night leads OSU women’s basketball past Eastern Washington",
+        "link": "https://www.oregonlive.com/beavers/2026/11/jenna-villas-career-night-leads-oregon-state-womens-basketball-past-eastern-washington.html",
+        "link_kind": "item",
+        "date": "2026-11-09T01:58:27+00:00",
+        "summary": "Villa made all six of her three-point attempts and went 9 of 9 at the free throw line to score the most points by an OSU player since Aleah Goodman scored 33 against Washington State on Jan. 24, 2021.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "bfd8f05dbc5e694c",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Banks offensive lineman commits to Oregon State",
+        "link": "https://www.oregonlive.com/recruiting/2026/11/banks-offensive-lineman-commits-to-oregon-state.html",
+        "link_kind": "item",
+        "date": "2026-11-09T01:56:52+00:00",
+        "summary": "Wilson was offered by OSU last week and held offers from San Jose State and Portland State",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "82c45f5b1653a32d",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Three-Point Barrage Keys Home Win",
+        "link": "https://osubeavers.com/news/2026/11/8/womens-basketball-three-point-barrage-keys-home-win",
+        "link_kind": "item",
+        "date": "2026-11-09T01:33:00+00:00",
+        "summary": "<img alt=\"The Oregon State bench celebrates after one of Jenna Villa's six three-pointers on Sunday\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/AJ9A8585.jpg\" /><br /><br />Jenna Villa scored 33 points while making every 3-pointer and every free throw she took and Oregon State rolled past Eastern Washington 85-64 on Sunday at Gill Coliseum.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "9c669a4ac699121d",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers’ football drowns against Texas State",
+        "link": "https://dailybaro.orangemedianetwork.com/33689/daily-barometer-sports/daily-barometer-sports-football/beavers-football-drowns-against-texas-state/",
+        "link_kind": "item",
+        "date": "2026-11-09T00:36:58+00:00",
+        "summary": "For the second week in a row, the Oregon State Beavers’ football team floundered against a lower ranked Pac-12 opponent, losing to Texas State 42-21 on Saturday night at Reser Stadium.  Now, 5-4 overall and 3-2 in the Pac-12, the Beavers could not bounce back from the loss last week against Fresno State.  “Tonight, you...",
+        "author": "Noel Hendrickson, Sports Writer",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "5705999ffe6cf242",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State a 2-score underdog at Boise State",
+        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-a-2-score-underdog-at-boise-state.html",
+        "link_kind": "item",
+        "date": "2026-11-08T18:44:12+00:00",
+        "summary": "Oregon State is an underdog for the first time in Pac-12 play this season.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "538d74c2390e0186",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "College GameDay headed to Boise State vs Oregon State",
+        "link": "https://www.oregonlive.com/beavers/2026/11/college-gameday-headed-to-boise-state-for-pac-12-matchup-with-oregon-state.html",
+        "link_kind": "item",
+        "date": "2026-11-08T16:40:52+00:00",
+        "summary": "Oregon State’s biggest game of the year just got a lot more attention.",
+        "author": "Nik Streng",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "9e7e714e732bed54",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "What GJ Kinne said after Texas State beat Oregon State",
         "link": "https://www.oregonlive.com/beavers/2026/11/what-gj-kinne-said-after-texas-state-beat-oregon-state.html",
@@ -4111,6 +4194,20 @@
         "medium": "text"
       },
       {
+        "title": "Beavers Return To Action Sunday vs. EWU",
+        "link": "https://osubeavers.com/news/2026/11/5/womens-basketball-beavers-return-to-action-sunday-vs-ewu",
+        "link_kind": "item",
+        "date": "2026-11-05T16:54:00+00:00",
+        "summary": "<img alt=\"Evi Smith and Taylor Young high-five after an and-one\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/_Z921369.JPG\" /><br /><br />Oregon State owns a 10-3 lead in the all-time series against EWU, including a perfect 5-0 record under Scott Rueck and a 7-0 mark at home. The last matchup came in the first round of the 2024 NCAA Tournament. The Beavers won 73-51.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "8ca15ad8e826a8c9",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Oregon State defensive tackle questionable vs. Texas State",
         "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-defensive-tackle-questionable-vs-texas-state.html",
         "link_kind": "item",
@@ -4135,6 +4232,20 @@
         "channel_url": "",
         "source": "The Oregonian",
         "id": "0c53f7eadacb8cfd",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers Drop Opener Despite Young’s 22-Point Debut",
+        "link": "https://osubeavers.com/news/2026/11/4/womens-basketball-beavers-drop-opener-despite-youngs-22-point-debut",
+        "link_kind": "item",
+        "date": "2026-11-05T04:38:00+00:00",
+        "summary": "<img alt=\"Young, Taylor\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/4/_Z921105.JPG\" /><br /><br />Jenna Villa scored 21 points including 19 in the second half. She was inches away from 24 but the would-be game-winner with a second left rimmed out as time expired. Kennedie Shuler put together a strong all-around game with 10 points, seven assists, five rebounds, two blocks and one steal.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "035f2b79adfb0971",
         "sport": "wbb",
         "medium": "text"
       },
@@ -4293,6 +4404,20 @@
         "extent": "1h",
         "sport": "all",
         "medium": "audio"
+      },
+      {
+        "title": "Women’s Basketball Opens Season Wednesday Night",
+        "link": "https://osubeavers.com/news/2026/11/3/womens-basketball-womens-basketball-opens-season-wednesday-night",
+        "link_kind": "item",
+        "date": "2026-11-03T18:24:00+00:00",
+        "summary": "<img alt=\"The Oregon State WBB bench celebrates in Gill Coliseum\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/3/AJ9A0606.jpg\" /><br /><br />Oregon State women's basketball opens the 2026-27 slate on Wednesday night against last year's WAC Champions California Baptist.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "37280a015bfff860",
+        "sport": "wbb",
+        "medium": "text"
       },
       {
         "title": "Oregon State blows out Weber State in Joyner's debut",
@@ -4491,31 +4616,31 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State receives no votes in polls after loss to Fresno State",
-        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-receives-no-votes-in-polls-after-loss-to-fresno-state.html",
+        "title": "Beavers Knock Off Falcons in Exhibition",
+        "link": "https://osubeavers.com/news/2026/11/1/womens-basketball-beavers-knock-off-falcons-in-exhibition",
         "link_kind": "item",
-        "date": "2026-11-01T23:23:49+00:00",
-        "summary": "Oregon State dropped entirely out of the polls after losing at Fresno State.",
-        "author": "James Crepea",
+        "date": "2026-11-02T01:03:00+00:00",
+        "summary": "<img alt=\"Taylor Young drives to the basket against Seattle Pacific\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/AJ9A0930.jpg\" /><br /><br />The Beavers led from wire to wire, scoring the first basket 21 seconds in and not relinquishing the advantage.",
+        "author": "",
         "duration": null,
         "channel_url": "",
-        "source": "The Oregonian",
-        "id": "6f2de08964a3821a",
-        "sport": "all",
+        "source": "Oregon State Athletics",
+        "id": "22a37587ed737a0b",
+        "sport": "wbb",
         "medium": "text"
       },
       {
-        "title": "Oregon State favored by more than a touchdown against Texas State",
-        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-favored-by-more-than-a-touchdown-against-texas-state.html",
+        "title": "Beavs Host Falcons for Exhibition",
+        "link": "https://osubeavers.com/news/2026/10/30/beavs-host-falcons-for-exhibition",
         "link_kind": "item",
-        "date": "2026-11-01T17:54:49+00:00",
-        "summary": "Oregon State is favored for a sixth straight game.",
-        "author": "James Crepea",
+        "date": "2026-10-31T00:42:00+00:00",
+        "summary": "<img alt=\"WBB Team\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/30/27WBB_Media_Day__Team_Photo_0053.jpg\" /><br /><br />Fans who attend a soccer match or volleyball game over the weekend of October 30-November 1 can present their ticket at the ticket window for a discounted general admission ticket. The offer is valid in-person only.",
+        "author": "",
         "duration": null,
         "channel_url": "",
-        "source": "The Oregonian",
-        "id": "068603d271249198",
-        "sport": "all",
+        "source": "Oregon State Athletics",
+        "id": "1377bd0d8f98c9cf",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -4530,6 +4655,20 @@
         "source": "Oregon State Athletics",
         "id": "ca1b1ed36eb7890c",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Shuler, Villa on Pac-12 Impact List; Beavs Picked Second by Media",
+        "link": "https://osubeavers.com/news/2026/10/29/womens-basketball-shuler-villa-on-pac-12-impact-list-beavs-picked-second-by-media",
+        "link_kind": "item",
+        "date": "2026-10-29T20:00:00+00:00",
+        "summary": "<img alt=\"Jenna Villa and Kennedie Shuler celebrate a made basket\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/29/Jenna_Villa__Kennedie_Shuler.jpeg\" /><br /><br />Each team in the conference had two selections to the preseason impact list with the All-WCC duo of Shuler and Villa chosen for the Beavers.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "5be1ebc5ddaaf82f",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -4619,6 +4758,20 @@
         "medium": "text"
       },
       {
+        "title": "Beavers Selected for League-Most 9 Televised Games",
+        "link": "https://osubeavers.com/news/2026/10/15/womens-basketball-beavers-selected-for-league-most-9-televised-games",
+        "link_kind": "item",
+        "date": "2026-10-15T19:00:00+00:00",
+        "summary": "<img alt=\"Detail WBB\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/detail_.jpg\" /><br /><br />Oregon State women's basketball will play at least nine nationally televised games as part of their 2026-27 season with the Pac-12 Television Partners announcing selections on Thursday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "94aee95131693fc4",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Jesse Legree Continues To Set Records For Oregon State Football",
         "link": "https://traffic.megaphone.fm/TDSPT9893400547.mp3",
         "link_kind": "enclosure",
@@ -4649,6 +4802,20 @@
         "medium": "audio"
       },
       {
+        "title": "Pac-12 Announces Women’s Basketball Schedule",
+        "link": "https://osubeavers.com/news/2026/10/2/womens-basketball-pac-12-announces-womens-basketball-schedule",
+        "link_kind": "item",
+        "date": "2026-10-02T18:00:00+00:00",
+        "summary": "<img alt=\"Detail - WBB\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/2/detail.jpg\" /><br /><br />The Pac-12 announced its women's basketball conference schedule on Friday morning, with Oregon State slated to open league play on January 6 at Gonzaga.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "e967d00d980e3882",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Oregon State Football Returns to a Pac-12 Schedule",
         "link": "https://traffic.megaphone.fm/TDSPT3251561063.mp3",
         "link_kind": "enclosure",
@@ -4665,6 +4832,20 @@
       }
     ],
     "San Diego State": [
+      {
+        "title": "Men's Basketball v Colorado",
+        "link": "https://goaztecs.com/news/2026/11/7/mens-basketball-v-colorado",
+        "link_kind": "item",
+        "date": "2026-11-07T23:50:42+00:00",
+        "summary": "07 November 2026: San Diego State men’s basketball beat Colorado 77-66 in the inaugural National University Bill Walton Classic at Pechanga Arena in San Diego, California.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "3b680987bd4a375f",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Aztecs Take Down Colorado at Inaugural Bill Walton Classic",
         "link": "https://goaztecs.com/news/2026/11/7/aztecs-take-down-colorado-at-inaugural-bill-walton-classic",
@@ -7214,6 +7395,34 @@
     ],
     "Washington State": [
       {
+        "title": "Cougar Soccer falls to Boise in final game of the season",
+        "link": "https://dailyevergreen.com/201375/sports/cougar-soccer-falls-to-boise-in-final-game-of-the-season/",
+        "link_kind": "item",
+        "date": "2026-11-09T01:06:37+00:00",
+        "summary": "The Boise State Broncos (13-2-2, Pac-12 6-1-1) prevailed over the Cougs (5-7-5, Pac-12 2-4-2) Thursday night, 1-0 and ended the Cougs’ season. Senior Cindy Connor struck the ball in the 77th minute for the Broncos from outside the 18-yard box. The ball flew just past the reach of WSU goalkeeper Ashlyn Dvorak. Apart from the...",
+        "author": "BEN WALKER, Evergreen reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "af7acc0f29b4b3c1",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Women’s Basketball to Host Idaho for Monday Home Opener",
+        "link": "https://wsucougars.com/news/2026/11/8/womens-basketball-to-host-idaho-for-monday-home-opener",
+        "link_kind": "item",
+        "date": "2026-11-08T18:00:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "d8ab8f10ff2ed4c1",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Cougar Basketball Replay (WSU vs. High Point) 11-7-26",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/1e5bd3d1-9ee5-41ff-be18-f88d90aba929.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -7227,6 +7436,34 @@
         "extent": "3h 7m",
         "sport": "all",
         "medium": "audio"
+      },
+      {
+        "title": "WSU GETS HOT FROM THREE, BUT FALL AS HIGH POINT DEFENDS HOME COURT",
+        "link": "https://wsucougars.com/news/2026/11/8/wsu-gets-hot-from-three-but-fall-as-high-point-defends-home-court",
+        "link_kind": "item",
+        "date": "2026-11-08T01:00:15+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "1d401c7ebd1b8e13",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "WSU MBB: David Riley | High Point Postgame | 11/7/26",
+        "link": "https://wsucougars.com/news/2026/11/8/wsu-mbb-david-riley-high-point-postgame-11726",
+        "link_kind": "item",
+        "date": "2026-11-08T00:36:27+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "87d30884043e18bd",
+        "sport": "mbb",
+        "medium": "text"
       },
       {
         "title": "Cougars Fall in Tight Battle at Oregon, 64-57",
@@ -7440,20 +7677,6 @@
         "medium": "text"
       },
       {
-        "title": "Women’s hoops lose their season opener to the Golden Bears",
-        "link": "https://dailyevergreen.com/201253/sports/womens-hoops-lose-their-season-opener-to-the-golden-bears/",
-        "link_kind": "item",
-        "date": "2026-11-03T16:00:50+00:00",
-        "summary": "Washington State University women’s basketball hit the road for their first game, falling short 80-58 against the University of California Berkeley on Nov. 2. Right off the bat, the Cougs took the lead scoring the first 2 points of the game and held off the Golden Bears in the first half of the first quarter....",
-        "author": "Talyn Bell",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "68faf2cfa1460bbc",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Cougs See Big Performances in Loss at California",
         "link": "https://wsucougars.com/news/2026/11/3/cougs-see-big-performances-in-loss-at-california",
         "link_kind": "item",
@@ -7536,20 +7759,6 @@
         "source": "Washington State Athletics",
         "id": "3e8b16c3116266ca",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "WSU cross country wins multiple titles at Pac-12 Tournament",
-        "link": "https://dailyevergreen.com/201042/sports/wsu-cross-country-excels-at-pac-12-tournament/",
-        "link_kind": "item",
-        "date": "2026-11-03T03:45:58+00:00",
-        "summary": "WSU cross country shines Friday, in the first Pac-12 Conference championships. This is the first championship that the conference has hosted since the conference&#8217;s revival. The Cougs were crowned Champions in the women’s individual, team, runner of the year and freshman of the year. The men’s team had three runners finish top 14. In the...",
-        "author": "BEN WALKER, Evergreen reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "6071aadbc44dd0f7",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -10075,20 +10284,6 @@
         "extent": "23 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "WSU Football: Kirby Moore | Arizona Week Thursday Press Conference | 9/24/26",
-        "link": "https://wsucougars.com/news/2026/09/24/wsu-football-kirby-moore-arizona-week-thursday-press-conference-92426",
-        "link_kind": "item",
-        "date": "2026-09-24T22:38:21+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "d13ca8ec1e933272",
-        "sport": "football",
-        "medium": "text"
       }
     ]
   }
