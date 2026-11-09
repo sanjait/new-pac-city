@@ -26202,6 +26202,169 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-11-09-0240"
+    },
+    "101cfad82b05c763": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary covers a recurring feature on Fresno State football's 2016 hiring of head coach Jeff Tedford.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-11-09-1441"
+    },
+    "2d7a49e0877f22cb": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Boise State's and Colorado State's weekend results and poll movement are the piece's subject.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-09-1441"
+    },
+    "31242b923b90b6f0": {
+      "subjects": {
+        "utah-state/womens-tennis": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Full text profiles Terezia Mlkva's Utah State women's tennis conference title.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kylie Jones"
+      ],
+      "extent": "39 min read",
+      "run": "run_2026-11-09-1441"
+    },
+    "3397d0e114bbaac4": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Summary names a former Fresno State football player reacting to the Bulldogs' loss to Utah State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-11-09-1441"
+    },
+    "3cb4d8acf58125ac": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The whole piece is a locker-room feature on San Jose State football, a program outside the registry.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-09-1441"
+    },
+    "8f818a86bc0dea4f": {
+      "subjects": {
+        "oregon-state": "about",
+        "texas-state": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Title and summary name Oregon State's loss to Texas State, establishing the program and the athletics result.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Neither title nor summary names the sport, so I keyed both schools at the department level rather than inferring football from the season.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-09-1441"
+    },
+    "cb5e1a0504acd4c7": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece is about alum Jensen Huang's personal and corporate scandal, not Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Miles Sadler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-09-1441"
+    },
+    "e646b524b6919733": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full text previews Washington State's football matchup against Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-09-1441"
+    },
+    "f28a41e321122179": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "involves",
+        "utah-state/football": "about",
+        "fresno-state/football": "involves",
+        "texas-state/football": "about",
+        "oregon-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Saturday's wins by Boise State, Utah State and Texas State over three other covered programs, plus a Pac-12 standings roundup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-11-09-1441"
+    },
+    "f72e6ea7b2ff0e73": {
+      "subjects": {},
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The visible text recaps only Mountain West games among New Mexico, Nevada, San Jose State, NIU, Air Force, Hawaii, UTEP and Wyoming, none of which is a covered program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "15 min read",
+      "run": "run_2026-11-09-1441"
     }
   },
   "runs": {
@@ -30315,6 +30478,50 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 23.908429500181228,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-09-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-09T14:39:23.447299+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 7,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2,
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 2
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "2d7a49e0877f22cb",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "3cb4d8acf58125ac",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 23.06392510002479,
       "tokens": null,
       "tokens_source": null
     }
