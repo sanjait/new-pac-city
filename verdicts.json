@@ -26721,6 +26721,173 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-11-10-0242"
+    },
+    "54fb95e29c4c24b2": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about",
+        "utah-state/football": "about",
+        "san-diego-state/football": "about",
+        "fresno-state/football": "about",
+        "colorado-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Ranks and gives substantive dedicated analysis of each covered school's football team and its weekend result.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-10-1440"
+    },
+    "5f69b7e9b786e178": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "All ranked teams (New Mexico, Wyoming, Air Force, UNLV, San Jose State, Hawai'i, Nevada, UTEP, Northern Illinois) are Mountain West schools outside the nine covered programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-10-1440"
+    },
+    "68d04eec63af013b": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "oregon-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves",
+        "washington-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Ranks and reports football recruiting activity for eight of the nine covered schools by name, with a conference-wide tier ranking.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-10-1440"
+    },
+    "92c4a885fb9c5622": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Names specific Boise State, Texas State, and Utah State football players and their Week 10 performances.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-10-1440"
+    },
+    "934de82f5f5f409c": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Analyzes how CFP expansion's scheduling rules affect Washington State football's future nonconference games, with Oregon State discussed as a parallel case.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Oregon State appears only as a parallel case to WSU's Power 4 classification, with no dedicated analysis of its own, so the involves-versus-mentions call was close.",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-10-1440"
+    },
+    "a09854bca1b3052b": {
+      "subjects": {
+        "oregon-state/mens-soccer": "about",
+        "san-diego-state/mens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State men's soccer's Pac-12 semifinal win, naming San Diego State as the upcoming final opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-10-1440"
+    },
+    "a1a3746b84fe9b19": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Cougs ice hockey loss to Montana",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Washington State ice hockey is not a program in its registry row, so no covered WSU team is about or involves.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-10-1440"
+    },
+    "bf36515bf5e35327": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "All named players and teams (Wyoming, UNLV, New Mexico, Air Force, San Jose State, Hawai'i, UTEP) belong to Mountain West schools outside the nine covered programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-10-1440"
+    },
+    "ca1319207f5543d7": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a specific Oregon State football recruiting commitment.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-10-1440"
+    },
+    "f795d839eafefb87": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Every team in this Mountain West men's basketball power ranking (Grand Canyon, New Mexico, Nevada, UNLV, Hawai'i, San Jose State, UTEP, Air Force, UC Davis) is outside the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-10-1440"
     }
   },
   "runs": {
@@ -30915,6 +31082,41 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 54.70011690026149,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-10-1440": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-10T14:39:05.432248+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 6,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3,
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "a1a3746b84fe9b19",
+          "source": "The Daily Evergreen",
+          "phrase": "Cougs ice hockey loss to Montana",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 21.316386899910867,
       "tokens": null,
       "tokens_source": null
     }
