@@ -26365,6 +26365,362 @@
       ],
       "extent": "15 min read",
       "run": "run_2026-11-09-1441"
+    },
+    "0c1dc79edfc04b42": {
+      "subjects": {
+        "washington-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Washington",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Examines how the CFP's expansion to 24 teams affects Washington State's scheduling and Group of Six playoff path, with Oregon State's parallel treatment also discussed.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-10-0242"
+    },
+    "11a2997f72d0edc5": {
+      "subjects": {
+        "utah-state/football": "about",
+        "fresno-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Weekend roundup recapping Utah State's win over Fresno State and Texas State's win over Oregon State, among other games.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "1ab9cd8b9a39d81a": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Fresno State men's basketball's game against Georgia State after the team's first loss of the season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "1bd6c0189f6f9ee4": {
+      "subjects": {
+        "boise-state/mens-tennis": "about",
+        "boise-state/cross-country": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles international student-athletes on Boise State's men's tennis and cross country teams.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "1fce56010a03d8db": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Fresno State coach Matt Entz addresses the team's loss to Utah State in his weekly press conference.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-11-10-0242"
+    },
+    "1fe497a3b57aee8d": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves",
+        "utah-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Analyzes Fresno State football's late-season slide through its recent losses to Boise State, San Diego State and Utah State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "2b65de2f832e4154": {
+      "subjects": {
+        "texas-state/womens-tennis": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State women's tennis's fall season, including the States Up Slam and ITA Conference Masters.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Juan Pereira Casanoba",
+        "Jackson Grettler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "461e1d39eb0cf562": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Boise State QB Maddux Madsen and RB Sire Gaines are questionable for this week's Oregon State game pending practice.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-10-0242"
+    },
+    "46dd3280a44e7dc2": {
+      "subjects": {
+        "utah-state/football": "about",
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Utah State's 17-10 defensive win over Fresno State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "90 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "4ddcec4ba59036e8": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Washington State women's basketball's 76-53 win over Idaho for its first win of the season.",
+      "evidence_basis": "title+full-text",
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-10-0242"
+    },
+    "4ef4d8fd21398f1d": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Oregon State's coaches respond to Texas State coach GJ Kinne calling OSU a 'finesse team' after the Bobcats' rushing win.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-10-0242"
+    },
+    "754283aeee24705e": {
+      "subjects": {
+        "utah-state/womens-volleyball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles Utah State volleyball setter Silina Damuni's return from a church mission and the team's season struggles.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Elissa Ross"
+      ],
+      "extent": "92 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "76562870d4f78a6d": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Boise State coaches discuss defensive issues and the Maddux Madsen/Max Cutforth QB situation ahead of the Oregon State game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "8ab973a0594e739c": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers an Oregon State engineering professor's paid AI tutoring product; nothing in it concerns OSU athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roy Keller"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "bb03042a928b354e": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Oregon State QB Braden Atkinson's hand injury leaves his status unclear for the trip to Boise State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-10-0242"
+    },
+    "bb39c88d052d5593": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "texas-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Oregon State coach JaMarcus Shephard discusses the loss to Texas State and previews the Boise State matchup.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-10-0242"
+    },
+    "bcda553d45320d66": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Profiles Oregon State men's basketball's overhauled roster and new coach Justin Joyner ahead of the season.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "bdfadaa7edd123e4": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about",
+        "utah-state/mens-basketball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Gonzaga men's basketball rose to No. 14 in the AP poll after wins over Purdue and New Mexico State; Utah State also received a vote.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Utah State's mention is a single paragraph on receiving one Top 25 vote in a story otherwise about Gonzaga; whether that rises to involves or is merely incidental is a close call.",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-10-0242"
+    },
+    "d3025888563383a3": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Oregon State's game at Boise State, calling Broncos running back Dylan Riley a major test for the struggling Beavers.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-10-0242"
+    },
+    "dabb7cc0fc05183b": {
+      "subjects": {
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Profiles Utah State linebacker Asher Cunningham's rise amid injuries in the position room.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "65 min read",
+      "run": "run_2026-11-10-0242"
+    },
+    "fbab71051dd35a3a": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about",
+        "utah-state/football": "about",
+        "san-diego-state/football": "about",
+        "colorado-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Weekly Pac-12 football power rankings covering all eight conference teams, led by Boise State and Texas State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-10-0242"
+    },
+    "fd2851675323bebd": {
+      "subjects": {
+        "fresno-state/baseball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Fresno State released its 2027 baseball schedule, including a rematch with Georgia and its Pac-12 slate.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-10-0242"
     }
   },
   "runs": {
@@ -30522,6 +30878,43 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 23.06392510002479,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-10-0242": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-10T02:39:35.772046+00:00",
+      "items": 22,
+      "verdict_counts": {
+        "publish": 21,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 5
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "0c1dc79edfc04b42",
+          "source": "The Spokesman-Review",
+          "phrase": "Washington",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 54.70011690026149,
       "tokens": null,
       "tokens_source": null
     }
