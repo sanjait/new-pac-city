@@ -26888,6 +26888,249 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-11-10-1440"
+    },
+    "12c17ef09ff174a5": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Oregon State quarterback Braden Atkinson re-signing for the 2027 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Leo Diamond"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-11-0241"
+    },
+    "24b7c75b07536f36": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary identifies Oregon State football's rushing-yardage gap between wins and losses as the story.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-11-0241"
+    },
+    "3e44971023969799": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A podcast-excerpt discussion analyzing Gonzaga men's basketball's start and its upcoming LSU matchup.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-11-0241"
+    },
+    "42eee66110e245e7": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A multi-item Monday roundup gives dedicated bullets to OSU quarterback Atkinson's injury status and a Boise State CFP-ranking question, both covered programs.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Most of the roundup's other items are about Mountain West schools outside the nine, and the OSU/Boise State bullets are brief within it.",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-11-0241"
+    },
+    "56fc67d76a74b72c": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on Washington State football defensive lineman Kaden Beatty's leadership during the team's losing season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-11-0241"
+    },
+    "6c5e8254aaa43efe": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A live blog of Fresno State men's basketball's game against Georgia State, with Fresno State the clear subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller",
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-11-0241"
+    },
+    "72a2fde8b3a50a9a": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers Gonzaga transfer Chauncey Wiggins' eligibility hearing and its effect on his availability for the team.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-11-0241"
+    },
+    "7f5113b26408b07c": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish Oregon State's starting quarterback re-signing as the subject.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-11-0241"
+    },
+    "86c87a2b90bfbe60": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on Washington State football defensive lineman Kaden Beatty's leadership during the team's losing season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-11-0241"
+    },
+    "8a915451f3aa14f6": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Utah State men's basketball's blowout win over Omaha.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "46 min read",
+      "run": "run_2026-11-11-0241"
+    },
+    "8e554e382f21d2b9": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps San Diego State women's basketball's win over UT San Antonio.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tyler Ross"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-11-0241"
+    },
+    "8ec23e0ed260987b": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A weekly roundup of former Washington State players' NFL performances, which is athletics coverage of the program's alumni.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-11-0241"
+    },
+    "918a38aa38f16f52": {
+      "subjects": {
+        "san-diego-state/volleyball": "about",
+        "fresno-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps San Diego State volleyball clinching a Pac-12 tournament berth by beating Fresno State, with Fresno State's play covered in detail as the opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Joel Gaitan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-11-0241"
+    },
+    "d4c15e24e2e1e135": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The summary reports Oregon State men's basketball's win over Eastern Washington with a player's point total.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-11-0241"
+    },
+    "d89cdbbd59c6b1ec": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "College GameDay's Boise visit previews the Boise State-Oregon State Week 11 matchup, with Boise State hosting and Oregon State given substantive player detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-11-0241"
+    },
+    "e0370c0e4c12e204": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Gonzaga women's basketball player Lauren Whittaker's watch-list nomination.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-11-0241"
     }
   },
   "runs": {
@@ -31117,6 +31360,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 21.316386899910867,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-11-0241": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-11T02:39:51.324185+00:00",
+      "items": 16,
+      "verdict_counts": {
+        "publish": 16
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 38.03300020005554,
       "tokens": null,
       "tokens_source": null
     }
