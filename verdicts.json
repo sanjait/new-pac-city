@@ -27131,6 +27131,150 @@
       "extent": "1 min read",
       "lock": "paywall",
       "run": "run_2026-11-11-0241"
+    },
+    "33822c20b0d80b87": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Dimp Pernell's career-high scoring night lifted the Texas State men's basketball team over UTRGV.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cash Arenas"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-11-1440"
+    },
+    "6bd06706f60121cd": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The podcast recaps Boise State's win over Colorado State and previews the CFP and conference-title picture.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-11-1440"
+    },
+    "77660957f6df5863": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The survey asks readers whether Boise State deserves a higher spot in the CFP rankings.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-11-1440"
+    },
+    "8834c961528be53d": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Utah State's offense dismantled Utah Tech, with several Aggies scoring in double digits.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "37 min read",
+      "run": "run_2026-11-11-1440"
+    },
+    "8da99431bde9a9a8": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The standings roundup is about Mountain West contenders New Mexico, Wyoming, North Dakota State, Air Force and UNLV, none of which are covered programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-11-11-1440"
+    },
+    "9d844c55c63d6afe": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Washington State's men's basketball team blew a late lead and lost to Duquesne, falling to 0-3.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-11-1440"
+    },
+    "a380814bd5a74680": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece centers on Boise State hosting ESPN's College GameDay and what the CFP expansion means for the program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-11-1440"
+    },
+    "b6a98b0ec226d49e": {
+      "subjects": {
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "boise-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Each section grades one team's Week 10 performance, with full paragraphs on Texas State, Utah State, Boise State, Fresno State and Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-11-1440"
+    },
+    "ba7e8367db53b107": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish Fresno State's coach previewing the Bobcats matchup with Texas State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-11-11-1440"
     }
   },
   "runs": {
@@ -31384,6 +31528,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 38.03300020005554,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-11-1440": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-11T14:39:28.035647+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 8,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "8da99431bde9a9a8",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 20.13195479999922,
       "tokens": null,
       "tokens_source": null
     }
