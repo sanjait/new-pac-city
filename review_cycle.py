@@ -61,7 +61,7 @@ import build
 import review
 
 # The reviewer prompt lives in the Studio's own document tree, not in this
-# repo — it is a Studio project document (projects/new-pac-city/), read by
+# repo — it is a Studio project document (domains/fractal-herd/new-pac-city/), read by
 # whoever/whatever is doing the judging between `prepare` and `finish`, never
 # by this script. This is the stable, non-lane path: the Studio checkout at
 # C:\studio\the-studio, sibling to this repo under C:\studio. A lane's copy
@@ -69,7 +69,8 @@ import review
 # here — see CLAUDE.md's "a link you give the CEO must open."
 REVIEWER_PROMPT_PATH = (
     Path(review.__file__).resolve().parent.parent
-    / "the-studio" / "projects" / "new-pac-city" / "work-reviewer-prompt.md"
+    / "the-studio" / "domains" / "fractal-herd" / "new-pac-city"
+    / "work-reviewer-prompt.md"
 )
 
 # The only file `finish` may commit. Everything else `finish` writes
