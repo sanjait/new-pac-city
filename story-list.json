@@ -1,7 +1,91 @@
 {
-  "generated_at": "2026-11-11T02:03:44.388603+00:00",
+  "generated_at": "2026-11-11T14:03:38.572871+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Boise State Climbs to No. 24 in Second Set of CFP Rankings",
+        "link": "http://pac-12.com/news/2026/11/11/football-boise-state-climbs-to-no-24-in-second-set-of-cfp-rankings.aspx",
+        "link_kind": "item",
+        "date": "2026-11-10T18:45:12+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/Boen_Phelps_Boise_State_vs_Memphis.png\" /><br /><br />Boise State moved up one spot and is at No. 24 in the second week of College Football Playoff Rankings, the committee announced Tuesday night.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "1a1a4367f9ee14cb",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "What Can We Expect Out of “College Gameday” in Boise?",
+        "link": "https://www.mwcconnection.com/boise-state-broncos-football/95737/what-can-we-expect-out-of-college-gameday-in-boise",
+        "link_kind": "item",
+        "date": "2026-11-10T18:43:04+00:00",
+        "summary": "In an uncertain time for Group of Six football, ESPN’s College Gameday will shine a light on the best the non-powers have to offer: Saturday morning from the blue turf craziness that is Boise, Idaho. Packs of students will pack in like sardines, funny posters will be made and million-dollar field goals will be missed [&#8230;]",
+        "author": "Dan Allison",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "a380814bd5a74680",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Mountain West Connection Reacts Survey: Boise State & College Football Playoff Rankings",
+        "link": "https://www.mwcconnection.com/college-football-rankings/95697/college-football-playoff-rankings-boise-state-broncos",
+        "link_kind": "item",
+        "date": "2026-11-10T18:00:00+00:00",
+        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NCAA. Throughout the year we ask questions of the most plugged-in Mountain West fans and fans across the country. Sign up here to participate in the weekly emailed surveys:",
+        "author": "Kyle Thele",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "77660957f6df5863",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "New Mexico Leads the Race, Wyoming Surges, and Bowl Dreams Hang in the Balance",
+        "link": "https://www.mwcconnection.com/mountain-west-football/95647/new-mexico-leads-the-race-wyoming-surges-and-bowl-dreams-hang-in-the-balance",
+        "link_kind": "item",
+        "date": "2026-11-10T17:00:00+00:00",
+        "summary": "With three weeks left in the regular season, the Mountain West championship race is coming into focus. But with conference title hopes, bowl eligibility, and plenty of pride on the line, November promises to deliver more than a few surprises. By Roger A. Holien &#124; Mountain West Connection November 8, 2026 &#124; Mountain West Football [&#8230;]",
+        "author": "Roger A Holien",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "8da99431bde9a9a8",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "The Good, the Bad, the Ugly: Week 10",
+        "link": "https://www.mwcconnection.com/the-good-the-bad-the-ugly/95466/the-good-the-bad-the-ugly-week-10",
+        "link_kind": "item",
+        "date": "2026-11-10T16:00:00+00:00",
+        "summary": "We have officially entered the final month of the college football regular season. There has been no shortage of drama this season, and two West Coast Group of Six schools were firmly in the hunt for a spot in the College Football Playoff entering this weekend. Did New Mexico and Boise State keep their momentum [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "b6a98b0ec226d49e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "College GameDay heading to Boise! Wyoming controls own destiny after upsetting UNLV! CFP officially expands to 24 teams! MW/PAC-12 Title Chase Breakdown! Games of the Week preview + prediction! HP Ep. #178 OUT NOW!",
+        "link": "https://www.mwcconnection.com/podcast/95724/mountain-west-pac-12-podcast-boise-state-wyoming-unlv-conference-championship-new-mexico-gameday",
+        "link_kind": "item",
+        "date": "2026-11-10T15:00:00+00:00",
+        "summary": "Welcome back everyone to the Hike’s Peak podcast, thank you for coming back to the mountain! We’ve reached the home stretch of the regular season, and the conference championship races are heating up! In the Mountain West, Wyoming won a wild shootout over UNLV, and now control their own destiny in the title hunt, while [&#8230;]",
+        "author": "Jack Thompson",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "6bd06706f60121cd",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Mountaintop View 11-10-26",
         "link": "https://www.mwcconnection.com/mountain-west-news/95700/mountain-west-pac-12-football-basketball-boise-wyoming",
@@ -87,34 +171,6 @@
         "medium": "text"
       },
       {
-        "title": "PAC-12 Power Rankings: Week 10",
-        "link": "https://www.mwcconnection.com/pac-12-rankings/95460/pac-12-power-rankings-week-10",
-        "link_kind": "item",
-        "date": "2026-11-09T17:00:00+00:00",
-        "summary": "The race for the conference championship is starting to sort itself out, and a key contest between Texas State and Oregon State served as a must-win game for both teams. A Bobcat win would put Texas State firmly in the championship hunt, while an Oregon State victory would allow the Beavers to control their own [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "54fb95e29c4c24b2",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "PAC-12 Players of the Week: Week 10",
-        "link": "https://www.mwcconnection.com/players-of-the-week/95463/pac-12-players-of-the-week-week-10",
-        "link_kind": "item",
-        "date": "2026-11-09T15:00:00+00:00",
-        "summary": "There may have been only six PAC-12 teams in action this past weekend, but there was no lack of quality performances. There were some high-scoring contests with electric performances from some of the top athletes in the conference. There were also some lockdown defensive performances that propelled teams to victory and some key special teams [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "92c4a885fb9c5622",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "This Week in Pac-12 Men's Basketball - Nov. 9, 2026",
         "link": "http://pac-12.com/news/2026/11/9/this-week-in-pac-12-mens-basketball-nov-9-2026.aspx",
         "link_kind": "item",
@@ -129,20 +185,6 @@
         "medium": "text"
       },
       {
-        "title": "Mountaintop View 11-9-26. Falcons clinch CIC Trophy, Aggies upset, Bobcats blowout, Cowboys hold on. College GameDay to Boise.",
-        "link": "https://www.mwcconnection.com/pac-12-news/95610/college-gameday-boise-state-broncos-air-force-tropy-texas-bobcats",
-        "link_kind": "item",
-        "date": "2026-11-09T14:00:00+00:00",
-        "summary": "It’s Monday, and we are back at it! Football season is firing on all cylinders, and we have you covered. As always, check out our original coverage and what we can find on the World Wide Web below. Falcons clinch CIC Trophy with win. Air Force continued its renaissance 2026 season by beating their second [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "11a2997f72d0edc5",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Basketball Players of the Week - Nov. 9, 2026",
         "link": "http://pac-12.com/news/2026/11/9/pac-12-basketball-players-of-the-week.aspx",
         "link_kind": "item",
@@ -153,20 +195,6 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "13e6b44b2545a5d2",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "What is wrong in Fresno?",
-        "link": "https://www.mwcconnection.com/fresno-state-bulldogs-football/95668/what-is-wrong-in-fresno",
-        "link_kind": "item",
-        "date": "2026-11-09T13:00:00+00:00",
-        "summary": "From a team that looked like was going to be the biggest threat to Boise State winning the Pac-12 Conference championship to barely hanging on to bowl eligibility by a thread, the question is harkening, what has happened to Fresno State this season? The answer may not be as simple as the question. From not [&#8230;]",
-        "author": "Adam Evarts",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "1fe497a3b57aee8d",
         "sport": "all",
         "medium": "text"
       },
@@ -195,20 +223,6 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "fc3e1153b63374f2",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountain West and PAC-12 in the Rankings",
-        "link": "https://www.mwcconnection.com/college-football-rankings/95476/mountain-west-and-pac-12-in-the-rankings",
-        "link_kind": "item",
-        "date": "2026-11-09T00:11:57+00:00",
-        "summary": "For the first time this year, two Group of Five teams appeared in the Coaches and AP Polls. Both of those teams came from the west with Boise State continuing their success and New Mexico making their first poll appearance in program history last week. Both teams entered the week as favorites with Boise State [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "2d7a49e0877f22cb",
         "sport": "all",
         "medium": "text"
       },
@@ -265,20 +279,6 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "376b2a1ae95c6595",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Checks in at No. 25 in Initial CFP Rankings",
-        "link": "http://pac-12.com/news/2026/11/4/football-boise-state-checks-in-at-no-25-in-initial-cfp-rankings.aspx",
-        "link_kind": "item",
-        "date": "2026-11-03T17:50:05+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/3/Rasean_Jones_Boise_State.png\" /><br /><br />Boise State came in at No. 25 in the initial College Football Playoff Rankings, the committee announced Tuesday night.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "b21ab7d0cef168dc",
         "sport": "all",
         "medium": "text"
       },
@@ -522,6 +522,34 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "Broncos Roll Past Matadors",
+        "link": "https://broncosports.com/news/2026/11/10/womens-basketball-broncos-roll-past-matadors",
+        "link_kind": "item",
+        "date": "2026-11-11T04:12:00+00:00",
+        "summary": "<img alt=\"WBB: Izzie Harms Action\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/DSC09100__1_.jpg\" /><br /><br />The Broncos (3-0) scored 46 points off the bench, led by a career-high 16 points from sophomore Izzie Harms.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "fdc45b7c5876f8f0",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Broncos Climb to No. 24 in College Football Playoff Rankings",
+        "link": "https://broncosports.com/news/2026/11/10/broncos-climb-to-no-24-in-college-football-playoff-rankings",
+        "link_kind": "item",
+        "date": "2026-11-11T02:34:00+00:00",
+        "summary": "<img alt=\"Boise State Football Game 9 vs  Colorado State at Canvas Stadium. Photo by Kenna Harbison\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/KH_FBvsCSU_020.jpg\" /><br /><br />Boise State remains lone Group of Six team ranked",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "8c7eabbcff69684f",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Broncos Seek Third Consecutive Win",
         "link": "https://broncosports.com/news/2026/11/10/mens-basketball-broncos-seek-third-consecutive-win",
@@ -841,20 +869,6 @@
         "channel_url": "",
         "source": "Boise State Athletics",
         "id": "1ba26e3b3477ed24",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Doyle Featured on Ray Guy Award Midseason Watch List",
-        "link": "https://broncosports.com/news/2026/11/5/football-doyle-featured-on-ray-guy-award-midseason-watch-list",
-        "link_kind": "item",
-        "date": "2026-11-05T20:00:00+00:00",
-        "summary": "<img alt=\"Oscar Doyle punting vs. Texas State, Oct. 31, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/4/MC_FBvsTS_554_1J3m1.jpg\" /><br /><br />Senior punter has fifth-best single-season punting average in school history",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "b9eb738e4004487f",
         "sport": "football",
         "medium": "text"
       },
@@ -1300,20 +1314,6 @@
         "medium": "audio"
       },
       {
-        "title": "Women's Basketball Unveils Pac-12 Schedule",
-        "link": "https://broncosports.com/news/2026/10/2/womens-basketball-womens-basketball-unveils-pac-12-schedule",
-        "link_kind": "item",
-        "date": "2026-10-02T18:00:00+00:00",
-        "summary": "<img alt=\"WBB team huddle\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/1/Team2526AirForce-06.jpg\" /><br /><br />Boise State women's basketball head coach Gordy Presnell unveiled the Broncos' conference schedule, marking the program's first season in the Pac-12.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "c856bd36f7681d2f",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Off the Blue - Season 7, Episode 5- Kendall Hastings",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/1231a336-9b15-4d6b-ade5-bce4d642b02a.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -1345,6 +1345,34 @@
       }
     ],
     "Colorado State": [
+      {
+        "title": "Rams Paint Impressive Road Picture",
+        "link": "https://csurams.com/news/2026/11/10/womens-basketball-rams-paint-impressive-road-picture",
+        "link_kind": "item",
+        "date": "2026-11-11T04:09:00+00:00",
+        "summary": "<img alt=\"Heidur Karlsdottir\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/hk.jpg\" /><br /><br />Inside scoring paves way to win over Denver",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "7880da78c76d58b3",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Game Week: at Washington State",
+        "link": "https://csurams.com/news/2026/11/10/football-game-week-at-washington-state",
+        "link_kind": "item",
+        "date": "2026-11-10T15:56:00+00:00",
+        "summary": "<img alt=\"Game Week at Washington State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/FB26_-_Game_Week__WSU.png\" /><br /><br />Colorado State continues Pac-12 play at Washington State.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "56feed5b5f7579e6",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Homestand Continues Wednesday",
         "link": "https://csurams.com/news/2026/11/10/mens-basketball-homestand-continues-wednesday",
@@ -1384,6 +1412,20 @@
         "channel_url": "",
         "source": "Colorado State Athletics",
         "id": "b065c7f28b22c611",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Watch Coach Mora's Weekly Press Conference",
+        "link": "https://csurams.com/news/2026/11/9/football-watch-coach-moras-weekly-press-conference",
+        "link_kind": "item",
+        "date": "2026-11-09T19:06:00+00:00",
+        "summary": "<img alt=\"Jim Mora Press Conference\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/1/FB26_-_Press_Conference_16x9.jpg\" /><br /><br />Head Coach Jim Mora visits with the local media ahead of week 11 at Washington State.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "92198573bba7923d",
         "sport": "football",
         "medium": "text"
       },
@@ -1599,34 +1641,6 @@
         "extent": "56 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Watch Coach Mora's Weekly Press Conference",
-        "link": "https://csurams.com/news/2026/11/2/football-watch-coach-moras-weekly-press-conference",
-        "link_kind": "item",
-        "date": "2026-11-02T21:35:00+00:00",
-        "summary": "<img alt=\"Jim Mora Press Conference\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/1/FB26_-_Press_Conference_16x9.jpg\" /><br /><br />Head Coach Jim Mora visits with the local media ahead of week 10 against Boise State.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "cf35c2a00eb3976f",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Monday Presser: Fox Gets First Extended Look",
-        "link": "https://csurams.com/news/2026/11/2/football-monday-presser-fox-gets-first-extended-look",
-        "link_kind": "item",
-        "date": "2026-11-02T21:34:00+00:00",
-        "summary": "<img alt=\"Jayden Fox\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/fox.jpg\" /><br /><br />Rams to face a second ranked team at home",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "8ee1c90811f33896",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "Basketball Season Returns with Moby Madness Opening Night",
@@ -1980,7 +1994,35 @@
     ],
     "Fresno State": [
       {
-        "title": "Live Updates: Mens Basketball set to face Georgia State Panthers",
+        "title": "Bulldogs outlast Georgia State in overtime thriller, 95-92",
+        "link": "https://gobulldogs.com/news/2026/11/10/mens-basketball-bulldogs-outlast-georgia-state-in-overtime-thriller-95-92",
+        "link_kind": "item",
+        "date": "2026-11-11T07:25:00+00:00",
+        "summary": "<img alt=\"Brian Amuneke three point shot\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/26-10-11-DC-MB-Georgiastate-5.jpg\" /><br /><br />FRESNO, Calif. – Behind a career-high 27 points from Brian Amuneke and a 12-assist performance from Roger Fabrega Urpina, Fresno State battled through 14 lead changes and 11 ties to defeat Georgia State, 95-92, in overtime on Tuesday night at the Save Mart Center.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Fresno State Athletics",
+        "id": "77522a1014357e81",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "'Back to work' Bulldogs gear up for Texas State",
+        "link": "https://www.yourcentralvalley.com/bulldog-sports/back-to-work-bulldogs-gear-up-for-texas-state/",
+        "link_kind": "item",
+        "date": "2026-11-11T05:26:07+00:00",
+        "summary": "FRESNO, Calif. (KSEE/KGPE)- Sports Central's Angelique Martinez reports as Fresno State prepares for another road test this weekend. The Bulldogs will be facing one of the top offenses in the Pac-12 and the country in Texas State. Head coach Matt Entz shares what to expect from the Bobcats' offense.",
+        "author": "Angelique Martinez",
+        "duration": null,
+        "channel_url": "",
+        "source": "YourCentralValley",
+        "id": "ba7e8367db53b107",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Game Recap: Mens Basketball set to face Georgia State Panthers",
         "link": "https://fscollegian.com/2026/11/live-updates-mens-basketball-set-to-face-georgia-state-panthers/",
         "link_kind": "item",
         "date": "2026-11-11T01:44:48+00:00",
@@ -2753,20 +2795,6 @@
         "medium": "text"
       },
       {
-        "title": "Bulldogs set to Return to Selland against Alabama State",
-        "link": "https://gobulldogs.com/news/2026/10/13/mens-basketball-bulldogs-set-to-return-to-selland-against-alabama-state",
-        "link_kind": "item",
-        "date": "2026-10-13T19:30:00+00:00",
-        "summary": "<img alt=\"Selland Arena\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/13/25-11-30-JY-MBB_vs_Bakersfield-001.jpg\" /><br /><br />FRESNO, Calif. – Fresno State Athletics, in collaboration with the City of Fresno, is excited to announce the return of the \"Return to Selland\" game for the 2026-27 men's basketball season. Following last season's highly anticipated return to the historic venue, the Bulldogs will once again head downtown to face Alabama State on Friday, Nov. 20.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Fresno State Athletics",
-        "id": "8e1e6ea7044fe65e",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Fresno State takes on the Broncos",
         "link": "https://redwavereport.podbean.com/e/fresno-state-takes-on-the-broncos/",
         "link_kind": "item",
@@ -2832,7 +2860,7 @@
         "link": "http://www.spokesman.com/stories/2026/nov/10/analyzing-gonzagas-2-0-start-and-a-look-ahead-to-l/",
         "link_kind": "item",
         "date": "2026-11-10T00:00:00+00:00",
-        "summary": "<p>Gonzaga has handled Purdue and New Mexico State, but the challenge figures to get tougher Saturday against LSU in the Spokane Arena.</p><p>Richard Fox and yours truly discussed what we’ve seen from No. 14 Gonzaga thus far and size up the showdown against the 3-0 Tigers in the latest Zags Insiders Podcast.</p><p>Find the entire podcast at <a href=\"https://www.spokesman.com/podcasts/zags-basketball-insiders\" target=\"_blank\">spokesman.com/podcasts/zags-basketball-insiders/</a> or <a href=\"https://www.youtube.com/playlist?list=PLO4UFBdqq__n-lMdDvFuzJ3w4CfPMrbTO\" target=\"_blank\">YouTube on The Spokesman-Review’s channel</a>. Here are a few excerpts, edited for space considerations.</p><!--[photo id=937534 align=center size=thumbnail]--><h3>Early impressions</h3><p><strong>Fox:</strong> We talked about needing some time to understand what this group is. It’s pretty evident, and this is not a surprise because it’s Gonzaga basketball, they’re going to be very good offensively. The first couple games, averaging eight turnovers, assisting on something like 42% of their shots, assisting on makes.</p><p>The 3-point shot, 19 of 40, 48%. That’s a really small sample size and I still have PTSD from the last three seasons but early returns indicate that we’re looking at a team that’s not going to be bad (on 3s).</p><p>They put a lot of foul pressure on teams and they’re getting out on the break. The offensive potential is as good as we’ve seen in quite a while.</p><p>On the flip side, the defense and rebounding have not been great. Purdue’s (7-foot-4 Daniel) Jacobsen, yes he’s big and they’re very fundamental, but they’re not a big team. New Mexico State doesn’t have high-major size, even though they have some guys that are good and crafty. Gonzaga is just plus-7 in two games on the glass.</p><p><strong>Meehan:</strong> The best stat of that entire game (vs. NMSU) wasn’t the three players that had 20 points. I don’t even think it was (Xaivian) Lee’s 10 assists. He’s off to a great start. Davis Fogle’s six assists, I think that’s a very important stat as much as his (22) points.</p><p>He’s truly a guy that can create and dish. He’s taking on a lot of the offensive load right now. They do have other guys that can create but he can really create. He can draw the big, he can draw the help from the wing and that maybe is creating some open looks that they’re cashing in on.</p><p>Isiah Harwell can shoot it when he is set and his form (is good). When he’s drifting or forcing it or rushing it, that’s a different story.</p><p>If Fogle can (create), that can really alleviate (pressure on others). They’ve got capable scorers.</p><h3>Talking Tigers</h3><p><strong>Meehan:</strong> Somewhere in that top 10 or 15, LSU’s lineup would probably rank there for sure. The Zags will know a few of these guys, (former UCLA guards) Donovan Dent and Skyy Clark.</p><p>Dent had that great run at New Mexico and he came along last year (at UCLA) and put up good numbers. He’s legitimately a great college player. Clark is a very good shooter. He hasn’t found it yet (1 of 16 on 3-pointers), but he’s way better than that.</p><p>It’s going to be a battle physically. It’s going to be interesting how it is whistled. Massamba Diop has been in foul trouble pretty much every time he’s suited up. The Zags have been putting a lot of foul pressure on people. These are big, athletic kids, some 22- and 23-year old bodies going at it.</p><p>If you look at the offensive rebounding category after the game, you’re going to have a pretty good indication of who wins.</p><p><strong>Fox:</strong> Gonzaga is going to have to rebound at a much higher level than they have to start the year.</p><p>LSU has a lot of talent. Just like GU, they have to get all these pieces together. Dent is a high-level guard. He can really control the game. LSU is going to want to play fast.</p><p>It’s going to be a real test for (Nathan) De Sousa, (Javon) Bennett, Lee and Gonzaga as a whole to try to corral him. LSU is one of the few teams in the country that I’d be nervous about trying to run with for 40 minutes. I think you want to force them to score over you.</p><p>Their European (players), that’s the hard part. You don’t have a lot of film, you don’t necessarily know who they are, even if you’re super dialed into the Euro game. This is going to be a legitimate test.</p>",
+        "summary": "<p>Gonzaga has handled Purdue and New Mexico State, but the challenge figures to get tougher Saturday against LSU in the Spokane Veterans Memorial Arena.</p><p>Richard Fox and yours truly discussed what we’ve seen from No. 14 Gonzaga thus far and size up the showdown against the 3-0 Tigers in the latest Zags Insiders Podcast.</p><p>Find the entire podcast at <a href=\"https://www.spokesman.com/podcasts/zags-basketball-insiders\" target=\"_blank\">spokesman.com/podcasts/zags-basketball-insiders/</a> or <a href=\"https://www.youtube.com/playlist?list=PLO4UFBdqq__n-lMdDvFuzJ3w4CfPMrbTO\" target=\"_blank\">YouTube on The Spokesman-Review’s channel</a>. Here are a few excerpts, edited for space considerations.</p><!--[photo id=937534 align=center size=thumbnail]--><h3>Early impressions</h3><p><strong>Fox:</strong> We talked about needing some time to understand what this group is. It’s pretty evident, and this is not a surprise because it’s Gonzaga basketball, they’re going to be very good offensively. The first couple games, averaging eight turnovers, assisting on something like 42% of their shots, assisting on makes.</p><p>The 3-point shot, 19 of 40, 48%. That’s a really small sample size and I still have PTSD from the last three seasons, but early returns indicate that we’re looking at a team that’s not going to be bad (on 3s).</p><p>They put a lot of foul pressure on teams and they’re getting out on the break. The offensive potential is as good as we’ve seen in quite a while.</p><p>On the flip side, the defense and rebounding have not been great. Purdue’s (7-foot-4 Daniel) Jacobsen, yes he’s big and they’re very fundamental, but they’re not a big team. New Mexico State doesn’t have high-major size, even though they have some guys that are good and crafty. Gonzaga is just plus-7 in two games on the glass.</p><p><strong>Meehan:</strong> The best stat of that entire game (vs. NMSU) wasn’t the three players that had 20 points. I don’t even think it was (Xaivian) Lee’s 10 assists. He’s off to a great start. Davis Fogle’s six assists, I think, that’s a very important stat as much as his (22) points.</p><p>He’s truly a guy that can create and dish. He’s taking on a lot of the offensive load right now. They do have other guys that can create but he can really create. He can draw the big, he can draw the help from the wing and that maybe is creating some open looks that they’re cashing in on.</p><p>Isiah Harwell can shoot it when he is set and his form (is good). When he’s drifting or forcing it or rushing it, that’s a different story.</p><p>If Fogle can (create), that can really alleviate (pressure on others). They’ve got capable scorers.</p><h3>Talking Tigers</h3><p><strong>Meehan:</strong> Somewhere in that top 10 or 15, LSU’s lineup would probably rank there for sure. The Zags will know a few of these guys, (former UCLA guards) Donovan Dent and Skyy Clark.</p><p>Dent had that great run at New Mexico and he came along last year (at UCLA) and put up good numbers. He’s legitimately a great college player. Clark is a very good shooter. He hasn’t found it yet (1 of 16 on 3-pointers), but he’s way better than that.</p><p>It’s going to be a battle physically. It’s going to be interesting how it is whistled. Massamba Diop has been in foul trouble pretty much every time he’s suited up. The Zags have been putting a lot of foul pressure on people. These are big, athletic kids, some 22- and 23-year old bodies going at it.</p><p>If you look at the offensive rebounding category after the game, you’re going to have a pretty good indication of who wins.</p><p><strong>Fox:</strong> Gonzaga is going to have to rebound at a much higher level than they have to start the year.</p><p>LSU has a lot of talent. Just like GU, they have to get all these pieces together. Dent is a high-level guard. He can really control the game. LSU is going to want to play fast.</p><p>It’s going to be a real test for (Nathan) De Sousa, (Javon) Bennett, Lee and Gonzaga as a whole to try to corral him. LSU is one of the few teams in the country that I’d be nervous about trying to run with for 40 minutes. I think you want to force them to score over you.</p><p>Their European (players), that’s the hard part. You don’t have a lot of film, you don’t necessarily know who they are, even if you’re super dialed into the Euro game. This is going to be a legitimate test.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -2846,7 +2874,7 @@
         "link": "http://www.spokesman.com/stories/2026/nov/10/with-sights-on-gonzaga-lsu-matchup-chauncey-wiggin/",
         "link_kind": "item",
         "date": "2026-11-10T00:00:00+00:00",
-        "summary": "<p>Gonzaga is running a hurry-up offense in its attempt to get Chauncey Wiggins on the court before Saturday’s marquee nonconference matchup with LSU at Numerica Veterans Arena.</p><p>The Florida State transfer is now set to appear at an injunction hearing at 1:30 p.m. Thursday before Superior Court Judge Dean Chuang. If granted, the injunction could allow  Wiggins  to make his Gonzaga debut  against the Tigers.</p><p> Wiggins was not  initially scheduled to have his 5-in-5 eligibility case heard until Nov. 17, eliminating the possibility that he’d suit up in Saturday’s game. Wiggins’ attorneys, Carl Oreskovich and Andrew Wagley of Spokane-based firm Etter, McMahon, Lamberson, Van Wert &amp; Oreskovich, P.C., filed a motion to shorten time that was approved by Spokane Superior Court, bumping the injunction hearing up by five days.</p><p>In a motion to shorten time posted to the Spokane Superior Court web docket, Wiggins’ attorneys contest the player will continue to “suffer irreparable harm” with every game missed this season, “particularly primetime games in the national spotlight.” The motion also argued the NCAA will “suffer essentially no harm” if an injunction is granted.</p><p>Wiggins dressed in street clothes and didn’t play in both of Gonzaga’s wins last week – a 78-72 victory over Purdue in Las Vegas in the season opener and a 109-68 blowout of New Mexico State on Saturday at McCarthey Athletic Center.</p><p>A 6-foot-10 wing who averaged 13.3 points on 38% shooting last season at Florida State, originally joined a group of student-athletes seeking a fifth season of eligibility through the Godfrey vs. NCAA 5-in-5 lawsuit filed in Wiggins’ home state of Georgia. The plaintiffs were successful, earning an injunction that cleared them to compete, but the case was ultimately stayed, reversing the verdict until oral arguments were heard on Jan. 12.</p><p>Seeking expedited relief, Wiggins and other plaintiffs refiled in Waco, Texas, joining student-athletes who’d previously received a temporary restraining order in the Wheeler vs. NCAA 5-in-5 case. A judge heard the case four days before Gonzaga’s opener against Purdue, but dismissed the TRO and denied the special appearance, citing “lack of personal jurisdiction.”</p><p>Wiggins’ eligibility fight continues in Spokane County, where  Oreskovich will represent him. Last October, Oreskovich  helped former Gonzaga player Tyon Grant-Foster  secure an injunction that allowed Grant-Foster to play for  Mark Few’s team in 2025-26. Chuang, who was appointed to the 13th judgeship by  then-Gov. Jay Inslee in 2023, is a Walla Walla native who resided in Olympia before attending Gonzaga Law School.</p><p>Three declaration affidavits, from Wiggins, Few and Gonzaga Compliance Director Scott Garrison, were also filed to the Superior Court docket on Monday, as was a pro hac vice motion that allows Ryan Downton – Wiggins’ primary attorney in the Georgia and Texas lawsuits – to participate in the lawsuit.</p><p>Gonzaga’s coach argued “it is critically important for Mr. Wiggins that he be allowed to compete as soon as possible,” stressing that “each day he misses will postpone his ability to learn the system, mesh with teammates, and ultimately delay his ability to perform in competition games under a national spotlight.”</p>",
+        "summary": "<p>Gonzaga is running a hurry-up offense in its attempt to get Chauncey Wiggins on the court before Saturday’s marquee nonconference matchup with LSU at Numerica Veterans Arena.</p><p>The Florida State transfer is now set to appear at an injunction hearing at 1:30 p.m. Thursday before Superior Court Judge Dean Chuang. If granted, the injunction could allow  Wiggins  to make his Gonzaga debut  against the Tigers.</p><p> Wiggins was not  initially scheduled to have his 5-in-5 eligibility case heard until Nov. 17, eliminating the possibility that he’d suit up in Saturday’s game. Wiggins’ attorneys, Carl Oreskovich and Andrew Wagley of Spokane-based firm Etter, McMahon, Lamberson, Van Wert &amp; Oreskovich, P.C., filed a motion to shorten time that was approved by Spokane Superior Court, bumping the injunction hearing up by five days.</p><p>In a motion to shorten time posted to the Spokane Superior Court web docket, Wiggins’ attorneys contest the player will continue to “suffer irreparable harm” with every game missed this season, “particularly primetime games in the national spotlight.” The motion also argued the NCAA will “suffer essentially no harm” if an injunction is granted.</p><p>Wiggins dressed in street clothes and didn’t play in both of Gonzaga’s wins last week – a 78-72 victory over Purdue in Las Vegas in the season opener and a 109-68 blowout of New Mexico State on Saturday at McCarthey Athletic Center.</p><p>A 6-foot-10 wing who averaged 13.3 points on 38% 3-point shooting last season at Florida State, Wiggins originally joined a group of student-athletes seeking a fifth season of eligibility through the Godfrey vs. NCAA 5-in-5 lawsuit filed in Wiggins’ home state of Georgia. The plaintiffs were successful, earning an injunction that cleared them to compete, but the case was ultimately stayed, reversing the verdict until oral arguments were heard on Jan. 12.</p><p>Seeking expedited relief, Wiggins and other plaintiffs refiled in Waco, Texas, joining student-athletes who’d previously received a temporary restraining order in the Wheeler vs. NCAA 5-in-5 case. A judge heard the case four days before Gonzaga’s opener against Purdue, but dismissed the TRO and denied the special appearance, citing “lack of personal jurisdiction.”</p><p>Wiggins’ eligibility fight continues in Spokane County, where  Oreskovich will represent him. Last October, Oreskovich  helped former Gonzaga player Tyon Grant-Foster  secure an injunction that allowed Grant-Foster to play for  Mark Few’s team in 2025-26. Chuang, who was appointed to the 13th judgeship by  then-Gov. Jay Inslee in 2023, is a Walla Walla native who resided in Olympia before attending Gonzaga Law School.</p><p>Three declaration affidavits, from Wiggins, Few and Gonzaga Compliance Director Scott Garrison, were also filed to the Superior Court docket on Monday, as was a pro hac vice motion that allows Ryan Downton – Wiggins’ primary attorney in the Georgia and Texas lawsuits – to participate in the lawsuit.</p><p>Gonzaga’s coach argued “it is critically important for Mr. Wiggins that he be allowed to compete as soon as possible,” stressing that “each day he misses will postpone his ability to learn the system, mesh with teammates, and ultimately delay his ability to perform in competition games under a national spotlight.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -4749,6 +4777,34 @@
     ],
     "San Diego State": [
       {
+        "title": "Men's Hoops Hosts Bethune-Cookman on Wednesday Afternoon",
+        "link": "https://goaztecs.com/news/2026/11/10/mens-hoops-hosts-bethune-cookman-on-wednesday-afternoon",
+        "link_kind": "item",
+        "date": "2026-11-10T21:59:08+00:00",
+        "summary": "Wednesday's game is the second of at least 12 day games for San Diego State this year. The contest is set to tip at 2 p.m. PT and will be carried on the Pac-12 YouTube channel.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "88d6fb213965fd06",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs Host Colorado Wednesday",
+        "link": "https://goaztecs.com/news/2026/11/10/aztecs-host-colorado-wednesday",
+        "link_kind": "item",
+        "date": "2026-11-10T19:07:37+00:00",
+        "summary": "The Aztecs host Colorado Wednesday at 7 p.m. The game will be streamed on the Pac-12’s YouTube channel with Chris Ello (play-by-play, 20th season), Tracy Warren (color) and Meghan Townsley (sideline) on the call.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "f964e2c41a338041",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Aztecs hold off Roadrunners despite dominant first half",
         "link": "https://thedailyaztec.com/129850/sports/aztecs-hold-off-roadrunners-despite-dominant-first-half/",
         "link_kind": "item",
@@ -6235,6 +6291,48 @@
     ],
     "Texas State": [
       {
+        "title": "Dimp Pernell career high elevates the Bobcats over UTRGV",
+        "link": "https://universitystar.com/37151/sports/dimp-pernell-career-high-elevates-the-bobcats-over-utrgv/",
+        "link_kind": "item",
+        "date": "2026-11-11T05:40:29+00:00",
+        "summary": "Junior guard Dimp Pernell led the way for the Texas State Bobcats, scoring 26 points on the evening with a 72-65 win against the UTRGV Vaqueros Tuesday night at the UTRGV Fieldhouse in Edinburg, Texas. Pernell&#8217;s new career high helped propel the Bobcats (3-0) to an offensive explosion against the Vaqueros (2-1) alongside trio of senior...",
+        "author": "Cash Arenas, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "33822c20b0d80b87",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Dimp Pernell Career-High 26 Points Powers Bobcats Past Vaqueros",
+        "link": "https://txst.com/news/2026/11/10/mens-basketball-dimp-pernell-career-high-26-points-powers-bobcats-past-vaqueros.aspx",
+        "link_kind": "item",
+        "date": "2026-11-11T04:18:00+00:00",
+        "summary": "<img alt=\"Dimp Pernell\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/DSC01134_PRLZf.jpg\" /><br /><br />EDINBURG, Texas – Texas State (3-0) secured its best start since 2011-12 with the 72-65 victory over UTRGV (2-1) on Tuesday night at the UTRGV Fieldhouse. Dimp Pernell led the way for the Bobcats firing a career-high 26 points across 25 minutes.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "87f5a203eb31266c",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "WATCH: TXST Football Media Availability vs Fresno State (111026)",
+        "link": "https://txst.com/news/2026/11/10/watch-txst-football-media-availability-vs-fresno-state-111026.aspx",
+        "link_kind": "item",
+        "date": "2026-11-11T02:54:00+00:00",
+        "summary": "<img alt=\"Jayden Bradley\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/MRR-01638.jpg\" /><br /><br />HC GJ Kinne, QB Brad Jackson",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "a0aee74a2c18d107",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Media Availability: HC Chris Kielsmeier, Saniya Burks, Emma Pique",
         "link": "https://txst.com/news/2026/11/10/womens-basketball-media-availability-hc-chris-kielsmeier-saniya-burks-emma-pique.aspx",
         "link_kind": "item",
@@ -6543,20 +6641,6 @@
         "medium": "text"
       },
       {
-        "title": "Fields scores career high, Texas State wins convincingly against Texas A&M-Corpus Christi",
-        "link": "https://universitystar.com/37044/sports/fields-scores-career-high-texas-state-wins-convincingly-against-texas-am-corpus-christi/",
-        "link_kind": "item",
-        "date": "2026-11-03T18:09:04+00:00",
-        "summary": "DJ Hall scored 18 points and Robert Fields’ career high 16 points led the Texas State Bobcats to a 67-55 season opening win against the Texas A&#38;M Corpus Christi Islanders Monday evening at Strahan Arena. Hall led all players with 18 points on Texas State (1-0) showcased the sophomore’s dominance on the floor Monday evening,...",
-        "author": "Cooper Yarbough, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "3b17b9c42096708f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Sophomores Shine in Bobcats' Season Opener Victory over Islanders",
         "link": "https://txst.com/news/2026/11/2/mens-basketball-sophomores-shine-in-bobcats-season-opener-victory-over-islanders.aspx",
         "link_kind": "item",
@@ -6669,20 +6753,6 @@
         "medium": "text"
       },
       {
-        "title": "Game Recap: Bobcats Defeat Utah State, 20-17, in Front of Homecoming Crowd",
-        "link": "https://txst.com/news/2026/10/24/football-game-recap-bobcats-defeat-utah-state-20-17-in-front-of-homecoming-crowd.aspx",
-        "link_kind": "item",
-        "date": "2026-10-25T05:10:00+00:00",
-        "summary": "<img alt=\"Jaylen Jenkins Kick Return Touchdown\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/261024_FBvsUtah_TD__5_-34.jpg\" /><br /><br />SAN MARCOS, Texas (AP) — Jacob Bonilla's 37-yard field goal with less than two minutes remaining lifted Texas State to a 20-17 victory over Utah State on Saturday night.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "aff6d9c812e0b17d",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "WATCH: TXST WBB Media Availability",
         "link": "https://txst.com/news/2026/10/22/womens-basketball-watch-txst-wbb-media-availability.aspx",
         "link_kind": "item",
@@ -6711,20 +6781,6 @@
         "medium": "text"
       },
       {
-        "title": "Game Times and Broadcast Schedule Announced for Men's Basketball",
-        "link": "https://txst.com/news/2026/10/14/game-times-and-broadcast-schedule-announced-for-mens-basketball.aspx",
-        "link_kind": "item",
-        "date": "2026-10-14T19:00:00+00:00",
-        "summary": "<img alt=\"Kaden Gumbs\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/14/251220_MBB_South_alabama_ingame-06390.jpg\" /><br /><br />SAN RAMON, Calif. – The Pac-12 Conference office released tipoff times and broadcast information on Wednesday, featuring 17 Texas State men's basketball games to air on national television.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "1dbc7b965db1f2bc",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Texas State Women's Basketball Announces Staffing Changes",
         "link": "https://txst.com/news/2026/10/14/texas-state-womens-basketball-announces-staffing-changes.aspx",
         "link_kind": "item",
@@ -6740,6 +6796,34 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "USU dismantles Utah Tech in offensive showcase",
+        "link": "https://usustatesman.com/usu-dismantles-utah-tech-in-offensive-showcase/",
+        "link_kind": "item",
+        "date": "2026-11-11T07:05:57+00:00",
+        "summary": "<p>USU defeated the Utah Tech Trailblazers 118-95 in an offensive masterclass by the Aggies. Five different players for the Aggies&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/usu-dismantles-utah-tech-in-offensive-showcase/\">USU dismantles Utah Tech in offensive showcase</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
+        "author": "Rory McNeill",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Utah Statesman",
+        "id": "8834c961528be53d",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Hall, Aggies Post Historic Scoring Performances in 118-86 Win Over Utah Tech",
+        "link": "https://utahstateaggies.com/news/2026/11/10/mens-basketball-hall-aggies-post-historic-scoring-performances-in-118-86-win-over-utah-tech.aspx",
+        "link_kind": "item",
+        "date": "2026-11-11T04:58:00+00:00",
+        "summary": "<img alt=\"Dallin Hall\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/DSC09005.jpg\" /><br /><br />Utah State men's basketball (2-0, 0-0 Pac-12) posted its seventh highest-scoring performance in program history on Tuesday night, going off in a 118-86 victory over Utah Tech at the Dee Glen Smith Spectrum led by a career-best 35-point performance from graduate guard Dallin Hall.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "edd116be8ef4f7c2",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Women’s Basketball Returns Home to Host Idaho State and Bethune-Cookman",
         "link": "https://utahstateaggies.com/news/2026/11/10/womens-basketball-womens-basketball-returns-home-to-host-idaho-state-and-bethune-cookman.aspx",
@@ -7054,20 +7138,6 @@
         "medium": "text"
       },
       {
-        "title": "USU Figure Skating Club prepares for another season looking for progression",
-        "link": "https://usustatesman.com/usu-figure-skating-club-prepares-for-another-season-looking-for-progression/",
-        "link_kind": "item",
-        "date": "2026-11-04T14:27:50+00:00",
-        "summary": "<p>The Utah State University Figure Skating Club has seen growth throughout the last few years, attracting more members and supporters&#8230;</p>\n<p>The post <a href=\"https://usustatesman.com/usu-figure-skating-club-prepares-for-another-season-looking-for-progression/\">USU Figure Skating Club prepares for another season looking for progression</a> appeared first on <a href=\"https://usustatesman.com\">The Utah Statesman</a>.</p>",
-        "author": "Kylie Jones",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Utah Statesman",
-        "id": "864339616a95ba2c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Aggies Open 2026-27 Season With 94-58 Win Over Idaho State",
         "link": "https://utahstateaggies.com/news/2026/11/2/mens-basketball-aggies-open-2026-27-season-with-94-58-win-over-idaho-state.aspx",
         "link_kind": "item",
@@ -7265,20 +7335,6 @@
         "medium": "text"
       },
       {
-        "title": "Aggies Ace Final Preseason Test in 101-79 Win Over Santa Clara",
-        "link": "https://utahstateaggies.com/news/2026/10/24/mens-basketball-aggies-ace-final-preseason-test-in-101-79-win-over-santa-clara.aspx",
-        "link_kind": "item",
-        "date": "2026-10-25T00:20:00+00:00",
-        "summary": "<img alt=\"No alternative text provided.\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/DSC01557.jpg\" /><br /><br />Utah State men's basketball closed out its preseason slate with a decisive win over West Coast Conference preseason favorite Santa Clara, earning a 101-79 exhibition victory Saturday afternoon at the Dee Glen Smith Spectrum.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "ddc3eefaf67842d4",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Bye Week News",
         "link": "https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/Bye-Week-News-e3qr69a",
         "link_kind": "item",
@@ -7410,6 +7466,62 @@
         "medium": "text"
       },
       {
+        "title": "Washington State Returns to Gesa Field to host Colorado State",
+        "link": "https://wsucougars.com/news/2026/11/10/washington-state-returns-to-gesa-field-to-host-colorado-state",
+        "link_kind": "item",
+        "date": "2026-11-10T21:03:08+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "9c84de152042d305",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Cougs in the NFL | Week 9",
+        "link": "https://wsucougars.com/news/2026/11/10/cougs-in-the-nfl-or-week-9",
+        "link_kind": "item",
+        "date": "2026-11-10T20:10:16+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "145f941028918eba",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU To Face Duquesne For First Time In Program History",
+        "link": "https://wsucougars.com/news/2026/11/10/wsu-to-face-duquesne-for-first-time-in-program-history",
+        "link_kind": "item",
+        "date": "2026-11-10T15:58:05+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "1bddf84dead67913",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "WSU Football: Kirby Moore | Colorado State Week Press Conference | 11/9/26",
+        "link": "https://wsucougars.com/news/2026/11/10/wsu-football-kirby-moore-colorado-state-week-press-conference-11926",
+        "link_kind": "item",
+        "date": "2026-11-10T10:32:20+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "52274187744da9f7",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Grizzlies maul the Cougs in Missoula 9-3",
         "link": "https://dailyevergreen.com/201427/sports/grizzlies-maul-the-cougs-in-missoula-9-3/",
         "link_kind": "item",
@@ -7442,7 +7554,7 @@
         "link": "http://www.spokesman.com/stories/2026/nov/10/my-mindset-is-switched-how-wsu-dt-kaden-beatty-is-/",
         "link_kind": "item",
         "date": "2026-11-10T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Kaden Beatty remembers the dark days like they just vanished over the horizon. He was in his second and final year at Kent State, where things weren’t just bad. They were miserable.</p><p>Back in 2024, Beatty played nearly 400 snaps in six starts for the Golden Flashes, who slogged through loss after loss, blowout after blowout, making things interesting in only two of those setbacks. He got home for a sack against Ball State, which won by two. He surged in for a tackle for loss against Bowling Green, which won by three scores. No matter what he did, no matter how well he played, his team just kept <em>losing</em>.</p><p>So, Beatty remembers, he began to feel sorry for himself. His feet started to meander, his mind began to wonder. <em>Can I just get to next season?</em> he thought to himself. <em>Am I gonna leave this place?</em></p><p>“That’s just not how it is here,” Beatty said.</p><p>Beatty was referring to this Washington State team, which finds itself in a similar position. The Cougars have won just one game this fall, a blowout win over an FCS club. Since mid-September, the Cougars have lost six straight games, struggling to find anything resembling consistency in coach Kirby Moore’s debut season. They’ve tried all manner of adjustments – Moore took over playcalling duties last month, then changed quarterbacks – and nothing has resulted in a win, going 1-8 overall.</p><p>Naturally, that puts the Cougars at risk of splintering in the same ways that those Golden Flashes did. Back then, Beatty remembers, “it was kinda clashing amongst the team, amongst the coaches.” Not the case here in Pullman, he says, explaining that these Cougs have a stronger sense of resolve and resiliency.</p><p>Much of that starts with Beatty, one of six captains on this WSU team. In his second season as a Cougar, he has emerged as one of the faces of the program, a vocal leader and a charismatic defensive lineman. During TV timeouts, he’s on the sideline dancing, urging the Gesa Field crowd to match his energy. After his best plays – he has 21 tackles, one for loss – he’s screaming to himself, celebrating with teammates.</p><p>If you could make a leader in a lab like you were creating a player in <em>Madden</em>, you would probably end up with someone like Beatty, who has used his compelling combination of leadership and physicality and likeability to do his part in keeping this WSU team together. He plays a thankless position, often invisible the chaos at the line of scrimmage, which makes his maturity even more remarkable.</p><p>In fact, at halftime of WSU’s win over FCS Duquesne, the Cougars were only up one score. According to defensive end Matyus McLain, the most motivation came from Beatty, whose Kent State team lost to FCS Saint Francis in that 2024 season.</p><p>“I met with Kaden during the bye week,” Moore said. “That is a guy who loves football, and so every day when we get the opportunity to go out there between the lines, he’s energizing his teammates. He’s energizing the staff. I think he’s playing at a high level, and so we gotta do that throughout these last three weeks.”</p><p>“He’s a great leader,” WSU running back Maxwell Woods said in September. “He’s really like the voice of the team. He’s a guy like you’ll never really know if he’s down, if he’s happy. He always kinda stays at that same energetic level.”</p><!--[photo id=935757]--><p>What’s interesting is this: Over the last two years, how has Beatty evolved in his approach to losing seasons? What did that take?</p><p>Back at Kent State, where he redshirted during the Golden Flashes’ one-win 2023 season and emerged as a key player during their winless 2024 campaign, he found himself focused on himself. “It was all about me, me, me,” he said. When he thought about the season, his mind drifted to himself: <em>Why is this happening to me? Why am I in this situation?</em></p><p>“And that’s not what it is at all here. It’s bigger than me,” Beatty said. “I feel worse for these fans and worse for this place than I do myself because they’re really rooting for us. They’re getting behind us, and we’re not giving them the product that they want. Tears me apart. So all I can do is the next thing. All I can do is figure out – how can I be better for us? And so that’s all I’m focused on.”</p><p>Beatty is right that the Cougars aren’t giving fans the product that they want, and for the first six weeks of the season, his group wasn’t the one at fault. Those honors went to the Cougars’ offense, which failed to beat a single FBS team under quarterback Caden Pinnick, whose struggles made things exponentially difficult on not only his offense, but his team’s defense as well.</p><p>As a result, Moore benched Pinnick for redshirt freshman Owen Eshelman, who has looked better than his predecessor in his three starts. But in the Cougars’ last two losses, a home setback to Boise State and a road defeat to San Diego State, their defense has begun to fall behind too.</p><p>The Cougars missed 10 tackles against the Aztecs and another 18 against the Broncos. They also didn’t register any sacks in those two games, keeping their season total at just eight. Only three other teams in the country have registered fewer. Beatty may not be an edge rusher, but he bears some of the blame in that department, totaling just one QB pressure in each of his last three outings apiece.</p><!--[photo id=929581 align=left]--><p>He’s well aware of that. In fact, that’s one reason why Beatty spent last week’s bye week watching tape from his team’s first nine games of the season, doing what he called “self-evaluation.” He examined his performance against the run and against the pass – “and what I could do, really, just my 1/11 on the team to excel and to really help us get these wins,” Beatty said.</p><p>How has he fared on that front? According to Pro Football Focus, Beatty has earned an overall defense grade of 55.4, which ranks last among the 13 defenders who have played at least 200 snaps. His run defense has given him a grade of 55.1, second-to-last among qualified defenders, and his pass rush has resulted in a figure of 57.3, the best mark among rotation defensive linemen.</p><p>Those numbers may not raise many eyebrows, but it’s also true that PFF grades aren’t perfect, and if you watch WSU games, you know that Beatty usually finds himself in the middle of the Cougars’ best run stops. He’s an irreplaceable part of this WSU defense. His snap count, 308, reflects as much.</p><p>He’s playing some of his best football. His team is not. He had something of a similar experience two years ago, and since then, Beatty says, “my mindset is switched.” After a loss earlier this year, he was nearly shaking when he expressed his resolve to be better: “Nobody is more pissed off than this team.”</p><p>Will that help WSU take down Colorado State this weekend and earn FBS win No. 1? Maybe. The only thing that’s clear is that Beatty will keep showing up, will keep energizing his teammates, will keep being the kind of leader that this Cougar team needs.</p><p>“We’re toughening our skin,” Beatty said. “We’re getting tough right now, and this football team needs it. What doesn’t kill you makes you stronger, like I just said. Those little nicks, those losses, those cuts that we’re getting every single week, we’re gonna heal it, and we’re gonna get stronger from it. We’re gonna excel and be able to get over those obstacles and conquer those mountains.”</p>",
+        "summary": "<p>PULLMAN – Kaden Beatty remembers the dark days like they just vanished over the horizon. He was in his second and final year at Kent State, where things weren’t just bad. They were miserable.</p><p>Back in 2024, Beatty played nearly 400 snaps in six starts for the Golden Flashes, who slogged through loss after loss, blowout after blowout, making things interesting in only two of those setbacks. He got home for a sack against Ball State, which won by two. He surged in for a tackle for loss against Bowling Green, which won by three scores. No matter what he did, no matter how well he played, his team just kept <em>losing</em>.</p><p>So, Beatty remembers, he began to feel sorry for himself. His feet started to meander, his mind began to wonder. <em>Can I just get to next season?</em> he thought to himself. <em>Am I gonna leave this place?</em></p><p>“That’s just not how it is here,” Beatty said.</p><p>Beatty was referring to this Washington State team, which finds itself in a similar position. The Cougars have won just one game this fall, a blowout win over an FCS club. Since mid-September, the Cougars have lost six straight games, struggling to find anything resembling consistency in coach Kirby Moore’s debut season. They’ve tried all manner of adjustments – Moore took over playcalling duties last month, then changed quarterbacks – and nothing has resulted in a win, going 1-8 overall.</p><p>Naturally, that puts the Cougars at risk of splintering in the same ways that those Golden Flashes did. Back then, Beatty remembers, “it was kinda clashing amongst the team, amongst the coaches.” Not the case here in Pullman, he says, explaining that these Cougs have a stronger sense of resolve and resiliency.</p><p>Much of that starts with Beatty, one of six captains on this WSU team. In his second season as a Cougar, he has emerged as one of the faces of the program, a vocal leader and a charismatic defensive lineman. During TV timeouts, he’s on the sideline dancing, urging the Gesa Field crowd to match his energy. After his best plays – he has 21 tackles, one for loss – he’s screaming to himself, celebrating with teammates.</p><p>If you could make a leader in a lab like you were creating a player in “Madden,” you would probably end up with someone like Beatty, who has used his compelling combination of leadership and physicality and likability to do his part in keeping this WSU team together. He plays a thankless position, often invisible in the chaos at the line of scrimmage, which makes his maturity even more remarkable.</p><p>In fact, at halftime of WSU’s win over FCS Duquesne, the Cougars were only up one score. According to defensive end Matyus McLain, the most motivation came from Beatty, whose Kent State team lost to FCS Saint Francis in that 2024 season.</p><p>“I met with Kaden during the bye week,” Moore said. “That is a guy who loves football, and so every day when we get the opportunity to go out there between the lines, he’s energizing his teammates. He’s energizing the staff. I think he’s playing at a high level, and so we gotta do that throughout these last three weeks.”</p><p>“He’s a great leader,” WSU running back Maxwell Woods said in September. “He’s really like the voice of the team. He’s a guy like you’ll never really know if he’s down, if he’s happy. He always kinda stays at that same energetic level.”</p><!--[photo id=935757]--><p>What’s interesting is this: Over the last two years, how has Beatty evolved in his approach to losing seasons? What did that take?</p><p>Back at Kent State, where he redshirted during the Golden Flashes’ one-win 2023 season and emerged as a key player during their winless 2024 campaign, he found himself focused on himself. “It was all about me, me, me,” he said. When he thought about the season, his mind drifted to himself: <em>Why is this happening to me? Why am I in this situation?</em></p><p>“And that’s not what it is at all here. It’s bigger than me,” Beatty said. “I feel worse for these fans and worse for this place than I do myself because they’re really rooting for us. They’re getting behind us, and we’re not giving them the product that they want. Tears me apart. So all I can do is the next thing. All I can do is figure out – how can I be better for us? And so that’s all I’m focused on.”</p><p>Beatty is right that the Cougars aren’t giving fans the product that they want, and for the first six weeks of the season, his group wasn’t the one at fault. Those honors went to the Cougars’ offense, which failed to beat a single FBS team under quarterback Caden Pinnick, whose struggles made things exponentially difficult on not only his offense, but his team’s defense as well.</p><p>As a result, Moore benched Pinnick for redshirt freshman Owen Eshelman, who has looked better than his predecessor in his three starts. But in the Cougars’ last two losses, a home setback to Boise State and a road defeat to San Diego State, their defense has begun to fall behind too.</p><p>The Cougars missed 10 tackles against the Aztecs and another 18 against the Broncos. They also didn’t register any sacks in those two games, keeping their season total at just eight. Only three other teams in the country have registered fewer. Beatty may not be an edge rusher, but he bears some of the blame in that department, totaling just one QB pressure in each of his last three outings apiece.</p><!--[photo id=929581 align=left]--><p>He’s well aware of that. In fact, that’s one reason why Beatty spent last week’s bye week watching tape from his team’s first nine games of the season, doing what he called “self-evaluation.” He examined his performance against the run and against the pass – “and what I could do, really, just my 1/11 on the team to excel and to really help us get these wins,” Beatty said.</p><p>How has he fared on that front? According to Pro Football Focus, Beatty has earned an overall defense grade of 55.4, which ranks last among the 13 defenders who have played at least 200 snaps. His run defense has given him a grade of 55.1, second-to-last among qualified defenders, and his pass rush has resulted in a figure of 57.3, the best mark among rotation defensive linemen.</p><p>Those numbers may not raise many eyebrows, but it’s also true that PFF grades aren’t perfect, and if you watch WSU games, you know that Beatty usually finds himself in the middle of the Cougars’ best run stops. He’s an irreplaceable part of this WSU defense. His snap count, 308, reflects as much.</p><p>He’s playing some of his best football. His team is not. He had something of a similar experience two years ago, and since then, Beatty says, “my mindset is switched.” After a loss earlier this year, he was nearly shaking when he expressed his resolve to be better: “Nobody is more pissed off than this team.”</p><p>Will that help WSU take down Colorado State this weekend and earn FBS win No. 1? Maybe. The only thing that’s clear is that Beatty will keep showing up, will keep energizing his teammates, will keep being the kind of leader that this Cougar team needs.</p><p>“We’re toughening our skin,” Beatty said. “We’re getting tough right now, and this football team needs it. What doesn’t kill you makes you stronger, like I just said. Those little nicks, those losses, those cuts that we’re getting every single week, we’re gonna heal it, and we’re gonna get stronger from it. We’re gonna excel and be able to get over those obstacles and conquer those mountains.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -7452,8 +7564,78 @@
         "medium": "text"
       },
       {
+        "title": "'This is unacceptable': WSU falls to Duquesne in final moments, 72-71, opening season with three straight losses",
+        "link": "http://www.spokesman.com/stories/2026/nov/10/this-is-unacceptable-wsu-falls-to-duquesne-in-fina/",
+        "link_kind": "item",
+        "date": "2026-11-10T00:00:00+00:00",
+        "summary": "<p>Over the weekend, after his Washington State group dropped a close road loss, David Riley went on the radio and succinctly diagnosed one of his team’s problems.</p><p>“We gotta have more leadership than that,” Riley said.</p><p>He was describing a technical foul that went against the Cougars, who proceeded to lose all momentum, winding up with a narrow loss to High Point and opening their season with two straight losses. In the aftermath of that one, it became clear that to turn things around, WSU would need to improve at responding to adversity.</p><p>After Washington State’s latest outing, a 72-71 road loss to Duquesne on Tuesday evening, it appears that much is still a work in progress. After leading for nearly 90% of game, the Cougs gave up the lead in the final seconds on an and-one, and on the other end, they couldn’t win the game as guard Lazerek Houston’s floater missed.</p><p>“It’s frustrating because there is a clear progression with our team,” said Riley, whose team allowed Duquesne to shoot 52% from the field in the second half. “We are getting better, but this is unacceptable for us to be losing these kinds of games where we control the whole game.”</p><!--[embed id=12491]--><p>WSU, which has now started a season with three straight losses for the first time since 1964, will regret this one in large part because of how much it controlled the game. The Cougs led for a total of 34 minutes, 38 seconds, leading by as many as 11. After retaking the lead midway through the first half on a 3-pointer from Tyler Kropp, who scored 10 points to get on the board for the first time all season, the Cougars didn’t lose the lead again until the final sequence.</p><p><span class=\"print_trim\">That went like this:</span> With about 30 seconds left, the Cougs got an acrobatic finish in traffic from guard Sebastian Akins, who totaled nine points. On the other end, Duquesne forward Kerem Konan drove at WSU freshman forward Mohamed Sankhe, who tried to draw a charge. He was called for a block. Konan completed the and-one at the free-throw line, pushing the Dukes ahead 72-71 with 12 seconds left.</p><p><span class=\"print_trim\">But at that point, Duquesne had only been called for four team fouls in the second half, meaning they had two to give before WSU reached the bonus. So when the Cougars got the ball back, by the time the Dukes had committed two fouls, the visitors only had about five seconds to work with.</span> Out of a timeout, WSU got the ball to Houston, who made a move into the paint but couldn’t finish a tough running floater, drifting to the side.</p><p>It was a winnable game for WSU, which had three double-digit scorers: Redshirt freshman wing Jaylen Harrell scored 19 points, Houston tallied 12 and Kropp registered 10. But many of the Cougars’ problems in this loss had more to do with two other categories: fouling and rebounds.</p><p>In the second half, WSU was whistled for 14 fouls. That resulted in a deluge of free throws for Duquesne, which converted 15 of 19 chances. Also in the second half, the Cougars gave up seven offensive rebounds, which turned into 11 second-chance points for the Dukes.</p><p>Another trend went Duquesne’s way in the second period. WSU lost only five turnovers in the first half, doing well to veer away from one of the most consistent problems the Cougars have faced in Riley’s tenure, which is now in its third year. But in the second stanza, the Cougs coughed it up nine times, leading to 14 points off turnovers.</p><p>“That second half, we got away from playing our identity, and I think it’s really obvious when you look at the stats,” Riley said in a postgame radio interview. “They had 40 points in the paint, and we had nine turnovers in the second half. Those two things are gonna kill you every time, especially on the road<span class=\"print_trim\">. We let those turnovers lead to transition points</span>.”</p><p>Also complicating things for WSU was an injury to transfer wing Ronnie Harrison, who missed the first two games of the season with a turned ankle he suffered hours before his team’s season opener last week. He made his season debut on Tuesday, starting and playing 22 minutes, but his outing was cut short with about 3½ minutes to play, when he appeared to injure his ankle again.</p><p>It was a costly blow for the Cougs, who had gotten six points and five rebounds from Harrison, a do-it-all wing whose athleticism makes a difference on the glass and on defense. When Harrison went down, WSU subbed in transfer big man Ladji Dembele, who has put up these numbers in three games: seven points on 3-for-12 shooting, including 1-for-6 from deep, <span class=\"print_trim\">11 rebounds,</span> 10 fouls, five turnovers, one block and two steals.</p><p>On the year, WSU is now allowing opponents an effective field -goal percentage of 63%, which ranks No. 347 out of 362 Division I teams. The Cougars are also permitting a 2-point shooting percentage of 65%, which is No. 336. Their defensive problems have surfaced most in the second halves. Here are their opponents’ shooting percentages in the second period this season.</p><p>• Davidson: 63%</p><p>• High Point: 68%</p><p>• Duquesne: 52%</p><p>Can the Cougars turn that around? They’ll have a chance to earn their first win this weekend, hosting Division II Northwest at 10 a.m. Saturday. <span class=\"print_trim\">After that, they face a neutral-site game against Hawaii, which will provide an opportunity for these Cougars to prove that Riley is right – that they are progressing.</span></p><p><span class=\"print_trim\">“We’re figuring out who we can trust out there,” Riley said, “and absolutely, we gotta start shorting that (rotation) a little bit too.”<em>Greg Woods can be reached at 509-459-5587 or at gregw@spokesman.com.</em></span></p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "9d844c55c63d6afe",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "WSU WBB: Highlights vs. Idaho | 11/9/26",
+        "link": "https://wsucougars.com/news/2026/11/09/wsu-wbb-highlights-vs-idaho-11926",
+        "link_kind": "item",
+        "date": "2026-11-09T23:35:23+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "e22a462e57524d1e",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "WSU WBB: Kamie Ethridge | Alex Covill | Mackenzie Chatfield | Idaho Postgame | 11/9/26",
+        "link": "https://wsucougars.com/news/2026/11/09/wsu-wbb-kamie-ethridge-alex-covill-mackenzie-chatfield-idaho-postgame-11926",
+        "link_kind": "item",
+        "date": "2026-11-09T23:31:43+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "b144b1f6b53bb90d",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "WSU WBB: Idaho Digital Hit | 11/9/26",
+        "link": "https://wsucougars.com/news/2026/11/09/wsu-wbb-idaho-digital-hit-11926",
+        "link_kind": "item",
+        "date": "2026-11-09T23:12:25+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "b0e81735d48a367a",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "WSU WBB: Alex Covill Idaho TV Postgame Interview | 11/9/26",
+        "link": "https://wsucougars.com/news/2026/11/09/wsu-wbb-alex-covill-idaho-tv-postgame-interview-11926",
+        "link_kind": "item",
+        "date": "2026-11-09T23:09:22+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "8c1ebf151ba2a919",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Washington State Rolls Past Idaho, 76-53",
-        "link": "https://wsucougars.com/news/2026/11/9/washington-state-rolls-past-idaho-76-53",
+        "link": "https://wsucougars.com/news/2026/11/09/washington-state-rolls-past-idaho-76-53",
         "link_kind": "item",
         "date": "2026-11-09T22:05:36+00:00",
         "summary": "",
@@ -7461,7 +7643,7 @@
         "duration": null,
         "channel_url": "",
         "source": "Washington State Athletics",
-        "id": "0558bd6bd2132126",
+        "id": "9f2327e4be1c4335",
         "sport": "wbb",
         "medium": "text"
       },
@@ -7481,6 +7663,20 @@
         "also": [
           "The Spokesman-Review"
         ]
+      },
+      {
+        "title": "WSU Football: Jack Pedersen | Kaden Beatty | Ashton Tripp | Colo. St Week Press Conference | 11/9/26",
+        "link": "https://wsucougars.com/news/2026/11/9/wsu-football-jack-pedersen-kaden-beatty-ashton-tripp-colo-st-week-press-conference-11926",
+        "link_kind": "item",
+        "date": "2026-11-09T21:54:01+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "1d224c336b3da15b",
+        "sport": "football",
+        "medium": "text"
       },
       {
         "title": "Cougs In Pro Basketball | November 9, 2026",
@@ -7529,7 +7725,7 @@
         "link": "http://www.spokesman.com/stories/2026/nov/09/boise-state-and-texas-state-on-top-as-broncos-chur/",
         "link_kind": "item",
         "date": "2026-11-09T00:00:00+00:00",
-        "summary": "<p><em>The Pac-12 football power rankings are published each Sunday on the Hotline and consider both the latest results and season-long performance. Call it an objectively subjective look at the state of the conference. If you’re unhappy with the order, email us at the address below … or play better. For comparative purposes, we have included the placement of each team in last week’s rankings.</em></p><p>The dynamics of the inaugural Pac-12 season have changed dramatically in the past few weeks.</p><p>At the mid-October turn, for example, Oregon State looked unbeatable and Utah State looked entirely beatable.</p><p>Now? The Beavers have lost back-to-back games, and the Aggies have won two in a row.</p><p>A few weeks ago, Texas State was under .500 and facing a steep climb to bowl-eligibility.</p><p>Now? The Bobcats have won three of their past four, walloped Oregon State and are churning toward an appearance in the conference championship game.</p><p>One component has remained fixed: Boise State was the team to beat last month and is the team to beat this month, with a two-game lead in the conference race and only three weeks remaining.</p><p>And based on the initial College Football Playoff rankings, the Broncos (8-1) are the frontrunner to claim the bid reserved for the top team in the Group of Six.</p><p>In that regard, their competitive position strengthened exponentially over the weekend thanks to three results:</p><p>• The Broncos steamed to victory at Colorado State.</p><p>• Oregon won at Ohio State, thereby adding credibility to Boise State&#8217;s narrow early-season loss in Eugene.</p><p>• And UT-San Antonio, the top team in the American, was beaten soundly by Florida Atlantic, sideswiping what appeared to be Boise State&#8217;s chief competitor for the CFP berth.</p><p>At this point, the Broncos have a decisive advantage over all other Group of Six teams in ESPN&#8217;s strength-of-record rankings, which closely approximate one of the most important metrics used by the CFP selection committee.</p><p>Here are the top Group of Six teams in strength of record, which measures how a team performs against its schedule compared to how an average team would fare against the same lineup of opponents.</p><p>(With national ranking.)</p><p>No. 20: Boise State</p><p>No. 30: New Mexico</p><p>No. 35: Louisiana Tech</p><p>No. 39: North Texas</p><p>No. 40: Liberty</p><p>No. 42: UTSA</p><p>Positions can shift markedly based on a single result. Prior to losing to Florida Atlantic, for instance, UTSA was within a few spots of Boise State.</p><p>But it has become increasingly clear that the Broncos control their fate &#8212; that by winning out, they will lock up the coveted CFP berth for the second time in three years.</p><p>If they lose once? Well, the situation could get dicey.</p><p><strong>To the power rankings &#8230;</strong></p><p><em>(All times Pacific)</em></p><h3>1. Boise State (8-1/5-0)</h3><p><strong>Result:</strong> won at Colorado State 64-38</p><p><strong>Next up:</strong> vs. Oregon State (3 p.m. on USA Network)</p><p><strong>Comment:</strong> ESPN&#8217;s popular &#8216;College GameDay&#8217; show is heading to Boise this week despite Oregon State&#8217;s two-game losing streak. It will be the third &#8216;GameDay&#8217; appearance in the Mountain Time Zone in the past five weeks, following October stops in Provo and Salt Lake City. (Last week: 1)</p><h3>2. Texas State (5-4/3-2)</h3><p><strong>Result:</strong> won at Oregon State 42-21</p><p><strong>Next up:</strong> vs. Fresno State (1 p.m. on The CW)</p><p><strong>Comment:</strong> Getting easier (by the minute) to both envision the Bobcats facing Boise State for the Pac-12 championship &#8212; it would be a rematch of their Halloween thriller &#8212; and to wonder what might have been if Texas State hadn&#8217;t lost to UTSA and San Diego State by a combined seven points. (Last week: 5)</p><h3>3. Fresno State (5-4/2-3)</h3><p><strong>Result:</strong> lost at Utah State 17-10</p><p><strong>Next up:</strong> at Texas State (1 p.m. on The CW)</p><p><strong>Comment:</strong> The Hotline assumed the Bulldogs, fresh off the win over Oregon State, would have a stopover in Letdown City on their way to Logan. Admittedly, we didn&#8217;t count on them getting stuck there overnight. (Last week: 2)</p><h3>4. Oregon State (5-4/3-2)</h3><p><strong>Result:</strong> lost to Texas State 42-21</p><p><strong>Next up:</strong> at Boise State (3 p.m. on USA Network)</p><p><strong>Comment:</strong> That would be 80 points and 992 yards allowed by the Beavers in the past two games. But the bigger issue is the complete collapse of their previously unstoppable offense. (Last week: 3)</p><h3>5. Utah State (4-5/3-2)</h3><p><strong>Result:</strong> beat Fresno State 17-10</p><p><strong>Next up:</strong> at San Diego State (6:30 p.m. USA Network)</p><p><strong>Comment:</strong> Coach Bronco Mendenhall is too good for his team to wallow for an entire season. We&#8217;re kicking ourselves for thinking otherwise, even for just a few weeks. (Last week: 6)</p><h3>6. San Diego State (4-5/3-2)</h3><p><strong>Result:</strong> did not play</p><p><strong>Next up:</strong> vs. Utah State (6:30 p.m. USA Network)</p><p><strong>Comment:</strong> There are two examples, Utah State and Texas State, of teams playing better in November than they did in October. Will the Aztecs be the third? Or will they meander to the finish? (Last week: 4)</p><h3>7. Colorado State (3-6/1-4)</h3><p><strong>Result:</strong> lost to Boise State 64-38</p><p><strong>Next up:</strong> at Washington State (7:30 p.m. on CBS Sports Network)</p><p><strong>Comment:</strong> The Rams have the worst total defense and scoring defense in the country, and it&#8217;s not even close. How this happened under Jim Mora is one of the most fascinating subplots of the inaugural Pac-12 season. (Last week: 7)</p><h3>8. Washington State (1-8/0-5)</h3><p><strong>Result:</strong> did not play</p><p><strong>Next up:</strong> vs. Colorado State (7:30 p.m. on CBS Sports Network)</p><p><strong>Comment:</strong> If the Cougars don&#8217;t win Saturday, they won&#8217;t win until sometime in 2027. Whether that victory comes next September, October or November is anyone&#8217;s guess. (Last week: 8)</p><p><em>Send suggestions, comments and tips (confidentiality guaranteed) to wilnerhotline@bayareanewsgroup.com or call 408-920-5716.</em></p>",
+        "summary": "<p><span class=\"print_trim\"><em>The Pac-12 football power rankings are published each Sunday on the Hotline and consider both the latest results and season-long performance. Call it an objectively subjective look at the state of the conference. If you’re unhappy with the order, email us at the address below … or play better. For comparative purposes, we have included the placement of each team in last week’s rankings.</em></span></p><p>The dynamics of the inaugural Pac-12 season have changed dramatically in the past few weeks.</p><p>At the mid-October turn, <span class=\"print_trim\">for example,</span> Oregon State looked unbeatable and Utah State looked entirely beatable.</p><p>Now? The Beavers have lost back-to-back games, and the Aggies have won two in a row.</p><p>A few weeks ago, Texas State was under .500 and facing a steep climb to bowl eligibility.</p><p>Now? The Bobcats have won three of four, walloped Oregon State and are churning toward an appearance in the conference title game.</p><p>One component has remained fixed: Boise State was the team to beat last month and is the team to beat this month, with a two-game lead in the Pac-12 race and only three weeks left.</p><p>And based on the initial College Football Playoff rankings, the Broncos (8-1) are the frontrunner to claim the bid reserved for the top team in the Group of Six.</p><p>In that regard, their competitive position strengthened exponentially over the weekend thanks to three results:</p><p>• The Broncos steamed to victory at Colorado State.</p><p>• Oregon won at Ohio State, thereby adding credibility to Boise State’s narrow early season loss in Eugene.</p><p>• And UT-San Antonio, the top team in the American, was beaten soundly by Florida Atlantic, sideswiping what appeared to be Boise State’s chief competitor for the CFP berth.</p><p>At this point, the Broncos have a decisive advantage over all other Group of Six teams in ESPN’s strength-of-record rankings<span class=\"print_trim\">, which closely approximate one of the most important metrics used by the CFP selection committee</span>.</p><p>Here are the top Group of Six teams in strength of record, which measures how a team performs against its schedule compared to how an average team would fare against the same <span class=\"print_trim\">lineup of</span> opponents.</p><p>(With national ranking.)</p><p>No. 20: Boise State; No. 30: New Mexico; No. 35: Louisiana Tech; No. 39: North Texas; No. 40: Liberty; No. 42: UTSA</p><p><span class=\"print_trim\">Positions can shift markedly based on a single result. Prior to losing to FAU, for instance, UTSA was within a few spots of Boise State.</span></p><p>It has become increasingly clear that the Broncos control their fate – that by winning out, they will lock up the coveted CFP berth for the second time in three years.</p><p>If they lose once? Well, the situation could get dicey.</p><p><strong>To the power rankings &#8230;</strong></p><p><em>(All times Pacific)</em></p><h3>1. Boise State (8-1/5-0)</h3><p><strong>Result:</strong> won at Colorado State 64-38</p><p><strong>Next up:</strong> vs. Oregon State (3 p.m. on USA Network)</p><p><strong>Comment:</strong> ESPN’s <span class=\"print_trim\">popular</span> “College GameDay” is heading to Boise this week despite Oregon State’s two-game losing streak. <span class=\"print_trim\">It will be the third “GameDay” appearance in the Mountain time zone in the past five weeks, following October stops in Provo and Salt Lake City.</span> (Last week: 1)</p><h3>2. Texas State (5-4/3-2)</h3><p><strong>Result:</strong> won at Oregon State 42-21</p><p><strong>Next up:</strong> vs. Fresno State (1 p.m. on the CW)</p><p><strong>Comment:</strong> Getting easier to both envision the Bobcats facing Boise State for the Pac-12 championship – it would be a rematch of their Halloween thriller – and to wonder what might have been if Texas State hadn’t lost to UTSA and San Diego State by a combined seven points. (Last week: 5)</p><h3>3. Fresno State (5-4/2-3)</h3><p><strong>Result:</strong> lost at Utah State 17-10</p><p><strong>Next up:</strong> at Texas State (1 p.m. on the CW)</p><p><strong>Comment:</strong> The Hotline assumed the Bulldogs, fresh off the win over Oregon State, would have a stopover in Letdown City on their way to Logan. Admittedly, we didn’t count on them getting stuck there overnight. (Last week: 2)</p><h3>4. Oregon State (5-4/3-2)</h3><p><strong>Result:</strong> lost to Texas State 42-21</p><p><strong>Next up:</strong> at BSU (3 p.m. on USA)</p><p><strong>Comment:</strong> That would be 80 points and 992 yards allowed by the Beavers in the past two games. But the bigger issue is the complete collapse of their previously unstoppable offense. (Last week: 3)</p><h3>5. Utah State (4-5/3-2)</h3><p><strong>Result:</strong> beat Fresno State 17-10</p><p><strong>Next up:</strong> at San Diego State (6:30 p.m. on USA)</p><p><strong>Comment:</strong> Coach Bronco Mendenhall is too good for his team to wallow for an entire season. We’re kicking ourselves for thinking otherwise, even for just a few weeks. (Last week: 6)</p><h3>6. San Diego State (4-5/3-2)</h3><p><strong>Result:</strong> did not play</p><p><strong>Next up:</strong> vs. Utah State (6:30 p.m. on USA)</p><p><strong>Comment:</strong> There are two examples, Utah State and Texas State, of teams playing better in November than they did in October. Will the Aztecs be the third? Or will they meander to the finish? (Last week: 4)</p><h3>7. Colorado State (3-6/1-4)</h3><p><strong>Result:</strong> lost to Boise State 64-38</p><p><strong>Next up:</strong> at Washington State (7:30 p.m. on CBS Sports Network)</p><p><strong>Comment:</strong> The Rams have the worst total defense and scoring defense in the country, and it’s not even close. How this happened under Jim Mora is one of the most fascinating subplots of the inaugural Pac-12 season. (Last week: 7)</p><h3>8. WSU (1-8/0-5)</h3><p><strong>Result:</strong> did not play</p><p><strong>Next up:</strong> vs. Colorado State (7:30 p.m. on CBS Sports Network)</p><p><strong>Comment:</strong> If the Cougars don’t win Saturday, they won’t win until sometime in 2027. Whether that victory comes next September, October or November is anyone’s guess. (Last week: 8)</p><p><span class=\"print_trim\"><em>Send suggestions, comments and tips (confidentiality guaranteed) to wilnerhotline@bayareanewsgroup.com or call 408-920-5716.</em></span></p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -7568,7 +7764,7 @@
       },
       {
         "title": "Women’s Basketball to Host Idaho for Monday Home Opener",
-        "link": "https://wsucougars.com/news/2026/11/8/womens-basketball-to-host-idaho-for-monday-home-opener",
+        "link": "https://wsucougars.com/news/2026/11/08/womens-basketball-to-host-idaho-for-monday-home-opener",
         "link_kind": "item",
         "date": "2026-11-08T18:00:00+00:00",
         "summary": "",
@@ -7576,7 +7772,7 @@
         "duration": null,
         "channel_url": "",
         "source": "Washington State Athletics",
-        "id": "d8ab8f10ff2ed4c1",
+        "id": "98beda688f09b486",
         "sport": "wbb",
         "medium": "text"
       },
@@ -7625,7 +7821,7 @@
       },
       {
         "title": "Cougars Fall in Tight Battle at Oregon, 64-57",
-        "link": "https://wsucougars.com/news/2026/11/7/cougars-fall-in-tight-battle-at-oregon-64-57",
+        "link": "https://wsucougars.com/news/2026/11/06/cougars-fall-in-tight-battle-at-oregon-64-57",
         "link_kind": "item",
         "date": "2026-11-07T05:41:53+00:00",
         "summary": "",
@@ -7633,13 +7829,13 @@
         "duration": null,
         "channel_url": "",
         "source": "Washington State Athletics",
-        "id": "0202e47e7a848f9f",
+        "id": "2edb32648d91604d",
         "sport": "wbb",
         "medium": "text"
       },
       {
         "title": "WSU WBB: Kamie Ethridge | Oregon Postgame | 11/6/26",
-        "link": "https://wsucougars.com/news/2026/11/7/wsu-wbb-kamie-ethridge-oregon-postgame-11626",
+        "link": "https://wsucougars.com/news/2026/11/06/wsu-wbb-kamie-ethridge-oregon-postgame-11626",
         "link_kind": "item",
         "date": "2026-11-07T04:54:33+00:00",
         "summary": "",
@@ -7647,7 +7843,7 @@
         "duration": null,
         "channel_url": "",
         "source": "Washington State Athletics",
-        "id": "adf2cdccf441102e",
+        "id": "4fee337c554ca041",
         "sport": "wbb",
         "medium": "text"
       },
@@ -7780,7 +7976,7 @@
       },
       {
         "title": "Trip to Oregon Up Next for Women’s Hoops",
-        "link": "https://wsucougars.com/news/2026/11/4/trip-to-oregon-up-next-for-womens-hoops",
+        "link": "https://wsucougars.com/news/2026/11/04/trip-to-oregon-up-next-for-womens-hoops",
         "link_kind": "item",
         "date": "2026-11-04T23:13:36+00:00",
         "summary": "",
@@ -7788,7 +7984,7 @@
         "duration": null,
         "channel_url": "",
         "source": "Washington State Athletics",
-        "id": "1b8921437ad6b05f",
+        "id": "cfe4402c70e2f901",
         "sport": "wbb",
         "medium": "text"
       },
@@ -7822,7 +8018,7 @@
       },
       {
         "title": "Cougs See Big Performances in Loss at California",
-        "link": "https://wsucougars.com/news/2026/11/3/cougs-see-big-performances-in-loss-at-california",
+        "link": "https://wsucougars.com/news/2026/11/02/cougs-see-big-performances-in-loss-at-california",
         "link_kind": "item",
         "date": "2026-11-03T06:47:07+00:00",
         "summary": "",
@@ -7830,13 +8026,13 @@
         "duration": null,
         "channel_url": "",
         "source": "Washington State Athletics",
-        "id": "2aa208df17d74bf7",
+        "id": "a4fa21f87fb1257f",
         "sport": "wbb",
         "medium": "text"
       },
       {
         "title": "WSU WBB: Kamie Ethridge | California Postgame | 11/2/26",
-        "link": "https://wsucougars.com/news/2026/11/3/wsu-wbb-kamie-ethridge-california-postgame-11226",
+        "link": "https://wsucougars.com/news/2026/11/02/wsu-wbb-kamie-ethridge-california-postgame-11226",
         "link_kind": "item",
         "date": "2026-11-03T05:46:05+00:00",
         "summary": "",
@@ -7844,7 +8040,7 @@
         "duration": null,
         "channel_url": "",
         "source": "Washington State Athletics",
-        "id": "0b2f87a00e90940b",
+        "id": "addd436f10568de4",
         "sport": "wbb",
         "medium": "text"
       },
@@ -9602,6 +9798,20 @@
         "medium": "text"
       },
       {
+        "title": "Academic Services Names September Student-Athletes of the Month",
+        "link": "https://wsucougars.com/news/2026/10/10/academic-services-names-september-student-athletes-of-the-month",
+        "link_kind": "item",
+        "date": "2026-10-10T22:00:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "37695bc06c926772",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "WSU collapses late to Utah State: Instant Reaction (Episode 263)",
         "link": "https://podcastvseveryone.podbean.com/e/wsu-collapses-late-to-utah-state-instant-reaction-episode-263/",
         "link_kind": "item",
@@ -10082,7 +10292,7 @@
       },
       {
         "title": "Women’s Basketball 2026-27 Pac-12 Schedule Unveiled",
-        "link": "https://wsucougars.com/news/2026/10/2/womens-basketball-2026-27-pac-12-schedule-unveiled",
+        "link": "https://wsucougars.com/news/2026/10/02/womens-basketball-2026-27-pac-12-schedule-unveiled",
         "link_kind": "item",
         "date": "2026-10-02T17:00:00+00:00",
         "summary": "",
@@ -10090,7 +10300,7 @@
         "duration": null,
         "channel_url": "",
         "source": "Washington State Athletics",
-        "id": "bd346dcc1679d73c",
+        "id": "58ceb21843d911f3",
         "sport": "wbb",
         "medium": "text"
       },
@@ -10368,20 +10578,6 @@
         "extent": "1h 57m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Cougars Fall to Arizona 34-24 in Competitive Matchup",
-        "link": "https://wsucougars.com/news/2026/09/27/cougars-fall-to-arizona-34-24-in-competitive-matchup",
-        "link_kind": "item",
-        "date": "2026-09-27T03:39:11+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "e45672d8171ee14a",
-        "sport": "football",
-        "medium": "text"
       }
     ]
   }
