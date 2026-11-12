@@ -27275,6 +27275,215 @@
         "Angelique Martinez"
       ],
       "run": "run_2026-11-11-1440"
+    },
+    "1157eb40d612e957": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The roundup reports Boise State's move up in the latest CFP rankings as one of its items.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The CSU-Wyoming rivalry-hiatus teaser also touches Colorado State football, but the sentence given is only historical scene-setting, not developed enough to call involves.",
+      "unrecognized": [],
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-12-0242"
+    },
+    "4698ac1f2819123f": {
+      "subjects": {
+        "san-diego-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature on SDSU Athletics' department-wide sports-psychology program, drawing on athletes from several of its programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tyler Bowne",
+        "Brielle Miller"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-12-0242"
+    },
+    "5245fae9641307cd": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is a close read of Boise State's CFP ranking movement and its path forward.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-12-0242"
+    },
+    "5a6a13f8f8bb8ae5": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Looks ahead to Fresno State women's basketball's game against New Mexico, with recent-form context.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-12-0242"
+    },
+    "63cfa2c5bc25bb4a": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full game account of Fresno State men's basketball's overtime win over Georgia State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-12-0242"
+    },
+    "89b113507947c8dc": {
+      "subjects": {
+        "san-diego-state/mens-tennis": "about",
+        "san-diego-state/womens-tennis": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports both SDSU tennis doubles teams clinching NCAA Championship berths.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ava Bocek"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-12-0242"
+    },
+    "9f7107c9f6cf726a": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Game account of SDSU men's basketball's win over Colorado in the inaugural Bill Walton Classic.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Will Magni"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-12-0242"
+    },
+    "c01558df5ebe3653": {
+      "subjects": {
+        "gonzaga/mens-basketball": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "LSU",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "LSU is the subject of the Q&A, but Gonzaga figures substantively as Saturday's opponent with specific keys discussed for beating them.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-12-0242"
+    },
+    "c0258e6ea1b535eb": {
+      "subjects": {
+        "washington-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Lays out WSU's paths into the Pac-12 Tournament against other covered schools' records.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The text never names the sport; match-count and record shape suggest volleyball over soccer, but that is an inference, not stated outright, so I kept the key at department level rather than naming a program.",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-12-0242"
+    },
+    "c6afaba9d39bd693": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Cougar hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Washington State ice hockey is a club sport not listed among WSU's covered programs, so no covered program is about or involves.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-12-0242"
+    },
+    "ee974df92b568424": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Analyzes WSU football's season-long turnover and sack struggles, weighed against upcoming opponent Colorado State's own turnover numbers.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-12-0242"
+    },
+    "f01dc946f0b20e13": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary together name Oregon State's run defense and the upcoming test against a top rusher.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-12-0242"
+    },
+    "fa8433c49576a6ac": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Season-ending account of Texas State soccer's near-miss in its first Pac-12 conference-tournament race.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-12-0242"
     }
   },
   "runs": {
@@ -31562,6 +31771,46 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 20.13195479999922,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-12-0242": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-12T02:39:48.178396+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 12,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "c01558df5ebe3653",
+          "source": "The Spokesman-Review",
+          "phrase": "LSU",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c6afaba9d39bd693",
+          "source": "The Daily Evergreen",
+          "phrase": "Cougar hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 29.590472599993518,
       "tokens": null,
       "tokens_source": null
     }
