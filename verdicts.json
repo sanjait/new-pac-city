@@ -27484,6 +27484,221 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-11-12-0242"
+    },
+    "01aef49ca817ce38": {
+      "subjects": {
+        "utah-state/womens-soccer": "about",
+        "gonzaga/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full recap covers both Utah State's and Gonzaga's women's soccer match from kickoff through penalty kicks.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "54 min read",
+      "run": "run_2026-11-12-1442"
+    },
+    "087ca82ef3925ce3": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary establish Oregon State QB Braden Atkinson's doubtful status ahead of this week's game against Boise State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-12-1442"
+    },
+    "1814b78939988fe8": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "San Diego State's starting-quarterback decision is the subject, with this week's opponent Utah State given substantial treatment including stats and record.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-12-1442"
+    },
+    "38886b5c127027ae": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Utah State men's basketball's win over Omaha is the subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dane Johnson"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-12-1442"
+    },
+    "43fe50176bebbc04": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "All three betting picks (New Mexico-UNLV, Wyoming-UTEP, North Dakota State-Hawaii) involve only non-covered Mountain West schools, none of the nine.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-12-1442"
+    },
+    "677ef0c5a84bdfaa": {
+      "subjects": {
+        "san-diego-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "San Diego State's Sean Lewis gets a dedicated, substantive section on his job security among several coaches surveyed.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-12-1442"
+    },
+    "753db51c8d09b9a1": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary together establish Fresno State's offensive coordinator addressing his performance ahead of this week's game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-11-12-1442"
+    },
+    "a746a503aad1253e": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Washington State men's basketball's loss to Duquesne is the subject of this recap.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Owen Sullivan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-12-1442"
+    },
+    "ad57957d70111485": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Fresno State women's basketball's win over New Mexico is the subject of this full game recap.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller",
+        "Sam Quintero"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-12-1442"
+    },
+    "b2cef868ea61f18a": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish Oregon State's win and a backup point guard's injury as the subject; the sport is clear from context but the men's/women's program is not, so the department key is used.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-12-1442"
+    },
+    "c47d6ba014e4e6f2": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Washington State football's inability to force turnovers is the subject; this week's opponent Colorado State and a recently recounted loss to San Diego State both figure substantively.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-12-1442"
+    },
+    "d52a0b7663ce833e": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Six of the nine schools each have a transfer at the program given an individual stat highlight in this transfer-portal roundup.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Each school's transfer entry gets individual stat treatment, which could read as 'about' that program rather than 'involves' in a roundup whose actual subject is the transfer portal itself.",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-12-1442"
+    },
+    "e0781ec7fd01811c": {
+      "subjects": {
+        "utah-state/football": "about",
+        "boise-state/football": "involves",
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The title frames Utah State's bowl chances as the focus, and most of the other covered programs each get substantive bowl-projection commentary across the week's rounds.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-12-1442"
     }
   },
   "runs": {
@@ -31811,6 +32026,43 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 29.590472599993518,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-12-1442": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-12T14:39:48.054420+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 12,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "ad57957d70111485",
+          "source": "The Collegian",
+          "phrase": "New Mexico Lobos",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 29.12855509998917,
       "tokens": null,
       "tokens_source": null
     }
