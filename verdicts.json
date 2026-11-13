@@ -27892,6 +27892,141 @@
       "extent": "1 min read",
       "lock": "free",
       "run": "run_2026-11-13-0241"
+    },
+    "0b13887893c69542": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Half the podcast episode debates whether Boise State or New Mexico will make the College Football Playoff.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The body gives little detail on Boise State beyond naming it as half of the CFP debate, so about vs. involves was a close call.",
+      "byline": [
+        "Derek Raridon",
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-13-1440"
+    },
+    "5978e0a36766276c": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The piece profiles McLain's new painting hobby; his football season is background context, not the subject of the story.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "He is a current WSU football player and the piece references his team's season and games, making the call between background context and substantive athletics content close.",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-13-1440"
+    },
+    "631c52105827c5b1": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Title and summary establish this previews Saturday's Oregon State-Boise State football game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-13-1440"
+    },
+    "81ef45f9ff9b81ce": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The whole piece analyzes Air Force, Army, and Navy football, none of which are among the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sean OToole"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-13-1440"
+    },
+    "9c1315a36bbea977": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "san-diego-state/volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State's volleyball win over San Diego State in their last home match of the season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Carisa Arellano"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-13-1440"
+    },
+    "bc940b8559664c96": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about",
+        "san-diego-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece breaks down the Pac-12 title race in depth for Boise State, Texas State, Oregon State, San Diego State, and Utah State ahead of the season's final two weeks.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Toby McMahon"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-13-1440"
+    },
+    "bf64fa15416afeab": {
+      "subjects": {
+        "washington-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Season-long, game-by-game recap of the Washington State women's soccer team's 2026 season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ben Walker"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-13-1440"
+    },
+    "c1f79ab0e295f018": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece argues broadly about how CFP expansion harms Group of Six programs generally; Boise State is named only as one passing example, not as the subject.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Boise State is named several times as the lone ranked Group of Six team, so the call between mentions and involves was close.",
+      "unrecognized": [],
+      "byline": [
+        "Derek Raridon"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-13-1440"
     }
   },
   "runs": {
@@ -32284,6 +32419,47 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 32.47975380000207,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-13-1440": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-13T14:39:09.585591+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 5,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "The Spokesman-Review": 1,
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "0b13887893c69542",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "81ef45f9ff9b81ce",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 18.370786300001782,
       "tokens": null,
       "tokens_source": null
     }
