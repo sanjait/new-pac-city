@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-12T14:03:58.683780+00:00",
+  "generated_at": "2026-11-13T02:03:46.862358+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Mountaintop View 11-12-26",
+        "link": "https://www.mwcconnection.com/mountain-west-news/95797/mountain-west-pac-12-football-basketball-boise-atkinson",
+        "link_kind": "item",
+        "date": "2026-11-12T14:00:00+00:00",
+        "summary": "Mountain West power rankings: New Mexico opens clear gap on league ahead of UNLV showdown Chris Murray of NevadaSportsNet posts his weekly Mountain West football power rankings. Wyoming is on the rise, albeit with a slight damper due to the injury to quarterback Tyler Hughes. Pokes Insider: Tyson Shamsid-Deen makes two big plays with one [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "6b21e8c8f6d56863",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Utah State Outlasts Gonzaga in Penalties, Boise State Surges Past SDSU to Set up Pac-12 Championship Final",
         "link": "http://pac-12.com/news/2026/11/12/womens-soccer-utah-state-outlasts-gonzaga-in-penalties-boise-state-surges-past-sdsu-to-set-up-pac-12-championship-final.aspx",
@@ -168,20 +182,6 @@
         "source": "Mountain West Connection",
         "id": "77660957f6df5863",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "New Mexico Leads the Race, Wyoming Surges, and Bowl Dreams Hang in the Balance",
-        "link": "https://www.mwcconnection.com/mountain-west-football/95647/new-mexico-leads-the-race-wyoming-surges-and-bowl-dreams-hang-in-the-balance",
-        "link_kind": "item",
-        "date": "2026-11-10T17:00:00+00:00",
-        "summary": "With three weeks left in the regular season, the Mountain West championship race is coming into focus. But with conference title hopes, bowl eligibility, and plenty of pride on the line, November promises to deliver more than a few surprises. By Roger A. Holien &#124; Mountain West Connection November 8, 2026 &#124; Mountain West Football [&#8230;]",
-        "author": "Roger A Holien",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "8da99431bde9a9a8",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -491,23 +491,93 @@
         "id": "8207ffe1db847858",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "Press Break FCS Top 25 Ballot Week 5 and FCS Awards Through September",
-        "link": "https://pressbreak.substack.com/p/press-break-fcs-top-25-ballot-week-223",
-        "link_kind": "item",
-        "date": "2026-09-28T18:54:51+00:00",
-        "summary": "Youngstown State&#8217;s statement win places reigning Walter Payton Award winner Beau Brungard at the forefront of the individual honors race.",
-        "author": "Kyle Kensing",
-        "duration": null,
-        "channel_url": "",
-        "source": "Press Break",
-        "id": "d2044a42c7460e9c",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Boise State": [
+      {
+        "title": "Boise State men’s basketball opens season 3-0 for first time since 2017-18",
+        "link": "https://www.arbiteronline.com/2026/11/12/boise-state-mens-basketball-opens-season-3-0-for-first-time-since-2017-18/",
+        "link_kind": "item",
+        "date": "2026-11-13T01:17:28+00:00",
+        "summary": "<p>Boise State men’s basketball took down Oakland 111-79 at ExtraMile Arena Wednesday night, marking the Broncos’ third consecutive win and first time starting the regular season 3-0 since the 2017-18 campaign.&#160; Scoring at least 100 points in each of their first two contests, the victory over Oakland also marks the first time in program history [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/12/boise-state-mens-basketball-opens-season-3-0-for-first-time-since-2017-18/\">Boise State men’s basketball opens season 3-0 for first time since 2017-18</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "author": "Jake Zamora",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Arbiter",
+        "id": "96ec2a27f0ba4528",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Boise State Athletics Shares Additional Fan Information for ESPN’s College GameDay",
+        "link": "https://broncosports.com/news/2026/11/12/general-boise-state-athletics-shares-additional-fan-information-for-espns-college-gameday",
+        "link_kind": "item",
+        "date": "2026-11-12T23:27:00+00:00",
+        "summary": "<img alt=\"College GameDay Bus\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/College_gameday_bus.jpeg\" /><br /><br />Activities for fans of all ages",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "35e5fb4a2bdf1a8c",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "No. 17/18/24 Boise State Hosts Oregon State on National Stage",
+        "link": "https://broncosports.com/news/2026/11/12/football-no-17-18-24-boise-state-hosts-oregon-state-on-national-stage",
+        "link_kind": "item",
+        "date": "2026-11-12T22:00:00+00:00",
+        "summary": "<img alt=\"Updated\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/Updated_Game_Preview.jpg\" /><br /><br />Prior to the game, ESPN's College GameDay will host its live pregame show from DeChevrieux Field. The three-hour event will begin at 7 a.m. MT. Gates will open at 4:30 a.m. MT.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "aa0966d021f65bef",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Blue Collar Roots",
+        "link": "https://broncosports.com/news/2026/11/12/b-1-features-blue-collar-roots",
+        "link_kind": "item",
+        "date": "2026-11-12T21:00:00+00:00",
+        "summary": "<img alt=\"Travis Anderson Feature Story\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/BSU26_B1_Feature_Template_WEB.png\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "e0e435615c5f3e8b",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Boise State Prepares for Utah, Utah Tech",
+        "link": "https://broncosports.com/news/2026/11/12/womens-basketball-boise-state-prepares-for-utah-utah-tech",
+        "link_kind": "item",
+        "date": "2026-11-12T18:30:00+00:00",
+        "summary": "<img alt=\"Grace Foster dribbling the ball\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/SO_WBBvsPortland_031.jpg\" /><br /><br />Boise State women's basketball will host Utah on Friday, Nov. 13, at 6:30 p.m. MT before welcoming Utah Tech to ExtraMile Arena on Sunday, Nov. 15, at 1 p.m. MT. Both games will be streamed live on the Pac-12 YouTube channel and broadcast on 670 KBOI AM.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "988a8c3243b532d0",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Riley Named Finalist for Paul Hornung Award",
+        "link": "https://broncosports.com/news/2026/11/12/football-riley-named-finalist-for-paul-hornung-award",
+        "link_kind": "item",
+        "date": "2026-11-12T17:00:00+00:00",
+        "summary": "<img alt=\"Dylan Riley touchdown vs. Utah State (Oct. 3, 2026)\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/1W1A9453.jpg\" /><br /><br />Running back is first player in program history to be finalist for award",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "f7aa075680f29c63",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Broncos Nab Convincing Win Over Oakland",
         "link": "https://broncosports.com/news/2026/11/11/mens-basketball-broncos-nab-convincing-win-over-oakland",
@@ -621,20 +691,6 @@
         "medium": "text"
       },
       {
-        "title": "Broncos Climb to No. 24 in College Football Playoff Rankings",
-        "link": "https://broncosports.com/news/2026/11/10/broncos-climb-to-no-24-in-college-football-playoff-rankings",
-        "link_kind": "item",
-        "date": "2026-11-11T02:34:00+00:00",
-        "summary": "<img alt=\"Boise State Football Game 9 vs  Colorado State at Canvas Stadium. Photo by Kenna Harbison\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/KH_FBvsCSU_020.jpg\" /><br /><br />Boise State remains lone Group of Six team ranked",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "8c7eabbcff69684f",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Broncos Seek Third Consecutive Win",
         "link": "https://broncosports.com/news/2026/11/10/mens-basketball-broncos-seek-third-consecutive-win",
         "link_kind": "item",
@@ -663,20 +719,6 @@
         "medium": "text"
       },
       {
-        "title": "Riley Tabbed Semifinalist for Maxwell Award",
-        "link": "https://broncosports.com/news/2026/11/10/football-riley-tabbed-semifinalist-for-maxwell-award",
-        "link_kind": "item",
-        "date": "2026-11-10T16:00:00+00:00",
-        "summary": "<img alt=\"Dylan Riley vs. Utah State, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/cropped_DSC06901.jpg\" /><br /><br />Running back one of 18 semifinalists for award presented to nation's player of the year",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "22727baf8f5a3cec",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Miles from home: Boise State’s international athletes",
         "link": "https://www.arbiteronline.com/2026/11/09/miles-from-home-boise-states-international-athletes/",
         "link_kind": "item",
@@ -702,34 +744,6 @@
         "source": "First Kick Was Good",
         "id": "76562870d4f78a6d",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Broncos Win Three Pac-12 Player of the Week Awards",
-        "link": "https://broncosports.com/news/2026/11/9/football-broncos-win-three-pac-12-player-of-the-week-awards",
-        "link_kind": "item",
-        "date": "2026-11-09T20:00:00+00:00",
-        "summary": "<img alt=\"FB: Nov. 9 Pac-12 POTW\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/Pac-12_POTW.jpg\" /><br /><br />Dylan Riley, Terrious Favors and Rasean Jones recognized by conference",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "9756568a5a2cdf3e",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Cutforth Recognized on Manning Stars of the Week",
-        "link": "https://broncosports.com/news/2026/11/9/football-cutforth-recognized-on-manning-stars-of-the-week",
-        "link_kind": "item",
-        "date": "2026-11-09T18:00:00+00:00",
-        "summary": "<img alt=\"Max Cutforth at Colorado State, 2026\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/KH_FBvsCSU_045.jpg\" /><br /><br />Senior quarterback threw four touchdown passes, rushed for another",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "ae3168c457b06b2f",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -1042,20 +1056,6 @@
         "medium": "text"
       },
       {
-        "title": "Cross country athletes’ eligibility confirmed hours before Pac-12 Championship",
-        "link": "https://www.arbiteronline.com/2026/11/01/cross-country-athletes-eligibility-extended-hours-before-pac-12-championship/",
-        "link_kind": "item",
-        "date": "2026-11-02T00:58:17+00:00",
-        "summary": "<p>Boise State hosted the Pac-12 Cross Country Championships, with the Broncos’ women’s team capturing a second-place finish, led by two runners who received confirmation of their eligibility less than a day before competing.</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/01/cross-country-athletes-eligibility-extended-hours-before-pac-12-championship/\">Cross country athletes’ eligibility confirmed hours before Pac-12 Championship</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
-        "author": "Emilia Rose Nowinski",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Arbiter",
-        "id": "bd570679648ae651",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Boise State to Open Season Against Bushnell",
         "link": "https://broncosports.com/news/2026/11/1/womens-basketball-boise-state-to-open-season-against-bushnell",
         "link_kind": "item",
@@ -1241,20 +1241,6 @@
         "medium": "audio"
       },
       {
-        "title": "Boise State Women's Basketball Announces Pac-12 TV Selections",
-        "link": "https://broncosports.com/news/2026/10/15/boise-state-womens-basketball-announces-pac-12-tv-selections",
-        "link_kind": "item",
-        "date": "2026-10-15T19:00:00+00:00",
-        "summary": "<img alt=\"Gordy Presnell laughing.\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/15/PresnellGordy2526Nevada-01.JPG\" /><br /><br />Boise State women's basketball will make two appearances on The CW this season, the Pac-12 announced Thursday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "2e670a4e697c66bd",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Off the Blue - Season 7, Episode 6- Melia Barlow",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/59a80f70-6558-4af3-9a68-da6d24835670.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -1331,6 +1317,20 @@
       }
     ],
     "Colorado State": [
+      {
+        "title": "Memorable Moments: Sharing Memories From Decades Past",
+        "link": "https://csurams.com/news/2026/11/12/football-memorable-moments-sharing-memories-from-decades-past",
+        "link_kind": "item",
+        "date": "2026-11-12T21:00:00+00:00",
+        "summary": "<img alt=\"mm\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/8/31/mmweek10.jpg\" /><br /><br />Tales tell the entire story of the football program",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "26294e2c4b7d28d8",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Rams Depth Wins Over Portland State",
         "link": "https://csurams.com/news/2026/11/11/mens-basketball-rams-depth-wins-over-portland-state",
@@ -1582,20 +1582,6 @@
         "source": "Colorado State Athletics",
         "id": "18a573fa85421cf0",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Colorado State Insider Podcast with Brian Roth -- Season 10, Episode 13",
-        "link": "https://csurams.com/news/2026/11/4/football-colorado-state-insider-podcast-with-brian-roth-season-10-episode-13",
-        "link_kind": "item",
-        "date": "2026-11-04T22:00:00+00:00",
-        "summary": "<img alt=\"CSU Insider Podcast\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2023/8/23/RamWire_Insider_2.png\" /><br /><br />The Colorado State Insider Podcast previews Saturday's match-up with Boise State as Rams Radio analyst Marty Lenz and Broncos radio voice Bob Behler join the show to break down the game. Plus, we recap opening night victories for both the CSU men's and women's basketball teams as the 2026-27 season gets underway.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "607a3d8b485695df",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -1980,6 +1966,49 @@
       }
     ],
     "Fresno State": [
+      {
+        "title": "McCarthy Mayhem continues: Fresno State women’s basketball dominates New Mexico Lobos",
+        "link": "https://fscollegian.com/2026/11/mccarthy-mayhem-continues-fresno-state-womens-basketball-dominates-new-mexico-lobos/",
+        "link_kind": "item",
+        "date": "2026-11-12T23:40:49+00:00",
+        "summary": "The Fresno State women&#8217;s basketball team returned to the Save Mart Center on last night, Nov. 11, and delivered a commanding 74-56 victory over the New Mexico Lobos.  The Bulldogs (2-1) maintained control throughout the matchup, never trailing and building a lead as large as 21 points. Fresno State’s aggressive defense and balanced scoring helped...",
+        "author": "Paloma Schuller, Enterprise Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "17edaf2191dcff67",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Bulldogs ink Courtlyn Yassui on national signing day",
+        "link": "https://gobulldogs.com/news/2026/11/12/womens-basketball-bulldogs-ink-courtlyn-yassui-on-national-signing-day",
+        "link_kind": "item",
+        "date": "2026-11-12T21:25:00+00:00",
+        "summary": "<img alt=\"Ryan Courtlyn \" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/_DSC8727.jpg\" /><br /><br />FRESNO, Calif. - Fresno State women's basketball and head coach Ryan McCarthy announce the signing of guard Courtlyn Yassui.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Fresno State Athletics",
+        "id": "5f78519398a67840",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Fresno State Heads to Texas State",
+        "link": "https://redwavereport.podbean.com/e/fresno-state-heads-to-texas-state/",
+        "link_kind": "item",
+        "date": "2026-11-12T19:20:29+00:00",
+        "summary": "<p>The boys are back to break down the latest loss to Utah State. Then they turn their attention to the red hot Texas State. They also take a look at the Pac 12 and the path to the championship game. Thank you for listening and enjoy the show.</p>",
+        "author": "",
+        "duration": 4268,
+        "channel_url": "",
+        "source": "The Red Wave Report",
+        "id": "660ab80824c96dfa",
+        "extent": "1h 11m",
+        "sport": "all",
+        "medium": "audio"
+      },
       {
         "title": "Fresno State OC Davis - 'very hard on myself' but 'great opportunity this weekend'",
         "link": "https://www.yourcentralvalley.com/sports/fresno-state-oc-davis-very-hard-on-myself-but-great-opportunity-this-weekend/",
@@ -2374,20 +2403,6 @@
         "medium": "text"
       },
       {
-        "title": "Fresno State football looks to build momentum against Utah State in Week 9 matchup",
-        "link": "https://fscollegian.com/2026/11/fresno-state-football-looks-to-build-momentum-against-utah-state-in-week-9-matchup/",
-        "link_kind": "item",
-        "date": "2026-11-05T18:38:22+00:00",
-        "summary": "Following a 38-22 victory over Oregon State on Halloween, the Fresno State Bulldogs are set to hit the road and travel to Logan, Utah, to face the Utah State Aggies in their Week 9 matchup. After suffering a short slump, losing back-to-back games to Boise State and San Diego State, the Bulldogs upset the Beavers...",
-        "author": "Cristian Ceballos, Daily Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "3d204d0d9d520491",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Bulldogs dominate Bobcats in season opener",
         "link": "https://gobulldogs.com/news/2026/11/4/womens-basketball-bulldogs-dominate-bobcats-in-season-opener",
         "link_kind": "item",
@@ -2613,20 +2628,6 @@
         "medium": "text"
       },
       {
-        "title": "Donez, Rean named to Pac-12 Impact List",
-        "link": "https://gobulldogs.com/news/2026/10/29/womens-basketball-donez-rean-named-to-pac-12-impact-list",
-        "link_kind": "item",
-        "date": "2026-10-29T20:06:00+00:00",
-        "summary": "<img alt=\"basketball in hoop\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2024/12/29/24-12-14-DC-WBB-CUSB-27.jpg\" /><br /><br />FRESNO, Calif. - Fresno State women's basketball student athletes Ashlyn Rean and Lola Donez have been named to the 2026-27 Pac-12 Impact List as announced by the conference on Thursday afternoon.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Fresno State Athletics",
-        "id": "d462df9ecfe2e1c3",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Candelino, Henige Named to Pac-12 Preseason Impact List",
         "link": "https://gobulldogs.com/news/2026/10/29/mens-basketball-candelino-henige-named-to-pac-12-preseason-impact-list",
         "link_kind": "item",
@@ -2842,6 +2843,34 @@
       }
     ],
     "Gonzaga": [
+      {
+        "title": "Looking Back on Week 1",
+        "link": "https://houseofkrause.substack.com/p/looking-back-on-week-1",
+        "link_kind": "item",
+        "date": "2026-11-12T14:15:25+00:00",
+        "summary": "Connor Hope, Austin King and Tuck Clarry look at the early results for the Zags and whether some close games and halves mean anything in the big picture.",
+        "author": "Tuck Clarry",
+        "duration": null,
+        "channel_url": "",
+        "source": "House of Krause",
+        "id": "b0d3c3a616be57d2",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga's Chauncey Wiggins earns preliminary injunction, set to debut against LSU",
+        "link": "http://www.spokesman.com/stories/2026/nov/12/gonzagas-chauncey-wiggins-earns-preliminary-injunc/",
+        "link_kind": "item",
+        "date": "2026-11-12T00:00:00+00:00",
+        "summary": "<p>Spokane County Superior Court Judge Dean Chuang granted a preliminary injunction to Chauncey Wiggins on Thursday afternoon, clearing the fifth-year transfer to compete for Gonzaga this season while simultaneously ending a roller-coaster eligibility saga.</p><p>Chuang ruled in favor of Wiggins after an hour-long injunction hearing at Spokane County Courthouse, which was attended by Gonzaga coach Mark Few and teammates Braden Huff, Davis Fogle, Xaivian Lee, Javon Bennett, Parker Jefferson and Alonzo Metz.</p><p>With Thursday’s verdict, Wiggins indicated he’d make his debut for No. 14 Gonzaga on Saturday in a high-profile nonconference matchup against LSU at Numerica Veterans Arena (12:30 p.m., USA Network). The 6-foot-10 sharpshooter previously played three seasons at Clemson and one at Florida State before joining the Boston Celtics at NBA Summer League in July and subsequently pursuing a fifth year of college eligibility through the Godfrey vs. NCAA lawsuit in his home state of Georgia.</p><!--[embed id=12494]--><p>Wiggins withdrew from the Georgia lawsuit when the case was stayed, reversing the original injunction, and refiled to join the Wheeler vs. NCAA 5-in-5 case in Waco, Texas, where a larger group of student-athletes had previously received a temporary restraining order. Wiggins and other player plaintiffs from lawsuits in Georgia and Tennessee were denied the TRO for “a lack of personal jurisdiction,” prompting the Gonzaga player to seek relief in a third jurisdiction.</p><p>Wiggins was sidelined for Gonzaga’s season-opening wins against Purdue and New Mexico State, but Thursday’s injunction allows him to suit up against LSU on Saturday and the remainder of the 2026-27 season, barring any unforeseen circumstances.</p><p>Citing a shortage of judicial officers, Chuang set trial for May 10, 2027, meaning Wiggins’ case won’t be heard until at least one month after Gonzaga’s season ends. Chuang, a Gonzaga Law graduate, also restrained the NCAA from enforcing the rule of restitute, meaning the governing body can’t retroactively strip Gonzaga of victories or postseason awards while Wiggins is on the court.</p><p><em>This story will be updated.</em></p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "8f748571a2f8af50",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "MBB Faces LSU in Bad Boy Mowers Series",
         "link": "https://gozags.com/news/2026/11/11/mens-basketball-mbb-faces-lsu-in-bad-boy-mowers-series",
@@ -3451,20 +3480,6 @@
         "medium": "text"
       },
       {
-        "title": "Years in the making: No. 15 Gonzaga ready to roll out new roster in high-profile opener against Purdue",
-        "link": "http://www.spokesman.com/stories/2026/nov/01/years-in-the-making-no-15-gonzaga-ready-to-roll-ou/",
-        "link_kind": "item",
-        "date": "2026-11-01T00:00:00+00:00",
-        "summary": "<p>LAS VEGAS – Two years ago, in Las Vegas of all places, Matt Painter was asked if Purdue had ever explored the idea of a home-and-home, nonconference series with Gonzaga.</p><p>The setting and timing both felt appropriate for the question. Painter was helping out at USA Olympic Basketball Camp on UNLV’s campus, working specifically with the USA Select Team. Gonzaga’s Mark Few was roaming the same practice gym on a scorching summer day in Vegas, working his offseason assignment with the Paris-bound men’s Olympic team.</p><p>There had been three chance meetings between Gonzaga and Purdue programs over the previous 20 months – on Nov. 25, 2022, at the Phil Knight Legacy in Portland, on Nov. 20, 2023, at the Maui Invitational in Honolulu and most recently, March 29, 2024, in the Sweet 16 of the NCAA Tournament.</p><p>Two of the most respected programs in college basketball. Two of the most revered coaches in the game. Why wouldn’t they want to get something on the books?</p><p>“We’ve talked about it,” Painter said on July 8, 2024. “Not home-and-home, but we’ve talked about neutral site.”</p><p>Voila, here they are two years later, matching up in Monday’s 4:30 p.m. neutral-site opener at T-Mobile Arena, just a few-hundred steps from the Vegas Strip. It’s one of two men’s games that will be part of this year’s Hall of Fame Series. Longtime Gonzaga assistant Tommy Lloyd and Arizona will cap the night with a 7 p.m. tipoff against former Pac-12 rival UCLA. Both games will air on TNT.</p><p>“Purdue’s one of the real great programs we have in college basketball right now, Matt’s a heckuva coach and they’re just going to be a tough out,” Few said. “They’re very execution-oriented on offense and run a myriad of really, really nice actions, usually off the ball. But they’re big, they’ve always had those bigs inside. They’re man-to-man defense and they’ll pick us up full court and try to make every basket hard.”</p><p>That was the evaluation Few offered before even watching film from Purdue’s exhibition slate, which included a 76-53 loss to UConn and dominant 92-62 and 87-55 wins over Purdue Fort Wayne and Ball State. Gonzaga’s coaching staff doesn’t necessarily have to know Purdue’s personnel to know how Painter will try to scheme things up Monday night.</p><p>That goes both ways, obviously. The Boilermakers suspect the Bulldogs will try to speed the game up, play through an All-American-caliber post on offense and control the offensive and defensive glass. Mostly correct, although Few is still slightly skeptical about what his group can do from a rebounding standpoint.</p><p>“Great in transition, good size,” Painter said of the Zags. “Obviously getting (Massamba) Diop from Arizona State, good shot-blocker, good length. Braden Huff is an all-conference player, can score inside and out, can drive the basketball. Xaivian Lee at Princeton, at Florida, a lot of experience, very, very fast.</p><p>“There’s a couple areas for us that’s going to be important no matter who we play, but we have to do a better job of keeping people out of transition and these guys are really good in transition. And that starts with taking care of the basketball, taking good shots, setting your defense.”</p><p>From a personnel standpoint, there’s almost zero carryover from the last Gonzaga-Purdue matchup in 2024. Other than Huff, who scored four points in nine minutes off the bench, nobody else from either roster is back. Huff and Purdue’s C.J. Cox are also the only returning starters for their respective teams.</p><p>Cox could be the focal point of Gonzaga’s defensive plan. He’s the top returning scorer at 8.5 points per game and paced the Boilermakers through their exhibition slate, averaging 15.3 points and accounting for one-third of Purdue’s total scoring production against UConn with 18 points.</p><p>“A great set of guards,” Few said. “They shoot it well, they shoot it freely, they’re difficult to prepare with all the myriad of sets and actions they have and kind of challenge you in every way. They’re one of those teams that keep you in front, you’ve got to make shots over the top of them and are just phenomenal on the glass. Just the offensive glass and the defensive glass.”</p><p>Transfer wing Caden Pierce is expected to start in a small-ball “4” role for Purdue. Gonzaga doesn’t need to do much homework on the 6-foot-7 senior because Few’s staff did plenty last season when the Bulldogs tried to land a transfer commitment from Pierce, bringing him to Spokane for an official visit in January. Pierce is Huff’s former high school teammate at Glenbard West in the Chicago area and played with Lee for three seasons at Princeton.</p><p>“They seem to be really clicking with their execution. Obviously, I think they probably were all there this summer and adding Caden Pierce is a really, really nice addition,” Few said. “Really athletic and hard driving, hard playing kind of swing forward.”</p><p>Gonzaga’s expected to go with a starting unit of Lee, Isiah Harwell, Davis Fogle, Huff and Diop, but Few’s bench rotation could change in the hours leading up to Monday’s opener. Chauncey Wiggins is currently ineligible, but a judge in McLennan County, Texas, is still reviewing a temporary restraining order for the transfer wing and other player plaintiffs in his 5-in-5 lawsuit. A verdict is expected Monday, which could potentially reverse Wiggins’ eligibility status before the 4:30 p.m. start time in Vegas.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "16c68060d09bdfa1",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Gonzaga women expect challenge from experienced North Dakota State team",
         "link": "http://www.spokesman.com/stories/2026/nov/01/gonzaga-women-expect-challenge-from-experienced-no/",
         "link_kind": "item",
@@ -3743,23 +3758,65 @@
         "id": "3bbc56ab12c73ab9",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "Experienced Gonzaga women return Ines Bettencourt after court ruling: 'It's a new energy'",
-        "link": "http://www.spokesman.com/stories/2026/sep/29/experienced-gonzaga-women-return-ines-bettencourt-/",
-        "link_kind": "item",
-        "date": "2026-09-29T00:00:00+00:00",
-        "summary": "<p>Expectations are going to be high for the Gonzaga women’s basketball team in 2026-27.</p><p>A late addition to the roster now may blow those expectations through the roof of McCarthey Athletic Center.</p><p>The Zags were set to essentially return their entire team from 2025-26 with the exception of guard Ines Bettencourt, who graduated last spring.</p><p>The NCAA’s new five-years-to-play-five-seasons eligibility model announced this summer opened the door for the Portugal native to fight for an additional year of eligibility. She joined a California class action lawsuit, gaining a temporary restraining order and immediate eligibility.</p><p>Bettencourt returned to Spokane on Sept. 5.</p><p>Now the band is back together for Gonzaga, which will have one of the deepest rosters in the nation with 10 returners, including five starters to go with two transfers and one freshman.</p><p>Bettencourt and GU coach Lisa Fortier were cautious in calling it a done deal when the Zags took the court for their first preseason practice last week. <a href=\"https://www.spokesman.com/stories/2026/sep/29/wait-continues-for-gonzagas-xaivian-lee-ines-bette/\" target=\"_blank\">A preliminary hearing on Tuesday in Santa Clara County appeared to push a final decision to October 20, at the earliest. </a></p><p>The Zags are proceeding as if they’ll have Bettencourt.</p><p>“It’s been a long summer ever since I graduated,” said Bettencourt, who went back to Portugal and practiced frequently with her national team. “I kind of knew that this would be a possibility. So I was just working behind the scenes and talking with Lisa (Fortier), not really telling anyone else because it wasn’t for sure.”</p><p>As soon as the NCAA adopted the new eligibility format, Bettencourt began talking to Fortier and Gonzaga compliance officials “to figure out what exactly I have to do to come back because as an international it’s harder to come back than an American.”</p><p>There Bettencourt was going through drills and running up and down the court with her teammates like she had never left.</p><p>“Like McKynnlie (Dalan, senior forward) said, ‘we set you off, (had) all these goodbyes and now you’re back.’ ”</p><p>Fortier said Gonzaga will proceed as if Bettencourt will be eligible the whole season.</p><p>“She had asked us pretty early on in April or May (about coming back) and she was kind of joking at first,” Fortier said. “No one actually thought that any of this was gonna happen. The answer was like sure (you can come back).”</p><p>Bettencourt is stoked to have another year with her coaches and what she calls her “best friends.”</p><p>“Just having one more shot at this, making the (NCAA) Tournament. Just being more prepared for whatever’s next for me,” Bettencourt said. “So it’s just awesome. Everyone was happy for me.”</p><p>Fortier is overjoyed to have Bettencourt back – something the Zags never thought would be an option four months ago.</p><p>“She’s one of ours so we would love to have her back,” Fortier said. “She shows up every day around the program and she takes care of business like a professional. She’s a pro in all ways.”</p><p>The familiarity will be a team strength no doubt.</p><p>“We know each other,” Bettencourt said. “So it was just super nice for them to receive me well again.”</p><p>Bettencourt spent most of the summer playing 3-on-3 in Portugal. It was different preparation for returning to Gonzaga.</p><p>“I have to run more now,” Bettencourt said, smiling.</p><p>Bettencourt took over a leadership role last year as the team’s lone senior. Now as a graduate, she wants to continue to lean into leadership.</p><p>“Just building on the leadership,” she said.</p><p>She expects to be a better player, too.</p><p>“Stay composed and stay consistent at everything,” she said about her personal expectations. “I’m just taking it day by day because I get to come back and be with my teammates, with my coaches, and practice with them again.”</p><p>Junior point guard Allie Turner started alongside Bettencourt in the backcourt last year. Turner, Bettencourt and sophomore forward Lauren Whittaker all lived together last year.</p><p>The trio can’t run that arrangement back as living assignments had already been passed out. But Turner is glad to have Bettencourt along for one more year.</p><p>“We’re super happy to have her back,” Turner said. “It’s a new energy.”</p><p>Whittaker agreed.</p><p>“For a long time we didn’t really think it was an option. And then kind of a quick turnaround within a couple of weeks we heard (she) was coming back,” Whittaker said. “She’s a player that I think is really seamless to bring back to the team. She has a lot of experience and was a great leader last year and obviously a great player. So it was kind of just an easy transition for her and everyone has been really supportive of it. It’s kind of like she’s never left.”</p><p>Bettencourt is looking forward to returning to McCarthey Athletic Center and seeing the fans for FanFest on Oct. 10.</p><p>“Super excited,” Bettencourt said. “I’m sure they (the fans) are going to be like ‘what? What are you doing here again?’ But I’m super excited to be back in front of all the fans with my team and showing them again what we can bring this year.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "2109411808f40c65",
-        "sport": "wbb",
-        "medium": "text"
       }
     ],
     "Oregon State": [
+      {
+        "title": "WBB Announces Three Additions to 2027-28 Roster",
+        "link": "https://osubeavers.com/news/2026/11/12/womens-basketball-wbb-announces-three-additions-to-2027-28-roster",
+        "link_kind": "item",
+        "date": "2026-11-12T22:21:00+00:00",
+        "summary": "<img alt=\"Rueck, Scott\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/22/Rueck_Scott_MSU_KM.jpg\" /><br /><br />We are thrilled to officially welcome Daniella, Berkley, and Tess to our program. They are high character leaders who are impactful on-court additions as well as fantastic fits for our culture, locker room and community,&quot; head coach Scott Rueck said. &quot;This is a very special day for our program and I know Beaver Nation will love these three!&quot;",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "0c8842a150be2b53",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Jen-Hsun Huang resigns from position as NVIDIA CEO",
+        "link": "https://dailybaro.orangemedianetwork.com/33815/daily-barometer-news/jen-hsun-huang-resigns-from-position-as-nvidia-ceo/",
+        "link_kind": "item",
+        "date": "2026-11-12T19:29:18+00:00",
+        "summary": "Jen-Hsun Huang, Oregon State University alum, resigned from his position as president, CEO and board member of NVIDIA effective immediately on Thursday. Huang’s resignation is in the wake of his affair with an alleged Chinese spy, potentially compromising national security according to an investigation by the House Committee on Foreign Affairs. NVIDIA launched its own...",
+        "author": "Jenna Benson, Editor-in-Chief",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "17ff350c58f27bff",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State QB Atkinson's status uncertain for Boise State game",
+        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-qb-braden-atkinson-going-through-further-testing-of-hand-injury-before-boise-state-game.html",
+        "link_kind": "item",
+        "date": "2026-11-12T19:27:35+00:00",
+        "summary": "Atkinson is still undergoing medical evaluation to see if he can play in Saturday’s game.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "3693553085faf69f",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State basketball lands 3-star center for 2027 class",
+        "link": "https://www.oregonlive.com/recruiting/2026/11/oregon-state-basketball-lands-3-star-center-for-2027-class.html",
+        "link_kind": "item",
+        "date": "2026-11-12T19:25:49+00:00",
+        "summary": "Oregon State basketball added a second center to its 2027 recruiting class.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "8f713f9bf9c488da",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Oregon State wins big, but loses backup point guard to injury",
         "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-womens-basketball-beats-nw-nazarene-backup-point-guard-injured.html",
@@ -4098,7 +4155,7 @@
         "medium": "audio"
       },
       {
-        "title": "What JaMarcus Shephard said abut Oregon State’s loss to Texas State, matchup with Boise State",
+        "title": "What JaMarcus Shephard said about Oregon State’s loss to Texas State, matchup with Boise State",
         "link": "https://www.oregonlive.com/beavers/2026/11/live-updates-jamarcus-shephard-recaps-oregon-states-loss-to-texas-state-previews-matchup-with-boise-state.html",
         "link_kind": "item",
         "date": "2026-11-09T19:00:48+00:00",
@@ -4476,20 +4533,6 @@
         "medium": "text"
       },
       {
-        "title": "Can Oregon State prevent Texas State’s Tymere Jackson from wrecking havoc?",
-        "link": "https://www.oregonlive.com/beavers/2026/11/texas-states-tymere-jackson-is-probably-the-best-edge-rusher-oregon-state-has-faced-can-the-beavers-contain-him.html",
-        "link_kind": "item",
-        "date": "2026-11-06T00:00:52+00:00",
-        "summary": "Oregon State faces a significant challenge as Texas State's Tymere Jackson, described as the best edge rusher the Beavers have seen, arrives while OSU's offensive line struggles after allowing five sacks last week.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "4db591426111e9ff",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "AJ Winsor On Ray Guy Award Midseason Watch List",
         "link": "https://osubeavers.com/news/2026/11/5/football-aj-winsor-on-ray-guy-award-midseason-watch-list",
         "link_kind": "item",
@@ -4599,20 +4642,6 @@
         "channel_url": "",
         "source": "Oregon State Athletics",
         "id": "22a37587ed737a0b",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Beavs Host Falcons for Exhibition",
-        "link": "https://osubeavers.com/news/2026/10/30/beavs-host-falcons-for-exhibition",
-        "link_kind": "item",
-        "date": "2026-10-31T00:42:00+00:00",
-        "summary": "<img alt=\"WBB Team\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/30/27WBB_Media_Day__Team_Photo_0053.jpg\" /><br /><br />Fans who attend a soccer match or volleyball game over the weekend of October 30-November 1 can present their ticket at the ticket window for a discounted general admission ticket. The offer is valid in-person only.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "1377bd0d8f98c9cf",
         "sport": "wbb",
         "medium": "text"
       },
@@ -4735,6 +4764,76 @@
       }
     ],
     "San Diego State": [
+      {
+        "title": "SDSU’s Student-Athlete Advisory Committee takes initiative ahead of the 10th annual Aztecs for Life Blood Drive",
+        "link": "https://thedailyaztec.com/129947/sports/sdsus-student-athlete-advisory-committee-takes-initiative-ahead-of-the-10th-annual-aztecs-for-life-blood-drive/",
+        "link_kind": "item",
+        "date": "2026-11-13T00:04:34+00:00",
+        "summary": "The Aztecs for Life Blood Drive returns to San Diego State’s campus next Thursday for the 10th straight year. The event is a collaboration between SDSU and the American Red Cross, but this year features a slight twist.  SDSU Athletics and its marketing team worked alongside the university’s Student-Athlete Advisory Committee (SAAC) to get as...",
+        "author": "Tyler Bowne, Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "9b3bb503acf5ea41",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "SDSU basketball survives scare from Bethune-Cookman with a victory",
+        "link": "https://thedailyaztec.com/129941/sports/sdsu-basketball-survives-scare-from-bethune-cookman-with-a-victory/",
+        "link_kind": "item",
+        "date": "2026-11-12T21:16:57+00:00",
+        "summary": "The San Diego State Aztecs (3-0) notched their third straight win against the Bethune-Cookman Wildcats (0-4) Wednesday afternoon at Viejas Arena by way of an 88-75 final score.  Despite entering the contest with an 0-3 record, the Wildcats were a lurking threat to the Aztecs’ hot start to the season. “I thought they were the...",
+        "author": "Will Magni, Staff Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "44b266e640433ce4",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Turnovers prove costly as Colorado hands SDSU its first loss of the season",
+        "link": "https://thedailyaztec.com/129931/sports/turnovers-prove-costly-as-colorado-hands-sdsu-its-first-loss-of-the-season/",
+        "link_kind": "item",
+        "date": "2026-11-12T20:00:17+00:00",
+        "summary": "Offensive struggles and 21 turnovers ultimately proved costly for the San Diego State Aztecs (3-1) as they fell to the Colorado Buffaloes (3-0) 64-55 on Wednesday, snapping their 16-game home winning streak dating back to last season. The Aztecs got off to a slow start, only scoring six points in the opening quarter; this allowed...",
+        "author": "William Trowbridge, Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "3c9f52553510b6ee",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs Stumble vs. Colorado 64-55",
+        "link": "https://goaztecs.com/news/2026/11/11/aztecs-stumble-vs-colorado-64-55",
+        "link_kind": "item",
+        "date": "2026-11-12T06:29:00+00:00",
+        "summary": "The San Diego State women’s basketball team (3-1) had their 16-game home win streak snapped with a 64-55 loss to Colorado (3-0) inside Viejas Arena Wednesday evening.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "aa5fb3fa0873b8a2",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Women's Basketball v Colorado",
+        "link": "https://goaztecs.com/news/2026/11/11/womens-basketball-v-colorado",
+        "link_kind": "item",
+        "date": "2026-11-12T05:32:38+00:00",
+        "summary": "11 November 2026: San Diego State women’s basketball lost to Colorado 64-55 Wednesday night at Viejas Arena.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "05a958a313532834",
+        "sport": "wbb",
+        "medium": "text"
+      },
       {
         "title": "Aztecs Defeat Bethune-Cookman 88-75",
         "link": "https://goaztecs.com/news/2026/11/11/aztecs-defeat-bethune-cookman-to-improve-to-3-0",
@@ -4972,48 +5071,6 @@
         "source": "San Diego State Athletics",
         "id": "f556c7ef3e82d9d4",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Women’s basketball capitalizes on a rowdy crowd in a hard-fought victory against North Texas",
-        "link": "https://thedailyaztec.com/129783/sports/womens-basketball-capitalizes-on-a-rowdy-crowd-in-a-hard-fought-victory-against-north-texas/",
-        "link_kind": "item",
-        "date": "2026-11-07T00:00:41+00:00",
-        "summary": "The San Diego State Aztecs (2-0) continued their winning ways with a 73-57 victory against the North Texas Mean Green (1-1) at Viejas Arena on Thursday morning.  After a 30-30 deadlock at halftime and allowing a 9-0 run by North Texas to open the third quarter, the Aztecs&#8217; second-half response proved to be the deciding...",
-        "author": "Tyler Ross, Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "a97ccf4eb4888fd8",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Natalia Martinez steps up in new role amid Naomi Panganiban’s absence",
-        "link": "https://thedailyaztec.com/129778/sports/natalia-martinez-steps-up-in-new-role-amid-naomi-panganibans-absence/",
-        "link_kind": "item",
-        "date": "2026-11-06T22:43:12+00:00",
-        "summary": "San Diego State (2-0) has leaned on junior guard Natalia Martinez offensively after losing Naomi Panganiban to a lower leg injury, sidelining her indefinitely.  Martinez displayed her ability on Thursday by scoring a game-high 25 points against North Texas (1-1) in San Diego State&#8217;s 73-57 win at Viejas Arena. Martinez shot 7-for-11 from the field...",
-        "author": "William Trowbridge, Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "a987c81e85245539",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Through trials and tribulations, Katie Senn continues to pledge her allegiance to SDSU women’s soccer",
-        "link": "https://thedailyaztec.com/129773/sports/through-trials-and-tribulations-katie-senn-continues-to-pledge-her-allegiance-to-sdsu-womens-soccer/",
-        "link_kind": "item",
-        "date": "2026-11-06T18:52:55+00:00",
-        "summary": "Five seasons can bring plenty of change in college athletics — players come and go, and new faces enter the locker room every season. However, for San Diego State women’s soccer, two things have remained consistent: midfielder Katie Senn and her allegiance to the Scarlet and Black. Now in her fifth year as an Aztec,...",
-        "author": "Jesus Garcia, Staff Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "62af3b8fbe8634d5",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -6218,37 +6275,79 @@
         "extent": "1h 19m",
         "sport": "all",
         "medium": "audio"
-      },
+      }
+    ],
+    "Texas State": [
       {
-        "title": "Monday, Sept. 28 Press Conference",
-        "link": "https://goaztecs.com/news/2026/09/28/monday-sept-28-press-conference",
+        "title": "Texas State Hosts Southern Miss in First-Ever Non-Conference Meeting",
+        "link": "https://txst.com/news/2026/11/12/mens-basketball-texas-state-hosts-southern-miss-in-first-ever-non-conference-meeting.aspx",
         "link_kind": "item",
-        "date": "2026-09-28T22:37:18+00:00",
-        "summary": "Head football coach Sean Lewis was joined by seniors Jacob Bostick and Jalen Thomeson as they previewed the Aztec's Pac-12 conference opener against Texas State.",
+        "date": "2026-11-12T22:56:00+00:00",
+        "summary": "<img alt=\"Quel'Ron House\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/261102_MBB_CCA_M_AL_GAME-09.jpg\" /><br /><br />SAN MARCOS, Texas – Texas State (2-0) chases its best start since 1980-81 hosting former Sun Belt Conference foe Southern Miss (2-1) on Friday night. Tipoff from Strahan Arena is scheduled for 7 p.m. CT.",
         "author": "",
         "duration": null,
         "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "fb58ad053fc16d93",
+        "source": "Texas State Athletics",
+        "id": "ef9a203a00b2e278",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Texas State Hosts Texas A&M-Corpus Christi for Annual Kids Game",
+        "link": "https://txst.com/news/2026/11/12/womens-basketball-texas-state-hosts-texas-am-corpus-christi-for-annual-kids-game.aspx",
+        "link_kind": "item",
+        "date": "2026-11-12T21:40:00+00:00",
+        "summary": "<img alt=\"Lay Fantroy Going for Layup\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/IMG_4879.jpg\" /><br /><br />SAN MARCOS, Texas – After an impressive 2-0 start that featured a total of 175 points across the two games, Texas State Women's Basketball returns home for an early afternoon game against Texas A&M-Corpus Christi.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "883ea43faa55af19",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Game Preview: TXST vs Fresno State",
+        "link": "https://txst.com/news/2026/11/12/football-game-preview-txst-vs-fresno-state.aspx",
+        "link_kind": "item",
+        "date": "2026-11-12T19:37:00+00:00",
+        "summary": "<img alt=\"TXST football game vs Colorado State\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/261610_FB_COLORADOSTATE_KP-CELEBRATION-67.jpg\" /><br /><br />Texas State (5-4, 3-2 Pac-12) vs Fresno State (5-4, 2-3)\n\nSaturday, Nov. 14, 2026\nUFCU Stadium (28,000) | San Marcos, Texas\nKickoff: 3:00 p.m.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "6f8a8c989ee53c46",
         "sport": "football",
         "medium": "text"
       },
       {
-        "title": "Tickets for Compete 4 Cause Classic on Sale October 5",
-        "link": "https://goaztecs.com/news/2026/09/28/tickets-for-compete-4-cause-classic-on-sale-october-5",
+        "title": "Return of the King: TXST MBB Scoring Leader returns back to San Marcos",
+        "link": "https://universitystar.com/37142/sports/return-of-the-king-txst-mbb-scoring-leader-returns-back-to-san-marcos/",
         "link_kind": "item",
-        "date": "2026-09-28T17:14:56+00:00",
-        "summary": "Tickets can be purchased online through AXS.com for the San Diego State vs. New Mexico State men’s basketball game at Frontwave Arena on Monday, October 5.",
-        "author": "",
+        "date": "2026-11-12T18:00:30+00:00",
+        "summary": "The number 2,122 represents years of memories and accomplishments for the all-time Texas State men’s basketball scoring leader, Nijal Pearson. Now, the former Bobcat standout has returned to San Marcos, in a new development role. Pearson played four seasons at Texas State from 2016-20 and finished as the program’s all-time leading scorer. He earned Sun...",
+        "author": "Kaden Cuyler, News Reporter",
         "duration": null,
         "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "b17f8192ff57e1a9",
-        "sport": "mbb",
+        "source": "The University Star",
+        "id": "4d8f0a3e7d591f86",
+        "sport": "all",
         "medium": "text"
-      }
-    ],
-    "Texas State": [
+      },
+      {
+        "title": "Texas State Gymnastics announces inaugural signing class",
+        "link": "https://universitystar.com/37160/sports/texas-state-gymnastics-announces-inaugural-signing-class/",
+        "link_kind": "item",
+        "date": "2026-11-12T17:00:13+00:00",
+        "summary": "Texas State Gymnastics is entering a new era under head coach Sarah Brown, announcing the inaugural signing class on via press release Wednesday, Nov. 11, marking a historic milestone for the first NCAA Division I gymnastics program in the state of Texas. The inaugural class features four native Texans combined with athletes from the states...",
+        "author": "Kaden Cuyler, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "96a918d300d0ba9a",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Bobcats Sign Guard Jayden Hopkins on National Signing Day",
         "link": "https://txst.com/news/2026/11/11/mens-basketball-bobcats-sign-guard-jayden-hopkins-on-national-signing-day.aspx",
@@ -6544,34 +6643,6 @@
         "medium": "text"
       },
       {
-        "title": "TXST Cross Country runs together into Pac-12 era",
-        "link": "https://universitystar.com/37087/sports/txst-cross-country-runs-together-into-pac-12-era/",
-        "link_kind": "item",
-        "date": "2026-11-05T20:09:41+00:00",
-        "summary": "Though often overlooked, Cross Country is a sport that tests athletes physically and mentally, building endurance and discipline. Beyond the miles and race times, it also offers a sense of unity as teammates work toward a common goal. While Track &#38; Field and Cross Country are two separate sports with separate times of competitions, they...",
-        "author": "Cody Dotson, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "eb054dfd927c04ba",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Fantroy reaches 1,000 as ‘Cats defeat Sharks to open season",
-        "link": "https://universitystar.com/37080/sports/frantoy-reaches-1000-as-cats-defeat-sharks-to-open-season/",
-        "link_kind": "item",
-        "date": "2026-11-05T17:00:56+00:00",
-        "summary": "Junior Saniya Burks put up a 20 piece as the Texas State Bobcats brought home a victory in Chris Kielsmeier’s first game as head coach, beating the Long Island Sharks 69-51 in the season opener Wednesday evening at Strahan Arena. Three players for the Bobcats (1-0) led the scoring with Burks’ 20, closely followed by...",
-        "author": "Cooper Yarbough, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "ff27ddb0fab46986",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Texas State Earns First Win in Kielsmeier Era Over Long Island",
         "link": "https://txst.com/news/2026/11/4/womens-basketball-texas-state-earn-first-win-in-kielsmeier-era-over-long-island.aspx",
         "link_kind": "item",
@@ -6698,20 +6769,6 @@
         "medium": "text"
       },
       {
-        "title": "Pac-12 Preseason Impact Players and Media Poll Announced",
-        "link": "https://txst.com/news/2026/10/29/mens-basketball-pac-12-preseason-impact-players-and-media-poll-announced.aspx",
-        "link_kind": "item",
-        "date": "2026-10-29T18:00:00+00:00",
-        "summary": "<img alt=\"Friday Night Lights - MBB Team with Boko and Koko\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/29/DSC00614__1_.JPG\" /><br /><br />SAN RAMON, Calif. – The Pac-12 Conference released its Preseason Media Poll and the Preseason Impact List on Thursday, with the Bobcats picked to finish seventh alongside forwards DJ Hall and Paul Djobet earning recognition.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "42f7cbd939cdb08b",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "WATCH: TXST Football Media Availability vs Boise State (102726)",
         "link": "https://txst.com/news/2026/10/27/watch-txst-football-media-availability-vs-boise-state-102726.aspx",
         "link_kind": "item",
@@ -6724,37 +6781,23 @@
         "id": "13f172c032a176b0",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "Jenkins Named Pac-12 Special Teams Player of the Week",
-        "link": "https://txst.com/news/2026/10/26/football-jenkins-named-pac-12-special-teams-player-of-the-week.aspx",
-        "link_kind": "item",
-        "date": "2026-10-26T22:54:00+00:00",
-        "summary": "<img alt=\"Jaylen Jenkins Touchdown Run\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/26/261024_FBvsUtah_TD__5_-38.jpg\" /><br /><br />SAN MARCOS, Texas – Texas State football's Jaylen Jenkins was named Pac-12 Special Teams Player of the Week after returning a kickoff 100 yards for a touchdown in the Bobcats' 20-17 win over Utah State.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "08b78f9dc9a82e31",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WATCH: TXST WBB Media Availability",
-        "link": "https://txst.com/news/2026/10/22/womens-basketball-watch-txst-wbb-media-availability.aspx",
-        "link_kind": "item",
-        "date": "2026-10-22T21:35:00+00:00",
-        "summary": "<img alt=\"TXST WBB Media Day\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/22/Screenshot_2026-10-22_at_1.37.57_PM.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "f1a55ab5fe65e6d6",
-        "sport": "wbb",
-        "medium": "text"
       }
     ],
     "Utah State": [
+      {
+        "title": "Utah State Welcomes UC San Diego to Town on Friday",
+        "link": "https://utahstateaggies.com/news/2026/11/12/mens-basketball-utah-state-welcomes-uc-san-diego-to-town-on-friday.aspx",
+        "link_kind": "item",
+        "date": "2026-11-12T21:48:00+00:00",
+        "summary": "<img alt=\"Solomon Callaghan\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/PAN_USUMBBvsUtahTech6180.jpg\" /><br /><br />Utah State men's basketball (3-0, 0-0 Pac-12) plays game four of its 2026-27 campaign this weekend as it welcomes the UC San Diego Tritons (2-0, 0-0 Big West) to the Dee Glen Smith Spectrum on Friday, Nov. 13. Game time is set for 8 p.m. The game will be broadcast nationally on The CW. Fans can also listen to Utah State's radio broadcast on 610 AM/102.1 FM in Logan and 1280 AM/97.5 FM in Salt Lake City.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "c3c36a5a2429cc20",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "USU outlasts Gonzaga in overtime thriller to advance to Pac-12 championship",
         "link": "https://usustatesman.com/usu-outlasts-gonzaga-in-overtime-thriller-to-advance-to-pac-12-championship/",
@@ -7251,20 +7294,6 @@
         "medium": "text"
       },
       {
-        "title": "Mason Falslev Named to Jerry West Award Watch List",
-        "link": "https://utahstateaggies.com/news/2026/10/27/mens-basketball-mason-falslev-named-to-jerry-west-award-watch-list.aspx",
-        "link_kind": "item",
-        "date": "2026-10-27T18:00:00+00:00",
-        "summary": "<img alt=\"Mason Falslev\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/Mason_Falslev3.jpg\" /><br /><br />Utah State senior guard Mason Falslev was named to the 2026-27 Jerry West Shooting Guard of the Year Top 20 Preseason Watch List, it was announced by the Naismith Basketball Hall of Fame on Tuesday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "4a1aa27788090cd0",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Aggie basketball picks up win in exhibition showcase vs Santa Clara",
         "link": "https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/Aggie-basketball-picks-up-win-in-exhibition-showcase-vs-Santa-Clara-e3r5flk",
         "link_kind": "item",
@@ -7530,7 +7559,7 @@
         "link": "http://www.spokesman.com/stories/2026/nov/11/turnovers-have-often-eluded-wsu-which-has-forced-o/",
         "link_kind": "item",
         "date": "2026-11-11T00:00:00+00:00",
-        "summary": "<p>PULLMAN – A steady pitter-patter of rain fell overhead, providing a melancholy soundtrack on top of the locker room at Snapdragon Stadium, the site of Washington State’s latest showing. Jaylen Thomas, the Cougars’ best safety, stood in front of a crimson-and-white backdrop, his white jersey sporting a black stain on his right shoulder and a mix of black and green near the center of his uniform.</p><p>It was Halloween night, and things had gotten spooky for the Cougars, who had just dropped a six-point decision to the Aztecs. They made things interesting late in the fourth quarter, scrapping within one score, but their comeback fizzled out with a turnover on downs. They fell to 1-8 with the setback.</p><p>Thomas, though, had done his part. He earned the biggest stains on his uniform early in the third quarter, when linebacker Keith Brown tipped a pass into the air, where Thomas reeled it in and returned it 17 yards before he was dragged down deep in SDSU territory. It was his third interception of the season, the most by a Cougar since 2024.</p><p>“Keith made his play, and I was just in the right spot at the right time,” Thomas said. “Happened to be under the ball. Trusted myself, and just let my athleticism take over after that.”</p><p>One of Thomas’ best attributes is his awareness. In his first season at WSU, he’s leveraged it all kinds of ways: To snare two interceptions against Kansas State, to return one of them for a touchdown. To take a punt back for a touchdown against FCS Duquesne the week after. To break up two other passes in the games since. “I feel like putting in the work now,” he said back in September, “so I can have an easier life later.”</p><p>But only moments after describing his interception against SDSU, he used his awareness in a different way. He used it to add this: “Gotta create more takeovers from a defensive standpoint to help the offense start in a better position on the field and just help the team overall, with the turnover battle as well.”</p><p>It was a cogent point from Thomas, whose group has struggled to force turnovers this season. In nine games, the Cougars have forced only six turnovers, which is tied for No. 132 of 138 FBS teams. Only two other teams in the country have created fewer. Ahead of WSU’s final stretch of three games, which begins with a home matchup against Colorado State this weekend, it’s becoming a blight on the Cougs’ resume.</p><p>Here are the five turnovers that WSU’s defense has forced: Thomas’ two interceptions against Kansas State, Jackquintin Bal’s pick-six against Arizona, a fumble forced by Jirah Leaupepetele and recovered by Khamari Terrell against Fresno State, plus Thomas’ interception against SDSU. The Cougars also get credit for Utah State’s muffed kickoff, which was recovered by linebacker Carsten Reynolds, but strictly speaking, that doesn’t belong to their defense.</p><!--[photo id=933159]--><p>With those turnovers, the Cougars have given themselves chances to swing games and eke out wins, but those have not surfaced for this group. Their defense has forced only one turnover in their last four games, and that may not be the whole story from WSU’s recent stretch of setbacks, but goes a decent way in explaining the reasons behind them.</p><p>Think about this, which Thomas also seemed to be aware of: The Cougars’ inability to generate turnovers is costing their offense, and even with redshirt freshman Owen Eshleman looking sharp at the controls, that unit has left something to be desired too. WSU currently ranks four spots up from dead last in BCF Toys’ field position rankings, checking in at No. 134 nationally.</p><p>Additionally, the Cougars have only started  about 7% of drives past their own 40 yard line, which can be traced in large part to their defense’s lack of turnovers.</p><p>So what’s behind that pattern? One of the biggest explanations is one number: Eight. That’s WSU’s total sacks this fall, which ranks No. 134 in the country. Only two other teams have brought down opposing quarterbacks less. The Cougars have not registered any sacks in their last three games.</p><p>For WSU, it registers as something of a surprising development, especially considering the weapons that defensive ends Matyus McLain and Linus Zunk have flourished into. McLain has picked up 25 QB pressures, according to Pro Football Focus, which ranks fifth in the Pac-12. But he’s only gotten home for one sack. Zunk has swarmed in for 18 pressures, but he has only two sacks to his name.</p><p>It raises the burning question: What gives?</p><p>“I think naturally, teams we play do have a plan to get the ball out,” WSU coach Kirby Moore said, “or they’re chipping Matyus and Linus, and so you gotta give them credit as well, and that’s forced them to get the ball out quicker at times. We’ve been close. We had opportunities even in the San Diego State game there, where the quarterback got out, kinda made a late lateral there to the back.”</p><p>“We gotta finish,” Moore added. “That’s definitely something that we looked at on the opportunities that we had as well, because a lot of times when you get a sack, it at times can equal a sack-fumble, and you create a turnover.”</p><p>Can the Cougars force one or two of those against Colorado State? The Rams may have the country’s worst defense, allowing an average of 45 points per game, but they actually rank No. 18 nationally in turnover margin: plus-6. They’ve lost only 8 turnovers, which is No. 24 in the country and second in the Pac-12.</p><p>To earn FBS win No. 1, WSU may have to turn that trend around. The good news for the Cougars is they have a guy who has become pretty skilled at being in the right place at the right time.</p><p>“It starts at practice, just taking everything more seriously,” Thomas said after the SDSU game. “Just looking, having some self-reflection and just looking inward. Everybody having the mindset of, ‘what can I do better to help the team?’ I really take that to heart. Try to just focus on what I can control to help the team succeed, and you that’s what we all try to do.”</p>",
+        "summary": "<p>PULLMAN – A steady pitter-patter of rain fell overhead, providing a melancholy soundtrack on top of the locker room at Snapdragon Stadium, the site of Washington State’s latest showing. Jaylen Thomas, the Cougars’ best safety, stood in front of a crimson-and-white backdrop, his white jersey sporting a black stain on his right shoulder and a mix of black and green near the center of his uniform.</p><p>It was Halloween night, and things had gotten spooky for the Cougars, who had just dropped a six-point decision to the Aztecs. They made things interesting late in the fourth quarter, scrapping within one score, but their comeback fizzled out with a turnover on downs. They fell to 1-8 with the setback.</p><p>Thomas, though, had done his part. He earned the biggest stains on his uniform early in the third quarter, when linebacker Keith Brown tipped a pass into the air, where Thomas reeled it in and returned it 17 yards before he was dragged down deep in SDSU territory. It was his third interception of the season, the most by a Cougar since 2024.</p><p>“Keith made his play, and I was just in the right spot at the right time,” Thomas said. “Happened to be under the ball. Trusted myself, and just let my athleticism take over after that.”</p><p>One of Thomas’ best attributes is his awareness. In his first season at WSU, he’s leveraged it all kinds of ways: To snare two interceptions against Kansas State, to return one of them for a touchdown. To take a punt back for a touchdown against FCS Duquesne the week after. To break up two other passes in the games since. “I feel like putting in the work now,” he said back in September, “so I can have an easier life later.”</p><p>But only moments after describing his interception against SDSU, he used his awareness in a different way. He used it to add this: “Gotta create more takeovers from a defensive standpoint to help the offense start in a better position on the field and just help the team overall, with the turnover battle as well.”</p><p>It was a cogent point from Thomas, whose group has struggled to force turnovers this season. In nine games, the Cougars have forced only six turnovers, which is tied for No. 132 of 138 FBS teams. Only two other teams in the country have created fewer. Ahead of WSU’s final stretch of three games, which begins with a home matchup against Colorado State this weekend, it’s becoming a blight on the Cougs’ resume.</p><p>Here are the five turnovers that WSU’s defense has forced: Thomas’ two interceptions against Kansas State, Jackquintin Bal’s pick-six against Arizona, a fumble forced by Jirah Leaupepetele and recovered by Khamari Terrell against Fresno State, plus Thomas’ interception against SDSU. The Cougars also get credit for Utah State’s muffed kickoff, which was recovered by linebacker Carsten Reynolds, but strictly speaking, that doesn’t belong to their defense.</p><!--[photo id=933159]--><p>With those turnovers, the Cougars have given themselves chances to swing games and eke out wins, but those have not surfaced for this group. Their defense has forced only one turnover in their last four games, and that may not be the whole story from WSU’s recent stretch of setbacks, but goes a decent way in explaining the reasons behind them.</p><p>Think about this, which Thomas also seemed to be aware of: The Cougars’ inability to generate turnovers is costing their offense, and even with redshirt freshman Owen Eshelman looking sharp at the controls, that unit has left something to be desired too. WSU currently ranks four spots up from dead last in BCF Toys’ field position rankings, checking in at No. 134 nationally.</p><p>Additionally, the Cougars have only started  about 7% of drives past their own 40 yard line, which can be traced in large part to their defense’s lack of turnovers.</p><p>So what’s behind that pattern? One of the biggest explanations is one number: Eight. That’s WSU’s total sacks this fall, which ranks No. 134 in the country. Only two other teams have brought down opposing quarterbacks less. The Cougars have not registered any sacks in their last three games.</p><p>For WSU, it registers as something of a surprising development, especially considering the weapons that defensive ends Matyus McLain and Linus Zunk have flourished into. McLain has picked up 25 QB pressures, according to Pro Football Focus, which ranks fifth in the Pac-12. But he’s only gotten home for one sack. Zunk has swarmed in for 18 pressures, but he has only two sacks to his name.</p><p>It raises the burning question: What gives?</p><p>“I think naturally, teams we play do have a plan to get the ball out,” WSU coach Kirby Moore said, “or they’re chipping Matyus and Linus, and so you gotta give them credit as well, and that’s forced them to get the ball out quicker at times. We’ve been close. We had opportunities even in the San Diego State game there, where the quarterback got out, kinda made a late lateral there to the back.”</p><p>“We gotta finish,” Moore added. “That’s definitely something that we looked at on the opportunities that we had as well, because a lot of times when you get a sack, it at times can equal a sack-fumble, and you create a turnover.”</p><p>Can the Cougars force one or two of those against Colorado State? The Rams may have the country’s worst defense, allowing an average of 45 points per game, but they actually rank No. 18 nationally in turnover margin: plus-6. They’ve lost only 8 turnovers, which is No. 24 in the country and second in the Pac-12.</p><p>To earn FBS win No. 1, WSU may have to turn that trend around. The good news for the Cougars is they have a guy who has become pretty skilled at being in the right place at the right time.</p><p>“It starts at practice, just taking everything more seriously,” Thomas said after the SDSU game. “Just looking, having some self-reflection and just looking inward. Everybody having the mindset of, ‘what can I do better to help the team?’ I really take that to heart. Try to just focus on what I can control to help the team succeed, and you that’s what we all try to do.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -9857,20 +9886,6 @@
         "extent": "24 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Cougs blew it in more ways than one",
-        "link": "https://jimmoorethego2guy.substack.com/p/cougs-blew-it-in-more-ways-than-one",
-        "link_kind": "item",
-        "date": "2026-10-10T15:50:08+00:00",
-        "summary": "Not only the game to Utah State, but by not making a change at QB, Kirby Moore paid the price.",
-        "author": "Jim Moore",
-        "duration": null,
-        "channel_url": "",
-        "source": "Jim Moore's Substack",
-        "id": "fb034e7d7b56cd18",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "Coug Talk (WSU vs. Utah State) 10-9-26",
