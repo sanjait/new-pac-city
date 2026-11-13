@@ -27699,6 +27699,199 @@
       ],
       "extent": "6 min read",
       "run": "run_2026-11-12-1442"
+    },
+    "17edaf2191dcff67": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Fresno State women's basketball's 74-56 win over New Mexico in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-13-0241"
+    },
+    "17ff350c58f27bff": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is about NVIDIA's CEO resigning amid a scandal; it only notes he is an Oregon State alum and names a campus building, with nothing about OSU athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jenna Benson"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-13-0241"
+    },
+    "3693553085faf69f": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary identify Oregon State's starting quarterback and his uncertain availability for Saturday's football game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-13-0241"
+    },
+    "3c9f52553510b6ee": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps SDSU women's basketball's 64-55 loss to Colorado in detail, with quotes from the team's head coach and players.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "William Trowbridge"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-13-0241"
+    },
+    "44b266e640433ce4": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps SDSU men's basketball's 88-75 win over Bethune-Cookman in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Will Magni"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-13-0241"
+    },
+    "4d8f0a3e7d591f86": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece covers former Texas State men's basketball scoring leader Nijal Pearson's return to the program in a new player-development staff role.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-13-0241"
+    },
+    "6b21e8c8f6d56863": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The digest's actual content covers Wyoming and UNLV, not a covered school, and the one Boise/Pac-12 title-race item is a bare headline teaser with no elaboration.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The teaser line 'PAC-12 Title Race Four Teams, One Trip to Boise' may concern Boise State, but the text gives nothing past that fragment to confirm it figures substantively.",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-13-0241"
+    },
+    "8f713f9bf9c488da": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary confirm an Oregon State basketball recruiting commitment, but do not say men's or women's, so the department key is used.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-13-0241"
+    },
+    "8f748571a2f8af50": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The ruling clears a Gonzaga men's basketball transfer to play, directly affecting the team's eligibility and roster for Saturday's game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-13-0241"
+    },
+    "96a918d300d0ba9a": {
+      "subjects": {
+        "texas-state/womens-gymnastics": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece announces Texas State gymnastics' inaugural signing class under head coach Sarah Brown.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-13-0241"
+    },
+    "96ec2a27f0ba4528": {
+      "subjects": {
+        "boise-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The full text recaps Boise State men's basketball's 111-79 win over Oakland in detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-13-0241"
+    },
+    "9b3bb503acf5ea41": {
+      "subjects": {
+        "san-diego-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece covers SDSU Athletics' and its Student-Athlete Advisory Committee's community blood-drive initiative, a department-wide effort rather than any one team's competition.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "It is a charity/community-engagement story rather than competition or operations, so whether it counts as athletics-department coverage under the registry is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Tyler Bowne"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-13-0241"
+    },
+    "b0d3c3a616be57d2": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece discusses Gonzaga men's basketball's early results and whether they mean anything, plus a possible roster addition.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-11-13-0241"
     }
   },
   "runs": {
@@ -32063,6 +32256,34 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 29.12855509998917,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-13-0241": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-13T02:39:51.413428+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 11,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 32.47975380000207,
       "tokens": null,
       "tokens_source": null
     }
