@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-13T02:03:46.862358+00:00",
+  "generated_at": "2026-11-13T14:03:21.101387+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Air Force Football: Flying High",
+        "link": "https://www.mwcconnection.com/air-force-falcons-football/95800/air-force-football-flying-high",
+        "link_kind": "item",
+        "date": "2026-11-12T18:00:00+00:00",
+        "summary": "It was almost exactly four years to the day, since Air Force last secured the Commander-in-Chief’s Trophy by defeating both Army and Navy in the same season. That awful drought ended last Saturday night, in front of a packed crowd at Michie stadium in West Point, New York. If you tuned in to the Fox [&#8230;]",
+        "author": "Sean OToole",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "81ef45f9ff9b81ce",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Is the Expansion of the College Football Playoff the Death of College Football as We Know It?",
+        "link": "https://www.mwcconnection.com/college-football-playoff/95718/college-football-playoff-expansion-power-four-group-six",
+        "link_kind": "item",
+        "date": "2026-11-12T17:00:00+00:00",
+        "summary": "Well, we all knew this was going to happen, but it still stings like a son of a gun, doesn’t it? The cat’s out of the bag, the CFP and ESPN reached a new, around $1.7 billion deal yesterday that gives the sports channel exclusive broadcasting rights for the playoffs until 2031 and expands the [&#8230;]",
+        "author": "Derek Raridon",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "c1f79ab0e295f018",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Stats Corner: PAC-12 Title Race Four Teams, One Trip to Boise",
+        "link": "https://www.mwcconnection.com/pac-12-football/95781/stats-corner-pac-12-title-race-four-teams-one-trip-to-boise",
+        "link_kind": "item",
+        "date": "2026-11-12T16:00:00+00:00",
+        "summary": "With two weeks remaining before the flex game, which has no bearing on championship-game qualification, the Pac-12 race is effectively down to a fight for second place. Assuming Boise State takes care of business in its final two contests, the Broncos will host the championship game. The bigger question is who will be making the [&#8230;]",
+        "author": "Toby McMahon",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "bc940b8559664c96",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Pac-Mountain Pulse Ep. 17: Who will be in the CFP: New Mexico or Boise State? And the Importance of Bowl Games",
+        "link": "https://www.mwcconnection.com/podcast/95824/pac-12-mountain-west-podcast-new-mexico-boise-state-college-football-playoff-bowl-game-discussion",
+        "link_kind": "item",
+        "date": "2026-11-12T15:00:00+00:00",
+        "summary": "Hello and welcome back to the Pac-Mountain Pulse, a Mountain West Connection podcast! In this episode, Derek and Dom discuss who they think will make the College Football Playoff between New Mexico and Boise State, then get into their thoughts on how important bowl games are to the college football world and why they should [&#8230;]",
+        "author": "Derek Raridon",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "0b13887893c69542",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Mountaintop View 11-12-26",
         "link": "https://www.mwcconnection.com/mountain-west-news/95797/mountain-west-pac-12-football-basketball-boise-atkinson",
@@ -101,20 +157,6 @@
         "medium": "text"
       },
       {
-        "title": "Mountaintop View 11-11-26: CFP Rankings, The Border War, plus more",
-        "link": "https://www.mwcconnection.com/boise-state-broncos-football/95772/mountaintop-view-11-11-26-cfp-rankings-the-border-war-plus-more",
-        "link_kind": "item",
-        "date": "2026-11-11T14:00:00+00:00",
-        "summary": "Boise State up in the latest CFP rankings The Broncos have moved up in the latest CFP rankings out Tuesday night. The Border War Going On Hiatus The CSU-Wyoming football game has been played every year since 1946. Wyoming visited UNC on Tuesday The Cowboys paid a visit to Chapel Hill. How did it go? [&#8230;]",
-        "author": "Adam Evarts",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "1157eb40d612e957",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "This Week in Pac-12 Football - Week 11",
         "link": "http://pac-12.com/news/2026/11/11/this-week-in-pac-12-football-week-11.aspx",
         "link_kind": "item",
@@ -125,20 +167,6 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "5e4085f0e24ea41f",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "College Football Playoff rankings: Boise State ranks 24th in the rankings this week.",
-        "link": "https://www.mwcconnection.com/college-football-rankings/95685/college-football-playoff-rankings-boise-state-broncos-gameday",
-        "link_kind": "item",
-        "date": "2026-11-11T03:10:06+00:00",
-        "summary": "On the heels of the announcement that the College Football Playoff will expand to 24 teams starting next year, during the 2027 season, the 2026 rankings came out for another week. There was a good amount of movement overall in the full rankings, which can be seen here: However, looking a bit closer to home, [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "5245fae9641307cd",
         "sport": "football",
         "medium": "text"
       },
@@ -154,34 +182,6 @@
         "source": "Pac-12 Conference",
         "id": "1a1a4367f9ee14cb",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "What Can We Expect Out of “College Gameday” in Boise?",
-        "link": "https://www.mwcconnection.com/boise-state-broncos-football/95737/what-can-we-expect-out-of-college-gameday-in-boise",
-        "link_kind": "item",
-        "date": "2026-11-10T18:43:04+00:00",
-        "summary": "In an uncertain time for Group of Six football, ESPN’s College Gameday will shine a light on the best the non-powers have to offer: Saturday morning from the blue turf craziness that is Boise, Idaho. Packs of students will pack in like sardines, funny posters will be made and million-dollar field goals will be missed [&#8230;]",
-        "author": "Dan Allison",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "a380814bd5a74680",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountain West Connection Reacts Survey: Boise State & College Football Playoff Rankings",
-        "link": "https://www.mwcconnection.com/college-football-rankings/95697/college-football-playoff-rankings-boise-state-broncos",
-        "link_kind": "item",
-        "date": "2026-11-10T18:00:00+00:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NCAA. Throughout the year we ask questions of the most plugged-in Mountain West fans and fans across the country. Sign up here to participate in the weekly emailed surveys:",
-        "author": "Kyle Thele",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "77660957f6df5863",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -495,11 +495,11 @@
     ],
     "Boise State": [
       {
-        "title": "Boise State men’s basketball opens season 3-0 for first time since 2017-18",
-        "link": "https://www.arbiteronline.com/2026/11/12/boise-state-mens-basketball-opens-season-3-0-for-first-time-since-2017-18/",
+        "title": "Men’s basketball opens season 3-0 for first time since 2017",
+        "link": "https://www.arbiteronline.com/2026/11/12/mens-basketball-opens-season-3-0-for-first-time-since-2017/",
         "link_kind": "item",
         "date": "2026-11-13T01:17:28+00:00",
-        "summary": "<p>Boise State men’s basketball took down Oakland 111-79 at ExtraMile Arena Wednesday night, marking the Broncos’ third consecutive win and first time starting the regular season 3-0 since the 2017-18 campaign.&#160; Scoring at least 100 points in each of their first two contests, the victory over Oakland also marks the first time in program history [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/12/boise-state-mens-basketball-opens-season-3-0-for-first-time-since-2017-18/\">Boise State men’s basketball opens season 3-0 for first time since 2017-18</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "summary": "<p>Boise State men’s basketball took down Oakland 111-79 at ExtraMile Arena Wednesday night, marking the Broncos’ third consecutive win and first time starting the regular season 3-0 since the 2017-18 campaign.</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/12/mens-basketball-opens-season-3-0-for-first-time-since-2017/\">Men’s basketball opens season 3-0 for first time since 2017</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
         "author": "Jake Zamora",
         "duration": null,
         "channel_url": "",
@@ -577,6 +577,21 @@
         "id": "f7aa075680f29c63",
         "sport": "football",
         "medium": "text"
+      },
+      {
+        "title": "Coach Danielson Weekly 11-12-26",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/82beeaa5-6963-4876-a807-7c2d141e68b9.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-11-12T06:00:00+00:00",
+        "summary": "<p>Coach Danielson Weekly 11-12-26</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3529,
+        "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network",
+        "source": "The Bronco Sports Podcast Network",
+        "id": "f191954f0296a013",
+        "extent": "59 min",
+        "sport": "all",
+        "medium": "audio"
       },
       {
         "title": "Broncos Nab Convincing Win Over Oakland",
@@ -1318,6 +1333,20 @@
     ],
     "Colorado State": [
       {
+        "title": "Border War Returns to Moby Arena Friday Night",
+        "link": "https://csurams.com/news/2026/11/12/womens-basketball-border-war-returns-to-moby-arena-friday-night",
+        "link_kind": "item",
+        "date": "2026-11-12T22:32:00+00:00",
+        "summary": "<img alt=\"WBB Action\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/110626_at_Utah-65.jpg\" /><br /><br />CSU women's basketball hosts rival Wyoming",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "5d3edd8d36ee24e4",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Memorable Moments: Sharing Memories From Decades Past",
         "link": "https://csurams.com/news/2026/11/12/football-memorable-moments-sharing-memories-from-decades-past",
         "link_kind": "item",
@@ -1711,20 +1740,6 @@
         "source": "Colorado State Athletics",
         "id": "5d4a6f0514e30ddb",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Rams Dominate in Exhibition Win",
-        "link": "https://csurams.com/news/2026/10/28/womens-basketball-rams-dominate-in-exhibition-win",
-        "link_kind": "item",
-        "date": "2026-10-29T05:05:00+00:00",
-        "summary": "<img alt=\"WBB exhibition 2026\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/WBB_exhibition.jpg\" /><br /><br />CSU shows off strength of new roster",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "264192333a7d3d39",
-        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -2862,7 +2877,7 @@
         "link": "http://www.spokesman.com/stories/2026/nov/12/gonzagas-chauncey-wiggins-earns-preliminary-injunc/",
         "link_kind": "item",
         "date": "2026-11-12T00:00:00+00:00",
-        "summary": "<p>Spokane County Superior Court Judge Dean Chuang granted a preliminary injunction to Chauncey Wiggins on Thursday afternoon, clearing the fifth-year transfer to compete for Gonzaga this season while simultaneously ending a roller-coaster eligibility saga.</p><p>Chuang ruled in favor of Wiggins after an hour-long injunction hearing at Spokane County Courthouse, which was attended by Gonzaga coach Mark Few and teammates Braden Huff, Davis Fogle, Xaivian Lee, Javon Bennett, Parker Jefferson and Alonzo Metz.</p><p>With Thursday’s verdict, Wiggins indicated he’d make his debut for No. 14 Gonzaga on Saturday in a high-profile nonconference matchup against LSU at Numerica Veterans Arena (12:30 p.m., USA Network). The 6-foot-10 sharpshooter previously played three seasons at Clemson and one at Florida State before joining the Boston Celtics at NBA Summer League in July and subsequently pursuing a fifth year of college eligibility through the Godfrey vs. NCAA lawsuit in his home state of Georgia.</p><!--[embed id=12494]--><p>Wiggins withdrew from the Georgia lawsuit when the case was stayed, reversing the original injunction, and refiled to join the Wheeler vs. NCAA 5-in-5 case in Waco, Texas, where a larger group of student-athletes had previously received a temporary restraining order. Wiggins and other player plaintiffs from lawsuits in Georgia and Tennessee were denied the TRO for “a lack of personal jurisdiction,” prompting the Gonzaga player to seek relief in a third jurisdiction.</p><p>Wiggins was sidelined for Gonzaga’s season-opening wins against Purdue and New Mexico State, but Thursday’s injunction allows him to suit up against LSU on Saturday and the remainder of the 2026-27 season, barring any unforeseen circumstances.</p><p>Citing a shortage of judicial officers, Chuang set trial for May 10, 2027, meaning Wiggins’ case won’t be heard until at least one month after Gonzaga’s season ends. Chuang, a Gonzaga Law graduate, also restrained the NCAA from enforcing the rule of restitute, meaning the governing body can’t retroactively strip Gonzaga of victories or postseason awards while Wiggins is on the court.</p><p><em>This story will be updated.</em></p>",
+        "summary": "<p>Expressionless for more than an hour, Chauncey Wiggins finally exhaled, closing his eyes as he tilted his head back and processed four months of emotions.</p><p>“Really just took a deep breath and said, ‘Thank you, God,’ about 20 times,” Wiggins said.</p><p>Spokane Superior Court Judge Dean Chuang granted a temporary injunction to the Gonzaga forward on Thursday afternoon - a ruling that allows Wiggins to suit up for the 14th-ranked Bulldogs this season and, by all accounts, signals the end of a roller-coaster eligibility saga for the 6-foot-11 transfer.</p><p>Wiggins, who was ineligible for season-opening wins over Purdue and New Mexico State last week, said he expects to debut for Gonzaga on Saturday in a high-profile nonconference matchup with LSU (12:30 p.m., USA Network) at Numerica Veterans Arena, just a few-hundred yards from the fourth-floor courtroom where the player’s injunction hearing took place Thursday.</p><p>“I had a lot of faith, a lot of positivity,” Wiggins said. “That’s how I live my life, so I was just really hopeful and very positive of the attorneys and lawyers and the judge. So I’m just really thankful for everybody.”</p><p>More than two-dozen people attended Wiggins’ afternoon hearing, including Gonzaga coach Mark Few and teammates Braden Huff, Davis Fogle, Xaivian Lee, Javon Bennett, Parker Jefferson and Alonzo Metz. Wiggins wasn’t scheduled to appear in court until next Tuesday, but with Saturday’s Gonzaga-LSU matchup in mind, the player’s attorneys filed for a motion to shorten time, moving the hearing up by five days.</p><p>Wiggins maintained an optimistic outlook, even at points when the 21-year-old’s chances of obtaining a fifth season appeared grim.</p><p>After playing three years at Clemson and spending the 2025-26 season at Florida State, Wiggins joined the Boston Celtics at NBA Summer League but didn’t sign a professional contract, allowing him to explore fifth-year eligibility options. Around the same time, dozens of athletes across different states and sports - including Gonzaga’s Lee and Bennett - filed lawsuits against the NCAA, claiming they should be entitled to a fifth year of competition through the regulatory body’s new 5-in-5 eligibility model.</p><p>Wiggins initially joined the Godfrey v. NCAA lawsuit in his home state of Georgia - a 5-in-5 case originally filed by former Clemson teammate and current Arizona forward RJ Godfrey. A Cobb County judge granted an injunction to the plaintiffs, but the Court of Appeals stayed the case, reversing the decision and keeping Wiggins ineligible. Wiggins bailed on the Georgia lawsuit when oral arguments were scheduled for Jan. 12, 2027 - effectively sidelining the forward through Gonzaga’s first 15 games - and joined the Wheeler v. NCAA 5-in-5 lawsuit based in Waco, Texas, hoping for a better outcome.</p><p>It ultimately backfired when a McLennan County judge ruled Wiggins and other new plaintiffs had “a lack of personal jurisdiction” in the suit, denying the request for a temporary restraining order one day after Gonzaga’s Nov. 2 opener against Purdue.</p><p>That brought Wiggins’ eligibility battle to Spokane for a third, and possibly final, shot at an injunction.</p><p>Chuang, a Gonzaga Law graduate, listened to arguments from Wiggins’ attorney, Ryan Downton of the Texas Trial Group, and NCAA attorneys David Zeitlin and Taylor Askew - all three of whom appeared virtually via Zoom.</p><p>A crux of Downton’s argument pertained to the NCAA Manual and language of a specific bylaw that doesn’t explicitly state class of 2022 high school graduates are excluded from the 5-in-5 model.</p><p>“If it was truly an error that the manual was supposed to exclude these athletes, then they would’ve gotten together with their Cabinet, they would’ve taken a vote on it and they would’ve voted to change the language of the manual,” Downton said. “&#8230; They haven’t done that and what you’re left with is unambiguous text that makes Mr. Wiggins eligible.”</p><p>Arguing on behalf of the NCAA, Askew claimed “everybody has to be operating under the same set of standards,” and argued that while dozens of fifth-year athletes are currently competing under injunctions, “that doesn’t mean it’s fair.”</p><p>The defense also raised concerns about equity and opportunities eliminated by allowing class of 2022 graduates to return for a fifth season. Askew specifically referenced controversy surrounding North Carolina’s women’s field hockey team, which had a losing record before three fifth-year players were granted midseason injunctions, allowing the Tar Heels to win three of their last four contests and claim a spot in the NCAA Tournament, subsequently knocking ACC rival Wake Forest out of the bracket.</p><p>“That’s not fair,” Askew said. “These players are playing with an advantage. These teams are playing with an advantage that their competitors do not have and that’s not how sports work.”</p><p>Wiggins sat patiently next to Spokane-based attorney Andrew Wagley, later admitting to the nerves and anxiety he felt as Downton and Askew went back and forth with arguments.</p><p>“My heart was beating every second of it, but I just tried to stay positive,” he said. “Shout out to Ryan, he did an amazing job. That’s probably the most locked in I’ve been listening to anybody. You know at school, those teachers be talking, but I was very locked in like, we got this, we got this.”</p><p>After 50 minutes of arguments from both sides, Chuang called for a 15-minute intermission and handed down the injunction order shortly after the hearing resumed. Citing a shortage of judicial officers, Chuang couldn’t schedule trial until May 10, 2027, meaning Wiggins’ case wouldn’t be heard until one month after Gonzaga’s season ended, at the earliest. As part of the ruling, Chuang also restrained the NCAA from enforcing the rule of restitution, meaning the governing body won’t be able to retroactively strip Gonzaga of victories or postseason awards while Wiggins is on the court.</p><p>Wiggins broke into a smile when the hearing ended and quickly found his teammates, trading hugs with all six in attendance before the group exited the courtroom.</p><p>“Those are my brothers. I’m just happy they came and supported me,” Wiggins said. “I transferred here for a reason, to win, and it’s just showing that off-the-court chemistry we have.”</p><p>Even as eligibility restrictions prevented him competing against Purdue and New Mexico State, Wiggins was able to establish some semblance of chemistry on the court through practices since arriving in Spokane two months ago.</p><p>“I’m very excited,” Wiggins said. “I’ve been waiting for this opportunity ever since I knew I could come back to college, so I’m just ready to play Saturday and play for the rest of the year.”</p><p>What exactly are the Zags getting from the newly-eligible wing? An extremely-capable outside shooter, for one. Wiggins made 72 total 3-pointers last season at FSU - 24 more than anyone on Gonzaga’s roster - and connected at a 38.7% clip from behind the arc while averaging 13.3 points per game.</p><p>“Just expect everything, expect us to win and expect some of my 3-pointers because I know everybody’s looking for that,” Wiggins said.</p><p>The experienced wing is a proven winner who played on Clemson teams that combined to go 74-30 between 2022-25 before starring on a Florida State team that went 18-15 in coach Luke Loucks’ first season and declined an invitation to the NIT.</p><p>“I’m really just looking to play, just to win, show my skillset,” Wiggins said. “Really just win, stay positive and just having faith out there on the court. I’m just very glad I got this opportunity.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -3761,6 +3776,34 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "Scouting the Broncos: 5 questions, prediction with a Boise State reporter",
+        "link": "https://www.oregonlive.com/beavers/2026/11/scouting-the-broncos-5-questions-prediction-with-a-boise-state-reporter.html",
+        "link_kind": "item",
+        "date": "2026-11-13T14:00:00+00:00",
+        "summary": "Insight into the Broncos ahead of Saturday's game with the Beavers",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "631c52105827c5b1",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers Sign Trio of Outstanding Players",
+        "link": "https://osubeavers.com/news/2026/11/12/mens-basketball-beavers-sign-trio-of-outstanding-players",
+        "link_kind": "item",
+        "date": "2026-11-13T02:40:00+00:00",
+        "summary": "<img alt=\"JOyner\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/Joyner_Justin_3__1_.jpg\" /><br /><br />CORVALLIS  – Oregon State has signed three outstanding players, head coach Justin Joyner announced Wednesday. Emmanuel Ahamefule, Fallilou Mbengue and Malcolm Price have all signed, and will join the Oregon State squad next season.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "7853b37576c1bc1c",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "WBB Announces Three Additions to 2027-28 Roster",
         "link": "https://osubeavers.com/news/2026/11/12/womens-basketball-wbb-announces-three-additions-to-2027-28-roster",
@@ -4689,20 +4732,6 @@
         "medium": "audio"
       },
       {
-        "title": "Beavers Take Down Cal in Exhibition",
-        "link": "https://osubeavers.com/news/2026/10/24/mens-basketball-beavers-take-down-cal-in-exhibition",
-        "link_kind": "item",
-        "date": "2026-10-25T05:59:00+00:00",
-        "summary": "<img alt=\"Joyner Team\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/DSC00101.jpg\" /><br /><br />CORVALLIS  – The Oregon State men's basketball team took down California 89-76 in exhibition action Saturday evening at Gill Coliseum.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "6a5fbd91f005cdf3",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Questions Following Oregon State Football's 5-2 Start To 2026",
         "link": "https://traffic.megaphone.fm/TDSPT8131394355.mp3",
         "link_kind": "enclosure",
@@ -4888,6 +4917,20 @@
         "source": "The Daily Aztec",
         "id": "9f7107c9f6cf726a",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Men's Basketball Press Conference",
+        "link": "https://goaztecs.com/news/2026/11/10/mens-basketball-press-conference-111026",
+        "link_kind": "item",
+        "date": "2026-11-10T23:32:29+00:00",
+        "summary": "Head men's basketball coach Brian Dutcher and forwards Bear Cherry and Luka Skoric met with the media on Tuesday ahead of Wednesday's game against Bethune-Cookman.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "062e2aedca4c77ef",
+        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -6260,24 +6303,23 @@
         "id": "c2ce92f97bb87c6b",
         "sport": "mbb",
         "medium": "text"
-      },
-      {
-        "title": "#354: SDSU Struggling Into the PAC-12 After Being Dominated by Toledo",
-        "link": "https://sonsofmontezuma.libsyn.com/354-sdsu-struggling-into-the-pac-12-after-being-dominated-by-toledo",
-        "link_kind": "item",
-        "date": "2026-09-29T08:00:00+00:00",
-        "summary": "<p>It's the same recipe for the Aztecs as they start tough, but get toppled again—This time on the road vs Toledo. We'll get into all the mess of the offense, a frustrated defense, and ask can things get any worse?</p>",
-        "author": "",
-        "duration": 4758,
-        "channel_url": "",
-        "source": "Sons of Montezuma",
-        "id": "bfba30e3f162f49a",
-        "extent": "1h 19m",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Texas State": [
+      {
+        "title": "Bobcats defeat San Diego in last home game of the season",
+        "link": "https://universitystar.com/37165/sports/bobcats-defeat-san-diego-in-last-home-game-of-the-season/",
+        "link_kind": "item",
+        "date": "2026-11-13T05:07:59+00:00",
+        "summary": "After a first set loss, the Texas State Bobcats rebounded and won out against the San Diego State (19-25, 26-24, 25-15, 25-18), winning their last home game of the season Thursday night at Strahan Arena. Texas State (9-16, 4-10 Pac-12) got their get-back from their first loss to the Aztecs (15-8, 10-3 Pac-12), a sweep...",
+        "author": "Carisa Arellano, Sports Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "9c1315a36bbea977",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Texas State Hosts Southern Miss in First-Ever Non-Conference Meeting",
         "link": "https://txst.com/news/2026/11/12/mens-basketball-texas-state-hosts-southern-miss-in-first-ever-non-conference-meeting.aspx",
@@ -6597,20 +6639,6 @@
         "channel_url": "",
         "source": "The University Star",
         "id": "487102c9288e6684",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "‘Cats set multiple program records in a blowout victory over Howard Payne",
-        "link": "https://universitystar.com/37096/sports/cats-set-multiple-program-records-in-a-blowout-victory-over-howard-payne/",
-        "link_kind": "item",
-        "date": "2026-11-06T17:36:22+00:00",
-        "summary": "It was a recording breaking night for the Texas State Bobcats as they broke a 14-year scoring record en route to a 135-66 domination against the Howard Payne Yellow Jackets Thursday night at Strahan Arena. The Bobcats (2-0) caught fire with an efficient night, shooting 61% from the field and 44% from behind the arc on...",
-        "author": "Lucas Castillo, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "421602cd954e25a9",
         "sport": "all",
         "medium": "text"
       },
@@ -7426,6 +7454,62 @@
     ],
     "Washington State": [
       {
+        "title": "2026 wrapped: The WSU soccer season in review",
+        "link": "https://dailyevergreen.com/201479/sports/2026-wrapped-the-wsu-soccer-season-in-review/",
+        "link_kind": "item",
+        "date": "2026-11-13T08:00:26+00:00",
+        "summary": "For the fifth straight year, the Cougs are on the outside looking in on the playoffs. Their inaugural season in the new-look Pac-12 Conference was less than ideal, but still had some bright spots. WSU soccer saw changes in the offseason. These changes include the arrival of Chris Citowicki as head coach, players transferring in...",
+        "author": "Ben Walker, Evergreen reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "bf64fa15416afeab",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "WSU WBB: Kamie Ethridge | Southern Utah Week Press Conference | 11/12/26",
+        "link": "https://wsucougars.com/news/2026/11/12/wsu-wbb-kamie-ethridge-southern-utah-week-press-conference-111226",
+        "link_kind": "item",
+        "date": "2026-11-13T00:00:04+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "945838eb0741fecb",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Southern Utah Next Up for Cougars",
+        "link": "https://wsucougars.com/news/2026/11/12/southern-utah-next-up-for-cougars",
+        "link_kind": "item",
+        "date": "2026-11-12T21:36:34+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "d2cffe69ba0b0374",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Women’s Basketball Adds Two for 2027-28",
+        "link": "https://wsucougars.com/news/2026/11/12/womens-basketball-adds-two-for-2027-28",
+        "link_kind": "item",
+        "date": "2026-11-12T16:45:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "940552af7d5fc734",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Unfortunately, Colorado State is not as bad as we hoped (Episode 267)",
         "link": "https://podcastvseveryone.podbean.com/e/unfortunately-colorado-state-is-not-as-bad-as-we-hoped-episode-267/",
         "link_kind": "item",
@@ -7495,6 +7579,20 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "c47d6ba014e4e6f2",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "From dogs in cowboy hats to starry nights, WSU DE Matyus McLain loves his new painting hobby",
+        "link": "http://www.spokesman.com/stories/2026/nov/12/from-dogs-in-cowboy-hats-to-starry-nights-wsu-de-m/",
+        "link_kind": "item",
+        "date": "2026-11-12T00:00:00+00:00",
+        "summary": "<p>PULLMAN – The first time Matyus McLain sat down to try his new hobby, his mind wandered to his childhood, back when he would battle his younger brother in video games. Matyus and the younger Mason played all kinds of games, and they still do, but one they frequented the most was LEGO Star Wars.</p><p>So on this August day, before he kicked off his first season starring at defensive end for Washington State, McLain sat down at his kitchen table, cleared everything off, spun some tunes using Spotify DJ, got his supplies out and got started.</p><p>He dipped his paintbrush into yellow paint to paint two characters, into brown to illustrate a background, into red to draw a series of hearts representing health. He may not have been happy with the way the door to the rest of the game turned out – “my depth isn’t awesome,” he says – but after about an hour had passed, he had a final product.</p><p>“It’s a great escape because it allows you to relax,” McLain said, “and it’s not you scrolling on your phone, playing video games.”</p><p>Since the beginning of fall camp in the summer, McLain has picked up a new hobby: painting. He’s completed about seven pieces so far, he said, everything from the LEGO Star Wars lobby screen to a photo of his dog wearing a cowboy hat to a skyline view with a moon hanging in the distance. Throughout a long and taxing season, McLain has used his new pursuit to get away from the grind, to focus on a new challenge.</p><p>Each painting takes him about an hour to an hour and a half, he says, reflecting the care he takes with each work and his desire to keep improving on them. When he sits down at his kitchen table to paint, sometimes he doesn’t do so with a specific idea in mind. He goes with the flow. He knows he isn’t an expert, saying, “I’m not great at it by any means.” But for now, he’s OK with that.</p><p>For McLain, who didn’t grow up a particularly artsy kid, where did this come from? The answer isn’t as profound as it may seem. On an off day during the Cougars’ fall camp in August, he said, the idea just came to him. I’m gonna paint something, he remembers telling himself. So he went to Walmart, picked up a set of painting supplies, and painted the LEGO Star Wars scene.</p><p>Since then, he’s authored a few pieces of artwork. The painting of his dog Brutus, a black and tan Coonhound, came from a real photo with the pup wearing a cowboy hat. He painted a scene with a tree with a stream of water running underneath. He has another more abstract painting, and for that one, he tried to use duct tape to imprint a line – “but the duct tape didn’t really seal the lines perfect,” he laughed.</p><p>“I would, like, lay the duct tape down so that way, I could paint over it and then peel off the duct tape, and it’d be a straight line,” McLain said. “Didn’t go as I imagined.”</p><!--[photo id=937746 align=right]--><p>When he sits down to paint, McLain has a pretty simple workflow. He uses Apple Music for his tunes, but he wants more of a variety when he paints, and for that he turns to Spotify DJ. That program gives him all kinds of music, from middle school throwbacks to hit Juice WRLD songs. He’s even been hit with some ’60s music, which he isn’t normally into. “The DJ thinks I am,” he chuckled.</p><p>In truth, though, the idea didn’t appear in his head like Dom Cobb planted it in the movie “Inception.” He comes from an artistic family. His main inspiration is his great-aunt Robin Peterson, a WSU veterinary school grad in the class of 1980. She does some illustration work, and a few of her pieces hang on the walls of McLain’s apartment. Those helped push the idea into McLain’s head.</p><p>Besides, he was around lots of art growing up. McLain’s great grandfather, John Fister, was a carpenter who built a kid-sized picnic table that McLain used to color on as a kid. He also built boxes, chairs and coffee tables. He sold some. Others still live at the McLain residence in nearby Priest River, Idaho, and McLain grew up around those as well.</p><p>Matyus’ uncle, Denny McLain, is also a carpenter. And his grandfather on his dad’s side, Tom McLain, is a musician based out of Chewelah. He plays mainly bluegrass, but his repertoire includes far more. “He is a master musician,” said Matyus’ mom, Julianne.</p><p>“It plays into the mental fortitude that he has,” Julianne added. “I think that he has a significant amount of mental fortitude, and it’s only grown and developed throughout the years. And I think having space to do extra things … I know in the summertime, it’s often going outside, getting in the river, the lake, and going for a hike or whatever it is that he’s doing. I think this is a different way, because I think they decompress on video games quite a lot. These kids, they enjoy the social connection of video games, and so I think it’s a productive way to increase his mental fortitude.”</p><p>“That part doesn’t surprise me,” Peterson added. “He was always just such a happy kid, you know? Not wild and crazy or anything, but always interested, curious about things, and interested and game to do anything. I think his parents helped instill the confidence that it takes to do that kind of stuff and just to do what he’s doing now, and so we’re very proud of him.”</p><p>McLain picked up painting in large part to get away from football, to give himself a release that isn’t trying to push back offensive linemen and get home for a sack. That much he has accomplished, and to those who know him best, the process started years back.</p><p>When McLain was a junior at Priest River, his wrestling team was at the state tournament meet down in Pocatello. During one match, McLain was trying a move that took him some time to maneuver and get into place, and it took long enough that the referee called him for stalling. He went on to fall in the match. His parents could tell he was frustrated.</p><p>Sitting up in the stands, Julianne remembers thinking, What is he going to do? Matyus shook his opponent’s hand, then went to a corner of the Holt Arena dome and sat down for some 45 minutes. After that, he got up and strolled over to the referee. Later, he would relay that he asked the ref what he saw on the stalling sequence. What caused him to call that?</p><p>It was an encouraging sight for Julianne, who has always encouraged her children to sit with the frustrating emotions, not fight them. That’s what makes us human. Years later, McLain has experienced his fair share of them playing for the Cougars, who are looking for their first FBS win this weekend against Colorado State, looking to shake off a six-game slide.</p><p>“When he says nobody’s giving up – there’s  nobody giving up,” Julianne said. “He’s got lots of really strong teammates with really high character around him, and they’re all supporting each other. And I think that’s very accurate of what’s happening. So he’s got a lot of support even in the midst of the frustration.”</p><p>When he’s painting, though, McLain feels none of that. It’s just him and the canvas – not his phone, not TV, not video games. He really wants to improve at painting, he said, a nod to the competitive nature that helped him ascend from Priest River to Idaho to Washington State.</p><p>“I think it’s just a fun challenge outside of football,” McLain said. “It’s not scrolling on my phone. I get to relax, listen to music, and try to be good at something.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "5978e0a36766276c",
         "sport": "football",
         "medium": "text"
       },
@@ -7880,20 +7978,6 @@
         "medium": "text"
       },
       {
-        "title": "Playoff Pathways: How can the Cougs make the Pac-12 Tournament?",
-        "link": "https://dailyevergreen.com/201531/sports/playoff-pathways-how-can-the-cougs-make-the-pac-12-tournament/",
-        "link_kind": "item",
-        "date": "2026-11-08T23:30:04+00:00",
-        "summary": "Simplest Path: The simplest path for WSU to make its first end-of-season tournament since 2024 is to win out and have Boise State lose two of its remaining three matches. If this happens, WSU would be 9-7 in Pac-12 play, while Boise State would be 8-8. The Cougars play the Broncos next week, so if...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "c0258e6ea1b535eb",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Women’s Basketball to Host Idaho for Monday Home Opener",
         "link": "https://wsucougars.com/news/2026/11/08/womens-basketball-to-host-idaho-for-monday-home-opener",
         "link_kind": "item",
@@ -7990,20 +8074,6 @@
         "source": "The Spokesman-Review",
         "id": "e81d0beaff2a045a",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Cougar volleyball set to take on Gonzaga",
-        "link": "https://dailyevergreen.com/201373/sports/cougar-volleyball-set-to-take-on-gonzaga/",
-        "link_kind": "item",
-        "date": "2026-11-06T18:44:09+00:00",
-        "summary": "WSU (9-12, 4-7 Pac-12) heads to Spokane, Washington, to take on Gonzaga (8-16, 3-9 Pac-12) Saturday at 11 a.m. The Cougars come into the match off a 0-2 week, where they lost to Utah State (5-16, 4-7 Pac-12) and San Diego State (15-7, 10-2 Pac-12).  The former was a five-set defeat. The Cougs forced a...",
-        "author": "Conner Orr, Deputy Campus Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "20fbfb1eaa18652d",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -8262,6 +8332,20 @@
         "source": "Washington State Athletics",
         "id": "4e93067457b7286b",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Academic Services Names October Student-Athletes of the Month",
+        "link": "https://wsucougars.com/news/2026/11/01/academic-services-names-october-student-athletes-of-the-month",
+        "link_kind": "item",
+        "date": "2026-11-01T20:36:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "d0ae2c13b07d381c",
+        "sport": "football",
         "medium": "text"
       },
       {
@@ -8967,20 +9051,6 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "c1cba8fb2d858696",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "2027 Apple Cup moved up three weeks to Aug. 28",
-        "link": "http://www.spokesman.com/stories/2026/oct/26/2027-apple-cup-moved-up-two-weeks-to-aug-28/",
-        "link_kind": "item",
-        "date": "2026-10-26T00:00:00+00:00",
-        "summary": "<p>PULLMAN – The 2027 Apple Cup will be played in August.</p><p>Washington State and Washington have agreed to move next year’s rivalry game from Sept. 18 to Aug. 28, according to a Monday release, moving the longstanding series to August for the first time in its 118-year history.</p><p>The 2027 game, set for Gesa Field in Pullman, will be the fourth game of a five-year series extension the sides agreed to in 2023, not long after the traditional Pac-12’s collapse. The 2028 game, scheduled for Seattle, is the last one under contract.</p><p>The Huskies won this year’s game, a 24-10 decision in Seattle, and they own an all-time advantage of 78-34-6.</p><p>With this move, WSU now has a bye for its fourth week of action. Here is the Cougars’ 2027 schedule so far.</p><p>Aug. 28: vs. Washington</p><p>Sept. 4: vs. Idaho</p><p>Sept. 11: vs. Kansas</p><p>Sept. 18: Idle</p><p>Sept. 25: at Arizona</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "f028a013f0764230",
         "sport": "football",
         "medium": "text"
       },
