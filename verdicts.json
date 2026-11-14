@@ -28276,6 +28276,313 @@
         "James Crepea"
       ],
       "run": "run_2026-11-14-0242"
+    },
+    "0d336b082e679df6": {
+      "subjects": {
+        "oregon-state": "about",
+        "boise-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a broadcast-info piece for Saturday's Oregon State-Boise State game; the specific sport is not stated so the schools are keyed at department level.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-14-1443"
+    },
+    "2946a8c17c5c3f96": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary reports Oregon State's starting quarterback situation ahead of the Boise State football game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-14-1443"
+    },
+    "3bfce8587e2822e0": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "A Mountain West football Week 11 preview covering NIU, Nevada, Air Force, San Jose State, New Mexico, UNLV, Wyoming, UTEP, NDSU and Hawaii, none of which are covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-11-14-1443"
+    },
+    "4f8d747e31a1a759": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Summary reports an Oregon State basketball win over Mississippi Valley State with score and scorers, but does not state men's or women's so it is keyed at department level.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-14-1443"
+    },
+    "542a29b2d8ce5059": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary reports a top-25 recruiting class for an Oregon State program under coach Joyner, but does not say which sport's team, so it is keyed at department level.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-14-1443"
+    },
+    "55c71f6925b002bc": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Utah State men's basketball's blowout win over UC San Diego, explicitly tagged as men's basketball.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "44 min read",
+      "run": "run_2026-11-14-1443"
+    },
+    "5620d1f154d425b7": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full preview of Saturday's Washington State-Colorado State football game with stats on both teams.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-14-1443"
+    },
+    "68d4384cba32ed07": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "texas-state/football": "about",
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "utah-state/football": "about",
+        "san-diego-state/football": "about",
+        "washington-state/football": "about",
+        "colorado-state/football": "about",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Game-by-game Week 11 football previews naming odds and predictions for eight of the nine covered programs' matchups.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-14-1443"
+    },
+    "6a607a3df3df5c55": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Summary names three recruits joining Oregon State women's basketball with their roles on the team.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-14-1443"
+    },
+    "6e29d8c99bdbdde5": {
+      "subjects": {
+        "oregon-state/baseball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Title and summary report Oregon State baseball's 2027 recruiting class signings.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-14-1443"
+    },
+    "954d6b3a21c84396": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full preview and prediction for Saturday's Boise State-Oregon State football game.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-14-1443"
+    },
+    "989a7f9cc3acad59": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Texas State men's basketball's win over Southern Mississippi with box-score detail and quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Luke Landa"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-14-1443"
+    },
+    "98e2340df5259a7e": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Gonzaga women's basketball's loss to Grand Canyon, with box-score detail and coach quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-14-1443"
+    },
+    "aa32009ec77882df": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Arizona State",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Grand Canyon",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The whole piece is about a scheduling rivalry between Arizona State and Grand Canyon, neither a covered school.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-14-1443"
+    },
+    "c2f88d72cf245495": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports the Oregon State football team's travel delay ahead of its game at Boise State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Nikolas Munoz"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-14-1443"
+    },
+    "e2cddac2db894ef8": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Washington State women's basketball's win over Southern Utah with box-score detail.",
+      "evidence_basis": "title+full-text",
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-14-1443"
+    },
+    "e9ee38d1b05a4105": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "A Hawaii-North Dakota State football preview; neither school is one of the nine covered programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-14-1443"
+    },
+    "f31dbff51572025a": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full preview of Saturday's Washington State-Colorado State football game with stats on both teams.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-14-1443"
+    },
+    "f6d7fdf5a0918468": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A staff prediction column picking Washington State to beat Colorado State, with a final-score call.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-14-1443"
     }
   },
   "runs": {
@@ -32740,6 +33047,58 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 33.527805299992906,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-14-1443": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-14T14:40:05.895254+00:00",
+      "items": 19,
+      "verdict_counts": {
+        "publish": 16,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 6
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "aa32009ec77882df",
+          "source": "Mountain West Connection",
+          "phrase": "Arizona State",
+          "kind": "not-ours"
+        },
+        {
+          "id": "aa32009ec77882df",
+          "source": "Mountain West Connection",
+          "phrase": "Grand Canyon",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e9ee38d1b05a4105",
+          "source": "Mountain West Connection",
+          "phrase": "Hawaii",
+          "kind": "not-ours"
+        },
+        {
+          "id": "e9ee38d1b05a4105",
+          "source": "Mountain West Connection",
+          "phrase": "North Dakota State",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 39.40246929999557,
       "tokens": null,
       "tokens_source": null
     }
