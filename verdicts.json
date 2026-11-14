@@ -28027,6 +28027,255 @@
       ],
       "extent": "6 min read",
       "run": "run_2026-11-13-1440"
+    },
+    "179cb5f2e0f94d45": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about",
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Both Fresno State men's and women's basketball teams get full game-by-game preview treatment ahead of Saturday's doubleheader.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-14-0242"
+    },
+    "22c19908353263e5": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A podcast-style preview of Gonzaga's matchup against LSU, including a new Zags player's eligibility and debut.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tuck Clarry"
+      ],
+      "extent": "1 min read",
+      "lock": "free",
+      "run": "run_2026-11-14-0242"
+    },
+    "3792762ef9c650a3": {
+      "subjects": {
+        "oregon-state": "about",
+        "boise-state": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Title and summary identify a game preview between Oregon State and Boise State but never name the sport, so only the department-level subject is confident.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The sport is never stated in the title or summary, only inferable from timing and a player's name, so a specific program key would be a guess.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-14-0242"
+    },
+    "3dce1a021ad197c5": {
+      "subjects": {
+        "colorado-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Colorado State's flight trouble reaching Pullman for Saturday's game at Washington State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-14-0242"
+    },
+    "47c3a41c33b839d0": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Extensive preview coverage of Gonzaga's roster and Saturday matchup against LSU, quoting Gonzaga's coach throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-14-0242"
+    },
+    "76d67cf5b130593d": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A standard matchup preview naming Fresno State's recent form and Texas State's stats ahead of Saturday's football game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-14-0242"
+    },
+    "7a2275a1700346c4": {
+      "subjects": {
+        "washington-state/football": "about",
+        "gonzaga/mens-basketball": "involves",
+        "colorado-state/football": "involves",
+        "washington-state/mens-cross-country": "involves",
+        "washington-state/womens-cross-country": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A roundup of FAA travel disruption across Gonzaga basketball, Washington State football, Colorado State football, and WSU cross country, each given its own paragraph.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Percy Allen"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-14-0242"
+    },
+    "809875c564739977": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The whole piece previews a specific defensive matchup within Gonzaga's Saturday game against LSU.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-14-0242"
+    },
+    "8912cf577babb087": {
+      "subjects": {
+        "utah-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "An ongoing-news report on Utah State football's travel disruption ahead of its game at San Diego State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "14 min read",
+      "run": "run_2026-11-14-0242"
+    },
+    "8f7ee962f884d103": {
+      "subjects": {
+        "texas-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full game recap of the Texas State women's basketball win over Texas A&M Corpus Christi, with box-score detail and player quotes.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cooper Yarbough"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-14-0242"
+    },
+    "93db293b02439dc8": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "wrestling",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece frames an alum's UFC title shot entirely through his Fresno State football walk-on origin story.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jacob Velasco"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-14-0242"
+    },
+    "95c793ae60b3b1e3": {
+      "subjects": {
+        "conference": "about",
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A mailbag column argues the Pac-12's own stakes in the CFP-driven end of conference championships, with substantive scheduling discussion of Oregon State, Washington State, and Boise State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-11-14-0242"
+    },
+    "b5a14edf07a842a6": {
+      "subjects": {
+        "texas-state/womens-soccer": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports two Texas State women's soccer players' Pac-12 postseason honors and the stats behind them.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-14-0242"
+    },
+    "ba4a00dbe7382501": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves",
+        "fresno-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A conference roundup gives dedicated-sentence treatment to Oregon State's backup-QB situation, the Fresno State-Texas State matchup's stakes, and the Boise State/New Mexico race.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-14-0242"
+    },
+    "e502737c80a92585": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The summary states the FAA ground stop threatens Oregon State's Saturday football game at Boise State and other OSU events.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-14-0242"
     }
   },
   "runs": {
@@ -32460,6 +32709,37 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 18.370786300001782,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-14-0242": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-14T02:39:53.553147+00:00",
+      "items": 15,
+      "verdict_counts": {
+        "publish": 15
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "93db293b02439dc8",
+          "source": "The Collegian",
+          "phrase": "wrestling",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 33.527805299992906,
       "tokens": null,
       "tokens_source": null
     }
