@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-14T14:04:00.188271+00:00",
+  "generated_at": "2026-11-15T02:03:11.422577+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "MWCConnection Reacts Results: College Football Playoff Rankings",
+        "link": "https://www.mwcconnection.com/college-football-rankings/95885/college-football-playoff-rankings-boise-state-broncos",
+        "link_kind": "item",
+        "date": "2026-11-14T14:00:00+00:00",
+        "summary": "This post is brought to you by FanDuel, a proud partner of SBNation. Broncos should be ranked higher in CFP Rankings Similar to New Mexico and the AP Poll last week, the general perception is that Boise State is a bit undervalued in the CFP rankings. About two-thirds of voters in this poll think the [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "0aa5c14069e25820",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Why Don’t Grand Canyon and Arizona State Play Every Year?",
         "link": "https://www.mwcconnection.com/grand-canyon-basketball/95880/why-arent-grand-canyon-and-arizona-state-playing-every-year",
@@ -153,20 +167,6 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "0b13887893c69542",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountaintop View 11-12-26",
-        "link": "https://www.mwcconnection.com/mountain-west-news/95797/mountain-west-pac-12-football-basketball-boise-atkinson",
-        "link_kind": "item",
-        "date": "2026-11-12T14:00:00+00:00",
-        "summary": "Mountain West power rankings: New Mexico opens clear gap on league ahead of UNLV showdown Chris Murray of NevadaSportsNet posts his weekly Mountain West football power rankings. Wyoming is on the rise, albeit with a slight damper due to the injury to quarterback Tyler Hughes. Pokes Insider: Tyson Shamsid-Deen makes two big plays with one [&#8230;]",
-        "author": "JeremyRodrigues",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "6b21e8c8f6d56863",
         "sport": "all",
         "medium": "text"
       },
@@ -481,11 +481,67 @@
     ],
     "Boise State": [
       {
+        "title": "Boise State VS Oregon State Gamethread",
+        "link": "https://firstkickwasgood.com/2026/11/14/boise-state-vs-oregon-state-gamethread-2/",
+        "link_kind": "item",
+        "date": "2026-11-14T23:19:31+00:00",
+        "summary": "As Boise State returns home to take on the Oregon State Beavers for the first time, please enjoy this Boise State VS Oregon State  Gamethread with all your friends here at FKWG. Have thoughts? Keep them clean (for the kids), but make them known in the comments! Please consider selecting one of the monthly or [&#8230;]",
+        "author": "MichaelFKWG",
+        "duration": null,
+        "channel_url": "",
+        "source": "First Kick Was Good",
+        "id": "76fbb8e3706fc3d4",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gameday Availability Report",
+        "link": "https://broncosports.com/news/2026/11/14/football-gameday-availability-report",
+        "link_kind": "item",
+        "date": "2026-11-14T21:00:00+00:00",
+        "summary": "<img alt=\"Oregon State Availability\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/Oregon_State_Availability.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "46013cc691dcb745",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "ESPN's College GameDay returns to Boise State for the first time since 2010",
+        "link": "https://broncosports.com/news/2026/11/14/football-espns-college-gameday-returns-to-boise-state-for-the-first-time-since-2010",
+        "link_kind": "item",
+        "date": "2026-11-14T14:28:00+00:00",
+        "summary": "<img alt=\"College GameDay Returns to Boise\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/College_GameDay_Returns_to_Boise_web_slider.jpg\" /><br /><br />Via ESPN",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "b026a43fa5b76fe0",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Gov. Little proclaims Nov. 13-15 College GameDay Weekend in Idaho",
+        "link": "https://broncosports.com/news/2026/11/14/football-gov-little-proclaims-nov-13-15-college-gameday-weekend-in-idaho",
+        "link_kind": "item",
+        "date": "2026-11-14T13:51:00+00:00",
+        "summary": "<img alt=\"ESPN GameDay Governor Proclamation Signing. 11.13.26. Photo By Cian Squires\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/CS_Gov.Proc.Signing_003.JPG\" /><br /><br />Boise, Idaho – Governor Brad Little today proclaimed November 13-15, 2026, as College GameDay Weekend in Idaho, celebrating ESPN's return to Boise State University for its nationally televised College GameDay broadcast for the first time since 2010.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "924b80655c06b918",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Route 20 Rivalry? Boise State vs. Oregon State Game Preview",
         "link": "https://firstkickwasgood.com/2026/11/14/route-20-rivalry-boise-state-vs-oregon-state-game-preview/",
         "link_kind": "item",
         "date": "2026-11-14T07:45:36+00:00",
-        "summary": "Game Facts Other facts 1. Big College Gameday Thread College Gameday has made it&#8217;s grand return to Boise, and it should be a good one today. Soak it up and enjoy it! If you&#8217;re reading this at 2AM and decide you want to go to gameday, here is what you need to know. (Might not work [&#8230;]",
+        "summary": "Game Facts Other facts 1.&#160;Big College Gameday Thread College Gameday has made it&#8217;s grand return to Boise, and it should be a good one today. Soak it up and enjoy it! If you&#8217;re reading this at 2AM and decide you want to go to gameday, here is what you need to know. (Might not work [&#8230;]",
         "author": "HunterFKWG",
         "duration": null,
         "channel_url": "",
@@ -674,48 +730,6 @@
         "channel_url": "",
         "source": "Boise State Athletics",
         "id": "6ab8339e8f499c2d",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "NFL Broncos: Week 10",
-        "link": "https://broncosports.com/news/2026/11/11/football-nfl-broncos-week-10",
-        "link_kind": "item",
-        "date": "2026-11-11T22:00:00+00:00",
-        "summary": "<img alt=\"NFL Broncos Week 10 webslider\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/FB26_Broncos_In_NFL_W10.jpg\" /><br /><br />Nine former Broncos in action across three days",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "89bcaddd2cb0ea54",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Offensive Line Selected as Semifinalist for Joe Moore Award",
-        "link": "https://broncosports.com/news/2026/11/11/football-boise-state-offensive-line-selected-as-semifinalist-for-joe-moore-award",
-        "link_kind": "item",
-        "date": "2026-11-11T21:30:00+00:00",
-        "summary": "<img alt=\"Boise State Offensive Line vs. Texas State (Oct. 31, 2026)\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/MC_FBvsTS_455.jpg\" /><br /><br />Award is presented to top offensive line in college football",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "679806b0d4f898c2",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State Athletics to Celebrate Veterans on Saturday for Military Appreciation Game",
-        "link": "https://broncosports.com/news/2026/11/11/general-boise-state-athletics-to-celebrate-veterans-on-saturday-for-military-appreciation-game",
-        "link_kind": "item",
-        "date": "2026-11-11T19:00:00+00:00",
-        "summary": "<img alt=\"Honor Guard Military Appreciation\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/CS_FB_vs_TexasState_079.JPG\" /><br /><br />BOISE, Idaho – In honor of Veterans Day, Boise State Athletics has designated Saturday's game versus Oregon State for Military Appreciation. Kickoff is at 4 p.m. The game is presented by Mountain America Credit Union.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "c93e2f46dffe9b9d",
         "sport": "football",
         "medium": "text"
       },
@@ -1155,20 +1169,6 @@
         "medium": "text"
       },
       {
-        "title": "Welcome Home, Kellen",
-        "link": "https://firstkickwasgood.com/2026/10/31/welcome-home-kellen/",
-        "link_kind": "item",
-        "date": "2026-10-31T23:56:13+00:00",
-        "summary": "It&#8217;s been 15 years since Kellen Moore&#8217;s 45-0 thrashing of New Mexico on Senior Night, notably attended by FKWGHunter and a few (tens of) thousand others. Today, Kellen makes a grand return to the place that he molded to his own making and where the sweet memory of his prowess marks the #11 hash marks [&#8230;]",
-        "author": "HunterFKWG",
-        "duration": null,
-        "channel_url": "",
-        "source": "First Kick Was Good",
-        "id": "552378bf77c6c368",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Broncos Finish Exhibition Play Undefeated",
         "link": "https://broncosports.com/news/2026/10/29/mens-basketball-broncos-finish-exhibition-play-undefeated",
         "link_kind": "item",
@@ -1285,24 +1285,37 @@
         "extent": "59 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Off the Blue - Season 7, Episode 5- Kendall Hastings",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/1231a336-9b15-4d6b-ade5-bce4d642b02a.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-09-30T17:00:00+00:00",
-        "summary": "<p>On this episode of the Off the Blue Podcast presented by Select Health, Boise State volleyball middle blocker Kendall Hastings shares her journey from walk-on to Pac-12 defensive player of the week, what goes into the team’s unique culture, and much more.</p><p>Timestamps: 0:00 - 0:59 - Pac-12 Defensive Player of the Week | 1:00 - 2:59 - Path to BSU, starting as a walk-on | 3:00 - 3:59 - Hard Work off the Floor | 4:00 - 4:30 - Leadership Style | 4:30 - 5:30 - Teammate Inspirations&nbsp; | 5:31 - 6:30 - Adjustment to Starting Role | 6:31 - 8:29 - Sports Background Growing Up | 8:29 - 9:59 - Pickleball Influence, Competitiveness | 10:00 - 11:30 - Personal Growth | 11:31 - 13:30 - Strong start to season | 13:31 -16:30 -&nbsp;Developing a Strong Culture&nbsp; | 16:31 - 17:30 -&nbsp;In the Classroom&nbsp; | 17:31 - 18:30 - Postseason Aspirations | 18:31 - 19:20 - Playing in ExtraMile Arena | 19:21 - 20:51 - What Does Volleyball mean to You?</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
-        "author": "",
-        "duration": 1251,
-        "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network",
-        "source": "The Bronco Sports Podcast Network",
-        "id": "45ea1de572fc5040",
-        "extent": "21 min",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Colorado State": [
+      {
+        "title": "Rams fall to Loyola in tense game",
+        "link": "https://csurams.com/news/2026/11/14/mens-basketball-rams-fall-to-loyola-in-tense-game",
+        "link_kind": "item",
+        "date": "2026-11-14T23:08:00+00:00",
+        "summary": "<img alt=\"Pops Dunson\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/DSC01424.jpg\" /><br /><br />CSU fought through foul trouble and late adjustments but couldn't overcome Loyola's lead",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "c7d56a3f403062af",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Game Day: at Washington State",
+        "link": "https://csurams.com/news/2026/11/14/football-game-day-at-washington-state",
+        "link_kind": "item",
+        "date": "2026-11-14T17:30:00+00:00",
+        "summary": "<img alt=\"Game Day at Washington State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/93927CF7-ED9B-427A-AEB4-7E6FEE6E3883.jpeg\" /><br /><br />Rams face Cougars Saturday night.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "1086912082e7b4e3",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Cold-Shooting Rams Fall to Cowgirls",
         "link": "https://csurams.com/news/2026/11/13/womens-basketball-cold-shooting-rams-fall-to-cowgirls",
@@ -1571,20 +1584,6 @@
         "medium": "text"
       },
       {
-        "title": "Setting the Stage: Building a Mentoring Culture",
-        "link": "https://csurams.com/news/2026/11/6/football-setting-the-stage-building-amentoring-culture",
-        "link_kind": "item",
-        "date": "2026-11-06T21:00:00+00:00",
-        "summary": "<img alt=\"Robbie Harrison\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/Robbie_Harrison.jpg\" /><br /><br />Defense seeks the change of doing things better",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "54eddabe296b1fb6",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Men's Hoops Hosts Idaho Friday Evening",
         "link": "https://csurams.com/news/2026/11/5/mens-basketball-mens-hoops-hosts-idaho-friday-evening",
         "link_kind": "item",
@@ -1787,20 +1786,6 @@
         "medium": "text"
       },
       {
-        "title": "Rams Drop Final Tune-Up Before Season",
-        "link": "https://csurams.com/news/2026/10/25/mens-basketball-rams-drop-final-tune-up-before-season",
-        "link_kind": "item",
-        "date": "2026-10-25T23:35:00+00:00",
-        "summary": "<img alt=\"MBB Team Huddle\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/25/DSC06680.jpg\" /><br /><br />Colorado State unable to overcome turnovers and cold shooting",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "eb18b8ab44447b52",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Four straight losses, one last glimmer of hope: Can CSU turn it around?",
         "link": "https://bleav.com/shows/ramnation-radio/episodes/four-straight-losses-one-last-glimmer-of-hope-can-csu-turn-it-around/",
         "link_kind": "item",
@@ -1907,6 +1892,20 @@
       }
     ],
     "Fresno State": [
+      {
+        "title": "Game Recap: Fresno State men’s and women’s basketball remain undefeated at home after doubleheader sweep",
+        "link": "https://fscollegian.com/2026/11/live-updates-bulldogs-ready-to-battle-lumberjacks-in-womens-basketball-doubleheader-opener/",
+        "link_kind": "item",
+        "date": "2026-11-14T19:57:05+00:00",
+        "summary": "The Fresno State women&#8217;s basketball team is gearing up to face Northern Arizona University at noon today, Nov. 14, at the Save Mart Center, kicking off an afternoon of Bulldog basketball. Coming off a dominant 74-56 victory over New Mexico on Wednesday, the Bulldogs will look to carry that momentum into their matchup against the...",
+        "author": "Paloma Schuller and Sam Quintero",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "f405359a4437b30f",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "'Dogs host UC Riverside on Saturday afternoon",
         "link": "https://gobulldogs.com/news/2026/11/13/mens-basketball-dogs-host-uc-riverside-on-saturday-afternoon",
@@ -2199,20 +2198,6 @@
         "channel_url": "",
         "source": "YourCentralValley",
         "id": "1fce56010a03d8db",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Fresno State men’s basketball team looks to bounce back against Georgia State",
-        "link": "https://fscollegian.com/2026/11/fresno-state-mens-basketball-team-looks-to-bounce-back-against-georgia-state/",
-        "link_kind": "item",
-        "date": "2026-11-09T23:47:33+00:00",
-        "summary": "The Fresno State men’s basketball team will return to the Save Mart Center on Tuesday, Nov. 10, to face Georgia State, looking to bounce back from its first loss of the 2026-27 season against the UC San Diego Tritons on Nov. 7. Tipoff is scheduled for 6 p.m. as the Bulldogs (1-1) take on the...",
-        "author": "Paloma Schuller , Enterprise Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "1ab9cd8b9a39d81a",
         "sport": "all",
         "medium": "text"
       },
@@ -2751,39 +2736,37 @@
         "extent": "1h 6m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Fresno State Heads to Washington State",
-        "link": "https://redwavereport.podbean.com/e/fresno-state-heads-to-washington-state/",
-        "link_kind": "item",
-        "date": "2026-10-01T01:49:58+00:00",
-        "summary": "<p>The boys are back after another win for the Bulldogs. The boys break down the latest victory against the Rice Owls and break down the latest matchup against Washington State. Then they take a look at the Pac 12. Thank you for listening and enjoy the show. </p>",
-        "author": "",
-        "duration": 3250,
-        "channel_url": "",
-        "source": "The Red Wave Report",
-        "id": "f29eafd9c85aaa9b",
-        "extent": "54 min",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Get to Know Washington State Football with Up West Sports",
-        "link": "https://podcasters.spotify.com/pod/show/beware-of-bulldogspodcast/episodes/Get-to-Know-Washington-State-Football-with-Up-West-Sports-e3pl3qf",
-        "link_kind": "item",
-        "date": "2026-09-30T17:19:57+00:00",
-        "summary": "<p>Gavin and Chad from Up West Sports join the show to talk about Fresno State&#39;s upcoming football game against Washington State. Enjoy and Go Dogs!</p>",
-        "author": "Beware of Bulldogs Podcast",
-        "duration": 1861,
-        "channel_url": "",
-        "source": "Beware of Bulldogs",
-        "id": "97eb2cd03f41ac29",
-        "extent": "31 min",
-        "sport": "football",
-        "medium": "audio"
       }
     ],
     "Gonzaga": [
+      {
+        "title": "LSU Uses Last Second Shot to Beat Gonzaga, 81-80",
+        "link": "https://gozags.com/news/2026/11/14/mens-basketball-lsu-uses-last-second-shot-to-beat-gonzaga-81-80",
+        "link_kind": "item",
+        "date": "2026-11-15T00:22:00+00:00",
+        "summary": "<img alt=\"NCAA Basketball: Bad Boy Mowers Series-Spokane-Louisiana State at Gonzaga\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/img_tag_reuters.com_2026_newsml_MT1USATODAY30354113_1045738921_UUuof.jpg\" /><br /><br />SPOKANE, Wash. — Donovan Dent made a three-pointer with one second remaining in regulation to help LSU upset No. 14 Gonzaga in the Bad Boy Mowers Series in the Numerica Veterans Arena Saturday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "896f086f1409cff8",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "WBB Stays on Road to Play at Stanford on Sunday",
+        "link": "https://gozags.com/news/2026/11/14/womens-basketball-wbb-stays-on-road-to-play-at-stanford-on-sunday",
+        "link_kind": "item",
+        "date": "2026-11-15T00:15:00+00:00",
+        "summary": "<img alt=\"emmy roach wbb\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/IMG_0172.jpg\" /><br /><br />GONZAGA (2-2) at STANFORD (3-1)",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "187f44e9bd2342e8",
+        "sport": "wbb",
+        "medium": "text"
+      },
       {
         "title": "WBB Falls to Grand Canyon on the Road",
         "link": "https://gozags.com/news/2026/11/13/womens-basketball-wbb-falls-to-grand-canyon-on-the-road",
@@ -2796,6 +2779,90 @@
         "source": "Gonzaga Athletics",
         "id": "875305c853c666be",
         "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "LSU's Donovan Dent hits dagger 3 to complete 13-point comeback against Gonzaga",
+        "link": "http://www.spokesman.com/stories/2026/nov/14/lsus-donovan-dent-hits-dagger-3-to-complete-13-poi/",
+        "link_kind": "item",
+        "date": "2026-11-14T00:00:00+00:00",
+        "summary": "<p>LSU’s Donovan Dent ran red-hot in the first half, navigated an ice-cold stretch in the second and finished Gonzaga off with a stone-cold 3-pointer in the waning seconds of an exhilarating come-from-behind victory at Numerica Veterans Arena.</p><p>Gonzaga led by 13 points with 8 minutes, 11 seconds remaining when a late 3-point shooting flurry kickstarted LSU’s comeback. The Tigers connected on four 3’s in less than three minutes before Dent laced a 24-foot step-back shot over Chauncey Wiggins, instantly quieting a sellout crowd of 12,000 fans. A 45-foot heave from Davis Fogle ricocheted off the backboard as the buzzer sounded, sealing the first loss of the season for 14th-ranked Gonzaga and snapping a seven-game win streak at the Arena.</p><p>After corresponding with Dent about a potential move to Gonzaga this offseason, Mark Few’s team instead had to watch the fifth-year point guard post 23 points and dial up 10 assists in an LSU uniform. Dent scored 16 points in the second half but the UCLA transfer managed only four more in the second before the late 3-point dagger. Dent crossed halfcourt, stopping at the left elbow before putting a dribble-move on Wiggins to create separation, giving him a clean look at the rim with less than five seconds on the game clock.</p><p>“My guy tripped at the halfcourt,” Dent said, describing the final play. “I was kind of giving it a running start momentum, so I’s get the pitch back. We got the switch and I don’t think we wanted to go to overtime here, so I knew I was shooting no matter what, and it went in.”</p><p>Dent, who planned to retire from basketball after the 2025-25 season, elected to pursue another season of eligibility late in the summer and touched base with Few’s coaching staff after Gonzaga lost starting point guard Mario Saint-Supery on July 11.</p><p>“It’s a great program. (Gonzaga) reached out to me, LSU reached out to me,” Dent said. “Ultimately I chose coach (Will) Wade and his staff, and I’m happy with it.”</p><!--[photoset id=13266]--><p>Dent and the transfer point guard Gonzaga eventually signed, Florida’s Xaivian Lee, both won a preliminary injunction in California three months ago, clearing both to compete in 2026-27 and putting them on opposite ends of the court Saturday afternoon.</p><p>Lee picked up two fouls inside the first two minutes and was whistled for his third before halftime. Gonzaga’s starting point guard provided some clutch shooting in the second half, but also committed a costly turnover with 1 minute, 11 seconds left, traveling after he slipped on a sideline out-of-bounds play.</p><p>Gonzaga made a series of late mental mistakes, unraveling down the stretch of a game the Bulldogs appeared in firm control of when Braden Huff’s short jumper extended the lead to 68-55.</p><p>Gonzaga made 12 of 15 shots from the field at one point in the second half to build a double-digit lead, but finished 4 of 13 down the stretch and didn’t make a shot in the final three minutes.</p><p>Meanwhile, LSU settled into an offensive groove late in the game, making 8 of its final 12 shots while getting nine points on three 3-pointers from guard Abdi Bashir Jr. in the final 5 minutes, 20 seconds.</p><p>“Obviously we did lose shooters, some of it was the actions they were running,” Few said. “We have to tag on their bigs rolling, got a couple of guys miss the low hole so they had to cover in or give up a dunk. Then obviously just the offensive glass I thought was a key again. Just huge, huge offensive rebound after offensive rebound.</p><p>“We’d get a stop on the first action and then they’d just pin their ear back and we couldn’t get an offensive rebound at the end, including a huge one on a free throw, which we’ve worked on a lot.”</p><p>Bashir Jr. supplemented LSU’s scoring with 15 points on 5 of 8 shooting from the 3-point line for a Tigers team that finished 8 of 14 from distance in the second half.</p><p>Huff led Gonzaga with 18 points and 13 rebounds, finishing 8 of 16 from the field. Fogle overcame a slow offensive start and navigated lower-body cramps in the second half to finish with 15 points on 5 of 13 shooting, 1 of 5 from the 3-point line and 4 of 7 from the free throw line. Fogle also had eight rebounds and six assists. Shooting guard Isiah Harwell lifted Gonzaga’s offense in the second half with a pair of 3-pointers and finished with 14 points.</p><p>Gonzaga was 0 of 8 from deep before Wiggins made the team’s first 3-pointer with 17 minutes, 35 seconds remaining in the second half. Wiggins, who secured a fifth year of eligibility Thursday afternoon through a preliminary injunction in Spokane Country, had three points in 13 minutes for Gonzaga.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "08599110c508cca3",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "No offense to LSU – or Gonzaga – but there has to be a better path forward in age of NIL | Ralph Walter",
+        "link": "http://www.spokesman.com/stories/2026/nov/14/no-offense-to-lsu-or-gonzaga-but-there-has-to-be-a/",
+        "link_kind": "item",
+        "date": "2026-11-14T00:00:00+00:00",
+        "summary": "<p>Moments after Gonzaga and LSU tipped off Saturday afternoon at Numerica Veterans Arena, Zags&#8217; player No. 5 used a nifty move to drive past his man and hit a short jumper for the game&#8217;s first basket. A bit later, No. 2 pressed full-court, stole the ball and fed a streaking No. 13 for a two-handed slam that sent the packed house into a frenzy.</p><p>My apologies, still putting names with faces&nbsp;— and numbers.</p><p>In a bruising game that matched the Zags&#8217; seven veteran transfers — along with holdovers Braden Huff and Davis Fogle — against a talented Tigers team boasting even more seasoned newcomers, it was 22-year-old ex-UCLA guard Donovan Dent who drilled a 3-pointer with a second left to beat 15th-ranked GU, 81-80.</p><p>With its electric atmosphere, stomping student section and unmistakable championship intensity, Saturday&#8217;s contest felt like most big Gonzaga games.</p><p>So why does it all feel so empty?</p><p>Is it because the college game has devolved into 20-something rentals battling fellow 20-something rentals? Or maybe the endless roster shakeups that have left fans feeling like they don&#8217;t know any players anymore? Perhaps it’s the greed-fueled dissolution of traditional leagues and rivalries? Or is it that we seem to spend more time following eligibility proceedings in courts rather than action on them?</p><p>Whatever the reasons, college athletics&nbsp;— specifically basketball and football&nbsp;— seem broken.</p><p>To be fair, this is much bigger than Gonzaga vs. LSU. It&#8217;s happening all across the nation, at all levels.</p><p>But Saturday&#8217;s game at the arena offered more proof that college sports have lost their way.</p><p>Combined, the GU and LSU rosters reportedly earn somewhere north of $30-million. The average age of the Tigers&#8217; starting five is slightly higher than what the San Antonio Spurs trotted out during the NBA playoffs last spring.</p><p>Controversial LSU coach Will Wade, who returned this season after the school fired him for alleged NCAA infractions in 2022, added three players with international professional experience and seven college transfers who have combined to play at 21 different schools. That doesn&#8217;t include RJ Luis, who spent the past year and a half away from the college game and seemed destined to remain ineligible because of SEC rules. He was granted a preliminary injunction on Friday, and according to social media tried unsuccessfully to catch a plane for Spokane in time to join his teammates. Luis, who began his career at UMass, played two seasons for St. John&#8217;s from 2023-25. He eventually played in three NBA preseason games with the Boston Celtics in 2025 before getting cut. He&#8217;ll be 24 in two weeks.</p><p>Wade has been steadfast in his recruiting approach, saying in September, &#8220;we&#8217;re going to be unapologetic. This is who we are. This is what we&#8217;re doing.&#8221;</p><p>Gonzaga&#8217;s path to fifth-year transfers hasn&#8217;t entirely been its own doing. GU&#8217;s returning core of Braden Huff, Davis Fogle and Mario Saint-Supery from last season were all original Zag recruits. But Saint-Supery bolted for a Spanish professional team in July, and heralded German recruit Jack Kayil chose to forgo Spokane for the NBA Draft.</p><p>Those late departures further pushed coach Mark Few and his staff into the &#8220;5-in-5&#8221; pool, where they landed Xaivian Lee, Javon Bennett and Chauncey Wiggins, three players who are each playing for their third schools. Wiggins, who became eligible on Thursday, played three games for the Boston Celtics at Summer League in July.&nbsp;</p><p>GU added two others transfers, Nathan De Sousa, a senior on his last year of eligibility whose resumé includes five seasons playing professionally in France; and junior Izan Almansa, who&#8217;s played three seasons of professional basketball, most recently for Real Madrid after not hearing his name called in the 2025 NBA Draft.</p><p>Against LSU, several of the first-year Zags had their moments in a game that saw GU surrender a 13-point, second-half lead. Isiah Harwell, the sophomore transfer from Houston, scored 14 points, Almansa had eight points and seven rebounds, and the pesky Bennett came off the bench to provide six points and five assists.&nbsp;</p><p>On paper, this Gonzaga roster is big, deep and primed to make another deep NCAA run.</p><p>But at what cost? College basketball has nothing to do with college now. It&#8217;s hard to imagine any of these guys actually showing up to class or interacting with fellow students at College Hall.</p><p>School loyalty used to mean something. But it&#8217;s severely one-sided at the moment, with fans paying more and more to watch players — and coaches&nbsp;— come and go at the bounce of a ball. Two nosebleeds to Saturday&#8217;s game were going for well over $100 bucks.</p><p>This here-today, gone-tomorrow approach is taking a toll. CBS Sports reported that in 2025-26 only 22 scholarship seniors across the power conferences spent their entire careers where they started.</p><p>These new Zags all seem like good guys. They&#8217;re obviously talented and will win plenty of games. And their coach has showed loyalty, staying in Spokane for decades while richer programs came-a-calling.</p><p>But being a fan in 2026 feels hollow, like we&#8217;re only cheering on the jersey without knowing the player wearing it.</p><p>Even with NIL and the transfer portal, it doesn&#8217;t have to be this way.</p><p>A year ago, Michigan State&#8217;s Tom Izzo was quoted as saying, &#8220;When I go in the portal, the first place I go is my locker room. I want to keep most of the guys on my team.&#8221;</p><p>Izzo&#8217;s Spartans, who are 4-0 and ranked No. 5, returned nearly everyone from a season ago, picking up just one transfer while losing another one.</p><p>That was always the Gonzaga way. Over the years we watched as raw freshmen developed into true Zags&nbsp;— the Ronny Turiafs, the Steven Grays, the Corey Kisperts, the Anton Watsons. Braden Huff and Davis Fogle are following that tradition. Maybe a couple of current GU freshmen still stick around long enough to make that same leap in the coming years.</p><p>At least that&#8217;s what we ought to be rooting for.</p><p>Otherwise, as Jerry Seinfeld once said about professional sports, we&#8217;re just rooting for laundry.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "9a92c32ec4748ebd",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Donovan Dent's clutch shots help Tigers upset Bulldogs | Difference makers",
+        "link": "http://www.spokesman.com/stories/2026/nov/14/gonzaga-lsu-difference-makers-donovan-dents-clutch/",
+        "link_kind": "item",
+        "date": "2026-11-14T00:00:00+00:00",
+        "summary": "<p><strong>Offensive difference maker:</strong> Through the first 20 minutes, the best player on the court was unquestionably LSU guard <strong>Donovan Dent</strong>. The fifth-year transfer from UCLA scored 16 points in the opening half, including a banked-in 3-pointer at the halftime buzzer to give LSU a 2-point lead at the break. Dent was much more quiet in the second half, scoring just four points before hitting the afternoon’s biggest shot – a game-winning 3-pointer with 1.5 seconds remaining. Dent – a transfer target of Gonzaga this summer – finished with 23 points and 10 assists.</p><p><strong>Defensive difference maker:</strong> It took just 1 minute, 45 seconds for Gonzaga starting point guard Xaivian Lee to pick up a pair of personal fouls, forcing Gonzaga coach Mark Few to turn to his bench and reserve guard <strong>Javon Bennett</strong>. The fifth-year Dayton transfer took advantge of the opportunity and was a menace on the defensive end of the floor for the Zags, nabbing four steals and dishing our five assists in his 23 minutes of action.</p><p><span class=\"print_trim\"><strong>Key moment:</strong></span> With the Bulldogs up by two points with 12 seconds remaining, Gonzaga guard Davis Fogle missed the back-end of a 1-and-1, giving LSU and Dent the ball back with a chance to go for the tie or win. Dent got isolated on newly-eligible Gonzaga wing Chauncey Wiggins on the perimeter and <strong>hit a 25-foot triple</strong> over Wiggins’ outstretched arms to secure the upset for LSU.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "1fa1789da8582a71",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Donovan Dent's jumper gives LSU win over No. 14 Gonzaga | Recap and highlights",
+        "link": "http://www.spokesman.com/stories/2026/nov/14/no-14-zags-face-off-with-lsu-at-numerica-veterans-/",
+        "link_kind": "item",
+        "date": "2026-11-14T00:00:00+00:00",
+        "summary": "<p>Donovan Dent hit a step-back 3-pointer with 1.5 seconds remaining as LSU stormed back from as many as 13 points down in the second half to stun No. 14 Gonzaga 81-80 on Saturday in front of a packed crowd at Numerica Veterans Arena.</p><p>Dent — a Gonzaga transfer target this offseason — paced the Tigers (4-0) with 23 points, while fellow guards Abdi Bashir Jr. and Skyy Clark added 15 and 14 points apiece.</p><p>Braden Huff led the Zags (2-1) with a double-double of 18 points and 13 rebounds, while Davis Fogle had 15 points for GU. Sophomore transfer guard Isiah Harwell added 14 points for GU, including a pair of momentum-shifting 3-pointers in the second half to help guide GU to its initial double-digit cushion.</p><p>Gonzaga trailed midway through the contest 39-37 after Dent scored 16 first-half points for the Tigers. But the Bulldogs finally got the offense on track in the second half, starting with a 3-pointer from newly-eligible wing Chauncey Wiggins at the 17:35 mark of the half. Wiggins’ 3-pointer was the first make of the day from deep for GU, which went 0-8 in the first half. Gonzaga shot 53.3% from the floor in the second half.</p><p>On the defensive end, backup point guard Javon Bennett was disruptive for the Zags, finishing with four steals and five assists. Bennett was forced into extra minutes after starting guard Xaivian Lee picked up two fouls in the game’s opening two minutes.</p><!--[video id=6409]--><p>Forward Izan Almanasa also played key minutes off the bench for GU, finishing with eight points and seven rebounds while playing most of the second half in place of starting forward Massamba Diop — who was limited to seven points in 22 minutes.</p><p>The Zags finished shooting 44.6% from the floor and 29.4% from 3-point range, while LSU shot 43.1% overall and 46.2% from deep. The Bulldogs also forced 13 LSU turnovers.</p><p>Gonzaga returns home Tuesday to take on Montana State at 8 p.m. — GU’s last game before heading to Las Vegas for the Players Era Festival over Thanksgiving.</p><p><a href=\"https://stats.statbroadcast.com/broadcast/?id=680971\" target=\"_blank\">BOX SCORE</a></p><!--[photoset id=13266]--><!--[teaser id=1366296]--><!--[teaser id=1366299]--><!--[teaser id=1366304]--><!--[teaser id=1366310]--><!--[teaser id=1366311]--><hr/><h3>Tigers respond</h3><p><strong>2nd, 1:12 - GU 79, LSU 78:</strong> The Tigers have drawn within one point behind a 7-0 run from second-chance points and free throws.</p><hr/><h3>LSU stays within striking distance</h3><p><strong>2nd, 4:22 - GU 75, LSU 68:</strong> Abdi Bashir Jr. makes a 3-pointer to cut into Gonzaga&#8217;s lead ahead of the media timeout.</p><p>LSU&#8217;s 3-point shooting has helped overcome committing more than twice as many turnovers as the Zags.</p><hr/><h3>GU begins to pull away</h3><p><strong>2nd, 7:41 - GU 68, LSU 55:</strong> The Zags&#8217; lead has ballooned to 13 points after a stretch of making four of their last five shots.</p><p>Conversely, LSU has not made a field goal in nearly four minutes.</p><hr/><h3>Zags go on run</h3><p><strong>2nd, 11:48 - GU 59, LSU 51:</strong> Gonzaga opens up its largest lead of the game after a 12-2 run.</p><p>Isiah Harwell is up to 12 points after making a corner 3-pointer to cap the run.</p><hr/><h3>Huff gets going</h3><p><strong>2nd, 15:39 - GU 47, LSU 46:</strong> Braden Huff is up to 12 points as Gonzaga regains the lead early in the second half.</p><p>Wiggins was able to make Gonzaga&#8217;s first 3-pointer of the game, swishing from the corner.</p><hr/><h3>Halftime</h3><p>LSU closes the half on a 6-0 run to take a 39-37 lead into halftime after struggling offensively for much of the first 20 minutes.</p><p>Gonzaga has dominated the paint and second-chance points but are 0 of 7 from the 3-point line.</p><p>Braden Huff leads the Zags with eight points. Almansa and Davis Fogle have added six points each.</p><p>Former GU recruiting target Donovan Dent has a game-high 16 points on 6-of-11 shooting.</p><hr/><h3>Tigers stay in touch</h3><p><strong>1st, 3:51 - GU 31, LSU 27:</strong> The Tigers make a run to tie the game 27-27 before Gonzaga responds with a pair of baskets.</p><p>GU starting point guard Xaivian Lee has dealth with foul trouble, picking up his third before the media timeout.</p><hr/><h3>GU turns up defense</h3><p><strong>1st, 7:43 - GU 20, LSU 15:</strong> Gonzaga&#8217;s lead climbs while LSU continues to struggle from the field, shooting just 29% so far.</p><p>Izan Almansa has a team-high six points for GU.</p><hr/><h3>Wiggins debuts</h3><p><strong>1st, 11:42 - GU 14, LSU 11:</strong> GU transfer Chauncey Wiggins checks into the game after being declared eligible this week.</p><p>With a large lineup on the court, Gonzaga has limited LSU to one of its last nine shooting.</p><!--[embed id=12502]--><hr/><h3>Zags settle down</h3><p><strong>1st, 15:41 - LSU 7, GU 6:</strong> The Tigers open up a 7-2 lead before consecutive baskets, including a circus finish by Javon Bennett, help the Zags cut into the deficit.</p><hr/><h3>Pregame</h3><p>With everyone&#8217;s travel plans intact after the unprecedented ground stoppage for all domestic flights issued by the FAA on Friday, No. 14 Gonzaga and LSU are ready for a <a href=\"https://www.spokesman.com/stories/2026/nov/13/no-14-gonzaga-welcomes-reconstructed-lsu-team-for-/\" target=\"_blank\">nonconference showdown at the Numerica Veterans Arena</a>.</p><p>Tip-off is scheduled for 12:30 p.m. on USA Network.</p><p>The unranked Tigers (3-0) still aren’t collecting AP votes two weeks into Will Wade’s second stint with the SEC schools, but they have Few’s undivided attention and then some heading into Saturday’s high-profile game against the 14th-ranked Zags (2-0). The Tigers have obliterated three opponents to this point, handling LSU New Orleans 100-57, Texas Southern 92-51 and Louisiana Tech 90-50, but still haven’t played anyone ranked higher than No. 264 at KenPom.</p><p>After leaving North Carolina State for the bayou, <a href=\"https://www.spokesman.com/stories/2026/nov/11/lsu-beat-writer-discusses-coach-will-wade-tigers-k/\" target=\"_blank\">Will Wade has a completely different Tigers team</a> from last season.</p><p>Wade added multiple 5-in-5 guards from the UCLA team that lost to Gonzaga in Seattle last year – Donovan Dent and Skyy Clark – signed <a href=\"https://www.spokesman.com/stories/2026/nov/13/gonzagas-davis-fogle-to-face-stern-defensive-test-/\" target=\"_blank\">forward Saliou Niang</a>, the 58th overall pick of the 2025 NBA Draft, and brought in 23-year-old center Brice Dessert, who has extensive experience playing overseas and in the EuroLeague.</p><p><a href=\"https://www.spokesman.com/stories/2026/nov/12/gonzagas-chauncey-wiggins-earns-preliminary-injunc/\" target=\"_blank\">The Zags</a> will have the backing of a home crowd. <a href=\"https://www.spokesman.com/stories/2026/nov/10/analyzing-gonzagas-2-0-start-and-a-look-ahead-to-l/\" target=\"_blank\">Gonzaga has won seven consecutive games at Numerica Veterans Arena</a> dating back to a 2011 loss to Memphis, haven’t played a single-digit game during that stretch and have won four of the seven by at least 20 points.</p><!--[embed id=12501]--><!--[embed id=12499]--><!--[embed id=12500]--><h3>Game preview </h3><!--[teaser id=1366201]--><!--[teaser id=1366224]--><!--[teaser id=1366086]--><h3>More on the Zags</h3><!--[teaser id=1366154]--><!--[teaser id=1365998]--><!--[teaser id=1365937]--><!--[teaser id=1365892]-->",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "3360599ca80cd86b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Donovan Dent, LSU guards leave an impression on Zags; Javon Bennett solid off bench | 3 takeaways",
+        "link": "http://www.spokesman.com/stories/2026/nov/14/donovan-dent-lsu-guards-leave-an-impression-on-zag/",
+        "link_kind": "item",
+        "date": "2026-11-14T00:00:00+00:00",
+        "summary": "<p>Three takeaways from Gonzaga’s 81-80 loss to LSU on Saturday at Numerica Veterans Arena.</p><h3>Tigers guards come through</h3><p>LSU’s backcourt was a handful throughout for the Zags, even before UCLA transfer Donovan Dent delivered a dagger 3-pointer with one second remaining.</p><p>Gonzaga threatened to pull away in the second half, taking a 68-55 lead with 8:11 left, but the Tigers stayed within striking range behind a trio of guards.</p><p>Skyy Clark, who entered the game just 1 of 16 on 3-pointers, hit three 3s. Clark, also a UCLA transfer, tallied a season-high 14 points. Abdi Bashir Jr. nailed four second-half 3s, all seemingly at timely moments in the final 12 minutes, and finished with 15 points.</p><p>Dent swished a game-winning 3 over Chauncey Wiggins to send the Tigers home with an upset win.</p><p>Add in Divine Ogochukwu’s seven points and LSU’s four guards combined for 59 of LSU’s 81 points.</p><p>The Tigers led 39-37 at half, largely due to Dent’s 16 points, including a banked-in 3-pointer just before the buzzer.</p><h3>Bennett big off bench</h3><p>Gonzaga got into early foul trouble when starting point guard Xaivian Lee picked up two quick fouls, but Javon Bennett came through with quality minutes in both halves.</p><p>Bennett scored on a layup with 16:06 left for just GU’s second field goal. He snagged three steals, two leading to transition baskets, and added an assist and a pair of free throws in 13 first-half minutes.</p><p>Bennett had another shift late in the half when Lee picked up his third foul with 3:50 remaining. Gonzaga held the lead for 13 of 20 first-half minutes.</p><p>Bennett continued to be effective in the closing half as the Zags stretched their lead. He fed Isiah Harwell for a corner 3-pointer after an LSU turnover. Harwell’s bucket put Gonzaga on top 59-51 with 11:47 remaining.</p><p>The same combination – Bennett dish, Harwell jam – connected a few minutes later to push Gonzaga’s lead to nine.</p><p>Bennett finished with six points, five assists and four steals.</p><p>Lee contributed nine points and two assists in 13 minutes.</p><h3>Wiggins debuts</h3><p>Chauncey Wiggins, the Florida State transfer who became eligible Thursday after being granted a temporary injunction by Spokane Superior Court Judge Dean Chuang, immediately joined GU’s rotation.</p><p>He subbed in with 14:38 left in the first half. The 6-foot-11 forward didn’t score in 4½ minutes, but he responded in the second half with a 3-ball shortly after entering the game to give GU a 43-41 lead.</p><p> Wiggins had three points and three boards in 12 minutes.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "9a3e30b297fbfb41",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga's Braden Huff battles inside for 18 points, 13 boards in loss to LSU",
+        "link": "http://www.spokesman.com/stories/2026/nov/14/gonzagas-braden-huff-battles-inside-for-18-points-/",
+        "link_kind": "item",
+        "date": "2026-11-14T00:00:00+00:00",
+        "summary": "<p>Braden Huff has never had more rebounds in a Gonzaga game.</p><p>He collected 13 against LSU on Saturday at Numerica Veterans Arena, four more than the senior’s previous high, but he, like his teammates, was left wanting more, especially in crunch time.</p><p>The visiting Tigers caught and passed Gonzaga with a 10-1 closing run. Donovan Dent capped it with a 3-pointer with 1 second left in LSU’s 81-80 upset victory, stunning a packed house.</p><p>LSU’s offensive rebounding in the second half played a major role in its ability to stay in the game and ultimately rally from a 68-55 deficit. Exactly one-third of the Tigers’ second-half points, 14 of 42, came after offensive boards, a category Gonzaga dominated in the opening half.</p><p>“That’s not an excuse, especially that late in the game. You have to find your legs, its winning time,” said Huff, who logged 36 minutes, matching his season high vs. Purdue. “We’ve got to be more physical, more tough, limit them to one shot. Limit them to one shot it’s a different story and we’re a lot happier.”</p><p>Huff gave GU that 68-55 lead with 8:11 left with a soft-touch basket in the lane for the last of his 18 points. He operated with his typical effectiveness against LSU’s stout frontcourt, creating space with back-down post moves and finishing in the paint. He was 8 of 14 before missing his last two shots.</p><p>“He’s a load, I love 13 (Izan Almansa) as well,” LSU coach Will Wade said. “I thought they played (Almansa) more than (Massamba) Diop in the second half just because of the ball-screen D, you’d have to ask coach (Mark) Few, and just his physicality.”</p><p>Wade last faced GU when he was the head coach at McNeese. He chose to double team Gonzaga’s frontcourt, led by Graham Ike and Anton Watson, in the Zags’ 86-65 first-round win in the 2024 NCAA Tournament.</p><p>Ike didn’t miss a shot and scored 16 points while Watson hung 13 points, 13 rebounds and nine assists on the Cowboys. Huff chipped in seven points in 16 minutes coming off the bench.</p><p>“We brought two people to all those guys and they just cut us up on the back side,” Wade recalled. “So (Saturday) we just tried to let them back us down and keep everybody attached so they didn’t get the cut with (Davis) Fogle and the other guys sneaking underneath.”</p><p>“Huff is just a great player and he backed us down and scored enough, but we had enough resistance down there a few times that we were able to stop him. But he’s a phenomenal player.”</p><p>Huff did some damage with his six offensive rebounds. He scored on a pair of putbacks after Fogle misses in the first half. Huff scored 10 of his 18 points in the second half and he grabbed a couple of defensive rebounds during the Tigers’ comeback.</p><p>Huff, held without a rebound in 25 minutes in Gonzaga’s win over New Mexico State last Saturday, led the Zags in defensive (seven) and offensive (six) boards. LSU freshman Michael Ruzic was the only other player with double-digit rebounds (12).</p><p>None of that mattered to the senior forward after the Zags&#8217; eight-point lead melted away in the final 3 minutes.</p><p>“They’re a physical team,” Huff said. “We knew we had to be physical. Thirteen boards is cool, but at the end of the game we have to get some of those and close it out.</p><p>“Just have to find a way to win and just figure it out.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "979f695aa9c40e20",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -3306,34 +3373,6 @@
         "medium": "text"
       },
       {
-        "title": "Five-star guard, top-ranked Washington prospect Jalen Davis names Gonzaga in final four",
-        "link": "http://www.spokesman.com/stories/2026/nov/03/five-star-guard-top-ranked-washington-prospect-jal/",
-        "link_kind": "item",
-        "date": "2026-11-03T00:00:00+00:00",
-        "summary": "<p>Gonzaga remains in the picture for one of the top prospects in the 2027 high school recruiting class.</p><p>Combo guard Jalen Davis, a five-star recruit from Bremerton considered to be the top high school player in Washington, named Gonzaga as one of his four finalists just days before an official visit to Spokane for Saturday’s home opener against New Mexico State.</p><p>Davis is also considering Washington, UCLA and North Carolina, he told On3.com’s Joe Tipton. The guard doesn’t currently have a commitment date set, according to Tipton.</p><p>Davis previously unveiled a list of 10 schools, featuring Gonzaga, UCLA, Washington, Stanford, Texas Tech, USC, Iowa, TCU, BYU and Ole Miss.</p><p>The Bremerton High standout is the No. 21 overall recruit in the high school class of 2027, according to the Rivals Industry Ranking that averages ratings from three major recruiting services: Rivals, ESPN and 247Sports.</p><p>Davis is also considered the No. 7 player at his position by On3/Rivals, which lists the 6-foot-4 prospect as a point guard.</p><p>“Davis has positional size, but he is also comfortable on or off the ball,” On3’s Jamie Shaw wrote in an evaluation of Davis. “With his length, he has some sneaky speed with the ball in his hands and can really put pressure on the defense in the open floor. He is also a quality shooter from 3-point range.</p><p>“As he cleans up his footwork and continues to work on his reads, there is real upside here with his natural abilities and physical gifts.”</p><p>Davis had a strong summer on the AAU Adidas 3SSB Circuit, averaging Adidas 3SSB Circuit, Davis averaged 24.3 points, 5.6 rebounds, 4.5 assists, and 2.8 steals per game for Slow Grind Elite.</p><p>The Zags currently have one player committed in the 2027 class, from five-star combo guard Dooney Johnson, a Milwaukee native who transferred to East River High School in Orlando for his senior season.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "1a09d902e229182b",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "'Thankful' Xaivian Lee delivers in a major way for Gonzaga in Purdue victory | Rewind",
-        "link": "http://www.spokesman.com/stories/2026/nov/03/thankful-xaivian-lee-delivers-in-a-major-way-for-g/",
-        "link_kind": "item",
-        "date": "2026-11-03T00:00:00+00:00",
-        "summary": "<p>LAS VEGAS – Gonzaga preserved one streak and ended another by holding off Purdue 78-72 in Monday’s season opener at T-Mobile Arena.</p><p>The Bulldogs continue to be a tough out on the first night of the college basketball campaign, picking up their 23rd straight season-opening victory – a streak that goes back to a Nov. 14, 2003, loss to Saint Joseph’s at Madison Square Garden.</p><p>In the process, Gonzaga ended a five-game skid against a Purdue program that handed Mark Few’s program three double-digit losses from 2022-24 and won the first two meetings between the schools in 1999 and 2000.</p><p>“Apparently (Zach) Edey was the curse,” TNT sideline reporter Allie Force said in a postgame interview with Few, referring to the 7-foot-3 two-time Naismith Trophy winner who had a prominent role on previous Gonzaga scouting reports.</p><p>“He was, he was,” Few said.</p><p>Xaivian Lee may not have occupied the top spot on Purdue’s scouting report, but the transfer point guard who wasn’t sure if he’d be playing college basketball three months ago leads our first regular-season rewind.</p><h3>X marks the spot</h3><p>Lee returned to the Hall of Fame Series one year after starting for Todd Golden and Florida against former Gonzaga assistant Tommy Lloyd and Arizona.</p><p>The Toronto native scored 14 points on 5 of 17 shooting and 3 of 11 from the 3-point line, pulling down six rebounds and dishing out five assists in Florida’s 93-87 loss.</p><p>Lee presumed he wouldn’t get another shot in the Hall of Fame Series – or in college basketball, for that matter – but after a NBA Summer League stint with the Cleveland Cavaliers, the point guard and others around the country began exploring the possibility of a fifth-year waiver. Lee joined a lawsuit in California, securing a preliminary injunction before committing to a Gonzaga program that was desperate for point guard depth after Mario Saint-Supery’s unexpected mid-summer departure.</p><p>The former Florida and Princeton player looked like a seamless fit in exhibitions against Arkansas and Lewis-Clark State and delivered for Gonzaga in Monday’s opener, scoring 18 points on 4 of 7 shooting, 3 of 4 from the 3-point line and 7 of 9 from the free -throw line. He had four rebounds, three assists and just one turnover.</p><p>“I think it’s kind of poetic that our first game is the exact same as my one last year,” Lee said. “It’s definitely a lot nicer to come out here with a win, but the last couple days I’ve been really thankful to be out here with these guys and playing. I thought today we did a really good job. Obviously we can still get a lot better and I think we will, but we executed pretty well.”</p><p>Monday’s debut should be a positive sign, both for Lee and Gonzaga, when accounting for the fact the point guard committed to Few’s program on Aug. 26 and didn’t arrive in Spokane until early September, giving him roughly two months to jell with teammates and learn the playbook before opening against a talented, well-coached Purdue team.</p><p>Lee was steering the ship when GU opened up the first double-digit lead in the second half, knocking down a 3-pointer and drawing a foul on another 3-point attempt. He accounted for three of the eight free throws made by GU players inside the final two minutes to help seal the win.</p><p>“He’s fast, obviously we were aware of him,” Boilermakers coach Matt Painter said. “I saw him at the (NBA) combine because I went to see a couple of our guys at the Combine. I hadn’t seen him play before. I know that’s crazy, playing at Florida, but I didn’t see him play last year so then I watched tape. His speed, we really wanted to get to him to limit that speed.</p><p>“Made three huge 3s. Just like him and (Davis) Fogle, more than anything was keep them off the free throw line. Lee was pretty impressive, 3-to -1 assist-to-turnover ratio, 4-for-7 (from the field), 3-for-4 (on 3s), but the 7-for-9 from the line, that’s where we felt like they just did a better job being aggressive and being able to draw those fouls.”</p><h3>Almansa to the rescue</h3><p>Gonzaga’s frontcourt faced not one, but two troubling developments in the first half.</p><p>Matched up with 7-foot-4 Purdue center Daniel Jacobsen, Massamba Diop struggled to defend without fouling and the Arizona State transfer was bench-bound after picking up his second foul with four minutes left in the opening frame. Fellow frontcourt starter Braden Huff, meanwhile, dealt with his own issues. Huff missed five of his first seven looks and struggled to convert the short floaters and push shots that usually drop at a near-automatic rate.</p><p>Enter backup forward Izan Almansa.</p><p>The Spanish forward who became eligible just 10 days earlier was Gonzaga’s most effective big in many ways, providing 29 quality minutes off the bench in his college debut. Almansa was GU’s top bench scorer with 11 points, making 4 of 6 shots from the field and going 3 of 3 from the free-throw line while adding four rebounds.</p><p>“He’s been great, he’s just been a pleasant surprise,” Few said. “Easygoing guy, reminds me so much of Killian Tillie the way he can initiate offense. He’s got just a wonderful feel for the game, you can have him bring the ball up the floor and I think these guys would tell you, players like that are really easy to play with.”</p><h3>Chaos continues</h3><p>Few may grow tired of the question eventually, but for now Gonzaga’s coach is still willing to opine on the ongoing 5-in-5 eligibility chaos impacting his program and others around the country.</p><p>Gonzaga had two 5-in-5 transfers on the court Monday – Lee and fellow point guard Javon Bennett – and another, wing Chauncey Wiggins, on the bench. Wiggins, a 6-foot-10 sharpshooter who spent three seasons at Clemson and one at Florida State, continues to explore eligibility options after coming up emptyhanded in two separate state lawsuits.</p><p>Few was asked Monday how he’s navigated an unprecedented era of college basketball.</p><p>“Great, we’re well-educated now on the legal system, on the American justice system,” Few said. “We wake up every day, these guys are practicing with us and they’re wonderful teammates. They’re all graduate students, do a great job in class. They’re very, very good players and the exact type of players we want in college basketball.”</p><p>Gonzaga’s coach has been outspoken on the topic, reiterating Monday the high school class of 2022 should be grandfathered into the NCAA’s new 5-in-5 eligibility model.</p><p>“The NCAA screwed up on this deal,” Few said. “They did. We brought it up as coaches. We told them this isn’t the right time. I’m involved with the Protect College Sports Act and that thing’s coming down the pipe here shortly and you’ve just got to be fair and let these ’22s in. So if you’re on the right side of it, I think you always feel good about it and I feel great about it.</p><p>“Blessed to have X (Lee) playing, Javon came in and made two huge free throws there and when we get Chauncey, look out because he’s a heckuva player.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "316ddcf4735b5fb3",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Gonzaga vs. Purdue Preview",
         "link": "https://houseofkrause.substack.com/p/gonzaga-vs-purdue-preview",
         "link_kind": "item",
@@ -3359,10 +3398,7 @@
         "source": "Gonzaga Athletics",
         "id": "3cd86a4f04393d14",
         "sport": "mbb",
-        "medium": "text",
-        "also": [
-          "The Spokesman-Review"
-        ]
+        "medium": "text"
       },
       {
         "title": "BONUS: Schedule Look Ahead",
@@ -3379,20 +3415,6 @@
         "medium": "text"
       },
       {
-        "title": "WBB Opens Regular Season Against North Dakota State on Monday",
-        "link": "https://gozags.com/news/2026/11/1/womens-basketball-wbb-opens-regular-season-against-north-dakota-state-on-monday",
-        "link_kind": "item",
-        "date": "2026-11-02T02:48:00+00:00",
-        "summary": "<img alt=\"wbb huddle\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/96_1F2A0454.jpg\" /><br /><br />NORTH DAKOTA STATE (0-0) at GONZAGA (0-0)",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "a22f22efbc8fe6a0",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Scouting the Zags",
         "link": "https://houseofkrause.substack.com/p/scouting-the-zags",
         "link_kind": "item",
@@ -3403,48 +3425,6 @@
         "channel_url": "",
         "source": "House of Krause",
         "id": "23e5709551fcd1a4",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Gonzaga navigates highs and lows to emerge with 78-72 victory in season opener against Purdue",
-        "link": "http://www.spokesman.com/stories/2026/nov/02/gonzaga-navigates-highs-and-lows-to-emerge-with-78/",
-        "link_kind": "item",
-        "date": "2026-11-02T00:00:00+00:00",
-        "summary": "<p>LAS VEGAS – It isn’t hard to draw parallels between Gonzaga’s unique offseason and Monday’s season-opening victory against Purdue.</p><p>Both were suspenseful, required some late magic and somehow came together in the end, even when things weren’t always looking promising.</p><p>It was a seesaw battle for about 25 minutes between the Bulldogs and Boilermakers, who swapped the lead nine times through the first half at T-Mobile Arena. Gonzaga established an 11-point lead, almost coughed it up and emerged with the program’s first victory over Purdue in six tries, winning 78-72 in front of a split crowd in Las Vegas.</p><p>“I thought we played with great poise,” Gonzaga coach Mark Few said. “We talk about, that’s what we have to toughen up, both mentally and physically. That was a really, really hard-fought, physical game. Just what we expected. Down the stretch, we really dug out some stops, we dug out some tough rebounds and we got the ball to the right spot.”</p><p>Neither team took control – or led by more than two possessions – until starting point guard Xaivian Lee and reserve forward Izan Almansa combined for 13 points during a 15-6 second-half run that stretched Gonzaga’s lead out to 10 points with 12 minutes, 51 seconds remaining.</p><p>The Zags weren’t totally in the clear, though, and Purdue seized control of the game for the next nine minutes, chipping away at the deficit until Antoine West Jr. converted a short jump shot to make it a two-point game with three minutes remaining.</p><p>On a career-high scoring night, Gonzaga’s Davis Fogle responded at the other end, driving into the lane before throwing up an off-balanced shot over multiple Purdue players that bounced twice off the rim before falling through the net.</p><p>Purdue missed badly on two 3-pointers down the stretch and Gonzaga fared well enough at the charity stripe to ice the game and secure the first win of the season. The Zags finished 26 of 34 (76%) on the night, making 25 of 30 (83.3%) in the second half and going 8 of 10 (80%) in the final two minutes.</p><p>“You’ve got to play with poise, you’ve got to take care of the ball, you’ve got to get shots on your term and then just get stops,” Few said. “Mission accomplished.”</p><!--[photoset id=13260]--><p>Fogle wasn’t always efficient from the field, but the sophomore wing created foul pressure on Purdue all night, finishing with a career-best 22 points on 6 of 18 shooting, 9 of 10 from the free -throw line and 1 of 5 from the 3-point line.</p><p>“I think we did a good job closing the game out, making our free throws,” Fogle said. “Just us getting to the line definitely slowed the game down for us and we were able to control our lead.”</p><p>Fogle was one of four double-figure scorers for a balanced Gonzaga team that got 18 points from Lee, who finished 4 of 7 from the field, 3 of 4 from the 3-point line and 7 of 9 from the free -throw line in his Zag debut. Almansa had 11 points in his college debut, giving the Zags some much-needed frontcourt production with starter Massamba Diop in foul trouble much of the game. Braden Huff added 10 despite struggling from the field on a 4 of 11 shooting night.</p><p>Gonzaga withstood a career-high 22-point outing from 7-foot-4 Purdue center Daniel Jacobsen, who finished 9 of 11 from the field and 4 of 5 from the free -throw line. The Boilermakers struggled when Jacobsen picked up his fourth foul, sending the junior to bench for roughly four minutes in the second half.</p><p>“I think three of my fouls were completely unnecessary and I can learn from that,” Jacobsen said. “Be a lot more disciplined, staying down, keeping my arms straight up and stay on the floor.”</p><p>Few identified the rebounding battle as a major key for Gonzaga entering Monday’s opener. The Zags won there, maintaining a 34-31 advantage on the glass and a 10-7 edge in offensive rebounding.</p><p>A Gonzaga team coming off the two worst 3-point shooting seasons of the Few era finished 6 of 16 (37.5%) from the 3-point line and, just as importantly, held a capable Purdue team to 5 of 21 (23.8%).</p><p>The Zags lost to the Boilermakers by double figures three times over a 20-month span from 2022-24 and dropped two other meetings during the 1999 and 2000 seasons.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "d4cbb799678c00de",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "No. 15 Gonzaga opens season with first win over Purdue | Recap and highlights",
-        "link": "http://www.spokesman.com/stories/2026/nov/02/no-15-gonzaga-opens-season-with-bigtime-matchup-ag/",
-        "link_kind": "item",
-        "date": "2026-11-02T00:00:00+00:00",
-        "summary": "<p>LAS VEGAS – For about 25 minutes, it was a seesaw battle between 15th-ranked Gonzaga and Purdue in Monday&#8217;s season opener at T-Mobile Arena.</p><p>The Bulldogs and Boilermakers traded the lead nine times in the first half – neither able to gain any real separation until a scoring flurry from Gonzaga pushed Mark Few&#8217;s team out to a 10-point lead in the second half.</p><p>Xaivian Lee and Izan Almansa combined for 13 of 15 points during a key second-half run and Gonzaga held off a late push from Purdue, allowing the Bulldogs to prevail 78-72 and pick up the program&#8217;s first victory over the Boilermakers.</p><p>Gonzaga had scoring contributions across the board, but Davis Fogle led the Bulldogs with 22 points, making 6 of 18 shots from the field while going 9 of 10 from the free throw line.</p><p>Lee, who joined Gonzaga&#8217;s roster in late August as a fifth-year transfer, added 18 points on 4 of 7 from the field and 7 of 9 from the free throw line. Almansa supplied 11 points off the bench and Braden Huff added 10 points to go with a game-high seven rebounds.</p><!--[video id=6388]--><p>Gonzaga stretched the lead to a game-high 11 points in the second half, but Purdue clawed back with a 10-2 scoring run and closed the deficit to two points on Antoine West Jr.&#8217;s jumper in the paint.</p><p>Fogle got a layup to rattle in on the next possession and the sophomore wing made three of Gonzaga&#8217;s eight free throws inside the final two minutes to ice the victory.</p><p>The Bulldogs withstood a career-high outing from 7-foot-4 Purdue center Daniel Jacobsen, who had 22 points on 9 of 11 from the field and 4 of 5 from the free throw line.</p><p>Gonzaga (1-0) has four days off before returning to McCarthey Athletic Center for Saturday&#8217;s home opener against New Mexico State. The Aggies open the season on Tuesday at home against Western New Mexico.</p><p><a href=\"https://stats.statbroadcast.com/broadcast/?id=689991\" target=\"_blank\">BOXSCORE</a></p><!--[photoset id=13260]--><!--[teaser id=1365471]--><!--[teaser id=1365470]--><!--[teaser id=1365462]--><!--[embed id=12462]--><!--[embed id=12463]--><!--[embed id=12464]--><!--[embed id=12465]--><hr/><h3>Key moments</h3><h3>GU uses foul shots to hold on</h3><p><strong>Final – Gonzaga 78, Purdue 72:</strong> Gonzaga standout Davis Fogle opened his sophomore season with a career day and all but sealed the Bulldogs&#8217; first-ever win over Purdue with clutch foul shots.</p><p>Fogle (career-high 22 points) knocked down two free throws to put GU up by five points in the final 30 seconds after the Boilermakers erased a double-digit deficit in the last five minutes and closed to within a possession late.</p><p>Fogle missed a tough floater with 50 seconds left. A Purdue 3-pointer was off-target on the other side, but Caden Pierce pulled down a rebound and dunked it to cut GU&#8217;s lead to three points with 30 seconds left. Then Fogle drew contact and hit two huge free throws.</p><p>Javon Bennett and Xaivian Lee added free throws later for the Zags, who finished 26 of 34 from the foul line.</p><p>&#8220;I thought we toughened up,&#8221; coach Mark Few said during a postgame interview with TNT. &#8220;&#8230; I thought we played with some pretty good poise.&#8221;</p><hr/><h3>Purdue sets up anxious finish</h3><p><strong>2nd half, 1:51 – Gonzaga 71, Purdue 66:</strong> Purdue crept to within two points with a 10-1 run, taking advantage of a string of GU misses and hitting a few clutch shots to set up an anxious finish. GU&#8217;s Davis Fogle stopped the bleeding with an incredibly difficult make on an off-balance floater, then hit a free throw to restore a two-possession lead.</p><hr/><h3>Not so fast</h3><p><strong>2nd half, 4:50 – Gonzaga 67, Purdue 62:</strong> After struggling to get much going offensively for a few minutes, the Boilermakers have found a spark. </p><p>They closed a double-digit gap with a 6-0 run. Gicarri Harris had a four-point play and Daniel Jacobsen knocked down a pair of free throws to make things interesting. </p><hr/><h3>De Sousa gives GU biggest lead</h3><p><strong>2nd half, 5:48 – Gonzaga 67, Purdue 56:</strong> GU newcomer Nathan De Sousa&#8217;s first bucket in a Zag uniform was a beauty.</p><p>The guard from France sliced into the paint and finished an awkward scoop layup to give the Zags their biggest lead of the game.</p><p>The Boilermakers were matching the Zags shot for shot in the first half, but Purdue seems to have lost a step with Daniel Jacobsen in foul trouble while GU&#8217;s offense is finding a late flow.</p><hr/><h3>GU settles, stifles Purdue rally</h3><p><strong>2nd half, 7:58 – Gonzaga 63, Purdue 54:</strong> The Boilermakers used a 6-0 spurt to cut the deficit to four points, capitalizing on a GU scoring drought of about three minutes. But the Zags&#8217; defense settled things down and GU&#8217;s ballhandlers started aggressively attacking inside to draw fouls.</p><p>The Zags have gone nearly five minutes without a field goal, but they&#8217;re earning plenty of opportunities at the foul line, where they are 17 of 22 in this one. Purdue went about three minutes without a point as the Zags extended their lead with free throws from Xaivian Lee, Braden Huff and Davis Fogle. Fogle and Lee are leading the team with 17 and 15 points, respectively.</p><p>Purdue big man Daniel Jacobsen, who&#8217;s been the team&#8217;s most effective player, has spent much of the second half on the bench in foul trouble.</p><hr/><h3>Zag lead hits double digits</h3><p><strong>2nd half, 11:57 – Gonzaga 56, Purdue 48</strong> – Izan Almansa, the former pro from Spain, continues to impress in his GU debut.</p><p>The 6-10 forward fought through contact and converted a layup, drawing a foul and finishing the three-point play to put GU up 56-46 before the Boilermakers answered with another jump hook from 7-footer Daniel Jacobsen. </p><p>Almansa now has 11 points of 4 of 6 shooting, joining two other Zags in double figures.</p><!--[embed id=12461]--><hr/><h3>Quick burst extends GU lead</h3><p><strong>2nd half, 14:50 – Gonzaga 51, Purdue 42:</strong> In a blink the Zags opened up a game-high nine-point lead.</p><p>Izan Almansa hit a pair of free throws, then Purdue answered with a jumper before Almansa&#8217;s second jam of the game. Xaivian Lee rebounded a Boilermaker miss on the other end, then drilled a stepback 3-pointer, igniting the Zag bench and the large contingent of GU supporters in Vegas.</p><p>The two Zag newcomers are looking like very solid additions.</p><!--[embed id=12460]--><hr/><h3>Purdue big man creates matchup problems</h3><p><strong>2nd half, 15:59 – Gonzaga 44, Purdue 40:</strong> Purdue&#8217;s offense is revolving around 7-footer Daniel Jacobsen, who put in three straight shots from close range. But Jacobsen just went to the bench with his third foul, which could be a major development.</p><p>The Zags haven&#8217;t scored a field goal over the last 2:40, but they&#8217;re moving the ball inside and drawing fouls, and preserving their lead from the line. Lee is into double figures in his Zag debut after he drove into the paint and drew a goaltend.</p><hr/><h3>Zags take lead into break</h3><p><strong>Halftime – Gonzaga 36, Purdue 33:</strong> An energetic, highly entertaining first half in the season opener ended with the Zags holding a narrow lead after Davis Fogle knocked down a difficult reverse layup in traffic in the final minute.</p><p>Neither team led by more than six points and the first half featured nine lead changes. Purdue hit 1 of its last 8 field goals in the half and committed three turnovers over the final three minutes.</p><p>The Zags&#8217; 3-point shooting was the difference. They went 5 of 8 compared to Purdue&#8217;s 4-for-13 mark from beyond the arc. GU is shooting 15 of 28 (54%) overall and the Boilermakers are 14 of 31 (45%) from the floor. Rebounding and turnovers are about even.</p><p>Fogle leads all players with 11 points (5 of 10). Lee has six points on a pair of 3s. Huff has been held to five points on 2 of 5. Pacing Purdue is 7-4 center Daniel Jacobsen (eight points).</p><!--[embed id=12457]--><hr/><h3>GU&#8217;s 3-point shooting impresses</h3><p><strong>1st half, 1:50 – Gonzaga 34, Purdue 33:</strong> Outside shooting was an issue for the Zags last year. That doesn&#8217;t seem to be the case with this team.</p><p>GU is 5 of 8 from 3-point range. Transfer point guard Xaivian Lee is 2 of 2 from deep. He just answered a 3 from Purdue&#8217;s Pierce with a contested triple.</p><p>The Boilermakers used a 7-0 spurt to take the lead before Lee&#8217;s first 3 calmed things down for GU. Transfer guard Javon Bennett, Fogle and Diop also have hit 3s.</p><p>The teams are both playing with pace and making extra passes. It&#8217;s been a pretty fluid half, despite all the newness on the court for both sides.</p><!--[embed id=12458]--><!--[embed id=12459]--><hr/><h3>Fogle heats up, Zags take lead</h3><p><strong>1st half, 7:51 – Gonzaga 26, Purdue 23</strong> – Sophomore standout Davis Fogle scored five quick points, including a 3, for the Zags to put them up by a game-high six points, but the Boilermakers halted the mini run. Purdue hit three straight shots.</p><p>Huff showed off his fancy footwork to answer a basket from his high school teammate, Purdue&#8217;s Caden Pierce.</p><p>The Zags are shooting 12 of 19 (63%) from the field. They already have nine assists.</p><hr/><h3>Teams trading buckets in entertaining start</h3><p><strong>1st half, 11:43 – Gonzaga 16, Purdue 14:</strong> Both teams are finding a rhythm offensively, capitalizing on nice feeds to post players. Both teams are shooting 7 of 13 from the field after a fast-paced, back-and-forth stretch. Diop had a nice assist to Braden Huff for a layup, and GU newcomer Izan Almansa, a former Spanish pro, converted on a perfect dish from Huff before jamming a two-handed dunk. But the Boilermakers have answered every basket.</p><hr/><h3>Post players start fast</h3><p><strong>1st half, 15:54, Gonzaga 6, Purdue 6:</strong> Arizona State transfer Massamba Diop, a 7-1 center, knocked down his first bucket in a Zags uniform. And unexpectedly, it wasn&#8217;t from close range. Diop drained a 3-pointer for GU&#8217;s first basket of the season.</p><p>But Purdue big man Daniel Jacobsen answered with back-to-back makes in the paint. Diop responded with a block before a rejection from the 7-4 Jacobsen on a Davis Fogle attempt. The game is tied 6-6 at a timeout at the 15:54 mark. The teams have combined to shoot 5 of 12 in the early goings.</p><hr/><h3>GU&#8217;s new-look lineup</h3><p>The Zags are rolling with three transfers and two returners in their starting lineup.</p><p>Their backcourt includes Florida transfer Xaivian Lee, who gained a fifth year of eligibility when a California court granted a temporary restraining order against the NCAA, and Houston transfer Isiah Harwell. Sophomore returner Davis Fogle is starting at wing while senior standout Braden Huff and Arizona State transfer Massamba Diop will occupy the post spots.</p><hr/><h3>Zags looking for first win against Purdue</h3><p>The college hoops heavyweights have matched up five times before, and Purdue has won them all.</p><p>The Boilermakers beat the visiting Zags 83-68 in the teams&#8217; first meeting in November 1998. GU got a rematch the following season in the NCAA Tournament, but the 10th-seeded Zags fell to sixth-seeded Purdue 75-66 in the Sweet 16.</p><p>The teams didn&#8217;t meet again for over two decades. They squared off in November 2022 at the Phil Knight Legacy tournament in Portland, and 24th-ranked Purdue knocked off No. 6 Gonzaga 84-66 to advance to the tourney championship game.</p><p>The next season, the second-ranked Boilermakers, led by star big man Zach Edey, beat GU 73-63 in a Maui Invitational quarterfinal game in November. The most recent meeting came during the same season, in the Sweet 16 of the 2024 NCAA Tournament, where top-seeded Purdue, again led by Edey, topped fifth-seeded Gonzaga 80-68.</p><p>&#8220;I&#8217;ve been haunted by Zach Edey,&#8221; GU coach Mark Few said Monday during a pregame interview on TNT. &#8220;I think he&#8217;s still in Memphis (with the NBA&#8217;s Grizzlies).&#8221;</p><hr/><h3>Few talks matchup in pregame interview</h3><p>The Zags&#8217; Hall of Fame coach discussed his team&#8217;s roster rebuild and its big season-opening matchup with the Boilermakers on TNT before the game.</p><p>&#8220;We&#8217;re trying our best,&#8221; Few said of GU&#8217;s roster makeover. &#8220;It&#8217;s been challenging, but it&#8217;s been fun. It&#8217;s been a great group to work with, a lot of positive energy and a bunch of different skill sets. It&#8217;s actually been fun.&#8221;</p><p>&#8220;The biggest challenge,&#8221; Few said, is making sure the new-look team &#8220;plays to our strengths&#8221; and finds situational matchups. To earn their first-ever win over Purdue, the Bulldogs need to win a &#8220;battle of toughness,&#8221; Few said.</p><p>&#8221;(The Boilermakers) are always so tough and so disciplined and well-coached. You have to beat them. They&#8217;re not going to beat themselves.&#8221;</p><hr/><h3>Pregame</h3><p>The time for roster building, transfers, eligibility appeals and speculation is finally behind the Gonzaga men&#8217;s basketball team.</p><p>Now it&#8217;s time to actually play basketball.</p><p>The No. 15 Zags <a href=\"https://www.spokesman.com/stories/2026/nov/01/years-in-the-making-no-15-gonzaga-ready-to-roll-ou/\" target=\"_blank\">tip off their season against Purdue in the Hall of Fame Series</a> tonight at 4:30 p.m. from T-Mobile Arena in Las Vegas. The game will be broadcast on TNT.</p><p>It&#8217;s a matchup that features two of the game&#8217;s top coaches in recent Naismith Basketball Hall of Fame inductee Mark Few and Matt Painter, who has led the Boilermakers to 11 straight NCAA Tournaments and was national runner-up in 2024.</p><p>Gonzaga will feature a formidable frontcourt with senior power forward <a href=\"https://www.spokesman.com/stories/2026/oct/31/on-bfr-self-belief-and-the-road-back-to-basketball/\" target=\"_blank\">Braden Huff back from injury</a>, Arizona State transfer Massamba Diop at center and sophomore Davis Fogle coming off the wing.</p><p>The Zags will hope that trio, aided by a new-look backcourt assembled after <a href=\"https://www.spokesman.com/stories/2026/nov/01/the-obstacle-is-the-way-behind-the-scenes-of-gonza/\" target=\"_blank\">an offseason of upheaval</a>, will amount to a winning formula. The Zags are 4½-point favorites according to <a href=\"https://www.vegasinsider.com/college-basketball/odds/las-vegas/\" target=\"_blank\">vegasinsider.com</a>.</p><p>The Boilermakers are <a href=\"https://www.spokesman.com/stories/2026/oct/31/how-will-purdue-look-in-a-post-braden-smith-era-in/\" target=\"_blank\">turning the page after an illustrious four-year career from point guard Braden Smith</a>, who graduated from the program as the NCAA career assists leader. Look for <a href=\"https://www.spokesman.com/stories/2026/nov/01/at-7-4-purdues-daniel-jacobsen-is-literally-figura/\" target=\"_blank\">7-foot-4 center Daniel Jacobsen</a> to make a big impact inside.</p><!--[embed id=12456]--><!--[embed id=12455]--><!--[embed id=12454]--><!--[embed id=12453]--><!--[embed id=12452]--><hr/><h3>Game preview</h3><!--[teaser id=1365380]--><!--[teaser id=1365372]--><!--[teaser id=1365379]--><!--[teaser id=1365374]--><hr/><h3>More on the Zags</h3><!--[teaser id=1364943]--><!--[teaser id=1365317]--><!--[teaser id=1365349]--><!--[teaser id=1364894]-->",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "88c0b2c2ebd6c6ff",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "How defense, rebounding helped Gonzaga hold off Purdue's second-half comeback",
-        "link": "http://www.spokesman.com/stories/2026/nov/02/how-defense-rebounding-helped-gonzaga-hold-off-pur/",
-        "link_kind": "item",
-        "date": "2026-11-02T00:00:00+00:00",
-        "summary": "<p>LAS VEGAS – Gonzaga won a couple of stat categories that frankly have been cornerstones during Purdue’s sustained run of success over the last decade or so.</p><p>One of those was rebounding, which hasn’t exactly been Gonzaga’s strong suit leading into Monday’s season opener at T-Mobile Arena.</p><p>The other was the 3-point line, where Purdue has been the nation’s best at 38.9% accuracy spanning the last three seasons, followed by four nonpower conference programs.</p><p>The 15th-ranked Zags had the upper hand on the boards and limited Purdue to just five made 3-pointers, key factors in a 78-72 victory that was short on aesthetics but long on grit.</p><p>“We talked all week about the glass just being huge,” Zags coach Mark Few interjected between answering questions on other topics. “Just watching how hard they weren’t against UConn in that exhibition, we really challenged the guys.”</p><p>Gonzaga held a small advantage, 34-31, on the boards, including 10-7 on the offensive end, contributing to an 11-4 edge in second-chance points.</p><p>“That hasn’t been a real strength so far for us this fall, that was a real concern,” Few said. “These guys stepped up and got it done.”</p><p>Both teams are dealing with significant roster makeovers from last season so it might take a while to determine their strengths this year. Purdue lost its top four scorers while GU returned just two players, Braden Huff and Davis Fogle, who played last season.</p><p>The Boilermakers misfired on their first five 3-point attempts, despite getting fairly clean looks. They recovered with four made 3s by the end of the half, but still trailed 36-33, thanks in part to Gonzaga’s 5 of 9 shooting behind the arc.</p><!--[photoset id=13260]--><p>“I think we were getting great looks, executing really well,” said Purdue guard C.J. Cox, who was 1 of 5 on 3-pointers. “It’s going to fall. We trust our guys. We know we put the work in.”</p><p>Both teams were ice cold from distance in the final 20 minutes, combining to make 2 of 15 attempts.</p><p>“Well, it didn’t feel like we were going to do that (hold Purdue down from 3) in the first half, but you just have to force them into taking them,” Few said. “They’ll take tough ones if you kind of stay on their bodies. When we did lose them, especially in the first half, they got too much separation and that’s when they made us pay.</p><p>“B-Mike (assistant coach Brian Michaelson) kept reminding the guys when we hit our coverages our defense was pretty solid. Down the stretch the game, I think we’ll look back and be really happy with our execution at the end.”</p><p>Florida transfer Xaivian Lee made the Zags’ lone 3 in the second half, and it was a big one that extended their lead to 51-42. Trailing by 11, Gicarri Harris connected on the Boilermakers only second-half 3 and it turned into a four-point play when he was fouled by Lee with 5:35 remaining.</p><p>“These guys stepped up and got stops,” Fogle said. “Defensively, we let them get to their spots a little bit too much. Second half, they still got to their spots and we forced them into tough shots, tough 2s and we got rebounds we weren’t supposed to get.”</p><p>Purdue is a pain to defend with a thick playbook, loaded with counters and bruise-inducing screens. The Boilermakers were solid on 2-pointers – 21 of 34 – but couldn’t overcome 5 of 21 on 3s.</p><p>“Matt (Painter, Purdue coach) does just an amazing job with the execution, the speed, physicality,” Few said. “These poor guys (Lee and Fogle seated nearby) are just getting blasted, they need a cold tub on those off-ball screen and on-ball screens. But they kept fighting, and lot of times they got a late contest which really makes a big difference.”</p><p>Purdue had a chance to make things very interesting in crunch time but missed its last five 3-point attempts.</p><p>“We get three really good looks in the last three, four minutes, open 3-pointers and we shoot airballs,” Painter said. “I don’t know if it was fatigue or concentration or both, but that’s your goal. When you take good shots, as a coach you live with that.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "d593de2c5ab2b827",
         "sport": "all",
         "medium": "text"
       },
@@ -3557,20 +3537,6 @@
         "channel_url": "",
         "source": "Gonzaga Athletics",
         "id": "9f359dd874cf4fd1",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Gonzaga Picked Pac-12 Preseason Favorite",
-        "link": "https://gozags.com/news/2026/10/29/mens-basketball-gonzaga-picked-pac-12-preseason-favorite",
-        "link_kind": "item",
-        "date": "2026-10-29T18:00:00+00:00",
-        "summary": "<img alt=\"Kraziness high five\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/147-1F2A7194A.jpg\" /><br /><br />SAN RAMON, Calif. – In its first year in the league, Gonzaga unanimously topped the 2026-27 Pac-12 Conference Preseason Media Poll released Thursday. The Zags' Davis Fogle and Braden Huff were selected to the conference's Preseason Player Impact List as well.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "3439aa57c92eb7fb",
         "sport": "mbb",
         "medium": "text"
       },
@@ -3713,23 +3679,65 @@
         "id": "1b7515b4434bb9ab",
         "sport": "wbb",
         "medium": "text"
-      },
-      {
-        "title": "Ranking Gonzaga Women’s Nonconference Schedule",
-        "link": "https://houseofkrause.substack.com/p/ranking-gonzaga-womens-nonconference",
-        "link_kind": "item",
-        "date": "2026-09-30T16:06:14+00:00",
-        "summary": "Tristan Freeman looks at the Zags&#8217; nonconference slate and where the true battles are going to be",
-        "author": "Tristan Freeman",
-        "duration": null,
-        "channel_url": "",
-        "source": "House of Krause",
-        "id": "3bbc56ab12c73ab9",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Oregon State": [
+      {
+        "title": "Oregon State's Shephard drops expletive in halftime interview",
+        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-states-jamarcus-shephard-drops-expletive-in-halftime-interview.html",
+        "link_kind": "item",
+        "date": "2026-11-15T01:20:35+00:00",
+        "summary": "Oregon State trailed Boise State 32-20 at halftime after turnovers, including a pick-six, proved costly despite the Beavers outgaining the Broncos in total yards.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "e99a0d29c7c8815a",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State’s top cornerback hurt at Boise State",
+        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-states-top-cornerback-injured-at-boise-state.html",
+        "link_kind": "item",
+        "date": "2026-11-14T23:49:30+00:00",
+        "summary": "Crandall went to the locker room with 3:52 to go in the first quarter",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "bd5a57c0ee08aa71",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Beavers vs. No. 24 Boise State Broncos: Live updates today",
+        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-beavers-vs-no-24-boise-state-broncos-live-updates-today.html",
+        "link_kind": "item",
+        "date": "2026-11-14T21:29:07+00:00",
+        "summary": "Follow live updates from Albertsons Stadium as the Beavers take on the Broncos",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "969d6f520714e0cc",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers off to strong start to stay undefeated",
+        "link": "https://dailybaro.orangemedianetwork.com/33850/daily-barometer-sports/daily-barometer-sports-mens-basketball/beavers-off-to-strong-start-to-stay-undefeated/",
+        "link_kind": "item",
+        "date": "2026-11-14T19:12:30+00:00",
+        "summary": "The Oregon State Beavers Men’s Basketball Team’s 81-65 victory over the Mississippi Valley State Delta Devils in Gil Coliseum Friday night extends OSU’s win streak to four games.   Oregon State’s Dennis Evans won the opening tip-off against Mississippi Valley’s Gabriel Martinez to get the game started. Both teams played strong defense early as the Beavers...",
+        "author": "Nicholas Spink, Sports Writer",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "6deff09bb585f42c",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "What time, TV channel is Oregon State vs. Boise State today? Odds, streaming, how to watch",
         "link": "https://www.oregonlive.com/beavers/2026/11/what-time-tv-channel-is-oregon-state-vs-boise-state-today-odds-streaming-how-to-watch.html",
@@ -4236,20 +4244,6 @@
         "medium": "text"
       },
       {
-        "title": "College of Engineering professor introduces subscription AI service",
-        "link": "https://dailybaro.orangemedianetwork.com/33702/daily-barometer-news/college-of-engineering-professor-introduces-subscription-ai-service/",
-        "link_kind": "item",
-        "date": "2026-11-10T01:00:24+00:00",
-        "summary": "There’s a new engineering tutor at Oregon State University — and it speaks in ones and zeroes.  But here&#8217;s the rub: got $10 a month? Jason Clark, professor of electrical engineering and computer science, presented to a thermodynamics class in October. In his presentation, he spoke about a science, technology, engineering and mathematics artificial intelligence...",
-        "author": "Roy Keller, News Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Barometer",
-        "id": "8ab973a0594e739c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Madsen's return hinges on practice performance this week",
         "link": "https://www.oregonlive.com/beavers/2026/11/practice-will-determine-whether-boise-state-qb-maddux-madsen-no-2-rb-sire-gaines-play-vs-oregon-state.html",
         "link_kind": "item",
@@ -4573,20 +4567,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State loses to Texas State 42-21: Live updates recap",
-        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-beavers-vs-texas-state-bobcats-live-updates-today.html",
-        "link_kind": "item",
-        "date": "2026-11-08T01:44:05+00:00",
-        "summary": "Follow live updates from Reser Stadium as the Beavers host the Bobcats",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "e82c33e63a75cf60",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Beavers Set to Host Eastern Washington Monday",
         "link": "https://osubeavers.com/news/2026/11/7/mens-basketball-beavers-set-to-host-eastern-washington-monday",
         "link_kind": "item",
@@ -4829,6 +4809,34 @@
         "source": "San Diego State Athletics",
         "id": "1bbc4d741c3b0bab",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs Sign Bay Cordova",
+        "link": "https://goaztecs.com/news/2026/11/13/aztecs-sign-bay-cordova",
+        "link_kind": "item",
+        "date": "2026-11-13T21:25:00+00:00",
+        "summary": "Last season, Cordova averaged 19.7 points, 5.5 rebounds, 3.2 assists and 3.5 steals per game and made 69 three-pointers while shooting 55% from the field.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "30b3de0df264dcb8",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Behind the Baseline - Ep. 4",
+        "link": "https://goaztecs.com/news/2026/11/13/behind-the-baseline-ep-4",
+        "link_kind": "item",
+        "date": "2026-11-13T19:19:41+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "745b71eb36081fad",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -5081,6 +5089,20 @@
         "channel_url": "",
         "source": "San Diego State Athletics",
         "id": "82eeac3cc0e06b64",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Behind the Baseline - Ep. 3",
+        "link": "https://goaztecs.com/news/2026/11/09/behind-the-baseline-ep-3",
+        "link_kind": "item",
+        "date": "2026-11-09T18:33:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "0609d6b18b6d92d5",
         "sport": "wbb",
         "medium": "text"
       },
@@ -6341,23 +6363,23 @@
         "extent": "54 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Inaugural Pac-12 Men’s Hoops Schedule Released",
-        "link": "https://goaztecs.com/news/2026/09/30/inaugural-pac-12-mens-hoops-schedule-released",
-        "link_kind": "item",
-        "date": "2026-09-30T17:05:00+00:00",
-        "summary": "The schedule features a run of six games to open conference play, then a bye, four games, a second bye, and then six games to round out the regular season.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "c2ce92f97bb87c6b",
-        "sport": "mbb",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "Texas State Travels to UTSA in I-35 Rivalry Clash",
+        "link": "https://txst.com/news/2026/11/14/mens-basketball-texas-state-travels-to-utsa-in-i-35-rivalry-clash.aspx",
+        "link_kind": "item",
+        "date": "2026-11-14T18:38:00+00:00",
+        "summary": "<img alt=\"Kaden Gumbs\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/131126_MBB_SM_INGAME_GD-7.jpg\" /><br /><br />SAN ANTONIO, Texas – Texas State (4-0) makes a trip down I-35 to take on in-state rival UTSA (2-1) on Sunday night. Tipoff from the Convocation Center is slated for 7 p.m. CT on ESPN2.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "5bad10db987da300",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Bobcats Pull Away from Golden Eagles in 85-65 Friday Night Victory",
         "link": "https://txst.com/news/2026/11/13/mens-basketball-bobcats-pull-away-from-golden-eagles-in-85-65-friday-night-victory.aspx",
@@ -6804,20 +6826,6 @@
         "source": "Texas State Athletics",
         "id": "728abe6fcd760a8d",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Sophomores Shine in Bobcats' Season Opener Victory over Islanders",
-        "link": "https://txst.com/news/2026/11/2/mens-basketball-sophomores-shine-in-bobcats-season-opener-victory-over-islanders.aspx",
-        "link_kind": "item",
-        "date": "2026-11-03T05:08:00+00:00",
-        "summary": "<img alt=\"Robert Fields\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/BE18192B-A2B4-45A3-ADD4-3B3AE257B021.jpeg\" /><br /><br />SAN MARCOS, Texas – Sophomores Robert Fields set career highs in points, field goals, steals and minutes in his first career start, and DJ Hall added a game-high 18 points as Texas State opened its first season in the Pac-12 with a 67-55 win over Texas A&M-Corpus Christi on Monday night at Strahan Arena.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "463e04a182155cda",
-        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -7517,6 +7525,21 @@
     ],
     "Washington State": [
       {
+        "title": "Cougar Basketball Replay (WSU vs. Northwest University) 11-14-26",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/6c71d7b2-886f-4f2a-8e8b-3b73e8fef03c.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-11-15T00:00:00+00:00",
+        "summary": "<p>Full game broadcast from WSU's 123-87 win vs Northwest University on 11-14-26.</p>",
+        "author": "",
+        "duration": 10917,
+        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
+        "source": "Washington State Cougars Podcast",
+        "id": "d70c4830a1340fc8",
+        "extent": "3h 2m",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
         "title": "Will WSU snap 6-game skid vs. Colorado State after FAA travel stoppage?",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/will-wsu-snap-6-game-skid-vs-colorado-state-after-faa-travel-stoppage/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -7528,6 +7551,34 @@
         "source": "The Seattle Times",
         "id": "f31dbff51572025a",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU WBB: Highlights vs. Southern Utah | 11/13/26",
+        "link": "https://wsucougars.com/news/2026/11/13/wsu-wbb-highlights-vs-southern-utah-111326",
+        "link_kind": "item",
+        "date": "2026-11-14T05:38:42+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "480904e45573f43b",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Cougars Edge Southern Utah in 72-69 Win",
+        "link": "https://wsucougars.com/news/2026/11/13/cougars-edge-southern-utah-in-72-69-win",
+        "link_kind": "item",
+        "date": "2026-11-14T05:32:14+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "8493782a5ef57070",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -7556,6 +7607,34 @@
         "source": "The Seattle Times",
         "id": "95c793ae60b3b1e3",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Still searching for first FBS win, Washington State hosts Colorado State | Live updates",
+        "link": "http://www.spokesman.com/stories/2026/nov/14/still-searching-for-first-fbs-win-washington-state/",
+        "link_kind": "item",
+        "date": "2026-11-14T00:00:00+00:00",
+        "summary": "<h3>Pregame</h3><p>Washington State&#8217;s offense ranks among the least productive in the nation. Colorado State&#8217;s defense sits dead last in the FBS in points and yards allowed.</p><p>Something has to give Saturday night when the <a href=\"https://www.spokesman.com/stories/2026/nov/13/amid-nationwide-flight-stoppage-wsu-set-to-host-co/\" target=\"_blank\">Cougars host the Rams</a> at Gesa Field in Pullman for a Pac-12 matchup. Kickoff is set for 7:45 p.m. on CBS Sports Network.</p><p>WSU (1-8, 0-5 Pac-12 Conference) is still winless against FBS competition under first-year coach Kirby Moore and the team&#8217;s scuffling offense has shouldered most of the blame, but the Cougs should have an opportunity to move the ball with better consistency against a porous Rams defense that allows 542.2 total yards and 44.8 points per game.</p><p>But nothing&#8217;s guaranteed with this WSU offense, which couldn&#8217;t sustain much rhythm in the Cougs&#8217; last game, a 26-20 loss to a San Diego State team that also has one of the worst defenses in the FBS. WSU ranks No. 130 out of 138 FBS teams in both scoring offense (19 points per game) and total offense (307.1 yards per game).</p><p>WSU&#8217;s defense has been decent this year, but has dealt with some tackling slips in recent games, and has struggled to get home for sacks and <a href=\"https://www.spokesman.com/stories/2026/nov/11/turnovers-have-often-eluded-wsu-which-has-forced-o/\" target=\"_blank\">force turnovers</a>. The unit will be tested by a Rams offense that ranks 20th nationally in points per game (35.8) and 24th in yards (444.1). Colorado State put up 56 points and 549 yards in a win over San Diego State on Oct. 24, a week before the Aztecs held WSU to 20 points and 367 yards.</p><p>Still, this is <a href=\"https://www.spokesman.com/stories/2026/nov/13/why-washington-state-will-beat-colorado-state-the-/\" target=\"_blank\">WSU&#8217;s best remaining opportunity</a> to get on the board in Pac-12 play. The Rams (3-6, 1-4), under first-year coach Jim Mora, have lost six of their last seven games, giving up 64 points last weekend in a loss to Boise State. The Cougars are 8.5-point favorites, according to Vegas Insider.</p><p>CSU had its travel delayed a few hours Friday due to nationwide FAA groundings, and conducted a walk-through on the tarmac while awaiting the green light to take off. The Rams arrived in Pullman around 9 p.m. Friday, according to a post from CSU&#8217;s social media.</p><p><strong>Series history</strong></p><p>WSU is 3-1 all time against the Rams. Colorado State won the first meeting, rallying to beat the Cougars 48-45 in the 2013 New Mexico Bowl. WSU handled the Rams 20-3 last season in Fort Collins, Colorado.</p><h3>Game preview</h3><!--[teaser id=1366242]--><!--[teaser id=1366247]--><!--[teaser id=1366220]--><h3>More on the Cougs</h3><!--[teaser id=1366184]--><!--[teaser id=1366044]--><!--[teaser id=1365974]-->",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "15771820bdeec576",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU earns first win of season with 123-87 romp over NAIA school Northwest",
+        "link": "http://www.spokesman.com/stories/2026/nov/14/wsu-earns-first-win-of-season-with-123-87-romp-ove/",
+        "link_kind": "item",
+        "date": "2026-11-14T00:00:00+00:00",
+        "summary": "<p>PULLMAN – As Washington State limped into its next home game, a matchup with NAIA school Northwest on Saturday morning, coach David Riley wanted to see his Cougars accomplish a couple things.</p><p>One: Get a win.</p><p>Two: Protect the paint.</p><p>In a 123-87 victory, WSU checked both boxes, earning its first win of the season to move to 1-3 overall. The Cougars also held the Eagles to under 40% shooting from inside the arc, completing the second task they wanted to achieve.</p><p>It’s the end of the three-game losing streak to open the season for the Cougars, who got a career-best 27 points from Wake Forest transfer guard Sebastian Akins and double-digit scoring outings from five other players, including 14 points from guard Lazerek Houston and 13 from wing Jaylen Harrell. They led by as many as 36, cruising the entire way.</p><p>“Just excited for us to get on the board, get a win,” said Riley, whose team lost 19 turnovers. “We’ve clearly got a lot of work to do as a team, and we’re still building our identity, but one big thing for us was making sure we protected the paint. That was something that really hurt us in the first three games, and I think we held them in the high 30s, somewhere around there from 2. And that’s something that we really focused on. A lot of points scored. It’s a team that presses and plays fast-paced. So excited for us to keep growing and getting better.”</p><p>WSU had few issues on offense, scoring the program’s most points since a 1991 victory over Alcorn State. The Cougars took advantage of serious talent and size advantages, scoring nearly at will wherever they liked. Guard RJ Jones and forward Tyler Kropp each scored 12 points, while big man Ladji Dembele added 11. Overall, the Cougs converted 68% of their shots from the field, including 37 of 43 from inside the arc – a sizzling 86%.</p><p>But for WSU, things didn’t go as swimmingly on defense, allowing the Eagles to connect on 14 of 41 triples (34%). Since 2015, Northwest has played 16 Division I teams. None of them have allowed the Eagles to score more points than the Cougars, who couldn’t keep the visitors from cashing in from deep.</p><p>Still, there’s context to think about. Northwest plays at a blistering pace, getting shots up quick and using a full-court press to ramp up the total possessions. The Eagles had 86 possessions, which is more than all the fastest teams in the country are averaging, which top out at 85.</p><p>But the Eagles also managed just 0.98 points per possession, a metric that evens out statistics and removes pace from the equation.</p><p>Which brings two realities to the surface: Northwest scored 87 points, a total WSU should have no business permitting against an NAIA team that entered 1-2 overall. But the Eagles play at a pace that few other teams do.</p><p>“Overall, it’s kind of a skewed deal,” Riley said. “Our big thing was, we’re gonna make sure we protect the paint. That’s been our Achilles heel so far this season. So we gotta do a better job with that. There’s still some areas I thought when we got tired, and after the first couple minutes, we were still spread apart.</p><p>“That’s something that we need to continue to grow. … There’s five or six games a year where you might lose from 3, if you don’t guard the 3-point line well. A lot of the time it’s from 2. We gotta do a better job guarding the ball in transition, in the post, and really just having more drama at the rim.”</p><p>“We just gotta talk more,” Akins added. “That’s definitely concerning for sure. We gotta be better on that end.”</p><p>Another factor in this game: WSU played without transfer wing Ronnie Harrison, who missed his third game with an ankle injury. He missed the first two with the injury, then returned to action last week against Duquesne, only to re-injure it in the final five minutes of that contest.</p><p>On Saturday, Riley described Harrison’s status as day-to-day, saying, “Just trying to get him back healthy.”</p><p>WSU returns to action on Wednesday, taking on Hawaii in Everett. The Rainbow Warriors have opened the season 3-1.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "8fb549d15c572d95",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -7599,6 +7678,20 @@
         "source": "The Daily Evergreen",
         "id": "bf64fa15416afeab",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "WSU WBB: Kamie Ethridge | Southern Utah Week Press Conference | 11/12/26",
+        "link": "https://wsucougars.com/news/2026/11/12/wsu-wbb-kamie-ethridge-southern-utah-week-press-conference-111226",
+        "link_kind": "item",
+        "date": "2026-11-13T00:00:04+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "945838eb0741fecb",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -7655,6 +7748,48 @@
         "source": "The Spokesman-Review",
         "id": "e2cddac2db894ef8",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Southern Utah Next Up for Cougars",
+        "link": "https://wsucougars.com/news/2026/11/12/southern-utah-next-up-for-cougars",
+        "link_kind": "item",
+        "date": "2026-11-12T21:36:34+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "d2cffe69ba0b0374",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Cougars return home searching for first win of the season",
+        "link": "https://dailyevergreen.com/201661/sports/cougars-return-home-searching-for-first-win-of-the-season/",
+        "link_kind": "item",
+        "date": "2026-11-12T18:44:07+00:00",
+        "summary": "Washington State returns to Beasley Coliseum on Saturday morning, looking to secure its first win of the season after falling to Duquesne 72-71 on Tuesday. The Cougars enter the matchup 0-3 for the first time since the 1964-65 season and will look to avoid their fourth consecutive loss to open the year. WSU could be...",
+        "author": "Owen Sullivan",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "5a4b69d925382ba5",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Women’s Basketball Adds Two for 2027-28",
+        "link": "https://wsucougars.com/news/2026/11/12/womens-basketball-adds-two-for-2027-28",
+        "link_kind": "item",
+        "date": "2026-11-12T16:45:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "940552af7d5fc734",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -8729,7 +8864,7 @@
         "link": "http://www.spokesman.com/stories/2026/oct/31/washington-state-tries-to-end-skid-at-san-diego-st/",
         "link_kind": "item",
         "date": "2026-10-31T00:00:00+00:00",
-        "summary": "<p>SAN DIEGO — The rain soaked Owen Eshelman’s uniform as he cruised into the end zone untouched, leaving him soggy and muddy. He had battled all night through the conditions, the mistakes, the listless possessions and the moments where his inexperience shone through like sunlight through a stain-glass window.</p><p>In this one, though, he looked like the spark plug the Cougars needed all along. He took a keeper a few yards into the end zone, releasing a scream as he did so, helping his WSU club draw within one score of San Diego State. For WSU, the complexion of the game had just changed in a bolt: It went from a forgettable eighth loss to a comeback with a dash of hope.</p><p>Moments later, though, coach Kirby Moore’s team suffered what has become all too familiar this season: A lack of winning plays when it mattered most, a key reason why the Cougars’ comeback fell just short in a 26-20 loss, the team’s sixth straight setback.</p><p>In the final moments of the fourth quarter, the Cougars (1-7, 0-5 Pac-12) earned the opportunity to complete a comeback by picking up a key stop on defense, forcing the Aztecs into a quick three-and-out. Just over two minutes elapsed on the clock, giving the Cougars back the ball with a shade under five minutes to play.</p><p>It’s the sixth straight loss for WSU, which is still looking for its first FBS win of the season in coach Kirby Moore’s debut campaign. It was a valiant effort from the Cougars’ offense, a source of frustration and confusion for fans and observers all fall, and a reminder that Eshelman is oozing potential. But in the end, it adds up to another setback.</p><p>In the fourth, San Diego State took what looked like a risky play and turned it into a sight to behold. On fourth-and-goal from the 2, the Aztecs could have gone up two scores with a chip-shot field goal. Instead, they went for it and scored on a trick passing play, seizing a 26-14 lead with about 10 minutes to play.</p><p>The Cougars’ defense had a hand in this loss, unable to tackle in space well enough to prevent some of the Aztecs’ biggest plays on the ground.</p><!--[video id=6373]--><p>San Diego State opened the scoring early in the first quarter, capping a long drive with a touchdown rush from tailback Javion Kinnard, a nine-yard scamper into the end zone. That staked the hosts to a 7-0 lead.</p><p>WSU followed with its own long touchdown drive, which covered 75 yards and a hair shy of a full five minutes. It ended with a short keeper from Eshelman, who had just enough, reaching the ball across the plane for the last bit he needed. The Cougs tied the game at 7-all with that score.</p><p>San Diego State was quick to retake the lead, though, responding with a touchdown drive. Capping that was Kinnard, who jetted 10 yards into the end zone, good for a 14-7 lead.</p><p>Things continued to swing back-and-forth a drive later, which is when WSU tied the game once again.</p><p>Washington State gets its first and only bye of the season next week. Then the Cougars return to action on Nov. 14, hosting Colorado State at Gesa Field.</p><p><a href=\"https://stats.statbroadcast.com/statmonitr/?id=692456\" target=\"_blank\">BOX SCORE</a></p><!--[photoset id=13244]--><!--[teaser id=1365320]--><!--[teaser id=1365322]--><!--[teaser id=1365324]--><!--[teaser id=1365329]--><!--[teaser id=1365330]--><h3><span style=\"text-decoration: underline;\">Key moments</span></h3><h3><strong>Eshelman cuts into deficit</strong></h3><p><strong>4th, 6:55 - SDSU 26, WSU 20:</strong> Eshelman scores on a 2-yard keeper to draw within one possession.</p><p>The Cougars were set up inside the five after a long completion to Daniel Blood.</p><hr/><h3><strong>SDSU gaining momentum</strong></h3><p><strong>4th, 9:47 - SDSU 26, WSU 14:</strong> San Diego State scores on a trick play as Bert Emanuel Jr. finds Jackson Ford for a 1-yard touchdown reception.</p><p>The Aztecs&#8217; 2-point conversion attempt fails.</p><hr/><h3><strong>Aztecs extend lead</strong></h3><p><strong>3rd, 8:25 - SDSU 20, WSU 14:</strong> DiLeva makes a 45-yard field to give San Diego State a 6-point lead.</p><hr/><h3><strong>Thomas sets up Cougs</strong></h3><p><strong>3rd, 14:12 - SDSU 17, WSU 14:</strong> Jaylen Thomas intercepts SDSU QB Stone Saunders and the Cougars take over possession.</p><!--[embed id=12390]--><hr/><h3><strong>Eshelman throws interception</strong></h3><p><strong>2nd, 1:49 - SDSU 17, WSU 14:</strong> Defensive end Kai Wallin intercepts Eshelman to give the Aztecs another possession before halftime.</p><!--[embed id=12389]--><hr/><h3><strong>Aztecs regain lead</strong></h3><p><strong>2nd, 3:16 - SDSU 17, WSU 14:</strong> Cooper DiLeva makes a 36-yard field as rain begins to fall at Snapdragon Stadium.</p><hr/><h3><strong>Vorhees plunges in for TD</strong></h3><p><strong>2nd, 6:19 - WSU 14, SDSU 14:</strong> A pass interference penalty sets up a 2-yard touchdown for Kirby Vorhees.</p><!--[embed id=12388]--><hr/><h3><strong>Kinnard scores again</strong></h3><p><strong>2nd, 12:32 - SDSU 14, WSU 7: </strong>Kinnard breaks through the WSU defense to score a 10-yard rushing touchdown, his second of the game.</p><!--[embed id=12387]--><hr/><h3><strong>Cougars even score</strong></h3><p><strong>1st, 2:19 - WSU 7, SDSU 7: </strong>Owen Eshelman keeps the ball and rushes up the middle for a 4-yard touchdown.</p><!--[embed id=12386]--><hr/><h3><strong>Aztecs get on the board</strong></h3><p><strong>1st, 7:27 - SDSU 7, WSU 0:</strong> Javion Kinnard makes a defender miss and rushes nine yards into the end zone.</p><!--[embed id=12385]--><hr/><h3>Pregame</h3><p><a href=\"https://www.spokesman.com/stories/2026/oct/28/dropped-interceptions-and-whiffed-sacks-whats-been/\" target=\"_blank\">Washington State</a> gets another crack at earning its first Pac-12 Conference and FBS win of the season, this time <a href=\"https://www.spokesman.com/stories/2026/oct/30/to-knock-off-sdsu-on-road-and-earn-first-fbs-win-w/\" target=\"_blank\">on the road against San Diego State</a>.</p><p>Owen Eshelman and the <a href=\"https://www.spokesman.com/stories/2026/oct/29/inside-wsu-te-trey-leckners-injury-rehab-and-how-h/\" target=\"_blank\">Cougars&#8217; offense</a> should have room to operate after a <a href=\"https://www.spokesman.com/stories/2026/oct/27/during-a-1-7-season-what-keeps-wsu-players-motivat/\" target=\"_blank\">tough game against Boise State</a> last week.</p><p><span>The Aztecs (3-5, 2-2) are giving up about 36 points per game and allowing 462 yards per contest, some of the worst numbers nationwide.</span></p><p><span>For the WSU&#8217;s special teams, they will need to limit the threat of returner Jaylon Hawkins. The Cougar offensive line will also need to hold up against the Aztecs&#8217; defensive front.</span></p><p><span>The game is scheduled to kick off at 4 p.m. on CBS Sports Network.</span></p><p><strong>Series history</strong></p><p>Washington State has won three of the four meetings between the Cougars (1-7, 0-4 Pac-12) and <a href=\"https://www.spokesman.com/stories/2026/oct/30/why-san-diego-state-will-beat-washington-state-the/\" target=\"_blank\">the Aztecs</a>. </p><p><strong>Notatable stat</strong></p><p>Three. <span>That’s the amount of kickoff return touchdowns engineered by <a href=\"https://www.spokesman.com/stories/2026/oct/30/wsus-keys-to-victory-against-san-diego-state-2-min/\" target=\"_blank\">SDSU redshirt freshman wideout Hawkins</a>. He took one back 100 yards against FCS Portland State, one 96 yards against Texas State and one 97 yards against Oregon State.</span></p><h3>Game preview</h3><!--[teaser id=1365195]--><!--[teaser id=1365244]--><!--[teaser id=1365195]--><h3>More on the Cougs</h3><!--[teaser id=1365139]--><!--[teaser id=1365077]--><!--[teaser id=1365025]--><!--[teaser id=1364940]-->",
+        "summary": "<p>SAN DIEGO — The rain soaked Owen Eshelman’s uniform as he cruised into the end zone untouched, leaving him soggy and muddy. He had battled all night through the conditions, the mistakes, the listless possessions and the moments where his inexperience shone through like sunlight through a stain-glass window.</p><p>In this one, though, he looked like the spark plug the Cougars needed all along. He took a keeper a few yards into the end zone, releasing a scream as he did so, helping his WSU club draw within one score of San Diego State. For WSU, the complexion of the game had just changed in a bolt: It went from a forgettable eighth loss to a comeback with a dash of hope.</p><p>Moments later, though, coach Kirby Moore’s team suffered what has become all too familiar this season: A lack of winning plays when it mattered most, a key reason why the Cougars’ comeback fell just short in a 26-20 loss, the team’s sixth straight setback.</p><p>In the final moments of the fourth quarter, the Cougars (1-7, 0-5 Pac-12) earned the opportunity to complete a comeback by picking up a key stop on defense, forcing the Aztecs into a quick three-and-out. Just over two minutes elapsed on the clock, giving the Cougars back the ball with a shade under five minutes to play.</p><p>It’s the sixth straight loss for WSU, which is still looking for its first FBS win of the season in coach Kirby Moore’s debut campaign. It was a valiant effort from the Cougars’ offense, a source of frustration and confusion for fans and observers all fall, and a reminder that Eshelman is oozing potential. But in the end, it adds up to another setback.</p><p>In the fourth, San Diego State took what looked like a risky play and turned it into a sight to behold. On fourth-and-goal from the 2, the Aztecs could have gone up two scores with a chip-shot field goal. Instead, they went for it and scored on a trick passing play, seizing a 26-14 lead with about 10 minutes to play.</p><p>The Cougars’ defense had a hand in this loss, unable to tackle in space well enough to prevent some of the Aztecs’ biggest plays on the ground.</p><!--[video id=6373]--><p>San Diego State opened the scoring early in the first quarter, capping a long drive with a touchdown rush from tailback Javion Kinnard, a nine-yard scamper into the end zone. That staked the hosts to a 7-0 lead.</p><p>WSU followed with its own long touchdown drive, which covered 75 yards and a hair shy of a full five minutes. It ended with a short keeper from Eshelman, who had just enough, reaching the ball across the plane for the last bit he needed. The Cougs tied the game at 7-all with that score.</p><p>San Diego State was quick to retake the lead, though, responding with a touchdown drive. Capping that was Kinnard, who jetted 10 yards into the end zone, good for a 14-7 lead.</p><p>Things continued to swing back-and-forth a drive later, which is when WSU tied the game once again.</p><p>Washington State gets its first and only bye of the season next week. Then the Cougars return to action on Nov. 14, hosting Colorado State at Gesa Field.</p><p><a href=\"https://stats.statbroadcast.com/statmonitr/?id=692456\" target=\"_blank\">BOX SCORE</a></p><!--[photoset id=13244]--><!--[teaser id=1365320]--><!--[teaser id=1365322]--><!--[teaser id=1365324]--><!--[teaser id=1365329]--><!--[teaser id=1365330]--><h3><span style=\"text-decoration: underline;\">Key moments</span></h3><h3><strong>Eshelman cuts into deficit</strong></h3><p><strong>4th, 6:55 - SDSU 26, WSU 20:</strong> Eshelman scores on a 2-yard keeper to draw within one possession.</p><p>The Cougars were set up inside the five after a long completion to Daniel Blood.</p><hr/><h3><strong>SDSU gaining momentum</strong></h3><p><strong>4th, 9:47 - SDSU 26, WSU 14:</strong> San Diego State scores on a trick play as Bert Emanuel Jr. finds Jackson Ford for a 1-yard touchdown reception.</p><p>The Aztecs&#8217; 2-point conversion attempt fails.</p><hr/><h3><strong>Aztecs extend lead</strong></h3><p><strong>3rd, 8:25 - SDSU 20, WSU 14:</strong> DiLeva makes a 45-yard field to give San Diego State a 6-point lead.</p><hr/><h3><strong>Thomas sets up Cougs</strong></h3><p><strong>3rd, 14:12 - SDSU 17, WSU 14:</strong> Jaylen Thomas intercepts SDSU QB Stone Saunders and the Cougars take over possession.</p><!--[embed id=12390]--><hr/><h3><strong>Eshelman throws interception</strong></h3><p><strong>2nd, 1:49 - SDSU 17, WSU 14:</strong> Defensive end Kai Wallin intercepts Eshelman to give the Aztecs another possession before halftime.</p><!--[embed id=12389]--><hr/><h3><strong>Aztecs regain lead</strong></h3><p><strong>2nd, 3:16 - SDSU 17, WSU 14:</strong> Cooper DiLeva makes a 36-yard field as rain begins to fall at Snapdragon Stadium.</p><hr/><h3><strong>Vorhees plunges in for TD</strong></h3><p><strong>2nd, 6:19 - WSU 14, SDSU 14:</strong> A pass interference penalty sets up a 2-yard touchdown for Kirby Vorhees.</p><!--[embed id=12388]--><hr/><h3><strong>Kinnard scores again</strong></h3><p><strong>2nd, 12:32 - SDSU 14, WSU 7: </strong>Kinnard breaks through the WSU defense to score a 10-yard rushing touchdown, his second of the game.</p><!--[embed id=12387]--><hr/><h3><strong>Cougars even score</strong></h3><p><strong>1st, 2:19 - WSU 7, SDSU 7: </strong>Owen Eshelman keeps the ball and rushes up the middle for a 4-yard touchdown.</p><!--[embed id=12386]--><hr/><h3><strong>Aztecs get on the board</strong></h3><p><strong>1st, 7:27 - SDSU 7, WSU 0:</strong> Javion Kinnard makes a defender miss and rushes nine yards into the end zone.</p><!--[embed id=12385]--><hr/><h3>Pregame</h3><p><a href=\"https://www.spokesman.com/stories/2026/oct/28/dropped-interceptions-and-whiffed-sacks-whats-been/\" target=\"_blank\">Washington State</a> gets another crack at earning its first Pac-12 Conference and FBS win of the season, this time <a href=\"https://www.spokesman.com/stories/2026/oct/30/to-knock-off-sdsu-on-road-and-earn-first-fbs-win-w/\" target=\"_blank\">on the road against San Diego State</a>.</p><p>Owen Eshelman and the <a href=\"https://www.spokesman.com/stories/2026/oct/29/inside-wsu-te-trey-leckners-injury-rehab-and-how-h/\" target=\"_blank\">Cougars&#8217; offense</a> should have room to operate after a <a href=\"https://www.spokesman.com/stories/2026/oct/27/during-a-1-7-season-what-keeps-wsu-players-motivat/\" target=\"_blank\">tough game against Boise State</a> last week.</p><p><span>The Aztecs (3-5, 2-2) are giving up about 36 points per game and allowing 462 yards per contest, some of the worst numbers nationwide.</span></p><p><span>For the WSU&#8217;s special teams, they will need to limit the threat of returner Jaylon Hawkins. The Cougar offensive line will also need to hold up against the Aztecs&#8217; defensive front.</span></p><p><span>The game is scheduled to kick off at 4 p.m. on CBS Sports Network.</span></p><p><strong>Series history</strong></p><p>Washington State has won three of the four meetings between the Cougars (1-7, 0-4 Pac-12) and <a href=\"https://www.spokesman.com/stories/2026/oct/30/why-san-diego-state-will-beat-washington-state-the/\" target=\"_blank\">the Aztecs</a>. </p><p><strong>Notable stat</strong></p><p>Three. <span>That’s the amount of kickoff return touchdowns engineered by <a href=\"https://www.spokesman.com/stories/2026/oct/30/wsus-keys-to-victory-against-san-diego-state-2-min/\" target=\"_blank\">SDSU redshirt freshman wideout Hawkins</a>. He took one back 100 yards against FCS Portland State, one 96 yards against Texas State and one 97 yards against Oregon State.</span></p><h3>Game preview</h3><!--[teaser id=1365195]--><!--[teaser id=1365244]--><!--[teaser id=1365195]--><h3>More on the Cougs</h3><!--[teaser id=1365139]--><!--[teaser id=1365077]--><!--[teaser id=1365025]--><!--[teaser id=1364940]-->",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -8823,20 +8958,6 @@
         "medium": "text"
       },
       {
-        "title": "WSU's keys to victory against San Diego State | 2-minute drill",
-        "link": "http://www.spokesman.com/stories/2026/oct/30/wsus-keys-to-victory-against-san-diego-state-2-min/",
-        "link_kind": "item",
-        "date": "2026-10-30T00:00:00+00:00",
-        "summary": "<h3><span class=\"print_trim\">Washington State at San Diego State</span><br/><br/></h3><h3>Saturday, 4 p.m.</h3><p><strong>Line:</strong> SDSU favored by 2½</p><p><strong>TV:</strong> CBS Sports Network <strong>Radio:</strong> 920-AM</p><h3>Key matchup</h3><p><strong>WSU offensive line vs. SDSU defensive line:</strong> If anything became clear from the Cougars’ last game, a home loss to Boise State, it was this: WSU’s offensive line needs serious work. That group now faces an SDSU defensive front that has produced 16 sacks, including 8.5 alone from the linebacker trio of Djibril Rahman, Kai Wallin and Sione Hala. Defensive lineman Malachi Finau has also pocketed a pair of sacks.</p><p>How will the Cougars’ front five of left tackle Ashton Tripp, left guard Jonny Lester, center Noah Dunham, right guard Nick Bakken and right tackle Jaylin Caldwell fare against that group? Last week against Boise State, they were responsible for two of the four sacks against QB Owen Eshelman, who was constantly under duress.</p><p>To properly cash in on the SDSU defense, which ranks No. 135 of 138 FBS teams in total defense (462 yards per game), No. 133 in scoring defense (36 points per game), No. 109 in rush defense (178 ypg) and No. 134 in pass defense (284 ypg), Eshelman will need time in the pocket.</p><h3>How the Cougs win …</h3><p>WSU also can win this game by reversing a couple trends on defense. The Cougars have dropped six interceptions, which is tied for the most in the country, and they’ve also generated only five turnovers, which is No. 126 nationally. Plus, they have only eight sacks, which is No. 131. For a defense that has generally played well, defensive coordinator Trent Bray’s group hasn’t been able to make key plays at key times.</p><p>Opportunities figure to be there for the WSU defense against the San Diego State offense, which is expected to start redshirt freshman Stone Saunders, who will be making only his second career start. He looked sharp in a loss to Colorado State last weekend, but he also threw a pick-six. Can WSU defensive ends Matyus McLain and Linus Zunk create enough pressure to force a turnover?</p><h3>How the Aztecs win …</h3><p>San Diego State can win this one by doing what every FBS team has done against WSU this season: limit its offense. Quarterback Owen Eshelman has looked solid in his first two starts, but this will be only No. 3 for Eshelman, who threw a costly interception in a home loss to Boise State last weekend. The Aztecs might be able to deliver the same treatment by getting pressure on Eshelman in the pocket.</p><p>Plus, if SDSU can shut down WSU’s rushing game, the hosts will be in good shape. Running backs Kirby Vorhees, Leo Pulalasi and Maxwell Woods – the last of whom didn’t get a single carry last weekend – are averaging only 48 yards on 15 carries against FBS opponents this season. If the Aztecs can keep that trend going, look for them to come out on top.</p><h3>Key stat<span class=\"print_trim\">: 3</span></h3><p>That’s the amount of kickoff return touchdowns engineered by SDSU redshirt freshman wideout Jaylon Hawkins. He took one back 100 yards against FCS Portland State, one 96 yards against Texas State and one 97 yards against Oregon State. He’s been electric in the return game, and while the Cougs rank No. 16 nationally with only 16 yards per return allowed, they would be wise to keep Hawkins corralled.</p><h3>Quotable</h3><p>“Regardless (of) what the prize is or whatever that we’re playing for, I want to win. I know all the guys in the locker room want to win, and the coaches want to win,” WSU tight end Trey Leckner said. “So I think just the will to win. I think we have all the seniors, all the seniors that are still playing. We wanna send them out on a good note, and we wanna build momentum going into next year.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "2771b560ff935311",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Why San Diego State will beat Washington State | The pick",
         "link": "http://www.spokesman.com/stories/2026/oct/30/why-san-diego-state-will-beat-washington-state-the/",
         "link_kind": "item",
@@ -8847,6 +8968,20 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "ecce1943dfa41d04",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "WSU's keys to victory against San Diego State | 2-minute drill",
+        "link": "http://www.spokesman.com/stories/2026/oct/30/wsus-keys-to-victory-against-san-diego-state-2-min/",
+        "link_kind": "item",
+        "date": "2026-10-30T00:00:00+00:00",
+        "summary": "<h3><span class=\"print_trim\">Washington State at San Diego State</span><br/><br/></h3><h3>Saturday, 4 p.m.</h3><p><strong>Line:</strong> SDSU favored by 2½</p><p><strong>TV:</strong> CBS Sports Network <strong>Radio:</strong> 920-AM</p><h3>Key matchup</h3><p><strong>WSU offensive line vs. SDSU defensive line:</strong> If anything became clear from the Cougars’ last game, a home loss to Boise State, it was this: WSU’s offensive line needs serious work. That group now faces an SDSU defensive front that has produced 16 sacks, including 8.5 alone from the linebacker trio of Djibril Rahman, Kai Wallin and Sione Hala. Defensive lineman Malachi Finau has also pocketed a pair of sacks.</p><p>How will the Cougars’ front five of left tackle Ashton Tripp, left guard Jonny Lester, center Noah Dunham, right guard Nick Bakken and right tackle Jaylin Caldwell fare against that group? Last week against Boise State, they were responsible for two of the four sacks against QB Owen Eshelman, who was constantly under duress.</p><p>To properly cash in on the SDSU defense, which ranks No. 135 of 138 FBS teams in total defense (462 yards per game), No. 133 in scoring defense (36 points per game), No. 109 in rush defense (178 ypg) and No. 134 in pass defense (284 ypg), Eshelman will need time in the pocket.</p><h3>How the Cougs win …</h3><p>WSU also can win this game by reversing a couple trends on defense. The Cougars have dropped six interceptions, which is tied for the most in the country, and they’ve also generated only five turnovers, which is No. 126 nationally. Plus, they have only eight sacks, which is No. 131. For a defense that has generally played well, defensive coordinator Trent Bray’s group hasn’t been able to make key plays at key times.</p><p>Opportunities figure to be there for the WSU defense against the San Diego State offense, which is expected to start redshirt freshman Stone Saunders, who will be making only his second career start. He looked sharp in a loss to Colorado State last weekend, but he also threw a pick-six. Can WSU defensive ends Matyus McLain and Linus Zunk create enough pressure to force a turnover?</p><h3>How the Aztecs win …</h3><p>San Diego State can win this one by doing what every FBS team has done against WSU this season: limit its offense. Quarterback Owen Eshelman has looked solid in his first two starts, but this will be only No. 3 for Eshelman, who threw a costly interception in a home loss to Boise State last weekend. The Aztecs might be able to deliver the same treatment by getting pressure on Eshelman in the pocket.</p><p>Plus, if SDSU can shut down WSU’s rushing game, the hosts will be in good shape. Running backs Kirby Vorhees, Leo Pulalasi and Maxwell Woods – the last of whom didn’t get a single carry last weekend – are averaging only 48 yards on 15 carries against FBS opponents this season. If the Aztecs can keep that trend going, look for them to come out on top.</p><h3>Key stat<span class=\"print_trim\">: 3</span></h3><p>That’s the amount of kickoff return touchdowns engineered by SDSU redshirt freshman wideout Jaylon Hawkins. He took one back 100 yards against FCS Portland State, one 96 yards against Texas State and one 97 yards against Oregon State. He’s been electric in the return game, and while the Cougs rank No. 16 nationally with only 16 yards per return allowed, they would be wise to keep Hawkins corralled.</p><h3>Quotable</h3><p>“Regardless (of) what the prize is or whatever that we’re playing for, I want to win. I know all the guys in the locker room want to win, and the coaches want to win,” WSU tight end Trey Leckner said. “So I think just the will to win. I think we have all the seniors, all the seniors that are still playing. We wanna send them out on a good note, and we wanna build momentum going into next year.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "2771b560ff935311",
         "sport": "football",
         "medium": "text"
       },
@@ -9045,20 +9180,6 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "60b87e991f6a63a3",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Dropped interceptions and whiffed sacks: What's been missing from WSU's defense this fall?",
-        "link": "http://www.spokesman.com/stories/2026/oct/28/dropped-interceptions-and-whiffed-sacks-whats-been/",
-        "link_kind": "item",
-        "date": "2026-10-28T00:00:00+00:00",
-        "summary": "<p>PULLMAN – Matyus McLain might be the happiest guy on Washington State’s team. He smiles everywhere he goes, from the practice field to game settings to press conferences, greeting everyone he sees with a warm grin and a delighted demeanor.</p><p>As the Cougars slog through this season, carrying around a 1-7 record as they continue searching for their first FBS win, it registers as remarkable. How does McLain, one of the team’s top defensive ends, stay in such a good mood?</p><p>It helps to know a bit about McLain’s background. He hails from nearby Priest River, Idaho, where in high school, McLain won a total of two games in his four years of action. The Spartans went 0-8 in 2019 and 0-7 in 2020. In 10 of those losses, Priest River didn’t score. In 2021, the Spartans lost seven games, only winning one by forfeit over Orofino. Priest River went on to win two games in McLain’s senior season, including one over the same Orofino club that had forfeited the year prior.</p><p>“I’ve lost before. It happens,” McLain said earlier this week. “The only thing you can do is keep going. I’m not gonna roll over and quit, and I don’t think anybody else in the locker room is going to do that either. You see the same thing week in, week out. We’re gonna keep trying harder and harder every single week till we get it right.”</p><p>McLain’s attitude is particularly fascinating because among these Cougars, he might have some of the most reasons to feel frustrated. Over the winter, he transferred from FCS Idaho, looking to use his speed and power to generate sacks for WSU. He looked like a candidate for a breakout year. All the signs were there.</p><p>In eight games, McLain has delivered on some of that promise. He has produced 23 quarterback pressures, according to Pro Football Focus, which is third in the Pac-12. He has also engineered a win rate – which measures how often a defender beats their blocker within 2.5 seconds of the snap – of 17.1%, which is also third in the conference. He’s faced few issues getting into opposing backfields.</p><p>But when he’s gotten there, McLain hasn’t been able to bring down quarterbacks. He has only one sack to his name. His fellow edge rusher, Vanderbilt transfer Linus Zunk, has only two sacks on 17 QB pressures. As a team, WSU has collected only eight sacks, which is tied for No. 130 of 138 FBS teams. Only four other teams in the country have supplied fewer.</p><p>If that sounds rare, it’s because it is.  In college football, 71 players have totaled at least 20 QB pressures, according to PFF, including McLain and Zunk. Only five have generated one sack or fewer.</p><!--[embed id=12376]--><p>For WSU, it’s been a disappointing string of results, but it also presents a contrast that’s difficult to square: The Cougs are producing all kinds of pressures on quarterbacks, but they aren’t completing those plays with sacks.</p><p>That folds in nicely with the bigger issue with WSU’s defense: The group is having trouble getting turnovers. The Cougs have nabbed only five, which ranks No. 126 nationally. Only seven other teams have fewer turnovers. It hasn’t been a back-breaker for WSU, whose defense is still a plus, but that group is now allowing nearly 387 yards of offense per game – No. 102 nationally, fifth in the Pac-12.</p><p>“Our coach, Andrew Browning, he always talks about it: We’re not chasing sacks,” McLain said. “We’re chasing hits, hurries. Chasing that, it’s gonna lead to sacks. I mean, you’re right. (It’s about) getting there a little faster, but you watch the tape – we’re all over the D-line. The front seven is everywhere. No question about it. We’ve got it.”</p><p>For WSU, the part that might sting most is that defenders have had chances to bring down quarterbacks, to grab interceptions. In the third quarter of a loss to Boise State last weekend, the Cougars had a chance to do two things: bring down BSU QB Maddux Madsen for a sack, plus get off the field on third down. If they did that, they would have had a chance to take the lead.</p><p>Instead, Madsen eluded the pressure and dashed upfield for a 17-yard gain, which led to a touchdown moments later. In hindsight, it was the kind of sequence that sums up this entire WSU defense’s season: some encouraging flashes and serious potential, but it didn’t land.</p><p>In the same game, the Cougs had a few chances to intercept Madsen, who still has not thrown one this fall. One came toward the end of the first half, not long after WSU and QB Owen Eshelman turned in a long scoring drive to tie the game, when Boise State marched into the red zone. Madsen dropped back and laced a pass over the middle, where WSU nickelback Jamarey Smith broke on the route, but BSU receiver Cam Bates got a hand in the mix to prevent Smith from catching it.</p><!--[embed id=12378]--><p>Earlier in the game, back in the first quarter, Madsen tried a pass over the middle, where WSU linebacker DJ Warner was waiting. He reached out and got two hands on the ball, but it fell incomplete. It was a missed opportunity for Warner, who in his first year playing linebacker is still learning the ropes of the coverage side of his job.</p><!--[embed id=12379]--><p>Consider this stat: The Cougars have now dropped six interceptions, which is tied for the most in the country. Smith has dropped three, which is the second-most by one player nationwide.</p><p>You can read that number a couple of ways. Sometimes, a low figure might mean that defenders are simply capitalizing on their opportunities to make interceptions. Other times, it means that defenders aren’t in position to grab interceptions in the first place. There’s plenty of context involved.</p><p>For their parts, the Cougs have collected three interceptions, so they’ve taken advantage of several chances. But they’ve also dropped six, and in a 1-7 season, that figure looms large.</p><p>“We’ve definitely been in that position numerous times, and it’s all about, like I said, just executing,” Smith said. “When you get that chance and opportunity, just take it. You work so hard for it, so why not just go for it and take your shot? I’ve been there for sure, and it’s just about us having it and executing.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "555e151bf8e19e65",
         "sport": "football",
         "medium": "text"
       },
@@ -10527,63 +10648,6 @@
         "extent": "59 min",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Cougs in the NFL | Week 3",
-        "link": "https://wsucougars.com/news/2026/09/30/cougs-in-the-nfl-or-week-3",
-        "link_kind": "item",
-        "date": "2026-09-30T22:01:46+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "d6af94a15d6ab8c6",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "BECU Inside WSU Athletics with Jon Haarlow | S2, E5 | Guests: Kevin Tucker, Korey Schroeder",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/1d87ac57-e53a-4126-8e76-e80830defc5f.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-09-30T20:00:00+00:00",
-        "summary": "<p>Join us for the latest Inside WSU Athletics Podcast presented by BECU with Director of Athletics Jon Haarlow alongside the Voice of the Cougs Chris King. </p><p><br></p><p>This episode, our guests include:</p><p>Head Women's Golf Coach | Kevin Tucker</p><p>Head Volleyball Coach | Korey Schroeder</p>",
-        "author": "",
-        "duration": 2263,
-        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
-        "source": "Washington State Cougars Podcast",
-        "id": "a814809f60251e64",
-        "extent": "38 min",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Men’s Basketball 2026-27 Pac-12 Slate Unveiled",
-        "link": "https://wsucougars.com/news/2026/09/30/mens-basketball-2026-27-pac-12-slate-unveiled",
-        "link_kind": "item",
-        "date": "2026-09-30T17:00:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "efe106547242cd70",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Cougars Open New Pac-12 Saturday Against Fresno State",
-        "link": "https://wsucougars.com/news/2026/09/30/cougars-open-new-pac-12-saturday-against-fresno-state",
-        "link_kind": "item",
-        "date": "2026-09-30T15:00:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "6d70ab610f566124",
-        "sport": "football",
-        "medium": "text"
       }
     ]
   }
