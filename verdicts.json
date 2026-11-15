@@ -28583,6 +28583,256 @@
       "extent": "1 min read",
       "lock": "paywall",
       "run": "run_2026-11-14-1443"
+    },
+    "08599110c508cca3": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article is a full recap of Gonzaga's loss to LSU, covering Gonzaga's play and players in depth.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-15-0241"
+    },
+    "0aa5c14069e25820": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece reports fan-poll reaction to Boise State's CFP ranking, making Boise State football the subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-15-0241"
+    },
+    "15771820bdeec576": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Washington State's football matchup against Colorado State, detailing both teams' form ahead of kickoff.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-15-0241"
+    },
+    "1fa1789da8582a71": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece breaks down the key players and moments from Gonzaga's loss to LSU.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Madison McCord"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-15-0241"
+    },
+    "3360599ca80cd86b": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article is labeled a recap of the Gonzaga-LSU game and reports the final score, stats, and play-by-play.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Madison McCord"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-15-0241"
+    },
+    "5a4b69d925382ba5": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Washington State men's basketball's upcoming home game against Northwest.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Owen Sullivan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-15-0241"
+    },
+    "6deff09bb585f42c": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Oregon State men's basketball's win over Mississippi Valley State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Nicholas Spink"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-15-0241"
+    },
+    "76fbb8e3706fc3d4": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The thread is a game-day discussion space for Boise State hosting Oregon State, with Oregon State as the opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-15-0241"
+    },
+    "8fb549d15c572d95": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Washington State men's basketball's first win of the season over Northwest.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-15-0241"
+    },
+    "969d6f520714e0cc": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a live-updates thread for the Oregon State-Boise State football game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-15-0241"
+    },
+    "979f695aa9c40e20": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Braden Huff's career-high rebounding performance for Gonzaga in the loss to LSU.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-15-0241"
+    },
+    "9a3e30b297fbfb41": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece gives three takeaways from Gonzaga's loss to LSU, built entirely on Gonzaga's performance.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-15-0241"
+    },
+    "9a92c32ec4748ebd": {
+      "subjects": {
+        "gonzaga/mens-basketball": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The opinion column uses Gonzaga's roster and the LSU loss at length as its running example for a broader NIL argument.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The column's thesis is about NIL/transfer-portal culture broadly, with Gonzaga's roster as the sustained example, so about-vs-involves for Gonzaga could reasonably go either way.",
+      "unrecognized": [],
+      "byline": [
+        "Ralph Walter"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-15-0241"
+    },
+    "bd5a57c0ee08aa71": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish an Oregon State football injury during the game at Boise State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-15-0241"
+    },
+    "e99a0d29c7c8815a": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish an in-game incident during Oregon State's football game at Boise State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-15-0241"
+    },
+    "f405359a4437b30f": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about",
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps both Fresno State basketball teams' wins in a doubleheader sweep.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller",
+        "Sam Quintero"
+      ],
+      "extent": "16 min read",
+      "run": "run_2026-11-15-0241"
     }
   },
   "runs": {
@@ -33099,6 +33349,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 39.40246929999557,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-15-0241": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-15T02:39:06.458660+00:00",
+      "items": 16,
+      "verdict_counts": {
+        "publish": 16
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 35.39665090001654,
       "tokens": null,
       "tokens_source": null
     }
