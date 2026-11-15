@@ -28833,6 +28833,275 @@
       ],
       "extent": "16 min read",
       "run": "run_2026-11-15-0241"
+    },
+    "060f2ff8a2f40463": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about",
+        "boise-state/football": "about",
+        "utah-state/football": "about",
+        "san-diego-state/football": "about",
+        "colorado-state/football": "about",
+        "washington-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The four listed Week 11 matchups pair eight of the nine conference football teams against each other, a full conference slate.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-15-1441"
+    },
+    "09cccd68cb08af0d": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The summary describes Oregon State's defensive performance, holding Boise State's Dylan Riley to 50 yards, in the 46-41 loss.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-15-1441"
+    },
+    "1e18d0cda8a142e0": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The summary covers Oregon State QB Maalik Murphy's career-high passing performance in the loss to Boise State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-15-1441"
+    },
+    "25f11d3fa4516394": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A Boise-focused recap of the same 46-41 win over Oregon State, built around Rasean Jones's receiving performance.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-15-1441"
+    },
+    "2d74c0d19e9d9d3c": {
+      "subjects": {
+        "utah-state/womens-soccer": "about",
+        "boise-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full account of Utah State women's soccer defeating Boise State in penalty kicks to win the conference tournament title.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "23 min read",
+      "run": "run_2026-11-15-1441"
+    },
+    "430efa5a759dbba7": {
+      "subjects": {
+        "texas-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full account of Texas State's 37-35 win over Fresno State that clinched bowl eligibility.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Lucas Castillo"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-15-1441"
+    },
+    "4b1eef310f6bd4f6": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The summary covers Boise State receiver Rasean Jones's 230-yard, three-touchdown game against Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-15-1441"
+    },
+    "87dc49ebfd252d65": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A labeled analysis piece arguing what WSU's blowout win over Colorado State means for offseason roster retention.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-15-1441"
+    },
+    "9345d0734f1f4fca": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish this as Boise State coach Spencer Danielson's remarks after his team beat Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-15-1441"
+    },
+    "96f62016e599322a": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full account of WSU's 73-7 football win over Colorado State, built around the rushing and scoring records set.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-15-1441"
+    },
+    "b35f0c812cd753cd": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The summary covers the same Rasean Jones performance powering Boise State's win over Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-15-1441"
+    },
+    "c301ad0fb98c30db": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Grand Canyon",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The three overreactions discussed are about New Mexico's Jake Hall, Air Force's tempo, and the Mountain West's at-large case via Grand Canyon/New Mexico/Nevada; Utah State appears only as one name in a list of New Mexico's upcoming opponents.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-15-1441"
+    },
+    "c642e6e059832555": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full account of Boise State's 46-41 win over Oregon State that clinched Pac-12 championship home-field advantage.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sports Team"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-15-1441"
+    },
+    "de5ac3ca864d301d": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish this as Oregon State assistant JaMarcus Shephard's comments after OSU's loss to Boise State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-15-1441"
+    },
+    "efcf82428d390301": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The five matchups listed (Nevada-NIU, San Jose State-Air Force, UNLV-New Mexico, Wyoming-UTEP, North Dakota State-Hawaii) belong to the separate 'Mountain West' slate, not any of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-15-1441"
+    },
+    "fe40da99ba0e4095": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The post is Boise sports media talking to Boise State players and the coach after their win over Oregon State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-15-1441"
     }
   },
   "runs": {
@@ -33373,6 +33642,58 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 35.39665090001654,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-15-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-15T14:39:13.681864+00:00",
+      "items": 16,
+      "verdict_counts": {
+        "publish": 14,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 6
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "c301ad0fb98c30db",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c301ad0fb98c30db",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c301ad0fb98c30db",
+          "source": "Mountain West Connection",
+          "phrase": "Grand Canyon",
+          "kind": "not-ours"
+        },
+        {
+          "id": "c301ad0fb98c30db",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 35.30455689999508,
       "tokens": null,
       "tokens_source": null
     }
