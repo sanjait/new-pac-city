@@ -29102,6 +29102,113 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-11-15-1441"
+    },
+    "5696574b0dc2585a": {
+      "subjects": {
+        "san-diego-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature profiling two San Diego State football running backs and their roles this season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Iain Henderson"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-16-0240"
+    },
+    "6753393b0543bb4c": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "hold",
+      "reason": "The headline and one-line summary name an Oregon State vs. Utah State matchup but give no sport, so the covered program cannot be identified.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-16-0240"
+    },
+    "67a893319475b27e": {
+      "subjects": {
+        "oregon-state/mens-soccer": "about",
+        "san-diego-state/mens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Oregon State men's soccer defeating San Diego State to win the Pac-12 Tournament.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryland Bickley"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-16-0240"
+    },
+    "a0c2a297029c0b1e": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A day-after review of Gonzaga's loss to LSU, analyzing the team's own players and execution.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-16-0240"
+    },
+    "b35cffea8ea5fc3b": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Fresno State's loss to Texas State, with Texas State figuring throughout as the opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-16-0240"
+    },
+    "bf419dc448872ce5": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of the Gonzaga women's basketball team's loss to Stanford.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-16-0240"
+    },
+    "f2f64abfed3591f9": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about",
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Both Fresno State men's and women's basketball games are recapped in full, each the subject of its own section.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-16-0240"
     }
   },
   "runs": {
@@ -33694,6 +33801,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 35.30455689999508,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-16-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-16T02:39:00.602983+00:00",
+      "items": 7,
+      "verdict_counts": {
+        "publish": 6,
+        "hold": 1
+      },
+      "hidden_per_source": {
+        "The Oregonian": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 17.725595500029158,
       "tokens": null,
       "tokens_source": null
     }
