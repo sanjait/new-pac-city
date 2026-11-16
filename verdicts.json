@@ -29209,6 +29209,270 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-11-16-0240"
+    },
+    "011b116e7b048dc4": {
+      "subjects": {
+        "san-diego-state/womens-tennis": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline alone names the program and that it concerns SDSU women's tennis leadership.",
+      "evidence_basis": "title-only",
+      "unrecognized": [],
+      "byline": [
+        "Leyla Akcaoglu"
+      ],
+      "run": "run_2026-11-16-1441"
+    },
+    "07735b05b8a72d4f": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A historical feature on Fresno State linebacker Ron Cox's program sack record.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-11-16-1441"
+    },
+    "28878f0cc9567534": {
+      "subjects": {},
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Covers only Mountain West teams (Nevada, UNLV, Wyoming, Air Force, UTEP, NDSU, Hawaii, San Jose State, New Mexico, Northern Illinois), none of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "16 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "2eec2fb1eba8cea3": {
+      "subjects": {},
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Covers WSU club hockey, a sport absent from Washington State's covered-program row.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [
+        {
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "3074c587a9b3dcf4": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Tracks the pro-basketball seasons of several former WSU players, including Klay Thompson.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "52acaec6bd9ce26e": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A column arguing what WSU's 73-7 rout means for retaining players into next season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "57634b8e3715532d": {
+      "subjects": {},
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "A Hawaii-NDSU game story; neither school is one of the nine covered programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "61bf3b5c7eaf07f9": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves",
+        "texas-state/football": "about",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "about",
+        "utah-state/football": "involves",
+        "washington-state/football": "about",
+        "colorado-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps the week's Pac-12 football results across eight of the nine schools and the championship-game picture.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "64df0d365e0533c6": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Boise State's rise in the rankings after its win over Oregon State, which figures substantively as the opponent.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "79e8c1597490c05f": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "oregon-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Washington State volleyball beating Oregon State to stay alive for the Pac-12 Tournament.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "8129e92197518638": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A post-game 'Rewind' giving three takeaways from WSU's win over Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "6 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-16-1441"
+    },
+    "abd92c4de4c6d636": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Washington State's record-breaking 73-7 rout of Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "af0bc68fc4fb203f": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps a Texas State men's basketball win over UTSA that kept the Bobcats undefeated.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cody Dotson",
+        "Juan Pereira Casanoba"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "c46e8156d80ba23c": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers former Fresno State star Derek Carr's Hall of Fame enshrinement and coaching path, an alum's career tied to the program.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-11-16-1441"
+    },
+    "d7dd6d6e67967804": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A campus talk by a Nebraska football alum turned Olympic bobsledder, hosted by an engineering club, with no USU athletics content.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The Olympic sports framing and the USU campus setting could read as sports content, but nothing in the piece concerns USU's own athletics department.",
+      "unrecognized": [],
+      "byline": [
+        "Wyatt Cano"
+      ],
+      "extent": "73 min read",
+      "run": "run_2026-11-16-1441"
+    },
+    "e82837d18a463ff6": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Takeaways from Oregon State's football loss at Boise State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-16-1441"
+    },
+    "f2a9456ef883e234": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Oregon State women's basketball falling in overtime at Arizona.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-16-1441"
     }
   },
   "runs": {
@@ -33828,6 +34092,45 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 17.725595500029158,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-16-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-16T14:39:30.605229+00:00",
+      "items": 17,
+      "verdict_counts": {
+        "publish": 13,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2,
+        "The Daily Evergreen": 1,
+        "The Utah Statesman": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 2
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "2eec2fb1eba8cea3",
+          "source": "The Daily Evergreen",
+          "phrase": "WSU hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 40.524891799956094,
       "tokens": null,
       "tokens_source": null
     }
