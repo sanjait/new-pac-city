@@ -29916,6 +29916,51 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-11-17-0243"
+    },
+    "1c3cfae0c56e7023": {
+      "subjects": {
+        "gonzaga/mens-basketball": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Gonzaga is the opponent in Tuesday's matchup, with an extensive scouting report and Logie's longstanding ties to the program given substantial treatment.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-17-1440"
+    },
+    "55467a701bbf600e": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary establish Oregon State men's basketball as the subject, recapping a second 100-point game under Justin Joyner.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-17-1440"
+    },
+    "f4d998bb64f3c9b9": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "WSU football's position switch for Lance McGee, plus the week's injury report, is the subject throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-17-1440"
     }
   },
   "runs": {
@@ -34611,6 +34656,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 54.13480629998958,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-17-1440": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-17T14:39:13.582799+00:00",
+      "items": 3,
+      "verdict_counts": {
+        "publish": 3
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 8.689811100019142,
       "tokens": null,
       "tokens_source": null
     }
