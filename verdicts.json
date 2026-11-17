@@ -29473,6 +29473,449 @@
         "James Crepea"
       ],
       "run": "run_2026-11-16-1441"
+    },
+    "0a87467817d3045b": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature on changes under Utah State men's basketball's new head coach Ben Jacobson.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "20 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "0f0d36ba60c07295": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "san-diego-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "colorado-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A full weekly power-ranking rundown of all eight Pac-12 football members, each given its own substantive paragraph.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "10f816940b2145d5": {
+      "subjects": {
+        "boise-state/football": "about",
+        "texas-state/football": "about",
+        "fresno-state/football": "about",
+        "oregon-state/football": "about",
+        "san-diego-state/football": "about",
+        "utah-state/football": "about",
+        "washington-state/football": "about",
+        "colorado-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A self-described subjective weekly power-ranking column covering all eight Pac-12 football teams plus the conference championship's own future.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jon Wilner"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-17-0243"
+    },
+    "125073b14d224ec7": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary preview the Oregon State-Utah State matchup, naming both teams' units.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-17-0243"
+    },
+    "371700596b1632cb": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State's game against Colorado State, with substantive discussion of Colorado State's defense and season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "37f74e734f211156": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Gonzaga's game against Montana State and how the team is responding after its LSU loss.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-17-0243"
+    },
+    "4914cdfee76b6580": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "boise-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline names the Oregon State coach discussing the team's loss to Boise State and its upcoming Utah State game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-17-0243"
+    },
+    "5c4b328644721bfa": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Player-by-player grading recap of Fresno State's loss to Texas State, with Texas State's offense and players discussed substantively.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "6ce8f280f32388ec": {
+      "subjects": {
+        "texas-state/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports a Texas State women's basketball player's Pac-12 Offensive Player of the Week honor with game detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Luke Landa"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "6f8fcba5cfd59628": {
+      "subjects": {
+        "utah-state": "about",
+        "boise-state": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline reports Utah State defeating Boise State in a conference championship game, naming both covered programs though the retrieved text carried no further detail.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The article body did not load beyond boilerplate comment text, so the specific sport is not stated and cannot be inferred from the headline alone.",
+      "unrecognized": [],
+      "byline": [
+        "Kalei Dreiling"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "7382509ee3b0540f": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Roster notebook on a Washington State position change and injury updates for two Cougars.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-17-0243"
+    },
+    "79ab9864350fca2a": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State football injury report on a sidelined safety.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-17-0243"
+    },
+    "7e8880c29b2cdb4a": {
+      "subjects": {
+        "washington-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Game preview of Washington State at Texas State, with a full scouting section on Texas State's offense and defense.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-17-0243"
+    },
+    "80c358e2eba34a95": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State quarterback injury update ahead of a game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-17-0243"
+    },
+    "88072c7853b705c5": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "Mountain West basketball power rankings covers only teams outside the nine (Grand Canyon, New Mexico, UNLV, Wyoming, Nevada, Hawai'i, San Jose State, UTEP, UC Davis, Air Force), none of them covered.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "94ff4d259707b61d": {
+      "subjects": {
+        "san-diego-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Recruiting roundup names San Diego State as the week's offer leader and quotes a Fresno State commit, both covered programs figuring substantively.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "9720fc1e12f03acf": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Gonzaga's drop in the AP and Coaches polls after its LSU loss.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-17-0243"
+    },
+    "b2fe2d6568c2b6c3": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "Mountain West football rankings covers only New Mexico, Wyoming, Air Force, UNLV, North Dakota State, San Jose State, Nevada, Hawaii, UTEP and Northern Illinois, none of them covered.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "b32dfddefb72f9b7": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "boise-state/football": "involves",
+        "texas-state/football": "involves",
+        "oregon-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "utah-state/football": "involves",
+        "colorado-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Entirely about Fresno State's bowl-eligibility path, weighing it against the bowl standing of six other covered Pac-12 teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "bc0ceffe971c7b80": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "utah-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Washington State's four-set volleyball loss to Utah State with detailed set-by-set play.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "ce309a8a435b9781": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Names Pac-12 player-of-the-week honorees from Boise State and San Diego State with detailed performance writeups for each.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "cee6a5a7344b063c": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Detailed recap of San Diego State's win over Utah State, crediting specific SDSU players and plays.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "d7929dd8018bad2f": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary establish Fresno State's coach discussing the team's bowl-eligibility push ahead of the Colorado State game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-11-17-0243"
+    },
+    "d90afabeefd65989": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature on Utah State men's basketball players Dallin Hall and Mason Falslev and their history together.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mark Greenwood"
+      ],
+      "extent": "107 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "dc3516d41e5fa0a2": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Gonzaga's upcoming matchup against Montana State, breaking down the opposing roster Gonzaga will face.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-17-0243"
+    },
+    "f0f453e882da2c24": {
+      "subjects": {
+        "boise-state/football": "about",
+        "oregon-state/football": "about",
+        "texas-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps the weekend's Boise State-Oregon State and Texas State games in detail alongside other Mountain West results.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-17-0243"
+    },
+    "f110c21458cbd5a5": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports a Texas State men's basketball player's Pac-12 Defensive Player of the Week honor with game-by-game detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cody Dotson"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-17-0243"
     }
   },
   "runs": {
@@ -34131,6 +34574,43 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 40.524891799956094,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-17-0243": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-17T02:39:47.509113+00:00",
+      "items": 27,
+      "verdict_counts": {
+        "publish": 25,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 1
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 4
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "94ff4d259707b61d",
+          "source": "Mountain West Connection",
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 54.13480629998958,
       "tokens": null,
       "tokens_source": null
     }
