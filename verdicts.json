@@ -30201,6 +30201,229 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-11-18-0241"
+    },
+    "1cc124316833d8ee": {
+      "subjects": {
+        "boise-state": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Podcast description names a dedicated segment on what New Mexico's loss means for Boise State's Playoff path.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Boise State's segment is only one line among several podcast topics, so involves vs. mentions is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-18-1441"
+    },
+    "2e02e6342124696e": {
+      "subjects": {
+        "san-diego-state/womens-golf": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Title names SDSU's women's golf team as the subject of a bag/gear feature.",
+      "evidence_basis": "title-only",
+      "unrecognized": [],
+      "byline": [
+        "Tyler Bowne"
+      ],
+      "run": "run_2026-11-18-1441"
+    },
+    "342047d1258b6d7b": {
+      "subjects": {
+        "washington-state": "about",
+        "texas-state": "about",
+        "boise-state": "about",
+        "oregon-state": "about",
+        "colorado-state": "about",
+        "fresno-state": "involves",
+        "conference": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Week 11 roundup gives standalone sections to Washington State, Texas State, Boise State, Oregon State, and Colorado State's results.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-18-1441"
+    },
+    "463c4cd05fa8fc93": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Feature on WSU running back Kirby Vorhees' record-setting touchdown run against Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-18-1441"
+    },
+    "49331085ae4318e1": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Podcast excerpt breaks down Gonzaga's late-game loss to LSU and a Gonzaga player's role in the rotation.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-18-1441"
+    },
+    "59aa692826f1903e": {
+      "subjects": {
+        "texas-state/womens-volleyball": "about",
+        "colorado-state/womens-volleyball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of Colorado State clinching the volleyball regular-season title in a sweep over Texas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Crystal Creek"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-18-1441"
+    },
+    "5fb5d349ddc34f14": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers a campus political debate event at Oregon State, not OSU athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Roy Keller"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-18-1441"
+    },
+    "6b6919d816bcf8e7": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Gonzaga's win over Montana State, with Gonzaga as the subject throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-18-1441"
+    },
+    "6fdbf047bacab4e9": {
+      "subjects": {
+        "boise-state": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Survey question concerns which team will face Boise State in the Pac-12 Championship Game, making Boise State's championship bid the subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-18-1441"
+    },
+    "7cebb2155e4f18e9": {
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "Entire piece analyzes New Mexico and UNLV, both Mountain West schools outside our nine, with no covered program as subject or involved.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-18-1441"
+    },
+    "a674fc8cf6292ff7": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of Washington State women's basketball's loss to Washington, with WSU as the subject throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-18-1441"
+    },
+    "d19f75fb35f7bb75": {
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "Entire piece is a fan reflection on New Mexico's season and its coming matchup with Wyoming, both outside our nine, with no covered program involved.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-11-18-1441"
+    },
+    "d6dcf9d4e60a662e": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Three-takeaways piece analyzes Gonzaga's lineup change and bench scoring in its win over Montana State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-18-1441"
+    },
+    "e1f9d28af333c6e6": {
+      "subjects": {
+        "texas-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recap of Texas State women's basketball's win over Incarnate Word, with the Bobcats as the subject throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Azul Rios"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-18-1441"
     }
   },
   "runs": {
@@ -34962,6 +35185,43 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 37.3091287999996,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-18-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-18T14:39:18.876762+00:00",
+      "items": 14,
+      "verdict_counts": {
+        "publish": 11,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "7cebb2155e4f18e9",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        },
+        {
+          "id": "d19f75fb35f7bb75",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 28.93848040001467,
       "tokens": null,
       "tokens_source": null
     }
