@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:03:16.923689+00:00",
+  "generated_at": "2026-11-18T14:03:19.710481+00:00",
   "teams": {
     "conference": [
       {
@@ -13,6 +13,90 @@
         "channel_url": "",
         "source": "Press Break",
         "id": "6846d47e96d4dee7",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Is New Mexico Vulnerable In The Mountain West Championship Game?",
+        "link": "https://www.mwcconnection.com/new-mexico-lobos-football/96022/is-new-mexico-vulnerable-in-the-mountain-west-championship-game",
+        "link_kind": "item",
+        "date": "2026-11-17T21:05:57+00:00",
+        "summary": "“Quarterback is certainly one, and probably the most visible, of all areas. But we got a number of places that we can play better.” New Mexico head football coach Jason Eck kept it blunt about the Lobos’ blemishes, entering the final two weeks of the season. Those marks were revealed this past Saturday night, when [&#8230;]",
+        "author": "Dan Allison",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "7cebb2155e4f18e9",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Boise State Rises Seven Spots in CFP Rankings to No. 17",
+        "link": "http://pac-12.com/news/2026/11/18/football-boise-state-rises-seven-spots-in-cfp-rankings-to-no-17.aspx",
+        "link_kind": "item",
+        "date": "2026-11-17T18:59:01+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/Maddux_Madsen_Boise_State.png\" /><br /><br />Boise State (9-1, 6-0 Pac-12) climbed seven spots in the third edition of the College Football Playoff Rankings up to No. 17, the committee announced Tuesday night. That marked the program's biggest week-to-week jump in the CFP era.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "f41f22514bff642a",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "MWCConnection Reacts Survey: Who will play Boise State in the Pac-12 Championship Game?",
+        "link": "https://www.mwcconnection.com/pac-12-discussion/95988/pac-12-conference-championship-game-boise-state-texas-san-diego",
+        "link_kind": "item",
+        "date": "2026-11-17T18:00:00+00:00",
+        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NCAA. Throughout the year we ask questions of the most plugged-in MWC fans and fans across the country. Sign up here to participate in the weekly emailed surveys:",
+        "author": "Kyle Thele",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "6fdbf047bacab4e9",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "One Loss Doesn’t Define a Season: New Mexico Still Has Everything to Play For",
+        "link": "https://www.mwcconnection.com/mountain-west-discussion/95974/one-loss-doesnt-define-a-season-new-mexico-still-has-everything-to-play-for",
+        "link_kind": "item",
+        "date": "2026-11-17T17:00:00+00:00",
+        "summary": "By Roger A. Holien &#124; Mountain West Connection A Tough Loss, But Far From the Final Chapter ALBUQUERQUE, N.M. — I’ve been around UNM athletics for nearly 30 years. In that span, I’ve weathered plenty of brutal heartbreakers and celebrated some unforgettable triumphs across Lobo sports. Over the decades—and especially now in the fast-twitch world [&#8230;]",
+        "author": "Roger A Holien",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "d19f75fb35f7bb75",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "The Good, the Bad, the Ugly: Week 11",
+        "link": "https://www.mwcconnection.com/the-good-the-bad-the-ugly/95750/the-good-the-bad-the-ugly-week-11",
+        "link_kind": "item",
+        "date": "2026-11-17T16:00:00+00:00",
+        "summary": "What a week of college football on the BEST coast! Both the Mountain West and PAC-12 featured games with playoff and championship implications. ESPN’s College GameDay was in town to highlight 40 years of the blue turf and witness playoff favorite Boise State take on Oregon State. New Mexico looked to keep its playoff hopes [&#8230;]",
+        "author": "Zach Ballard",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "342047d1258b6d7b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "UNLV stuns New Mexico to thwart CFP chances! Boise State smooth sailing to the Playoff! Conference Title Race update! Bison 1660 interview! UTEP fires Scotty Walden! MW/PAC-12 Games of the Week! HP Ep. #179 OUT NOW!",
+        "link": "https://www.mwcconnection.com/podcast/96010/mountain-west-pac-12-podcast-conference-championship-scenarios-new-mexico-boise-state-unlv-north-dakota",
+        "link_kind": "item",
+        "date": "2026-11-17T15:00:00+00:00",
+        "summary": "Welcome back everyone to the Hike’s Peak podcast, thank you for coming back to the mountain! I know I’ve said this a lot, but this had to have been the craziest weekend of college football yet! In a result that no one saw coming, UNLV put together a furious fourth quarter comeback to upset New [&#8230;]",
+        "author": "Jack Thompson",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "1cc124316833d8ee",
         "sport": "all",
         "medium": "text"
       },
@@ -129,34 +213,6 @@
         "medium": "text"
       },
       {
-        "title": "PAC-12 Players of the Week: Week 11",
-        "link": "https://www.mwcconnection.com/players-of-the-week/95745/pac-12-players-of-the-week-week-11",
-        "link_kind": "item",
-        "date": "2026-11-16T15:00:00+00:00",
-        "summary": "It was a big week for the PAC-12, with ESPN’s College GameDay in Boise to witness the Broncos take on the Oregon State Beavers. The intriguing matchup featured two of the top wide receivers in the PAC-12: Oregon State’s Jesse Legree and Boise State’s Rasean Jones. Which freshman wide receiver had the better game? Did [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "ce309a8a435b9781",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountaintop View 11-16-26. Rebels upset, Broncos clinch, Bobcats win, Falcons dominate, Lobo XC Champs.",
-        "link": "https://www.mwcconnection.com/pac-12-news/95888/unlv-rebels-boise-state-broncos-texas-bobcats-air-force-falcons-cross-country",
-        "link_kind": "item",
-        "date": "2026-11-16T14:00:00+00:00",
-        "summary": "It’s Monday, and we are back at it! Football season is firing on all cylinders, and we have you covered. As always, check out our original coverage and what we can find on the World Wide Web below. Rebels upset Lobos This one figured to be a tough game for New Mexico, but not many [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "f0f453e882da2c24",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Pac-12 Basketball Players of the Week - Nov. 16, 2026",
         "link": "http://pac-12.com/news/2026/11/16/pac-12-basketball-players-of-the-week-nov-16-2026.aspx",
         "link_kind": "item",
@@ -182,48 +238,6 @@
         "source": "Pac-12 Conference",
         "id": "d8ddecbfc64a4ac3",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Making sense of Fresno State’s bowl possibilities",
-        "link": "https://www.mwcconnection.com/bowl-predictions/95964/making-sense-of-fresno-states-bowl-possibilities",
-        "link_kind": "item",
-        "date": "2026-11-16T04:29:08+00:00",
-        "summary": "Following a 37-35 loss to the Texas State Bobcats over the weekend, the Fresno State Bulldogs sit at 5-5 overall and 2-4 in the Pac-12 with two games to go, needing to win one of the final two to even become bowl eligible in what has turned into a disappointing season. However, with the aforementioned [&#8230;]",
-        "author": "Adam Evarts",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "b32dfddefb72f9b7",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountain West and PAC-12 in the Rankings: Week 11",
-        "link": "https://www.mwcconnection.com/college-football-rankings/95753/mountain-west-and-pac-12-in-the-rankings-week-11",
-        "link_kind": "item",
-        "date": "2026-11-15T19:54:33+00:00",
-        "summary": "For the last two weeks, both the Mountain West and PAC-12 have had teams ranked in the Coaches and Associated Press Poll. New Mexico is coming off of a huge game against UNLV and Boise State faced a stiff test against Oregon State. Were both teams able to get the job done? Let’s find out… [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "64df0d365e0533c6",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "PAC-12 FIREWORKS HEADING INTO THE FINAL WEEK",
-        "link": "https://www.mwcconnection.com/pac-12-football/95931/pac-12-fireworks-heading-into-the-final-week-boise-state-texas-state-and-san-diego-state-all-in-consideration-for-the-conference-championship",
-        "link_kind": "item",
-        "date": "2026-11-15T18:00:00+00:00",
-        "summary": "Boise State tops Oregon State 46-41 to clinch hosting the Pac-12 Championship Game.&#160; Texas State holds off Fresno State 37-35 to stake a claim to second place. San Diego State rolls over Utah State 30-13 Washington State send Colorado State to the slaughter house, demolishing the Rams 73-7 Once again, the lead game featured Boise [&#8230;]",
-        "author": "Jeffrey Carter",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "61bf3b5c7eaf07f9",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -279,20 +293,6 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "1b3a50a1e1354dfe",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Pac-12 Announces All-Conference Teams, Individual Awards for Men's Soccer",
-        "link": "http://pac-12.com/news/2026/11/13/pac-12-announces-all-conference-teams-individual-awards-for-mens-soccer.aspx",
-        "link_kind": "item",
-        "date": "2026-11-13T12:57:00+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/13/TEST_2.png\" /><br /><br />The Pac-12 today announced postseason awards and All-Conference honors for men's soccer, as voted on by the league's seven head coaches. The Pac-12 Championship is set for a title game kickoff on Saturday, Nov. 14, at 6 p.m. PT from Paul Lorenz Field in Corvallis, and the match can be seen live on the Pac-12's YouTube channel as Oregon State and San Diego State fight for the league's crown and automatic bid to the NCAA Tournament.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "c35365c9aa1bd962",
         "sport": "all",
         "medium": "text"
       },
@@ -466,6 +466,20 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "Broncos Rise to No. 17 in the College Football Playoff Rankings",
+        "link": "https://broncosports.com/news/2026/11/17/broncos-rise-to-no-xx-in-the-college-football-playoff-rankings",
+        "link_kind": "item",
+        "date": "2026-11-18T02:51:00+00:00",
+        "summary": "<img alt=\"Rasean Action\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/MC_FBvsOregonState_11.14.26_1373.jpg\" /><br /><br />The Broncos (9-1, 6-0 Pac-12) are the only Group of Six team ranked by the selection committee for the third consecutive week.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "059409ce40a41ee3",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Ultimate frisbee club sees growth on and off the field",
         "link": "https://www.arbiteronline.com/2026/11/17/ultimate-frisbee-club-sees-growth-on-and-off-the-field/",
@@ -716,20 +730,6 @@
         "source": "First Kick Was Good",
         "id": "76fbb8e3706fc3d4",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Gameday Availability Report",
-        "link": "https://broncosports.com/news/2026/11/14/football-gameday-availability-report",
-        "link_kind": "item",
-        "date": "2026-11-14T21:00:00+00:00",
-        "summary": "<img alt=\"Oregon State Availability\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/Oregon_State_Availability.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "46013cc691dcb745",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -1894,6 +1894,20 @@
     ],
     "Fresno State": [
       {
+        "title": "'Dogs head to Bay Area to face Spartans",
+        "link": "https://gobulldogs.com/news/2026/11/17/mens-basketball-dogs-head-to-bay-area-to-face-spartans",
+        "link_kind": "item",
+        "date": "2026-11-18T05:46:00+00:00",
+        "summary": "<img alt=\"free throw\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/2026-11-14-MD-MBB-UCRiverside-10.jpg\" /><br /><br />GAME 5: FRESNO STATE at SAN JOS&Eacute; STATE",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Fresno State Athletics",
+        "id": "47ca05840e7a3530",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "Bulldogs look to bounce back against Utah State in final week of Pac-12 play",
         "link": "https://fscollegian.com/2026/11/bulldogs-look-to-bounce-back-against-utah-state-in-final-week-of-pac-12-play/",
         "link_kind": "item",
@@ -2554,20 +2568,6 @@
         "medium": "audio"
       },
       {
-        "title": "Lungu's 30-point debut leads Bulldogs past Sunbirds in season opener",
-        "link": "https://gobulldogs.com/news/2026/11/2/mens-basketball-lungus-30-point-debut-leads-bulldogs-past-sunbirds-in-season-opener",
-        "link_kind": "item",
-        "date": "2026-11-03T05:08:00+00:00",
-        "summary": "<img alt=\"Dragos \" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/DSC06453.JPG\" /><br /><br />FRESNO, Calif. – Behind a 30-point performance from Dragos Lungu in his Bulldog debut, Fresno State opened the 2026-27 season with an 88-79 victory over Fresno Pacific on Monday night at the Save Mart Center.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Fresno State Athletics",
-        "id": "d093e39c4c843749",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "2026 Bulldogs in the NFL: Week 8",
         "link": "https://gobulldogs.com/news/2026/11/2/football-2026-bulldogs-in-the-nfl-week-8",
         "link_kind": "item",
@@ -2741,6 +2741,20 @@
     ],
     "Gonzaga": [
       {
+        "title": "No. 22 Gonzaga Beats Montana State 74-62",
+        "link": "https://gozags.com/news/2026/11/17/mens-basketball-no-22-gonzaga-beats-montana-state-74-62",
+        "link_kind": "item",
+        "date": "2026-11-18T07:04:00+00:00",
+        "summary": "<img alt=\"huff montana state\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/1F2A2656.jpg\" /><br /><br />SPOKANE, Wash. — Braden Huff scored 21 points and Davis Fogle added 16 as No. 22 Gonzaga beat Montana State 74-62 on Tuesday night in the McCarthey Athletic Center.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "43699205438e41a0",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "WBB Returns Home to Host Montana on Wednesday",
         "link": "https://gozags.com/news/2026/11/17/womens-basketball-wbb-returns-home-to-host-montana",
         "link_kind": "item",
@@ -2766,6 +2780,48 @@
         "source": "Gonzaga Athletics",
         "id": "e752011177e7c3b7",
         "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "No. 22 Gonzaga holds off upset-minded Montana State 74-62 | Analysis",
+        "link": "http://www.spokesman.com/stories/2026/nov/17/no-22-gonzaga-holds-off-upset-minded-montana-state/",
+        "link_kind": "item",
+        "date": "2026-11-17T00:00:00+00:00",
+        "summary": "<p>Gonzaga&#8217;s traditional postgame celebrations still took place near half court. A swarm of players crowded Braden Huff when the senior forward was named the game&#8217;s most valuable player, fresh off 21 points and seven rebounds. The Zags traded high-fives with each other and acknowledged fans still lingering around at McCarthey Athletic Center.</p><p>But as soon as they disappeared into a tunnel, the celebrating turned right to troubleshooting.</p><p>Three days after a wobbly finish against LSU, Gonzaga had to withstand a few more stretches of unsettling basketball against Montana State.</p><p>The 22nd-ranked Bulldogs shrugged off a nine-point deficit early in the first half, navigated a prolonged offensive drought in the second and survived a late scoring spree from the Bobcats to emerge with a 74-62 victory in their final game before next week’s trip to the Players Era 16 in Las Vegas.</p><p>The product wasn&#8217;t pretty, but the result was just what Gonzaga needed 72 hours after letting a 13-point lead slip against LSU and losing a high-profile nonconference game in heart-wrenching fashion at Numerica Veterans Arena.</p><p>Tuesday&#8217;s opponent may not have been a SEC contender with size and skill at almost every position, but Gonzaga players and coaches knew Montana State would be sneaky tough, bringing its experienced roster and unique offensive philosophies to the Kennel.</p><p>&#8220;I knew it was going to be a real tough kind of scrappy, hard-nosed kind of battle especially the way Montana State plays,&#8221; Gonzaga coach Mark Few said. &#8220;They just run that five-out where I knew our guys would be out running around, chasing 3-point shooters. Actually for long stretches of that game I thought we did a nice job defending them. Just the second half our offense was kind of really, really choppy and let them get back into it.</p><p>&#8220;They did a great job getting back into it, but then we held them off and win. They&#8217;re going to have a heck of a year and they get all those guys back from last year, so they&#8217;re clicking and in late-season form.&#8221;</p><p>Montana State shot its way into an early 13-4 lead on a 3-pointer from Cavin Holden, a Longview, Wash., native and former Central Washington standout who finished with a Division I career-high 23 points.</p><p>The 3-point line also helped the Bobcats claw back into the game late in the second half, likely evoking a few unpleasant memories of Saturday&#8217;s game against LSU for Gonzaga fans.</p><p>After going nearly six minutes without a field goal, Gonzaga clung to a five-point lead with 7 minutes, 15 seconds remaining before Davis Fogle, Izan Almansa and Nathan De Sousa delivered layups on four consecutive possessions to open a double-digit lead.</p><p>It didn&#8217;t close the door on Montana State – at least not completely – and the Bobcats got two more 3-pointers from Howie Keene and Darnez Slater, along with a free throw from Jaden Steppe, trimming the deficit to eight points with under two minutes to play.</p><p>Huff, who led Gonzaga in scoring for the second straight game, followed with a jumper at the other end to stretch the lead back out to 10 and Fogle sealed the victory with two more free throws.</p><p>Fogle finished with 16 points on 6 of 14 shooting and Almansa was Gonzaga&#8217;s third double-digit scorer, recording 12 points and six rebounds. Gonzaga made a switch in the starting lineup, replacing Xaivian Lee with Javon Bennett, but it was another point guard, De Sousa, who led the position group in scoring, totaling nine points on 4 of 5 shooting.</p><p>&#8220;They&#8217;re a really good team, they run really good stuff and they shoot it really well,&#8221; Huff said. &#8220;I wouldn&#8217;t be surprised if they&#8217;re in the (NCAA) Tournament, but definitely some stuff we&#8217;ve got to clean up. They hit a lot of 3&#8217;s on us, so got to be able to take that away and just offensively I think at times it got stagnant and bogged down. So just got to figure that out.&#8221;</p><p>Gonzaga didn&#8217;t shoot the efficiently, making 26 of 54 (48.1%) from the field and 4 of 20 (20.0%) from the 3-point line, but turnovers may have been a larger issue in a game where the Bulldogs committed 16.</p><p>Gonzaga also gave up 12 3&#8217;s to a Montana State team that finished 40% from the 3-point line.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "6b6919d816bcf8e7",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Late lapses in LSU loss and Chauncey Wiggins' role | Zags Basketball Insiders Podcast",
+        "link": "http://www.spokesman.com/stories/2026/nov/17/late-lapses-in-lsu-loss-and-chauncey-wiggins-role-/",
+        "link_kind": "item",
+        "date": "2026-11-17T00:00:00+00:00",
+        "summary": "<p>Gonzaga appeared to be on its way to a 3-0 start to the season, but some late gaffes turned an eight-point lead with less than three minutes remaining into an 81-80 loss to LSU at the buzzer.</p><p>Richard Fox, former GU center and analyst on Gonzaga telecasts, and yours truly sorted through Saturday’s agonizing final minutes, Chauncey Wiggins’ role in the rotation and numerous other topics in the latest Zags Insiders Podcast.</p><p>Find the entire podcast at spokesman.com/podcasts/zags-basketball-insiders/ or youtu.be/pQ2aNhKkrMc.</p><p>Here are a few excerpts from Monday’s podcast.</p><h3>Late-game issues</h3><p><strong>Fox:</strong> The Zags were up nine, 77-68, with 3:49 left. They had the game. The offensive rebounding was just killer. These two things are correlated. Offensive rebounds in the first half, Gonzaga with 11, LSU with just three so second-chance points was GU 10, LSU 2. But then you flip it in the second half, 14-7 advantage for the Tigers in second-chance points and a lot of those came down the stretch.</p><p>I said this earlier in the year: The college game is a guard-driven game. When you have a guy like (Donovan) Dent, who is not a perfect player, but he is an exceptional college point guard. He doesn’t get sped up, he knows where the ball needs to go, he’s able to score enough where you have to defend him, which makes his pick-and-roll game really difficult to defend.</p><p>That was the thing down the stretch, it felt like LSU had a guy to go to that would keep everything calm and control the game, the ball found the right guys at the right spots. And then you couple that with the offensive rebounding, where if they miss or you’re doing a good job against the initial attack, now you’re giving up another opportunity and sometimes two in the same possession.</p><p>At that level of basketball, that’s a backbreaker.</p><p><strong>Meehan:</strong> Gonzaga did 90% of the hard work and just didn’t finish the job. It felt a little like Purdue: led most of the way (against) a very structured, tough-to-play Purdue team, led by 11 in the second half and it got close, closer than it should have. The Zags did enough to win it.</p><p>The difference is LSU is a lot more capable than Purdue, they’ve got those guards and that big kid (Michael) Ruzic is terrific. Bottom line, the Zags had to meet LSU more than halfway for this upset to happen.</p><p>Twice the Zags gave up rebounds after missed (LSU) free throws and paid both times. Another sequence: Ruzic got a pair of offensive rebounds, hits (Abdi) Bashir for a 3. Several times, the Zags kind of lost assignments defensively. (Davis) Fogle got lost on one, gave up a 3, (Izan) Almansa got lost on one, (Xaivian) Lee over-helped on one and gave up a 3.</p><p>Then the bizarre stuff. Lee stumbles on an inbound pass, falls down, travel. (Nathan) De Sousa is in as a defensive replacement, he’s trying to hound Dent (on LSU’s last play), he fell down. Alertly, Wiggins shifted over to guard Dent, you have to guard Dent. Dent creates a little space, just enough to get a 3-point shot over Wiggins, bang.</p><p><strong>Wiggins’ fit with the Zags</strong><strong>Meehan:</strong> Chauncey Wiggins is eligible, he got through the court process on Thursday. He’s 6-11, long, wiry, good 3-point numbers everywhere he’s been. He was at Florida State (last season).</p><p>He hit one 3 (vs. LSU) and was immediately part of the rotation. He played 12 minutes, probably got a couple shifts in each half. A different entity than what they have with the 3-ball ability and that length. I think you can add him to the ‘4’ man rotation but I do think there will be times he can actually play the ‘3’.</p><p>He has been practicing. He did look pretty comfortable with things. It felt like he was up to speed. I think there’s a role there, and I talked to somebody on the staff a week or two ago, he’s the kind of guy with that skill set who could get in a tournament game and hit two or three 3s in a half and really flip things for you. He could put up 15 on three or four 3s.</p><p><strong>Fox:</strong> Ton of experience, three years at Clemson, last year at Florida State, so played at a really high level in the ACC. He’s played in 130 games, 129 coming into this year, started over half of them. You really like that experience. He’s very long, 6-11, 225.</p><p>Last year averaged 13 points a game. What he is, he’s a stereotypical stretch big and I think he’s athletic enough to probably play the 3 when they want to go big. He’s not a high-level rebounder. You look at what he’s done career averages, under one assist per game, 27 career blocks and 29 steals. He’s not a super dynamic defender, really a disruptor.</p><p>He’s a very solid player on both ends and more importantly, his 3-point shooting profile is super appealing. His career average is 37.5%, never shot worse than 35%, about half of his shots come from behind the arc over the course of his career. You can play him with two bigs, we saw that in both halves, and it’s going to work.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "49331085ae4318e1",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga shuffles startling lineup, bench contributes to win over MSU | 3 takeaways",
+        "link": "http://www.spokesman.com/stories/2026/nov/17/gonzaga-shuffles-startling-lineup-bench-contribute/",
+        "link_kind": "item",
+        "date": "2026-11-17T00:00:00+00:00",
+        "summary": "<p>Three takeaways at the buzzer from No. 22 Gonzaga’s 74-62 win over Montana State on Tuesday at the McCarthey Athletic Center.</p><h3>Bennett gets starting nod</h3><p>Gonzaga made a change in its starting lineup for the first time of the young season. Fifth-year senior Javon Bennett replaced fifth-year point guard Xaivian Lee in the first unit.</p><p>But it was Lee and third point guard Nathan De Sousa off the bench that spurred Gonzaga’s rally from an early 16-6 deficit.</p><p>Lee had six points and four assists and De Sousa had his best stretch of the season with seven points and a steal as GU surged in front 41-28 at the break. Lee’s plus/minus in the first half was plus-23 with Izan Almansa right behind at plus-22.</p><p>Bennett went scoreless in 11 minutes. Lee finished with eight points, seven rebounds, six assists and four turnovers. De Sousa added nine points.</p><p>Bennett has started 126 times in 140 career games, including one season at Merrimack and three years at Dayton. He averaged a career-best 15.8 points last season and earned first-team All-Atlantic 10 honors.</p><h3>Bench brings it in first half</h3><p>Three days after being outscored by LSU’s bench 34-17, Gonzaga’s backups delivered 23 points in the first half alone and was largely responsible for the Zags’ 13-point halftime advantage.</p><p>Their production slowed considerably in the second half, but the final tally was still heavily in favor of Gonzaga: 32-18.</p><p>Almansa paced the reserves with 12 points and six rebounds, followed by De Sousa’s nine points.</p><h3>Zags cash in at the line</h3><p>Gonzaga’s offense sputtered mightily at times in the second half, hitting just 1 of its first 11 field-goal attempts.</p><p>The Zags were able to get production elsewhere, mainly the foul line. Montana State committed its seventh foul with 14:36 remaining, leading to frequent trips to the free throw line for the Zags.</p><p>GU was 12 of 14 before Davis Fogle misfired on a pair with 3:50 remaining. Fogle bounced back by hitting a pair at the 1:02 mark as the Zags finished 14 of 18, offsetting their 9-of-26 shooting from the field.</p><p>Gonzaga was 18 of 25 overall at the line. Braden Huff was 6 of 6 and Lee made all four of his attempts. MSU was 6 of 10.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "d6dcf9d4e60a662e",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -3332,48 +3388,6 @@
         "medium": "text"
       },
       {
-        "title": "Gonzaga's Izan Almansa sidelined for New Mexico State game with lower leg injury",
-        "link": "http://www.spokesman.com/stories/2026/nov/07/gonzagas-izan-almansa-sidelined-for-new-mexico-sta/",
-        "link_kind": "item",
-        "date": "2026-11-07T00:00:00+00:00",
-        "summary": "<p><img src=\"https://thumb.spokesman.com/L-rPcgjS0Bbwf1eKlFrEe-uX7Qk=/300x0/smart/media.spokesman.com/photos/2026/11/07/6aef9fafc15d7.preview.jpg\" /></p><p>Gonzaga won&#8217;t be able to rely on Izan Almansa&#8217;s steady bench production in today&#8217;s home opener against New Mexico State.</p><p>The sophomore forward isn&#8217;t available against the Aggies as he recovers from a lower right leg injury, according to Gonzaga. Almansa is listed as day to day, but didn&#8217;t appear to be in any real discomfort walking around the court in street clothes before tipoff at McCarthey Athletic Center.</p><p>After Saturday&#8217;s game, the Zags don&#8217;t play again until Nov. 14 against LSU at Numerica Veterans Arena. They have one more game, on Nov. 17 at home against Montana State, before traveling to Las Vegas for the Players Era Festival.</p><p>Almansa provided instant offense and rebounding off the bench in Gonzaga&#8217;s exhibition games and Monday&#8217;s season-opening win against Purdue.</p><p>The Spanish forward spelled starting center Massamba Diop when the Arizona State encountered first-half foul trouble and supplied 11 points on 4 of 6 shooting to go with four rebounds in 29 minutes off the bench.</p><p>Almansa was effective in a preseason exhibition against Arkansas one day after learning the NCAA approved his eligibility waiver, scoring 14 points and pulling down six rebounds in 29 bench minutes. He registered another 12 points on 4 of 5 shooting in a blowout exhibition win over NAIA Lewis-Clark State.</p><p>With Almansa sidelined, sophomore forward Parker Jefferson or freshman center Sam Funches likely become Gonzaga&#8217;s first big off the bench. Neither saw playing time in Monday&#8217;s opener against Purdue.</p><p>Outside of Almansa, fifth-year senior wing Chauncey Wiggins was the only other Gonzaga player who didn&#8217;t suit up on Saturday. Wiggins is still in eligibility limbo and likely won&#8217;t learn whether he&#8217;ll be able to suit up for the Zags until a Nov. 17 injunction hearing at Spokane Superior Court.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "cc7052a711eaf07f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Gonzaga’s small-ball lineup yields mixed results during home opener",
-        "link": "http://www.spokesman.com/stories/2026/nov/07/gonzagas-small-ball-lineup-yields-mixed-results-du/",
-        "link_kind": "item",
-        "date": "2026-11-07T00:00:00+00:00",
-        "summary": "<p>Gonzaga turned to a small-ball lineup at times Saturday against New Mexico State with Izan Almansa sitting out with a sore calf.</p><p>The results: Some good, some bad at both ends of the floor.</p><p>Almansa has been solid as the first big off the bench behind starters Braden Huff and Massamba Diop in exhibition games and the season-opening win over Purdue last Monday.</p><p>“He banged his calf,” coach Mark Few said of the 6-foot-10 junior forward from Spain. “It’s just been slow to respond. He’ll be fine.”</p><p>Gonzaga shifted sophomores Isiah Harwell or Davis Fogle to the ‘4’ position in the first half when Huff needed a breather. Those two saw time at the 4 in the second half when Diop picked up his third and fourth fouls near the 10-minute mark and spent time on bench.</p><p>Huff checked out for good with 7:28 remaining in Gonzaga’s 109-68 blowout victory at McCarthey Athletic Center.</p><p>The 6-6, 216-pound Harwell lined up against 6-8 Mark Lavrenov and Fogle took some reps on the Aggies forward. NMSU fed Lavrenov repeatedly late in the first half and he responded with power moves and buckets against Harwell and Fogle and a pair of free throws after drawing a foul on Diop.</p><p>Lavrenov had 12 points as New Mexico State trailed 47-42 after an offensive-minded first half.</p><p>“No, that was my first time,” Harwell said of defending a 4. “Hope Izan can come back though because boxing out those 4s can be a little struggle. It was good though.”</p><p>The trade-offs certainly worked both ways. Lavrenov scored a team-high 19 points but he and his teammates had all kinds of issues matching up defensively against Huff, Fogle and Harwell.</p><p>The Zag trio combined for 64 points on 25 of 36 shooting. GU also won the rebounding 30-26 and paint points 42-34. Harwell actually outrebounded Lavrenov 5-4 and Fogle pulled down four boards to go with six assists. Diop added 12 points and seven rebounds.</p><p>“We miss Izan, he’s kind of a jack of all trades,” Few said. “He does a lot, especially in a game like that. He reminds me of Killian (Tillie) and Anton (Watson) a little bit. They had a really good 4-man. They did a great job of isolating him and taking advantage, especially when we went small, so we had to bring double teams.</p><p>“In the second half, we did a better job of getting our switches down and just being a tougher team.”</p><p>Indeed, the Zags outscored NMSU 62-26 in the final 20 minutes. The Aggies’ shooting percentage plummeted from 55.6% in the opening half to 28.6% in the second.</p><p>“I kind of did it a little bit last year,” Fogle said of guarding 4s. “On offense, just tried to space and use our speed against the bigs. On defense, make sure we box out, hit someone and just be tougher on the defensive side when playing small.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "095e1559ae11c26c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Davis Fogle fills up points, assists columns in rout | 3 takeaways",
-        "link": "http://www.spokesman.com/stories/2026/nov/07/davis-fogle-fills-up-points-assists-columns-in-rou/",
-        "link_kind": "item",
-        "date": "2026-11-07T00:00:00+00:00",
-        "summary": "<p>Three takeaways at the buzzer from No. 15 Gonzaga’s 109-68 win over New Mexico State on Saturday at the McCarthey Athletic Center.</p><h3>Dishin’ Davis</h3><p>Gonzaga sophomore Davis Fogle is obviously a gifted scorer.</p><p>But Saturday, he also put his scoring and play-making ability on display.</p><p>The 6-foot-7 forward has pocketed 22 points in each of GU’s first two wins to open the season. As impressive as his 8-of-13 shooting, including 3 of 6 on 3s, was against the Aggies, it was another stat column that was equally important to the Zags.</p><p>Fogle handed out six assists, matching the career high he set as a freshman against Portland and in the West Coast Conference Tournament against Santa Clara last season.</p><p>Fogle’s driving ability often drew an extra defender and he capitalized by finding open teammates. In one first-half sequence, he hit a 3-pointer after a pass from Xaivian Lee, fed Lee for a 3-ball and then dunked home a lob pass from Lee.</p><p>Fogle has just two turnovers in two games.</p><h3>Bennett takes advantage of added playing time</h3><p>Senior guard Javon Bennett saw extended minutes with forward Izan Almansa sidelined by a calf strain and reserve point guard Nathan De Sousa whistled for three fouls in just three first-half minutes.</p><p>Bennett, a transfer guard from Dayton, had a nice stretch after checking in with roughly 5 minutes remaining in the first half. He hit a jumper in the lane and hit one of two free throws after drawing a foul on a drive into the paint.</p><p>Bennett followed with a 3-pointer and a pull-up jumper to help rebuild Gonzaga’s halftime lead to 47-42 after the Aggies had closed within two points.</p><p>Bennett finished with 13 points, hitting 4 of 6 shots, in just 19 minutes. He also had two steals.</p><p>He had five points, including a pair of free throws with 19 seconds left to boost GU’s lead to 76-71 over Purdue in the season opener.</p><h3>Home sweet home</h3><p>Gonzaga’s 78-72 win over Purdue last Monday pushed its winning streak to 23 straight in season openers, dating back to a loss to Saint Joseph’s in 2003 at Madison Square Garden in New York City.</p><p>The Zags’ streak in home openers is now at 38 after GU pulled away from New Mexico State in the second half. The Aggies were within two late in the first half and made it interesting at times, but they only led for 1 minute, 34 seconds.</p><p>The last time Gonzaga lost a home opener? Boise State edged GU 73-65 in 1988-89 at the Martin Centre.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "5ea5f02e6b974fff",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Idaho women hold on for shocking upset over Gonzaga: 'It's a big win for us'",
         "link": "http://www.spokesman.com/stories/2026/nov/06/idaho-women-hold-on-for-shocking-upset-win-over-go/",
         "link_kind": "item",
@@ -3510,20 +3524,6 @@
         "channel_url": "",
         "source": "Gonzaga Athletics",
         "id": "89d8bbf21b94e92d",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "MBB Opens Season Against Purdue in Las Vegas",
-        "link": "https://gozags.com/news/2026/10/30/mens-basketball-mbb-opens-season-against-purdue-in-las-vegas",
-        "link_kind": "item",
-        "date": "2026-10-30T17:01:00+00:00",
-        "summary": "<img alt=\"Bennett L C State\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/30/122-1F2A6904.jpg\" /><br /><br />SPOKANE, Wash. – Gonzaga opens the regular season against No. 24 Purdue in the TNT Hall of Fame Series in T-Mobile Arena in Las Vegas.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "7e10268b39bf919f",
         "sport": "mbb",
         "medium": "text"
       },
@@ -3683,6 +3683,20 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "Turning Point USA pops up on OSU’s campus",
+        "link": "https://dailybaro.orangemedianetwork.com/33869/daily-barometer-news/turning-point-usa-pops-up-on-osus-campus/",
+        "link_kind": "item",
+        "date": "2026-11-18T02:24:42+00:00",
+        "summary": "Turning Point USA’s Oregon State University Chapter held a pop up event on Tuesday from 11 a.m. to 2 p.m., in which TPUSA speaker Ryley Niemi debated students.  While the discussion fluctuated from student to student, Niemi came to the event equipped with a white board that stated a topic of debate. The topic as...",
+        "author": "Roy Keller, News Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Barometer",
+        "id": "5fb5d349ddc34f14",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Oregon State lands commitment of junior college offensive lineman",
         "link": "https://www.oregonlive.com/recruiting/2026/11/oregon-state-lands-commitment-of-junior-college-offensive-lineman.html",
@@ -4729,6 +4743,20 @@
     ],
     "San Diego State": [
       {
+        "title": "What SDSU’s women’s golf team carries in their bag",
+        "link": "https://thedailyaztec.com/130047/sports/what-sdsus-womens-golf-team-carries-in-their-bag/",
+        "link_kind": "item",
+        "date": "2026-11-18T02:30:54+00:00",
+        "summary": "",
+        "author": "Tyler Bowne, Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Aztec",
+        "id": "2e02e6342124696e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Aztec football looks to carry momentum into date with No. 15 Boise State",
         "link": "https://thedailyaztec.com/130033/sports/aztec-football-looks-to-carry-momentum-into-date-with-no-15-boise-state/",
         "link_kind": "item",
@@ -4740,6 +4768,34 @@
         "source": "The Daily Aztec",
         "id": "fddc0ae5778affe5",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Men's Hoops Host Texas Southern on Wednesday Night",
+        "link": "https://goaztecs.com/news/2026/11/17/mens-hoops-host-texas-southern-on-wednesday-night",
+        "link_kind": "item",
+        "date": "2026-11-17T19:50:42+00:00",
+        "summary": "The Aztecs look to go 5-0 on the season for just the third time in Brian Dutcher's tenure as head coach.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "fa2faa615b8e79e5",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs Play at CSUN Thursday in First Road Game",
+        "link": "https://goaztecs.com/news/2026/11/17/aztecs-play-at-csun-thursday-in-first-road-game",
+        "link_kind": "item",
+        "date": "2026-11-17T18:59:30+00:00",
+        "summary": "The Aztecs play at CSUN Thursday at 6 p.m. for their first road game of the season. The game will be streamed on ESPN+ and Chris Ello (20th season) will provide an audio-only broadcast available on the SDSU Aztecs app and GoAztecs.com.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "9a021c8735ee460b",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -5119,34 +5175,6 @@
         "source": "San Diego State Athletics",
         "id": "76aec77b763746fb",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Two SDSU doubles teams earn berths into NCAA Doubles Championships",
-        "link": "https://thedailyaztec.com/129919/sports/two-sdsu-doubles-teams-earn-berths-into-ncaa-doubles-championships/",
-        "link_kind": "item",
-        "date": "2026-11-11T18:07:31+00:00",
-        "summary": "Two of San Diego State’s doubles teams both captured titles at the ITA Southwest Regionals, earning spots in the NCAA Championships. Both Aztec teams began play on Oct. 15. The women’s team clinched its regional doubles title Oct. 19, and the men’s team secured its title the following morning on Oct. 20.  The SDSU women&#8217;s...",
-        "author": "Ava Bocek, Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "89b113507947c8dc",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "How SDSU Athletics trains its athletes to view their mind as a tool instead of a burden",
-        "link": "https://thedailyaztec.com/129912/sports/how-sdsu-athletics-trains-its-athletes-to-view-their-mind-as-a-tool-instead-of-a-burden/",
-        "link_kind": "item",
-        "date": "2026-11-11T16:00:08+00:00",
-        "summary": "There have been plenty of infamous stories of athletes in the past who let their mental hurdles impact their performance and, for some, their livelihood. Professional athletes like Kevin Love, Gary Woodland and DeMar DeRozan have all faced some sort of mental obstacles that have inhibited their athletic achievements and/or personal lives. In the wake...",
-        "author": "Tyler Bowne and Brielle Miller",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Aztec",
-        "id": "4698ac1f2819123f",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -6392,65 +6420,51 @@
         "id": "611d570320d09bad",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "WTWF - Texas State",
-        "link": "https://goaztecs.com/news/2026/10/04/wtwf-texas-state",
-        "link_kind": "item",
-        "date": "2026-10-04T07:00:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "efb6222ab90ee9ad",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Shot on Snapdragon - Texas State",
-        "link": "https://goaztecs.com/news/2026/10/04/shot-on-snapdragon-texas-state",
-        "link_kind": "item",
-        "date": "2026-10-04T07:00:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "1fd174097d09a4d8",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Shot on Snapdragon - Texas State 2",
-        "link": "https://goaztecs.com/news/2026/10/04/shot-on-snapdragon-texas-state-2",
-        "link_kind": "item",
-        "date": "2026-10-04T07:00:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "33271c286e4efbdb",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Spirited Second-Half Comeback Propels Aztecs Past Texas State in Pac-12 Opener, 31-29",
-        "link": "https://goaztecs.com/news/2026/10/03/spirited-second-half-comeback-propels-aztecs-past-texas-state-in-pac-12-opener-31-29",
-        "link_kind": "item",
-        "date": "2026-10-04T06:55:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "28a0ac90af89454a",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "Texas State Earns Best Start Since 2005-06 With 74-52 Win Over Incarnate Word",
+        "link": "https://txst.com/news/2026/11/17/womens-basketball-texas-state-earns-best-start-since-2005-06-with-74-52-win-over-incarnate-word.aspx",
+        "link_kind": "item",
+        "date": "2026-11-18T05:34:00+00:00",
+        "summary": "<img alt=\"Crystal Henderson Dribbling\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/_EQT0435.jpeg\" /><br /><br />SAN ANTONIO, Texas — In their second road contest of the season, Texas State Women's Basketball continued its hot start with a 74-52 win over UIW Tuesday night at the McDermott Center, improving to 4-0 for the first time since the 2005-06 season.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "f56667d426cb0fca",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Bobcats extend winning streak with dominant win over Cardinals",
+        "link": "https://universitystar.com/37240/sports/bobcats-extend-winning-streak-with-dominant-win-over-cardinals/",
+        "link_kind": "item",
+        "date": "2026-11-18T03:36:52+00:00",
+        "summary": "Junior Saniya Burks led with 24 points as the Texas State Bobcats continued its undefeated start with a 74-52 victory over Incarnate Word at the McDermott Center Tuesday evening in San Antonio. The Bobcats (4-0) held the Cardinals (1-4) to five points in the opening quarter and carried a 16-point lead into halftime before extending...",
+        "author": "Azul Rios, Sports Contributor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "e1f9d28af333c6e6",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Bobcats fall to Colorado State as Rams secure undefeated conference",
+        "link": "https://universitystar.com/37238/sports/bobcats-fall-to-colorado-state-as-rams-secure-undefeated-conference/",
+        "link_kind": "item",
+        "date": "2026-11-18T03:03:32+00:00",
+        "summary": "With the season drawing near it&#8217;s conclusion, the Texas State Bobcats fell to the Colorado State Rams in a straight-set sweep (25-16, 25-18, 25-16) to finish conference play undefeated and claim the Pac-12 regular-season championship Tuesday night at Moby Arena in Fort Collins, Colorado. The Bobcats (9-17, 4-11 Pac-12) entered the matchup looking to challenge...",
+        "author": "Crystal Creek, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "59aa692826f1903e",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Texas State to Host UIW on Wednesday Night",
         "link": "https://txst.com/news/2026/11/17/mens-basketball-texas-state-to-host-uiw-on-wednesday-night.aspx",
@@ -6679,20 +6693,6 @@
         "medium": "text"
       },
       {
-        "title": "Bobcats defeat San Diego in last home game of the season",
-        "link": "https://universitystar.com/37165/sports/bobcats-defeat-san-diego-in-last-home-game-of-the-season/",
-        "link_kind": "item",
-        "date": "2026-11-13T05:07:59+00:00",
-        "summary": "After a first set loss, the Texas State Bobcats rebounded and won out against the San Diego State (19-25, 26-24, 25-15, 25-18), winning their last home game of the season Thursday night at Strahan Arena. Texas State (9-16, 4-10 Pac-12) got their get-back from their first loss to the Aztecs (15-8, 10-3 Pac-12), a sweep...",
-        "author": "Carisa Arellano, Sports Contributor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "9c1315a36bbea977",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Texas State Hosts Southern Miss in First-Ever Non-Conference Meeting",
         "link": "https://txst.com/news/2026/11/12/mens-basketball-texas-state-hosts-southern-miss-in-first-ever-non-conference-meeting.aspx",
         "link_kind": "item",
@@ -6732,20 +6732,6 @@
         "source": "Texas State Athletics",
         "id": "6f8a8c989ee53c46",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Return of the King: TXST MBB Scoring Leader returns back to San Marcos",
-        "link": "https://universitystar.com/37142/sports/return-of-the-king-txst-mbb-scoring-leader-returns-back-to-san-marcos/",
-        "link_kind": "item",
-        "date": "2026-11-12T18:00:30+00:00",
-        "summary": "The number 2,122 represents years of memories and accomplishments for the all-time Texas State men’s basketball scoring leader, Nijal Pearson. Now, the former Bobcat standout has returned to San Marcos, in a new development role. Pearson played four seasons at Texas State from 2016-20 and finished as the program’s all-time leading scorer. He earned Sun...",
-        "author": "Kaden Cuyler, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "4d8f0a3e7d591f86",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -6914,20 +6900,6 @@
         "source": "Texas State Athletics",
         "id": "ddb48204f9404c81",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Texas State Earns First Win in Kielsmeier Era Over Long Island",
-        "link": "https://txst.com/news/2026/11/4/womens-basketball-texas-state-earn-first-win-in-kielsmeier-era-over-long-island.aspx",
-        "link_kind": "item",
-        "date": "2026-11-05T05:38:00+00:00",
-        "summary": "<img alt=\"Saniya Burks Driving Against Shark Player\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/4/261104_WBB_starter_vsLIU_KH-04071__1_.jpg\" /><br /><br />SAN MARCOS, Texas – Texas State Women's Basketball began its new chapter on a high note on Wednesday, securing their first win in the Chris Kielsmeier era with an 18-point win over Long Island, 69-51.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "e543fde7cfee21ce",
-        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -7599,6 +7571,23 @@
     ],
     "Washington State": [
       {
+        "title": "How WSU RB Kirby Vorhees broke free for record-breaking 98-yard run",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/how-wsu-rb-kirby-vorhees-broke-free-for-record-breaking-98-yard-run/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-11-18T03:25:15+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/11/11172026_TZR_Kirby_Vorhees-10242026-AP_tzr_192322.jpg?d=1200x630\"><br/>Kirby Vorhees' 98-yard touchdown run against Colorado State was not only the longest rush in college football this season, but also the longest in WSU history.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "463c4cd05fa8fc93",
+        "sport": "football",
+        "medium": "text",
+        "also": [
+          "The Spokesman-Review"
+        ]
+      },
+      {
         "title": "Cougs crush Colorado State! (Episode 268)",
         "link": "https://podcastvseveryone.podbean.com/e/cougs-crush-colorado-state-episode-268/",
         "link_kind": "item",
@@ -7670,17 +7659,17 @@
         "medium": "text"
       },
       {
-        "title": "Anatomy of a 98-yarder: How WSU RB Kirby Vorhees broke free for a record-breaking run and his teammates' reactions",
-        "link": "http://www.spokesman.com/stories/2026/nov/17/anatomy-of-a-98-yarder-how-wsu-rb-kirby-vorhees-br/",
+        "title": "No. 16 Washington women outmatch Washington State 82-54",
+        "link": "http://www.spokesman.com/stories/2026/nov/17/no-16-washington-women-outmatch-washington-state-8/",
         "link_kind": "item",
         "date": "2026-11-17T00:00:00+00:00",
-        "summary": "<p>PULLMAN – On the sideline before he made history, Kirby Vorhees went over the gameplan with Justin Green, Washington State’s running backs coach. The Cougars were hardly in an ideal spot, backed up nearly at their own goal line, about a country mile away from the other end zone.</p><p>This was before WSU’s 73-7 win over Colorado State got out of hand over the weekend, before the Cougars splurged on touchdowns like they were wolfing down mini Snickers out of their Halloween bags. Vorhees felt the nerves of the moment, he said, understanding that at the 2-yard line, he had to avoid a safety.</p><p>A little over a year ago, Vorhees had no such luck. Last year, in WSU’s narrow road loss to Virginia, Vorhees was stuffed in a similar situation. The Cavaliers brought him down for a safety, using a 12-0 fourth quarter to swing the game and hand the Cougars a loss.</p><p>This year, though, Vorhees learned. “Play it safe,” Green advised. “Slow your tempo down because everything’s gonna cross your face.”</p><p>“And then when everything crossed my face and the safety took a bad angle,” Vorhees said, “I was like, ‘all right, bet, let’s go.’”</p><p>With that, Vorhees broke into the open field and jetted by CSU safety Tre’Shawn Moore, who had taken too sharp an angle toward Vorhees. That gave Vorhees a path of green grass, and he surged into it, galloping the full 98 yards into the other end zone for a touchdown. When he got there, he unveiled something of an awkward celebration, tumbling into the back of the end zone as he spun down.</p><p>Whatever he intended for the celebration, though, the result was the same: The longest rush in college football this season, the longest in WSU program history, plus the longest in Pac-12 history, including the traditional and reimagined versions. That helped Vorhees pile up 197 yards and four scores on the ground. It also helped the Cougs total 535 rushing yards, the most in program history, torching a Colorado State defense on track to go down as the second-worst in college football history.</p><!--[embed id=12517]--><p>It would have amounted to a remarkable performance from any team. It was especially so for this WSU group, which was getting less than an average of 50 yards combined from its three tailbacks entering the game, struggling to run the ball so much that abandoning the run altogether didn’t seem like such a crazy idea. At the center was Vorhees, the redshirt junior from Florida.</p><p>The funny part is that before he dove into the end zone, even he wasn’t sure he would make it there. “I felt so slow out there,” he laughed.</p><p>When he reached about the 50, Vorhees said, he started huffing and puffing. He snuck a glance behind his shoulder to check if anyone was close to catching him. The closest defender was CSU linebacker Oumar Diomande, but even he never got closer than about five yards. “I was hoping this mike back wouldn’t catch me,” Vorhees said. “Thankfully, he didn’t.”</p><p>Moments before that, though, the Cougars’ head man was already moving on to the next play. Kirby Moore figured Vorhees would get caught around his own 45. “But he ended up opening up,” Moore chuckled.</p><p>On the Cougars’ offensive line, things felt equally unclear, at least for the first couple seconds of the play. From his spot at left tackle, Ashton Tripp made a solid block on his matchup, allowing Vorhees to jump to his right. After a moment, Tripp realized something big had happened.</p><p>“I was on the front side, so I had my back to him, obviously,” Tripp said, “and then I just heard the crowd start going crazy. I look over, he makes his cut, and then I was just chasing him all the way down the field. The whole O-line was, like, 50 yards behind him, so we just started celebrating back there on probably the logo.”</p><p>On the sideline, fellow running back Maxwell Woods saw something similar as his teammates. Woods himself enjoyed a sparkling day – 15 carries for 108 yards and one touchdown, the first of his WSU career – but for this play, he could only watch and marvel. Once Woods saw Vorhees race past Moore, the Rams’ safety, he knew Vorhees would be running a good distance.</p><p>“And then it was just a whole lot of feel. There wasn’t a lot of thinking, it was just a whole lot of excitement for him, because that’s a crazy play,” Woods said. “I was very excited for him. Super happy, because there’s not many times where you get to go out and run like that, the whole football field. So it was really cool to see one of my guys go do that.”</p><!--[embed id=12518]--><p>“That was a great play,” said WSU quarterback Owen Eshelman, who totaled four touchdowns, three rushing and one passing. “Obviously, being backed up is not an ideal situation ever, and you just kinda want to get off your own doorstep there. To see him gash that is a relief of like, hey, we’ll take the seven points. That’s awesome, and proud of him.”</p>",
+        "summary": "<p>Washington State stayed close for a quarter Tuesday before 16th-ranked Washington got hot and stayed hot shootingTuesday.</p><p>The visiting Huskies made 57.7% from 3-point range and ran away from the Cougars 82-54.</p><p>The Cougars trailed 18-10 after the first quarter, but it was all UW over the final three quarters. The Huskies (4-0) outscored WSU (2-3) 52-26 in the middle periods.</p><p>The Huskies led 44-26 at halftime.</p><p>UW made 15 of 28 behind the 3-point arc. Southern Cal transfer Avery Howell led with 22 points, including 5 of 6 3-pointers, and Sayvia Sellers added 20 and seven assists.</p><p>Eleonora Villa led WSU with 17 points, 14 coming in the first half. No other player reached double figures.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
         "source": "The Spokesman-Review",
-        "id": "42126a078d29b570",
-        "sport": "football",
+        "id": "a674fc8cf6292ff7",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -10751,20 +10740,6 @@
         "medium": "audio"
       },
       {
-        "title": "WSU Cougars set for road test at Utah State on short week",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-cougars-set-for-road-test-at-utah-state-on-short-week/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-10-07T00:36:48+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10062026_tzr_tzr_172904.jpg?d=1200x630\"><br/>In a rematch of last winter’s Idaho Potato Bowl, WSU will try to take down a Utah State team that has just one win, also checking in with one of the country’s worst offenses.",
-        "author": "Greg Woods",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "1af59dc184fce7cd",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Washington State Heads to Utah State for Friday Night Matchup",
         "link": "https://wsucougars.com/news/2026/10/06/washington-state-heads-to-utah-state-for-friday-night-matchup",
         "link_kind": "item",
@@ -10909,20 +10884,6 @@
         "extent": "1h 57m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Washington State Falls Short Against Fresno State",
-        "link": "https://wsucougars.com/news/2026/10/03/washington-state-falls-short-against-fresno-state",
-        "link_kind": "item",
-        "date": "2026-10-04T05:28:06+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "1561dee581815786",
-        "sport": "football",
-        "medium": "text"
       }
     ]
   }
