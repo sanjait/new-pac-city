@@ -29961,6 +29961,246 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-11-17-1440"
+    },
+    "194c866b0efdf00b": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about",
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A player-grades column on Fresno State's men's and women's basketball doubleheader sweep.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-18-0241"
+    },
+    "1e01a95aa6f9c883": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Oregon State men's basketball's win over East Texas A&M that extended its win streak to 5-0.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cuauhtemoc Newburg"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-18-0241"
+    },
+    "42126a078d29b570": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on WSU running back Kirby Vorhees's record-breaking 98-yard touchdown run against Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-18-0241"
+    },
+    "6846d47e96d4dee7": {
+      "subjects": {
+        "utah-state/mens-basketball": "about",
+        "conference": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A Press Break column previewing Utah State basketball's Feast Week games against SMU, USC, and New Mexico, set against an argument about the Pac-12's rising basketball strength.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The column also characterizes several other conference programs (Gonzaga, Boise State, San Diego State) via KenPom rankings and brief asides; none gets sustained individual treatment, so I resolved those toward mentions rather than involves, but it was close.",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "8 min read",
+      "lock": "free",
+      "run": "run_2026-11-18-0241"
+    },
+    "73d2c3ad7d5dc8c1": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Oregon Ducks",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Concerns Oregon Ducks coach Dan Lanning watching his son's youth game; Oregon State figures only as the stadium and a 2022 historical aside.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Ryan Clarke"
+      ],
+      "run": "run_2026-11-18-0241"
+    },
+    "897cde4a54332e16": {
+      "subjects": {
+        "texas-state/football": "about",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves",
+        "fresno-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers Texas State football clinching bowl eligibility by beating Fresno State and lays out the Pac-12 title-race tiebreaker scenarios involving San Diego State and Boise State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-18-0241"
+    },
+    "9a21a3c8a16051ff": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about",
+        "utah-state/womens-volleyball": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Fresno State volleyball's match against Utah State to close conference play.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ashley Mills"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-18-0241"
+    },
+    "a303c5a02ba3ec20": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State women's basketball hosting the Apple Cup game against Washington.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Talyn Bell"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-18-0241"
+    },
+    "aa632d3080a5c7b7": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A feature on Gonzaga women's basketball player Taylor Smith's growth in her second season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-18-0241"
+    },
+    "b03e067bdbaab12f": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "club ultimate frisbee",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Covers Boise State's club ultimate frisbee team, a club sport that is out of scope regardless of school.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Landon Myers"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-18-0241"
+    },
+    "b7ab3778416f9c37": {
+      "subjects": {
+        "boise-state/womens-soccer": "about",
+        "utah-state/womens-soccer": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State women's soccer losing the Pac-12 Championship final to Utah State in a penalty shootout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-18-0241"
+    },
+    "d3b6ce22a0891662": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State football landing a junior college offensive line commitment.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-18-0241"
+    },
+    "e22e58d2bcb14dd7": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A Mountain West news roundup entirely about UTEP, Wyoming, and Nevada; Boise State appears only in a 2016 historical aside, not as a current subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-18-0241"
+    },
+    "fbfe4d240c2cfb7d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State football landing a tight end commitment after losing one to TCU.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-18-0241"
+    },
+    "fddc0ae5778affe5": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews San Diego State football's road matchup against Boise State, with substantial treatment of Boise State's offense.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Iain Henderson"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-18-0241"
     }
   },
   "runs": {
@@ -34680,6 +34920,48 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 8.689811100019142,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-18-0241": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-18T02:39:25.639735+00:00",
+      "items": 15,
+      "verdict_counts": {
+        "publish": 12,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "The Oregonian": 1,
+        "The Arbiter": 1,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "73d2c3ad7d5dc8c1",
+          "source": "The Oregonian",
+          "phrase": "Oregon Ducks",
+          "kind": "not-ours"
+        },
+        {
+          "id": "b03e067bdbaab12f",
+          "source": "The Arbiter",
+          "phrase": "club ultimate frisbee",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 37.3091287999996,
       "tokens": null,
       "tokens_source": null
     }
