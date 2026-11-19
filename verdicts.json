@@ -30695,6 +30695,183 @@
       "extent": "3 min read",
       "lock": "paywall",
       "run": "run_2026-11-19-0241"
+    },
+    "0255528d287e7cef": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Fresno State kicker Manaki Watanabe's Lou Groza Award semifinalist selection and season stats.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-19-1440"
+    },
+    "04ff37b5287e65a1": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Analyzes WSU's record rushing output against Colorado State, with substantive detail on CSU's defense as well.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-19-1440"
+    },
+    "70d8892944279260": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves",
+        "washington-state/football": "involves",
+        "utah-state/football": "involves",
+        "colorado-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A transfer-portal roundup gives individual stat entries to players at seven of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-19-1440"
+    },
+    "828ce71a6aa41737": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Texas State's second-half rout of Incarnate Word with box-score detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kaden Cuyler"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-19-1440"
+    },
+    "8f836a3eb6a541ee": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "Boise State and Oregon State are named only as illustrative, hypothetical examples in a general column about CFP scheduling policy for Group of 6 teams.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Boise State is named several times, including one factual result, so the line between a passing example and substantive treatment is genuinely close.",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-19-1440"
+    },
+    "973b19d1e4d1131f": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A full preview of SDSU's game at Boise State with sustained statistical treatment of both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-19-1440"
+    },
+    "a4cced33962fa145": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps WSU men's basketball's win over Hawaii, with quotes from the coach and box-score detail.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-19-1440"
+    },
+    "ca74e3c0c1b099cb": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A fan's first-person account of Boise State hosting College GameDay, naming Boise players, coach, and the campus event throughout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-19-1440"
+    },
+    "e12620bcf3c009fa": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The three betting picks are Nevada-Northern Illinois, Northern Illinois-NDSU, and Air Force-UTEP, none of which involves a covered school.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-19-1440"
+    },
+    "e7b0f99e9537ebd4": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Gonzaga's win over Montana and coach Lisa Fortier tying the program's all-time wins record.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-19-1440"
+    },
+    "ef20a5679a521743": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "boise-state/football": "involves",
+        "texas-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A bowl-projection column headlined on the Aztecs' return to bowl contention also gives repeated explicit slotting to Boise State, Texas State, Oregon State, and Fresno State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-19-1440"
     }
   },
   "runs": {
@@ -35533,6 +35710,29 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 36.21416630002204,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-19-1440": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-19T14:39:23.726324+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 9,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 22.844294099952094,
       "tokens": null,
       "tokens_source": null
     }
