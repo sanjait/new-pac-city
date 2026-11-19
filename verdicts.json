@@ -30424,6 +30424,277 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-11-18-1441"
+    },
+    "22fe4c22ba9cedeb": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Oregon State women's basketball's win over UC Riverside, including Kennedie Shuler's stat line and coach Rueck's reaction.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-19-0241"
+    },
+    "23197e0b5388bdab": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The roundup leads with and details Boise State's seven-spot jump in the CFP rankings.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Colorado State and San Diego State also appear but only as one-line teasers for other stories, so I left them out of subjects.",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-19-0241"
+    },
+    "2cf73453c25aa2c3": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews San Diego State men's basketball's game against Texas Southern, with coach and player quotes about the team's hot start.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jason Testa"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-19-0241"
+    },
+    "4a871a6d1eba4f68": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Fresno State football's two remaining games, against San Diego State and Colorado State, and what each needs to finish with a winning record.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "San Diego State and Colorado State are named opponents in a forward-looking season piece rather than a dedicated single-game preview, so marking them involves was a closer call than usual.",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-19-0241"
+    },
+    "69bc229f7588adc4": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A post-game 'rewind' breaking down Gonzaga's rebounding, point-guard rotation, and offensive identity in the win over Montana State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-19-0241"
+    },
+    "7333ca8f09e252cf": {
+      "subjects": {
+        "washington-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Breaks down Washington State's missed-tackles-forced numbers in its blowout win over Colorado State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-19-0241"
+    },
+    "825bc6f74d322435": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "boise-state/womens-volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A detailed set-by-set recap of Washington State's five-set volleyball win over Boise State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-19-0241"
+    },
+    "83441d206f353869": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A CBS analyst compares Oregon State's offense and Utah State's quarterback play and talent ahead of their matchup.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-19-0241"
+    },
+    "922b02bbb3cf0e20": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The whole piece explains Boise State's CFP ranking jump to #17, driven by its win over Oregon State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-19-0241"
+    },
+    "9293afdf9e71308b": {
+      "subjects": {
+        "oregon-state/mens-soccer": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Portland",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Oregon State men's soccer earned a No. 6 seed and will host a first-round NCAA Tournament game.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "Scott Sepich"
+      ],
+      "run": "run_2026-11-19-0241"
+    },
+    "974ac2c52cf2f8de": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers Oregon State men's basketball's rivalry game against Oregon returning to Portland, naming new coach Justin Joyner and OSU's undefeated start.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The headline and summary don't make clear whether the game already happened or is upcoming, so I couldn't confidently call it a preview or a recap.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-19-0241"
+    },
+    "ab33bf24f389e627": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A full profile of Fresno State wide receiver Josiah Freeman's injury, comeback, and leadership on the football team.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "10 min read",
+      "run": "run_2026-11-19-0241"
+    },
+    "ab5049a1d7bc2dd7": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A weekly roundup of former Washington State football players' performances in the NFL this week.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ibrahim Daniel"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-19-0241"
+    },
+    "aee9810bc6ac4fc8": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece is a Press Break retrospective on Illinois' Andrej Stojakovic at Duke, with no mention of any of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "7 min read",
+      "lock": "free",
+      "run": "run_2026-11-19-0241"
+    },
+    "c1fde97136efc26d": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Oregon State women's basketball guard Ashley Uusitalo's season-ending knee injury.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-19-0241"
+    },
+    "e4bb28f0cb653091": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "boise-state/womens-volleyball": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Washington State's must-win volleyball match against Boise State, with stats and quotes on both teams.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-19-0241"
+    },
+    "f3bd5650afa42480": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Analyzes Gonzaga's turnover problems in its win over Montana State, quoting players and the coach.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-19-0241"
     }
   },
   "runs": {
@@ -35222,6 +35493,46 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 28.93848040001467,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-19-0241": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-19T02:39:31.137405+00:00",
+      "items": 17,
+      "verdict_counts": {
+        "publish": 16,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 5
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "9293afdf9e71308b",
+          "source": "The Oregonian",
+          "phrase": "Portland",
+          "kind": "not-ours"
+        },
+        {
+          "id": "974ac2c52cf2f8de",
+          "source": "The Oregonian",
+          "phrase": "Oregon",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 36.21416630002204,
       "tokens": null,
       "tokens_source": null
     }
