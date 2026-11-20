@@ -30872,6 +30872,175 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-11-19-1440"
+    },
+    "1d58c8c309e99e7a": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column argues Fresno State football must capitalize on Colorado State's statistically poor defense in Saturday's matchup, with both teams' stats given at length.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-20-0241"
+    },
+    "34c5e0b58fec136e": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The game recap is entirely about Nevada men's basketball beating Idaho, neither of which is one of the nine schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-20-0241"
+    },
+    "520f2850c96aeced": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The summary establishes an injury report on Oregon State football players, including the starting QB, ahead of Saturday's game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-20-0241"
+    },
+    "541c634f3edc3387": {
+      "subjects": {
+        "oregon-state": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a live basketball game involving Oregon State at Moda Center, but do not say whether it is the men's or women's team.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-20-0241"
+    },
+    "70486d1a4c808078": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about",
+        "boise-state/womens-volleyball": "involves",
+        "utah-state/womens-volleyball": "involves",
+        "fresno-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The piece recaps WSU volleyball's five-set win over Boise State and explains how Utah State's sweep of Fresno State eliminated WSU from the Pac-12 Tournament.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-20-0241"
+    },
+    "7177c94d3bde67b9": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "This is a Mountain West news roundup about Nevada, Wyoming, and New Mexico, with Boise State named only in passing atop a national power-ranking list.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-20-0241"
+    },
+    "a5cfd7089c3d26b4": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature is a history of Fresno State men's basketball's former home arena, Selland, tied to the team's return there this week.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-20-0241"
+    },
+    "b033a97330b399ba": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature analyzes Gonzaga men's basketball's lack of roster continuity and cohesion through its first four games.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-20-0241"
+    },
+    "bb8e61514b8ad523": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about",
+        "utah-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The recap covers Fresno State volleyball's straight-set loss to Utah State set by set, with Utah State's play given real treatment.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ashley Mills"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-20-0241"
+    },
+    "e292595bd3ef391d": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is entirely about Boise State football's playoff positioning and path to the CFP.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-20-0241"
+    },
+    "f23e556a3dae527e": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a feature on an Oregon State (Beavers) quarterback's turnaround performance.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-20-0241"
     }
   },
   "runs": {
@@ -35733,6 +35902,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 22.844294099952094,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-20-0241": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-20T02:39:32.624502+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 9,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "34c5e0b58fec136e",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 27.013672100030817,
       "tokens": null,
       "tokens_source": null
     }
