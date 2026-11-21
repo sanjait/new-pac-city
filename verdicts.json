@@ -31439,6 +31439,230 @@
       ],
       "extent": "5 min read",
       "run": "run_2026-11-21-0245"
+    },
+    "287d0775f817f991": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Oregon Ducks",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Boise State's BCS-hopes collapse gets real treatment as one of several teams in this 2011 retrospective.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Boise State gets only two sentences within a very long piece mostly about other programs, so involves vs. mentions is a close call.",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "16 min read",
+      "lock": "free",
+      "run": "run_2026-11-21-1441"
+    },
+    "32e01b58e0b096d2": {
+      "subjects": {
+        "utah-state/womens-soccer": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Utah State women's soccer winning its first-ever NCAA Tournament game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Rory McNeill"
+      ],
+      "extent": "28 min read",
+      "run": "run_2026-11-21-1441"
+    },
+    "411cd16749da246c": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "Every matchup listed (UTEP-Air Force, New Mexico-Wyoming, NIU-North Dakota State, UNLV-San Jose State, Hawaii-Nevada) is Mountain West and none of the nine covered schools appear.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-21-1441"
+    },
+    "4483f5b6db1ba9b1": {
+      "subjects": {
+        "texas-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State women's basketball opening 5-0 with a win over Lamar.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Luke Landa"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-21-1441"
+    },
+    "48d8556b27fd87b0": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary name Oregon State hosting Utah State in football, which is enough without the body.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-21-1441"
+    },
+    "595f96b89032db40": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an Oregon State football injury update ahead of facing Utah State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-21-1441"
+    },
+    "66dc4a914d7a0e68": {
+      "subjects": {
+        "utah-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The whole piece is a feature profile of Utah State guard Mason Falslev's season.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-21-1441"
+    },
+    "81827d6fd5e6a330": {
+      "subjects": {
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "colorado-state/football": "about",
+        "fresno-state/football": "about",
+        "boise-state/football": "about",
+        "san-diego-state/football": "about",
+        "oregon-state/football": "about",
+        "utah-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Full previews of four games covering eight of the nine schools' football teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-11-21-1441"
+    },
+    "8ea85b8e59ba6fb8": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The piece previews Hawaii vs. Nevada, both Mountain West teams outside the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-21-1441"
+    },
+    "9cc2e1e2503df05f": {
+      "subjects": {},
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "All five previewed games (Air Force-UTEP, New Mexico-Wyoming, NDSU-NIU, UNLV-San Jose State, Nevada-Hawaii) are Mountain West matchups with none of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-11-21-1441"
+    },
+    "a1c8f56875a71f80": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "texas-state/football": "involves",
+        "washington-state/football": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "New Mexico/Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The weekend roundup gives its own line each to Boise State's running back, Texas State needing help from Boise State, and whether the Cougs can play spoiler.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "As a multi-topic links roundup, each team's one-line treatment could be read as incidental rather than substantive.",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-21-1441"
+    },
+    "ef1401cf608b489d": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Boise State fan-blog preview of the Broncos hosting San Diego State for Senior Night.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "HunterFKWG"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-21-1441"
+    },
+    "fb6cbcf5f190c215": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Each team's own path to the championship game is laid out as the subject of its own section.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-21-1441"
     }
   },
   "runs": {
@@ -36372,6 +36596,58 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 51.421829400002025,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-21-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-21T14:39:21.707586+00:00",
+      "items": 13,
+      "verdict_counts": {
+        "publish": 10,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "287d0775f817f991",
+          "source": "Press Break",
+          "phrase": "Oregon Ducks",
+          "kind": "not-ours"
+        },
+        {
+          "id": "a1c8f56875a71f80",
+          "source": "Mountain West Connection",
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        },
+        {
+          "id": "a1c8f56875a71f80",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico/Wyoming",
+          "kind": "not-ours"
+        },
+        {
+          "id": "a1c8f56875a71f80",
+          "source": "Mountain West Connection",
+          "phrase": "UNLV",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 28.24202999996487,
       "tokens": null,
       "tokens_source": null
     }
