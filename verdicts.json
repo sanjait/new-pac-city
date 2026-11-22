@@ -31663,6 +31663,177 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-11-21-1441"
+    },
+    "0d4ef62dac431a93": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full play-by-play account of Fresno State's football win over Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-22-0240"
+    },
+    "118521e2e2e7a7b8": {
+      "subjects": {
+        "texas-state/football": "about",
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A fan poll on Texas State as the heavy favorite to join Boise State in the Pac-12 Championship Game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-22-0240"
+    },
+    "321cdfe9b478f2a6": {
+      "subjects": {
+        "utah-state": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Title reports Utah State ('Aggies') defeating UVU in an NCAA tournament first round; the specific sport is never stated.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The text never names the sport, so I keyed the department rather than guessing which program plays in an NCAA tournament this week.",
+      "unrecognized": [],
+      "byline": [
+        "Kalei Dreiling"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-22-0240"
+    },
+    "464e9b911cc6e543": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary identify an Oregon State vs. Utah State football game at Reser Stadium.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-22-0240"
+    },
+    "479da6925b9e6b1b": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps San Diego State men's basketball's dominant win over Texas Southern.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Brielle Miller"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-22-0240"
+    },
+    "5f2df55191ec2d41": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Gonzaga men's basketball's path through the Players Era tournament field.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-22-0240"
+    },
+    "82caa1ce5b2f08ba": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Fresno State men's basketball's win over Alabama State at Selland Arena.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-22-0240"
+    },
+    "a7c2d57a81899848": {
+      "subjects": {
+        "fresno-state/womens-volleyball": "about",
+        "texas-state/womens-volleyball": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Fresno State women's volleyball's five-set senior-night win over Texas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ashley Mills"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-22-0240"
+    },
+    "e6dd3fcef16ff6ec": {
+      "subjects": {
+        "san-diego-state/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature on San Diego State men's basketball's 5-0 start under coach Brian Dutcher.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Samuel Cozart"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-22-0240"
+    },
+    "f0a18d2efcc6dc37": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary report Oregon State women's basketball's win over Fairfield, led by Shivers' 19 points.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-22-0240"
+    },
+    "fff6b697b0f15b53": {
+      "subjects": {
+        "washington-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full account of Washington State's football loss at Texas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-22-0240"
     }
   },
   "runs": {
@@ -36648,6 +36819,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 28.24202999996487,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-22-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-22T02:39:18.119177+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 11
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 24.419862600043416,
       "tokens": null,
       "tokens_source": null
     }
