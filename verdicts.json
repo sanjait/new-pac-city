@@ -31834,6 +31834,301 @@
       "extent": "8 min read",
       "lock": "paywall",
       "run": "run_2026-11-22-0240"
+    },
+    "0755223ee669f909": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary identify Oregon State's football win over Utah State that clinched a bowl berth.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-22-1441"
+    },
+    "29dfe9164d58cba5": {
+      "subjects": {
+        "washington-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Analyzes the penalties and special-teams breakdowns behind WSU's loss to Texas State, built around the coach's own explanation.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-22-1441"
+    },
+    "3b9501060cd3f686": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Title identifies the coach's postgame remarks after Oregon State's win over Utah State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-22-1441"
+    },
+    "3c15ffb5df462a79": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of San Diego State's 22-20 upset of Boise State on Senior Night.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sports Team"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-22-1441"
+    },
+    "44656bb15b171948": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "colorado-state/football": "involves",
+        "oregon-state/football": "involves",
+        "boise-state/football": "involves",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Recaps Fresno State's win over Colorado State and reports the Pac-12's flex-week and championship-game matchups.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-22-1441"
+    },
+    "4b8e56e468a176a2": {
+      "subjects": {
+        "texas-state/football": "about",
+        "washington-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Texas State's win over Washington State and its Pac-12 championship implications.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jackson Grettler"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-22-1441"
+    },
+    "571690cb3d36a5ec": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Boise State's loss to San Diego State with player stats and CFP implications.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "DamienFKWG"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-22-1441"
+    },
+    "61783c0b0d57a01a": {
+      "subjects": {
+        "texas-state/football": "about",
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A 'difference makers' piece giving substantive treatment to both Texas State QB Brad Jackson and WSU LB Isaiah Hung from the same game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Colton Clark"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-22-1441"
+    },
+    "6d09101670df77e3": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports the Pac-12's flex-week schedule change sending Oregon State to face Fresno State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-22-1441"
+    },
+    "7c35706afda563fd": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Oregon State's comeback win over Utah State that clinched bowl eligibility.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea | The Oregonian/OregonLive"
+      ],
+      "extent": "2 min read",
+      "lock": "free",
+      "run": "run_2026-11-22-1441"
+    },
+    "80882bebd4c072b8": {
+      "subjects": {
+        "washington-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Feature on WSU linebacker Isaiah Hung's performance, including his touchdown, in the loss to Texas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-22-1441"
+    },
+    "8628e3ada52550fb": {
+      "subjects": {
+        "washington-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A bylined opinion column arguing WSU is far from competitive in the new Pac-12 after its loss to Texas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jacob Thorpe"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-22-1441"
+    },
+    "b57d44289bbf9f9b": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers Boise State players' and the head coach's remarks at the postgame press conference following the loss to San Diego State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-22-1441"
+    },
+    "b5dd9b874527a241": {
+      "subjects": {
+        "washington-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of WSU's blowout loss to Texas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-22-1441"
+    },
+    "c0968ef98ab9b95e": {
+      "subjects": {
+        "washington-state/football": "involves",
+        "texas-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves",
+        "utah-state/football": "involves",
+        "oregon-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Lists kickoff times, TV coverage and odds for the week's Pac-12 football games across most of the conference's football schools.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-22-1441"
+    },
+    "e0dcc9631f2f207e": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A pregame gamethread for Boise State hosting San Diego State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "MichaelFKWG"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-22-1441"
+    },
+    "e49132872a20cf8c": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Headline and summary describe Jake Reichle's three touchdowns in Oregon State's win over Utah State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-22-1441"
+    },
+    "ee7cbfdb5c300a41": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of WSU men's basketball narrowly losing to Duke.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-22-1441"
     }
   },
   "runs": {
@@ -36843,6 +37138,30 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 24.419862600043416,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-22-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-22T14:39:41.536295+00:00",
+      "items": 18,
+      "verdict_counts": {
+        "publish": 18
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 4
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 39.23540809995029,
       "tokens": null,
       "tokens_source": null
     }
