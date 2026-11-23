@@ -32129,6 +32129,135 @@
       "extent": "3 min read",
       "lock": "paywall",
       "run": "run_2026-11-22-1441"
+    },
+    "0728aaa26dbb4a62": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Oregon State's 31-24 Senior Night win over Utah State, with coach and player quotes.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Nicholas Spink"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-23-0240"
+    },
+    "24aaa7cacfb45802": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A campus dining feature about an international-cuisine showcase, with no connection to Oregon State athletics.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "John Pranger"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-23-0240"
+    },
+    "3adaf710ee649386": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "A player-by-player stock-market column judging Fresno State football after its win over Colorado State, with Colorado State's performance analyzed throughout.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "8 min read",
+      "run": "run_2026-11-23-0240"
+    },
+    "4c873bfe7a60ac20": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Texas State's 95-69 win over McNeese that ties the program's best start in 74 years.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Rhianna Aleman"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-23-0240"
+    },
+    "5741f12adc28af6d": {
+      "subjects": {
+        "oregon-state": "about",
+        "fresno-state": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary identify Oregon State as a betting underdog in an upcoming rematch with Fresno State, both clearly in an athletics context.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Neither the headline nor the summary names the sport, so only department-level subjects could be assigned even though this is plainly a football storyline.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-23-0240"
+    },
+    "5d842d45a62b5e79": {
+      "subjects": {
+        "texas-state/football": "about",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves",
+        "utah-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "News that Texas State missed the Pac-12 title game after San Diego State's upset of Boise State, plus the newly set flex-week matchup against Utah State.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-23-0240"
+    },
+    "5e84c75c30488f55": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The story covers Nevada's win over Hawaii, post-game; neither school is one of the nine.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-23-0240"
+    },
+    "fe5f691541733def": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews WSU's Nov. 28 flex-week home game against San Diego State and explains how the new flex-week format ties into the SDSU-Boise State championship matchup.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-23-0240"
     }
   },
   "runs": {
@@ -37162,6 +37291,41 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 39.23540809995029,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-23-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-23T02:39:29.803519+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 6,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "The Daily Barometer": 1,
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "5e84c75c30488f55",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada Wolf Pack",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 20.100107799982652,
       "tokens": null,
       "tokens_source": null
     }
