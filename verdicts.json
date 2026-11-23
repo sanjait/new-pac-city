@@ -32258,6 +32258,133 @@
       ],
       "extent": "2 min read",
       "run": "run_2026-11-23-0240"
+    },
+    "35069beb2630f691": {
+      "subjects": {},
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "The whole recap covers Mountain West games among Air Force, UTEP, New Mexico, Wyoming, North Dakota State, UNLV, Nevada and Hawaii, none a covered Pac-12 program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "14 min read",
+      "run": "run_2026-11-23-1441"
+    },
+    "36d24dea08b3b2e3": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The feature is entirely about San Jose State's loss to UNLV, a Mountain West matchup with no covered Pac-12 program as subject.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-23-1441"
+    },
+    "595cec130f7d9f0d": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece is about Boise State's ranking slide and CFP standing after its loss, with other mentioned teams there only as poll context.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-23-1441"
+    },
+    "7737ac022eb86764": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "washington-state/football": "involves",
+        "fresno-state/football": "about",
+        "colorado-state/football": "involves",
+        "oregon-state/football": "about",
+        "utah-state/football": "involves",
+        "conference": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A multi-game Saturday recap with dedicated results for most of the nine schools plus a Pac-12 standings section.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "9 min read",
+      "run": "run_2026-11-23-1441"
+    },
+    "79be0ebf9d99c766": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a former Fresno State player previewing the Bulldogs' rematch with Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-11-23-1441"
+    },
+    "8ae47a839e48f72e": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary establish a retrospective segment on Fresno State's Arizona Bowl win, Bulldog football history.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Scott Bemis"
+      ],
+      "run": "run_2026-11-23-1441"
+    },
+    "99865c7b29616fa7": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A first-look matchup preview for WSU's home finale against San Diego State, with a scouting section on both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-23-1441"
+    },
+    "e28701c9cb65ae3c": {
+      "subjects": {
+        "washington-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A rewind analyzing WSU's pass rush, run game and big-play defense in its loss to Texas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "7 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-23-1441"
     }
   },
   "runs": {
@@ -37326,6 +37453,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 20.100107799982652,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-23-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-23T14:39:31.645917+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "drop": 2,
+        "publish": 6
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 15.23056669998914,
       "tokens": null,
       "tokens_source": null
     }
