@@ -32385,6 +32385,432 @@
       "extent": "7 min read",
       "lock": "paywall",
       "run": "run_2026-11-23-1441"
+    },
+    "01982ad15c64a77f": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Gonzaga women's basketball's loss to California at the North Shore Classic.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-24-0242"
+    },
+    "034568f362cd2d6d": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "LSU",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Michigan",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The entire piece is an opinion column comparing LSU's Lane Kiffin and Michigan's Kyle Whittingham, with no covered program mentioned.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "6 min read",
+      "lock": "free",
+      "run": "run_2026-11-24-0242"
+    },
+    "09339732b50862cc": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The headline and summary report Oregon State basketball's buzzer-beating win over Tulsa.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "0a8fc528cdb0c155": {
+      "subjects": {
+        "boise-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A full recap of Boise State women's basketball's comeback win over Utah Tech.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Emilia Rose Nowinski"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "0bf83a31fa9e2040": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A campus feature on wildfire-prevention research at Utah State with no athletics content.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kylie Jones"
+      ],
+      "extent": "77 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "0ff0635150f397a5": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Recaps Fresno State's win over Colorado State and previews the coming flex game against Oregon State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "15fbe087d3d244d0": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Gonzaga basketball podcast breakdown of the Players Era 16 field ahead of the Zags' games this week.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-24-0242"
+    },
+    "3f0407a0d0282976": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "A Spokesman-Review preview of Gonzaga's game against Kansas State, framed around how the Zags plan to defend Rechsteiner.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-24-0242"
+    },
+    "3f7a77451d86270c": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Oregon State's rematch at Fresno State, naming specific threats on both rosters.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "4f7eb2b1121f3a98": {
+      "subjects": {
+        "oregon-state/womens-volleyball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Oregon State volleyball's Pac-12 Player and Setter of the Year awards and other all-conference honors.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Aiden Kiichle"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "55214e06e8e933c9": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Gonzaga basketball's path through the Players Era 16 tournament field.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-24-0242"
+    },
+    "598ea5a600346c2b": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Reports an Oregon State football injury affecting availability for the Fresno State game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "5abe924465f9b7be": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Reports Oregon State football player-availability news ahead of the Fresno State game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "5fb94feaed0a1e57": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "boise-state/football": "about",
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Covers San Diego State's win over Boise State and Oregon State's bowl-clinching win in real detail, each a covered program's football team.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "652fd2223db5f756": {
+      "subjects": {
+        "san-diego-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps San Diego State women's basketball's win over Winthrop.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Tyler Ross"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "6a6fb44f0d22d60d": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The headline alone establishes Oregon State football won a game on Senior Night.",
+      "evidence_basis": "title-only",
+      "unrecognized": [],
+      "byline": [
+        "Bryce Powell"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "6c2cac73e32e5662": {
+      "subjects": {
+        "washington-state/womens-volleyball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Washington State volleyball setter Audrey Hollis entering the transfer portal.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Conner Orr"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "73e4391c8a862972": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports on Washington State football players' eligibility status, led by WR Tony Freeman.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "b931e7c6649a78b1": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Oregon State football's comeback win over Utah State.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "The summary names Utah State only as the final score's opponent, so I didn't count them as involves without more detail.",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "cbc2dd96cb25c369": {
+      "subjects": {
+        "oregon-state/wrestling": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The headline alone establishes Oregon State wrestling defeated Northern Illinois.",
+      "evidence_basis": "title-only",
+      "unrecognized": [],
+      "byline": [
+        "Bryce Powell"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "d61361d74c4c8dcf": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports Gonzaga's AP poll ranking heading into the Players Era 16 tournament.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Utah State and Texas State each get only a one-sentence note on their own poll votes, so I treated that as incidental rather than involves.",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-24-0242"
+    },
+    "d8871d3559e52fd1": {
+      "subjects": {
+        "washington-state/football": "about",
+        "texas-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Washington State football's 42-14 loss to Texas State, with substantial statistical detail on Texas State's offense.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "KellerRay Hutsell Zandell"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "d98e56f2399be1c1": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Covers the recruiting status of a committed Gonzaga basketball prospect and another target's pending decision.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-24-0242"
+    },
+    "dd53359d3b67d3c4": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Reports Oregon State's starting QB will miss the Fresno State game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "ddc60611807010ed": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "An NVIDIA corporate-leadership story about an Oregon State alum; nothing in it concerns OSU athletics.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Shayna Boettner"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "df09bd6ed7687d6a": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The headline and summary report Oregon State women's basketball's loss to MTSU.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-24-0242"
+    },
+    "e122c2cb17035865": {
+      "subjects": {
+        "fresno-state/baseball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports seven new recruits signed to Fresno State's baseball program.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-24-0242"
+    },
+    "f4fef01008b1f88b": {
+      "subjects": {
+        "fresno-state/football": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "An interview recapping Fresno State football's 49-42 win over Colorado State.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "Angelique Martinez"
+      ],
+      "run": "run_2026-11-24-0242"
     }
   },
   "runs": {
@@ -37480,6 +37906,51 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 15.23056669998914,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-24-0242": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-24T02:40:17.839267+00:00",
+      "items": 28,
+      "verdict_counts": {
+        "publish": 25,
+        "drop": 3
+      },
+      "hidden_per_source": {
+        "Press Break": 1,
+        "The Utah Statesman": 1,
+        "The Daily Barometer": 1
+      },
+      "unreadable_per_source": {
+        "YourCentralValley": {
+          "403 — HTTP 403": 2
+        },
+        "The Oregonian": {
+          "403 — HTTP 403": 7
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "034568f362cd2d6d",
+          "source": "Press Break",
+          "phrase": "LSU",
+          "kind": "not-ours"
+        },
+        {
+          "id": "034568f362cd2d6d",
+          "source": "Press Break",
+          "phrase": "Michigan",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 60.415996499941684,
       "tokens": null,
       "tokens_source": null
     }
