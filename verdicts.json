@@ -32811,6 +32811,169 @@
         "Angelique Martinez"
       ],
       "run": "run_2026-11-24-0242"
+    },
+    "0aa06da215ab2e63": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The entire piece covers the Fresno State women's basketball team, previewing their upcoming road trip and recapping recent player performances.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-24-1442"
+    },
+    "0e15413fd2ec5a77": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "Every player and team named - New Mexico, Nevada, UNLV, North Dakota State, Air Force, San Jose State - is Mountain West, not one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Dominic Gutierrez"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-24-1442"
+    },
+    "27b186325a6187cc": {
+      "subjects": {
+        "boise-state/football": "involves",
+        "texas-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves",
+        "utah-state/football": "involves",
+        "washington-state/football": "involves",
+        "colorado-state/football": "involves",
+        "conference": "about"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The piece ranks and discusses eight of the nine schools' football programs by name, with the conference championship race as the organizing subject.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-24-1442"
+    },
+    "5e938d33eb593577": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The piece reports Fresno State's bowl eligibility and recaps the win, and names Oregon State as the confirmed finale opponent.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-24-1442"
+    },
+    "65f9360b7a4f123f": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The entire piece profiles players from only Boise State and San Diego State, built around their head-to-head game.",
+      "ambiguous": "Both schools' players get real paragraph treatment with neither singularly dominant, so about versus involves is close for each.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-24-1442"
+    },
+    "85c7e2ebf7c4ee88": {
+      "subjects": {
+        "fresno-state": "involves",
+        "washington-state": "involves"
+      },
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Fresno State and Washington State each appear as the opponent with a recorded score line in another team's power-ranking entry.",
+      "ambiguous": "Each appears only as the losing opponent in a single score-line within another team's entry, closer to mentions than involves, and the text never states men's or women's basketball so each is keyed at department level.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-24-1442"
+    },
+    "92bf8485026331f7": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "utah-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The headline and summary identify Oregon State's head coach discussing the Beavers' win over Utah State and the upcoming rematch with Fresno State.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-24-1442"
+    },
+    "a046e1a974981580": {
+      "subjects": {
+        "oregon-state/football": "involves",
+        "utah-state/football": "involves",
+        "texas-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The recruiting roundup reports specific commit and decommit counts for Oregon State, Utah State, and Texas State this week.",
+      "ambiguous": "Each covered school gets only a one-line commit/decommit count, so involves versus mentions is a close call.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-24-1442"
+    },
+    "b15a3cd1b9ad942f": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The survey question asks specifically whether Boise State should still be ranked after its loss, making the Broncos the subject.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Thele"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-24-1442"
+    },
+    "ed515bf180bd5bd7": {
+      "subjects": {},
+      "unrecognized": [],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The rankings and every team discussed - New Mexico, Air Force, Wyoming, UNLV, Nevada, San Jose State, Hawaii, UTEP, North Dakota State, Northern Illinois - belong to the Mountain West, none of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-24-1442"
     }
   },
   "runs": {
@@ -37951,6 +38114,33 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 60.415996499941684,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-24-1442": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-24T14:39:44.181126+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "publish": 8,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 18.22268239990808,
       "tokens": null,
       "tokens_source": null
     }
