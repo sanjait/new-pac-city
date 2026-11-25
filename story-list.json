@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-11-24T14:03:52.949079+00:00",
+  "generated_at": "2026-11-25T02:03:09.820984+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Pac-12 Tuesday: With A Boise State Loss, Pac-12 After Dark’s November Curse Lives On",
+        "link": "https://pressbreak.substack.com/p/pac-12-tuesday-with-a-boise-state",
+        "link_kind": "item",
+        "date": "2026-11-24T22:28:19+00:00",
+        "summary": "In the BCS, four-team and now 12-team Playoff eras, Pac-12 football has been plagued by November upsets.",
+        "author": "Kyle Kensing",
+        "duration": null,
+        "channel_url": "",
+        "source": "Press Break",
+        "id": "fc3bcc36c530be3e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Mountaintop View 11-24-26",
+        "link": "https://www.mwcconnection.com/mountain-west-news/96331/mountain-west-pac-12-football-basketball-boise-cfp",
+        "link_kind": "item",
+        "date": "2026-11-24T14:00:00+00:00",
+        "summary": "Mountain West title, even CFP still technically in play for Air Force Boise State’s loss to San Diego State has opened up a can of worms. Once viewed as the ironclad favorite, now everyone at the top of the conference standings in the Group of Six is staking their candidacy. Could Air Force be poised [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "07f1101853e1dbdd",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "MWCConnection Reacts Survey: Should Boise State still be ranked in the CFP rankings?",
         "link": "https://www.mwcconnection.com/college-football-playoffs/96325/college-football-playoff-rankings-boise-state-broncos",
@@ -195,20 +223,6 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "e0ae885c15ce15b6",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "The PAC-12 and Mountain West in the Rankings: Week 12",
-        "link": "https://www.mwcconnection.com/college-basketball-power-rankings/96180/the-pac-12-and-mountain-west-in-the-rankings-week-12",
-        "link_kind": "item",
-        "date": "2026-11-22T21:25:41+00:00",
-        "summary": "Last week, Boise State made a big move in the rankings coming in at #15 in both the Coaches and Associated Press Polls, while also making a big move in the College Football Playoff rankings moving up to #17. Could the Broncos maintain their ranking after a shocking loss? Did Air Force or New Mexico [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "595cec130f7d9f0d",
         "sport": "all",
         "medium": "text"
       },
@@ -466,6 +480,34 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "Potter Named Broyles Award Nominee",
+        "link": "https://broncosports.com/news/2026/11/24/football-nate-potter-named-broyles-award-nominee",
+        "link_kind": "item",
+        "date": "2026-11-24T18:00:00+00:00",
+        "summary": "<img alt=\"Nate Potter Action\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/DSC09679__1_.jpg\" /><br /><br />Potter's recognition marks the third straight season a Bronco coordinator has been nominated for the distinction.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "4c30492a53189533",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Madsen Named Finalist for Pop Warner National College Football Award",
+        "link": "https://broncosports.com/news/2026/11/24/madsen-named-finalist-for-pop-warner-national-college-football-award",
+        "link_kind": "item",
+        "date": "2026-11-24T14:00:00+00:00",
+        "summary": "<img alt=\"Maddux Madsen presnap vs. South Dakota\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/23/cropped_MC_FB_vs_SD_0229.jpg\" /><br /><br />Fifth year is one of seven finalists for award that recognizes excellence on and off the field",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "3448e6026db8f7d8",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Broncos bounce back in 28-point fourth quarter following first loss of the season",
         "link": "https://www.arbiteronline.com/2026/11/23/broncos-bounce-back-in-28-point-fourth-quarter-following-first-loss-of-the-season/",
@@ -757,34 +799,6 @@
         "channel_url": "",
         "source": "Boise State Athletics",
         "id": "2db6bbb524e9442c",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Super Bowl Champion George Holani to Raise Blue Chaos Flag",
-        "link": "https://broncosports.com/news/2026/11/18/football-super-bowl-champion-george-holani-to-raise-blue-chaos-flag",
-        "link_kind": "item",
-        "date": "2026-11-18T23:30:00+00:00",
-        "summary": "<img alt=\"George Holani vs. SDSU, 2022\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/HolaniGeorge_20220923_SDSU_014.jpg\" /><br /><br />Running back returns to Boise after winning Super Bowl LX with Seattle Seahawks",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "56b518f0819291b3",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "NFL Broncos: Week 11",
-        "link": "https://broncosports.com/news/2026/11/18/football-nfl-broncos-week-11",
-        "link_kind": "item",
-        "date": "2026-11-18T22:00:00+00:00",
-        "summary": "<img alt=\"NFL Broncos Week 11 webslider\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/FB26_Broncos_In_NFL_W11.jpg\" /><br /><br />Nine in action Sunday, one playing on Monday Night Football",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "9f531b5a1ee6f6fc",
         "sport": "football",
         "medium": "text"
       },
@@ -1274,6 +1288,34 @@
     ],
     "Colorado State": [
       {
+        "title": "Tracy Named Broyles Award Nominee",
+        "link": "https://csurams.com/news/2026/11/24/football-tracy-named-broyles-award-nominee",
+        "link_kind": "item",
+        "date": "2026-11-24T20:00:00+00:00",
+        "summary": "<img alt=\"Pryce Tracy\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/tracy_WEB.jpg\" /><br /><br />First-year offensive coordinator has guided Colorado State to one of the nation's most improved offenses.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "db4e3d0b9d6a3d77",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Game Week: vs. Boise State",
+        "link": "https://csurams.com/news/2026/11/24/football-game-week-vs-boise-state",
+        "link_kind": "item",
+        "date": "2026-11-24T19:00:00+00:00",
+        "summary": "<img alt=\"Game Week Boise State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/FB26_-_Game_Week_bsu.png\" /><br /><br />Rams finish season hosting No. 22 Broncos for Senior Day.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "371dc2bf02587f0c",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Rams Battle to the end against No. 8 Arizona",
         "link": "https://csurams.com/news/2026/11/24/mens-basketball-rams-battle-to-the-end-against-no-8-arizona",
         "link_kind": "item",
@@ -1512,34 +1554,6 @@
         "extent": "1h 28m",
         "sport": "football",
         "medium": "audio"
-      },
-      {
-        "title": "Watch Coach Mora's Weekly Press Conference",
-        "link": "https://csurams.com/news/2026/11/16/football-watch-coach-moras-weekly-press-conference",
-        "link_kind": "item",
-        "date": "2026-11-16T23:22:00+00:00",
-        "summary": "<img alt=\"Jim Mora Press Conference\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/1/FB26_-_Press_Conference_16x9.jpg\" /><br /><br />Head Coach Jim Mora visits with the local media ahead of week 12 at Fresno State.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "ba70cad9f93206da",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Rams Set Future Football Schedules",
-        "link": "https://csurams.com/news/2026/11/16/rams-set-future-football-schedules",
-        "link_kind": "item",
-        "date": "2026-11-16T21:58:00+00:00",
-        "summary": "<img alt=\"Canvas Stadium Drone\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/16/091926_SE_Low_Dark_01WEB.jpg\" /><br /><br />Colorado State hosts seven home games again for the next two seasons.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "ba63a015369781bb",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "Rams fall to Loyola in tense game",
@@ -1892,6 +1906,34 @@
     ],
     "Fresno State": [
       {
+        "title": "Fresno State tops FGCU in matinee matchup",
+        "link": "https://gobulldogs.com/news/2026/11/24/womens-basketball-fresno-state-tops-fgcu-in-matinee-matchup",
+        "link_kind": "item",
+        "date": "2026-11-24T21:52:00+00:00",
+        "summary": "<img alt=\"Ava Marr - FGCU\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/26-11-24-JC-WBB-vs-FGCU-2.JPG\" /><br /><br />FORT MYERS, Fla. – Fresno State women's basketball built an early double-digit lead and held off a second-half push from Florida Gulf Coast to earn a 77-67 victory Tuesday afternoon  at Alico Arena. The Bulldogs improved to 4-1 and won their third-straight after forcing 24 turnovers and winning the rebounding battle, 44-24.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Fresno State Athletics",
+        "id": "9fc050eaab97612c",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Two-headed monster: Donelson, Luke earn conference nominations",
+        "link": "https://fscollegian.com/2026/11/two-headed-monster-donelson-luke-earn-conference-nominations/",
+        "link_kind": "item",
+        "date": "2026-11-24T17:41:21+00:00",
+        "summary": "After putting on an offensive showcase at Valley Children’s Stadium on Saturday night, two Fresno State running backs received recognition from the Pac-12 on Monday, Nov. 23. Running backs Bryson Donelson and Rayshon “Speedy” Luke were nominated for Pac-12 Player of the Week honors on Monday, Nov. 23, following their performances in the Bulldogs’ 49-42...",
+        "author": "Paloma Schuller, Enterprise Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "20de6927db8b259b",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "McCarthy’s Mayhem continues on the road for Thanksgiving week",
         "link": "https://fscollegian.com/2026/11/mccarthys-mayhem-continues-on-the-road-for-thanksgiving-week/",
         "link_kind": "item",
@@ -2175,20 +2217,6 @@
         "extent": "57 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Column: No more excuses",
-        "link": "https://fscollegian.com/2026/11/column-no-more-excuses/",
-        "link_kind": "item",
-        "date": "2026-11-19T23:43:24+00:00",
-        "summary": "With just two games remaining in the regular season and with bowl eligibility on the line, the Fresno State football team has an opportunity to get its offense back on track against one of the worst defensive units in the nation.  The Bulldogs (5-5, 2-4 Pac-12) will host Colorado State (3-7, 1-5 Pac-12) on Saturday,...",
-        "author": "Paloma Schuller, Enterprise Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "1d58c8c309e99e7a",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "Bulldogs' late rally falls short at San Jose State",
@@ -2626,20 +2654,6 @@
         "medium": "text"
       },
       {
-        "title": "Bulldogs show fight in road battle against Buffaloes",
-        "link": "https://gobulldogs.com/news/2026/11/7/womens-basketball-bulldogs-show-fight-in-road-battle-against-buffaloes",
-        "link_kind": "item",
-        "date": "2026-11-08T00:51:00+00:00",
-        "summary": "<img alt=\"wbb team huddle at colorado \" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/7/IMG_0771.jpeg\" /><br /><br />BOULDER, Colo. – Mekhia Chase scored a team-high 20 points, matching her career high, as Fresno State fell to Colorado, 73-56, on Saturday afternoon at the CU Events Center.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Fresno State Athletics",
-        "id": "d4fb01a22c6630ba",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "'I actually get to enjoy this' - Carr headlines Hall Class",
         "link": "https://www.yourcentralvalley.com/sports/i-actually-get-to-enjoy-this-carr-headlines-hall-class/",
         "link_kind": "item",
@@ -2740,34 +2754,6 @@
         "medium": "audio"
       },
       {
-        "title": "Great Moment in Bulldog History: Fresno State's 41-40 win over Boise in 2013",
-        "link": "https://www.yourcentralvalley.com/bulldog-sports/great-moment-in-bulldog-history-fresno-states-41-40-win-over-boise-in-2013/",
-        "link_kind": "item",
-        "date": "2026-10-26T20:29:55+00:00",
-        "summary": "FRESNO, Calif. (KSEE/KGPE)- In this week's 'Great Moment in Bulldog History' Sports Central's Angelique Martinez looks back at the Bulldogs' win over Boise State in 2013. Quarterback Derek Carr threw for over 400 yards. Great Moment is sponsored by Precision Civil Engineering",
-        "author": "Angelique Martinez",
-        "duration": null,
-        "channel_url": "",
-        "source": "YourCentralValley",
-        "id": "18fd1b60e0963a57",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Ultimate Insider: Walberg 'It is what it is, we're competitors'",
-        "link": "https://www.yourcentralvalley.com/bulldog-sports/ultimate-insider-walberg-it-is-what-it-is-were-competitors/",
-        "link_kind": "item",
-        "date": "2026-10-26T20:28:44+00:00",
-        "summary": "FRESNO, Calif. (KSEE/KGPE)- Sports Central's Angelique Martinez chats with Fresno State head men's basketball coach Vance Walberg ahead of the Bulldogs' inaugural season in the Pac-12. Coach Walberg is honest about NIL struggles, the competitiveness of the Pac-12, and if he feels any added pressure heading into his third season at Fresno State.",
-        "author": "Angelique Martinez",
-        "duration": null,
-        "channel_url": "",
-        "source": "YourCentralValley",
-        "id": "4ae2e90d8dae3a9e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Fresno State Heads to San Diego",
         "link": "https://redwavereport.podbean.com/e/fresno-state-heads-to-san-diego/",
         "link_kind": "item",
@@ -2810,6 +2796,20 @@
         "source": "Gonzaga Athletics",
         "id": "5cdd1c48478207ca",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Top-15 prospect Jalen Davis commits to Gonzaga over UCLA, North Carolina, UW: 'I'm looking to win'",
+        "link": "http://www.spokesman.com/stories/2026/nov/24/top-15-prospect-bremerton-standout-jalen-davis-ann/",
+        "link_kind": "item",
+        "date": "2026-11-24T00:00:00+00:00",
+        "summary": "<p>Jalen Davis kept a live YouTube audience in suspense for a handful of moments Tuesday afternoon before the top-15 prospect and coveted combo guard unzipped a black Adidas pullover.</p><p>&#8220;I&#8217;ll be choosing the University of&#8230;&#8221; Davis started, inherently creating a few more tense moments for Gonzaga fans watching online through a CBS Sports stream.</p><p>&#8220;&#8230;Gonzaga,&#8221; Davis finished, revealing a navy Gonzaga basketball T-shirt before picking up a red &#8220;Zags&#8221; hat from behind the makeshift scorers table he sat at with family members and coaches.</p><p>&#8220;Go Zags baby, go Zags!&#8221; Davis yelled.</p><p>The top-ranked prospect in Washington and 13th-rated player in the recruiting class of 2027 according to 247Sports.com announced his commitment to Gonzaga on Tuesday afternoon, choosing Mark Few&#8217;s program over UCLA, North Carolina and Washington.</p><p>The Zags have had success rate recruiting the state of Washington over the last three decades and they&#8217;ve occasionally swung big on a national level, landing a few of the top 10-20 players in the country.</p><p>But Davis might be the first player to fit both categories.</p><p>The 6-foot-4, 175-pound combo guard becomes the top-rated player in Washington to choose Gonzaga and the fourth highest-rated recruit in school history. Only Chet Holmgren, Jalen Suggs and Hunter Sallis are listed ahead of the Bremerton High standout on 247Sports.com&#8217;s all-time database.</p><p>&#8220;For me choosing Gonzaga, it was a bunch of things, a lot of big factors,&#8221; Davis told CBS Sports. &#8220;For one it was the play style and fit. I just love how fast-paced they play. It&#8217;s more like a EuroLeague type team. Other factors is the culture. I&#8217;m pretty big on culture when it comes to programs and I think it&#8217;s also the connection, how we built the relationship with all the coaches. It kind of felt like back at home.&#8221;</p><p>Before trimming his list to four schools, Davis released a top 10 that included his four finalists along with Texas Tech, Iowa, USC, BYU, Ole Miss, TCU and Stanford.</p><p>According to 247Sports.com, Davis is the 13th-rated player in America, the third-rated combo guard in the &#8216;27 class and the top player in Washington. Another recruiting service, Rivals.com, rates him as the 24th-rated player in the class and the eighth-best player at his position.</p><p>Davis won Gatorade Player of the Year honors in Washington in 2025-26 after averaging 31.5 points, 9.6 rebounds, 5.8 steals and 5.2 assists for a Bremerton team that went 26-2 last season en route to its second straight state championship. A two-time Olympic League MVP, Davis made an overtime buzzer-beater to help the Knights hold off Columbia River in the semifinals and knocked down a pair of late free throws to help Bremerton clinch a 45-43 win over R.A. Long in the championship.</p><p>Multiple recruiting services list Davis as a combo guard, but according to 247Sports.com&#8217;s Eric Bossi, Gonzaga&#8217;s coaching staff demonstrated how they could use him on and off the ball during an official visit that coincided with a Nov. 7 home opener against New Mexico State.</p><p>Gonzaga will be losing at least five rotation players from this year&#8217;s team, including point guards Xaivian Lee, Javon Bennett and Nathan De Sousa, potentially creating opportunities for Davis to operate as a lead guard for Few&#8217;s program in 2027-28.</p><p>The timing of Davis&#8217; commitment is significant, too.</p><p>Last October, the Zags picked up a commitment from another top-rated class of 2027 guard, Dooney Johnson, but the Milwaukee native didn&#8217;t sign with GU during the early period and is keeping his options open while remaining &#8220;publicly committed&#8221; to Mark Few&#8217;s program, On3.com&#8217;s Joe Tipton reported Monday.</p><p>&#8220;Mark Few&#8217;s plans, he wants a guard like me that can really compete at a high level and compete for a national championship,&#8221; Davis said. &#8220;I think for me coming to the program, I can bring a lot of energy on and off the court, especially on the leadership role. Then want to make me and everybody else better on and off the court.&#8221;</p><p>Davis is coming off a standout summer on the AAU Adidas 3SSB Circuit, averaging 24.3 points, 5.6 rebounds, 4.5 assists and 2.8 steals per game for Slow Grind Elite.</p><p>&#8220;The message to Gonzaga is I&#8217;m looking to win,&#8221; Davis said, &#8220;so I&#8217;m going to stand on that.&#8221;</p><p>Davis has maintained a 3.7 grade-point-average at Bremerton and is involved in the running start program at Olympic College, according to 247Sports. He told CBS Sports he plans to partner with Gonzaga on a scholarship fund that will help current and future students with financial aid.</p><p>&#8220;It&#8217;s basically an idea, we&#8217;re doing a foundation – it&#8217;s an opportunity for current and future Zags for a scholarship,&#8221; he said. &#8220;It&#8217;s just a cool thing to do partnering with Gonzaga.&#8221;</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "9f5a691cbd3bd358",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -3393,20 +3393,6 @@
         "medium": "text"
       },
       {
-        "title": "Gonzaga's Davis Fogle to face stern defensive test from LSU, Saliou Niang | Key matchup",
-        "link": "http://www.spokesman.com/stories/2026/nov/13/gonzagas-davis-fogle-to-face-stern-defensive-test-/",
-        "link_kind": "item",
-        "date": "2026-11-13T00:00:00+00:00",
-        "summary": "<p>Davis Fogle eventually hopes to test his game at the highest level, with NBA aspirations that could materialize sooner rather than later for the Gonzaga wing.</p><p>Fogle could get some early experience on that front Saturday when he matches up against an LSU player who was not only coveted by NBA front offices but actually drafted by one of them in 2025.</p><p>In a sequence of events that would’ve been hard to fathom for hoops players even two years ago, Saliou Niang was selected No. 58 overall by the Cleveland Cavaliers and played three games for the Eastern Conference franchise at Las Vegas Summer League before bypassing NBA and G League opportunities to sign with Virtus Bologna of Italy’s Lega Basket Serie A.</p><p>A year later, Niang matriculated into college basketball, signing with coach Will Wade and the LSU team visiting Numerica Veterans Arena for a 12:30 p.m. (USA Network) matchup with No. 14 Gonzaga.</p><p>In all likelihood, it’ll be LSU’s best individual defender matched up with Gonzaga’s top scorer when the teams tip off early Saturday afternoon.</p><p>Of LSU’s starters, the 6-foot-8 Niang is the most logical choice to guard the 6-foot-7 Fogle, Gonzaga’s leading scorer through two games and the Pac-12 Offensive Player of the Week after he posted consecutive 22-point performances against Purdue and New Mexico State.</p><p>“It’s huge, he can guard everywhere, he can guard one through five,” Wade said of Niang after the team’s season-opening win over LSU New Orleans. “He’s just a monster defender and just a really, really good player. A really, really good all-around player, but just to have somebody with his versatility and his athleticism is really important.”</p><p>The 22-year-old Niang will be the best defensive player Fogle’s encountered this season, and possibly since he arrived at Gonzaga. Fogle, meanwhile, should be a serious test for Niang after the Tigers pocketed three comfortable wins against overmatched opponents from LSU New Orleans, Texas Southern and Louisiana Tech.</p><p>Fogle will have to be mindful handling the ball when face-guarded by Niang. The athletic junior is averaging 3.3 steals and registered six in the season opener against New Orleans. Niang has also been a key to LSU’s transition offense, attacking the glass for defensive rebounds before quickly pushing ahead to guards Donovan Dent and Skyy Clark. In addition to his 11.7 points per game, Niang is averaging 10.3 rebounds and 3.7 assists.</p><p>“He’s a great defensive rebounder,” Wade said. “He got nine defensive rebounds (against LSU New Orleans) and he pushed the ball out two or three dribbles. That gets your break going. Sal’s probably our second-best passer to Donny (Dent). Sal’s really, really solid there. Him being able to grab those defensive rebounds and push the ball out is certainly helpful for us on the offensive side.”</p><p>Niang’s defensive assignment becomes more interesting when the Zags insert newly-eligible wing Chauncey Wiggins into the lineup, likely sliding Fogle to the ‘2.’ That could give GU a matchup advantage at multiple positions, forcing the 6-2 Clark to defend the 6-7 Fogle and placing the 6-8 Niang on the 6-11 Wiggins.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "809875c564739977",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Turnover-prone Gonzaga women rolled by Grand Canyon 82-62",
         "link": "http://www.spokesman.com/stories/2026/nov/13/turnover-prone-gonzaga-women-rolled-by-grand-canyo/",
         "link_kind": "item",
@@ -3717,6 +3703,90 @@
     ],
     "Oregon State": [
       {
+        "title": "Beavers Take Down USF, Move to 8-0",
+        "link": "https://osubeavers.com/news/2026/11/24/mens-basketball-beavers-take-down-usf-move-to-8-0",
+        "link_kind": "item",
+        "date": "2026-11-24T21:37:00+00:00",
+        "summary": "<img alt=\"smiley\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/6M4A5409.JPG\" /><br /><br />PALM SPRINGS, Calif. – The Oregon State men's basketball team took down San Francisco 87-73 Tuesday morning at the Acrisure Series in Palm Springs, Calif.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "f74991b185bec715",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Football: Offense, Defense Meets The Media (Nov. 24, 2026)",
+        "link": "https://osubeavers.com/news/2026/11/24/oregon-state-football-offense-defense-meets-the-media-nov-24-2026",
+        "link_kind": "item",
+        "date": "2026-11-24T20:24:00+00:00",
+        "summary": "<img alt=\"Nov 24 2026 FB Cover\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/261124_COVER.png\" /><br /><br />CORVALLIS, Ore. - Oregon State heads back to Fresno for a Saturday night matchup when the Beavers take on the Bulldogs in the 2026 regular-season finale. Kick is at 7 p.m. and the game will air live on The CW,",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "e70040da86f66d09",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Mitch Dahlen Nominated For Broyles Award",
+        "link": "https://osubeavers.com/news/2026/11/24/football-mitch-dahlen-nominated-for-broyles-award",
+        "link_kind": "item",
+        "date": "2026-11-24T18:01:00+00:00",
+        "summary": "<img alt=\"Mitch Dahlen\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/09052026_FB_Houston_DahlenMitch_1471.jpg\" /><br /><br />CORVALLIS, Ore. – Oregon State offensive coordinator and quarterbacks coach Mitch Dahlen has been nominated for the 2026 Broyles Award, it was announced on Tuesday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "3e2326bdec727d04",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State freshman Jesse Legree is a finalist for college football's most prestigious receiver award, joining a short list of Beaver greats",
+        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-freshman-jesse-legree-named-biletnikoff-award-finalist.html",
+        "link_kind": "item",
+        "date": "2026-11-24T17:24:17+00:00",
+        "summary": "Legree joins Mike Hass (2005) and Brandin Cooks (2013), who each won the award.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "5da3e4dfa0e7742e",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Jesse Legree Selected As One Of Three Finalists For Biletnikoff Award",
+        "link": "https://osubeavers.com/news/2026/11/24/football-jesse-legree-selected-as-one-of-three-finalists-for-biletnikoff-award",
+        "link_kind": "item",
+        "date": "2026-11-24T17:15:00+00:00",
+        "summary": "<img alt=\"Jesse Legree\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/10172026_FB_WSU_LegreeJesse_07651.jpg\" /><br /><br />CORVALLIS, Ore. – Oregon State freshman wide receiver Jesse Legree has been selected as one of three finalists for the prestigious Biletnikoff Award, the Tallahassee Quarterback Club announced on Tuesday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "e635906e7f15dcc2",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Oregon State Takes on #12 Vanderbilt Wednesday",
+        "link": "https://osubeavers.com/news/2026/11/24/womens-basketball-oregon-state-takes-on-12-vanderbilt-wednesday",
+        "link_kind": "item",
+        "date": "2026-11-24T16:49:00+00:00",
+        "summary": "<img alt=\"Team Celly - MTSU Comeback \" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/AJ9A4771.JPG\" /><br /><br />Oregon State women's basketball will look to bounce back from Monday's defeat with an opportunity to score a ranked win against no. 12 Vanderbilt on Wednesday evening.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "13c29fe08952a126",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "What JaMarcus Shephard said about Oregon State’s win over Utah State, rematch with Fresno State",
         "link": "https://www.oregonlive.com/beavers/2026/11/what-jamarcus-shephard-said-about-oregon-states-win-over-utah-state-rematch-with-fresno-state.html",
         "link_kind": "item",
@@ -3749,7 +3819,7 @@
         "link": "https://dailybaro.orangemedianetwork.com/33972/daily-barometer-news/jensen-huang-returns-to-position-as-nvidia-ceo/",
         "link_kind": "item",
         "date": "2026-11-24T00:03:43+00:00",
-        "summary": "Today, the technology company, NVIDIA, announced that Jen-Hsun Huang, Oregon State University alum and former chief executive officer of NVIDIA, has now been reinstated as NVIDIA’s CEO. According to the NVIDIA Newsroom, Huang resigned from his position as NVIDIA’s president, CEO, and a board member on Nov. 12 after an investigation was opened on Nov....",
+        "summary": "Editor&#8217;s Note: This story has been updated to clarify who Jen-Hsun Huang had an affair with.  Today, the technology company, NVIDIA, announced that Jen-Hsun Huang, Oregon State University alum and former chief executive officer of NVIDIA, has now been reinstated as NVIDIA’s CEO. According to the NVIDIA Newsroom, Huang resigned from his position as NVIDIA’s...",
         "author": "Shayna Boettner, Reporter",
         "duration": null,
         "channel_url": "",
@@ -4502,34 +4572,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State lands commitment of junior college offensive lineman",
-        "link": "https://www.oregonlive.com/recruiting/2026/11/oregon-state-lands-commitment-of-junior-college-offensive-lineman.html",
-        "link_kind": "item",
-        "date": "2026-11-17T21:51:55+00:00",
-        "summary": "Otuonue chose OSU over offers from UTSA, USF, Liberty, Hawaii, Louisiana Tech and Sacramento State.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "d3b6ce22a0891662",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State lands tight end commit days after losing one to TCU",
-        "link": "https://www.oregonlive.com/recruiting/2026/11/oregon-state-adds-commitment-from-2027-tight-end.html",
-        "link_kind": "item",
-        "date": "2026-11-17T21:39:42+00:00",
-        "summary": "Darren Goodman, a 6-foot-4 tight end from Redding Christian School, committed to Oregon State, replacing Hudson Harbuck, who recently flipped to TCU.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "fbfe4d240c2cfb7d",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State Football: Offense Meets The Media (Nov. 17, 2026)",
         "link": "https://osubeavers.com/news/2026/11/17/oregon-state-football-offense-meets-the-media-nov-17-2026",
         "link_kind": "item",
@@ -4571,20 +4613,6 @@
         "extent": "1h 1m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Oregon's Lanning gets a rare moment as just a football dad",
-        "link": "https://www.oregonlive.com/ducks/2026/11/oregons-dan-lanning-revisits-reser-stadium-this-time-as-a-dad-in-the-stands.html",
-        "link_kind": "item",
-        "date": "2026-11-17T16:28:12+00:00",
-        "summary": "After Oregon's win over Michigan, coach Dan Lanning attended his son Titan's eighth grade championship game at Reser Stadium, where flashbacks from a 2022 loss to Oregon State resurfaced.",
-        "author": "Ryan Clarke",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "73d2c3ad7d5dc8c1",
-        "sport": "football",
-        "medium": "text"
       },
       {
         "title": "Field Trip Game Opens Week at Home for WBB",
@@ -4629,48 +4657,6 @@
         "medium": "text"
       },
       {
-        "title": "Football Back To Reser For Saturday Night Matchup With Utah State",
-        "link": "https://osubeavers.com/news/2026/11/16/football-back-to-reser-for-saturday-night-matchup-with-utah-state",
-        "link_kind": "item",
-        "date": "2026-11-16T18:06:00+00:00",
-        "summary": "<img alt=\"Eric Olsen\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/16/Olsen.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "8618c1f8115de18f",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Jesse Legree Named Semifinalist For The Biletnikoff Award",
-        "link": "https://osubeavers.com/news/2026/11/16/football-jesse-legree-named-semifinalist-for-the-biletnikoff-award",
-        "link_kind": "item",
-        "date": "2026-11-16T17:10:00+00:00",
-        "summary": "<img alt=\"Jesse Legree\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/16/Legree.png\" /><br /><br />CORVALLIS, Ore. – Oregon State freshman wide receiver Jesse Legree is one of 13 semifinalists for the Biletnikoff Award, it was announced on Monday. The award is given annually to the nation's top FBS receiver regardless of position.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "de4b3318a5446e4a",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Gritty Effort Nearly Enough for Oregon State in Tucson",
-        "link": "https://osubeavers.com/news/2026/11/15/womens-basketball-gritty-effort-nearly-enough-for-oregon-state-in-tucson",
-        "link_kind": "item",
-        "date": "2026-11-16T05:10:00+00:00",
-        "summary": "<img alt=\"Young, Shuler\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/15/261115_UA_Game-22.jpeg\" /><br /><br />Jenna Villa forced overtime with a clutch corner three, getting the assist from Kennedie Shuler before burying the triple to tie the game at 70. She finished with 21 points.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "b126bd8ba15b4cf8",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Beavers To Host East Texas A&M in Monday Tilt",
         "link": "https://osubeavers.com/news/2026/11/15/mens-basketball-beavers-to-host-east-texas-am-in-monday-tilt",
         "link_kind": "item",
@@ -4682,20 +4668,6 @@
         "source": "Oregon State Athletics",
         "id": "20b835732b77aad5",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Beavers Hang Tight, Come Up Just Short At No. 17 Boise State",
-        "link": "https://osubeavers.com/news/2026/11/14/football-beavers-hang-tight-come-up-just-short-at-no-17-boise-state",
-        "link_kind": "item",
-        "date": "2026-11-15T03:11:00+00:00",
-        "summary": "<img alt=\"Jake Reichle\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/_Z924904.JPG\" /><br /><br />BOISE, Idaho — Maalik Murphy threw for a career-high 396 yards and three touchdowns, and Jesse Legree caught 12 passes for 140 yards and a score, but Oregon State fell to No. 17 Boise State, 46-41, on Saturday at Albertsons Stadium.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "b3618a6e0bd3cb8a",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -4738,20 +4710,6 @@
         "channel_url": "",
         "source": "Oregon State Athletics",
         "id": "7853b37576c1bc1c",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State to Host Delta Devils Friday",
-        "link": "https://osubeavers.com/news/2026/11/11/mens-basketball-oregon-state-to-host-delta-devils-friday",
-        "link_kind": "item",
-        "date": "2026-11-11T22:24:00+00:00",
-        "summary": "<img alt=\"Freitag\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/DSC01532.jpg\" /><br /><br />THE GAME: Oregon State hosts Mississippi Valley State on Friday night.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "14d2b67e63e60d42",
         "sport": "mbb",
         "medium": "text"
       },
@@ -4817,6 +4775,20 @@
       }
     ],
     "San Diego State": [
+      {
+        "title": "Aztec Special Teams Coordinator Zac Barton Named a Broyles Award Nominee",
+        "link": "https://goaztecs.com/news/2026/11/24/aztec-special-teams-coordinator-zac-barton-named-a-broyles-award-nominee",
+        "link_kind": "item",
+        "date": "2026-11-24T19:07:33+00:00",
+        "summary": "Barton is one of 60 nominees for the award, which goes out to the top assistant coach in the country.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "88a17fa28e0769cb",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Women’s basketball ‘found a way to get it done,’ narrowly topping Winthrop",
         "link": "https://thedailyaztec.com/130098/sports/womens-basketball-found-a-way-to-get-it-done-narrowly-topping-winthrop/",
@@ -4899,6 +4871,20 @@
         "source": "San Diego State Athletics",
         "id": "918fa8aa7418b4c4",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Photo Gallery: Winthrop",
+        "link": "https://goaztecs.com/news/2026/11/23/photo-gallery-winthrop",
+        "link_kind": "item",
+        "date": "2026-11-23T17:59:50+00:00",
+        "summary": "Photo Gallery: Winthrop. Photo Credit: Chloe Tat",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "4f4584972890a85b",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -6579,23 +6565,51 @@
         "id": "0f825f265b066074",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "Aztecs Defeated on the Road at Oregon State",
-        "link": "https://goaztecs.com/news/2026/10/10/aztecs-defeated-on-the-road-at-oregon-state",
-        "link_kind": "item",
-        "date": "2026-10-11T01:40:33+00:00",
-        "summary": "San Diego State suffered a 66-14 loss in its first Pac-12 conference road game of the 2026 season.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "17f73a0590c98f04",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "Texas State to Meet Alcorn State in Ruston",
+        "link": "https://txst.com/news/2026/11/24/mens-basketball-texas-state-to-meet-alcorn-state-in-ruston.aspx",
+        "link_kind": "item",
+        "date": "2026-11-24T23:47:00+00:00",
+        "summary": "<img alt=\"Kaden Gumbs\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/20261122_MBB_MCNEESE_MP-8__1_.jpg\" /><br /><br />RUSTON, La. – Texas State (7-0) takes the show on the road for a neutral site matchup with Alcorn State (0-6) on Wednesday afternoon. Tipoff from the Thomas Assembly Center is scheduled for 4 p.m. CT.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "918525def48076d0",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Texas State Hosts Three Teams in Multi-Team Event",
+        "link": "https://txst.com/news/2026/11/24/womens-basketball-texas-state-hosts-three-teams-in-multi-team-event.aspx",
+        "link_kind": "item",
+        "date": "2026-11-24T23:38:00+00:00",
+        "summary": "<img alt=\"Emma Pique Dribbling\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/261113_WBB_CCA_M_BR_Period1-22_Copy.jpg\" /><br /><br />SAN MARCOS, Texas – Texas State Women's Basketball looks to continue its hot start to the 2026-27 season with three games at Strahan Arena.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "dd7e2ae23bafa03d",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "WATCH | TXST Football Media Availability vs Utah State (112426)",
+        "link": "https://txst.com/news/2026/11/24/watch-txst-football-media-availability-vs-utah-state-112426.aspx",
+        "link_kind": "item",
+        "date": "2026-11-24T21:48:00+00:00",
+        "summary": "<img alt=\"Chris Dawn Jr vs Washington State\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/261121_FB_vsWAZZU_INGAME_EDITS_KH-01069.jpg\" /><br /><br />HC GJ Kinne, DC Will Windham",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "cc6e5f30bfbdaeb4",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Burks Earns Second Straight Pac-12 Offensive Player of the Week",
         "link": "https://txst.com/news/2026/11/23/womens-basketball-burks-earns-second-straight-pac-12-offensive-player-of-the-week.aspx",
@@ -7017,20 +7031,6 @@
         "medium": "text"
       },
       {
-        "title": "Texas State Hosts Southern Miss in First-Ever Non-Conference Meeting",
-        "link": "https://txst.com/news/2026/11/12/mens-basketball-texas-state-hosts-southern-miss-in-first-ever-non-conference-meeting.aspx",
-        "link_kind": "item",
-        "date": "2026-11-12T22:56:00+00:00",
-        "summary": "<img alt=\"Quel'Ron House\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/261102_MBB_CCA_M_AL_GAME-09.jpg\" /><br /><br />SAN MARCOS, Texas – Texas State (2-0) chases its best start since 1980-81 hosting former Sun Belt Conference foe Southern Miss (2-1) on Friday night. Tipoff from Strahan Arena is scheduled for 7 p.m. CT.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "ef9a203a00b2e278",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Texas State Hosts Texas A&M-Corpus Christi for Annual Kids Game",
         "link": "https://txst.com/news/2026/11/12/womens-basketball-texas-state-hosts-texas-am-corpus-christi-for-annual-kids-game.aspx",
         "link_kind": "item",
@@ -7087,20 +7087,6 @@
         "medium": "text"
       },
       {
-        "title": "Media Availability: HC Chris Kielsmeier, Saniya Burks, Emma Pique",
-        "link": "https://txst.com/news/2026/11/10/womens-basketball-media-availability-hc-chris-kielsmeier-saniya-burks-emma-pique.aspx",
-        "link_kind": "item",
-        "date": "2026-11-10T21:32:00+00:00",
-        "summary": "<img alt=\"WBB 11.10 Press Conference\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/Screenshot_2026-11-10_at_3.08.29_PM.png\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "148d0aa548b7324a",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Texas State University and adidas Partner with Athletic Solutions to Launch adidas NIL Locker Rooms for All Bobcat Student-Athletes",
         "link": "https://txst.com/news/2026/11/10/athletics-texas-state-university-and-adidas-partner-with-athletic-solutions-to-launch-adidas-nil-locker-rooms-for-all-bobcat-student-athletes.aspx",
         "link_kind": "item",
@@ -7113,23 +7099,37 @@
         "id": "8911d023177f40cc",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "United Rentals Announced as Official Rental Solution of Texas State Athletics",
-        "link": "https://txst.com/news/2026/11/9/united-rentals-announced-as-official-rental-solution-of-texas-state-athletics.aspx",
-        "link_kind": "item",
-        "date": "2026-11-09T21:00:00+00:00",
-        "summary": "<img alt=\"United Rental Headset\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/MRR-00424.jpg\" /><br /><br />SAN MARCOS, Texas – Texas State Athletics has announced a significant three-year sponsorship agreement with United Rentals, North America's largest equipment rental company, as the &quot;Official Rental Solution of Texas State Athletics.&quot; The Bobcats debuted the new partnership in front of a national television audience at Boise State on October 31 with highly visible coaches headsets as a keystone asset.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "56eba4b70a44e1f3",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Utah State": [
+      {
+        "title": "Women’s Basketball To Play in ZotGiving Classic This Weekend",
+        "link": "https://utahstateaggies.com/news/2026/11/24/womens-basketball-womens-basketball-to-play-in-zotgiving-classic-this-weekend.aspx",
+        "link_kind": "item",
+        "date": "2026-11-24T22:34:00+00:00",
+        "summary": "<img alt=\"Utah State women's basketball guard Lisa Thompson rises up for a layup during the team's win over Bethune-Cookman\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/PAN08296.jpg\" /><br /><br />TIP-OFF",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "c55129545bf3df31",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Utah State Football’s Nick Howell Nominated for Broyles Award",
+        "link": "https://utahstateaggies.com/news/2026/11/24/utah-state-footballs-nick-howell-nominated-for-broyles-award.aspx",
+        "link_kind": "item",
+        "date": "2026-11-24T19:01:00+00:00",
+        "summary": "<img alt=\"Utah State football defensive coordinator Nick Howell celebrates with several players, including safety David Kabongo (8) and linebacker Asher Cunningham (11)\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/PAN_USUFBvsColoradoState_0719.jpeg\" /><br /><br />LOGAN, Utah – Utah State football defensive coordinator Nick Howell has been nominated for the 2026 Broyles Award, which honors college football's top assistant coaches, it was announced Tuesday.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "2221c1a0d0abf20e",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Utah State Football Concludes Regular Season at Home Against Texas State",
         "link": "https://utahstateaggies.com/news/2026/11/23/utah-state-football-concludes-regular-season-at-home-against-texas-state.aspx",
@@ -7651,20 +7651,6 @@
         "medium": "audio"
       },
       {
-        "title": "Aggies Continue Season at Home Versus LMU and On Road at No. 3 USC",
-        "link": "https://utahstateaggies.com/news/2026/11/4/womens-basketball-aggies-continue-season-at-home-versus-lmu-and-on-road-at-no-3-usc.aspx",
-        "link_kind": "item",
-        "date": "2026-11-04T21:23:00+00:00",
-        "summary": "<img alt=\"Utah State guard Kylani Rookstool drives into the defense during the team's season-opening win over Westminster\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/4/DSC04005.jpg\" /><br /><br />TIP-OFF",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "bab2e014c2921eca",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Utah State’s Carson Tujague Named a Burlsworth Trophy Nominee",
         "link": "https://utahstateaggies.com/news/2026/11/4/football-utah-states-carson-tujague-named-a-burlsworth-trophy-nominee.aspx",
         "link_kind": "item",
@@ -7703,20 +7689,6 @@
         "channel_url": "",
         "source": "Utah State Athletics",
         "id": "236066893f76b116",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Aggie Defense Leads the Way in 31-14 Win Over Colorado State",
-        "link": "https://utahstateaggies.com/news/2026/10/31/football-aggie-defense-leads-the-way-in-31-14-win-over-colorado-state.aspx",
-        "link_kind": "item",
-        "date": "2026-11-01T01:18:00+00:00",
-        "summary": "<img alt=\"Several Utah State football players celebrate with QB McCae Hillstead (2) after a touchdown in the team's 31-14 win over Colorado State\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/31/_TJB1025.jpeg\" /><br /><br />LOGAN, Utah – Utah State football put together another stellar defensive outing, paving the way for a 31-14 win on Halloween afternoon at Maverik Stadium. USU forced a pair of turnovers while holding the Rams to a season-low 263 yards of total offense, the first time CSU has been held below 300 yards this year.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "677e85fa725b2487",
         "sport": "football",
         "medium": "text"
       },
@@ -7768,6 +7740,78 @@
     ],
     "Washington State": [
       {
+        "title": "WSU football’s Kirby Moore clarifies remarks, plus Cougars’ emerging RB",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-footballs-kirby-moore-clarifies-remarks-plus-cougars-emerging-rb/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-11-25T01:21:57+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/11/11242026_tzr_tzr_171408.jpg?d=1200x630\"><br/>Washington State coach Kirby Moore clarified his recent \"good luck with that\" comment, which had made waves among WSU fans following their loss to Texas State.",
+        "author": "Greg Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "e143c7e5c6d08bec",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Oh no! We're bad again! (Episode 269)",
+        "link": "https://podcastvseveryone.podbean.com/e/oh-no-were-bad-again-episode-269/",
+        "link_kind": "item",
+        "date": "2026-11-25T00:45:51+00:00",
+        "summary": "<p>Don't forget to subscribe to the newsletter! Episodes direct to your inbox, plus other written musings from Jeff. <a href='http://podcastvseveryone.com/'>podcastvseveryone.com</a></p>\n<p>Coming on the heels of the Washington State Cougars' beatdown of Colorado State, there was reason for optimism. A short-lived first quarter lead was about as long as that lasted in San Marcos, as the Texas State Bobcats took out the whoopin' stick on the Cougs. With one game to go - a flex rematch with San Diego State - we look at what went wrong (again) and (again) wonder what can be done going forward.</p>\n<p>The news was a lot better for men's basketball, which picked up its first Division 1 win (over Hawaii) and then -- shockingly -- pushed #5 Duke to the wire in California. We finished off by digging into beer and women's basketball.</p>\n<p>This was a live stream recorded with our Premium Members, featuring questions and comments from them. If you want to be a part of the party next time, head to https://podcastvseveryone.com/upgrade and join us! </p>\nNotes\n<p>Podcast music by Randy England. <a href='https://www.instagram.com/randyenglandmusic/'>You can find more of his work on Instagram</a>.</p>\n<p>You can also subscribe to the show on your favorite podcast services:</p>\n<ul>\n<li>\n<p><a href='https://podcasts.apple.com/us/podcast/podcast-vs-everyone/id1449847880?mt=2'>Apple Podcasts</a>  </p>\n</li>\n<li>\n<p><a href='https://open.spotify.com/show/5mN2nUMA3KH095WAYYiOaf'>Spotify</a> </p>\n</li>\n<li>\n<p><a href='https://www.youtube.com/@PodVsEveryone'>YouTube</a></p>\n</li>\n<li>\n<p>Or, manually add this feed to your podcast app of choice: <a href='https://feed.podbean.com/podcastvseveryone/feed.xml'>https://feed.podbean.com/podcastvseveryone/feed.xml</a></p>\n</li>\n</ul>",
+        "author": "",
+        "duration": 6576,
+        "channel_url": "",
+        "source": "Podcast Vs. Everyone",
+        "id": "d8fb370617170ed5",
+        "extent": "1h 50m",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
+        "title": "“It was like a dream” Cougar hockey upsets Western in the Collegiate Classic",
+        "link": "https://dailyevergreen.com/202004/sports/it-was-like-a-dream-cougar-hockey-upsets-western-in-the-collegiate-classic/",
+        "link_kind": "item",
+        "date": "2026-11-25T00:01:52+00:00",
+        "summary": "For the first time in seven meetings, the Cougs have bested the Western Vikings on the ice. Both teams ventured north to Winthrop on Saturday, Nov. 21, and took each other on in the third annual Collegiate Classic beneath the stars. The two teams entered the rivalry with a win and a loss, and both...",
+        "author": "SMITH SLYE, Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "76c854fef88d958c",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "BECU Inside WSU Athletics with Jon Haarlow | S2, E8 | Guests: Ben Joyce, Tyler Mariucci",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/025c4aac-7044-48b9-bc10-4e5eddf5b58f.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-11-24T18:00:00+00:00",
+        "summary": "<p>Join us for the latest Inside WSU Athletics Podcast presented by BECU with Director of Athletics Jon Haarlow.</p><p>This episode, our guests include:</p><p>Artist | Ben Joyce</p><p>WSU Executive Senior Associate Director of Athletics | Tyler Mariucci&nbsp;</p>",
+        "author": "",
+        "duration": 2613,
+        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
+        "source": "Washington State Cougars Podcast",
+        "id": "605ee900ac39e80c",
+        "extent": "44 min",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
+        "title": "WSU Football: Kirby Moore and Student-Athletes | San Diego State Week Press Conference | 11/23/26",
+        "link": "https://wsucougars.com/news/2026/11/24/wsu-football-kirby-moore-and-student-athletes-san-diego-state-week-press-conference-112326",
+        "link_kind": "item",
+        "date": "2026-11-24T09:52:45+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "9af0ef3c3e0e88e8",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "WSU WR Tony Freeman expected to get extra year of eligibility",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-wr-tony-freeman-expected-to-get-extra-year-of-eligibility/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -7783,6 +7827,20 @@
         "also": [
           "The Spokesman-Review"
         ]
+      },
+      {
+        "title": "WSU RB rotations tilting, Kirby Moore clarifies 'good luck with that' comment and more | Notebook",
+        "link": "http://www.spokesman.com/stories/2026/nov/24/rb-rotations-tilting-kirby-moore-clarifies-good-lu/",
+        "link_kind": "item",
+        "date": "2026-11-24T00:00:00+00:00",
+        "summary": "<p>PULLMAN — As Washington State barrels toward the end of coach Kirby Moore&#8217;s debut season, preparing to host San Diego State this weekend for the season finale, a few patterns are cementing themselves in the Cougars&#8217; offense.</p><p>One of them is this: At the running back position, things are tilting the direction of Kirby Vorhees, who has earned 30-plus offensive snaps each of the last six games. Meanwhile, redshirt sophomore Maxwell Woods has seen his tally hover in the teens in the same span.</p><p>In the Cougs&#8217; last outing, a 42-14 defeat to Texas State last weekend, Vorhees was on the field for 44 snaps, Woods for just 19. Vorhees turned in 55 yards on 12 carries, while Woods turned four carries into 24 yards.</p><p>&#8220;I think sometimes when you&#8217;re playing with tempo, the same guy at times can can be on the field there for a few more snaps. I do think we&#8217;d probably want a little bit better balance there,&#8221; Moore said. &#8220;Sometimes things are happening fast with personnels. Both of those guys made plays on on Saturday, and they&#8217;re both gonna make more plays here this week and be a part of the offensive plan.&#8221;</p><p>It&#8217;s been a topic worth monitoring in recent weeks, in large part, because the Cougars&#8217; rushing attack is showing signs of life. Earlier this month, WSU set a program record with 535 rushing yards in a historic win over Colorado State. In that one, Vorhees and Woods each cleared the 100-yard mark, an equally monumental milestone for the tailbacks — whose rushing offense had otherwise left a lot to be desired.</p><p>Plus, in Saturday&#8217;s game, both looked sharp. Vorhees ripped off two rushes of 10-plus yards, and Woods covered 16 yards combined on his first two rushes. But as the game wore on, the Cougs&#8217; offense was mired in mistakes and penalties, taking away opportunities for Woods and Vorhees to make their mark on the game.</p><!--[embed id=12537]--><p><strong>Moore clarifies &#8216;good luck with that&#8217; remark</strong></p><p>After WSU&#8217;s loss to Texas State, Moore was making his opening statement when he delivered this comment: &#8220;Second drive, we get a first down. We get a penalty, first-and-20. Good luck with that.”</p><p>On the play in question, WSU left tackle Jaylin Caldwell was whistled for holding on a second-down play, wiping away a 17-yard completion from quarterback Owen Eshelman to receiver Branden Ganashamoorthy. That set the Cougars back to second-and-20, and three plays later, punter Max Dean&#8217;s kick was blocked.</p><p>The comment made waves among WSU fans, who were concerned that Moore didn&#8217;t appear to have confidence in his team digging itself out of a hole.</p><p>&#8220;I think I misspoke on that,&#8221; Moore said on Monday. &#8220;It was second-and-10, and I think we had the completion there on the the bigger intermediate, so it was second-and-20. I think anywhere in college football, second-and-20, the percentages are in the defense&#8217;s favor, and so there&#8217;s just naturally some challenges with that in terms of creating chunk plays.</p><p>&#8220;I&#8217;ve got a ton of confidence in our guys, their energy and effort. Obviously, there was execution flaws there on Saturday. Some of those, you gotta give Texas State credit, and then some of those were self-inflicted for sure, whether it was earlier, when it was when we&#8217;re crossing the 50 and we shot ourselves in the foot, and then you get behind the sticks.&#8221;</p><!--[embed id=12538]--><p><strong>Moore finding his groove in game management</strong></p><p>As he wraps up his first year as a head coach, Moore is still finding his footing in the game management department, still trying to find a balance between going for it at the end of halves or playing it safe.</p><p>&#8220;I think naturally, when the head coach is involved in one side of the ball a little bit more, the coordinators are are naturally able to call timeouts,&#8221; Moore said. &#8220;So if there&#8217;s something specifically that Coach (Trent) Bray or Coach (Derek) Sage need a certain look, tey&#8217;re able to call timeouts. That&#8217;s been a change.</p><p>&#8220;From a clock standpoint, there&#8217;s the book, and we have some people within the football program who are upstairs, keeping track of when we should be calling timeouts. When we might have two downs from an offensive standpoint, or being ready defensively for someone to have two downs. So there&#8217;s a lot of communication, whether it&#8217;s the people upstairs or with the coordinators on the field.&#8221;</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "4f64e0e31b64e083",
+        "sport": "football",
+        "medium": "text"
       },
       {
         "title": "Jaylen Harrell Named Pac-12 Freshman of the Week for the Second Time This season",
@@ -8233,20 +8291,6 @@
         "channel_url": "",
         "source": "The Daily Evergreen",
         "id": "6d64f47f9a2c1bfe",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "First time matchup: WSU takes on the Bobcats in final road game",
-        "link": "https://dailyevergreen.com/201731/sports/first-time-matchup-wsu-takes-on-the-bobcats-in-final-road-game/",
-        "link_kind": "item",
-        "date": "2026-11-20T08:00:29+00:00",
-        "summary": "Washington State (2-8, 1-5) hits the road for the last time this season to take on Texas State (6-4, 4-2). This will not only be the first time that the two teams have faced off since the Bobcats joined the Pac-12, but the first time the two teams have faced off ever. TSU has put...",
-        "author": "KellerRay Hutsell Zandell",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "5d8f6a324f8a86be",
         "sport": "all",
         "medium": "text"
       },
@@ -9178,20 +9222,6 @@
         "channel_url": "",
         "source": "The Seattle Times",
         "id": "c47d6ba014e4e6f2",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "From dogs in cowboy hats to starry nights, WSU DE Matyus McLain loves his new painting hobby",
-        "link": "http://www.spokesman.com/stories/2026/nov/12/from-dogs-in-cowboy-hats-to-starry-nights-wsu-de-m/",
-        "link_kind": "item",
-        "date": "2026-11-12T00:00:00+00:00",
-        "summary": "<p>PULLMAN – The first time Matyus McLain sat down to try his new hobby, his mind wandered to his childhood, back when he would battle his younger brother in video games. Matyus and the younger Mason played all kinds of games, and they still do, but one they frequented the most was LEGO Star Wars.</p><p>So on this August day, before he kicked off his first season starring at defensive end for Washington State, McLain sat down at his kitchen table, cleared everything off, spun some tunes using Spotify DJ, got his supplies out and got started.</p><p>He dipped his paintbrush into yellow paint to paint two characters, into brown to illustrate a background, into red to draw a series of hearts representing health. He may not have been happy with the way the door to the rest of the game turned out – “my depth isn’t awesome,” he says – but after about an hour had passed, he had a final product.</p><p>“It’s a great escape because it allows you to relax,” McLain said, “and it’s not you scrolling on your phone, playing video games.”</p><p>Since the beginning of fall camp in the summer, McLain has picked up a new hobby: painting. He’s completed about seven pieces so far, he said, everything from the LEGO Star Wars lobby screen to a photo of his dog wearing a cowboy hat to a skyline view with a moon hanging in the distance. Throughout a long and taxing season, McLain has used his new pursuit to get away from the grind, to focus on a new challenge.</p><p>Each painting takes him about an hour to an hour and a half, he says, reflecting the care he takes with each work and his desire to keep improving on them. When he sits down at his kitchen table to paint, sometimes he doesn’t do so with a specific idea in mind. He goes with the flow. He knows he isn’t an expert, saying, “I’m not great at it by any means.” But for now, he’s OK with that.</p><p>For McLain, who didn’t grow up a particularly artsy kid, where did this come from? The answer isn’t as profound as it may seem. On an off day during the Cougars’ fall camp in August, he said, the idea just came to him. I’m gonna paint something, he remembers telling himself. So he went to Walmart, picked up a set of painting supplies, and painted the LEGO Star Wars scene.</p><p>Since then, he’s authored a few pieces of artwork. The painting of his dog Brutus, a black and tan Coonhound, came from a real photo with the pup wearing a cowboy hat. He painted a scene with a tree with a stream of water running underneath. He has another more abstract painting, and for that one, he tried to use duct tape to imprint a line – “but the duct tape didn’t really seal the lines perfect,” he laughed.</p><p>“I would, like, lay the duct tape down so that way, I could paint over it and then peel off the duct tape, and it’d be a straight line,” McLain said. “Didn’t go as I imagined.”</p><!--[photo id=937746 align=right]--><p>When he sits down to paint, McLain has a pretty simple workflow. He uses Apple Music for his tunes, but he wants more of a variety when he paints, and for that he turns to Spotify DJ. That program gives him all kinds of music, from middle school throwbacks to hit Juice WRLD songs. He’s even been hit with some ’60s music, which he isn’t normally into. “The DJ thinks I am,” he chuckled.</p><p>In truth, though, the idea didn’t appear in his head like Dom Cobb planted it in the movie “Inception.” He comes from an artistic family. His main inspiration is his great-aunt Robin Peterson, a WSU veterinary school grad in the class of 1980. She does some illustration work, and a few of her pieces hang on the walls of McLain’s apartment. Those helped push the idea into McLain’s head.</p><p>Besides, he was around lots of art growing up. McLain’s great grandfather, John Fister, was a carpenter who built a kid-sized picnic table that McLain used to color on as a kid. He also built boxes, chairs and coffee tables. He sold some. Others still live at the McLain residence in nearby Priest River, Idaho, and McLain grew up around those as well.</p><p>Matyus’ uncle, Denny McLain, is also a carpenter. And his grandfather on his dad’s side, Tom McLain, is a musician based out of Chewelah. He plays mainly bluegrass, but his repertoire includes far more. “He is a master musician,” said Matyus’ mom, Julianne.</p><p>“It plays into the mental fortitude that he has,” Julianne added. “I think that he has a significant amount of mental fortitude, and it’s only grown and developed throughout the years. And I think having space to do extra things … I know in the summertime, it’s often going outside, getting in the river, the lake, and going for a hike or whatever it is that he’s doing. I think this is a different way, because I think they decompress on video games quite a lot. These kids, they enjoy the social connection of video games, and so I think it’s a productive way to increase his mental fortitude.”</p><p>“That part doesn’t surprise me,” Peterson added. “He was always just such a happy kid, you know? Not wild and crazy or anything, but always interested, curious about things, and interested and game to do anything. I think his parents helped instill the confidence that it takes to do that kind of stuff and just to do what he’s doing now, and so we’re very proud of him.”</p><p>McLain picked up painting in large part to get away from football, to give himself a release that isn’t trying to push back offensive linemen and get home for a sack. That much he has accomplished, and to those who know him best, the process started years back.</p><p>When McLain was a junior at Priest River, his wrestling team was at the state tournament meet down in Pocatello. During one match, McLain was trying a move that took him some time to maneuver and get into place, and it took long enough that the referee called him for stalling. He went on to fall in the match. His parents could tell he was frustrated.</p><p>Sitting up in the stands, Julianne remembers thinking, What is he going to do? Matyus shook his opponent’s hand, then went to a corner of the Holt Arena dome and sat down for some 45 minutes. After that, he got up and strolled over to the referee. Later, he would relay that he asked the ref what he saw on the stalling sequence. What caused him to call that?</p><p>It was an encouraging sight for Julianne, who has always encouraged her children to sit with the frustrating emotions, not fight them. That’s what makes us human. Years later, McLain has experienced his fair share of them playing for the Cougars, who are looking for their first FBS win this weekend against Colorado State, looking to shake off a six-game slide.</p><p>“When he says nobody’s giving up – there’s  nobody giving up,” Julianne said. “He’s got lots of really strong teammates with really high character around him, and they’re all supporting each other. And I think that’s very accurate of what’s happening. So he’s got a lot of support even in the midst of the frustration.”</p><p>When he’s painting, though, McLain feels none of that. It’s just him and the canvas – not his phone, not TV, not video games. He really wants to improve at painting, he said, a nod to the competitive nature that helped him ascend from Priest River to Idaho to Washington State.</p><p>“I think it’s just a fun challenge outside of football,” McLain said. “It’s not scrolling on my phone. I get to relax, listen to music, and try to be good at something.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "5978e0a36766276c",
         "sport": "football",
         "medium": "text"
       },
@@ -11047,20 +11077,6 @@
         "medium": "audio"
       },
       {
-        "title": "WSU’s Owen Eshelman to start at QB against Oregon State, replacing Caden Pinnick",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsus-owen-eshelman-to-start-at-qb-against-oregon-state-replacing-caden-pinnick/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-10-12T20:28:52+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10122026_tzr_tzr_132604.jpg?d=1200x630\"><br/>Six games into the season, Washington State is making a change at quarterback.",
-        "author": "Greg Woods",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "d393f72abbec4510",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Cougs In Pro Basketball | October 12, 2026",
         "link": "https://wsucougars.com/news/2026/10/12/cougs-in-pro-basketball-or-october-12-2026",
         "link_kind": "item",
@@ -11087,80 +11103,6 @@
         "id": "b2073e5f928ec873",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "Academic Services Names September Student-Athletes of the Month",
-        "link": "https://wsucougars.com/news/2026/10/10/academic-services-names-september-student-athletes-of-the-month",
-        "link_kind": "item",
-        "date": "2026-10-10T22:00:00+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "37695bc06c926772",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "WSU collapses late to Utah State: Instant Reaction (Episode 263)",
-        "link": "https://podcastvseveryone.podbean.com/e/wsu-collapses-late-to-utah-state-instant-reaction-episode-263/",
-        "link_kind": "item",
-        "date": "2026-10-10T20:23:51+00:00",
-        "summary": "<p>Don't forget to subscribe to the newsletter! Episodes direct to your inbox, plus other written musings from Jeff. <a href='http://podcastvseveryone.com/'>podcastvseveryone.com</a></p>\n<p>The Washington State Cougars hit a new low by blowing a 16-3 second half lead against Utah State. Here are our initial thoughts about the collapse, recorded at West End Pub in Tacoma.</p>\n<p>This was a live stream recorded with our Premium Members just minutes after the end of the game, featuring questions and comments from them. If you want to be a part of the party next time, head to https://podcastvseveryone.com/upgrade and join us! </p>\nNotes\n<p>Podcast music by Randy England. <a href='https://www.instagram.com/randyenglandmusic/'>You can find more of his work on Instagram</a>.</p>\n<p>You can also subscribe to the show on your favorite podcast services:</p>\n<ul>\n<li>\n<p><a href='https://podcasts.apple.com/us/podcast/podcast-vs-everyone/id1449847880?mt=2'>Apple Podcasts</a>  </p>\n</li>\n<li>\n<p><a href='https://open.spotify.com/show/5mN2nUMA3KH095WAYYiOaf'>Spotify</a> </p>\n</li>\n<li>\n<p><a href='https://www.youtube.com/@PodVsEveryone'>YouTube</a></p>\n</li>\n<li>\n<p>Or, manually add this feed to your podcast app of choice: <a href='https://feed.podbean.com/podcastvseveryone/feed.xml'>https://feed.podbean.com/podcastvseveryone/feed.xml</a></p>\n</li>\n</ul>",
-        "author": "",
-        "duration": 1417,
-        "channel_url": "",
-        "source": "Podcast Vs. Everyone",
-        "id": "6781c7f2b4f45766",
-        "extent": "24 min",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Coug Talk (WSU vs. Utah State) 10-9-26",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/5e56125d-d439-43c5-ad0d-8defa02af522.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-10-10T14:32:00+00:00",
-        "summary": "<p>Postgame coverage from WSU's 17-16 loss against Utah State on 10-9-26.</p>",
-        "author": "",
-        "duration": 6632,
-        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
-        "source": "Washington State Cougars Podcast",
-        "id": "bd976f492322bd86",
-        "extent": "1h 51m",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Cougar Football Replay (WSU vs. Utah State) 10-9-26",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/ceda8045-a847-4e16-803c-422424a92a85.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-10-10T14:31:00+00:00",
-        "summary": "<p>Full game broadcast from WSU's 17-16 loss against Utah State on 10-9-26.</p>",
-        "author": "",
-        "duration": 14850,
-        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
-        "source": "Washington State Cougars Podcast",
-        "id": "f1c9d5f72cb76f3a",
-        "extent": "4h 8m",
-        "sport": "football",
-        "medium": "audio"
-      },
-      {
-        "title": "Cougar Tailgate Show (WSU vs. Utah State) 10-9-26",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/2e0aff8b-7e83-401b-bcdf-ede099827bb6.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-10-10T14:30:00+00:00",
-        "summary": "<p>Cougar Tailgate Show pregame coverage prior to the WSU vs. Utah State game on 10-9-26.</p>",
-        "author": "",
-        "duration": 7059,
-        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
-        "source": "Washington State Cougars Podcast",
-        "id": "b43d686fb3af1bba",
-        "extent": "1h 58m",
-        "sport": "all",
-        "medium": "audio"
       }
     ]
   }
