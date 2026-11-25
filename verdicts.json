@@ -33107,6 +33107,192 @@
       "extent": "9 min read",
       "lock": "free",
       "run": "run_2026-11-25-0240"
+    },
+    "0d2b83fb95efea52": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The podcast episode centers on Boise State's upset loss to San Diego State and its PAC-12 championship fallout.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-25-1440"
+    },
+    "4946f9dc95a2cf84": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Boise State's drop out of the CFP rankings after losing to San Diego State is one of the roundup's substantive items.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Adam Evarts"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-25-1440"
+    },
+    "53401972f5ad8399": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Washington State's basketball win over Sam Houston State, centered on Jamari Phillips' game-winning play.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-25-1440"
+    },
+    "5e100913ad2a329a": {
+      "subjects": {
+        "boise-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The whole piece analyzes Boise State's drop in the CFP rankings and its path to the playoff field.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Beth Maiman"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-25-1440"
+    },
+    "6f90b208cd334f8e": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Player-by-player takeaways from Gonzaga's basketball win over Kansas State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-25-1440"
+    },
+    "7d43252163863684": {
+      "subjects": {
+        "conference": "about",
+        "san-diego-state/football": "about",
+        "texas-state/football": "about",
+        "oregon-state/football": "about",
+        "utah-state/football": "about",
+        "boise-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The weekly grades column gives dedicated sections to five of the nine covered football programs.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-25-1440"
+    },
+    "950d8d381fdd9e98": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full recap of Fresno State women's basketball victory over Florida Gulf Coast.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-25-1440"
+    },
+    "c0055682d3beed42": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Gonzaga's blowout basketball win over Kansas State, centered on Xaivian Lee's near triple-double.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-25-1440"
+    },
+    "d26cd5d6e1a54cde": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story's whole subject is New Mexico cross country, a program at a school outside the nine covered.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Roger A Holien"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-25-1440"
+    },
+    "f9ecf48cf05c3c56": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports that Gonzaga point guard Javon Bennett will miss multiple weeks with a knee injury.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-25-1440"
+    },
+    "fdc2d279ce2fde7e": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "oregon-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "washington-state/football": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column analyzes the PAC-12's flex-week matchup decisions across most of the conference's football programs.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "No single program is clearly the sole subject, so whether to add conference and which teams rise to involves versus mentions was a judgment call.",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-25-1440"
     }
   },
   "runs": {
@@ -38308,6 +38494,36 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 21.33645460009575,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-25-1440": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-25T14:39:10.639962+00:00",
+      "items": 11,
+      "verdict_counts": {
+        "publish": 10,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 1
+      },
+      "unreadable_per_source": {},
+      "unrecognized": [
+        {
+          "id": "d26cd5d6e1a54cde",
+          "source": "Mountain West Connection",
+          "phrase": "New Mexico",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 20.58946910011582,
       "tokens": null,
       "tokens_source": null
     }
