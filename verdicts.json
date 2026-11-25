@@ -32974,6 +32974,139 @@
       ],
       "extent": "4 min read",
       "run": "run_2026-11-24-1442"
+    },
+    "07f1101853e1dbdd": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Boise State's loss to San Diego State is the stated cause of the Group of Six race the item discusses, the rest being unrelated headline teasers and ad boilerplate.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "After stripping other schools' teaser headlines and native-ad text, only a two-sentence blurb about the Boise State loss remains, borderline between substantive and passing.",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-25-0240"
+    },
+    "20de6927db8b259b": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "colorado-state/football": "involves"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Fresno State's two running backs are the subject, nominated for Pac-12 weekly honors after their performances in Saturday's win over Colorado State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-25-0240"
+    },
+    "4f64e0e31b64e083": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A WSU football notebook on the running back rotation and the head coach's clarified remark.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-25-0240"
+    },
+    "5da3e4dfa0e7742e": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Headline and summary together establish an Oregon State football player as a named national receiver-award finalist.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-25-0240"
+    },
+    "76c854fef88d958c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Cougar hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "WSU ice hockey is a club sport not listed among Washington State's covered programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-25-0240"
+    },
+    "9f5a691cbd3bd358": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A top-15 recruit's commitment to Gonzaga's basketball program is the subject of the whole piece.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-25-0240"
+    },
+    "e143c7e5c6d08bec": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A WSU football notebook on the head coach's comments and the running back rotation.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-25-0240"
+    },
+    "fc3bcc36c530be3e": {
+      "subjects": {
+        "boise-state/football": "about",
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "fresno-state/football": "involves",
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "Centers on Boise State's loss to San Diego State and discusses five other covered schools' current-season football in the same frame.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "9 min read",
+      "lock": "free",
+      "run": "run_2026-11-25-0240"
     }
   },
   "runs": {
@@ -38141,6 +38274,40 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 18.22268239990808,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-25-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-25T02:39:00.414708+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 7,
+        "drop": 1
+      },
+      "hidden_per_source": {
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "76c854fef88d958c",
+          "source": "The Daily Evergreen",
+          "phrase": "Cougar hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 21.33645460009575,
       "tokens": null,
       "tokens_source": null
     }
