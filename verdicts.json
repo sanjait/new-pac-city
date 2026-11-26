@@ -33293,6 +33293,101 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-11-25-1440"
+    },
+    "5b9ff74c68d5f635": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Coach Mark Few and the Gonzaga program are the subject, previewing Thursday's matchup against Baylor.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-26-0240"
+    },
+    "6551b01aa6ebe1f2": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports a 2027 defensive recruit decommitting from Oregon State's football class.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-26-0240"
+    },
+    "817ac65a0b596d89": {
+      "subjects": {
+        "oregon-state/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Recaps Oregon State's wire-to-wire basketball win over San Francisco, improving to 8-0.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-26-0240"
+    },
+    "8790f1dec3439ed4": {
+      "subjects": {
+        "gonzaga/mens-basketball": "involves"
+      },
+      "unrecognized": [
+        {
+          "phrase": "Baylor",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Previews Thursday's Gonzaga-Baylor matchup with specific scouting detail on Gonzaga's players, stats and defensive assignments.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-26-0240"
+    },
+    "ae634ae2ddf9bfb8": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary frame a rivalry preview centered on Oregon State's motivation against Fresno State ahead of a rematch.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-26-0240"
+    },
+    "c3c36c866ab970bd": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "Reports a court ruling on former WSU football coach Rolovich's firing, detailing the athletic department's budget and donor costs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Mitchell Roland"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-26-0240"
     }
   },
   "runs": {
@@ -38524,6 +38619,37 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 20.58946910011582,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-26-0240": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-26T02:39:04.284689+00:00",
+      "items": 6,
+      "verdict_counts": {
+        "publish": 6
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 3
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "8790f1dec3439ed4",
+          "source": "The Spokesman-Review",
+          "phrase": "Baylor",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 13.777410000097007,
       "tokens": null,
       "tokens_source": null
     }
