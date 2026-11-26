@@ -33388,6 +33388,169 @@
       ],
       "extent": "3 min read",
       "run": "run_2026-11-26-0240"
+    },
+    "0b226c6140e1e0a5": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The three betting picks cover only Mountain West teams outside the registry: Nevada/UNLV, North Dakota State/San Jose State, and Northern Illinois/UTEP.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Matt Hanifan"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-26-1442"
+    },
+    "4b684e336a88dd79": {
+      "subjects": {
+        "texas-state": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full text recaps a Texas State basketball win over Alcorn State and DJ Hall's performance; the text never states which program's team this is.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ryan Keilman"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-26-1442"
+    },
+    "59ed6b06f46b9569": {
+      "subjects": {
+        "san-diego-state/football": "about",
+        "washington-state/football": "involves",
+        "boise-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Centers on San Diego State football's championship-game stakes and this week's Washington State matchup, with player stats and coach comments.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jeffrey Carter"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-26-1442"
+    },
+    "66b6c8072ed6b7b8": {
+      "subjects": {
+        "texas-state": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Full text recaps a Texas State basketball win over Pacific and coach Kielsmeier's 600th career win; the text never states which program's team this is.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Luke Landa"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-26-1442"
+    },
+    "a2ba4635b9ecc8fc": {
+      "subjects": {
+        "san-diego-state/football": "involves",
+        "colorado-state/football": "involves",
+        "washington-state/football": "involves",
+        "oregon-state/football": "involves",
+        "texas-state/football": "involves",
+        "utah-state/football": "involves",
+        "boise-state/football": "involves",
+        "conference": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A transfer-portal team-of-the-week feature gives named stat-line entries to players now on seven of the nine schools' football rosters.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Each program appears only through individual transfer players' stat-line entries, not sustained team coverage, so involves-versus-mentions is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "Jack Thompson"
+      ],
+      "extent": "6 min read",
+      "run": "run_2026-11-26-1442"
+    },
+    "a47bcab73ac4c2e7": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Cougar hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "kind": "recap",
+      "verdict": "drop",
+      "reason": "Covers Washington State club hockey, a sport not listed among Washington State's covered programs.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "SMITH SLYE"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-26-1442"
+    },
+    "b252a773e78620ab": {
+      "subjects": {
+        "conference": "about",
+        "boise-state/football": "involves",
+        "san-diego-state/football": "involves",
+        "texas-state/football": "involves",
+        "oregon-state/football": "involves",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Multiple writers project specific bowl destinations and CFP standing for five of the nine schools within a dual-conference bowl-tie-in feature.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-26-1442"
+    },
+    "bc91da7b72c588a6": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "A general feature on long-snapping technique and recruiting with trainer Chris Rubio; no covered program is the subject or figures substantively.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "13 min read",
+      "run": "run_2026-11-26-1442"
+    },
+    "bcb2863430ef9c57": {
+      "subjects": {
+        "oregon-state/football": "about",
+        "fresno-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Title and summary report Oregon State football's injury status ahead of the Fresno State game.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-26-1442"
+    },
+    "cbf2b43debf6acc2": {
+      "subjects": {
+        "oregon-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Title and summary recap Oregon State women's basketball's loss to Vanderbilt, with two Beavers' scoring lines; the link names the women's program.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-26-1442"
     }
   },
   "runs": {
@@ -38650,6 +38813,41 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 13.777410000097007,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-26-1442": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-26T14:39:21.459694+00:00",
+      "items": 10,
+      "verdict_counts": {
+        "drop": 3,
+        "publish": 7
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2,
+        "The Daily Evergreen": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "a47bcab73ac4c2e7",
+          "source": "The Daily Evergreen",
+          "phrase": "Cougar hockey",
+          "kind": "unlisted-program"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 24.691586300032213,
       "tokens": null,
       "tokens_source": null
     }
