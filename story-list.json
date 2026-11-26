@@ -1,7 +1,91 @@
 {
-  "generated_at": "2026-11-26T02:03:26.338570+00:00",
+  "generated_at": "2026-11-26T14:03:31.126132+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Colorado State Rallies to Win Pac-12 Championship, 3-2, Over San Diego State",
+        "link": "http://pac-12.com/news/2026/11/26/womens-volleyball-colorado-state-rallies-to-win-pac-12-championship-3-2-over-san-diego-state.aspx",
+        "link_kind": "item",
+        "date": "2026-11-25T21:07:51+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/Colorado_State_VB_Champs.png\" /><br /><br />Top-seeded Colorado State fought back to win the Pac-12 Women's Volleyball Championship, 3-2, over San Diego State to capture the league's automatic bid to the NCAA Tournament.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "5c552a2ffc4e84eb",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "AZTECS RELISH OPPORTUNITY TO PLAY BOISE STATE IN THE CONFERENCE CHAMPIONSHIP GAME",
+        "link": "https://www.mwcconnection.com/san-diego-state-football/96419/aztecs-looking-forward-to-playing-boise-state-again-but-first-business-at-hand-against-washington-state",
+        "link_kind": "item",
+        "date": "2026-11-25T20:00:00+00:00",
+        "summary": "First, the Aztecs take on Washington State in the new ‘flex’ game matchup&#160; Another miracle game for the Cardiac kids. After the come from behind win to beat Texas State on October 3, the Aztecs found themselves on the winning side of another miracle victory, this time against Boise State. Both games saw the Aztecs [&#8230;]",
+        "author": "Jeffrey Carter",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "59ed6b06f46b9569",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2026 MW/PAC-12 All-Transfer Team: Week Twelve",
+        "link": "https://www.mwcconnection.com/mountain-west-transfer-portal/96399/2026-mountain-west-pac-12-all-transfer-team-week-twelve-new-mexico-san-diego-state-unlv-oregon-colorado-san-jose-utep",
+        "link_kind": "item",
+        "date": "2026-11-25T19:00:00+00:00",
+        "summary": "Welcome back to the Transfer Portal Team of the Week! Find out the top performances from incoming transfers across both conferences! Just one week left in the regular season, what newcomers are making a final push to the Team of the Year? Enjoy! Mountain West Quarterback Luke Moga Class: RS Sophomore Previous stops: Oregon &#124;&#124; [&#8230;]",
+        "author": "Jack Thompson",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "a2ba4635b9ecc8fc",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "3 Mountain West Football Best Bets For Week 13",
+        "link": "https://www.mwcconnection.com/mountain-west-football/96314/3-mountain-west-football-best-bets-for-week-13",
+        "link_kind": "item",
+        "date": "2026-11-25T18:00:00+00:00",
+        "summary": "Happy Thanksgiving — and rivalry week — to all who celebrate! We are now in the final week of the college football regular season, with multiple title scenarios on the line. Without further ado, let’s end this regular season on a strong note! Here’s our Week 13 best bets! (All odds are courtesy of&#160;FanDuel Sportsbook.) [&#8230;]",
+        "author": "Matt Hanifan",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "0b226c6140e1e0a5",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "What makes a good long snapper? Insights from Chris Rubio.",
+        "link": "https://www.mwcconnection.com/mountain-west-football/92959/college-football-long-snapper-chris-rubio",
+        "link_kind": "item",
+        "date": "2026-11-25T17:00:00+00:00",
+        "summary": "Tales are often told of young boys throwing the ball in the backyard with their parents or friends. Those sessions are where boys with big arms start their journeys as quarterbacks, or boys with speed learn their first routes as they become wide receivers. But where do long snappers, the most overlooked position on a [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "bc91da7b72c588a6",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Mountain West & Pac-12 Bowl Projections Week 12: Bowl shakeups",
+        "link": "https://www.mwcconnection.com/bowl-predictions/96337/pac-12-bowl-projections-week-12-boise-state-san-diego-texas",
+        "link_kind": "item",
+        "date": "2026-11-25T16:00:00+00:00",
+        "summary": "The time has come. The 2026 season is upon us. We are past the time of watch lists and preseason awards and have entered the time of bowl projections. Our team at Mountain West Connection will be releasing our bowl projections each week. This season, both Mountain West and Pac-12 projections will be included in [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "b252a773e78620ab",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "This Week in Pac-12 Football - Week 13",
         "link": "http://pac-12.com/news/2026/11/25/this-week-in-pac-12-football-week-13.aspx",
@@ -50,7 +134,7 @@
         "link_kind": "item",
         "date": "2026-11-25T02:51:34+00:00",
         "summary": "Week 12 was chaotic for most of college football, and potentially catastrophic for Boise State. A self-inflicted last-second loss saw them drop in this week’s College Football Playoff rankings, moving from 17 to somewhere in the unranked abyss. In fact, no Group fo 6 team is in the rankings this week. However, hope isn&#8217;t lost [&#8230;]",
-        "author": "Beth Maiman",
+        "author": "Mike Wittmann",
         "duration": null,
         "channel_url": "",
         "source": "Mountain West Connection",
@@ -125,76 +209,6 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "7d43252163863684",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Boise State SHOCKED by San Diego State! What happened?! New Mexico survives Wyoming to stay alive! MW Title Game Scenarios & Updated G6 CFP Odds! Game of the Week Preview + Prediction! HP Ep. #180 OUT NOW!",
-        "link": "https://www.mwcconnection.com/podcast/96339/mountain-west-pac-12-podcast-boise-state-new-mexico-san-diego-conference-championship-scenarios-wyoming-air-force-north-dakota-unlv",
-        "link_kind": "item",
-        "date": "2026-11-24T15:00:00+00:00",
-        "summary": "Welcome back everyone to the Hike’s Peak podcast, thank you for coming back to the mountain! Wow, wow, wow, can this season get any crazier?! In a pivotal matchup in the Mountain West, New Mexico took down Wyoming to keep their conference title hopes alive, but it didn’t come without some controversy. We’ll break down [&#8230;]",
-        "author": "Jack Thompson",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "0d2b83fb95efea52",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Mountaintop View 11-24-26",
-        "link": "https://www.mwcconnection.com/mountain-west-news/96331/mountain-west-pac-12-football-basketball-boise-cfp",
-        "link_kind": "item",
-        "date": "2026-11-24T14:00:00+00:00",
-        "summary": "Mountain West title, even CFP still technically in play for Air Force Boise State’s loss to San Diego State has opened up a can of worms. Once viewed as the ironclad favorite, now everyone at the top of the conference standings in the Group of Six is staking their candidacy. Could Air Force be poised [&#8230;]",
-        "author": "JeremyRodrigues",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "07f1101853e1dbdd",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "MWCConnection Reacts Survey: Should Boise State still be ranked in the CFP rankings?",
-        "link": "https://www.mwcconnection.com/college-football-playoffs/96325/college-football-playoff-rankings-boise-state-broncos",
-        "link_kind": "item",
-        "date": "2026-11-23T22:03:31+00:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NCAA. Throughout the year we ask questions of the most plugged-in Mountain West fans and fans across the country. Sign up here to participate in the weekly emailed surveys:",
-        "author": "Kyle Thele",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "b15a3cd1b9ad942f",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Fresno State bowl eligible, will face Oregon St in finale",
-        "link": "https://www.mwcconnection.com/fresno-state-bulldogs-football/96320/fresno-state-bowl-eligible-will-face-oregon-st-in-finale",
-        "link_kind": "item",
-        "date": "2026-11-23T20:00:00+00:00",
-        "summary": "Over the weekend the Fresno State Bulldogs got two huge pieces of news. First, they are bowl eligible for the second time in as many years under Matt Entz. Secondly, they know who their opponent will be for the flex schedule this Saturday night as the regular season comes to a close. This past Saturday [&#8230;]",
-        "author": "Adam Evarts",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "5e938d33eb593577",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "MWCConnection Recruiting Roundup 11-23-26. Lots of commits, lots of decommits.",
-        "link": "https://www.mwcconnection.com/pac-12-football-recruiting/96001/pac-12-football-recruiting-utah-state-aggies",
-        "link_kind": "item",
-        "date": "2026-11-23T19:00:00+00:00",
-        "summary": "It’s another week of the Recruiting Roundup. Recruiting presses on, as high school seasons wind down. Offers are still being handed out, but college programs have a strong idea of which players they are recruiting at this point in the cycle. This time of year continues to bring new commitments. This week saw a huge [&#8230;]",
-        "author": "Mike Wittmann",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "a046e1a974981580",
         "sport": "all",
         "medium": "text"
       },
@@ -307,20 +321,6 @@
         "channel_url": "",
         "source": "Pac-12 Conference",
         "id": "abd6d6a90b275180",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Beavers Cruise into Second Round of NCAA Tournament, Win 4-0 Over CSUB",
-        "link": "http://pac-12.com/news/2026/11/20/mens-soccer-beavers-cruise-into-second-round-of-ncaa-tournament-win-4-0-over-csub.aspx",
-        "link_kind": "item",
-        "date": "2026-11-19T21:49:36+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/Evan_Carlock_OSU.png\" /><br /><br />Sixth-seed Oregon State dispatched Cal State Bakersfield 4-0 in their first round match of the NCAA Tournament Thursday night in Corvallis from Paul Lorenz Field. Oregon State jumped all over the visiting Roadrunners with a pair of goals in the first seven minutes, and never let up, coasting to a victory, and a date in the second round with third-seeded Louisville on the road.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "c4317e4b016cf1bd",
         "sport": "all",
         "medium": "text"
       },
@@ -467,6 +467,20 @@
     ],
     "Boise State": [
       {
+        "title": "Week 13 Availability Report",
+        "link": "https://broncosports.com/news/2026/11/25/football-week-13-availability-report",
+        "link_kind": "item",
+        "date": "2026-11-26T03:00:00+00:00",
+        "summary": "<img alt=\"Colorado State Availability Report\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/cOLORADO_STATE.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "10be8e057959cd35",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "NFL Broncos: Week 12",
         "link": "https://broncosports.com/news/2026/11/25/football-nfl-broncos-week-12",
         "link_kind": "item",
@@ -536,6 +550,21 @@
         "id": "9e90dcec6eb8c3ed",
         "sport": "mbb",
         "medium": "text"
+      },
+      {
+        "title": "Coach Danielson Weekly 11-25-26",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/48a47644-b0b3-49d3-bbf1-1bb4bfcc2f02.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-11-25T06:00:00+00:00",
+        "summary": "<p>Coach Danielson Weekly 11-25-26</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3529,
+        "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network",
+        "source": "The Bronco Sports Podcast Network",
+        "id": "baf4f77abe46f857",
+        "extent": "59 min",
+        "sport": "all",
+        "medium": "audio"
       },
       {
         "title": "Potter Named Broyles Award Nominee",
@@ -800,20 +829,6 @@
         "channel_url": "",
         "source": "The Arbiter",
         "id": "e292595bd3ef391d",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "No. 15/15/17 Broncos Host Aztecs for Senior Night",
-        "link": "https://broncosports.com/news/2026/11/19/football-no-15-15-17-broncos-host-aztecs-for-senior-night",
-        "link_kind": "item",
-        "date": "2026-11-19T22:00:00+00:00",
-        "summary": "<img alt=\"SDSU Week 12 Preview\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/19/FB26-Game-Preview-WK12-SDSU.jpg\" /><br /><br />Colton Boomer, Roger Carreon, Oscar Doyle, Ben Ford, Demetrius Freeney Jr., Caden Kellow, Sterling Lane II, David Latu, Maddux Madsen, AJ Maes, Daylon Metoyer, Jaden Mickey, Jake Ripp, Austin Terry and Jayden Virgin-Morgan will be honored pregame.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "dc684a3c25c66ce6",
         "sport": "football",
         "medium": "text"
       },
@@ -1289,6 +1304,20 @@
     ],
     "Colorado State": [
       {
+        "title": "Rams Flip Script in Maui Finale",
+        "link": "https://csurams.com/news/2026/11/26/mens-basketball-rams-flip-script-in-maui-finale",
+        "link_kind": "item",
+        "date": "2026-11-26T09:41:00+00:00",
+        "summary": "<img alt=\"Pops Dunson\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/26/DSC07403.jpg\" /><br /><br />McIver beats the buzzer for the Rams",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "0e354a09a535ec9c",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "Six Years as Rams and No Regrets",
         "link": "https://csurams.com/news/2026/11/25/ramwire-six-years-as-rams-and-no-regrets",
         "link_kind": "item",
@@ -1315,6 +1344,21 @@
         "id": "6cf4997ed025e95a",
         "sport": "mbb",
         "medium": "text"
+      },
+      {
+        "title": "The Jim Mora Football Show 11-25-26",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/1ea58808-4c42-4b9b-bc7c-2e4ed57ef64a.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-11-25T06:00:00+00:00",
+        "summary": "<p>The Jim Mora Football Show 11-25-26</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 3476,
+        "channel_url": "https://art19.com/shows/the-colorado-state-insider",
+        "source": "The Colorado State Insider",
+        "id": "8376df0e7577858f",
+        "extent": "58 min",
+        "sport": "football",
+        "medium": "audio"
       },
       {
         "title": "Tracy Named Broyles Award Nominee",
@@ -1709,20 +1753,6 @@
         "source": "Colorado State Athletics",
         "id": "f9e20dba4503c1dd",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Rams Battle Back to Defeat Idaho",
-        "link": "https://csurams.com/news/2026/11/6/mens-basketball-rams-battle-back-to-defeat-idaho",
-        "link_kind": "item",
-        "date": "2026-11-07T05:45:00+00:00",
-        "summary": "<img alt=\"MBB\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/CB.jpg\" /><br /><br />Booth takes buzzer-beater to establish tone",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "b01d2eef309e6f62",
-        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -3718,6 +3748,48 @@
     ],
     "Oregon State": [
       {
+        "title": "Oregon State RBs, DBs expected to play vs. Fresno State",
+        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-running-backs-defensive-backs-in-line-to-play-vs-fresno-state.html",
+        "link_kind": "item",
+        "date": "2026-11-26T03:25:50+00:00",
+        "summary": "Backup running back Cornell Hatcher Jr. and receiver Aaron Butler are both listed as probable.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "bcb2863430ef9c57",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers Battle #12 Vanderbilt Behind Warpus & Villa",
+        "link": "https://osubeavers.com/news/2026/11/25/womens-basketball-beavers-battle-12-vanderbilt-behind-warpus-villa",
+        "link_kind": "item",
+        "date": "2026-11-26T03:05:00+00:00",
+        "summary": "<img alt=\"Warpus FT\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/IMG_4943.jpeg\" /><br /><br />Jenna Villa scored 17 points and made 5-of-9 3-pointers to lead a 47.6 percent effort from 3-point range. Maggie Warpus added a career-high 15 points on 5-of-10 shooting, including 3-of-5 from downtown.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "a5d338be0f0b63ab",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Offensive rebounds, free throws the difference for Oregon State in loss to No. 12 Vanderbilt",
+        "link": "https://www.oregonlive.com/beavers/2026/11/offensive-rebounds-free-throws-the-difference-for-oregon-state-womens-basketball-in-loss-to-no-12-vanderbilt.html",
+        "link_kind": "item",
+        "date": "2026-11-26T02:12:08+00:00",
+        "summary": "Jenna Villa scored 17 points and Maggie Warpus had 15 points and five rebounds for the Beavers in a 71-60 loss to the Commodores Wednesday afternoon in the Jacksonville Classic.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "cbf2b43debf6acc2",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Oregon State's motivation for Fresno State rematch goes beyond loss",
         "link": "https://www.oregonlive.com/beavers/2026/11/the-bold-trash-talk-that-turned-an-oregon-state-loss-into-a-heated-pac-12-rivalry.html",
         "link_kind": "item",
@@ -4602,20 +4674,6 @@
         "medium": "audio"
       },
       {
-        "title": "Field Trip Game Opens Week at Home for WBB",
-        "link": "https://osubeavers.com/news/2026/11/17/womens-basketball-field-trip-game-opens-week-at-home-for-wbb",
-        "link_kind": "item",
-        "date": "2026-11-17T16:05:00+00:00",
-        "summary": "<img alt=\"Lindemans, Keira\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/Lindemans_Keira-2.jpg\" /><br /><br />The Beavers will welcome 5,258 students and chaperones from 45 schools as a part of the event. Fans will be able to attend the game as well. The first 1,000 fans can enter through Gate 2 and sit in Sections A-D behind the bench and scorer's table.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "a43df16886153626",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Beavers Thrash Lions, Move to 5-0",
         "link": "https://osubeavers.com/news/2026/11/16/mens-basketball-beavers-thrash-lions-move-to-5-0",
         "link_kind": "item",
@@ -4762,6 +4820,20 @@
       }
     ],
     "San Diego State": [
+      {
+        "title": "Men's Hoops Set to Play Maryland Thursday at Players Era",
+        "link": "https://goaztecs.com/news/2026/11/25/mens-hoops-set-to-play-maryland-thursday-at-players-era",
+        "link_kind": "item",
+        "date": "2026-11-25T23:17:58+00:00",
+        "summary": "The Aztecs and Terrapins will tip off each team's second game of the event on Thursday morning at 10 a.m. PT with the game being broadcast on ESPN.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "5955c726adc3f71e",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Men's Hoops Downed by Iowa State, 81-68",
         "link": "https://goaztecs.com/news/2026/11/24/mens-hoops-downed-by-iowa-state-81-68",
@@ -6594,23 +6666,51 @@
         "id": "b9d011e0bcf83350",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "San Diego State Set to Take on The Team Up North in the Battle of the Old Oil Can",
-        "link": "https://goaztecs.com/news/2026/10/11/san-diego-state-set-to-take-on-the-team-up-north-in-the-battle-of-the-old-oil-can",
-        "link_kind": "item",
-        "date": "2026-10-12T03:53:20+00:00",
-        "summary": "The kickoff between the Aztecs (2-4, 1-1 Pac-12) and Bulldogs (4-2, 1-1 Pac-12) is set for 7:30 p.m. PT Saturday at Snapdragon Stadium.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "0f825f265b066074",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "Kielsmeier with 600 career wins, Bobcats get by Pacific to remain unbeaten",
+        "link": "https://universitystar.com/37296/sports/kielsmeier-with-600-career-wins-bobcats-get-by-pacific-to-remain-unbeaten/",
+        "link_kind": "item",
+        "date": "2026-11-26T05:58:23+00:00",
+        "summary": "Lay Fantroy and Saniya Burks each scored 20+ points  as the Texas State Bobcats extended their perfect start to six games and beat the Pacific Tigers 75-63 on Thanksgiving Eve at Strahan Arena. Fantroy, known for her defensive prowess, showcased her versatility and scored a career high 27 points to lead the Bobcats (6-0) while...",
+        "author": "Luke Landa, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "66b6c8072ed6b7b8",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Fantroy Posts Career Night in 75-63 Win Against Pacific",
+        "link": "https://txst.com/news/2026/11/25/womens-basketball-lay-fantroy-posts-career-night-in-75-63-win-against-pacific.aspx",
+        "link_kind": "item",
+        "date": "2026-11-26T04:38:00+00:00",
+        "summary": "<img alt=\"Lay Fantroy\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/261125_WBB_Pacific_ingame_BR-14.jpg\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "feb11537519631a2",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Strong second half keep the ‘Cats perfect, roll past Alcorn State",
+        "link": "https://universitystar.com/37294/sports/strong-second-half-keep-the-cats-perfect-roll-past-alcorn-state/",
+        "link_kind": "item",
+        "date": "2026-11-26T04:26:55+00:00",
+        "summary": "DJ Hall lead the way for the Bobcats  with a season-high 20 points as they defeated the Alcorn State Braves 97-70 Wednesday afternoon at Thomas Assembly Center in Ruston, Louisiana. A week after being named Pac-12 Defensive Player of the Week, DJ Hall continues to lead the Bobcats (8-0) on the offensive end as well....",
+        "author": "Ryan Keilman, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The University Star",
+        "id": "4b684e336a88dd79",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Bobcats’ Second Half Surge Fuels Eighth-Straight Victory",
         "link": "https://txst.com/news/2026/11/25/mens-basketball-bobcats-second-half-surge-fuels-eighth-straight-victory.aspx",
@@ -6920,20 +7020,6 @@
         "medium": "text"
       },
       {
-        "title": "Bobcats fall to Colorado State as Rams secure undefeated conference",
-        "link": "https://universitystar.com/37238/sports/bobcats-fall-to-colorado-state-as-rams-secure-undefeated-conference/",
-        "link_kind": "item",
-        "date": "2026-11-18T03:03:32+00:00",
-        "summary": "With the season drawing near it&#8217;s conclusion, the Texas State Bobcats fell to the Colorado State Rams in a straight-set sweep (25-16, 25-18, 25-16) to finish conference play undefeated and claim the Pac-12 regular-season championship Tuesday night at Moby Arena in Fort Collins, Colorado. The Bobcats (9-17, 4-11 Pac-12) entered the matchup looking to challenge...",
-        "author": "Crystal Creek, Sports Reporter",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "59aa692826f1903e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Texas State to Host UIW on Wednesday Night",
         "link": "https://txst.com/news/2026/11/17/mens-basketball-texas-state-to-host-uiw-on-wednesday-night.aspx",
         "link_kind": "item",
@@ -6959,20 +7045,6 @@
         "source": "Texas State Athletics",
         "id": "44f6ec6768015f71",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Texas State earns bowl eligibility, stays in Pac-12 title race",
-        "link": "https://universitystar.com/37188/sports/texas-state-earns-bowl-eligibility-stays-in-pac-12-title-race/",
-        "link_kind": "item",
-        "date": "2026-11-17T18:00:23+00:00",
-        "summary": "For the fourth straight season, the Texas State Bobcats became bowl eligible following a win against Fresno State and kept the hopes alive of reaching their first-ever Football Bowl Subdivision (FBS) level conference championship game. Texas State (6-4, 4-2 Pac-12) currently sits tied for second in the Pac-12 behind San Diego State, as the Aztecs...",
-        "author": "Ayden Oredson, Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The University Star",
-        "id": "897cde4a54332e16",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -7102,20 +7174,6 @@
         "medium": "text"
       },
       {
-        "title": "Women's Basketball Announces Signing of Lucianna Parrotta",
-        "link": "https://txst.com/news/2026/11/11/womens-basketball-announces-signing-of-lucianna-parrotta.aspx",
-        "link_kind": "item",
-        "date": "2026-11-11T19:43:00+00:00",
-        "summary": "<img alt=\"Lucianna Parrotta\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/Recruit-17.jpg\" /><br /><br />SAN MARCOS, Texas – Texas State Women's Basketball is excited to announce the signing of Lucianna Parrotta to the 2027 freshman class.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "f8ca12ac15332a74",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "WATCH: TXST Football Media Availability vs Fresno State (111026)",
         "link": "https://txst.com/news/2026/11/10/watch-txst-football-media-availability-vs-fresno-state-111026.aspx",
         "link_kind": "item",
@@ -7145,6 +7203,20 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "Aggies Open Acrisure Series With 93-59 Win Over SMU",
+        "link": "https://utahstateaggies.com/news/2026/11/25/mens-basketball-aggies-open-acrisure-series-with-93-59-win-over-smu.aspx",
+        "link_kind": "item",
+        "date": "2026-11-26T03:57:00+00:00",
+        "summary": "<img alt=\"MBB\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/DSC00455.jpg\" /><br /><br />Utah State men's basketball (6-0, 0-0 Pac-12) aced its first test of the season away from home, remaining perfect with a 93-59 neutral-site victory over SMU Wednesday night in the first of two games at the Acrisure Series at Acrisure Arena. This was the team's first win over an ACC opponent since 1977.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "6c8c19cf7917a3fe",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Women’s Basketball To Play in ZotGiving Classic This Weekend",
         "link": "https://utahstateaggies.com/news/2026/11/24/womens-basketball-womens-basketball-to-play-in-zotgiving-classic-this-weekend.aspx",
@@ -7609,20 +7681,6 @@
         "medium": "audio"
       },
       {
-        "title": "Aggies Host In-State Foe Utah Tech on Tuesday",
-        "link": "https://utahstateaggies.com/news/2026/11/9/mens-basketball-aggies-host-in-state-foe-utah-tech-on-tuesday.aspx",
-        "link_kind": "item",
-        "date": "2026-11-09T22:47:00+00:00",
-        "summary": "<img alt=\"MBB\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/DSC07896.jpg\" /><br /><br />Utah State men's basketball (2-0, 0-0 Pac-12) plays game three of its 2026-27 campaign this weekend as it welcomes the Utah Tech Trailblazers (1-1, 0-0 Big Sky) to the Dee Glen Smith Spectrum on Tuesday, Nov. 10. Game time is set for 7 p.m. The game will be streamed for free on the Pac-12's YouTube channel. Fans can also listen to Utah State's radio broadcast on 610 AM/102.1 FM in Logan and 1280 AM/97.5 FM in Salt Lake City.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "741c0eb0c6f48a4c",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Utah State Football Takes to the Road to Play San Diego State on Saturday",
         "link": "https://utahstateaggies.com/news/2026/11/9/utah-state-football-takes-to-the-road-to-play-san-diego-state-on-saturday.aspx",
         "link_kind": "item",
@@ -7768,6 +7826,20 @@
     ],
     "Washington State": [
       {
+        "title": "Top Takeaways: Sweeps, upsets, and an outdoor game",
+        "link": "https://dailyevergreen.com/202037/sports/hockey/top-takeaways-sweeps-upsets-and-an-outdoor-game/",
+        "link_kind": "item",
+        "date": "2026-11-26T05:34:17+00:00",
+        "summary": "Two weeks, three wins and no losses. It was a productive fortnight for Cougar hockey, sweeping San Jose State in two games and upsetting the Western Vikings in the Collegiate Classic in Winthrop. While the Cougs may be stuck in third place in the Pac-8, they showed exactly what kind of team they can be...",
+        "author": "SMITH SLYE, Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Daily Evergreen",
+        "id": "a47bcab73ac4c2e7",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Ex-WSU coach Nick Rolovich loses appeal in COVID-19 vaccine lawsuit",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/ex-wsu-coach-nick-rolovich-loses-appeal-in-covid-19-vaccine-lawsuit/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -7780,6 +7852,49 @@
         "id": "c3c36c866ab970bd",
         "sport": "football",
         "medium": "text"
+      },
+      {
+        "title": "Cougs in the NFL | Week 11",
+        "link": "https://wsucougars.com/news/2026/11/25/cougs-in-the-nfl-or-week-11",
+        "link_kind": "item",
+        "date": "2026-11-25T19:05:21+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "b5a987f0b07fabf3",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Women’s Hoops Set for Cancun Challenge",
+        "link": "https://wsucougars.com/news/2026/11/25/womens-hoops-set-for-cancun-challenge",
+        "link_kind": "item",
+        "date": "2026-11-25T16:55:46+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "85752b6db9ed08e4",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Cougar Football Hour 11-25-26 (Kirby Moore, Jonny Lester, Hudson Cedarland & Jack Procter)",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/76d4fe5f-0141-4282-afb8-5a4558a863f4.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-11-25T16:00:00+00:00",
+        "summary": "<p>Cougar Football Hour from 11-25-26 featuring guests Kirby Moore, Jonny Lester, Hudson Cedarland &amp; Jack Procter. </p>",
+        "author": "",
+        "duration": 3556,
+        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
+        "source": "Washington State Cougars Podcast",
+        "id": "df9d8993e8dbbecb",
+        "extent": "59 min",
+        "sport": "football",
+        "medium": "audio"
       },
       {
         "title": "Cougar Basketball Replay (WSU vs. Sam Houston) 11-24-26",
@@ -8390,20 +8505,6 @@
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "ee7cbfdb5c300a41",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Hockey under the stars: Cougs and Vikings battle in the Collegiate Classic",
-        "link": "https://dailyevergreen.com/201861/sports/hockey/hockey-under-the-stars-cougs-and-vikings-battle-in-the-collegiate-classic/",
-        "link_kind": "item",
-        "date": "2026-11-20T13:00:55+00:00",
-        "summary": "For the third straight season, the Cougs (13-7, 4-4 Pac-8) and Vikings (8-4, 5-3 Pac-8) are under the stars in Winthrop for the Collegiate Classic. Last season it was Western who slayed the Cougs 5-2 up north, and now WSU is back for revenge. It has been two years since the Cougs have bested the...",
-        "author": "SMITH SLYE, Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "1b3c8732d09b1c53",
         "sport": "all",
         "medium": "text"
       },
