@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-25T14:03:26.126454+00:00",
+  "generated_at": "2026-11-26T02:03:26.338570+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "This Week in Pac-12 Football - Week 13",
+        "link": "http://pac-12.com/news/2026/11/25/this-week-in-pac-12-football-week-13.aspx",
+        "link_kind": "item",
+        "date": "2026-11-25T14:55:01+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/This_week_in_v2.png\" /><br /><br />This Week in Pac-12 Football - Week 13 of the 2026 season",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "2563efb88ecb5ab2",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Mountaintop View 11-25-26: Coaching updates, CFP Rankings and more",
         "link": "https://www.mwcconnection.com/boise-state-broncos-football/96396/mountaintop-view-11-25-26-coaching-updates-cfp-rankings-and-more",
@@ -13,6 +27,20 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "4946f9dc95a2cf84",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Pac-12 Volleyball Players of the Week",
+        "link": "http://pac-12.com/news/2026/11/25/womens-volleyball-pac-12-volleyball-players-of-the-week.aspx",
+        "link_kind": "item",
+        "date": "2026-11-25T13:00:38+00:00",
+        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/23/AC_Froehlich_OSU.png\" /><br /><br />The Pac-12 today announced its Players of the Week for Women's Volleyball, highlighting key performances from the week that was, the final weekly honor of the season.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Pac-12 Conference",
+        "id": "51804d9321ae642c",
         "sport": "all",
         "medium": "text"
       },
@@ -297,20 +325,6 @@
         "medium": "text"
       },
       {
-        "title": "Pac-12 Women's Volleyball Championship Seeding is Set as Conference Slate Comes to a Close",
-        "link": "http://pac-12.com/news/2026/11/20/pac-12-womens-volleyball-championship-seeding-is-set-as-conference-slate-comes-to-a-close.aspx",
-        "link_kind": "item",
-        "date": "2026-11-19T21:22:26+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/CSU_winning_vs.png\" /><br /><br />The 2026 Pac-12 Women's Volleyball Championship seeding is now set, as Thursday night brought to a close the conference's regular season. Championship host Colorado State had wrapped its league campaign on Tuesday, claiming the regular season title with a 16-0 record. The tournament gets underway on Tuesday, Nov. 24, from Moby Arena in Fort Collins.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "8b78fcb8df68de30",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Andrej Stojakovic’s Historic Night at Cameron Indoor vs. Michael Jordan, Steph Curry and More",
         "link": "https://pressbreak.substack.com/p/andrej-stojakovics-historic-night",
         "link_kind": "item",
@@ -322,20 +336,6 @@
         "source": "Press Break",
         "id": "aee9810bc6ac4fc8",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "This Week in Pac-12 Football - Week 12",
-        "link": "http://pac-12.com/news/2026/11/19/this-week-in-pac-12-football-week-12.aspx",
-        "link_kind": "item",
-        "date": "2026-11-18T16:40:00+00:00",
-        "summary": "<img src=\"http://pac-12.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/9/2/This_week_in_v2.png\" /><br /><br />This Week in Pac-12 Football - Week 12 of the 2026 season",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Pac-12 Conference",
-        "id": "289fde9906d6eb7b",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -463,23 +463,66 @@
         "id": "f67837a6746a9055",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "UCLA’s Win at Oregon Marks A Meaningful Milestone in Year 1 Under Bob Chesney",
-        "link": "https://pressbreak.substack.com/p/uclas-win-at-oregon-marks-a-meaningful",
-        "link_kind": "item",
-        "date": "2026-10-11T17:23:20+00:00",
-        "summary": "With Wayne Knight emerging as a Heisman contender and UCLA scoring its first win at Oregon in 22 years, the Bruins exorcized some long-lingering demons.",
-        "author": "Kyle Kensing",
-        "duration": null,
-        "channel_url": "",
-        "source": "Press Break",
-        "id": "68c72919a69c3813",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Boise State": [
+      {
+        "title": "NFL Broncos: Week 12",
+        "link": "https://broncosports.com/news/2026/11/25/football-nfl-broncos-week-12",
+        "link_kind": "item",
+        "date": "2026-11-25T22:00:00+00:00",
+        "summary": "<img alt=\"NFL Broncos Week 12 webslider\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/FB26_Broncos_In_NFL_W12.jpg\" /><br /><br />Three Broncos to play on Thanksgiving, six featured on national television",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "0f0ddd9b65373066",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "The Green Dot",
+        "link": "https://broncosports.com/news/2026/11/25/b-1-features-the-green-dot",
+        "link_kind": "item",
+        "date": "2026-11-25T21:00:00+00:00",
+        "summary": "<img alt=\"Boen Phelps B1 Feature webslider\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/23/BSU26_B1_Feature_Template_WEB.jpg\" /><br /><br />Boen Phelps' journey from preferred walk-on to the communicator for the Bronco defense is a testament to what hard work and a blue-collar mentality can accomplish.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "c9303f4dcb985d73",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Boise State Ready for Daytona Beach Classic",
+        "link": "https://broncosports.com/news/2026/11/25/womens-basketball-boise-state-ready-for-daytona-beach-classic",
+        "link_kind": "item",
+        "date": "2026-11-25T17:00:00+00:00",
+        "summary": "<img alt=\"Keirra Thompson dribbling.\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/untitled-38.jpg\" /><br /><br />Boise State women's basketball will head to Daytona Beach, Fla., to compete in the Daytona Beach Classic. The Broncos will first take on Stetson on Friday, Nov. 27 at 8 a.m. MT, then Missouri on Saturday, Nov. 28 at 11:15 a.m. MT. The games will be streamed live on the BallerTV and broadcast on The Varsity Network.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "4bad4fd72bae97a2",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Off the Blue - Season 7, Episode 8 - AG Neto",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/d646c069-826a-4187-827d-d7ab26b126e6.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-11-25T07:00:00+00:00",
+        "summary": "<p>On this episode of the Off the Blue Podcast presented by Select Health, Boise State men’s basketball point guard AG Neto discusses his basketball journey coming from Angola, his role within the team’s exciting new offense, and much more.</p><p>Timestamps | 0:00 - 1:59 Intro, 2:00 - 4:59 - Speaking 4 Languages, 5:00 - 7:29 - Basketball Journey from Angola to Boise, 7:30 - 9:29- Adjusting to American Game, 9:30 - 11:59 - Running a new Offense, 12:00 - 13:59 - Developing Quickness, Dribble Moves, 14:00 - 14:59 - Soccer, Judo, Jiu Jitsu Background, 15:00 - 15:59 - Developing Defensively&nbsp;, 16:00 - 17:59 - Leaving a Legacy, Coaching Staff, 18:00 - 18:59 - In the Classroom, 19:00 - 21:59 - Outro, Team Goals&nbsp;</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+        "author": "",
+        "duration": 1319,
+        "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network",
+        "source": "The Bronco Sports Podcast Network",
+        "id": "1155efa5fd13370d",
+        "extent": "22 min",
+        "sport": "all",
+        "medium": "audio"
+      },
       {
         "title": "Broncos Down Bengals at Home",
         "link": "https://broncosports.com/news/2026/11/24/mens-basketball-broncos-down-bengals-at-home",
@@ -775,20 +818,6 @@
         "medium": "text"
       },
       {
-        "title": "From West Baltimore to Boise: A Journey Fueled by Football",
-        "link": "https://broncosports.com/news/2026/11/19/a-long-way",
-        "link_kind": "item",
-        "date": "2026-11-19T21:00:00+00:00",
-        "summary": "<img alt=\"B1 Feature Web Slider: Akeem Wright\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/BSU26_B1_Feature_Template_WEB__2_.jpg\" /><br /><br />",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "ba98dc9ca802720f",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "Boise State Hosts Sam Houston on Friday Night",
         "link": "https://broncosports.com/news/2026/11/19/mens-basketball-boise-state-hosts-sam-houston-on-friday-night",
         "link_kind": "item",
@@ -800,20 +829,6 @@
         "source": "Boise State Athletics",
         "id": "8437e0a2521e3beb",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Week 12 Availability Report",
-        "link": "https://broncosports.com/news/2026/11/18/football-week-12-availability-report",
-        "link_kind": "item",
-        "date": "2026-11-19T03:00:00+00:00",
-        "summary": "<img alt=\"SDSU Availability Report\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/FB25_Availability_Report_WEB.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "2db6bbb524e9442c",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -1183,20 +1198,6 @@
         "medium": "text"
       },
       {
-        "title": "Presnell Earns 400th Win at Boise State",
-        "link": "https://broncosports.com/news/2026/11/6/womens-basketball-presnell-earns-400th-win-at-boise-state",
-        "link_kind": "item",
-        "date": "2026-11-07T03:41:00+00:00",
-        "summary": "<img alt=\"Mason Quinn shooting.\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/DSC02062.jpg\" /><br /><br />Boise State defeated Portland State 83-68 on Friday for head coach Gordy Presnell's 400th win as a Bronco.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "7a1cb7fc3456f26f",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Broncos Host Butler on USA Network",
         "link": "https://broncosports.com/news/2026/11/6/mens-basketball-broncos-host-butler-on-usa-network",
         "link_kind": "item",
@@ -1287,6 +1288,20 @@
       }
     ],
     "Colorado State": [
+      {
+        "title": "Six Years as Rams and No Regrets",
+        "link": "https://csurams.com/news/2026/11/25/ramwire-six-years-as-rams-and-no-regrets",
+        "link_kind": "item",
+        "date": "2026-11-25T19:00:00+00:00",
+        "summary": "<img alt=\"RW\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/24/captains2.jpg\" /><br /><br />Mitchell, Wa-Kalonji share the field one last time at CSU",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "4c13683d7f355749",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Buzzer-Beater Sinks Rams in Maui",
         "link": "https://csurams.com/news/2026/11/25/mens-basketball-buzzer-beater-sinks-rams-in-maui",
@@ -1538,20 +1553,6 @@
         "source": "Colorado State Athletics",
         "id": "8c080802d0d7d4b0",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Game Week: at Fresno State",
-        "link": "https://csurams.com/news/2026/11/17/football-game-week-at-fresno-state",
-        "link_kind": "item",
-        "date": "2026-11-17T20:50:00+00:00",
-        "summary": "<img alt=\"Game Week vs. Fresno State\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/FB26_-_Game_Week_FS.png\" /><br /><br />Colorado State stays on the road and heads to Fresno for final road trip.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "e33c762025509c22",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -2785,6 +2786,20 @@
     ],
     "Gonzaga": [
       {
+        "title": "MBB Faces Baylor in Players Era Semifinals",
+        "link": "https://gozags.com/news/2026/11/25/mens-basketball-mbb-faces-baylor-in-players-era-semifinals",
+        "link_kind": "item",
+        "date": "2026-11-25T23:07:00+00:00",
+        "summary": "<img alt=\"Harwell Almansa\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/NSH08158.jpg\" /><br /><br />LAS VEGAS – Gonzaga faces Baylor in the semifinals of the Players Era 16 inside T-Mobile Arena in Las Vegas at 8:30 p.m. It's the ninth all-time meeting between the programs.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "9f6b6d0fabf58bc0",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "No. 22 Gonzaga routs Kansas State 101-61 in Players Era 16",
         "link": "https://gozags.com/news/2026/11/25/mens-basketball-no-22-gonzaga-routs-kansas-state-101-61-in-players-era-16",
         "link_kind": "item",
@@ -2796,6 +2811,34 @@
         "source": "Gonzaga Athletics",
         "id": "13ba911caee5cbc2",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Brothers Dylan, Kayden Mingo pacing Baylor in multiple categories this season | Key matchup",
+        "link": "http://www.spokesman.com/stories/2026/nov/25/brothers-dylan-kayden-mingo-pacing-baylor-in-multi/",
+        "link_kind": "item",
+        "date": "2026-11-25T00:00:00+00:00",
+        "summary": "<p>LAS VEGAS – There hasn’t been much separating Dylan and Kayden Mingo on the stat sheet this season and the brothers from Baylor sat side-by-side at a press conference Tuesday night after contributing 33 points, 12 rebounds, six assists, three steals and two blocks to a 68-63 victory over Alabama at the Players Era 16.</p><p>“I’d just say it’s great to be on the court with him,” said Kayden, a sophomore guard averaging 15.7 points, 4.5 rebounds and 4.2 assists for the Bears. “I always feel like I have a chance and no matter what the score is, I know he’s going to fight for me the same way he fights for the rest of our teammates and I know I’m going to do the same for him. So it’s been great playing with him and it’s a blessing.”</p><p>Dylan, a freshman wing averaging 13.0 ppg, 5.5 rpg and 2.8 apg, offered the same thoughts and sentiments speaking to reporters after Baylor’s opening game in Vegas.</p><p>“We kind of have the same mentality, we have a lot to prove and I kind of feel like we’ve been underlooked our whole life,” he said. “So we’re just blessed to be able to have a chance to prove it at the highest level.”</p><p>The same last name should pop up a few-dozen times on Gonzaga’s scouting report before Thursday’s 8:30 p.m. (ESPN) matchup between the 22nd-ranked Bulldogs and Bears at T-Mobile Arena.</p><p>The Mingo brothers respectively rank first and third in scoring at Baylor, combining to average 28.7 ppg. They’re the top two rebounders, with Dylan posting 5.5 boards per game and Kayden adding another 15. If that wasn’t enough, they’ve also been coach Scott Drew’s most reliable perimeter defenders. Dylan owns one of the Big 12’s best averages at 2.7 steals per game while Kaden comes in at 1.7 spg.</p><p>Before transferring to Baylor this offseason, the 6-foot-1 Kayden averaged 13.7 ppg, 4.3 apg, 3.5 rpg and 2.1 spg as a freshman at Penn State. He originally committed to the Nittany Lions as the No. 34 high school prospect in America and top-rated recruit in school history. Younger brother Dylan, who stands four inches taller, brings a stronger recruiting pedigree to Baylor, as the 15th-rated player in the class of 2026 and country’s third-rated combo guard, according to 247Sports.com.</p><p>Together, they’ll provide a stiff defensive challenge for a Gonzaga team coming off a 101-point performance on Tuesday against Kansas State. The Zags are averaging 88.4 points per game this season, but Thursday will be a good litmus test against a Baylor team limiting its opponents to just 62.0.</p><p>Kayden Mingo or 6-foot guard Brett Decker Jr. will likely match up with Gonzaga point guard Xaivian Lee, with the other player assigned to Isiah Harwell. The Bears will turn to Dylan Mingo to guard Davis Fogle, who’s still leading the Zags at 16.8 ppg after a nine-point effort against Kansas State.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "8790f1dec3439ed4",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga expecting much bigger challenge from second Big 12 opponent at Players Era 16",
+        "link": "http://www.spokesman.com/stories/2026/nov/25/gonzaga-expecting-much-bigger-challenge-from-secon/",
+        "link_kind": "item",
+        "date": "2026-11-25T00:00:00+00:00",
+        "summary": "<p>LAS VEGAS – The 2021 national championship is ancient history for some, but Mark Few experienced some jarring flashbacks earlier this week as he sat down to review film of the Baylor squad awaiting his Gonzaga team Thursday in a second-round matchup (8:30 p.m., ESPN) at the Players Era 16.</p><p>Casual college basketball observers probably won’t realize the Zags (4-1) and Bears (5-1) have actually played twice since meeting on the final night of the 2020-21 college basketball season.</p><p>After Baylor spoiled Gonzaga’s perfect season with an 86-70 national championship triumph in Indianapolis, the Bears picked up a 64-63 neutral-site victory in Sioux Falls, S.D., during the 2022-23 season. Two years later, the Zags humiliated Baylor on opening night, flattening the Bears 101-63 at Numerica Veterans Arena.</p><p>But there weren’t any callbacks to either of those two games, or Gonzaga’s 83-71 victory in the 2019 NCAA Tournament Round of 32 at Salt Lake City, when Few previewed the upcoming matchup during a postgame interview that finished after midnight following GU’s 101-61 rout of Kansas State on Tuesday.</p><p>“We’ve got a big test on Thursday, man,” Few said. “Baylor’s defense looked terrific tonight (against Alabama). They looked like they’re back in form like their ‘21 team, kind of. Just their guards really getting up and getting after you and good perimeter play. Then just bigs protecting the rim and playing with great energy and effort and physicality. It’s going to be a tough one.”</p><p>After Few referenced the 2021 game, a reporter used the opportunity to follow up with Gonzaga’s coach and ask if the 16-point loss at Lucas Oil Stadium still elicits painful memories.</p><p>“First of all, it’s still a good memory to make it all the way to the national championship game, let’s not lose sight of that,” Few said. “But yeah man, tough night that night. Every year is different, we’ve had a lot of good battles with them, good scrimmages with them. We’ve had closed door scrimmages with them over the years, Scott’s a good friend, I have great respect for their program. It’ll be a huge challenge.”</p><p>Gonzaga would’ve drawn a familiar opponent regardless of how Tuesday’s first-round game between Baylor and Alabama went. Since 2021, the Zags have played the Bears and Crimson Tide on three occasions each. Stylistically speaking, however, the two programs might as well be polar opposites.</p><p>The Bears limited Alabama’s dynamic offense – previously averaging 99.4 points – to just 63 on Tuesday. Prior to that, the Tide had scored at least 82 points in each of its five games and hadn’t been contained to 63 since March of 2023. Newly-hired assistant Jerome Tang effectively served as Baylor’s defensive coordinator from 2017-22 before becoming the head coach at Kansas State.</p><p>Tang, who watched Gonzaga dominate his former school from a sideline seat at T-Mobile Arena on Tuesday night, wasn’t on Drew’s staff for the last two meetings between the Zags and Bears, but he’ll likely have a big role in building the defensive game plan ahead of Thursday’s matchup.</p><p>This Baylor roster may lack an All-American-caliber defender like the 2021 team had in Davion Mitchell, but the Bears are athletic on the perimeter with brothers Dylan and Kayden Mingo, and formidable in the post with Elijah Williams and Juslin Bodo Bodo spearheading Drew’s signature “no-middle” defense.</p><p>“That perimeter play is really dynamic and can hurt you a lot of ways,” Few said. “Then those bigs. Those bigs are just relentless. They’re athletic and they play with great energy and they play with great force. It’s nothing easy and frankly they foul the wholly heck out of you on every possession.</p><p>“That’s Tang coaching them up on that. That’s what they did to us in that championship and you’ve just got to deal with it. But yeah, kind of all the above.”</p><p>Baylor grabbed Few’s attention in October when the Bears picked up impressive exhibition wins over Florida and Illinois teams now ranked No. 3 and 4 in the country. The Bears’ only setback was a three-point loss to No. 7 Texas in a neutral-site game on Nov. 15.</p><p>“With what they did in the exhibition season and what they’ve done so far, I don’t know if anyone’s got a better resume than them,” Few said. “They really took it to some guys in the exhibition season. We’re all trying in these exhibitions even though they call them an exhibition. It’s been impressive, Scott’s done a wonderful job.”</p><p>Braden Huff is the only member of Gonzaga’s current roster who appeared in the 2024 game against Baylor, but the Zags have multiple Big 12 transfers that should be slightly familiar with the Bears.</p><p>Former Houston guard Isiah Harwell had his second-highest scoring Big 12 game against Baylor last season, putting up 12 points in a 77-55 win. First-year Gonzaga center Massamba Diop reached double figures in both of his matchups against the Bears, posting a 10-point, 10-rebound double-double in a 73-68 regular-season loss and scoring 11 points during an 83-79 win in the Big 12 Tournament.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "5b9ff74c68d5f635",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -3379,34 +3422,6 @@
         "medium": "text"
       },
       {
-        "title": "No offense to LSU – or Gonzaga – but there has to be a better path forward in age of NIL | Ralph Walter",
-        "link": "http://www.spokesman.com/stories/2026/nov/14/no-offense-to-lsu-or-gonzaga-but-there-has-to-be-a/",
-        "link_kind": "item",
-        "date": "2026-11-14T00:00:00+00:00",
-        "summary": "<p>Moments after Gonzaga and LSU tipped off Saturday afternoon at Numerica Veterans Arena, Zags player No. 5 used a nifty move to drive past his man and hit a short jumper for the game’s first basket. A bit later, No. 2 pressed full-court, stole the ball and fed a streaking No. 13 for a two-handed slam that sent the packed house into a frenzy.</p><p>My apologies, still putting names with faces – and numbers.</p><p>In a bruising game that matched the Zags’ seven veteran transfers – along with holdovers Braden Huff and Davis Fogle – against a talented Tigers team boasting even more seasoned newcomers, it was 22-year-old ex-UCLA guard Donovan Dent who drilled a 3-pointer with a second left to beat 14th-ranked GU, 81-80.</p><p>With its electric atmosphere, stomping student section and unmistakable championship intensity, Saturday’s contest felt like most big Gonzaga games.</p><p>So why does it all feel so empty?</p><p>Is it because the college game has devolved into 20-something rentals battling fellow 20-something rentals? Or maybe the endless roster shakeups that have left fans feeling like they don’t know any players anymore? Perhaps it’s the greed-fueled dissolution of traditional leagues and rivalries? Or is it that we seem to spend more time following eligibility proceedings in courts rather than action on them?</p><p>Whatever the reasons, college athletics – specifically basketball and football – seem broken.</p><p>To be fair, this is much bigger than Gonzaga vs. LSU. It’s happening all across the nation, at all levels.</p><p>But Saturday’s game at the Arena offered more proof that college sports have lost their way.</p><p>Combined, the GU and LSU rosters reportedly earn somewhere north of $30 million. The average age of the Tigers’ starting five is slightly higher than what the San Antonio Spurs trotted out during the NBA playoffs last spring.</p><p>Controversial LSU coach Will Wade, who returned this season after the school fired him for alleged NCAA infractions in 2022, added three players with international professional experience and seven college transfers who have combined to play at 21 different schools. That doesn’t include RJ Luis, who spent the past year and a half away from the college game and seemed destined to remain ineligible because of SEC rules. He was granted a preliminary injunction on Friday, and according to social media tried unsuccessfully to catch a plane for Spokane in time to join his teammates. Luis, who began his career at UMass, played two seasons for St. John’s from 2023-25. He eventually played in three NBA preseason games with the Boston Celtics in 2025 before getting cut. He’ll be 24 in two weeks.</p><p>Wade has been steadfast in his recruiting approach, saying in September, “We’re going to be unapologetic. This is who we are. This is what we’re doing.”</p><p>Gonzaga’s path to fifth-year transfers hasn’t entirely been its own doing. GU’s returning core of Braden Huff, Davis Fogle and Mario Saint-Supery from last season were all original Zag recruits. But Saint-Supery bolted for a Spanish professional team in July, and heralded German recruit Jack Kayil chose to forgo Spokane for the NBA draft.</p><p>Those late departures further pushed coach Mark Few and his staff into the “5-in-5” pool, where they landed Xaivian Lee, Javon Bennett and Chauncey Wiggins, three players who are each playing for their third school. Wiggins, who became eligible on Thursday, played three games for the Boston Celtics at Summer League in July.</p><p>GU added two other transfers: Nathan De Sousa, a senior on his last year of eligibility whose resumé includes five seasons playing professionally in France; and junior Izan Almansa, who’s played three seasons of professional basketball, most recently for Real Madrid after not hearing his name called in the 2025 NBA draft.</p><p>Against LSU, several of the first-year Zags had their moments in a game that saw GU surrender a 13-point, second-half lead. Isiah Harwell, the sophomore transfer from Houston, scored 14 points, Almansa had eight points and seven rebounds, and the pesky Bennett came off the bench to provide six points and five assists.</p><p>On paper, this Gonzaga roster is big, deep and primed to make another deep NCAA run.</p><p>But at what cost? College basketball has nothing to do with college now. It’s hard to imagine any of these guys actually showing up to class or interacting with fellow students at College Hall.</p><p>School loyalty used to mean something. But it’s severely one-sided at the moment, with fans paying more and more to watch players – and coaches – come and go at the bounce of a ball. Two nosebleeds to Saturday’s game were going for well over 100 bucks.</p><p>This here-today, gone-tomorrow approach is taking a toll. CBS Sports reported that in 2025-26 only 22 scholarship seniors across the power conferences spent their entire careers where they started.</p><p>These new Zags all seem like good guys. They’re obviously talented and will win plenty of games. And their coach has showed loyalty, staying in Spokane for decades while richer programs came-a-calling.</p><p>But being a fan in 2026 feels hollow, like we’re only cheering on the jersey without knowing the player wearing it.</p><p>Even with NIL and the transfer portal, it doesn’t have to be this way.</p><p>A year ago, Michigan State’s Tom Izzo was quoted as saying, “When I go in the portal, the first place I go is my locker room. I want to keep most of the guys on my team.”</p><p>Izzo’s Spartans, who are 4-0 and ranked No. 5, returned nearly everyone from a season ago, picking up just one transfer while losing another one.</p><p>That was always the Gonzaga way. Over the years we watched as raw freshmen developed into true Zags – the Ronny Turiafs, the Steven Grays, the Corey Kisperts, the Anton Watsons. Braden Huff and Davis Fogle are following that tradition. Maybe a couple of current GU freshmen will be able to stick around long enough to make that same leap in the coming years.</p><p>At least that’s what we ought to be rooting for.</p><p>Otherwise, as Jerry Seinfeld once said about professional sports, we’re just rooting for laundry.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "9a92c32ec4748ebd",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Donovan Dent's clutch shots help Tigers upset Bulldogs | Difference makers",
-        "link": "http://www.spokesman.com/stories/2026/nov/14/gonzaga-lsu-difference-makers-donovan-dents-clutch/",
-        "link_kind": "item",
-        "date": "2026-11-14T00:00:00+00:00",
-        "summary": "<p><strong>Offensive difference maker:</strong> Through the first 20 minutes, the best player on the court was unquestionably LSU guard <strong>Donovan Dent</strong>. The fifth-year transfer from UCLA scored 16 points in the opening half, including a banked-in 3-pointer at the halftime buzzer to give LSU a 2-point lead at the break. Dent was much more quiet in the second half, scoring just four points before hitting the afternoon’s biggest shot – a game-winning 3-pointer with 1.5 seconds remaining. Dent – a transfer target of Gonzaga this summer – finished with 23 points and 10 assists.</p><p><strong>Defensive difference maker:</strong> It took just 1 minute, 45 seconds for Gonzaga starting point guard Xaivian Lee to pick up a pair of personal fouls, forcing Gonzaga coach Mark Few to turn to his bench and reserve guard <strong>Javon Bennett</strong>. The fifth-year Dayton transfer took advantge of the opportunity and was a menace on the defensive end of the floor for the Zags, nabbing four steals and dishing our five assists in his 23 minutes of action.</p><p><span class=\"print_trim\"><strong>Key moment:</strong></span> With the Bulldogs up by two points with 12 seconds remaining, Gonzaga guard Davis Fogle missed the back-end of a 1-and-1, giving LSU and Dent the ball back with a chance to go for the tie or win. Dent got isolated on newly-eligible Gonzaga wing Chauncey Wiggins on the perimeter and <strong>hit a 25-foot triple</strong> over Wiggins’ outstretched arms to secure the upset for LSU.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "1fa1789da8582a71",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "LSU Game Preview",
         "link": "https://houseofkrause.substack.com/p/lsu-game-preview",
         "link_kind": "item",
@@ -3516,20 +3531,6 @@
         "source": "The Spokesman-Review",
         "id": "e0e94c2a80040a37",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "MBB Welcomes NMSU for Home Opener",
-        "link": "https://gozags.com/news/2026/11/5/mens-basketball-mbb-welcomes-nmsu-for-home-opener",
-        "link_kind": "item",
-        "date": "2026-11-05T19:06:00+00:00",
-        "summary": "<img alt=\"Almansa Purdue\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/5/DSC00661.jpg\" /><br /><br />SPOKANE, Wash. – Gonzaga hosts New Mexico State in the first regular season home game of 2026-27 inside the McCarthey Athletic Center Saturday at 2 p.m.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "f21eaa526a75e635",
-        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -3716,6 +3717,48 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "Oregon State's motivation for Fresno State rematch goes beyond loss",
+        "link": "https://www.oregonlive.com/beavers/2026/11/the-bold-trash-talk-that-turned-an-oregon-state-loss-into-a-heated-pac-12-rivalry.html",
+        "link_kind": "item",
+        "date": "2026-11-26T00:32:21+00:00",
+        "summary": "A Fresno State cornerback wanted 'all the smoke,' and the Bulldogs' staff revealed OSU's offensive tendencies after a blowout win. The Beavers haven't forgotten.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "ae634ae2ddf9bfb8",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2027 safety flips commitment from Oregon State to Sacramento State",
+        "link": "https://www.oregonlive.com/recruiting/2026/11/2027-safety-flips-commitment-from-oregon-state-to-sacramento-state.html",
+        "link_kind": "item",
+        "date": "2026-11-25T20:10:07+00:00",
+        "summary": "The first defensive player to commit to Oregon State’s 2027 recruiting class is now the first defensive player to decommit from the Beavers.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "6551b01aa6ebe1f2",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Beavers roll to 8-0 with dominant win over San Francisco",
+        "link": "https://www.oregonlive.com/beavers/2026/11/6-score-in-double-figures-for-oregon-state-basketball-in-wire-to-wire-win-over-san-francisco.html",
+        "link_kind": "item",
+        "date": "2026-11-25T15:23:15+00:00",
+        "summary": "DeShawn Gory had 14 points, six rebounds and nine assists to lead the Beavers in an 87-73 wire-to-wire win over the Dons",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "817ac65a0b596d89",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Beavers Take Down USF, Move to 8-0",
         "link": "https://osubeavers.com/news/2026/11/24/mens-basketball-beavers-take-down-usf-move-to-8-0",
@@ -4502,34 +4545,6 @@
         "medium": "text"
       },
       {
-        "title": "Oregon State on the rise, but questions linger for Utah State",
-        "link": "https://www.oregonlive.com/beavers/2026/11/cbs-analyst-sees-more-questions-for-utah-state-than-oregon-state.html",
-        "link_kind": "item",
-        "date": "2026-11-19T01:25:03+00:00",
-        "summary": "CBS analyst Robert Turbin sees Oregon State's offense as a strength but questions Utah State's ability to compete offensively, citing inconsistent quarterback play and a lack of elite talent.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "83441d206f353869",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon, Oregon State rivalry returns to Portland after 28 years",
-        "link": "https://www.oregonlive.com/collegebasketball/2026/11/new-look-oregon-oregon-state-basketball-to-face-off-at-moda-center.html",
-        "link_kind": "item",
-        "date": "2026-11-19T01:04:42+00:00",
-        "summary": "Oregon and Oregon State renew their rivalry at Moda Center for the first time since 1996, with new coaches Tony Stubblefield and Justin Joyner leading their respective undefeated teams.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "974ac2c52cf2f8de",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Beavers Victorious in Front of Field Trip Day Crowd",
         "link": "https://osubeavers.com/news/2026/11/18/womens-basketball-beavers-victorious-in-front-of-field-trip-day-crowd",
         "link_kind": "item",
@@ -4541,48 +4556,6 @@
         "source": "Oregon State Athletics",
         "id": "c508930948a83b3a",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Portland, Oregon State earn bids to NCAA men's soccer tournament",
-        "link": "https://www.oregonlive.com/beavers/2026/11/oregons-top-mens-soccer-programs-return-to-ncaa-tournament-action.html",
-        "link_kind": "item",
-        "date": "2026-11-19T00:24:07+00:00",
-        "summary": "Oregon's only two Division I men's soccer programs, Portland and Oregon State, both earned No. 6 seeds and will host first-round NCAA Tournament games Thursday.",
-        "author": "Scott Sepich",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "9293afdf9e71308b",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State grinds out win, but Rueck wants more",
-        "link": "https://www.oregonlive.com/beavers/2026/11/kennedie-shuler-oregon-state-womens-basketball-grind-past-uc-riverside.html",
-        "link_kind": "item",
-        "date": "2026-11-18T23:33:36+00:00",
-        "summary": "Shuler had 18 points, eight rebounds and nine assists in an ugly 64-57 win over UC Riverside Wednesday afternoon at Gill Coliseum",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "22fe4c22ba9cedeb",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State guard Ashley Uusitalo likely out for the season",
-        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-womens-basketball-guard-likely-out-for-the-season.html",
-        "link_kind": "item",
-        "date": "2026-11-18T22:00:07+00:00",
-        "summary": "Freshman guard Ashley Uusitalo is likely done for the season after a knee injury, leaving Oregon State with three guards sidelined and coach Scott Rueck exploring roster additions.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "c1fde97136efc26d",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -5012,6 +4985,20 @@
         "source": "The Daily Aztec",
         "id": "e6dd3fcef16ff6ec",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "What to Watch For - Boise State Football",
+        "link": "https://goaztecs.com/news/2026/11/21/what-to-watch-for-boise-state-football",
+        "link_kind": "item",
+        "date": "2026-11-21T20:00:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "50e469b964feaf65",
+        "sport": "football",
         "medium": "text"
       },
       {
@@ -6170,6 +6157,20 @@
         "medium": "text"
       },
       {
+        "title": "What to Watch For - Colorado State Football",
+        "link": "https://goaztecs.com/news/2026/10/24/what-to-watch-for-colorado-state-football",
+        "link_kind": "item",
+        "date": "2026-10-24T19:30:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "9d89d0b0e4c5975a",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Men’s Hoops fall to Southern California, 85-68, in Home Exhibition Game",
         "link": "https://goaztecs.com/news/2026/10/23/mens-hoops-fall-to-southern-california-85-68-in-home-exhibition-game",
         "link_kind": "item",
@@ -6482,6 +6483,20 @@
         "medium": "text"
       },
       {
+        "title": "What to Watch For - Utah State",
+        "link": "https://goaztecs.com/news/2026/10/14/what-to-watch-for-utah-state",
+        "link_kind": "item",
+        "date": "2026-10-14T18:20:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "b9e3f7c6bef6e269",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
         "title": "Broadcast Partners and Tip Times for 2026-27 Games Revealed",
         "link": "https://goaztecs.com/news/2026/10/14/broadcast-partners-and-tip-times-for-2026-27-games-revealed",
         "link_kind": "item",
@@ -6596,6 +6611,20 @@
       }
     ],
     "Texas State": [
+      {
+        "title": "Bobcats’ Second Half Surge Fuels Eighth-Straight Victory",
+        "link": "https://txst.com/news/2026/11/25/mens-basketball-bobcats-second-half-surge-fuels-eighth-straight-victory.aspx",
+        "link_kind": "item",
+        "date": "2026-11-26T00:38:00+00:00",
+        "summary": "<img alt=\"Robert Fields\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/DSC01836.jpg\" /><br /><br />RUSTON, La. – Texas State (8-0) dominated the second half and pulled away from Alcorn State (0-8) 97-70 on Wednesday afternoon at the Thomas Assembly Center to improve to 8-0. It's the second-best start in program history, behind only the 1951-52 team's 29-0 opening. The 27-point win was also the Bobcats' fifth straight by 20 or more points over a Division I opponent, extending a streak that's a first in the program's Division I era.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "cab4b6bce7b48c70",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Texas State to Meet Alcorn State in Ruston",
         "link": "https://txst.com/news/2026/11/24/mens-basketball-texas-state-to-meet-alcorn-state-in-ruston.aspx",
@@ -7027,20 +7056,6 @@
         "channel_url": "",
         "source": "Texas State Athletics",
         "id": "5bad10db987da300",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Bobcats Pull Away from Golden Eagles in 85-65 Friday Night Victory",
-        "link": "https://txst.com/news/2026/11/13/mens-basketball-bobcats-pull-away-from-golden-eagles-in-85-65-friday-night-victory.aspx",
-        "link_kind": "item",
-        "date": "2026-11-14T05:12:00+00:00",
-        "summary": "<img alt=\"DJ Hall, Ronald Jessamy, KJ Younger After Whistle\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/13/261113_MBB_ingame_1st_KH-09792.jpg\" /><br /><br />SAN MARCOS, Texas – Ronald Jessamy scored a team-high 15 points on a perfect night from the field as Texas State (4-0) pulled away from Southern Miss for an 85-65 (2-2) win on Friday night at Strahan Arena. The Bobcats are 4-0 for the first time since the 1980-81 season.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "e46c598927353b30",
         "sport": "mbb",
         "medium": "text"
       },
@@ -7753,6 +7768,77 @@
     ],
     "Washington State": [
       {
+        "title": "Ex-WSU coach Nick Rolovich loses appeal in COVID-19 vaccine lawsuit",
+        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/ex-wsu-coach-nick-rolovich-loses-appeal-in-covid-19-vaccine-lawsuit/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
+        "link_kind": "item",
+        "date": "2026-11-26T00:08:25+00:00",
+        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/11/11252026_tzr_tzr_155939.jpg?d=1200x630\"><br/>Former WSU coach Nick Rolovich lost his appeal against the university that stemmed from his firing for refusing to get the COVID-19 vaccine.",
+        "author": "Mitchell Roland",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Seattle Times",
+        "id": "c3c36c866ab970bd",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Cougar Basketball Replay (WSU vs. Sam Houston) 11-24-26",
+        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/e8f457c0-478b-48b2-ae1a-cccf424d62fc.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
+        "link_kind": "enclosure",
+        "date": "2026-11-25T16:00:00+00:00",
+        "summary": "<p>Full game broadcast from WSU's 80-73 win vs Sam Houston on 11-24-26.</p>",
+        "author": "",
+        "duration": 11236,
+        "channel_url": "https://art19.com/shows/wsu-coors-light-cougar-podcast",
+        "source": "Washington State Cougars Podcast",
+        "id": "e2199376a9489c0f",
+        "extent": "3h 7m",
+        "sport": "all",
+        "medium": "audio"
+      },
+      {
+        "title": "WSU MBB: Highlights vs. Sam Houston | 11/24/26",
+        "link": "https://wsucougars.com/news/2026/11/24/wsu-mbb-highlights-vs-sam-houston-112426",
+        "link_kind": "item",
+        "date": "2026-11-25T05:32:43+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "4d6a6c467d723a21",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "WSU MBB: David Riley | Jamari Phillips | Jaylen Harrell | Sam Houston Postgame | 11/24/26",
+        "link": "https://wsucougars.com/news/2026/11/24/wsu-mbb-david-riley-jamari-phillips-jaylen-harrell-sam-houston-postgame-112426",
+        "link_kind": "item",
+        "date": "2026-11-25T04:52:27+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "b3222352c09c83a5",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Phillips Gives Big Spark Off The Bench In WSU’s Gritty Win",
+        "link": "https://wsucougars.com/news/2026/11/24/phillips-gives-big-spark-off-the-bench-in-wsus-gritty-win",
+        "link_kind": "item",
+        "date": "2026-11-25T04:36:28+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "2aa75aa48614b2a9",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "WSU football’s Kirby Moore clarifies remarks, plus Cougars’ emerging RB",
         "link": "https://www.seattletimes.com/sports/wsu-cougar-football/wsu-footballs-kirby-moore-clarifies-remarks-plus-cougars-emerging-rb/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
         "link_kind": "item",
@@ -8318,34 +8404,6 @@
         "channel_url": "",
         "source": "The Daily Evergreen",
         "id": "1b3c8732d09b1c53",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Women’s basketball falls in the Apple Cup 82-54",
-        "link": "https://dailyevergreen.com/201968/sports/womens-basketball-falls-in-the-apple-cup-82-54/",
-        "link_kind": "item",
-        "date": "2026-11-20T09:05:13+00:00",
-        "summary": "Washington State University Women’s basketball came up short against the University of Washington during the 107th Apple Cup. UW kept them at arm&#8217;s length the entirety of the 82-54 blowout. Starting right out of the gate, the Dawgs won the tip-off and put up the first points. They ended the first quarter up 18-10. The...",
-        "author": "Talyn Bell",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "d09317fc82255f68",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "WSU hoops beats Hawai’i in Everett",
-        "link": "https://dailyevergreen.com/201936/sports/wsu-wins-second-straight-game-against-hawaii/",
-        "link_kind": "item",
-        "date": "2026-11-20T08:43:41+00:00",
-        "summary": "The Cougs started the season 0-3, and things were looking rough, but they have now put together two straight wins. The first came against a lesser opponent, but Hawai‘i represents a significant early-season win, marking WSU&#8217;s first victory over a Division I opponent this season. Hawai‘i entered the game 3-1 as a slight favorite but...",
-        "author": "Owen Sullivan",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Daily Evergreen",
-        "id": "6d64f47f9a2c1bfe",
         "sport": "all",
         "medium": "text"
       },
@@ -11045,20 +11103,6 @@
         "medium": "text"
       },
       {
-        "title": "Washington State Cougars, Oregon State took different paths in Pac-12",
-        "link": "https://www.seattletimes.com/sports/wsu-cougar-football/washington-state-cougars-oregon-state-took-different-paths-in-pac-12/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_wsu-cougar-football",
-        "link_kind": "item",
-        "date": "2026-10-14T20:57:57+00:00",
-        "summary": "<img src=\"https://images.seattletimes.com/wp-content/uploads/2026/10/10142026_Cougs_tzr_135513.jpg?d=1200x630\"><br/>The Cougars and Beavers, who were the lone survivors from the old Pac-12, meet this weekend after taking diverging paths in the new Pac-12 this season.",
-        "author": "Jon Wilner",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Seattle Times",
-        "id": "98eaf2be4fe2e0eb",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "BECU Inside WSU Athletics with Jon Haarlow | S2, E6 | Guests: Jeremy Foss, Josh Buren",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/eb02e863-6d56-4bf4-91d3-cf033660fb77.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -11143,20 +11187,6 @@
         "source": "Washington State Athletics",
         "id": "90ee99d5d2b8c9dd",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Cougar Postgame Notes - at Utah State",
-        "link": "https://wsucougars.com/news/2026/10/11/cougar-postgame-notes-at-utah-state",
-        "link_kind": "item",
-        "date": "2026-10-11T19:22:35+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "b2073e5f928ec873",
-        "sport": "football",
         "medium": "text"
       }
     ]
