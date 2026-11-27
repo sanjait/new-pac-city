@@ -33551,6 +33551,81 @@
         "James Crepea"
       ],
       "run": "run_2026-11-26-1442"
+    },
+    "2f1c76429e3ac0f7": {
+      "subjects": {
+        "boise-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The whole piece recaps Boise State men's basketball defeating Idaho State 88-71.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jake Zamora"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-27-0239"
+    },
+    "35af2ffa370693fd": {
+      "subjects": {
+        "boise-state/football": "involves"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "A paragraph in this Mountain West digest gives real treatment to a Boise State linebacker profile and the Broncos' CFP standing.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The Boise State item is only two sentences among several teams' items in a roundup, so involves versus a passing mention is a close call.",
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-27-0239"
+    },
+    "7c20c783e00a6b8d": {
+      "subjects": {
+        "gonzaga/womens-basketball": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature is about Gonzaga women's basketball coach Lisa Fortier becoming the program's winningest coach.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Lee"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-27-0239"
+    },
+    "c07546c5dd379bbc": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Fresno State men's basketball's trip to the inaugural Second Line Showcase, with season stats to date.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-27-0239"
+    },
+    "c2b5b70bb79bcb72": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The whole piece recaps Washington State women's basketball losing to Kansas in the Cancun Challenge opener.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-27-0239"
     }
   },
   "runs": {
@@ -38848,6 +38923,26 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 24.691586300032213,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-27-0239": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-27T02:39:16.828536+00:00",
+      "items": 5,
+      "verdict_counts": {
+        "publish": 5
+      },
+      "hidden_per_source": {},
+      "unreadable_per_source": {},
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 13.573742999928072,
       "tokens": null,
       "tokens_source": null
     }
