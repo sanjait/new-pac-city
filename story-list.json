@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-26T14:03:31.126132+00:00",
+  "generated_at": "2026-11-27T02:03:41.644218+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Mountaintop View 11-26-26",
+        "link": "https://www.mwcconnection.com/mountain-west-news/96440/unlv-rebels-nevada-wolf-pack-troy-calhoun-rex-johnsen",
+        "link_kind": "item",
+        "date": "2026-11-26T14:00:00+00:00",
+        "summary": "Pokes Insider: Catching up with Rex Johnsen Ryan Thorburn of Pokes Insider profiles Wyoming left tackle Rex Johnsen. The Cowboys will face the UConn Huskies this weekend minus head coach Jay Sawvel. Position preview for Nevada football versus UNLV: Who has the edge where? Chris Murray of NevadaSportsNet dives into who has the edge at [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "35af2ffa370693fd",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Colorado State Rallies to Win Pac-12 Championship, 3-2, Over San Diego State",
         "link": "http://pac-12.com/news/2026/11/26/womens-volleyball-colorado-state-rallies-to-win-pac-12-championship-3-2-over-san-diego-state.aspx",
@@ -195,20 +209,6 @@
         "channel_url": "",
         "source": "Mountain West Connection",
         "id": "d26cd5d6e1a54cde",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "The Good, the Bad, the Ugly: Week 12",
-        "link": "https://www.mwcconnection.com/the-good-the-bad-the-ugly/96181/the-good-the-bad-the-ugly-week-12",
-        "link_kind": "item",
-        "date": "2026-11-24T16:00:00+00:00",
-        "summary": "The regular season is winding down. Entering this week, both the PAC-12 and the Mountain West had multiple teams still contending for a conference championship. New Mexico and Wyoming faced off for a spot in the title game, with the Cowboys having a chance to secure their bid and the right to host. Meanwhile, in [&#8230;]",
-        "author": "Zach Ballard",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "7d43252163863684",
         "sport": "all",
         "medium": "text"
       },
@@ -449,23 +449,51 @@
         "id": "497921780cb3afc2",
         "sport": "all",
         "medium": "text"
-      },
-      {
-        "title": "Press Break FCS Top 25 Ballot for Week 7: Northern Arizona & Route 66 Muffler Men",
-        "link": "https://pressbreak.substack.com/p/press-break-fcs-top-25-ballot-for",
-        "link_kind": "item",
-        "date": "2026-10-12T18:44:22+00:00",
-        "summary": "Northern Arizona and Northern Iowa each scored massive wins in Week 6, continuing a recent run of upsets under domes around the FCS.",
-        "author": "Kyle Kensing",
-        "duration": null,
-        "channel_url": "",
-        "source": "Press Break",
-        "id": "f67837a6746a9055",
-        "sport": "all",
-        "medium": "text"
       }
     ],
     "Boise State": [
+      {
+        "title": "No. 22/21 Broncos Return to Colorado State for Regular Season Finale",
+        "link": "https://broncosports.com/news/2026/11/26/football-no-22-21-broncos-return-to-colorado-state-for-regular-season-finale",
+        "link_kind": "item",
+        "date": "2026-11-26T22:00:00+00:00",
+        "summary": "<img alt=\"Week 13 Preview\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/FB26-Game-Preview-WK13-CSU.jpg\" /><br /><br />The game will be broadcast nationally on USA Sports, with Nate Gatter (play-by-play), Ryan Leaf (analyst) and Lauren Green (sideline) on the call.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "e7d702d93405a22a",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Broncos earn fourth win of season against Idaho State",
+        "link": "https://www.arbiteronline.com/2026/11/26/broncos-earn-fourth-win-of-season-against-idaho-state/",
+        "link_kind": "item",
+        "date": "2026-11-26T20:33:04+00:00",
+        "summary": "<p>Boise State men’s basketball (4-2) defeated Idaho State 88-71 at ExtraMile Arena Tuesday night, earning its fourth win of the season and extending its home winning streak with a close victory over the Bengals. The Broncos’ entire starting five scored in double figures, combining for 80 of the team’s 88 points while showcasing the balanced [&#8230;]</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/26/broncos-earn-fourth-win-of-season-against-idaho-state/\">Broncos earn fourth win of season against Idaho State</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
+        "author": "Jake Zamora",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Arbiter",
+        "id": "2f1c76429e3ac0f7",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Boise State Heads to Idaho Falls for Snake River Invitational",
+        "link": "https://broncosports.com/news/2026/11/26/mens-basketball-boise-state-heads-to-idaho-falls-for-snake-river-invitational",
+        "link_kind": "item",
+        "date": "2026-11-26T18:30:00+00:00",
+        "summary": "<img alt=\"Aginaldo Neto vs. Idaho State\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/26/Neto__Aginaldo__6_.jpg\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "fdb4092a50a4f131",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Week 13 Availability Report",
         "link": "https://broncosports.com/news/2026/11/25/football-week-13-availability-report",
@@ -760,20 +788,6 @@
         "source": "First Kick Was Good",
         "id": "e0dcc9631f2f207e",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Gameday Availability Report",
-        "link": "https://broncosports.com/news/2026/11/21/football-gameday-availability-report",
-        "link_kind": "item",
-        "date": "2026-11-22T00:30:00+00:00",
-        "summary": "<img alt=\"SDSU Availability Report\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/FB25_Availability_Report_WEB.png\" /><br /><br />All Pac-12 availability reports can be found at Pac-12.com.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "d33a45371d008cdf",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -1185,20 +1199,6 @@
         "medium": "text"
       },
       {
-        "title": "Broncos overpower Colorado State for eighth consecutive victory",
-        "link": "https://www.arbiteronline.com/2026/11/08/broncos-overpower-colorado-state-for-eighth-consecutive-victory/",
-        "link_kind": "item",
-        "date": "2026-11-08T18:03:05+00:00",
-        "summary": "<p>The No. 20 Boise State Broncos continued their dominant stretch Saturday night, securing their eighth consecutive victory with a 64-38 win over Colorado State</p>\n<p>The post <a href=\"https://www.arbiteronline.com/2026/11/08/broncos-overpower-colorado-state-for-eighth-consecutive-victory/\">Broncos overpower Colorado State for eighth consecutive victory</a> appeared first on <a href=\"https://www.arbiteronline.com\">The Arbiter</a>.</p>",
-        "author": "Jake Zamora",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Arbiter",
-        "id": "e1241d1c598058a3",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Fort Collins Redemption: Boise State at Colorado State Game Recap",
         "link": "https://firstkickwasgood.com/2026/11/07/fort-collins-redemption-boise-state-at-colorado-state-game-recap/",
         "link_kind": "item",
@@ -1210,20 +1210,6 @@
         "source": "First Kick Was Good",
         "id": "85b7b5fc561e2259",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Broncos Host Butler on USA Network",
-        "link": "https://broncosports.com/news/2026/11/6/mens-basketball-broncos-host-butler-on-usa-network",
-        "link_kind": "item",
-        "date": "2026-11-06T21:00:00+00:00",
-        "summary": "<img alt=\"Pearson Carmichael vs. West Coast Baptist\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/Carmichael__Pearson__8_.jpg\" /><br /><br />Playing its second-consecutive home game, Boise State men's basketball hosts Butler on Sunday afternoon at ExtraMile Arena in the second game of a home-and-home series. Tip-off between the Broncos and Bulldogs is set for noon MT.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "c3e3dcf01e2b7e1c",
-        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -1303,6 +1289,34 @@
       }
     ],
     "Colorado State": [
+      {
+        "title": "Murphy Career-High Leads Rams to Win",
+        "link": "https://csurams.com/news/2026/11/26/womens-basketball-murphy-career-high-leads-rams-to-win",
+        "link_kind": "item",
+        "date": "2026-11-26T22:25:00+00:00",
+        "summary": "<img alt=\"McKenna Murphy\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/26/2N8A0082.jpg\" /><br /><br />Colorado State picks up Thanksgiving Day victory",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "b6e01867690e5065",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
+        "title": "Memorable Moments: A Classic Photo. A Tireless Pursuit",
+        "link": "https://csurams.com/news/2026/11/26/football-memorable-moments-a-classic-photo-a-tireless-pursuit",
+        "link_kind": "item",
+        "date": "2026-11-26T21:00:00+00:00",
+        "summary": "<img alt=\"Final Memorable Moments 2026\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/MMfinal.jpg\" /><br /><br />Going great lengths to link the present to the past",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Colorado State Athletics",
+        "id": "23539d60a4459771",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Rams Flip Script in Maui Finale",
         "link": "https://csurams.com/news/2026/11/26/mens-basketball-rams-flip-script-in-maui-finale",
@@ -1557,20 +1571,6 @@
         "medium": "text"
       },
       {
-        "title": "Better Late Than Never for Martinez",
-        "link": "https://csurams.com/news/2026/11/18/football-better-late-than-never-for-martinez",
-        "link_kind": "item",
-        "date": "2026-11-18T19:00:00+00:00",
-        "summary": "<img alt=\"Kallen Martinez\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/Kallen1.png\" /><br /><br />Freshman energized by first game action",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "e990883698984dee",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
         "title": "CSU Insider | Volleyball Champions & Fresno State Football Preview | November 18, 2026",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/b37d8214-74c7-439d-9592-65564dedca85.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -1756,20 +1756,6 @@
         "medium": "text"
       },
       {
-        "title": "Rams Fall in First Road Game",
-        "link": "https://csurams.com/news/2026/11/6/womens-basketball-rams-fall-in-first-road-game",
-        "link_kind": "item",
-        "date": "2026-11-07T05:23:00+00:00",
-        "summary": "<img alt=\"Makenna Murphy\" src=\"https://csurams.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/110626_at_Utah-44.jpg\" /><br /><br />Utah rallies in second half to post win",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Colorado State Athletics",
-        "id": "f4c8360c1f3c47bf",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "CSU Insider | Boise State Preview & Basketball Opening Night | November 4, 2026",
         "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/059b86f4-7971-4f6d-833f-eec328a521ba.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
         "link_kind": "enclosure",
@@ -1936,6 +1922,23 @@
       }
     ],
     "Fresno State": [
+      {
+        "title": "Bulldogs set to take on the Big Easy in inaugural Second Line Showcase",
+        "link": "https://fscollegian.com/2026/11/bulldogs-set-to-take-on-the-big-easy-in-inaugural-second-line-showcase/",
+        "link_kind": "item",
+        "date": "2026-11-27T01:22:51+00:00",
+        "summary": "The Fresno State men&#8217;s basketball team is headed to New Orleans for Thanksgiving weekend to compete in the inaugural Second Line Showcase which will take place Nov. 27-29.  The inaugural Second Line Showcase is a three-day, non-conference basketball event that blends collegiate athletics with New Orleans&#8217; rich cultural and musical heritage. Hosted by Worldwide Hoops...",
+        "author": "Paloma Schuller, Enterprise Sports Editor",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "c07546c5dd379bbc",
+        "sport": "all",
+        "medium": "text",
+        "also": [
+          "Fresno State Athletics"
+        ]
+      },
       {
         "title": "Bulldogs ground the Eagles, open road trip with double-digit victory",
         "link": "https://fscollegian.com/2026/11/bulldogs-ground-the-eagles-open-road-trip-with-double-digit-victory/",
@@ -2215,10 +2218,7 @@
         "source": "Fresno State Athletics",
         "id": "8fe517dbf2206738",
         "sport": "mbb",
-        "medium": "text",
-        "also": [
-          "The Collegian"
-        ]
+        "medium": "text"
       },
       {
         "title": "Fresno State football looks to bounce back against Colorado State in Week 12",
@@ -2573,20 +2573,6 @@
         "medium": "text"
       },
       {
-        "title": "Bulldogs outlast Georgia State in overtime thriller, 95-92",
-        "link": "https://gobulldogs.com/news/2026/11/10/mens-basketball-bulldogs-outlast-georgia-state-in-overtime-thriller-95-92",
-        "link_kind": "item",
-        "date": "2026-11-11T07:25:00+00:00",
-        "summary": "<img alt=\"Brian Amuneke three point shot\" src=\"https://gobulldogs.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/26-10-11-DC-MB-Georgiastate-5.jpg\" /><br /><br />FRESNO, Calif. – Behind a career-high 27 points from Brian Amuneke and a 12-assist performance from Roger Fabrega Urpina, Fresno State battled through 14 lead changes and 11 ties to defeat Georgia State, 95-92, in overtime on Tuesday night at the Save Mart Center.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Fresno State Athletics",
-        "id": "77522a1014357e81",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "'Back to work' Bulldogs gear up for Texas State",
         "link": "https://www.yourcentralvalley.com/bulldog-sports/back-to-work-bulldogs-gear-up-for-texas-state/",
         "link_kind": "item",
@@ -2815,6 +2801,20 @@
       }
     ],
     "Gonzaga": [
+      {
+        "title": "Lisa Fortier grateful for community built around GU women's hoops after becoming program's winningest coach",
+        "link": "http://www.spokesman.com/stories/2026/nov/26/lisa-fortier-grateful-for-community-built-around-g/",
+        "link_kind": "item",
+        "date": "2026-11-26T00:00:00+00:00",
+        "summary": "<p>Back when Lisa Fortier took over the Gonzaga women’s basketball program, she was just happy to win her first game as head coach.</p><p>It was a rough first half in her debut on Nov. 16, 2014, when Fortier’s first team faced Dayton at McCarthey Athletic Center. The Zags trailed 33-22 at halftime. But they bounced back in the second half, outsourcing the Flyers 53-32 for a 75-65 win.</p><p>Fast forward to Nov. 18, when the Bulldogs handled Montana 84-61, a win that pulled her even with the winningest coach in school history, Kelly Graves, who she succeeded.</p><p>Coming into the season it was inevitable that Fortier would get the four wins necessary to vault past Graves. Three days after pulling even with him, Fortier took over the top spot when Gonzaga rallied to top Hawaii 63-57 in the North Shore Showcase in Oahu, Hawaii.</p><p>Surpassing the coach Fortier assisted for seven seasons wasn’t anywhere on her mind when she took over the program.</p><p>Fortier, by nature, doesn’t spend time contemplating personal accomplishments. But asked about the record, she took a few moments to reflect.</p><p>“What first comes to mind is it’s a little bit like a montage of my life,” Fortier said. “I’ve been here for 21 or 22 years – from grad school except for the nine months away (as an assistant at Northern Colorado). My life has happened while I’ve been coaching here as both an assistant and head coach. There’s been people we have met along the way who’ve become dear friends of ours. We’ve lost people along the way. So when I think of coaching here for so long I can visually see it kind of go in front of my eyes. I’m so grateful for all of those opportunities to coach in big games and to coach great players and to work with people who are really good at their job. I love being part of the community here. That’s the best part of being a Zag.”</p><p>Fortier, 45, has spent nearly half of her adult life at Gonzaga. And she and her husband Craig – an assistant since his wife took over the program – have watched their three children grow up around the program.</p><p>Her former boss is pleased she has passed him.</p><p>“She and her staff have done many outstanding things,” said Graves, now in his 13th season at Oregon. “I’m happy for her. It’s great to see a friend do what she’s done. The Spokane community is blessed to have Lisa guiding the program.”</p><p>Relationships have been at the core of Fortier’s coaching principles. She was reminded of that in Hawaii when she visited with a former player Saturday.</p><p>“I got snacks and a lei from a former player of ours that we coached when I wasn’t the head coach,” said Fortier, who has received several congratulation texts from former players. “It just continues to be really important to me to be part of a program, both my time as an assistant and my time as a head coach, where people care well for each other, people cheer for each other. We do things together and we’re a meaningful part of peoples’ lives. I’m happy to have done that for so long here at Gonzaga.”</p><p>Fortier conquered a bigger-than-coaching obstacle when she was diagnosed with cancer with a month left in the 2023-24 season. She had surgery a month following the season and was in recovery when the 2024-25 season tipped off.</p><p>She didn’t miss a game. And even when she was supposed to take time to herself during the early stages of recovery, she was always checking on her players.</p><p>How Fortier courageously tackled her recovery and continued to coach spoke volumes to graduate Ines Bettencourt and junior Lauren Whittaker, both of whom watched it first hand.</p><p>“Those were probably some of the toughest times she went through,” Bettencourt said. “And we went through it as well because we were all there for her. Seeing her succeed after all that she had to go through, you never know what could happen in those situations with your health. She just pulled through every single day. … It’s great she has us and basketball to make her life happier.”</p><p>Whittaker agreed. She’s thankful to have been part of the milestone victories this season.</p><p>“It’s a testament to what herself and the other coaches have built here,” Whittaker said. “In this day and age it’s hard to get a coaching staff that sticks around as long as they have. They’ve built something successful that’s long lasting and (has) longevity. Obviously she deserves all the flowers.”</p><p>Fortier needed fewer games to get to the top than Graves. His 316 victories came in 14 seasons (452 overall), and Fortier reached 317 in the seventh game of her 13th year (404th overall).</p><p>She’s the only coach in program history to have 11 20-win or more seasons in her first 12 years coaching. Last year, Fortier tied highly successful LSU coach Kim Mulkey as the fastest Division I coach to reach 300 victories. Both achieved the milestone in their 379th career game.</p><p>Earlier this season, Fortier coached in her 400th career game.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "7c20c783e00a6b8d",
+        "sport": "wbb",
+        "medium": "text"
+      },
       {
         "title": "MBB Faces Baylor in Players Era Semifinals",
         "link": "https://gozags.com/news/2026/11/25/mens-basketball-mbb-faces-baylor-in-players-era-semifinals",
@@ -4546,34 +4546,6 @@
         "medium": "text"
       },
       {
-        "title": "Beavers snap 9-game skid with win over rival Ducks",
-        "link": "https://www.oregonlive.com/collegebasketball/2026/11/live-updates-oregon-vs-oregon-state-basketball-at-moda-center.html",
-        "link_kind": "item",
-        "date": "2026-11-20T01:52:00+00:00",
-        "summary": "Oregon State defeated Oregon 82-71 at Moda Center, ending a nine-game losing streak in the rivalry, with Legend Smiley scoring a game-high 21 points.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "541c634f3edc3387",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "He took less money, lost his starting job, and then had the game of his life",
-        "link": "https://www.oregonlive.com/beavers/2026/11/maalik-murphy-took-less-money-lost-the-starting-job-then-had-the-best-game-of-his-career.html",
-        "link_kind": "item",
-        "date": "2026-11-19T22:48:50+00:00",
-        "summary": "The fifth-year QB stepped in for injured Braden Atkinson and delivered against Boise State. Now he starts Senior Night vs. Utah State with the Beavers at 5-5.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "f23e556a3dae527e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Oregon State Looks To Clinch a Bowl Spot With Two Games Left",
         "link": "https://traffic.megaphone.fm/TDSPT3287788972.mp3",
         "link_kind": "enclosure",
@@ -4587,20 +4559,6 @@
         "extent": "39 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Hand injury keeps Atkinson sidelined for OSU's Utah State game",
-        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-qb-braden-atkinson-out-vs-utah-state.html",
-        "link_kind": "item",
-        "date": "2026-11-19T18:38:16+00:00",
-        "summary": "Eight Oregon State players are listed as out for Saturday's game against Utah State, including QB Braden Atkinson, sidelined for a second straight week with a hand injury.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "520f2850c96aeced",
-        "sport": "all",
-        "medium": "text"
       },
       {
         "title": "WATCH: Oregon State Women's Basketball Highlights vs. UC Riverside",
@@ -4821,6 +4779,20 @@
     ],
     "San Diego State": [
       {
+        "title": "Cherry Swats Program Record Nine Shots as Men's Hoops Closes Out Maryland, 75-71",
+        "link": "https://goaztecs.com/news/2026/11/26/bear-cherry-swats-program-record-nine-shots-as-mens-hoops-closes-out-maryland-75-71-on-thursday-at-player-era",
+        "link_kind": "item",
+        "date": "2026-11-26T22:19:49+00:00",
+        "summary": "Bear Cherry set a program record with nine blocked shots and the Aztecs outscored Maryland 16-6 in the final 4:52 to earn its first win at the 2026 Player Era.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "4632e48ca85464ef",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "Men's Hoops Set to Play Maryland Thursday at Players Era",
         "link": "https://goaztecs.com/news/2026/11/25/mens-hoops-set-to-play-maryland-thursday-at-players-era",
         "link_kind": "item",
@@ -4832,6 +4804,20 @@
         "source": "San Diego State Athletics",
         "id": "5955c726adc3f71e",
         "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Aztecs Play at Hawai'i Friday",
+        "link": "https://goaztecs.com/news/2026/11/25/aztecs-play-at-hawaii-friday",
+        "link_kind": "item",
+        "date": "2026-11-25T18:23:00+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "San Diego State Athletics",
+        "id": "b234be3221f00101",
+        "sport": "wbb",
         "medium": "text"
       },
       {
@@ -6638,37 +6624,37 @@
         "extent": "1h 2m",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Monday, Oct. 12 Press Conference",
-        "link": "https://goaztecs.com/news/2026/10/12/monday-oct-12-press-conference",
-        "link_kind": "item",
-        "date": "2026-10-12T22:53:26+00:00",
-        "summary": "Head football coach Sean Lewis, alongside Sione Hala and Jaylon Hawkins, recapped the Aztec's matchup against Oregon State while also previewing the upcoming battle for The Old Oil Can.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "1b1132c5777dfa54",
-        "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Jaylon Hawkins Named Pac-12 Special Teams Player of the Week for a Third Time",
-        "link": "https://goaztecs.com/news/2026/10/12/jaylon-hawkins-named-pac-12-special-teams-player-of-the-week-for-a-third-time",
-        "link_kind": "item",
-        "date": "2026-10-12T18:58:00+00:00",
-        "summary": "Hawkins wins second straight weekly award and third of the season after returning a kickoff 97 yards for a touchdown on Saturday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "San Diego State Athletics",
-        "id": "b9d011e0bcf83350",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Texas State": [
+      {
+        "title": "Game Preview: TXST vs Utah State",
+        "link": "https://txst.com/news/2026/11/26/football-game-preview-txst-vs-utah-state.aspx",
+        "link_kind": "item",
+        "date": "2026-11-26T22:52:00+00:00",
+        "summary": "<img alt=\"Beau Sparks Touchdown vs Washington State\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/26/261122_FB_WASHST_AL_GAME-10.jpg\" /><br /><br />Texas State (7-4, 5-2 Pac-12) vs Utah State (4-7, 3-4)\n\nSaturday, Nov. 28, 2026\nMaverik Stadium (25,100) | Logan, Utah\nKickoff: 8:30 p.m. CT / 7:30 p.m. MT",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "46e95dac742cfb1e",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Texas State Faces Louisiana Tech on Friday Afternoon",
+        "link": "https://txst.com/news/2026/11/26/mens-basketball-texas-state-faces-louisiana-tech-on-friday-afternoon.aspx",
+        "link_kind": "item",
+        "date": "2026-11-26T21:33:00+00:00",
+        "summary": "<img alt=\"Quel'Ron House\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/26/DSC09274__2_.jpg\" /><br /><br />RUSTON, La. – Texas State (8-0) closes its Ruston trip taking on Louisiana Tech (5-2) on Friday afternoon at the Thomas Assembly Center. Tipoff is scheduled for 2 p.m. on ESPN+.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "28babaa75770b9f4",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Kielsmeier with 600 career wins, Bobcats get by Pacific to remain unbeaten",
         "link": "https://universitystar.com/37296/sports/kielsmeier-with-600-career-wins-bobcats-get-by-pacific-to-remain-unbeaten/",
@@ -6688,7 +6674,7 @@
         "link": "https://txst.com/news/2026/11/25/womens-basketball-lay-fantroy-posts-career-night-in-75-63-win-against-pacific.aspx",
         "link_kind": "item",
         "date": "2026-11-26T04:38:00+00:00",
-        "summary": "<img alt=\"Lay Fantroy\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/261125_WBB_Pacific_ingame_BR-14.jpg\" /><br /><br />",
+        "summary": "<img alt=\"Lay Fantroy\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/261125_WBB_Pacific_ingame_BR-14.jpg\" /><br /><br />SAN MARCOS, Texas – Texas State Women's Basketball improved to 6-0 at the Strahan Arena on Wednesday thanks to a career performance from senior Lay Fantroy against Pacific. Fantroy posted a career high 27 points and seven steals en route to the 75-63 win.",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -7118,20 +7104,6 @@
         "medium": "text"
       },
       {
-        "title": "Texas State Travels to UTSA in I-35 Rivalry Clash",
-        "link": "https://txst.com/news/2026/11/14/mens-basketball-texas-state-travels-to-utsa-in-i-35-rivalry-clash.aspx",
-        "link_kind": "item",
-        "date": "2026-11-14T18:38:00+00:00",
-        "summary": "<img alt=\"Kaden Gumbs\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/14/131126_MBB_SM_INGAME_GD-7.jpg\" /><br /><br />SAN ANTONIO, Texas – Texas State (4-0) makes a trip down I-35 to take on in-state rival UTSA (2-1) on Sunday night. Tipoff from the Convocation Center is slated for 7 p.m. CT on ESPN2.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "5bad10db987da300",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Texas State Improves to 3-0 With 63-47 Win Over Texas A&M-Corpus Christi",
         "link": "https://txst.com/news/2026/11/13/womens-basketball-texas-state-improves-to-3-0-with-63-47-win-over-texas-am-corpus-christi.aspx",
         "link_kind": "item",
@@ -7186,23 +7158,37 @@
         "id": "a0aee74a2c18d107",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "Texas State University and adidas Partner with Athletic Solutions to Launch adidas NIL Locker Rooms for All Bobcat Student-Athletes",
-        "link": "https://txst.com/news/2026/11/10/athletics-texas-state-university-and-adidas-partner-with-athletic-solutions-to-launch-adidas-nil-locker-rooms-for-all-bobcat-student-athletes.aspx",
-        "link_kind": "item",
-        "date": "2026-11-10T16:00:00+00:00",
-        "summary": "<img alt=\"adidas and athletic solutions\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/Untitled-1.png\" /><br /><br />SAN MARCOS, Texas – Texas State University and adidas are proud to announce a groundbreaking partnership with Athletic Solutions, marking a new era of empowerment for student-athletes through the launch of official adidas NIL Locker Rooms for every student-athlete who opts-in.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "8911d023177f40cc",
-        "sport": "football",
-        "medium": "text"
       }
     ],
     "Utah State": [
+      {
+        "title": "Aggies Defeat No. 18 USC 78-74 to Remain Perfect",
+        "link": "https://utahstateaggies.com/news/2026/11/26/mens-basketball-aggies-defeat-no-18-usc-78-74-to-remain-perfect.aspx",
+        "link_kind": "item",
+        "date": "2026-11-27T01:12:00+00:00",
+        "summary": "<img alt=\"Connor Turnbull\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/26/DSC00541.jpg\" /><br /><br />In a battle between two of the nation's 24 remaining unbeaten teams Thursday afternoon at Acrisure Arena, Utah State men's basketball (7-0, 0-0 Pac-12) came out on top over No. 18 USC, improving to 7-0 with a 78-74 victory in the Acrisure Series. This is the team's third-straight 7-0 start to a season, and earliest win over an AP Top 25 opponent since 1998.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "8c9566ad98fe6d16",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "Aggies Set for Thanksgiving Showdown Versus No. 18 USC",
+        "link": "https://utahstateaggies.com/news/2026/11/26/mens-basketball-aggies-set-for-thanksgiving-showdown-versus-no-18-usc.aspx",
+        "link_kind": "item",
+        "date": "2026-11-26T16:57:00+00:00",
+        "summary": "<img alt=\"Solomon Callaghan\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/26/DSC01754.jpg\" /><br /><br />Utah State men's basketball (6-0, 0-0 Pac-12) plays game seven of its 2026-27 campaign this week as it plays a neutral site contest against the No. 18 USC Trojans (7-0, 0-0 Big Ten) at Acrisure Arena in Palm Desert, California, on Thursday, Nov. 26. Game time is set for 2:30 p.m. (MT). The game will be broadcast nationally on CBS Sports Network. Fans can also listen to Utah State's radio broadcast on 610 AM/102.1 FM in Logan and 1280 AM/97.5 FM in Salt Lake City.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "b09ae72ba7f9c818",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Aggies Open Acrisure Series With 93-59 Win Over SMU",
         "link": "https://utahstateaggies.com/news/2026/11/25/mens-basketball-aggies-open-acrisure-series-with-93-59-win-over-smu.aspx",
@@ -7610,20 +7596,6 @@
         "medium": "text"
       },
       {
-        "title": "Utah State Welcomes UC San Diego to Town on Friday",
-        "link": "https://utahstateaggies.com/news/2026/11/12/mens-basketball-utah-state-welcomes-uc-san-diego-to-town-on-friday.aspx",
-        "link_kind": "item",
-        "date": "2026-11-12T21:48:00+00:00",
-        "summary": "<img alt=\"Solomon Callaghan\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/PAN_USUMBBvsUtahTech6180.jpg\" /><br /><br />Utah State men's basketball (3-0, 0-0 Pac-12) plays game four of its 2026-27 campaign this weekend as it welcomes the UC San Diego Tritons (2-0, 0-0 Big West) to the Dee Glen Smith Spectrum on Friday, Nov. 13. Game time is set for 8 p.m. The game will be broadcast nationally on The CW. Fans can also listen to Utah State's radio broadcast on 610 AM/102.1 FM in Logan and 1280 AM/97.5 FM in Salt Lake City.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "c3c36a5a2429cc20",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Women’s Basketball Drops Home Contest to Idaho State",
         "link": "https://utahstateaggies.com/news/2026/11/11/womens-basketball-womens-basketball-drops-home-contest-to-idaho-state.aspx",
         "link_kind": "item",
@@ -7635,20 +7607,6 @@
         "source": "Utah State Athletics",
         "id": "bd12dd4384665d88",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "Hall, Aggies Post Historic Scoring Performances in 118-86 Win Over Utah Tech",
-        "link": "https://utahstateaggies.com/news/2026/11/10/mens-basketball-hall-aggies-post-historic-scoring-performances-in-118-86-win-over-utah-tech.aspx",
-        "link_kind": "item",
-        "date": "2026-11-11T04:58:00+00:00",
-        "summary": "<img alt=\"Dallin Hall\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/10/DSC09005.jpg\" /><br /><br />Utah State men's basketball (2-0, 0-0 Pac-12) posted its seventh highest-scoring performance in program history on Tuesday night, going off in a 118-86 victory over Utah Tech at the Dee Glen Smith Spectrum led by a career-best 35-point performance from graduate guard Dallin Hall.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "edd116be8ef4f7c2",
-        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -7851,6 +7809,20 @@
         "source": "The Seattle Times",
         "id": "c3c36c866ab970bd",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Washington State women fall to Kansas in Cancun Challenge opener",
+        "link": "http://www.spokesman.com/stories/2026/nov/26/washington-state-women-fall-to-kansas-in-cancun-ch/",
+        "link_kind": "item",
+        "date": "2026-11-26T00:00:00+00:00",
+        "summary": "<p>CANCUN, Mexico – The Washington State women’s basketball team couldn’t make up ground in the second half and dropped its Cancun Challenge opener, falling 69-58 to Kansas on Thursday at Hard Rock Hotel Riviera Maya.</p><p>The Cougars (2-4) fell into a nine-point hole at halftime and the Jayhawks (4-3) preserved a fairly comfortable lead from there.</p><p>Standout guard Eleonora Villa led the Cougs with 13 points. Post Alex Covill added 10 points, five rebounds and two blocks.</p><p>The Cougars shot 37.5% from the field and 6 of 21 (28.6%) from 3-point range.</p><p>Kansas shot 48.1% from the floor and 2 of 11 on 3s, but had a significant advantage at the foul line, shooting 17 of 25 compared to 10 of 15 for WSU. The Jayhawks also outrebounded WSU by 10.</p><p>S’Mya Nichols had 20 points and Libby Fandel tallied 14 points and nine rebounds for Kansas.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "c2b5b70bb79bcb72",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -8419,10 +8391,7 @@
         "source": "Washington State Athletics",
         "id": "942042d686f83cf4",
         "sport": "mbb",
-        "medium": "text",
-        "also": [
-          "The Daily Evergreen"
-        ]
+        "medium": "text"
       },
       {
         "title": "WSU’s defense faces big challenge vs. Texas State’s highflying offense",
@@ -11275,20 +11244,6 @@
         "extent": "30 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "Cougs In Pro Basketball | October 12, 2026",
-        "link": "https://wsucougars.com/news/2026/10/12/cougs-in-pro-basketball-or-october-12-2026",
-        "link_kind": "item",
-        "date": "2026-10-12T19:38:53+00:00",
-        "summary": "",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Washington State Athletics",
-        "id": "90ee99d5d2b8c9dd",
-        "sport": "mbb",
-        "medium": "text"
       }
     ]
   }
