@@ -33626,6 +33626,136 @@
       "extent": "1 min read",
       "lock": "paywall",
       "run": "run_2026-11-27-0239"
+    },
+    "4a81b65b18cb9554": {
+      "subjects": {
+        "fresno-state/womens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The piece previews Fresno State women's basketball's upcoming games in the Big Easy Classic.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sam Quintero"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-27-1440"
+    },
+    "57bcf04809c5e401": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The podcast discusses Nevada football, general Mountain West and Pac-12 basketball sentiment, and playoff speculation without naming any covered school's program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Derek Raridon",
+        "Chase Dulude"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-27-1440"
+    },
+    "8eb1a3501dc404dd": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The profile is entirely about San Jose State kicker Trajan Sinatra; no program among the nine covered schools figures in it.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-27-1440"
+    },
+    "94e1c908136f45bf": {
+      "subjects": {
+        "oregon-state/football": "about"
+      },
+      "unrecognized": [],
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The term 'defensive back' identifies this as an Oregon State football recruiting story about a commitment flip away from the program.",
+      "evidence_basis": "title+summary",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-27-1440"
+    },
+    "b2a94060935c3b4d": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Post-game takeaways analyzing Gonzaga men's basketball players and performance in the Baylor win.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "3 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-27-1440"
+    },
+    "d07e7c53731b5063": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "A live-blog style recap of Gonzaga men's basketball's win over Baylor, with pregame notes and in-game updates.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "8 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-27-1440"
+    },
+    "d25a2cc104473da6": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "unrecognized": [],
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Gonzaga men's basketball's win over Baylor at the Players Era tournament.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-27-1440"
+    },
+    "e8cfea5515058594": {
+      "subjects": {
+        "oregon-state": "about",
+        "fresno-state": "involves"
+      },
+      "unrecognized": [],
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Headline and summary establish an upcoming Oregon State ('Beavers') vs. Fresno State ('Bulldogs') athletic matchup, though the sport itself is not named.",
+      "evidence_basis": "title+summary",
+      "ambiguous": "Neither the sport nor a specific program is stated, only that the Beavers play the Bulldogs Saturday, so department-level keys stand in for team-level ones.",
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-27-1440"
     }
   },
   "runs": {
@@ -38943,6 +39073,46 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 13.573742999928072,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-27-1440": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-27T14:39:27.864070+00:00",
+      "items": 8,
+      "verdict_counts": {
+        "publish": 6,
+        "drop": 2
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 2
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 2
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "57bcf04809c5e401",
+          "source": "Mountain West Connection",
+          "phrase": "Nevada",
+          "kind": "not-ours"
+        },
+        {
+          "id": "8eb1a3501dc404dd",
+          "source": "Mountain West Connection",
+          "phrase": "San Jose State",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 16.792542400071397,
       "tokens": null,
       "tokens_source": null
     }
