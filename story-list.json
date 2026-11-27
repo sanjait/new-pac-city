@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-11-27T02:03:41.644218+00:00",
+  "generated_at": "2026-11-27T14:03:46.833525+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "SJSU’s Sinatra finding his way, the long way",
+        "link": "https://www.mwcconnection.com/san-jose-state-spartans-football/96406/the-long-way-home-for-sjsu-kicker-trajan-sinatra",
+        "link_kind": "item",
+        "date": "2026-11-26T17:00:00+00:00",
+        "summary": "Practice at Foothill College, 16 miles north of SJSU, lets out around 6 p.m., right when Bay Area traffic is at its worst. On a bad day, the drive home to San Jose took Trajan Sinatra over an hour and a half. Some nights, he didn&#8217;t try. &#8220;I&#8217;d be so tired after practice,&#8221; said Sinatra. [&#8230;]",
+        "author": "Vic Aquino",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "8eb1a3501dc404dd",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Pac-Mountain Pulse Ep. 18: Chase Dulude Joins to Discuss Choate’s Recent Comments, Early MBB Feels and G6 CFP Mysteries",
+        "link": "https://www.mwcconnection.com/podcast/96490/pac-12-mountain-west-podcast-jeff-choate-nevada-mens-basketball-group-of-six-college-football-playoff",
+        "link_kind": "item",
+        "date": "2026-11-26T15:00:00+00:00",
+        "summary": "Hello and welcome back to the Pac-Mountain Pulse, a Mountain West Connection podcast! In this episode, Derek is joined by fellow Mountain West Connection reporter Chase Dulude to discuss Nevada Football head coach Jeff Choate&#8217;s recent comments during his weekly press conference, early feelings in the Mountain West and Pac-12 men&#8217;s basketball season and speculation [&#8230;]",
+        "author": "Derek Raridon",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "57bcf04809c5e401",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Mountaintop View 11-26-26",
         "link": "https://www.mwcconnection.com/mountain-west-news/96440/unlv-rebels-nevada-wolf-pack-troy-calhoun-rex-johnsen",
@@ -181,34 +209,6 @@
         "channel_url": "",
         "source": "Press Break",
         "id": "fc3bcc36c530be3e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Flexing Their Muscles: Analyzing the PAC-12 Flex Week Matchup Decisions",
-        "link": "https://www.mwcconnection.com/pac-12-discussion/96360/flexing-their-muscles-analyzing-the-pac-12-flex-week-matchup-decisions",
-        "link_kind": "item",
-        "date": "2026-11-24T17:21:11+00:00",
-        "summary": "How about this for another topic to discuss at Thanksgiving dinner? The PAC-12 is treating college football fans to a Turkey Week treat, setting up their “flex” week for the first time in the new PAC’s history. The regular season finale flex concept was the talk of the town when it was introduced this offseason. [&#8230;]",
-        "author": "Dan Allison",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "fdc2d279ce2fde7e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "National Champions: New Mexico Men Make History as Lobos Claim NCAA Cross Country Crown",
-        "link": "https://www.mwcconnection.com/mountain-west-athletics/96284/national-champions-new-mexico-men-make-history-as-lobos-claim-ncaa-cross-country-crown",
-        "link_kind": "item",
-        "date": "2026-11-24T17:00:00+00:00",
-        "summary": "Four All-Americans, an undefeated season, and a dominant showing on the national stage made Saturday a truly historic day for New Mexico athletics. By Roger A. Holien &#124; Mountain West Connection TERRE HAUTE, Ind. — There are special seasons, championship seasons, and then there are seasons you never forget. For the UNM men&#8217;s cross-country program, [&#8230;]",
-        "author": "Roger A Holien",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "d26cd5d6e1a54cde",
         "sport": "all",
         "medium": "text"
       },
@@ -1904,24 +1904,23 @@
         "extent": "59 min",
         "sport": "all",
         "medium": "audio"
-      },
-      {
-        "title": "CSU Insider | Texas State Preview & Rams Athletics Update | October 13, 2026",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/1409d0cd-ad27-4603-aca3-d35ef332a313.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-10-13T06:00:00+00:00",
-        "summary": "<p>(S10, E10) This week on the Colorado State Insider Podcast, we get ready for Thursday night’s matchup between Colorado State and Texas State as the Rams return to action following their bye week. Cameron Parker, the radio voice of the Texas State Bobcats, joins Brian for an inside look at Texas State and what CSU can expect in its first road conference game of the season.</p><p>Plus, we catch up on the week that was for Colorado State volleyball and women’s soccer, looking back at the latest action for both programs.</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
-        "author": "",
-        "duration": 1868,
-        "channel_url": "https://art19.com/shows/the-colorado-state-insider",
-        "source": "The Colorado State Insider",
-        "id": "19e3e68d02a5881d",
-        "extent": "31 min",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Fresno State": [
+      {
+        "title": "Bulldogs set for two-game slate in the Big Easy Classic",
+        "link": "https://fscollegian.com/2026/11/bulldogs-set-for-two-game-slate-in-the-big-easy-classic/",
+        "link_kind": "item",
+        "date": "2026-11-27T14:00:51+00:00",
+        "summary": "The Fresno State women’s basketball team will travel to New Orleans this Thanksgiving weekend for the 2026 Big Easy Classic, scheduled for Nov. 27-28.  The Big Easy Classic is a two-day, non-conference basketball showcase that will feature six teams. Each team will play two other teams  during the showcase.  Hosted by World Sports Travel, the...",
+        "author": "Sam Quintero, Sports Reporter",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Collegian",
+        "id": "4a81b65b18cb9554",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Bulldogs set to take on the Big Easy in inaugural Second Line Showcase",
         "link": "https://fscollegian.com/2026/11/bulldogs-set-to-take-on-the-big-easy-in-inaugural-second-line-showcase/",
@@ -2218,20 +2217,6 @@
         "source": "Fresno State Athletics",
         "id": "8fe517dbf2206738",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Fresno State football looks to bounce back against Colorado State in Week 12",
-        "link": "https://fscollegian.com/2026/11/fresno-state-football-looks-to-bounce-back-against-colorado-state-in-week-12/",
-        "link_kind": "item",
-        "date": "2026-11-20T21:21:27+00:00",
-        "summary": "Following yet another tough loss to Texas State, 37-35,  the Fresno State Bulldogs return home to host the Colorado State Rams in their Week 12 matchup. The Bulldogs enter the matchup with a 5-5 overall record and a 2-4 record in conference play. Although the Bulldogs have struggled on the road the last two weeks,...",
-        "author": "Cristian Ceballos, Daily Sports Editor",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Collegian",
-        "id": "b31fc13db5808dad",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -2802,11 +2787,67 @@
     ],
     "Gonzaga": [
       {
+        "title": "No. 22 Gonzaga beats Baylor 72-64 in the Players Era 16 semifinals",
+        "link": "https://gozags.com/news/2026/11/26/mens-basketball-no-22-gonzaga-beats-baylor-72-64-in-the-players-era-16-semifinals",
+        "link_kind": "item",
+        "date": "2026-11-27T07:53:00+00:00",
+        "summary": "<img alt=\"wiggins baylor\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/26/DSC00867.jpg\" /><br /><br />LAS VEGAS (AP) — Chauncey Wiggins hit five 3-pointers and scored 19 points and No. 22 Gonzaga beat Baylor 72-64 on Thursday night in the Players Era 16 semifinals.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "4b6c811a9737203d",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
+        "title": "How Gonzaga took over in second half to beat Baylor 72-64 at Players Era 16: 'Credit their defense'",
+        "link": "http://www.spokesman.com/stories/2026/nov/26/gonzaga-rides-dominant-second-half-to-72-64-win-ov/",
+        "link_kind": "item",
+        "date": "2026-11-26T00:00:00+00:00",
+        "summary": "<p><img src=\"https://thumb.spokesman.com/NRsfgijREef0lfr0PJ7hPDDQLsI=/300x0/smart/media.spokesman.com/photos/2026/11/27/6b093863855b2.preview.jpg\" /></p><p>LAS VEGAS – Two nights after matching the Players Era record for margin of victory, No. 22 Gonzaga put together something arguably more impressive against a physical Baylor team that pocketed exhibition wins over teams currently ranked No. 3 and 4 in the country.</p><p>The Bears provided a solid test for approximately 25 minutes, but Gonzaga&#8217;s defense hit a new gear midway through the second half, holding Baylor scoreless for more than six minutes as Few&#8217;s team led by as many as 20 points in a 72-64 win at T-Mobile Arena that was more comfortable than the final score reflected.</p><p>The win sends Gonzaga (5-1) to Friday&#8217;s 8 p.m. (ESPN) Players Era 16 semifinal game against Creighton (6-1) after the Bluejays held off TCU for a 95-87 victory in Vegas on Thursday afternoon. It will be the first of two regular-season meetings between the teams, who are also playing Dec. 12 at Omaha&#8217;s CHI Arena. The winner of Friday&#8217;s game will move on to Saturday&#8217;s championship to play No. 9 Tennessee or No. 25 Louisville.</p><p>&#8220;I thought it was awesome, I thought we played a great game,&#8221; Few said. &#8220;Although it maybe wasn&#8217;t aesthetically pleasing, we knew we had to approach it like that. Baylor&#8217;s been so tough and Scott (Drew) has got them playing that physical, tough style they play and made it all the way to the championship in &#8216;21.</p><p>&#8220;We knew that watching film on them, so I challenged the guys and they did everything I asked. So super proud of them.&#8221;</p><p>Gonzaga leaned on defensive toughness and bench depth to win Wednesday&#8217;s game between teams that split their last two meetings since matching up in the 2021 national championship at Indianapolis&#8217; Lucas Oil Stadium.</p><p>Chauncey Wiggins rode a 3-point shooting heater to score 19 points off the bench, finishing 7 of 11 from the field and 5 of 7 from the 3-point line. The fifth-year wing delivered in a few key spots both in the first and second half, steering Gonzaga&#8217;s offense during an off-night for leading scorer Davis Fogle, who had just two points on 1 of 7 shooting.</p><p>Wiggins, who wasn&#8217;t eligible to play when the Bulldogs opened the season at T-Mobile Arena earlier this month, also had six rebounds, three assists, two steals and one blocked shot in his best game in a Gonzaga uniform so far.</p><p>&#8220;It just felt amazing, that sense of relief,&#8221; Wiggins said. &#8220;The guys just always being positive, coaches always being positive, just telling me I got this every day. I came out and defended, rebounded and made some shots tonight, so it felt amazing.&#8221;</p><p>Reserve forward Izan Almansa also helped Gonzaga establish a 38-28 advantage in bench points, scoring 11 points on perfect shooting (5 of 5) while grabbing four rebounds. Senior Braden Huff was GU&#8217;s second-leading scorer, adding 12 points on 6 of 13 shooting.</p><p>The Zags largely won the game by shutting down Baylor&#8217;s offense for a long stretch in the second half. The Bears were scoreless for 6 minutes, 30 seconds, missing 14 consecutive shots and 17 of 18 as the Zags continued to create separation, taking a 20-point lead on Wiggins&#8217; 3-pointer with 8 minutes, 8 seconds remaining.</p><p>&#8220;Well first I thought Gonzaga did a great job making it tough for us,&#8221; Drew said. &#8220;We shot 35% and got to credit their defense. 21% from three, got to credit their defense. I thought when they got that lead, where I was proud is it could&#8217;ve gone to 30 or 40, especially when your shooting is as poor as we were and we battled back to at least never give up and give you a glimmer of hope.&#8221;</p><p>Baylor never truly threatened Gonzaga down the stretch, but the Bears closed the deficit to single digits in the final minute when Isaac Williams made layups on consecutive possessions. Gonzaga finished 13 of 20 from the free throw line, but five of the seven misses came inside the final six minutes as Baylor was attempting to make a comeback.</p><p>The Bears were led by Williams, who scored 20 of Baylor&#8217;s 28 bench points. Sophomore guard Kayden Mingo had 10 points, six rebounds and three assists, but didn&#8217;t score after picking up his third foul with 16 minutes remaining and finished just 4 of 13 from the field. Baylor struggled from the free throw line, finishing 7 of 13 (53.8%).</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "d25a2cc104473da6",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "No. 22 Gonzaga powers past Baylor to reach Players Era 16 semifinal | Recap and highlights",
+        "link": "http://www.spokesman.com/stories/2026/nov/26/no-22-gonzaga-powers-past-baylor/",
+        "link_kind": "item",
+        "date": "2026-11-26T00:00:00+00:00",
+        "summary": "<p>LAS VEGAS – Two nights after matching the Players Era record for margin of victory, Gonzaga put together something arguably more impressive against a Baylor team expected to give Mark Few&#8217;s team one of its tougher tests of the young season.</p><p>The Bears tested the 22nd-ranked Zags for approximately 25 minutes, but Gonzaga&#8217;s defense found a new gear midway through the second half, holding Baylor scoreless for more than six minutes and leading by as many as 20 points in a comfortable 72-64 win at T-Mobile Arena.</p><!--[video id=6414]--><p>The win sends Gonzaga (5-1) to Friday&#8217;s 8 p.m. (ESPN) Players Era 16 semifinal game against Creighton (6-1) after the Bluejays held off TCU for a 95-87 victory in Vegas on Thursday afternoon. The winner will move on to Saturday&#8217;s championship to play No. 9 Tennessee or No. 25 Louisville.</p><p>Gonzaga leaned heavily on defense and depth to win Wednesday&#8217;s game between teams that had split their last two meetings after the Bears beat the Bulldogs in the 2021 national championship.</p><p><a href=\"https://www.spokesman.com/stories/2026/nov/26/gonzaga-wing-chauncey-wiggins-shows-he-can-be-impa/\" target=\"_blank\">Chauncey Wiggins came off the bench to score 19 points</a> on 7 of 11 from the field and 5 of 7 from the 3-point line. The fifth-year wing delivered in a few key spots both in the first and second half, steering Gonzaga&#8217;s offense on an off-night for leading scorer Davis Fogle, who had just two points on 1 of 7 shooting. Wiggins also had six rebounds, three assists, two steals and one block.</p><p>Reserve forward Izan Almansa also gave Gonzaga a lift off the bench, scoring 11 points on perfect shooting (5 of 5) while grabbing four rebounds. Senior Braden Huff was GU&#8217;s second-leading scorer, adding 12 points on 6 of 13 shooting.</p><p><a href=\"https://stats.statbroadcast.com/broadcast/?id=691753\" target=\"_blank\">BOX SCORE</a></p><!--[photoset id=13275]--><!--[teaser id=1367068]--><hr/><h3>Key moments</h3><h3>Zags likely to hang on</h3><p><strong>2nd, 0:40 – GU 72, GU 60:</strong> Some shaky moments for the Zags down the stretch, but they do enough to hang on. GU will face Creighton tomorrow for a spot in the Players Era 16 championship game. We will return shortly with a full recap.</p><h3>Pressure giving GU problems</h3><p><strong>2nd, 3:36 – GU 64, BU 51:</strong> Zags head to the line as they try to see this one out at the U4 media timeout. Bulldogs just 7 of 13 from the stripe in the second half, and could have put this one away already had they converted.</p><p>Baylor&#8217;s chipped away at the lead using a full court press. Zags will need Xavian lead to make smart decisions with the ball to avoid a collapse, but are in great position to advance in the final minutes.</p><hr/><h3>Gonzaga lead up to 20</h3><p><strong>2nd, 7:47 – GU 61, BU 41:</strong> Izan Almansa is called for a foul at the U8 media timeout and the Bears will have two free throws, but this is turning into a really impressive performance from the Zags on both ends of the court.</p><p>Chauncey Wiggins hit his fifth 3-pointer off the bench to extend the lead. He has 19 points leading a GU bench that has outscored Baylor&#8217;s 34-9, a real show of depth on limited rest at this tournament.</p><p>Baylor has been held to NINE points in the second half, making just 3 of 20 attempts from the field.</p><hr/><h3>Gonzaga run continues</h3><p><strong>2nd, 11:41 – GU 51, BU 38:</strong> Zags add two more baskets ahead of the U12 media timeout, the second a nice find from Davis Fogle to Izan Almansa on a backdoor cut for a dunk. Baylor whistled for a foul and GU will have free throws when play resumes.</p><p>Almansa has been another stellar contributor off the bench with nine points (4 of 4 shooting) and four rebounds.</p><!--[embed id=12554]--><hr/><h3>Zags near double-digit lead</h3><p><strong>2nd, 13:15 – GU 47, BU 38:</strong> Chauncey Wiggins gets a nice turnaround jumper to go continuing his impressive game and the Zags continue to build their lead with the Bears on a three-minute scoring drought.</p><p>Scott Drew calls a timeout after Bodo Bodo loses possession inside for a turnover.</p><p>Baylor is 3 of 10 from the field in the second half and 0-for-4 from the free throw line. Zags are 4 of 11 and 3-for-4, respectively.</p><!--[embed id=12553]--><hr/><h3>Sloppy start to second half</h3><p><strong>2nd 15:51, GU 43, BU 38:</strong> Gonzaga maintains its lead, but neither team has looked good after halftime.</p><p>The Zags are 2 of 7 from the field in the second half and have two turnovers. Baylor has similar figures. </p><p>Kayden Mingo was called for his third foul and will have to be a little less aggressive in the next passage of play. GU has the ball after the U16 media timeout.</p><hr/><h3>Gonzaga holds slight lead at halftime</h3><p>Gonzaga is up 36-32 in the second round of the Players Era 16 after an entertaining first half against Baylor.</p><p>The Zags are up thanks to its 3-point shooting, connecting on 8 of 14 3s. Chauncey Wiggins, who threw his headband in frustration after two misses on Tuesday, has hit 4 of 5 attempts from 3 for a game-high 12 points. GU has spread the ball well, but will want to get more looks in transition in the second half.</p><p>Baylor has eight offensive rebounds, but just two second chance points. Neither team has attempted a free throw.</p><!--[embed id=12552]--><hr/><h3>Fire after ice</h3><p><strong>1st, 1:30 – GU 36, BU 27:</strong> Gonzaga connects on three straight 3-pointers out of the media timeout, two from Chauncey Wiggins and one from Nathan De Sousa, forcing the Bears to call timeout.</p><p>Impressive half from Wiggins, who has a game-high 12 points with four 3s.</p><hr/><h3>GU offense goes cold</h3><p><strong>1st, 3:32 – GU 27, BU 27:</strong> Xavian Lee called for a foul at the U4 media timeout.</p><p>Zags briefly lost the lead, but tied the score on a jumper from Braden Huff. Before that GU hit one of its previous eight shots. Some tough looks yielded ugly results for Davis Fogle and Massamba Diop, who both put up air balls.</p><p>GU shooting 44% from the floor, while Baylor is 39%. Zags had far less ball movement in the half court leading to the shooting slump.</p><hr/><h3>Zags take first lead</h3><p><strong>1st, 9:19 – GU 22, BU 18:</strong> Gonzaga surges ahead behind some quality minutes from Chauncey Wiggins.</p><p>The GU wing, who was not eligible until before the LSU game, adds a second 3-pointer in the quarter, then adds a fast break assist on a dunk to Izan Almansa. Baylor calls its first timeout.</p><hr/><h3>Trading baskets</h3><p><strong>1st, 10:54 – BU 16, GU 15:</strong> Brett Deck Jr. knocks down a transition 3-pointer for the Bears, but Xavian Lee finds Chauncey Wiggins in the corner for an immediate response ahead of the U12 media timeout.</p><p>Zags not finding many chances to push the pace yet, but doing well to move the ball in the half court and find open looks. Baylor has led the whole way so far. Bears have five offensive boards, but just two second chance points.</p><!--[embed id=12551]--><hr/><h3>Lee connects from deep</h3><p><strong>1st, 14:48 – BU 11, GU 9:</strong> Xavian Lee continues his hot streak in Las Vegas hitting his first 3-point attempt of the game. Zags trailing narrowly at the first media timeout.</p><hr/><h3>Starting with some stuffing</h3><p><strong>1st, 16:28 – BU 11, GU 6:</strong> Bears open the scoring with an ally-oop from Elijah Williams and keep the jams coming with two more from Juslin Bodo Bodo.</p><p>Davis Fogle responds with his own ally-oop for the Zags, who are trailing early as the Bears hit 5 of their first 6 attempts from the field. Huff adds four points for GU.</p><!--[embed id=12550]--><hr/><h3>Crowd check in</h3><p>There have been plenty of empty seats for every game in Las Vegas this week. At least for Gonzaga&#8217;s two games so far, there are a few less.</p><p>Official attendance for Tuesday&#8217;s game against Kansas State was 2,360. Probably a similar number on hand tonight.</p><!--[embed id=12549]--><hr/><h3>Tipoff time pushed back</h3><p>Start time has been pushed back 20 minutes to 8:53 p.m. on ESPN, after Alabama beat Kansas State 104-91 at T-Mobile Arena.</p><!--[embed id=12548]--><!--[embed id=12547]--><hr/><h3>Pregame</h3><p>The Gonzaga basketball team showed its offensive potential on Tuesday.</p><p>The Zags&#8217; second game at the Players Era 16 looks to be an entirely different challenge.</p><p>The No. 22 Bulldogs (4-1), coming off <a href=\"https://www.spokesman.com/stories/2026/nov/24/xaivian-lee-gonzaga-make-statement-with-101-61-vic/\" target=\"_blank\">a 101-61 win over Kansas State</a>, will take on <a href=\"https://www.spokesman.com/stories/2026/nov/25/gonzaga-expecting-much-bigger-challenge-from-secon/\" target=\"_blank\">Baylor in the second round of the in-season tournamen</a>t on Thursday night in Las Vegas. Tipoff is set for 8:30 p.m. on ESPN.</p><p>The Bears (5-1) took down No. 15 Alabama 68-63 in their tournament opener on Tuesday, limiting the Crimson Tide to 35% shooting from the field and 23% on 3-pointers. </p><p>Baylor has seemed to find its defensive identity again under coach Scott Drew – the same one it leaned on to win the 2021 national championship over Gonzaga in convincing fashion.</p><p>Baylor also earned exhibition wins over No. 3 Florida and No. 4 Illinois before the regular season began. The Bears&#8217; lone loss came against No. 7 Texas 75-72 on Nov. 15.</p><p>Gonzaga, though, has the tools to break down the Bears&#8217; brotherly backcourt <a href=\"https://www.spokesman.com/stories/2026/nov/25/brothers-dylan-kayden-mingo-pacing-baylor-in-multi/\" target=\"_blank\">duo of Kayden and Dylan Mingo</a>. GU guard Xaivian Lee was unplayable Tuesday night, pushing the floor with pace to the tune of 11 points, 11 assists and nine rebound sin 23 minutes. The fast, facilitating Zags totaled 26 assists against eight turnovers to blow out Kansas State.</p><p>Gonzaga is favored by 4½ points, <a href=\"https://www.vegasinsider.com/college-basketball/odds/las-vegas/\" target=\"_blank\">according to vegasinsider</a>.</p><p>The winner will advance to play Creighton on Friday for a spot in Saturday&#8217;s Players Era 16 championship. The loser will face TCU, who lost to the Blue Jays 95-87 on Thursday.</p><!--[embed id=12545]--><!--[embed id=12546]--><hr/><h3>Preview coverage</h3><!--[teaser id=1367006]--><!--[teaser id=1367008]--><hr/><h3>Last time out</h3><!--[teaser id=1366965]--><!--[teaser id=1366966]--><!--[teaser id=1366964]--><!--[video id=6413]--><hr/><h3>The recruiting trail</h3><!--[teaser id=1366899]--><!--[teaser id=1366805]-->",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "d07e7c53731b5063",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Gonzaga wing Chauncey Wiggins shows he can be impact player in win over Baylor | 3 takeaways",
+        "link": "http://www.spokesman.com/stories/2026/nov/26/gonzaga-wing-chauncey-wiggins-shows-he-can-be-impa/",
+        "link_kind": "item",
+        "date": "2026-11-26T00:00:00+00:00",
+        "summary": "<p>Three takeaways at the buzzer from <a href=\"https://www.spokesman.com/stories/2026/nov/26/no-22-gonzaga-powers-past-baylor/\" target=\"_blank\">No. 22 Gonzaga’s 72-64 win over Baylor on Thursday</a> at T-Mobile Arena in Las Vegas.</p><h3>Wiggins finds shooting stroke</h3><p>With leading scorer Davis Fogle struggling offensively, Gonzaga had to turn elsewhere for scoring sources.</p><p>Enter Chauncey Wiggins and his quick-release 3-point shot. The Florida State transfer was so frustrated after missing a few 3-point attempts in Tuesday’s rout over Kansas State, he tossed his headband into the seats. His 3-point stroke was smooth against the Bears and his headband stayed in place.</p><!--[embed id=12555]--><p>Wiggins missed his first 3 but nailed his next four as the Zags erased an early Baylor lead and built a 36-32 halftime lead. Along the way, Wiggins made several nice defensive plays, forcing a turnover on a Kayden Mingo drive and adding a steal.</p><p>The 6-foot-11 forward did some damage inside the arc in the second half. He hit a pretty turnaround jumper in the lane to boost GU’s lead to 45-38. With just over 9 minutes left, he caught a pass about 25 feet from the hoop and used a hesitation move to set up a floater in the paint.</p><p>Wiggins connected on a 25-foot shot about a minute later as the Zags’ lead grew to 61-41.</p><p>Wiggins finished with 19 points – he scored 15 in 46 minutes in his first three games as a Zag – and his five 3s matched Baylor’s total on 18 fewer attempts.</p><h3>Defense doesn’t rest</h3><p>Gonzaga’s first-shot defense was stout against the Bears. Same goes for GU’s second- and third-shot defense when Baylor was collecting offensive rebounds.</p><p>Baylor made just 39% of its shots in the first half and eight offensive boards only resulted in two points. The Zags clamped down even tighter for a long second-half span as the Bears misfired on 14 straight shots and 17 out of 18.</p><p>The Bears heated up after falling behind by 20 points, helped in part by second-chance points and Gonzaga turnovers, but GU’s lead stayed in double digits until a Baylor basket with 22 seconds remaining.</p><p>Gonzaga shut down Baylor’s talented backcourt trio of Brett Decker Jr. and the Mingo brothers, Kayden and Dylan. Decker fell far short of his 15-point averaging, hitting just 2 of 9 shots and scoring six points. The Mingo brothers generate nearly 29 points per game, but they were limited to 18 points on 8-of-25 shooting.</p><p>Isiah Harwell, who had two blocked shots, and point guards Xaivian Lee and Nathan De Sousa were the primary defenders on Baylor’s guards. GU’s bigs provided quality rim protection when Decker and the Mingo brothers put up shots after driving into the lane.</p><p>Gonzaga’s defense, other than a shaky first half vs. New Mexico State and several stretches against LSU, has been solid early on this season.</p><h3>Bench produces</h3><p>There were two glaring differences on stat sheet, both a direct reflection of Wiggins’ contribution to Gonzaga’s impressive win.</p><p>Gonzaga dominated behind the 3-point line, making 9 of 20 (45%) while the Bears hit 5 of 25 (20%).</p><p>GU also had a major advantage in bench points. Wiggins’ 19 accounted for half of the reserves point total of 38. Izan Almansa added 11 points on 5-of-5 shooting and De Sousa chipped in eight points, four rebounds and three assists.</p><p>Baylor’s four subs accounted for 28 points.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "b2a94060935c3b4d",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
         "title": "Lisa Fortier grateful for community built around GU women's hoops after becoming program's winningest coach",
         "link": "http://www.spokesman.com/stories/2026/nov/26/lisa-fortier-grateful-for-community-built-around-g/",
         "link_kind": "item",
         "date": "2026-11-26T00:00:00+00:00",
-        "summary": "<p>Back when Lisa Fortier took over the Gonzaga women’s basketball program, she was just happy to win her first game as head coach.</p><p>It was a rough first half in her debut on Nov. 16, 2014, when Fortier’s first team faced Dayton at McCarthey Athletic Center. The Zags trailed 33-22 at halftime. But they bounced back in the second half, outsourcing the Flyers 53-32 for a 75-65 win.</p><p>Fast forward to Nov. 18, when the Bulldogs handled Montana 84-61, a win that pulled her even with the winningest coach in school history, Kelly Graves, who she succeeded.</p><p>Coming into the season it was inevitable that Fortier would get the four wins necessary to vault past Graves. Three days after pulling even with him, Fortier took over the top spot when Gonzaga rallied to top Hawaii 63-57 in the North Shore Showcase in Oahu, Hawaii.</p><p>Surpassing the coach Fortier assisted for seven seasons wasn’t anywhere on her mind when she took over the program.</p><p>Fortier, by nature, doesn’t spend time contemplating personal accomplishments. But asked about the record, she took a few moments to reflect.</p><p>“What first comes to mind is it’s a little bit like a montage of my life,” Fortier said. “I’ve been here for 21 or 22 years – from grad school except for the nine months away (as an assistant at Northern Colorado). My life has happened while I’ve been coaching here as both an assistant and head coach. There’s been people we have met along the way who’ve become dear friends of ours. We’ve lost people along the way. So when I think of coaching here for so long I can visually see it kind of go in front of my eyes. I’m so grateful for all of those opportunities to coach in big games and to coach great players and to work with people who are really good at their job. I love being part of the community here. That’s the best part of being a Zag.”</p><p>Fortier, 45, has spent nearly half of her adult life at Gonzaga. And she and her husband Craig – an assistant since his wife took over the program – have watched their three children grow up around the program.</p><p>Her former boss is pleased she has passed him.</p><p>“She and her staff have done many outstanding things,” said Graves, now in his 13th season at Oregon. “I’m happy for her. It’s great to see a friend do what she’s done. The Spokane community is blessed to have Lisa guiding the program.”</p><p>Relationships have been at the core of Fortier’s coaching principles. She was reminded of that in Hawaii when she visited with a former player Saturday.</p><p>“I got snacks and a lei from a former player of ours that we coached when I wasn’t the head coach,” said Fortier, who has received several congratulation texts from former players. “It just continues to be really important to me to be part of a program, both my time as an assistant and my time as a head coach, where people care well for each other, people cheer for each other. We do things together and we’re a meaningful part of peoples’ lives. I’m happy to have done that for so long here at Gonzaga.”</p><p>Fortier conquered a bigger-than-coaching obstacle when she was diagnosed with cancer with a month left in the 2023-24 season. She had surgery a month following the season and was in recovery when the 2024-25 season tipped off.</p><p>She didn’t miss a game. And even when she was supposed to take time to herself during the early stages of recovery, she was always checking on her players.</p><p>How Fortier courageously tackled her recovery and continued to coach spoke volumes to graduate Ines Bettencourt and junior Lauren Whittaker, both of whom watched it first hand.</p><p>“Those were probably some of the toughest times she went through,” Bettencourt said. “And we went through it as well because we were all there for her. Seeing her succeed after all that she had to go through, you never know what could happen in those situations with your health. She just pulled through every single day. … It’s great she has us and basketball to make her life happier.”</p><p>Whittaker agreed. She’s thankful to have been part of the milestone victories this season.</p><p>“It’s a testament to what herself and the other coaches have built here,” Whittaker said. “In this day and age it’s hard to get a coaching staff that sticks around as long as they have. They’ve built something successful that’s long lasting and (has) longevity. Obviously she deserves all the flowers.”</p><p>Fortier needed fewer games to get to the top than Graves. His 316 victories came in 14 seasons (452 overall), and Fortier reached 317 in the seventh game of her 13th year (404th overall).</p><p>She’s the only coach in program history to have 11 20-win or more seasons in her first 12 years coaching. Last year, Fortier tied highly successful LSU coach Kim Mulkey as the fastest Division I coach to reach 300 victories. Both achieved the milestone in their 379th career game.</p><p>Earlier this season, Fortier coached in her 400th career game.</p>",
+        "summary": "<p>Back when Lisa Fortier took over the Gonzaga women’s basketball program, she was just happy to win her first game as head coach.</p><p>It was a rough first half in her debut on Nov. 16, 2014, when Fortier’s first team faced Dayton at McCarthey Athletic Center. The Zags trailed 33-22 at halftime. But they bounced back in the second half, outscoring the Flyers 53-32 for a 75-65 win.</p><p>Fast forward to Nov. 18, when the Bulldogs handled Montana 84-61, a win that pulled her even with the winningest coach in school history, Kelly Graves, who she succeeded.</p><p>Coming into the season it was inevitable that Fortier would get the four wins necessary to vault past Graves. Three days after pulling even with him, Fortier took over the top spot when Gonzaga rallied to top Hawaii 63-57 in the North Shore Showcase in Oahu, Hawaii.</p><p>Surpassing the coach Fortier assisted for seven seasons wasn’t anywhere on her mind when she took over the program.</p><p>Fortier, by nature, doesn’t spend time contemplating personal accomplishments. But when asked about the record, she took a few moments to reflect.</p><p>“What first comes to mind is it’s a little bit like a montage of my life,” Fortier said. “I’ve been here for 21 or 22 years – from grad school except for the nine months away (as an assistant at Northern Colorado). My life has happened while I’ve been coaching here as both an assistant and head coach. There’s been people we have met along the way who’ve become dear friends of ours. We’ve lost people along the way. So when I think of coaching here for so long I can visually see it kind of go in front of my eyes. I’m so grateful for all of those opportunities to coach in big games and to coach great players and to work with people who are really good at their job. I love being part of the community here. That’s the best part of being a Zag.”</p><p>Fortier, 45, has spent nearly half of her adult life at Gonzaga. And she and her husband Craig – an assistant since his wife took over the program – have watched their three children grow up around the program.</p><p>Her former boss is pleased she has passed him.</p><p>“She and her staff have done many outstanding things,” said Graves, now in his 13th season at Oregon. “I’m happy for her. It’s great to see a friend do what she’s done. The Spokane community is blessed to have Lisa guiding the program.”</p><p>Relationships have been at the core of Fortier’s coaching principles. She was reminded of that in Hawaii when she visited with a former player Saturday.</p><p>“I got snacks and a lei from a former player of ours that we coached when I wasn’t the head coach,” said Fortier, who has received several congratulation texts from former players. “It just continues to be really important to me to be part of a program, both my time as an assistant and my time as a head coach, where people care well for each other, people cheer for each other. We do things together and we’re a meaningful part of peoples’ lives. I’m happy to have done that for so long here at Gonzaga.”</p><p>Fortier conquered a bigger-than-coaching obstacle when she was diagnosed with cancer with a month left in the 2023-24 season. She had surgery a month following the season and was in recovery when the 2024-25 season tipped off.</p><p>She didn’t miss a game. And even when she was supposed to take time to herself during the early stages of recovery, she was always checking on her players.</p><p>How Fortier courageously tackled her recovery and continued to coach spoke volumes to graduate Ines Bettencourt and junior Lauren Whittaker, both of whom watched it first hand.</p><p>“Those were probably some of the toughest times she went through,” Bettencourt said. “And we went through it as well because we were all there for her. Seeing her succeed after all that she had to go through, you never know what could happen in those situations with your health. She just pulled through every single day. … It’s great she has us and basketball to make her life happier.”</p><p>Whittaker agreed. She’s thankful to have been part of the milestone victories this season.</p><p>“It’s a testament to what herself and the other coaches have built here,” Whittaker said. “In this day and age it’s hard to get a coaching staff that sticks around as long as they have. They’ve built something successful that’s long lasting and (has) longevity. Obviously she deserves all the flowers.”</p><p>Fortier needed fewer games to get to the top than Graves. His 316 victories came in 14 seasons (452 overall), and Fortier reached 317 in the seventh game of her 13th year (404th overall).</p><p>She’s the only coach in program history to have 11 20-win or more seasons in her first 12 years coaching. Last year, Fortier tied highly successful LSU coach Kim Mulkey as the fastest Division I coach to reach 300 victories. Both achieved the milestone in their 379th career game.</p><p>Earlier this season, Fortier coached in her 400th career game.</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -3368,20 +3409,6 @@
         "medium": "text"
       },
       {
-        "title": "AP voters ding Gonzaga for LSU loss, drop Bulldogs eight spots to No. 22 in newest poll",
-        "link": "http://www.spokesman.com/stories/2026/nov/16/ap-voters-ding-gonzaga-for-lsu-loss-drop-bulldogs-/",
-        "link_kind": "item",
-        "date": "2026-11-16T00:00:00+00:00",
-        "summary": "<p>Gonzaga won’t know the full impact of Saturday’s 81-80 loss to LSU until Selection Sunday, but the Bulldogs felt one of the immediate ramifications when the newest Associated Press Top 25 poll came out Monday morning.</p><p>Previously ranked at No. 14, Gonzaga dropped eight spots to No. 22 – one of the most significant changes for any team in the second regular-season edition of the weekly poll.</p><p>LSU wasn’t receiving any AP votes last week, but Will Wade’s team made a big move after Saturday’s come-from-behind victory, debuting in the rankings at No. 25.</p><p>There were a handful of changes inside the top five and top 10 of the poll after a handful of ranked-on-ranked matchups throughout the week.</p><p>Florida stayed put at No. 1 while Michigan State moved up three spots to No. 2, UConn moved one spot to No. 3, Virginia slid up two spots to No. 4 and Duke dropped three spots to No. 5. Rounding out the top 10 were No. 6 Texas, No. 7 UCLA, No. 8 Houston, No. 9 Texas Tech and No. 10 Illinois.</p><p>Former Gonzaga assistant Tommy Lloyd and Arizona are not far outside the top 10 and will spend their second consecutive week at No. 12.</p><p>Louisville experienced the biggest shift in the AP poll, dropping 13 spots to No. 23 after a 98-78 loss to Memphis on Sunday afternoon. Bluegrass State rival Kentucky tumbled out of the poll after narrowly beating Big Sky opponent Northern Arizona earlier in the week on a late 3-pointer from Alex Wilkins.</p><p>The Zags enter a single-game week and host Montana State on Tuesday, but there could be opportunities to make up ground in the AP poll when Mark Few’s team heads to the Players Era 16 next Tuesday.</p><p>In Las Vegas, Gonzaga could play as many as three ranked opponents after a first-round matchup against unranked Kansas State. The Players Era field includes No. 9 Texas Tech, No. 13 St. John’s, No. 14 Tennessee, No. 16 Alabama, No. 17 Miami, No. 18 Michigan and No. 23 Louisville. Iowa State, Baylor and TCU – each of whom is receiving AP votes – are also in the 16-team field.</p><p>Gonzaga stayed inside the top 20 of the USA Today Coaches Poll, falling seven spots to No. 19. LSU also made its debut in the Coaches Poll, slotting in at No. 25.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "9720fc1e12f03acf",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "LSU Uses Last Second Shot to Beat Gonzaga, 81-80",
         "link": "https://gozags.com/news/2026/11/14/mens-basketball-lsu-uses-last-second-shot-to-beat-gonzaga-81-80",
         "link_kind": "item",
@@ -3410,20 +3437,6 @@
         "medium": "text"
       },
       {
-        "title": "Gonzaga's offensive execution falters down the stretch of LSU loss | Rewind",
-        "link": "http://www.spokesman.com/stories/2026/nov/15/gonzagas-offensive-execution-falters-down-the-stre/",
-        "link_kind": "item",
-        "date": "2026-11-15T00:00:00+00:00",
-        "summary": "<p>There might be some apprehension from Gonzaga fans the next time the Bulldogs establish a double-digit lead against a marquee nonconference opponent.</p><p>Mark Few’s team escaped against Purdue in the season opener despite watching an 11-point lead shrivel away late in the second half.</p><p>Gonzaga appeared to be in even better shape on Saturday against LSU, going up by 13 points with 8 minutes, 11 seconds to play and maintaining an eight-point cushion with under three minutes left at Numerica Veterans Arena.</p><p>An avalanche of Gonzaga errors and tidal wave of LSU 3-pointers followed, allowing the Tigers to claw back and pull off a stunning upset on Donovan Dent’s clutch stepback 3 with 1.5 seconds remaining.</p><p>“Just a great win for us, you know, come back from 13 down with eight minutes left,” LSU coach Will Wade said. “Got to stay connected. I mean, this is the first time I’ve been up here. It’s an incredible atmosphere and the only thing I can compare it to when I was at VCU, but this is like VCU times five. Just to see the students and the buses pulled around this morning and the line was, I don’t even know how long it was, but they’re 190-9 up here.”</p><p>Now 190-10, as Wade astutely pointed out to LSU players in a postgame locker room video shared to the Tigers’ social media platforms.</p><p>Free-throw shooting, defensive rebounding and late-game offensive execution will all be on the to-do list for the 14th-ranked Zags, who figure to drop a few spots in Monday’s updated Associated Press poll.</p><p>We take another look at what went wrong and review some of the positives from Gonzaga’s first loss in our day-after rewind.</p><h3>Closing time</h3><p>It was an up-and-down game for Davis Fogle, one of Gonzaga’s most important players down the stretch two weeks earlier against Purdue.</p><p>Fogle registered two early steals against LSU, but missed his first four shots from the field and six of his first eight. The sophomore wing experienced lower-body cramps early in the second half and left the game for approximately four minutes before returning with 11:21  to go.</p><p>Fogle found an offensive rhythm, making his next four shots and converting two free throws to score nine points over a span of six minutes, but Gonzaga’s top scorer – and virtually every teammate – went ice-cold down the stretch, missing a jumper with 29 seconds left, coming up short on the back end of a 1-and-1 free throw set and missing a 40-foot heave at the buzzer.</p><p>“I think just coming back, just do whatever it took to win,” Fogle said. “I mean, they were playing great when I came back in, and then down the stretch, it’s kind of like (Braden Huff) said, there’s no excuse that we were tired. We got to come down with those rebounds and seal out the game.”</p><p>It’s likely Gonzaga will continue putting the ball in Fogle’s hands down the stretch of tight games. The Anacortes native is GU’s most versatile offensive option, the team’s top scorer at 19.7 ppg and generally reliable at the charity stripe. Fogle went 9 of 10 from the line against Purdue and 3 of 4 against New Mexico State before finishing 4 of 7 against LSU.</p><h3>Making way for Wiggins</h3><p>Chauncey Wiggins broke out a navy dress suit for his preliminary injunction hearing Thursday afternoon at Spokane County Courthouse. Two days later, Wiggins was dressed in a white No. 9 jersey, making his long-awaited Gonzaga debut after spending the last three months in eligibility limbo.</p><p>“He’s been a Zag throughout his whole process,” Fogle said, “so it’s awesome to finally get him out on the court with us, and he’s definitely going to find his stride and help us a lot as he did tonight.”</p><p>Wiggins subbed in at the 14:39 mark of the first half and pulled down two rebounds inside his first three minutes of action. The Florida State transfer missed his first two shots from the field, but connected on Gonzaga’s first 3-pointer of the game after eight consecutive misses.</p><p>“We’re happy he’s back and I think he’s going to be a big piece for us,” Huff said. “Now it’s just about getting his rhythm, finding his role and just figuring out all that stuff. But he’s going to be a good piece for us and we’re excited to have him playing with us.”</p><p>Wiggins finished with three points and three rebounds in 12 minutes. He was 1 of 3 from the field and 1 of 2 from the 3-point line. The veteran wing was on the floor in the final minutes and guarding Dent when LSU’s guard pulled up for the game-winning 3.</p><p>Unprompted, Wade brought up Wiggins in his postgame news conference after the LSU coach was asked about Tigers forward RJ Luis Jr., who recently earned an injunction from a Louisiana judge but didn’t travel with the team to Spokane.</p><p>“I can’t comment on that because we’re in litigation still,” he said. “But I will say this, I’m happy Wiggins got cleared. I know most coaches would be up here complaining. Wiggins should have played the first two games. I’ve talked to coach Few, we’ve had like weekly standing calls with all the eligibility stuff, but I’m thrilled for Wiggins. I’m glad that he was – not happy he hit the 3 on us – but I’m glad that he was able to get there.</p><p>“It’s just a shame that he had to miss two games and the exhibitions, and the exhibition game he missed against Arkansas was a high-level game – and he had to miss those games just because adults won’t do what the right thing is. It was great talking with the crowd, and the crowd’s reaction when he came in the game. Because it’s tough when these kids mentally get jerked around back and forth like that. But I’m happy that Wiggins was able to play and these are the eight we’re rolling with.”</p><h3>High praise for Harwell</h3><p>Fogle and Huff have paced Gonzaga from a scoring standpoint, but sophomore guard Isiah Harwell has quietly been one of the team’s top producers through three games.</p><p>Numerica Veterans Arena was anything but quiet when Harwell made a 3-pointer to break a 49-49 tie in the second half and erupted for the second time when the guard knocked down his second 3 to open up an eight-point Gonzaga lead with about 12 minutes to play.</p><p>Minutes before Fogle exited the game with cramps, Harwell took a hard shot to the chest on the defensive end of the floor. Few and athletic trainer Josh Therrien helped the guard off the floor, but he returned three minutes later.</p><p>“I thought he was really, really courageous,” Few said. “He really got the wind knocked out of him, I have to look at the play, but he was really, really hurting. But then to jump right back in there and make some huge kind of tough minded, really, veteran savvy kind of shots, I thought.”</p><p>Harwell, who had just three double-digit scoring performances last season at Houston, now has consecutive double-digit efforts with 22 points against NMSU and 14 against LSU. Behind Fogle and Huff, he’s GU’s third-leading scorer, averaging 12.7 ppg to go with 3.0 rpg.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "a0c2a297029c0b1e",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Gonzaga women just miss upset as Stanford rallies for 67-65 win",
         "link": "http://www.spokesman.com/stories/2026/nov/15/gonzaga-women-just-miss-upset-as-stanford-rallies-/",
         "link_kind": "item",
@@ -3435,20 +3448,6 @@
         "source": "The Spokesman-Review",
         "id": "bf419dc448872ce5",
         "sport": "wbb",
-        "medium": "text"
-      },
-      {
-        "title": "LSU's Donovan Dent hits dagger 3 to complete 13-point comeback against Gonzaga",
-        "link": "http://www.spokesman.com/stories/2026/nov/14/lsus-donovan-dent-hits-dagger-3-to-complete-13-poi/",
-        "link_kind": "item",
-        "date": "2026-11-14T00:00:00+00:00",
-        "summary": "<p>LSU’s Donovan Dent ran red-hot in the first half, navigated an ice-cold stretch in the second and finished Gonzaga off with a stone-cold 3-pointer in the waning seconds of an exhilarating come-from-behind victory at Numerica Veterans Arena.</p><p>Gonzaga led by 13 points with 8 minutes, 11 seconds remaining when a late 3-point shooting flurry kickstarted LSU’s comeback. The Tigers connected on four 3’s in less than three minutes before Dent laced a 24-foot step-back shot over Chauncey Wiggins, instantly quieting a sellout crowd of 12,000 fans. A 45-foot heave from Davis Fogle ricocheted off the backboard as the buzzer sounded, sealing the first loss of the season for 14th-ranked Gonzaga and snapping a seven-game win streak at the Arena.</p><p>After corresponding with Dent about a potential move to Gonzaga this offseason, Mark Few’s team instead had to watch the fifth-year point guard post 23 points and dial up 10 assists in an LSU uniform. Dent scored 16 points in the first half but the UCLA transfer managed only four more in the second before the late 3-point dagger. Dent crossed halfcourt, stopping at the left wing before putting a dribble-move on Wiggins to create separation, giving him a clean look at the rim with less than five seconds on the game clock.</p><p>“My guy tripped at the halfcourt,” Dent said, describing the final play. “I was kind of giving it a running start momentum, so I’d get the pitch back. We got the switch and I don’t think we wanted to go to overtime here, so I knew I was shooting no matter what, and it went in.”</p><p>Dent, who planned to retire from basketball after the 2025-26 season, elected to pursue another season of eligibility late in the summer and touched base with Few’s coaching staff after Gonzaga lost starting point guard Mario Saint-Supery on July 11.</p><p>“It’s a great program. (Gonzaga) reached out to me, LSU reached out to me,” Dent said. “Ultimately I chose coach (Will) Wade and his staff, and I’m happy with it.”</p><!--[photoset id=13266]--><p>Dent and the transfer point guard Gonzaga eventually signed, Florida’s Xaivian Lee, both won a preliminary injunction in California three months ago, clearing both to compete in 2026-27 and putting them on opposite ends of the court Saturday afternoon.</p><p>Lee picked up two fouls inside the first two minutes and was whistled for his third before halftime. Gonzaga’s starting point guard provided some clutch shooting in the second half, but also committed a costly turnover with 1 minute, 11 seconds left, traveling after he slipped on a sideline out-of-bounds play.</p><p>Gonzaga made a series of late mental mistakes, unraveling down the stretch of a game the Bulldogs appeared in firm control of when Braden Huff’s short jumper extended the lead to 68-55.</p><p>Gonzaga made 12 of 15 shots from the field at one point in the second half to build a double-digit lead, but finished 4 of 13 down the stretch and didn’t make a shot in the final three minutes.</p><p>Meanwhile, LSU settled into an offensive groove late in the game, making 8 of its final 12 shots while getting nine points on three 3-pointers from guard Abdi Bashir Jr. in the final 5 minutes, 20 seconds.</p><p>“Obviously we did lose shooters, some of it was the actions they were running,” Few said. “We have to tag on their bigs rolling, got a couple of guys miss the low hole so they had to cover in or give up a dunk. Then obviously just the offensive glass I thought was a key again. Just huge, huge offensive rebound after offensive rebound.</p><p>“We’d get a stop on the first action and then they’d just pin their ear back and we couldn’t get an offensive rebound at the end, including a huge one on a free throw, which we’ve worked on a lot.”</p><p>Bashir Jr. supplemented LSU’s scoring with 15 points on 5 of 8 shooting from the 3-point line for a Tigers team that finished 8 of 14 from distance in the second half.</p><p>Huff led Gonzaga with 18 points and 13 rebounds, finishing 8 of 16 from the field. Fogle overcame a slow offensive start and navigated lower-body cramps in the second half to finish with 15 points on 5-of-13 shooting, 1 of 5 from the 3-point line and 4 of 7 from the free throw line. Fogle also had eight rebounds and six assists. Shooting guard Isiah Harwell lifted Gonzaga’s offense in the second half with a pair of 3-pointers and finished with 14 points.</p><p>Gonzaga was 0 of 8 from deep before Wiggins made the team’s first 3-pointer with 17 minutes, 35 seconds remaining in the second half. Wiggins, who secured a fifth year of eligibility Thursday afternoon through a preliminary injunction in Spokane Country, had three points in 13 minutes for Gonzaga.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "08599110c508cca3",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -3518,20 +3517,6 @@
         "channel_url": "",
         "source": "Gonzaga Athletics",
         "id": "557fcd3275653f88",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "No. 15 Gonzaga Rolls Past New Mexico State, 109-68",
-        "link": "https://gozags.com/news/2026/11/7/mens-basketball-no-15-gonzaga-rolls-past-new-mexico-state-109-68",
-        "link_kind": "item",
-        "date": "2026-11-08T01:21:00+00:00",
-        "summary": "<img alt=\"NCAA Basketball: New Mexico State at Gonzaga\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/7/img_tag_reuters.com_2026_newsml_MT1USATODAY30304569_501644916_mm2uV.jpg\" /><br /><br />SPOKANE, Wash. (AP) — Davis Fogle and Isiah Harwell each scored 22 points, Braden Huff added 20 and No. 15 Gonzaga beat New Mexico State 109-68 on Saturday.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "34fc1a1d1a5381a8",
         "sport": "mbb",
         "medium": "text"
       },
@@ -3747,6 +3732,34 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "Scouting the Bulldogs: 5 questions, prediction with a Fresno State reporter",
+        "link": "https://www.oregonlive.com/beavers/2026/11/scouting-the-bulldogs-5-questions-prediction-with-a-fresno-state-reporter.html",
+        "link_kind": "item",
+        "date": "2026-11-27T14:00:00+00:00",
+        "summary": "Insight into the Bulldogs ahead of Saturday night's game with the Beavers.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "e8cfea5515058594",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2027 defensive back flips commitment from Oregon State to North Dakota State",
+        "link": "https://www.oregonlive.com/recruiting/2026/11/2027-defensive-back-flips-commitment-from-oregon-state-to-north-dakota-state.html",
+        "link_kind": "item",
+        "date": "2026-11-27T02:43:01+00:00",
+        "summary": "Oregon State has lost a second defensive back commitment in as many days.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "94e1c908136f45bf",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "Oregon State RBs, DBs expected to play vs. Fresno State",
         "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-running-backs-defensive-backs-in-line-to-play-vs-fresno-state.html",
@@ -4462,20 +4475,6 @@
         "medium": "text"
       },
       {
-        "title": "Scouting the Aggies: 5 questions, prediction with a Utah State reporter",
-        "link": "https://www.oregonlive.com/beavers/2026/11/scouting-the-aggies-5-questions-prediction-with-a-utah-state-reporter.html",
-        "link_kind": "item",
-        "date": "2026-11-20T14:00:00+00:00",
-        "summary": "Insight into the Aggies before Saturday night's game with the Beavers.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "cb629e5e47a4e57c",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Beavers advance to second round of NCAA Tournament for first time since 2023",
         "link": "https://dailybaro.orangemedianetwork.com/33904/daily-barometer-sports/daily-barometer-sports-mens-soccer/beavers-advance-to-second-round-of-ncaa-tournament-for-first-time-since-2023/",
         "link_kind": "item",
@@ -4486,48 +4485,6 @@
         "channel_url": "",
         "source": "The Daily Barometer",
         "id": "8019688f116e85e6",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Beavers basketball makes an in-state statement as Justin Joyner era takes off | Bill Oram",
-        "link": "https://www.oregonlive.com/sports/2026/11/beavers-basketball-make-an-in-state-statement-as-justin-joyner-era-takes-off-bill-oram.html",
-        "link_kind": "item",
-        "date": "2026-11-20T06:31:12+00:00",
-        "summary": "With Gary Payton and other alums on hand, Oregon State notches first win over rival Ducks in 10 tries.",
-        "author": "Bill Oram",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "6aeee231af83d0ad",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "OSU secondary takes another hit with Howard ruled out",
-        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-backup-safety-out-vs-utah-state.html",
-        "link_kind": "item",
-        "date": "2026-11-20T06:16:44+00:00",
-        "summary": "Oregon State’s depth in the secondary is going to be stretched even further against Utah State.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "2e62b12a99294fc0",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Legend Smiley, Oregon State snap 9-game losing streak to Oregon",
-        "link": "https://www.oregonlive.com/collegebasketball/2026/11/legend-smileys-7-threes-help-oregon-state-snap-9-game-losing-streak-to-oregon.html",
-        "link_kind": "item",
-        "date": "2026-11-20T06:12:37+00:00",
-        "summary": "Oregon State ended a nine-game losing streak to Oregon behind Legend Smiley's 21 points and seven three-pointers in an 82-71 victory at Moda Center.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "595c7a3a77606d46",
         "sport": "all",
         "medium": "text"
       },
@@ -4622,7 +4579,7 @@
         "link_kind": "item",
         "date": "2026-11-17T19:18:28+00:00",
         "summary": "<p>The Dam Podcast crew teams up to discuss the Beavers loss to Boise State and preview this weekend's senior day match-up with the Utah State Aggies.</p>\n<p><p> </p><p>#OregonState #OSU #BeaverBlitz #On3 #CollegeFootball</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
-        "author": "angie@beaverblitz.com (Dam Podcast)",
+        "author": "Dam Podcast",
         "duration": 3641,
         "channel_url": "https://cms.megaphone.fm/channel/CAD1283298451",
         "source": "Dam Podcast",
@@ -4778,6 +4735,21 @@
       }
     ],
     "San Diego State": [
+      {
+        "title": "#371: An SDSU Thanksgiving at the Players Era Fest and Aztecs Prepare for Wazzu Part Two",
+        "link": "https://sonsofmontezuma.libsyn.com/371-an-sdsu-thanksgiving-at-the-players-era-fest-and-aztecs-prepare-for-wazzu-part-two",
+        "link_kind": "item",
+        "date": "2026-11-27T07:31:00+00:00",
+        "summary": "<p><!-- wp:paragraph --></p> <p>We recap SDSU Basketball at Players Era and Bear Cherry's record breaking night against Maryland. Then we Preview the SDSU vs Wazzu Game on Saturday</p>",
+        "author": "",
+        "duration": 3369,
+        "channel_url": "",
+        "source": "Sons of Montezuma",
+        "id": "6c964e3e25d61761",
+        "extent": "56 min",
+        "sport": "all",
+        "medium": "audio"
+      },
       {
         "title": "Cherry Swats Program Record Nine Shots as Men's Hoops Closes Out Maryland, 75-71",
         "link": "https://goaztecs.com/news/2026/11/26/bear-cherry-swats-program-record-nine-shots-as-mens-hoops-closes-out-maryland-75-71-on-thursday-at-player-era",
@@ -6609,21 +6581,6 @@
         "id": "5a8b7426b3e3ff17",
         "sport": "mbb",
         "medium": "text"
-      },
-      {
-        "title": "#358: SDSU Gets Exposed by Oregon State. Is the Aztecs Process Working?",
-        "link": "https://sonsofmontezuma.libsyn.com/358-sdsu-gets-exposed-by-oregon-state-is-the-aztecs-process-working",
-        "link_kind": "item",
-        "date": "2026-10-13T05:49:00+00:00",
-        "summary": "<p>The Aztecs suffered an embarrassing road loss to Oregon State, 66-14. The wheels absolutely fell off SDSU and we take a look at what happened, but also are bigger changes needed than just what's happening on the field.</p>",
-        "author": "",
-        "duration": 3696,
-        "channel_url": "",
-        "source": "Sons of Montezuma",
-        "id": "6de8ece2d02028c1",
-        "extent": "1h 2m",
-        "sport": "all",
-        "medium": "audio"
       }
     ],
     "Texas State": [
@@ -11229,21 +11186,6 @@
         "id": "842887428000be6a",
         "sport": "football",
         "medium": "text"
-      },
-      {
-        "title": "WE HAVE A NEW QB1!",
-        "link": "https://podcasters.spotify.com/pod/show/palouseplaybook/episodes/WE-HAVE-A-NEW-QB1-e3qdovd",
-        "link_kind": "item",
-        "date": "2026-10-13T04:59:56+00:00",
-        "summary": "<p>Caden Pinnick has been benched and we will get our first look at Owen Eshelman this weekend against Oregon State.</p>",
-        "author": "Up West Sports",
-        "duration": 1819,
-        "channel_url": "",
-        "source": "Palouse Playbook",
-        "id": "dae18709f56e4b7c",
-        "extent": "30 min",
-        "sport": "all",
-        "medium": "audio"
       }
     ]
   }
