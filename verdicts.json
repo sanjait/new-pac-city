@@ -33756,6 +33756,282 @@
         "James Crepea"
       ],
       "run": "run_2026-11-27-1440"
+    },
+    "024b8bd0dfe7e1da": {
+      "subjects": {
+        "fresno-state/football": "about",
+        "oregon-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Saturday's Fresno State-Oregon State football rematch with stats and context for both teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Cristian Ceballos"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-28-0243"
+    },
+    "0e3779f18ab96b2e": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The live-thread piece previews Gonzaga men's basketball's semifinal against Creighton at the Players Era 16.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-28-0243"
+    },
+    "0e8a4de77e172525": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews WSU's senior-day finale against San Diego State and SDSU's incentive to rest or play its starters.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-28-0243"
+    },
+    "1c4624a718102c3f": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The article previews Saturday's WSU-San Diego State finale through the lens of senior-day motivation and SDSU's playoff positioning.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "4 min read",
+      "run": "run_2026-11-28-0243"
+    },
+    "1c876c215807cb1b": {
+      "subjects": {
+        "texas-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps the Texas State men's basketball team's comeback win over Louisiana Tech.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Ayden Oredson"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-28-0243"
+    },
+    "1ed322082b70f4c9": {
+      "subjects": {
+        "fresno-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Fresno State men's basketball's win over South Alabama in the Second Line Showcase.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Paloma Schuller"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-28-0243"
+    },
+    "40cb3eaa6d190f0e": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "involves"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The 'Two-minute drill' lays out matchup keys and stats for WSU's game against San Diego State.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-28-0243"
+    },
+    "647eefe73a84e85c": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The story is a feature on Air Force football's season, with Boise State, San Diego State and New Mexico appearing only as historical or scheduling asides.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Sean OToole"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-28-0243"
+    },
+    "6ec74f9b097350c2": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The preview is built entirely around Saturday's UTEP-Northern Illinois finale, neither of which is a covered program.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Vic Aquino"
+      ],
+      "extent": "5 min read",
+      "run": "run_2026-11-28-0243"
+    },
+    "71434b28fd484c44": {
+      "subjects": {},
+      "unrecognized": [
+        {
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece centers entirely on Northern Illinois and UTEP football, with Boise State and San Diego State appearing only in brief historical comparisons.",
+      "evidence_basis": "title+full-text",
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "9 min read",
+      "lock": "free",
+      "run": "run_2026-11-28-0243"
+    },
+    "8825e6b31931d52c": {
+      "subjects": {
+        "washington-state/womens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Washington State women's basketball's overtime loss to Missouri State at the Cancun Challenge.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-28-0243"
+    },
+    "88f5e504915c8636": {
+      "subjects": {
+        "texas-state": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps a Texas State basketball win over Bradley, but never states whether it is the men's or women's team.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Player names suggest the women's team, but the text never says 'women's,' so the program could not be keyed more specifically.",
+      "unrecognized": [],
+      "byline": [
+        "Luke Landa"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-28-0243"
+    },
+    "8c5dfb951102d980": {
+      "subjects": {
+        "washington-state/football": "about",
+        "san-diego-state/football": "about"
+      },
+      "kind": "column",
+      "verdict": "publish",
+      "reason": "The column picks San Diego State to beat Washington State and gives a final score for Saturday's game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "1 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-28-0243"
+    },
+    "b389864098e52df9": {
+      "subjects": {
+        "washington-state/football": "about"
+      },
+      "kind": "news",
+      "verdict": "publish",
+      "reason": "The feature profiles WSU linebacker Keith Brown's career and final season ahead of his last college game.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "11 min read",
+      "run": "run_2026-11-28-0243"
+    },
+    "e2f3025158e60188": {
+      "subjects": {
+        "oregon-state": "about",
+        "fresno-state": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary establish a preview of the Oregon State-Fresno State rematch, though neither names the sport.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-28-0243"
+    },
+    "eecf6aef98ebfc7e": {
+      "subjects": {},
+      "kind": "column",
+      "verdict": "drop",
+      "reason": "The piece argues about the Mountain West's own rivalry-week scheduling, naming the Boise State/Fresno State and Colorado State/Wyoming rivalries only as examples the Pac-12 took.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "Boise State and Fresno State's former rivalry is cited as evidence the new Pac-12 'poached' it, which brushes against the conference without making it the subject.",
+      "unrecognized": [],
+      "byline": [
+        "Dan Allison"
+      ],
+      "extent": "2 min read",
+      "run": "run_2026-11-28-0243"
+    },
+    "ffecab0799937181": {
+      "subjects": {},
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "The digest's one-line notes on Colorado State, Utah State/Texas State and Boise State's Boen Phelps are each passing asides rather than substantive coverage of any one program.",
+      "evidence_basis": "title+full-text",
+      "ambiguous": "The roundup touches several covered programs in single lines each, so a reader could argue it collectively amounts to coverage even though no one program is treated substantively.",
+      "unrecognized": [],
+      "byline": [
+        "Zach Ballard"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-28-0243"
     }
   },
   "runs": {
@@ -39113,6 +39389,65 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 16.792542400071397,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-28-0243": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-28T02:39:55.626581+00:00",
+      "items": 17,
+      "verdict_counts": {
+        "publish": 12,
+        "drop": 5
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 4,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [
+        {
+          "id": "647eefe73a84e85c",
+          "source": "Mountain West Connection",
+          "phrase": "Air Force",
+          "kind": "not-ours"
+        },
+        {
+          "id": "6ec74f9b097350c2",
+          "source": "Mountain West Connection",
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        },
+        {
+          "id": "6ec74f9b097350c2",
+          "source": "Mountain West Connection",
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "id": "71434b28fd484c44",
+          "source": "Press Break",
+          "phrase": "Northern Illinois",
+          "kind": "not-ours"
+        },
+        {
+          "id": "71434b28fd484c44",
+          "source": "Press Break",
+          "phrase": "UTEP",
+          "kind": "not-ours"
+        }
+      ],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 35.71110349986702,
       "tokens": null,
       "tokens_source": null
     }
