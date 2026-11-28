@@ -34032,6 +34032,145 @@
       ],
       "extent": "1 min read",
       "run": "run_2026-11-28-0243"
+    },
+    "1f4a1d10cb284971": {
+      "subjects": {
+        "washington-state/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Washington State's basketball win over Idaho.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Greg Woods"
+      ],
+      "extent": "5 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-28-1441"
+    },
+    "3f94467c8b2cbbbf": {
+      "subjects": {
+        "boise-state/football": "about",
+        "colorado-state/football": "about",
+        "san-diego-state/football": "about",
+        "washington-state/football": "about",
+        "texas-state/football": "about",
+        "utah-state/football": "about",
+        "oregon-state/football": "about",
+        "fresno-state/football": "about",
+        "conference": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "Four full game previews cover Boise State-Colorado State, San Diego State-Washington State, Texas State-Utah State and Oregon State-Fresno State, eight of the nine schools' football teams.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Zane Woods"
+      ],
+      "extent": "7 min read",
+      "run": "run_2026-11-28-1441"
+    },
+    "68891ef6005ebd03": {
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The preview is about Hawaii hosting Sacramento State, neither of which is one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "JeremyRodrigues"
+      ],
+      "extent": "3 min read",
+      "run": "run_2026-11-28-1441"
+    },
+    "7e8209864fcbec9a": {
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "This Mountain West Week 13 preview covers NDSU-San Jose State, New Mexico-Air Force, UConn-Wyoming, UTEP-NIU, UNLV-Nevada and Hawaii-Sacramento State, none of them one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Chase Dulude"
+      ],
+      "extent": "13 min read",
+      "run": "run_2026-11-28-1441"
+    },
+    "8d7d6cf55c846da2": {
+      "kind": "news",
+      "verdict": "drop",
+      "reason": "This week's Mountain West slate listed (NDSU-San Jose State, Air Force-New Mexico, UConn-Wyoming, UTEP-NIU, Nevada-UNLV, Sacramento State-Hawaii) contains none of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Mike Wittmann"
+      ],
+      "extent": "1 min read",
+      "run": "run_2026-11-28-1441"
+    },
+    "96260afb32c1d4f3": {
+      "subjects": {
+        "oregon-state": "about",
+        "fresno-state": "about"
+      },
+      "kind": "preview",
+      "verdict": "publish",
+      "reason": "The headline and summary identify Oregon State and Fresno State as the subject of tonight's game broadcast, though the sport is not stated.",
+      "evidence_basis": "title+summary",
+      "unrecognized": [],
+      "byline": [
+        "James Crepea"
+      ],
+      "run": "run_2026-11-28-1441"
+    },
+    "d1dd3c2fa26adbdb": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "The article recaps Gonzaga's overtime loss to Creighton at the Players Era tournament.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Theo Lawson"
+      ],
+      "extent": "4 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-28-1441"
+    },
+    "ec497946636a46aa": {
+      "kind": "preview",
+      "verdict": "drop",
+      "reason": "The FCS awards ballot and 1st-round playoff picks cover UAlbany, Monmouth, Harvard, Idaho State, North Dakota, Illinois State, Montana, Western Illinois and others, none of them one of the nine covered schools.",
+      "evidence_basis": "title+full-text",
+      "subjects": {},
+      "unrecognized": [],
+      "byline": [
+        "Kyle Kensing"
+      ],
+      "extent": "11 min read",
+      "lock": "free",
+      "run": "run_2026-11-28-1441"
+    },
+    "f7f28b1096987931": {
+      "subjects": {
+        "gonzaga/mens-basketball": "about"
+      },
+      "kind": "recap",
+      "verdict": "publish",
+      "reason": "Three takeaways recapping the same Gonzaga-Creighton overtime loss.",
+      "evidence_basis": "title+full-text",
+      "unrecognized": [],
+      "byline": [
+        "Jim Meehan"
+      ],
+      "extent": "2 min read",
+      "lock": "paywall",
+      "run": "run_2026-11-28-1441"
     }
   },
   "runs": {
@@ -39448,6 +39587,34 @@
       "rows_with_warnings": 0,
       "warnings": [],
       "wall_clock_prep_s": 35.71110349986702,
+      "tokens": null,
+      "tokens_source": null
+    },
+    "run_2026-11-28-1441": {
+      "schema": "v4",
+      "prompt": "v4",
+      "model": "claude-sonnet-5",
+      "started": "2026-11-28T14:39:39.760896+00:00",
+      "items": 9,
+      "verdict_counts": {
+        "publish": 5,
+        "drop": 4
+      },
+      "hidden_per_source": {
+        "Mountain West Connection": 3,
+        "Press Break": 1
+      },
+      "unreadable_per_source": {
+        "The Oregonian": {
+          "403 — HTTP 403": 1
+        }
+      },
+      "unrecognized": [],
+      "bad_rows_excluded": 0,
+      "rows_already_verdicted": 0,
+      "rows_with_warnings": 0,
+      "warnings": [],
+      "wall_clock_prep_s": 19.54162560007535,
       "tokens": null,
       "tokens_source": null
     }
