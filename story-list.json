@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-11-28T02:03:47.421650+00:00",
+  "generated_at": "2026-11-28T14:03:54.270151+00:00",
   "teams": {
     "conference": [
+      {
+        "title": "Press Break’s 2026 FCS Awards Ballot & FCS Playoffs 1st Round Picks",
+        "link": "https://pressbreak.substack.com/p/press-breaks-2026-fcs-awards-ballot",
+        "link_kind": "item",
+        "date": "2026-11-28T04:10:12+00:00",
+        "summary": "First-year UAlbany coach Tom Perkovich has the Great Danes in the FCS Playoffs in an ahead-of-schedule rebuild.",
+        "author": "Kyle Kensing",
+        "duration": null,
+        "channel_url": "",
+        "source": "Press Break",
+        "id": "ec497946636a46aa",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2026 Mountain West Week 13: Game Time, TV Schedule, Odds, Predictions",
+        "link": "https://www.mwcconnection.com/mountain-west-discussion/96387/mountain-west-football-games-week-13-fanduel-odds-games-predictions",
+        "link_kind": "item",
+        "date": "2026-11-27T20:00:00+00:00",
+        "summary": "The college football season is in full swing, and with it, the shift towards mostly conference games. This week, every Mountain West team plays on Saturday. Check out the Week 11 action, with all the info you need for the games below. Share your thoughts in the comments! Friday, November 27th North Dakota State vs [&#8230;]",
+        "author": "Mike Wittmann",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "8d7d6cf55c846da2",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Hawaii Warriors Weekly Countdown: Sacramento State",
+        "link": "https://www.mwcconnection.com/hawaii-warriors-football/96316/hawaii-warriors-weekly-countdown-sacramento-state",
+        "link_kind": "item",
+        "date": "2026-11-27T19:00:00+00:00",
+        "summary": "Never ask if things can get any worse. A dreadful 2026 season for Hawaii took another awful turn, this time in the form of a serious injury to quarterback Micah Alejado. A merciful end to the campaign arrives tomorrow at Clarence T.C. Ching Complex when the Warriors host Sacramento State. Here are a few things [&#8230;]",
+        "author": "JeremyRodrigues",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "68891ef6005ebd03",
+        "sport": "all",
+        "medium": "text"
+      },
       {
         "title": "On The Decline of Northern Illinois Football Ahead of A Historic 2026 Finale",
         "link": "https://pressbreak.substack.com/p/on-the-decline-of-northern-illinois",
@@ -13,6 +55,34 @@
         "channel_url": "",
         "source": "Press Break",
         "id": "71434b28fd484c44",
+        "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "2026 Pac-12 Week 13 Game Previews: Game Time, TV Schedule, Odds, Predictions",
+        "link": "https://www.mwcconnection.com/pac-12-football/96485/2026-pac-12-week-13-game-previews-game-time-tv-schedule-odds-predictions",
+        "link_kind": "item",
+        "date": "2026-11-27T16:00:00+00:00",
+        "summary": "Boise State (9-2) at Colorado State (3-8) Date &#38; Time: Saturday, November 28, 3:00 p.m. PT&#160; Network: USA Network Spread: Boise State -21.5, O/U 76.5 Preview: After having its nine-game winning streak snapped against San Diego State, Boise State looks to close out the regular season on a high note against Colorado State. Despite the [&#8230;]",
+        "author": "Zane Woods",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "3f94467c8b2cbbbf",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "2026 Mountain West Football Week 13 Game Preview & Predictions",
+        "link": "https://www.mwcconnection.com/air-force-falcons-football/96487/2026-mountain-west-football-week-13-game-preview-predictions",
+        "link_kind": "item",
+        "date": "2026-11-27T15:00:00+00:00",
+        "summary": "Week 13 of the 2026 season is here, and we are entering college football’s Rivalry Week, arguably the best week of the season every single year. While only one Mountain West game is a rivalry showdown, we do still have games with both MW Championship implications and the potential to alter the course of multiple [&#8230;]",
+        "author": "Chase Dulude",
+        "duration": null,
+        "channel_url": "",
+        "source": "Mountain West Connection",
+        "id": "7e8209864fcbec9a",
         "sport": "football",
         "medium": "text"
       },
@@ -101,20 +171,6 @@
         "medium": "text"
       },
       {
-        "title": "Mountaintop View 11-26-26",
-        "link": "https://www.mwcconnection.com/mountain-west-news/96440/unlv-rebels-nevada-wolf-pack-troy-calhoun-rex-johnsen",
-        "link_kind": "item",
-        "date": "2026-11-26T14:00:00+00:00",
-        "summary": "Pokes Insider: Catching up with Rex Johnsen Ryan Thorburn of Pokes Insider profiles Wyoming left tackle Rex Johnsen. The Cowboys will face the UConn Huskies this weekend minus head coach Jay Sawvel. Position preview for Nevada football versus UNLV: Who has the edge where? Chris Murray of NevadaSportsNet dives into who has the edge at [&#8230;]",
-        "author": "JeremyRodrigues",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "35af2ffa370693fd",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Colorado State Rallies to Win Pac-12 Championship, 3-2, Over San Diego State",
         "link": "http://pac-12.com/news/2026/11/26/womens-volleyball-colorado-state-rallies-to-win-pac-12-championship-3-2-over-san-diego-state.aspx",
         "link_kind": "item",
@@ -126,48 +182,6 @@
         "source": "Pac-12 Conference",
         "id": "5c552a2ffc4e84eb",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "AZTECS RELISH OPPORTUNITY TO PLAY BOISE STATE IN THE CONFERENCE CHAMPIONSHIP GAME",
-        "link": "https://www.mwcconnection.com/san-diego-state-football/96419/aztecs-looking-forward-to-playing-boise-state-again-but-first-business-at-hand-against-washington-state",
-        "link_kind": "item",
-        "date": "2026-11-25T20:00:00+00:00",
-        "summary": "First, the Aztecs take on Washington State in the new ‘flex’ game matchup&#160; Another miracle game for the Cardiac kids. After the come from behind win to beat Texas State on October 3, the Aztecs found themselves on the winning side of another miracle victory, this time against Boise State. Both games saw the Aztecs [&#8230;]",
-        "author": "Jeffrey Carter",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "59ed6b06f46b9569",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "2026 MW/PAC-12 All-Transfer Team: Week Twelve",
-        "link": "https://www.mwcconnection.com/mountain-west-transfer-portal/96399/2026-mountain-west-pac-12-all-transfer-team-week-twelve-new-mexico-san-diego-state-unlv-oregon-colorado-san-jose-utep",
-        "link_kind": "item",
-        "date": "2026-11-25T19:00:00+00:00",
-        "summary": "Welcome back to the Transfer Portal Team of the Week! Find out the top performances from incoming transfers across both conferences! Just one week left in the regular season, what newcomers are making a final push to the Team of the Year? Enjoy! Mountain West Quarterback Luke Moga Class: RS Sophomore Previous stops: Oregon &#124;&#124; [&#8230;]",
-        "author": "Jack Thompson",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "a2ba4635b9ecc8fc",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "3 Mountain West Football Best Bets For Week 13",
-        "link": "https://www.mwcconnection.com/mountain-west-football/96314/3-mountain-west-football-best-bets-for-week-13",
-        "link_kind": "item",
-        "date": "2026-11-25T18:00:00+00:00",
-        "summary": "Happy Thanksgiving — and rivalry week — to all who celebrate! We are now in the final week of the college football regular season, with multiple title scenarios on the line. Without further ado, let’s end this regular season on a strong note! Here’s our Week 13 best bets! (All odds are courtesy of&#160;FanDuel Sportsbook.) [&#8230;]",
-        "author": "Matt Hanifan",
-        "duration": null,
-        "channel_url": "",
-        "source": "Mountain West Connection",
-        "id": "0b226c6140e1e0a5",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -452,6 +466,20 @@
       }
     ],
     "Boise State": [
+      {
+        "title": "Strong Second Half Propels Boise State Past Drake",
+        "link": "https://broncosports.com/news/2026/11/27/mens-basketball-strong-second-half-propels-boise-state-past-drake",
+        "link_kind": "item",
+        "date": "2026-11-28T02:06:00+00:00",
+        "summary": "<img alt=\"Team Celebration vs. Drake\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/27/Team.jpg\" /><br /><br />Career highs from Spencer Ahrens and Julian Bowie propelled Boise State past Drake, 88-71, on Friday afternoon at Mountain America Center.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Boise State Athletics",
+        "id": "ba42ffa97faa734f",
+        "sport": "mbb",
+        "medium": "text"
+      },
       {
         "title": "Broncos Outlast Hatters",
         "link": "https://broncosports.com/news/2026/11/27/womens-basketball-broncos-outlast-hatters",
@@ -1185,20 +1213,6 @@
         "medium": "text"
       },
       {
-        "title": "Broncos Collect 19-Point Win Against Butler",
-        "link": "https://broncosports.com/news/2026/11/8/mens-basketball-broncos-collect-19-point-win-against-butler",
-        "link_kind": "item",
-        "date": "2026-11-08T22:38:00+00:00",
-        "summary": "<img alt=\"Aginaldo Neto\" src=\"https://broncosports.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/8/Neto__AG.jpg\" /><br /><br />Scoring 100 points for the second-consecutive game, Boise State defeated Butler, 100-81, on Sunday afternoon at ExtraMile Arena.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Boise State Athletics",
-        "id": "50192bec3f4aad0a",
-        "sport": "mbb",
-        "medium": "text"
-      },
-      {
         "title": "Fort Collins Redemption: Boise State at Colorado State Game Recap",
         "link": "https://firstkickwasgood.com/2026/11/07/fort-collins-redemption-boise-state-at-colorado-state-game-recap/",
         "link_kind": "item",
@@ -1269,21 +1283,6 @@
         "source": "The Bronco Sports Podcast Network",
         "id": "1d35efeef0cb34a9",
         "extent": "59 min",
-        "sport": "all",
-        "medium": "audio"
-      },
-      {
-        "title": "Off the Blue - Season 7, Episode 6- Melia Barlow",
-        "link": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/59a80f70-6558-4af3-9a68-da6d24835670.mp3?rss_browser=BAhJIhJOZXdQQUNDaXR5Qm90BjoGRVQ%3D--d280f382010a12f858916bff5e4d48b2cb3792a7",
-        "link_kind": "enclosure",
-        "date": "2026-10-14T11:00:00+00:00",
-        "summary": "<p>On this episode of the Off the Blue Podcast presented by Select Health, Boise State libero Melia Barlow talks about the team's 4-1 start to Pac-12 play, her Navajo roots, growing up in Arizona, and much more.</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
-        "author": "",
-        "duration": 1142,
-        "channel_url": "https://art19.com/shows/the-bronco-sports-podcast-network",
-        "source": "The Bronco Sports Podcast Network",
-        "id": "f4ef0bdabe28aa4e",
-        "extent": "19 min",
         "sport": "all",
         "medium": "audio"
       }
@@ -2773,6 +2772,20 @@
     ],
     "Gonzaga": [
       {
+        "title": "No. 22 Gonzaga Falls in Overtime to Creighton",
+        "link": "https://gozags.com/news/2026/11/27/mens-basketball-no-22-gonzaga-falls-in-overtime-to-creighton",
+        "link_kind": "item",
+        "date": "2026-11-28T07:16:00+00:00",
+        "summary": "<img alt=\"Harwell Creighton\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/28/DSC01395.jpg\" /><br /><br />LAS VEGAS (AP) — B.J. Davis scored 10 of his 27 points in overtime, including five free throws down the stretch, and Creighton beat No. 22 Gonzaga 97-89 on Friday night in a Players Era 16 bracket final.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Gonzaga Athletics",
+        "id": "c3d20dc087d67287",
+        "sport": "mbb",
+        "medium": "text"
+      },
+      {
         "title": "MBB Clashes with Creighton for Bracket Final",
         "link": "https://gozags.com/news/2026/11/27/mens-basketball-mbb-clashes-with-creighton-for-bracket-final",
         "link_kind": "item",
@@ -2815,16 +2828,44 @@
         "medium": "text"
       },
       {
-        "title": "No. 22 Gonzaga battles Creighton for spot in Players Era 16 championship game | Live updates",
+        "title": "Familiar themes emerge down the stretch for Gonzaga in overtime loss to Creighton: 'Kind of like the LSU game'",
+        "link": "http://www.spokesman.com/stories/2026/nov/27/familiar-themes-emerge-down-the-stretch-for-gonzag/",
+        "link_kind": "item",
+        "date": "2026-11-27T00:00:00+00:00",
+        "summary": "<p><img src=\"https://thumb.spokesman.com/VwkOoXY50SShJiN20n7egmnXtTM=/300x0/smart/media.spokesman.com/photos/2026/11/28/6b0a8f6e7859c.preview.jpg\" /></p><p>LAS VEGAS – Two weeks after a gut-wrenching loss to LSU, many of the same culprits resurfaced in Gonzaga’s latest end-of-game meltdown.</p><p>Order them how you’d like, but free-throw shooting, offensive execution and defensive rebounding were again at the top of the list for a Gonzaga team that coughed up an eight-point lead in the second half and came up well short in the overtime period, watching its Players Era 16 run end with a 97-89 loss to Creighton at T-Mobile Arena.</p><p>“Winnable game. We take care of business at the line and just have a little more poise on the offensive end and a couple critical rebounds, man, where we got stops and (it was) kind of like the LSU game,” Gonzaga coach Mark Few said. “We got stops the first time and they came up with huge rebounds.”</p><p>Gonzaga’s run at Players Era closes with a 2-1 record and one game short of a second straight championship berth. The Zags (6-2) next take the court on Tuesday, hosting NAIA opponent Eastern Oregon at McCarthey Athletic Center.</p><p>After losing the last four matchups, Creighton (6-1) pocketed its first win over Gonzaga since 1977 and will advance to Saturday’s Players Era 16 championship, where a $1 million cash prize will be on the line against Louisville (6-1).</p><p>Gonzaga and Creighton teams that will meet 15 days from now in Omaha, Nebraska, went back and forth late Friday night, trading the lead and control of the game for the better part of 40 minutes.</p><p>The Zags established a seven-point lead less than two minutes into the second half, but it disappeared almost instantly thanks to timely offense and outside shooting from Creighton’s Wes Enis, who had a game-high 28 points, bringing his Players Era total to 78 over three days.</p><p><span class=\"print_trim\"><!--[video id=6415]--></span></p><p>The Bluejays raced ahead to take their largest lead of the game at eight points less than four minutes later, but Chauncey Wiggins scored 10 points over the next seven minutes and the Zags went back in front on a layup from Davis Fogle. Wiggins led GU in scoring for the second straight game, scoring 22 points on 7 of 15 shooting and 4 of 9 from the 3-point line.</p><p>Gonzaga wasn’t in the clear but looked to be in a good position after Nathan De Sousa made a 3-pointer to push the lead to eight points with 3 minutes, 51 seconds left. But the momentum was short-lived. De Sousa, <a href=\"https://www.spokesman.com/stories/2026/nov/27/what-went-wrong-what-went-right-in-gonzagas-loss-t\" target=\"_blank\">who tallied five points, four assists, two rebounds and one steal during a five-minute stretch late in the second half</a>, picked up his fifth foul with 3:33 remaining and Creighton closed regulation on a 10-2 run to force overtime.</p><p>A Gonzaga team already running on fumes watched its offense go dry at the worst possible time. The Bulldogs scored just 10 points in the final nine minutes of regulation and overtime and were outscored 16-8 in the extra period.</p><p>“Actually the first three possessions (of overtime), we got the shots we wanted, we just didn’t make them,” Few said. “Then we kind of got a little stagnant against it and didn’t quite attack it like we normally attack it. But the missed (free throws), I think we were 18 of 30 at the line, man. It’s hard to close out a game going 18 of 30 at the line. They did a good job, we ran out of bodies at the end and they were ‘isoing’ us at the other end.</p><p>“Nate was having a heck of a game and he was plus-25, which is crazy in a game like this. He fouled out and they were really picking on some of our other guys with those ‘isos.’ Just kind of ran out of bodies.”</p><p>After consecutive single-digit scoring games, Fogle tallied 21 points on 8 of 19 shooting and 3 of 9 from the 3-point line. The sophomore wing also had nine rebounds and five assists. Braden Huff had 13 points but struggled with efficiency, finishing 6 of 18 from the field, 0 of 3 from the 3-point line and 1 of 5 from the free throw line. De Sousa had 11 points for the Zags and Izan Almansa added 10 more.</p><p>Enis led Creighton in scoring but fellow guard BJ Davis had the best all-around game for the Bluejays, recording just the fifth triple-double in school history with 27 points, 11 rebounds and 11 assists. Davis finished 6 of 17 from the field, 3 of 8 from the 3-point line and 12 of 14 from the free throw line.</p><p>“I thought we really made a nice leadership step internally,” first-year Creighton coach Alan Huss said. “I thought BJ, Wes, Jason (Green), Jackson (McAndrew), Hudson (Greer), that collective unit really steadied us, helped us stay poised. We had a couple faces that were down, I thought they really pulled back together and I thought that was the tipping point in the game.</p><p>“We had a chance to lay down and quit. We’ve all been a part of teams that have made that choice. I’m really pleased with our team making that choice.”</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "d1dd3c2fa26adbdb",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Creighton outlasts Gonzaga in overtime to reach Players Era 16 championship | Recap and highlights",
         "link": "http://www.spokesman.com/stories/2026/nov/27/no-22-gonzaga-battles-creighton-for-spot-in-player/",
         "link_kind": "item",
         "date": "2026-11-27T00:00:00+00:00",
-        "summary": "<p><em>Follow along with this thread for updates throughout the night.</em></p><hr/><p>The Gonzaga men&#8217;s basketball team will try to extend its stay in Las Vegas one more night.</p><p>The No. 22 Bulldogs take on Creighton in the Players Era 16 semifinal tonight at T-Mobile Arena. The winner will advance to Saturday&#8217;s championship, while the loser will return home to continue its nonconference season. Tipoff is set for 8 p.m. on ESPN.</p><p>The Zags (5-1) <a href=\"https://www.spokesman.com/stories/2026/nov/26/gonzaga-rides-dominant-second-half-to-72-64-win-ov/\" target=\"_blank\">turned in an impressive second half to roll past Baylor</a> late Thursday night, while the Bluejays (6-1) outlasted Texas Christian 95-87. </p><p>Creighton opened the tournament with a convincing win over defending champion Michigan, which has struggled without coach Dusty May, who left for the NBA&#8217;s Dallas Mavericks.</p><p>Creighton&#8217;s lone loss this season came against Kansas State, which <a href=\"https://www.spokesman.com/stories/2026/nov/24/xaivian-lee-gonzaga-make-statement-with-101-61-vic/\" target=\"_blank\">Gonzaga routed 101-61 in its Players Era 16 opener</a>. Gonzaga is favored by 5½ points <a href=\"https://www.vegasinsider.com/college-basketball/odds/las-vegas/\" target=\"_blank\">according to vegasinsider</a>. </p><p>This will be the first of two meetings between the teams this season with another game scheduled at Creighton on Dec. 12.</p><p>Tonight&#8217;s winner will advance to play the winner of Tennessee-Louisville in the other bracket final. The champion of the Players Era 16 will ear an extra $1 million in NIL funds, while the runner-up gets $500,000.</p><p><a href=\"https://www.spokesman.com/sections/gonzaga-at-players-era-16/\" target=\"_blank\">Find all our latest coverage from the Players Era 16 here.</a></p><!--[embed id=12557]--><hr/><h3>Last time out</h3><!--[teaser id=1367069]--><!--[teaser id=1367068]--><!--[video id=6414]--><hr/><h3>The recruiting trail</h3><!--[teaser id=1366899]--><!--[teaser id=1366805]-->",
+        "summary": "<p>LAS VEGAS – Gonzaga and Creighton went back and forth, trading both the lead and control of the game during Friday&#8217;s bracket final at the Players Era 16.</p><p>After solid and shaky stretches in the second half, Gonzaga and Creighton teams playing their third game in four days were running on fumes by the end of regulation.</p><p>Neither could create enough separation to win in regulation, but the Bluejays had more slightly more gas in overtime, outscoring and outplaying the Bulldogs to walk away with a 97-89 victory and advance to Saturday&#8217;s Players Era championship against Louisville.</p><!--[video id=6415]--><p>Gonzaga carved out an eight-point lead late in the second half, but things started to spiral when reserve point guard Nathan De Sousa – the Bulldogs&#8217; most reliable and productive player after halftime – went to the bench with his fifth foul with 3 minutes, 33 seconds remaining.</p><p>Creighton outscored Gonzaga 10-2 down the stretch, tying the game at 81-81 on a stepback jumper from Austin Swartz with approximately one minute remaining.</p><p>The Bluejays took the momentum into overtime, outscoring the Zags 16-8 to walk out victorious.</p><p>Chauncey Wiggins led the Zags for the second straight game, scoring 22 points on 7 of 15 shooting and 4 of 9 from the 3-point line. Davis Fogle added 21 points on 8 of 19 shooting and 3 of 9 from the 3-point line. He also had nine rebounds and five assists.</p><p>Gonzaga&#8217;s run at Players Era ends with a 2-1 record and one game short of a second straight championship berth. The Zags (6-2) next take the court on Tuesday, hosting NAIA opponent Eastern Oregon at McCarthey Athletic Center.</p><p><a href=\"https://stats.statbroadcast.com/statmonitr/?id=691761\" target=\"_blank\">BOX SCORE</a></p><hr/><h3><span style=\"text-decoration: underline;\">Key moments</span></h3><h3>Bluejays close in on win</h3><p><strong>OT, 0:29 – CU 91, GU 86:</strong> Gonzaga calls timeout after a 3-pointer from Davis Fogle, but it looks like too little too late. Creighton going to see this one out at the free throw line and look to advance to Saturday&#8217;s championship.</p><hr/><h3>Creighton has slight edge halfway through overtime</h3><p><strong>OT, 2:08 – CU 84, GU 83:</strong> Chauncey Wiggins misses an open 3-pointer and Creighton calls timeout. Not much going in overtime for either team. Zags free throw shooting really hurting, 19 of 30 for the game.</p><hr/><h3>Free basketball in Las Vegas</h3><p><strong>2nd, 0:00 – GU 81, CU 81:</strong> As if these games didn&#8217;t go late enough. We&#8217;re headed to overtime after BJ Davis&#8217; 3-point shot at the buzzer went in and out. Davis Fogle missed on the previous possession.</p><p>Davis and Braden Huff enter the extra period with four fouls. No one else in trouble.</p><hr/><h3>Still tied under a minute left</h3><p><strong>2nd, 0:58 – GU 81, CU 81:</strong> Xavian Lee hits a pair at the line, but Austin Swartz makes a jumper on the other end to tie it back up. Creighton calls timeout, down to the last few possessions.</p><hr/><h3>Creighton ties it up</h3><p><strong>2nd, 1:12 – GU 79, CU 79:</strong> Austin Swartz convers a three-point play to tie the score. Zags have not scored since De Sousa fouled out. Someone going to need to step up for Gonzaga.</p><hr/><h3>Creighton coming back</h3><p><strong>2nd, 2:38 – GU 79, CU 76:</strong> Nathan De Sousa&#8217;s night is done as he fouls out. That leads to a quick five-point burst for Creighton, capped by a steal and layup. Gonzaga calls timeout.</p><hr/><h3>De Sousa pads lead</h3><p><strong>2nd, 3:42 – GU 79, CU 71:</strong> Nathan De Sousa lobs and ally oop to Chauncey Wiggins, then a few possessions later gets a steal and knocks down a tough 3-pointer to put the Zags up eight points at the U4 media timeout.</p><p>De Sousa has 11 points with seven assists, his best game this season. Wiggins has 19 points for the second game in a row.</p><hr/><h3>Zags take lead on bigtime run</h3><p><strong>2nd, 6:08 – GU 72, CU 67:</strong> Creighton calls timeout with Gonzaga on a 9-0 run to take the lead.</p><p>On the run: Chauncey Wiggins hit a 3-pointer, Davis Fogle drove through two defenders to finish in transition, Fogle found Huff for a layup, and Nathan De Sousa pushed the ball to Izan Almansa for a fast break dunk.</p><!--[embed id=12566]--><hr/><h3>Creighton holding onto lead</h3><p><strong>2nd,7:52 – CU 66, GU 63:</strong> Fredrick King throws down a dunk over Braden Huff, who is called for a foul on the play. King will attempt a free throw after the U8 media timeout.</p><p>Creighton is yet to give up its lead, although the Zags previously trimmed it to one point. </p><p>Wiggins came in for Isaiah Harwell and hits both flagrant foul shots, before Izan Almanza is fouled after the inbound and spit a pair right after to trim the lead to two. Wiggins then hit a 3-pointer after a layup to cut it to one.</p><!--[embed id=12565]--><hr/><h3>Harwell goes down hard</h3><p><strong>2nd, 8:47 – CU 62, GU 57:</strong> Isaiah Harwell is undercut going to rebound a blocked 3-pointer and lands hard on his lower back. He is slow to get up.</p><p>Katrelle Harmon is called for a flagrant 1. </p><hr/><h3>Gonzaga snaps out of drought</h3><p><strong>2nd, 11:54 – CU 57, GU 54:</strong> Nathan De Sousa hit a 3-pointer to end the long Gonzaga scoring drought, followed by a layups from Izan Almansa and Davis Fogle. Braden Huff missed a pair of flagrant foul shots that could have trimmed the deficit further.</p><p>De Sousa was called for a foul at the U12 media timeout. </p><p>Zags looking better the past few minutes, but will need to improve free throw shooting the rest of the way, only 9 of 16 from the stripe this game.</p><hr/><h3>Creighton quickly takes over in second half</h3><p><strong>15:50 – CU 48, GU 44:</strong> Back-to-back 3-pointers from BJ Davis and Wes Enis sees Creighton surge ahead. That&#8217;s a 12-1 run for the Bluejays and Mark Few calls timeout.</p><p>Gonzaga has missed its last seven attempts from the field and has not made a shot in 3:36. GU opens the second half 1 of 9 from the field needing to settle things down.</p><!--[embed id=12564]--><hr/><h3>Harwell picks up two fouls, goes to bench</h3><p><strong>2nd, 18:16 – GU 43, CU 42:</strong> Isaiah Harwell has two quick fouls to start the second half, the second coming on a made 3-pointer by Wes Enis, who converts the four-point play to cut into the Zags lead.</p><!--[embed id=12563]--><hr/><h3>Hectic finish to first half, but Zags lead</h3><p>Gonzaga is up 39-34 over Creighton at halftime in the Players Era 16 semifinal.</p><p>Creighton made a push before halftime, but Braden Huff&#8217;s jumper with 6 seconds left will settle things down for GU heading into the locker room.</p><p>Zags have edge in shooting 47-32%, but Bluejays have seven points off turnovers to GU&#8217;s zero. Gonzaga led for two more minutes in the half.</p><p>Davis Fogle pacing the Zags with 12 points, while Huff adds eight. GU&#8217;s forwards have done almost all the scoring.</p><!--[embed id=12561]--><hr/><h3>Gonzaga extends lead</h3><p><strong>1st, 1:46 – GU 34, CU 27:</strong> Creighton calls timeout after Chauncey Wigggins makes a jumper to push the GU lead to seven.</p><p>Bluejays missed a couple of easy looks at the hoop and the Zags capitalized with two straight makes. GU has hit 4 of its last 5 attempts.</p><!--[embed id=12562]--><hr/><h3>Zags take lead as halftime nears</h3><p><strong>1st, 3:57 – GU 27, CU 22:</strong> Nathan De Sousa converts a layup with a foul and will have a chance at a three-point play on the other end of the U4 media timeout.</p><p>Creighton has not made a shot from the field in the last 2:44 and is 1 of its last 7. Teams have combined for 16 fouls in the first half.</p><p>Davis Fogle leads GU 10 points.</p><hr/><h3>Offense opening up</h3><p><strong>1st, 7:59 – GU 18, CU 18:</strong> Isiah Harwell is fouled at the U8 media timeout and will have two free throws when play resumes. Both teams&#8217; offense finding a groove after a slow start.</p><p>Zags took their first lead on a 7-0 run. Chauncey Wiggins hit a 3-pointer, Davis Fogle made a put-back and Nathan De Sousa pushed the pace in transition, finding Izan Almansa for a layup.</p><p>Fogle leads with seven points, Wiggins has five off the bench after scoring a team-high 19 on Thursday.</p><hr/><h3>Blue Jays defense swarming</h3><p><strong>1st, 11:52 – CU 10, GU 7:</strong> Zags being held to 3 of 13 shooting an 1 of 8 on 3-pointers in the early going as Creighton&#8217;s half court defense has been flying around and interrupting passing lanes. Bluejays yet to make the Zags pay, as they are 3 of 10 shooting and 1 of 5 on 3s.</p><p>Braden Huff has four points, but is 2 of 7 from the field. Izan Almansa, Chauncey Wiggins and Nathan De Sousa check in as GU subs.</p><hr/><h3>Creighton holds early lead</h3><p><strong>1st, 15:29 – CU 7, GU 5:</strong> Xavian Lee called for a shooting foul at the first media timeout. Bluejays take a slight advantage on five points from Wes Enis.</p><p>Braden Huff and Davis Fogle get on the score sheet for the Zags, though Huff has two misses. GU opens 1 of 4 on 3-pointers, Fogle has the make. </p><!--[embed id=12560]--><hr/><h3>Starting 5&#8217;s</h3><p><strong>Gonzaga starters:</strong> Xaivian Lee, Isiah Harwell, Davis Fogle, Braden Huff, Massamba Diop</p><p><strong>Creighton starters:</strong> Austin Swartz, Wes Enis, BJ Davis, Jackson McAndrew, Oswin Erhunmwunse</p><!--[embed id=12559]--><hr/><h3>Louisville advances to championship</h3><p>The winner of tonight&#8217;s game between Gonzaga and Creighton will take on Louisville in Saturday&#8217;s championship with $1 million in NIL funds on the line.</p><p>The No. 25 Cardinals (6-1) have impressed with wins over three ranked teams: No. 5 Texas Tech 72-64, No. 13 St. John&#8217;s 93-90, and No. 9 Tennessee 84-64. Louisville avoided a major collapse against the Red Storm on Thursday, giving up a 20-point lead before Adrian Wooley hit a 3-pointer at the buzzer.</p><hr/><h3>Who&#8217;s hot?</h3><p>Gonzaga will need to key on Creighton guard Wes Enis, who has scored 50 points at the Players Era Tournament so far with a 30 and 20 point game against Michigan and TCU, respectively.</p><p>Enis has connected on 11 of 25 3-point attempts.</p><hr/><h3>Tipoff time pushed back</h3><p>The Zags and Bluejays are on the floor warming up at T-Mobile Arena. Tipoff is pushed back slightly to allow the finish of the Louisville-Tennessee game on ESPN.</p><!--[embed id=12558]--><hr/><h3>Pregame</h3><p>The Gonzaga men&#8217;s basketball team will try to extend its stay in Las Vegas one more night.</p><p>The No. 22 Bulldogs take on Creighton in the Players Era 16 semifinal tonight at T-Mobile Arena. The winner will advance to Saturday&#8217;s championship, while the loser will return home to continue its nonconference season. Tipoff is set for 8 p.m. on ESPN.</p><p>The Zags (5-1) <a href=\"https://www.spokesman.com/stories/2026/nov/26/gonzaga-rides-dominant-second-half-to-72-64-win-ov/\" target=\"_blank\">turned in an impressive second half to roll past Baylor</a> late Thursday night, while the Bluejays (6-1) outlasted Texas Christian 95-87. </p><p>Creighton opened the tournament with a convincing win over defending champion Michigan, which has struggled without coach Dusty May, who left for the NBA&#8217;s Dallas Mavericks.</p><p>Creighton&#8217;s lone loss this season came against Kansas State, which <a href=\"https://www.spokesman.com/stories/2026/nov/24/xaivian-lee-gonzaga-make-statement-with-101-61-vic/\" target=\"_blank\">Gonzaga routed 101-61 in its Players Era 16 opener</a>. Gonzaga is favored by 5½ points <a href=\"https://www.vegasinsider.com/college-basketball/odds/las-vegas/\" target=\"_blank\">according to vegasinsider</a>. </p><p>This will be the first of two meetings between the teams this season with another game scheduled at Creighton on Dec. 12.</p><p>Tonight&#8217;s winner will advance to play the winner of Tennessee-Louisville in the other bracket final. The champion of the Players Era 16 will ear an extra $1 million in NIL funds, while the runner-up gets $500,000.</p><p><a href=\"https://www.spokesman.com/sections/gonzaga-at-players-era-16/\" target=\"_blank\">Find all our latest coverage from the Players Era 16 here.</a></p><!--[embed id=12557]--><hr/><h3>Last time out</h3><!--[teaser id=1367069]--><!--[teaser id=1367068]--><!--[video id=6414]--><hr/><h3>The recruiting trail</h3><!--[teaser id=1366899]--><!--[teaser id=1366805]-->",
         "author": "",
         "duration": null,
         "channel_url": "",
         "source": "The Spokesman-Review",
         "id": "0e3779f18ab96b2e",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "What went wrong, what went right in Gonzaga's loss to Creighton | 3 takeaways",
+        "link": "http://www.spokesman.com/stories/2026/nov/27/what-went-wrong-what-went-right-in-gonzagas-loss-t/",
+        "link_kind": "item",
+        "date": "2026-11-27T00:00:00+00:00",
+        "summary": "<p><img src=\"https://thumb.spokesman.com/Mbks-ok6lFVSeisoh_gWAwjzJ8A=/300x0/smart/media.spokesman.com/photos/2026/11/27/6b0a7f9793c23.preview.jpg\" /></p><p>Three takeaways at the buzzer from No. 22 Gonzaga’s 97-89 overtime loss to Creighton on Friday at T-Mobile Arena in Las Vegas.</p><h3>GU’s offense goes cold in crunch time</h3><p>Gonzaga had perhaps its best stretch offensively with a 23-9 run that wiped out a six-point deficit and put Gonzaga in command, 79-71, with 3:51 remaining.</p><p>But the Zags’ offense sputtered mightily the rest of the way, missing their last three shots in regulation, all taken by sophomore wing Davis Fogle, and committing two turnovers as Creighton scored eight consecutive points to tie it at 79.</p><p>Xaivian Lee made two free throws to put Gonzaga in front but Austin Swartz answered with a basket, sending the game to overtime.</p><p>It was more of the same for GU in the extra session. Gonzaga misfired on its first four field-goal attempts and was just 2 of 4 at the free-throw line.</p><p>GU trailed 91-83 when Fogle connected on a 3-pointer, the team’s first field goal in more than eight minutes. Creighton iced the win by hitting 6 of 6 free throws in the last 30 seconds. Gonzaga was 2 of 9 from the field in overtime.</p><h3>Wiggins stays hot</h3><p>Chauncey Wiggins followed up his best game as a Zag with another quality performance.</p><p>Wiggins, who hit five 3-pointers and scored 19 points to lift Gonzaga past Baylor on Thursday, had a big second half with 12 points and a pair of 3-pointers. Many of his points coincided with GU’s rally to take the lead.</p><p>The 6-foot-11 forward finished with four 3-pointers and 22 points. He also hit all four of his free throw attempts on a night when the Zags made just 63.3% at the stripe.</p><p>Wiggins came off the bench to play 34 minutes after logging 21 and 23 minutes in GU’s first two tournament wins.</p><h3>De Sousa sparks offense</h3><p>Point guard Nathan De Sousa continues to provide quality minutes coming off Gonzaga’s bench.</p><p>The French native was instrumental in Gonzaga’s second-half surge before he fouled out with 3:33 remaining. He exited with GU holding a 79-71 advantage.</p><p>De Sousa hit a big 3-pointer to trim Creighton’s lead to 53-48. The 6-3 guard rattled off four assists in a 2-minute, 30-second span, then hit a pair of free throws and another 3 as Gonzaga built an eight-point lead.</p><p>De Sousa had eight points and four assists in the second half and finished with 11 points, seven assists and three rebounds.</p><p>De Sousa saw extended time with starting point guard Xaivian Lee picking up two early fouls. Lee finished with four points, all on free throws, and four assists in 23 minutes.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "f7f28b1096987931",
         "sport": "all",
         "medium": "text"
       },
@@ -3395,34 +3436,6 @@
         "medium": "text"
       },
       {
-        "title": "Montana State coach Matt Logie 'eternally grateful' for transformative years at Whitworth",
-        "link": "http://www.spokesman.com/stories/2026/nov/16/montana-state-coach-matt-logie-eternally-grateful-/",
-        "link_kind": "item",
-        "date": "2026-11-16T00:00:00+00:00",
-        "summary": "<p>In the mid-2010s, as Mark Few and Gonzaga continued to stack 25-win seasons, claim conference championships and punch annual tickets to the NCAA Tournament, another college basketball program in Spokane was starting to outgrow its trophy case.</p><p>Division III Whitworth and 31-year-old coach Matt Logie were checking many of the same boxes Few and the Zags were, albeit without the national attention and spotlight their neighbors 6 miles down the road attracted.</p><p>The Pirates pocketed 26 wins during Logie’s first season, followed by another 26-win campaign in 2012-13. Whitworth didn’t miss the NCAA Division III Tournament during Logie’s first seven seasons, compiled a Northwest Conference record of 112-16 that rivaled Gonzaga’s West Coast Conference mark during that time and secured the No. 1 ranking in the country.</p><p>Logie reflected on the transformative eight-year Whitworth run Monday afternoon from a hotel room at the Davenport Grand, where the fourth-year coach and his Montana State team are staying before Tuesday’s 8 p.m. (CBSSN) nonconference matchup against Gonzaga at McCarthey Athletic Center.</p><p>“Whitworth is such a special place and was the first school to believe in me as a head coach and leader of a basketball family,” Logie said. “The ethos and the culture kind of core values of our basketball programs continuing on to Point Loma and now at Montana State really all started at Whitworth.</p><p>“I’m eternally grateful for the administrations there and the community. My kids grew up in that gym more or less for eight years and it was really just a formative time for our family and for my own coaching journey.”</p><p>The perennial college hoops powerhouse Logie’s Montana State team will match up with on Tuesday was also pivotal to the journey.</p><p>Logie, a native of Mercer Island, Washington, frequented Gonzaga practices and made the effort to catch home games at the Kennel when schedules didn’t overlap. Whitworth coaches attended Gonzaga team camps to network with Few’s coaching staff and evaluate potential recruits. Logie always remembers Gonzaga’s door being open to his staff and the mutual respect between two Spokane-based programs.</p><p>“The Gonzaga program was always great to us during my time at Whitworth, whether that was watching practices in the fall,” Logie said. “Coach Few was always respectful of the success our program at Whitworth was having at the time and I don’t think there’s a program I have studied more or have more respect for at Gonzaga being down the street from them for those eight years and the way they just kind of opened their program to our staff to learn and grow and come to team camps and evaluate players for recruiting. It was a very cool opportunity for a young coach at that time.”</p><p>Logie gets one guaranteed trip back to the Spokane area every season when the Bobcats visit Big Sky rival Eastern Washington, but he usually fits in one or two more with in-laws who still live in the area.</p><p>The 46-year-old coach still has a number of friends in the region, including Gonzaga women’s coach Lisa Fortier, who lived in a house behind Logie’s while the Whitworth coach was in Spokane. Logie’s children, Addy and Luke, are still friends with Fortier’s kids.</p><p>“Spokane’s been just a really special home base for our family,” Logie said.</p><p>Logie, who also spent two seasons at San Diego-based Division II program Point Loma, is 328-110 as a head coach. According to his bio on Montana State’s athletics website, Logie is believed to be just the second coach in men’s college basketball history to take a team to the NCAA Tournament at all three levels (DI, DII and DIII).</p><p>If the Big Sky race plays out the way preseason coaches and media polls project, Logie will be returning to March Madness with Montana State next spring. After leading the Bobcats to a Big Sky Tournament title and NCAA First Four appearance in 2024, Logie reportedly turned down a job offer at Washington State to stick with the Bobcats.</p><p>This season, he lined up a demanding nonconference schedule featuring three road tests against teams that won games in the 2026 NCAA Tournament to help the Bobcats prepare for what they could see in March.</p><p>“If we’re fortunate to get to the NCAA Tournament, we’re probably going to be somewhere between a 13 and 16 seed depending on how the seasons go and how you get there,” said Logie, who was an assistant at Lehigh when the CJ McCollum-led Mountain Hawks upset Duke in the 2012 NCAA Tournament. “So not having your first exposure to the type of programs that land as one, two, three and four seeds is really beneficial if you’re lucky enough to get there at the end of the deal.”</p><p>Logie worked with Gonzaga assistant R-Jay Barsh, someone he knew from working NBC Camps in Spokane during his Whitworth tenure, to get Tuesday’s game on the schedule. It will be the 50th meeting all time between teams that used to play regularly in the Big Sky, but the first meeting since 1997.</p><p>Logie provided a scouting report of what to expect from the 22nd-ranked Zags, and from the Kennel, late Tuesday night.</p><p>“With the type of explosiveness they have in transition,” Logie said, “you always have to really take care of the basketball and kind of avoid those pick-six turnovers that lead to run-outs and dunk and the Kennel crazies jumping on the snowball, so to speak.”</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "1c3cfae0c56e7023",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "Balanced Montana State attack led by trio of veteran returners | Key matchup",
-        "link": "http://www.spokesman.com/stories/2026/nov/16/balanced-montana-state-attack-led-by-trio-of-veter/",
-        "link_kind": "item",
-        "date": "2026-11-16T00:00:00+00:00",
-        "summary": "<p>Gonzaga may not be able to pinpoint a single matchup when Montana State rolls into town for Tuesday night’s contest at McCarthey Athletic Center.</p><p>In many ways, that’s part of the vision and strategy for fourth-year coach Matt Logie, who brings back a talented, experienced roster that received seven of the 11 first-place votes in the Big Sky preseason coaches poll and 19 of the 32 first-place votes from media members.</p><p>How’s this for balance and symmetry? Montana State’s top two scorers, guard Jeremiah Davis and forward Christian King, not only average the same scoring number (13.8 points), but they’re also in lockstep when it comes to rebounding (4.5) and assists (1.8).</p><p>Both are worthy candidates for Tuesday’s key matchup, but it would be difficult to exclude point guard Jed Miller, the only returning All-Big Sky First Team performer on Logie’s roster and the lone Montana State player to show up on the Preseason All-Conference team.</p><p>“I think that’s part of the secret sauce to our group is we’re not designed around one or two players,” said Logie, who coached at Whitworth from 2011-19. “We’re a very equal opportunity, free-flowing group that enjoys sharing the basketball. Jeremiah and Christian have both really picked up where they left off last season in terms of their own personal growth and development as both scorers and leaders in our program.</p><p>“Obviously Jed Miller is the face most people know as the returning first team all-conference point guard and somebody we have tremendous confidence and experience competing with.”</p><p>It should be a good test for Gonzaga on the perimeter three days after the Bulldogs consistently left LSU’s shooters open, allowing the Tigers to make 8 of 14 from behind the arc in the second half and win the game on Donovan Dent’s stepback 3-pointer in the closing seconds.</p><p>Davis, King and Miller take 16 combined 3-pointers per game. Davis leads the group in 3-point percentage (46.7), followed by King (38.5) and Miller (35.6).</p><p>King, senior from Seattle whose father Rich was selected No. 14 overall by the NBA’s Seattle SuperSonics in 1991, spent two seasons at Washington before transferring to Montana State. He led the Bobcats with 18 points in 26 minutes during a 77-52 win over Cal Poly on Sunday.</p><p>A native of Compton, Davis was a Big Sky All-Defensive selection for Montana State after becoming a full-time starter as a redshirt junior. He’s been the team’s leading scorer in three of four games to this point.</p><p>Miller has appeared in 106 games for the Bobcats over five seasons. The Aguora Hills, California, product averaged 14.9 ppg, 5.7 rpg and 2.9 apg in 2025-26.</p><p>Regardless of how the Zags play it, they should have the size advantage at every position in Tuesday’s matchup. The 6-2 Miller will likely start on 6-4 Xaivian Lee with 6-7 Davis Fogle handling the 6-4 Davis and 6-10 Braden Huff starting on the 6-8 King.</p>",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Spokesman-Review",
-        "id": "dc3516d41e5fa0a2",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "LSU Uses Last Second Shot to Beat Gonzaga, 81-80",
         "link": "https://gozags.com/news/2026/11/14/mens-basketball-lsu-uses-last-second-shot-to-beat-gonzaga-81-80",
         "link_kind": "item",
@@ -3490,20 +3503,6 @@
         "source": "House of Krause",
         "id": "b0d3c3a616be57d2",
         "sport": "all",
-        "medium": "text"
-      },
-      {
-        "title": "MBB Faces LSU in Bad Boy Mowers Series",
-        "link": "https://gozags.com/news/2026/11/11/mens-basketball-mbb-faces-lsu-in-bad-boy-mowers-series",
-        "link_kind": "item",
-        "date": "2026-11-11T20:08:00+00:00",
-        "summary": "<img alt=\"NCAA Basketball: New Mexico State at Gonzaga\" src=\"https://gozags.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/img_tag_reuters.com_2026_newsml_MT1USATODAY30304448_1996765865_RMC2A.jpg\" /><br /><br />SPOKANE, Wash. – Gonzaga and LSU meet in the Bad Boy Mowers Series in the Numerica Veterans Arena Saturday at 12:30 p.m.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Gonzaga Athletics",
-        "id": "cee75b0d76336930",
-        "sport": "mbb",
         "medium": "text"
       },
       {
@@ -3704,6 +3703,34 @@
       }
     ],
     "Oregon State": [
+      {
+        "title": "What time, TV channel is Oregon State vs. Fresno State today? Odds, streaming, how to watch",
+        "link": "https://www.oregonlive.com/beavers/2026/11/what-time-tv-channel-is-oregon-state-vs-fresno-state-today-odds-streaming-how-to-watch.html",
+        "link_kind": "item",
+        "date": "2026-11-28T14:00:00+00:00",
+        "summary": "How to watch tonight's game between Oregon State and Fresno State.",
+        "author": "James Crepea",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Oregonian",
+        "id": "96260afb32c1d4f3",
+        "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "Football Gameday: Beavers Close Out The Regular Season With A Rematch in Fresno",
+        "link": "https://osubeavers.com/news/2026/11/28/football-gameday-beavers-close-out-the-regular-season-with-a-rematch-in-fresno",
+        "link_kind": "item",
+        "date": "2026-11-28T10:12:00+00:00",
+        "summary": "<img alt=\"Fresno State Gameday 2\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/gameday_fresno_state_2.png\" /><br /><br />",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Oregon State Athletics",
+        "id": "9d5948a087e01d98",
+        "sport": "football",
+        "medium": "text"
+      },
       {
         "title": "Beavers Return Home to Take on Panthers",
         "link": "https://osubeavers.com/news/2026/11/27/mens-basketball-beavers-return-home-to-take-on-panthers",
@@ -4419,20 +4446,6 @@
         "medium": "text"
       },
       {
-        "title": "What time, TV channel is Oregon State vs. Utah State today? Odds, streaming, how to watch",
-        "link": "https://www.oregonlive.com/beavers/2026/11/what-time-tv-channel-is-oregon-state-vs-utah-state-today-odds-streaming-how-to-watch.html",
-        "link_kind": "item",
-        "date": "2026-11-21T14:00:00+00:00",
-        "summary": "Oregon State (5-5, 3-3 Pac-12) hosts Utah State (4-6, 3-3) at Reser Stadium, with details on TV, streaming, and betting odds available.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "48d8556b27fd87b0",
-        "sport": "all",
-        "medium": "text"
-      },
-      {
         "title": "Football Gameday: OSU Hosts Utah State On Senior Night",
         "link": "https://osubeavers.com/news/2026/11/21/football-gameday-osu-hosts-utah-state-on-senior-night",
         "link_kind": "item",
@@ -4444,20 +4457,6 @@
         "source": "Oregon State Athletics",
         "id": "6544f85e8a987bf7",
         "sport": "football",
-        "medium": "text"
-      },
-      {
-        "title": "Oregon State running back downgraded to questionable vs. Utah State",
-        "link": "https://www.oregonlive.com/beavers/2026/11/oregon-state-running-back-downgraded-to-questionable-vs-utah-state.html",
-        "link_kind": "item",
-        "date": "2026-11-21T04:56:12+00:00",
-        "summary": "Oregon State may be without one of its top two running backs against Utah State.",
-        "author": "James Crepea",
-        "duration": null,
-        "channel_url": "",
-        "source": "The Oregonian",
-        "id": "595f96b89032db40",
-        "sport": "all",
         "medium": "text"
       },
       {
@@ -4600,20 +4599,6 @@
         "source": "Oregon State Athletics",
         "id": "22f10e23f6e2a618",
         "sport": "mbb",
-        "medium": "text"
-      },
-      {
-        "title": "Utah State Game Preview: Hear From Shephard, Dahlen And MacIntyre",
-        "link": "https://osubeavers.com/news/2026/11/16/football-utah-state-game-preview-hear-from-shephard-dahlen-and-macintyre",
-        "link_kind": "item",
-        "date": "2026-11-16T20:41:00+00:00",
-        "summary": "<img alt=\"Nov. 16, 2026 Presser\" src=\"https://osubeavers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/16/261116_presser.png\" /><br /><br />CORVALLIS, Ore. - The Beavers return home for senior day Saturday when Oregon State takes on Utah State. Kickoff is scheduled for 7:30 p.m. PT.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Oregon State Athletics",
-        "id": "2c2bb79d1ab8920d",
-        "sport": "football",
         "medium": "text"
       },
       {
@@ -6514,6 +6499,20 @@
     ],
     "Texas State": [
       {
+        "title": "Texas State Matches Best Start in Program History With 57-49 Win Over Bradley",
+        "link": "https://txst.com/news/2026/11/27/womens-basketball-texas-state-matches-best-start-in-program-history-with-57-49-win-over-bradley.aspx",
+        "link_kind": "item",
+        "date": "2026-11-28T03:58:00+00:00",
+        "summary": "<img alt=\"Saniya Burks Drives to the Basket\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/27/261127_WBB_VS_BRAD_INGAME_AC-14.jpg\" /><br /><br />SAN MARCOS, Texas – Texas State Women's Basketball matched its best start in program history on Friday with a 57-49 win over Bradley inside Strahan Arena.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Texas State Athletics",
+        "id": "c173cd0930c46178",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Strong second half effort pushes Texas State to victory against Louisiana Tech",
         "link": "https://universitystar.com/37299/sports/strong-second-half-effort-pushes-texas-state-to-victory-against-louisiana-tech/",
         "link_kind": "item",
@@ -7004,20 +7003,6 @@
         "medium": "text"
       },
       {
-        "title": "Texas State Hosts Texas A&M-Corpus Christi for Annual Kids Game",
-        "link": "https://txst.com/news/2026/11/12/womens-basketball-texas-state-hosts-texas-am-corpus-christi-for-annual-kids-game.aspx",
-        "link_kind": "item",
-        "date": "2026-11-12T21:40:00+00:00",
-        "summary": "<img alt=\"Lay Fantroy Going for Layup\" src=\"https://txst.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/12/IMG_4879.jpg\" /><br /><br />SAN MARCOS, Texas – After an impressive 2-0 start that featured a total of 175 points across the two games, Texas State Women's Basketball returns home for an early afternoon game against Texas A&M-Corpus Christi.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Texas State Athletics",
-        "id": "883ea43faa55af19",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "Game Preview: TXST vs Fresno State",
         "link": "https://txst.com/news/2026/11/12/football-game-preview-txst-vs-fresno-state.aspx",
         "link_kind": "item",
@@ -7047,6 +7032,20 @@
       }
     ],
     "Utah State": [
+      {
+        "title": "Aggies Come Through in the Clutch for 59-51 Win Over Wyoming",
+        "link": "https://utahstateaggies.com/news/2026/11/27/womens-basketball-aggies-come-through-in-the-clutch-for-59-51-win-over-wyoming.aspx",
+        "link_kind": "item",
+        "date": "2026-11-28T03:38:00+00:00",
+        "summary": "<img alt=\"Players on the bench for Utah State women's basketball celebrate after a play during the team's 59-51 neutral-site win over Wyoming\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/27/ZotGiving_Classic_Wyoming_vs_Utah_State-089_BmDe0.jpg\" /><br /><br />IRVINE, California – Whenever they needed it, Utah State women's basketball came through with a run.",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Utah State Athletics",
+        "id": "96cb4fb06c901092",
+        "sport": "wbb",
+        "medium": "text"
+      },
       {
         "title": "Aggies Travel to Albuquerque for Road Test Against New Mexico",
         "link": "https://utahstateaggies.com/news/2026/11/27/mens-basketball-aggies-travel-to-albuquerque-for-road-test-against-new-mexico.aspx",
@@ -7567,20 +7566,6 @@
         "medium": "text"
       },
       {
-        "title": "Women’s Basketball Falls to LMU 70-45",
-        "link": "https://utahstateaggies.com/news/2026/11/6/womens-basketball-womens-basketball-falls-to-lmu-70-45.aspx",
-        "link_kind": "item",
-        "date": "2026-11-06T23:59:00+00:00",
-        "summary": "<img alt=\"Utah State women's basketball guard Lisa Thompson drives into the LMU defense\" src=\"https://utahstateaggies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/6/DSC06710.jpg\" /><br /><br />LOGAN, Utah – Utah State women's basketball lost to LMU 70-45 on Friday afternoon at the Dee Glen Smith Spectrum.",
-        "author": "",
-        "duration": null,
-        "channel_url": "",
-        "source": "Utah State Athletics",
-        "id": "16f79b440e4f6fb7",
-        "sport": "wbb",
-        "medium": "text"
-      },
-      {
         "title": "USU basketball starts season win revenge win over Idaho State on behalf of football",
         "link": "https://podcasters.spotify.com/pod/show/the-scotsman-show/episodes/USU-basketball-starts-season-win-revenge-win-over-Idaho-State-on-behalf-of-football-e3rptjq",
         "link_kind": "item",
@@ -7684,6 +7669,20 @@
         "medium": "text"
       },
       {
+        "title": "Women’s Basketball Wraps Up Cancun Challenge with Overtime Battle",
+        "link": "https://wsucougars.com/news/2026/11/27/womens-basketball-wraps-up-cancun-challenge-with-overtime-battle",
+        "link_kind": "item",
+        "date": "2026-11-27T23:53:07+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "223f146a647aa366",
+        "sport": "wbb",
+        "medium": "text"
+      },
+      {
         "title": "Cougars Show Fight in Cancun Loss to Kansas",
         "link": "https://wsucougars.com/news/2026/11/26/cougars-show-fight-in-cancun-loss-to-kansas",
         "link_kind": "item",
@@ -7730,7 +7729,7 @@
         "link": "http://www.spokesman.com/stories/2026/nov/27/in-season-finale-wsu-looks-to-send-out-12-seniors-/",
         "link_kind": "item",
         "date": "2026-11-27T00:00:00+00:00",
-        "summary": "<p>PULLMAN – In the final few weeks of this season, when it started to become clear that Washington State would not be playing in a bowl game this fall, the topic of motivation began to surface.</p><p>What keeps players fired up to keep going? What is there left to play for?</p><p>“Playing for the guys, playing for the seniors,” defensive end Matyus McLain said last month. “This is their last four games ever, could be ever.”</p><p>“I would say just finish for our seniors,” linebacker Isaiah Hung said last week. “They’ve been there for us.”</p><p>“It’s our last opportunity, and we’re going to make the most out of it,” wide receiver Branden Ganashamoorthy said around the same time, “especially for our seniors.”</p><p>WSU will have one chance to send its seniors out on the right note, a home matchup with San Diego State on Saturday afternoon, set for 3:30 p.m. on the CW. It’s the season finale for the Cougars, who are taking on the Aztecs for a second time this season as part of the Pac-12’s new flex week, an invention to position its best team for the College Football Playoff.</p><p>This fall, that team won’t be WSU, which has picked up just two wins. But if you ask them, the Cougars remain motivated to end things the right way, especially for the 12 graduating seniors that will be honored before kickoff.</p><p>Here is the full list: Linebacker Keith Brown, cornerback Kai Rapolla, wide receiver Darrius Clemons, cornerbacks Khamari Terrell and Jalil Tucker, tight ends Jack Pedersen and Hudson Cedarland, defensive end Linus Zunk, offensive linemen Jonny Lester and Max McCree and defensive tackles Paul Hutson III and Jack Procter.</p><p>The list doesn’t include a few notable names, including veteran wide receiver Tony Freeman, who has been out almost the entire season with a torn ACL. He’s expected to get another year of eligibility, coach Kirby Moore said at the beginning of the week, and that possibility extends to two other seniors: Offensive lineman Jaylin Caldwell, wideout Daniel Blood and defensive tackle Damarjhe Lewis.</p><p>Will those three return to play their final years at WSU next fall? That will be a critical storyline for the Cougars, who will need to make the right moves this winter to avoid another season like this 2-9 (1-6 Pac-12) campaign. There will be no small measure of pressure on Moore, especially in this current college football ecosystem, in which teams like WSU no longer get years to rebuild after slow seasons.</p><!--[embed id=12537]--><p>This year, WSU is missing a bowl game for just the second time in the program’s last 11 full seasons, a remarkable run for a program that has endured a remarkable amount of change in the last three years. Last year, the Cougars clinched bowl eligibility in their final regular-season game. This season, WSU won’t have much to play for beyond pride and a drive to give its seniors one final fond memory of playing in the crimson and gray laundry.</p><p>Can the Cougs pull it off? This game brings a rare dynamic: San Diego State (6-5, 5-2) has already clinched a spot in next weekend’s Pac-12 championship game, a second trip to Boise State in three games. For that reason, the Aztecs could have reasons to rest key players and stay fresh for their rematch with the Broncos.</p><p>But earlier this week, SDSU coach Sean Lewis indicated the team won’t be taking that approach.</p><p>“Nope,” Lewis said, according to the San Diego Union-Tribune. “You play to win the games. We have great momentum in our sails right now. … There’s a big difference between 7-5 and 6-6. 6-6 sure feels like you’re kissing your sister a little bit, so we’re going to go play it to win it.”</p><p>Lewis has a point: Even if the Aztecs win the conference title game, they won’t be headed to the College Football Playoff. So with two more wins, they could position themselves for an even better bowl game. Translation: It sounds like WSU will be getting an SDSU squad ready to play in earnest Saturday afternoon in Pullman.</p><p>How can WSU reverse its fortunes from the teams’ first clash, a 26-20 SDSU win on Halloween night in San Diego? For one, the Cougars will have to tackle a bit better, particularly in the secondary. In the first meeting, the visitors whiffed on 10 tackles, including two costly misses in the red zone that the Aztecs turned into rushing touchdowns.</p><p>The Cougs’ offense also failed to cash in against an Aztec defense that ranked among the nation’s worst in several departments at the time, but it’s important to note that in the games since, SDSU’s defense has looked much sharper. In a win over Utah State, the Aztecs allowed just 13 points, and in their stunning road victory over Boise State, they yielded just 20 – including holding the Broncos’ star running back tandem, Dylan Riley and Sire Gaines, to just 86 combined yards.</p><p>That will mean a real challenge for WSU, which is coming off a 42-14 road loss to Texas State last weekend. In that one, the Cougars took an early lead thanks to a spotless opening scoring drive, making things interesting. But the Bobcats followed with six unanswered touchdowns, and combined with the two kicks WSU had blocked, the hosts ran away with a comfortable win.</p><p>In short, the Cougs’ special teams units will have to be far better. And their offense will have to be sharper and less prone to mistakes, lest they spoil the kind of 299-yard passing outing that quarterback Owen Eshelman enjoyed a few weeks ago in San Diego.</p><!--[embed id=12538]--><p>“I think there’s plenty of guys that, we have our seniors, that this will be the last time they step on a football field,” Eshelman said. “Leaving their football memory with something positive and something to be excited about and thankful for motivates me a lot.”</p>",
+        "summary": "<p>PULLMAN – In the final few weeks of this season, when it started to become clear that Washington State would not be playing in a bowl game this fall, the topic of motivation began to surface.</p><p>What keeps players fired up to keep going? What is there left to play for?</p><p>“Playing for the guys, playing for the seniors,” defensive end Matyus McLain said last month. “This is their last four games ever, could be ever.”</p><p>“I would say just finish for our seniors,” linebacker Isaiah Hung said last week. “They’ve been there for us.”</p><p>“It’s our last opportunity, and we’re going to make the most out of it,” wide receiver Branden Ganashamoorthy said around the same time, “especially for our seniors.”</p><p>WSU will have one chance to send its seniors out on the right note, a home matchup with San Diego State on Saturday afternoon, set for 3:30 p.m. on the CW. It’s the season finale for the Cougars, who are taking on the Aztecs for a second time this season as part of the Pac-12’s new flex week, an invention to position its best team for the College Football Playoff.</p><p>This fall, that team won’t be WSU, which has picked up just two wins. But if you ask them, the Cougars remain motivated to end things the right way, especially for the 12 graduating seniors that will be honored before kickoff.</p><p>Here is the full list: Linebacker Keith Brown, cornerback Kai Rapolla, wide receiver Darrius Clemons, cornerbacks Khamari Terrell and Jalil Tucker, tight ends Jack Pedersen and Hudson Cedarland, defensive end Linus Zunk, offensive linemen Jonny Lester and Max McCree and defensive tackles Paul Hutson III and Jack Procter.</p><p>The list doesn’t include a few notable names, including veteran wide receiver Tony Freeman, who has been out almost the entire season with a torn ACL. He’s expected to  gain another year of eligibility, coach Kirby Moore said at the beginning of the week, and that possibility extends to  other seniors: Offensive lineman Jaylin Caldwell, wideout Daniel Blood and defensive tackle Damarjhe Lewis.</p><p>Will those three return to play their final years at WSU next fall? That will be a critical storyline for the Cougars, who will need to make the right moves this winter to avoid another season like this 2-9 (1-6 Pac-12) campaign. There will be no small measure of pressure on Moore, especially in this current college football ecosystem, in which teams like WSU no longer get years to rebuild after slow seasons.</p><!--[embed id=12537]--><p>This year, WSU is missing a bowl game for just the second time in the program’s last 11 full seasons, a remarkable run for a program that has endured a  significant amount of change in the last three years. Last season, the Cougars clinched bowl eligibility in their final game. This season, WSU won’t have much to play for beyond pride and a drive to give its seniors one final fond memory of playing in the crimson and gray laundry.</p><p>Saturday’s game brings a rare dynamic because San Diego State (6-5, 5-2) has already clinched a spot in next weekend’s Pac-12 championship game, which will be a second trip to Boise State in three games. Therefore, the Aztecs could have reasons to rest key players and stay fresh for their rematch with the Broncos.</p><p>But earlier this week, SDSU coach Sean Lewis indicated the team won’t be taking that approach.</p><p>“Nope,” Lewis  told the San Diego Union-Tribune. “You play to win the games. We have great momentum in our sails right now. … There’s a big difference between 7-5 and 6-6. 6-6 sure feels like you’re kissing your sister a little bit, so we’re going to go play it to win it.”</p><p>Lewis has a point: Even if the Aztecs win the conference title game, they won’t be headed to the College Football Playoff. So with two more wins, they could position themselves for an even better bowl game. Translation: It sounds like WSU will be getting an SDSU squad ready to play in earnest Saturday afternoon in Pullman.</p><p>That means a chance at redemption after a 26-20 loss in their first meeting this season against the Aztecs in October. If WSU wants to avenge itself, the Cougars will have to tackle better, particularly in the secondary. In the first meeting, Washington State whiffed on 10 tackles, including two costly misses in the red zone that San Diego translated into rushing touchdowns.</p><p>The Cougs’ offense also failed to cash in against an Aztec defense that ranked among the nation’s worst in several departments at the time, but it’s important to note that in the games since, SDSU’s defense has looked much sharper. In a win over Utah State, the Aztecs allowed just 13 points, and in their stunning road victory over Boise State, they yielded just 20 – including holding the Broncos’ star running back tandem, Dylan Riley and Sire Gaines, to only 86 combined yards.</p><p>That will mean a real challenge for WSU, which is coming off a 42-14 road loss to Texas State last weekend. In that one, the Cougars took an early lead thanks to a spotless opening scoring drive, making things interesting. But the Bobcats followed with six unanswered touchdowns, and combined with the two kicks WSU had blocked, the hosts ran away with a comfortable win.</p><p>In short, the Cougs’ special teams units will have to be far better. And their offense will have to be sharper and less prone to mistakes, lest they spoil the kind of 299-yard passing outing that quarterback Owen Eshelman enjoyed a few weeks ago in San Diego.</p><!--[embed id=12538]--><p>“I think there’s plenty of guys that, we have our seniors, that this will be the last time they step on a football field,” Eshelman said. “Leaving their football memory with something positive and something to be excited about and thankful for motivates me a lot.”</p>",
         "author": "",
         "duration": null,
         "channel_url": "",
@@ -7751,6 +7750,20 @@
         "source": "The Spokesman-Review",
         "id": "b389864098e52df9",
         "sport": "football",
+        "medium": "text"
+      },
+      {
+        "title": "Washington State hunkers down on defense, grinds out 68-61 win over Idaho",
+        "link": "http://www.spokesman.com/stories/2026/nov/27/washington-state-hunkers-down-on-defense-grinds-ou/",
+        "link_kind": "item",
+        "date": "2026-11-27T00:00:00+00:00",
+        "summary": "<p>PULLMAN – No matter where David Riley goes, he can’t avoid the one question that has followed around each of his first two Washington State teams.</p><p>Will they play defense this year?</p><p>In the two-plus years Riley has spent at WSU, that theme has followed him around like a fly on the wall, a constant as he enters his third campaign. His first two teams finished in the nation’s bottom 200 in defensive effective field goal percentage. Would his third be any different?</p><p>It’s possible that even with a 69-61 win over Idaho on Friday night, Riley and the Cougars still need to win over a large share of their detractors, but there was no denying the defense they played to secure their second straight win. WSU held Idaho to just 34% shooting from the field, including just 43% from inside the arc, and forced 15 turnovers, moving to 4-4 on the season.</p><p>“I thought it was a win that we just gutted out,” said Riley, whose team has now won four of its last five games, the one loss a close setback to powerhouse Duke. “I’ve been talking to this team a lot about winning games in the paint, and I thought we definitely did that. There’s gonna be three or four games all year where they’re won at the 3-point line, and I thought today was one of those days where we weren’t shooting it well. We didn’t settle.”</p><p>It’s still early, but there seems to be a different gear of toughness to this WSU team, which got 20 points from wing Ronnie Harrison and 14 from guard Lazerek Houston in this win. Harrison drew nine fouls, sank 11 of 13 free throws and pulled down 13 rebounds. And as a team, the Cougars connected on 23 of 29 free throws, making the most of being in the bonus for the final nine minutes of the game.</p><p>To close things out, WSU had to slow things down. In the last two minutes, the Cougars got a 2-for-2 trip at the free throw line from Harrison, widening their lead to 64-58. And moments later, Harrison returned to the free throw line and sank 1 of 2, good for a 65-58 lead with a little more than a minute to play.</p><p>The Cougars also had to slow down guard Kase Wynott, who spent the previous two years at WSU before transferring to Idaho in the spring. Mired in injuries and scarce playing time across his two seasons as a Cougar, Wynott entered the portal and became a Vandal. He entered Friday’s game averaging  17 points and nearly 5 assists per game, shooting an even 50% from the floor and a shade under 40% from beyond the arc.</p><p>He delivered some of his best work to his former team, supplying a career-high 26 points on 8-for-13 shooting, including a wing triple in the second half to give the Vandals a 45-44 lead. Late in the game, he also converted on a turnaround jumper to trim the Cougars’ lead to 62-58.</p><p>In the second half, both teams had a hard time adjusting to the flow of the game, which vanished thanks to a barrage of fouls. The Cougars spent the final 9½ minutes of the game in the bonus while the Vandals spent the final 8 minutes in the bonus. Without chances to establish a rhythm, things adopted a stop-again start-again feel.</p><p>The Cougs had few issues navigating that slower dynamic, which gave the Vandals a real chance at storming back. They took the lead on several occasions, including with about five minutes left, when they went up 53-52. But the Cougars countered with six straight points, battling back from the kinds of storms that knocked out Riley’s first two teams.</p><p>In fact, that’s been something of a constant for this WSU team recently. In the Cougars’ win over Hawaii last week, they saw their double-digit lead whittled to six in the second half, and still hung on. They had to eke out a close win over Sam Houston State earlier in the week, a game replete with chances to wilt. And now against Idaho, they saw the Vandals take the lead several times, only to come storming back.</p><p>“I thought we settled down late in the second half,” Riley said. “We knew that we wanted to get the ball to Ronnie in the post, and we actually moved it around and got him the rock. And that’s where he was able to get to the rim. He didn’t settle, and that’s where he’s really effective. I challenged him before the game – he’s gotta offensive rebound. He’s gotta play with a little more force. He can’t wait till the second half to turn it on, and for him to come out and have 20 and 13 is really impressive.”</p><p>“Just just being together every day as a team, we come in every day and we have a mindset just to get better,” Harrison added. “And we go through practice and we practice just huddling up after every play, picking up a teammate and it showed tonight.”</p><p>WSU played its defense, particularly in the first half when the Cougars flew around, switched and polished off possessions with rebounds. The Vandals didn’t convert their first 2-pointer until three minutes into the game. At one point, they went more than 13 minutes without a field goal, succumbing to the Cougs’ hellacious defense.</p><p>In the final moments of the first half, the Vandals made a push, drawing to within four at halftime. That’s about where it stayed for most of the second half. Do these Cougars have another layer of grit that the past couple groups didn’t? It appears so, but with a road game against Murray State set for Monday and another road test against Southern Illinois on Thursday, they’ll have to prove it again.</p>",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "The Spokesman-Review",
+        "id": "1f4a1d10cb284971",
+        "sport": "all",
         "medium": "text"
       },
       {
@@ -7779,6 +7792,20 @@
         "source": "The Daily Evergreen",
         "id": "a47bcab73ac4c2e7",
         "sport": "all",
+        "medium": "text"
+      },
+      {
+        "title": "WSU and Idaho Renew One of the Nation's Most Played Rivalries",
+        "link": "https://wsucougars.com/news/2026/11/25/cougs-and-vandals",
+        "link_kind": "item",
+        "date": "2026-11-26T01:24:31+00:00",
+        "summary": "",
+        "author": "",
+        "duration": null,
+        "channel_url": "",
+        "source": "Washington State Athletics",
+        "id": "5985dc49b42fbc8e",
+        "sport": "mbb",
         "medium": "text"
       },
       {
